@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Apli 01285 1 Schachtel selbstklebende Mehrzwecketiketten 44 Etiketten pro A4-Blatt 48 5 x 25 4 mm weiß'
+date: 2025-12-09 19:24:00
+image: 'https://m.media-amazon.com/images/I/51KGiHflVmL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B000KJKGHI-de Apli 01285 1 Schachtel selbstklebende Mehrzwecketiketten...'
+sku: 'B000KJKGHI-de'
+tags: [ 'Bücher','Bürobedarf & Schreibwaren','Büromaterial','Computer-Etiketten','Elektronik & Foto','Etiketten & Aufkleber','Etiketten, Register & Stempel','apli','🇩🇪', ]
+actualPrice: 27.75 EUR
+currency: EUR
+price: 27.75
+comparePrice: 37.75 EUR
+prodname: 'Apli 01285 1 Schachtel selbstklebende Mehrzwecketiketten 44 Etiketten pro A4-Blatt 48 5 x 25 4 mm weiß'
+country: 'de'
+flag: '🇩🇪'
+brand: 'APLI'
+buyurl: 'https://www.amazon.de/dp/B000KJKGHI/?tag=tolees0ca-21'
+descuento: '26.49'
+average: '23.595'
+---
+
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Kategorie - Schreibwaren
+- Ref - 002027
+- Marke - Apli
+
+[🛒 kauf es hier!!]({{< param buyurl >}})
+{{<world>}}B000KJKGHI{{</world>}}

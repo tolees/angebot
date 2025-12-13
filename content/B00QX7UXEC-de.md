@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Schmidt Spiele 56509 Bibi und Tina  4 Kinderpuzzle im Metallkoffer  2x100 und 2x150 Teile'
+date: 2025-11-09 00:28:46
+image: 'https://m.media-amazon.com/images/I/51UA-x-eVnL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00QX7UXEC-de Schmidt Spiele 56509 Bibi und Tina 4 Kinderpuzzle im...'
+sku: 'B00QX7UXEC-de'
+tags: [ '772277dc-cbdb-432f-a915-25a321e9ed8c_0','772277dc-cbdb-432f-a915-25a321e9ed8c_3701','772277dc-cbdb-432f-a915-25a321e9ed8c_6101','772277dc-cbdb-432f-a915-25a321e9ed8c_8001','772277dc-cbdb-432f-a915-25a321e9ed8c_8101','772277dc-cbdb-432f-a915-25a321e9ed8c_9201','Arborist Merchandising Root','CML-Toys','Educational & Creative','Klassische Puzzles','Puppen & Plüsch Spielzeug','Puzzles','Puzzles & Spiele','Self Service','Special Features Stores','Spielzeug','Spielzeugfiguren & Fahrzeuge','Top Brands in Toys','Toys All','schmidt','🇩🇪', ]
+actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
+comparePrice: 19.99 EUR
+prodname: 'Schmidt Spiele 56509 Bibi und Tina  4 Kinderpuzzle im Metallkoffer  2x100 und 2x150 Teile'
+country: 'de'
+flag: '🇩🇪'
+brand: 'Schmidt'
+buyurl: 'https://www.amazon.de/dp/B00QX7UXEC/?tag=tolees0ca-21'
+descuento: '40.02'
+average: '11.99'
+---
+
+Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Empfohlenes Alter: ab 6 Jahren
+- 2x100, 2x150 Teile Kinderpuzzle
+- Bibi & Tina, 4 Kinderpuzzle im Metallkoffer
+- Bibi und Tina, 4 Kinderpuzzle im Metallkoffer
+- 2x100, 2x150 Teile Kinderpuzzle
+- Empfohlenes Alter: ab 6 Jahren
+
+[🛒 Hier!!]({{< param buyurl >}})
+{{<world>}}B00QX7UXEC{{</world>}}

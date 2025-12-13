@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'PUMA Unisex Puma Smash v2 L Low-Top Puma White-Puma White-Peacoat-Puma Team Gold 43 EU'
+date: 2025-12-08 02:43:42
+image: 'https://m.media-amazon.com/images/I/31+bT+eYCwL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08MSRCPML-de PUMA Unisex Puma Smash v2 L Low-Top Puma White-Puma White-...'
+sku: 'B08MSRCPML-de'
+tags: [ '5c70cae9-f332-4ebd-823a-ff43ae7c92ea_0','5c70cae9-f332-4ebd-823a-ff43ae7c92ea_233602','5c70cae9-f332-4ebd-823a-ff43ae7c92ea_3601','Arborist Merchandising Root','Fashion','Herren-Sneaker','Herrenmode','Herrenschuhe','Self Service','Sneaker & Sportschuhe für Herren','Special Features Stores','Top Brands Shoes Selection','puma','🇩🇪', ]
+actualPrice: 31.8 EUR
+currency: EUR
+price: 31.8
+comparePrice: 54.95 EUR
+prodname: 'PUMA Unisex Puma Smash v2 L Low-Top Puma White-Puma White-Peacoat-Puma Team Gold 43 EU'
+country: 'de'
+flag: '🇩🇪'
+brand: 'PUMA'
+buyurl: 'https://www.amazon.de/dp/B08MSRCPML/?tag=tolees0ca-21'
+descuento: '42.13'
+average: '34.5475'
+---
+
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- zeitlose Klassiker
+- Obermaterial aus weichem Leder
+- weiterentwickelte Laufsohle mit klarem Design
+
+[🛒 kauf es hier!!]({{< param buyurl >}})
+{{<world>}}B08MSRCPML{{</world>}}
