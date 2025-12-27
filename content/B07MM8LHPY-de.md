@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit großem Tintenspeicher für extra lange Markierleistung, Sekundenschnell trocken
 - Lieferumfang: 4 ST hochwertige Textmarker, Vintage Farben
+- Mit großem Tintenspeicher für extra lange Markierleistung, Sekundenschnell trocken
 - Ideal zum Markieren von Text und Ausmalen von großen Flächen Farbe Schwarz überdeckt, Texte und Linien bleiben noch erkennbar, nach dem Kopieren unkenntlich
 - Samtweiche Keilspitze, Linienbreite ca 1- 5 mm, Schaft und Kappe aus PP garantieren lange Lebensdauer- kein Ausdampfen der Tinte
 - Hohe Qualität Made in Germany

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PLATZSPAREND & DURCHDACHT: Der icaro 7 ist zusammengeklappt nur 10 cm breit und kommt mit Schneidgut-Auffangschale, abnehmbarem Schneidgutschlitten, Restehalter sowie Sicherheits-Einschaltsystem.
-- QUALITÄT SEIT 1905: Seit unserer Gründung durften wir eine Menge Wissen sammeln. Dieses nutzen wir in der Entwicklung, um neue Technologien mit gewohnter Qualität anzubieten.
-- NACHHALTIG: Unsere Produkte verfügen über eine hohe Material- und Verarbeitungsqualität und sind darauf ausgelegt, viele Jahre zu überdauern. Falls doch mal etwas kaputtgeht, reparieren wir es gerne.
 - MADE IN GERMANY ist tief in unserer Firmen DNA eingebunden. All unsere Produkte werden hausintern in Gröbenzell bei München gezeichnet, entwickelt und hergestellt.
+- NACHHALTIG: Unsere Produkte verfügen über eine hohe Material- und Verarbeitungsqualität und sind darauf ausgelegt, viele Jahre zu überdauern. Falls doch mal etwas kaputtgeht, reparieren wir es gerne.
+- QUALITÄT SEIT 1905: Seit unserer Gründung durften wir eine Menge Wissen sammeln. Dieses nutzen wir in der Entwicklung, um neue Technologien mit gewohnter Qualität anzubieten.
+- PLATZSPAREND & DURCHDACHT: Der icaro 7 ist zusammengeklappt nur 10 cm breit und kommt mit Schneidgut-Auffangschale, abnehmbarem Schneidgutschlitten, Restehalter sowie Sicherheits-Einschaltsystem.
 - KÜCHENPROFI: Der klappbare icaro 7 eröffnet eine neue Welt an Möglichkeiten in Ihrer Küche. Egal ob Brot, Obst, Gemüse etc. - das Wellenschliffmesser schneidet stufenlos von hauchdünn bis ca. 14 mm.
 
 [🛒 Hier!!]({{< param buyurl >}})

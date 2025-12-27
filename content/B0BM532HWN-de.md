@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Better Leather
 - Farbe: Schwarz
 - Obermaterial: 100 % Rindsleder
-- Better Leather
 - Sohle: 80% TPU - 20% recyceltes TPU
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

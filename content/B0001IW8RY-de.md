@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lieferumfang: 100x Ersatz-Trapezklingen in einer Kunststoff-Box
+- Für alle Trapezklingenmesser geeignet (außer 99E - 2-10-099)
 - 50mm Klingenlänge
 - Für allgemeine Schneidearbeiten (Papier, Pappe, Leder etc.)
-- Für alle Trapezklingenmesser geeignet (außer 99E - 2-10-099)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0001IW8RY{{</world>}}

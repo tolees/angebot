@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Verlieren Sie sich in der Musik mit diesen kabellosen Ohrhörern: Mit der adaptiven aktiven Geräuschunterdrückung können Sie Ihre Umgebung ausblenden, auch bei starkem Wind.
-- Verlängerte Garantie. Erweitern Sie Ihre Garantie durch die Registrierung in der Bang & Olufsen App auf 3 Jahre.
-- Kristallklare Anrufe: Mit den Beamforming-Mikrofonen, die Hintergrundgeräusche ausblenden, werden Sie optimal gehört mit diesen kabellosen Kopfhörern.
 - Wasserdichte Earbuds: Trainieren Sie, wandern Sie abseits der Straße oder machen Sie Spaziergänge im Regen mit den nach IP57 wasserdichten Kopfhörern
 - Mitreißender Klang: Fein abgestimmte Akustik in diesen Ohrhörern für Musik, die Sie bewegt.
+- Verlängerte Garantie. Erweitern Sie Ihre Garantie durch die Registrierung in der Bang & Olufsen App auf 3 Jahre.
+- Kristallklare Anrufe: Mit den Beamforming-Mikrofonen, die Hintergrundgeräusche ausblenden, werden Sie optimal gehört mit diesen kabellosen Kopfhörern.
 - Präzise Handwerkskunst: Klare Linien und hochwertige Materialien, von Bang & Olufsen Ingenieuren gefertigt.
 
 [🛒 Hier!!]({{< param buyurl >}})

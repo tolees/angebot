@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kooperatives Spiel: Erlebe aufregende Abenteuer mit Freunden im Mehrspieler-Modus für 1-8 Spieler und entdecke gemeinsam erstaunliche Geheimnisse.
 - Erschaffe dein Reich: Baue Gärten an, erforsche geheimnisvolle Rezepte, pflege Tiere und erschaffe eine einzigartige, unterirdische Welt voller Herausforderungen.
+- Kooperatives Spiel: Erlebe aufregende Abenteuer mit Freunden im Mehrspieler-Modus für 1-8 Spieler und entdecke gemeinsam erstaunliche Geheimnisse.
 - Innovatives Crafting: Sammle Rohstoffe und Relikte, um fortschrittliche Werkzeuge zu entwickeln und deine Basis in einer dynamischen, sich entwickelnden Welt zu errichten.
 - Epische Kämpfe: Verbessere deine Fähigkeiten, um mächtige Titanen zu besiegen und die versteckte Macht des Kerns zu enthüllen.
 - Erkunde dynamische Welten: Entdecke eine vergessene Höhle voller Geheimnisse und erkunde eine sich wandelnde Umgebung mit Relikten und Rohstoffen.

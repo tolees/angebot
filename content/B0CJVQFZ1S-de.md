@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verkabelt & Kabellos Bluetooth/USB Kabellänge: 3 m
-- Akku
 - Akku-/Batteriebetriebsdauer: 30 h
+- Akku
+- Verkabelt & Kabellos Bluetooth/USB Kabellänge: 3 m
 - Schwarz, Grau
 - Analog / Digital Gamepad Android, PC, Xbox One, Xbox Series S, Xbox Series X D-Pad, Menü-Taste, Schaltfläche Teilen, View button
 

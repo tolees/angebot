@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Korrekturcreme und Anti-Imperfektionen
 - Marke Beauty-Produkte
 - Marke Beauty-Produkte UREADIN
-- Korrekturcreme und Anti-Imperfektionen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00GY2MFUQ{{</world>}}

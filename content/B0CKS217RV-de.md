@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gummiaußensohle
-- Weiches Tragegefühl
-- Schnürsenkel
 - Reguläre Passform
-- Cloudfoam Comfort Einlegesohle
-- Textilfutter
 - Obermaterial aus Synthetikleder
+- Cloudfoam Comfort Einlegesohle
+- Schnürsenkel
+- Weiches Tragegefühl
+- Textilfutter
+- Gummiaußensohle
 - Besteht zu mindestens 20 % aus recycelten und erneuerbaren Materialien
 
 [🛒 Hier!!]({{< param buyurl >}})

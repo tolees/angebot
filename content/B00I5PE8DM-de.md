@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnell trocknend
-- Hohe Schlag- und Kratzfestigkeit
-- Zuverlässiger Schutz vor Rostbefall
-- Hochgradig witterungs- und UV-beständig
 - Direkt auf Rost, 3in1
+- Hohe Schlag- und Kratzfestigkeit
+- Schnell trocknend
+- Hochgradig witterungs- und UV-beständig
+- Zuverlässiger Schutz vor Rostbefall
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00I5PE8DM{{</world>}}

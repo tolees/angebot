@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Regenmesser und der Windmesser von Netatmo funktionieren nur mit der separat erhältlichen Netatmo-Wetterstation. Maximal 1 Regenmesser und 1 Windmesser pro Netatmo-Wetterstation.
-- Passen Sie die Bewässerung Ihres Gartens an die Daten Ihres Regenmessers und Ihres Windmessers von Netatmo an
 - Rufen Sie den Verlauf Ihrer Niederschlags- und Winddaten in Ihrer App auf
+- Passen Sie die Bewässerung Ihres Gartens an die Daten Ihres Regenmessers und Ihres Windmessers von Netatmo an
+- Der Regenmesser und der Windmesser von Netatmo funktionieren nur mit der separat erhältlichen Netatmo-Wetterstation. Maximal 1 Regenmesser und 1 Windmesser pro Netatmo-Wetterstation.
 - Ergänzen Sie Ihre Netatmo-Wetterstation mit dem Outdoor-Komplettpaket: Messen Sie die Niederschlagsmenge in Ihrem Garten, die Windrichtung und die Windgeschwindigkeit.
 - Erhalten Sie eine Benachrichtigung auf Ihr Smartphone, wenn es anfängt zu regnen und wenn Wind aufkommt
 

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Limitierte Auflage
 - Hier ist für jeden Fan etwas dabei!
 - Mit veredelter Verpackung und liebevoll gestalteten Karten
-- Große Auswahl an verschiedenen Disney Figuren
 - Wir feiern 100 Jahre Disney - mit unserem hochwertigem Disney Mau Mau!
+- Limitierte Auflage
+- Große Auswahl an verschiedenen Disney Figuren
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C496FCV1{{</world>}}

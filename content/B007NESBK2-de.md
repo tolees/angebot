@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Year of release: 2012
 - Country of Release: NLD
+- Year of release: 2012
 - Catalog #: 88691 977369
 - Record Label: Sony
 

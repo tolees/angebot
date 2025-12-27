@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Pflegt, repariert und stärkt das Haar, um Spliss und Haarbruch zu reduzieren.
 - Verpackung kann variieren, Rezeptur bleibt unverändert.
+- Verleiht Glanz
 - Verhindert Schäden durch raues Wetter oder Hitzestyling
 - Revitalisiert, entwirrt und verleiht dem Haar Glanz.
-- Verleiht Glanz
+- Pflegt, repariert und stärkt das Haar, um Spliss und Haarbruch zu reduzieren.
 - Pflegt trockenes, sprödes Haar reichhaltig mit tief eindringender Sheabutter und Ölen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- AUS MEXIKO: Sierra Tequila wird in der familienbetriebenen Destilería Sierra Unidas in Guadalajara in Mexiko hergestellt. Dazu werden Blaue Weber Agaven per Hand geerntet und in der Destillerie verarbeitet.
-- KOMPLEXES AROMA: Der Tequila reift bis zu 9 Monate in Bourbon-Fässern und erhält dadurch seine goldene Farbe. Er verwöhnt die Geschmackssinne mit Aromen von Vanille, Karamell und Kräutern.
-- LIEFERUMFANG: 1 x 700 ml Sierra Tequila Reposado (38 % Alk.), das besondere Geschenk für Tequila Fans oder die nächste mexikanische Party, ideal als Shot & für Cocktails, Eine*r muss den Hut aufhaben!
-- ZIMT & ORANGE: Dank seiner Frische und unwiderstehlichen Fruchtigkeit ist der Sierra Tequila Reposado optimal für das legendäre Shot Ritual: Zimt – Sierra Tequila Reposado – Orange.
 - NUMMER 1: Der in Kupferkesseln destillierte Sierra Tequila ist mit einer Silbermedaille bei den Tequila & Mezcal Masters 2022 ausgezeichnet und der Marktführer in Europa*.
+- KOMPLEXES AROMA: Der Tequila reift bis zu 9 Monate in Bourbon-Fässern und erhält dadurch seine goldene Farbe. Er verwöhnt die Geschmackssinne mit Aromen von Vanille, Karamell und Kräutern.
+- ZIMT & ORANGE: Dank seiner Frische und unwiderstehlichen Fruchtigkeit ist der Sierra Tequila Reposado optimal für das legendäre Shot Ritual: Zimt – Sierra Tequila Reposado – Orange.
+- LIEFERUMFANG: 1 x 700 ml Sierra Tequila Reposado (38 % Alk.), das besondere Geschenk für Tequila Fans oder die nächste mexikanische Party, ideal als Shot & für Cocktails, Eine*r muss den Hut aufhaben!
+- AUS MEXIKO: Sierra Tequila wird in der familienbetriebenen Destilería Sierra Unidas in Guadalajara in Mexiko hergestellt. Dazu werden Blaue Weber Agaven per Hand geerntet und in der Destillerie verarbeitet.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B007OTZ2U8{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Design klassischer komfort
-- Atmungsaktives, strickmesh hält dich kühl
 - Bewegungsfreiheit
+- Atmungsaktives, strickmesh hält dich kühl
+- Design klassischer komfort
 - Elastische gürtel mit einstellbarem laccetto
 - Trainingshose
 

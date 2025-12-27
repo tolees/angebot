@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erstes englisch Bilderbuch: Entdecken Sie das kleine Büchlein mit einer Geschichte aus dem Leben der Hasen, mit süßen Bildern und auf Englisch! So kann man mit Kleinen spielerisch eine neue Sprache entdecken
-- Eine vierköpfige Familie aus der Honeysuckle Hollow Welt der Li’l Woodzeez: enthält 4 Tierfiguren mit Kleidung und Accessoires, die lieben Hasen Eltern sind Mama Amelia und Papa Elliot, sie sind beide Bauern und betreiben ihren eigenen Hofladen, Star und ihr kleiner Bruder Theo sind die niedlichen Hasenjungen
 - Keine Batterien erforderlich, altersempfehlung: Für Kinder ab 3 Jahren empfohlen
-- Kompatibel mit Calico Critters und Sylvanian Families, Li’l Woodzeez Häuser und Möbel sind separat erhältlich
+- Eine vierköpfige Familie aus der Honeysuckle Hollow Welt der Li’l Woodzeez: enthält 4 Tierfiguren mit Kleidung und Accessoires, die lieben Hasen Eltern sind Mama Amelia und Papa Elliot, sie sind beide Bauern und betreiben ihren eigenen Hofladen, Star und ihr kleiner Bruder Theo sind die niedlichen Hasenjungen
+- Erstes englisch Bilderbuch: Entdecken Sie das kleine Büchlein mit einer Geschichte aus dem Leben der Hasen, mit süßen Bildern und auf Englisch! So kann man mit Kleinen spielerisch eine neue Sprache entdecken
 - Die kleinen Tierfiguren sind beweglich am Kopf, an den Armen und Beinen, die Spielzeugfiguren sind mit weichem, samtähnlichem Stoff überzogen, niedliches Geschenk für Mädchen und Jungen zum Geburtstag und mehr
+- Kompatibel mit Calico Critters und Sylvanian Families, Li’l Woodzeez Häuser und Möbel sind separat erhältlich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00E8O5IF6{{</world>}}

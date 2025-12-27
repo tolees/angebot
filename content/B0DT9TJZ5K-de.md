@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Unser Waschmittel wird in einer recycelten Plastikflasche geliefert. Für 23 Wäschen.
 - Die 0%-Produkte von Marcel enthalten weder Parfüm noch Farbstoffe und sind allergiezertifiziert. Perfekt für Menschen mit empfindlicher Haut.
-- Marcels Green Soap Universalwaschmittel 0% ist palmölfrei, aus nachwachsenden Inhaltsstoffen hergestellt und hinterlässt einen wunderbar sauberen Duft in Ihrer Wäsche. Dieses Waschmittel ist allergiezertifiziert.
-- Marcel verspricht drei Dinge über seine Produkte: Sie riechen fantastisch, sind wunderbar in der Anwendung und werden mit Rücksicht auf den Planeten hergestellt. Wir nennen das „Feel Good Cleaning“!
 - Marcels Green Soap Waschmittel 1L ist aus biologisch abbaubaren Inhaltsstoffen hergestellt, vegan und hat eine mikroplastikfreie Formel. Darüber hinaus enthält Marcels Green Soap Flüssigwaschmittel kein Palmöl!
+- Marcel verspricht drei Dinge über seine Produkte: Sie riechen fantastisch, sind wunderbar in der Anwendung und werden mit Rücksicht auf den Planeten hergestellt. Wir nennen das „Feel Good Cleaning“!
+- Marcels Green Soap Universalwaschmittel 0% ist palmölfrei, aus nachwachsenden Inhaltsstoffen hergestellt und hinterlässt einen wunderbar sauberen Duft in Ihrer Wäsche. Dieses Waschmittel ist allergiezertifiziert.
+- Unser Waschmittel wird in einer recycelten Plastikflasche geliefert. Für 23 Wäschen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DT9TJZ5K{{</world>}}

@@ -28,17 +28,17 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Saum verstellbar, Ärmel- und Seitentaschen mit Reißverschluss
+- Länge ca. 63.5 cm
+- 250g Microfleece
+- Länge ca. 63.5 cm
+- 250g Microfleece
+- Lieferumfang: 1 x Columbia Fast Trek II Damenjacke, Außenmaterial: 100% Polyester Mikrofleece, Farbe: Schwarz, Größe: S, Art.Nr. 1465351
 - Erhältlich in einer Vielzahl von Farben, Ideal für den täglichen Gebrauch
 - Saum verstellbar, Ärmel- und Seitentaschen mit Reißverschluss
 - Weiches und leichte Fleecejacke für Damen, das als saisonübergreifende Schicht getragen wird, um Sie bei Ihren Outdoor-Abenteuern warm zu halten
 - Die Reißverschlusstaschen halten Ihre Hände warm und können auch dem sicheren Verstauen von Wertsachen wie Smartphone oder Geld dienen
-- Länge ca. 63.5 cm
-- 250g Microfleece
-- Länge ca. 63.5 cm
-- Saum verstellbar, Ärmel- und Seitentaschen mit Reißverschluss
-- Lieferumfang: 1 x Columbia Fast Trek II Damenjacke, Außenmaterial: 100% Polyester Mikrofleece, Farbe: Schwarz, Größe: S, Art.Nr. 1465351
 - Der verstellbare Tunnelzugsaum ermöglicht eine optimale Passform
-- 250g Microfleece
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B008CDT4OK{{</world>}}

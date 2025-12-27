@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mehr Licht dank des groÃŸen Z-Bajonetts
 - Intuitive kreative Steuerung
-- Platz für bis zu 125 Minuten ununterbrochenes Filmmaterial
-- Optischer zoom: 0.23 multiplier_x
-- Kristallklarer, deutlicher Ton
-- Unübersehbar in 4K
 - Item Weight: 945.0 Grams
+- Kristallklarer, deutlicher Ton
+- Mehr Licht dank des groÃŸen Z-Bajonetts
+- Optischer zoom: 0.23 multiplier_x
+- Unübersehbar in 4K
+- Platz für bis zu 125 Minuten ununterbrochenes Filmmaterial
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B5FCK2KN{{</world>}}

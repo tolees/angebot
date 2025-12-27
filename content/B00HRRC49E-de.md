@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Samtiges Puppchen zum An- und Ausziehen
 - Geeignet fur Madchen ab 3 Jahren
-- Groe Hase: ca. 5-6 cm
 - Tolles Mitbringsel oder Geschenk fur Madchen zu Weihnachten, Ostern oder zum Geburtstag
+- Samtiges Puppchen zum An- und Ausziehen
+- Groe Hase: ca. 5-6 cm
 - Sylvanian Families Sammelfigur fur Madchen
 
 [🛒 Hier!!]({{< param buyurl >}})

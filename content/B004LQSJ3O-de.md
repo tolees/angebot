@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verpackungsabmessungen (L × B × H) : 22.0 zm 9.2 zm 2.4 zm
-- Farbe : Schwarz , Gelb
-- Herkunftsland:- Spanien
 - Material : Metall
+- Farbe : Schwarz , Gelb
+- Verpackungsabmessungen (L × B × H) : 22.0 zm 9.2 zm 2.4 zm
+- Herkunftsland:- Spanien
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B004LQSJ3O{{</world>}}

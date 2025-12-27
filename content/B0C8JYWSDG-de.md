@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: 100% EVA
-- Better Leather
 - Farbe: Mittelbraun
+- Better Leather
+- Sohle: 100% EVA
 - Obermaterial: 90 % Rindsleder 10 % Rindsleder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

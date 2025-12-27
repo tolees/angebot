@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Blousonjacke von VERO MODA
 - Mit Rippbündchen
 - Aus pflegeleichtem Material mit Stretchanteil
-- Blousonjacke von VERO MODA
 - Figurumspielende Form mit Reißverschluss
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

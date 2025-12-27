@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Getönter Gesichtssonnenschutz
-- Herkunftsland: DE
 - Marke: Clinique
+- Herkunftsland: DE
+- Getönter Gesichtssonnenschutz
 - Farbe: beige
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

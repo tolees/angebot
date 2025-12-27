@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schweißableitende Dri-FIT Technologie
 - Mittelhoch geschnittener Bund
+- Schweißableitende Dri-FIT Technologie
 - Mesh-Einsätze für verbesserte Atmungsaktivität
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

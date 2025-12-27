@@ -30,12 +30,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Wiederaufladbare USB C-Tastatur: Bleibt bis zu 10 Tage mit einer vollen Ladung oder bis zu 5 Monate (Hintergrundbeleuchtung ausgeschaltet) an (4); Schnellladung mit dem mitgelieferten USB C-Ladekabel
 - Sich wiederholende Aufgaben automatisieren: Mit der Logi Options+ App zeitsparende Smart Actions-Kurzbefehle erstellen und weitergeben, um mehrere Vorgänge mit einem Tastendruck auszuführen (1)
-- Intelligentere Beleuchtung: Die Tasten der beleuchteten Tastatur leuchten auf, wenn sich Ihre Hände nähern, und passen sich der Umgebung an; jetzt weitere Beleuchtungsanpassung auf Logi Options+ (1)
 - Mehr Komfort, tieferer Fokus: Längeres Arbeiten dank solider Bauweise, flachem Design und optimalem Winkel der Tastatur, der die Haltung des Handgelenks begünstigt
-- Flüssiges Tipperlebnis: Das Laptop-ähnliche Profil mit kugelförmigen Tasten, die für Ihre Fingerspitzen geformt sind, sorgt für ein schnelles, flüssiges und genaues Tipperlebnis.
-- Mit Master 3S zusammenarbeiten: jede kabellose MX-Tastatur und -Maus mit Logi Options+ koppeln und nahtlos arbeiten, Text und Dateien zwischen bis zu 3 Computern (Windows & macOS) übertragen
-- Multi-Device, Multi OS Bluetooth-Tastatur: Kopplung mit max. 3 Geräten auf fast allen OS (Windows, macOS, Linux) über Bluetooth Low Energy oder den mitgelieferten Logi Bolt USB-Empfänger (2)
 - Recycelt: Die Kunststoffteile der kabellosen Tastatur MX Keys S bestehen zu 26% für Graphite bzw. 11% für Pale Grey aus zertifiziertem, recyceltem Postconsumer-Kunststoff (5).
+- Intelligentere Beleuchtung: Die Tasten der beleuchteten Tastatur leuchten auf, wenn sich Ihre Hände nähern, und passen sich der Umgebung an; jetzt weitere Beleuchtungsanpassung auf Logi Options+ (1)
+- Flüssiges Tipperlebnis: Das Laptop-ähnliche Profil mit kugelförmigen Tasten, die für Ihre Fingerspitzen geformt sind, sorgt für ein schnelles, flüssiges und genaues Tipperlebnis.
+- Multi-Device, Multi OS Bluetooth-Tastatur: Kopplung mit max. 3 Geräten auf fast allen OS (Windows, macOS, Linux) über Bluetooth Low Energy oder den mitgelieferten Logi Bolt USB-Empfänger (2)
+- Mit Master 3S zusammenarbeiten: jede kabellose MX-Tastatur und -Maus mit Logi Options+ koppeln und nahtlos arbeiten, Text und Dateien zwischen bis zu 3 Computern (Windows & macOS) übertragen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07W6H8K7K{{</world>}}

@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Gepolstertes Fußbett
 - Idealer Komfort
-- Schuhweite: Mittel
 - Hausschuhe aus Gummi
 - Schaumstoff-Zwischensohle
+- Schuhweite: Mittel
 - Passform: Regulär
 - Hochwertiges Lederimitat
 

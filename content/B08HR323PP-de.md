@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wärmebehandelte Gleitelemente, die für flüssige Bewegungen sorgen | Roccat Owl-Eye 16K dpi Optiksensor basierend auf PMW3389 von PixArt
-- Symmetrische, ergonomische Form, die von Grund auf neu gestaltet wurde und sich besser anfühlt und besser funktioniert
 - Titan Switch Optical für ein mechanisches Gefühl mit optischer Geschwindigkeit
-- Lichtdurchlässiges Wabengehäuse mit extrem geringem Gewicht von 68 g
+- Symmetrische, ergonomische Form, die von Grund auf neu gestaltet wurde und sich besser anfühlt und besser funktioniert
 - PhantomFlex-Kabel verschwindet nahezu vollständig – kein Kabelhalter erforderlich
+- Wärmebehandelte Gleitelemente, die für flüssige Bewegungen sorgen | Roccat Owl-Eye 16K dpi Optiksensor basierend auf PMW3389 von PixArt
+- Lichtdurchlässiges Wabengehäuse mit extrem geringem Gewicht von 68 g
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08HR323PP{{</world>}}

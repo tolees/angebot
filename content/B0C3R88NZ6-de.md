@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Freie Wahl des Leuchtmittels - Wandlampe aussen für austauschbare Lampen mit E27-Fassung und max. 60 Watt maximal 15 W LED geeignet, Leuchtmittel nicht im Lieferumfang enthalten
-- Automatisches Licht - 180° Bewegungssensor in Gehäusefarbe mit bis zu 7,5 m Reichweite, Leuchtdauer 5 s – 60 Minuten und Dämmerungsschwelle 2 – 2000 lx einstellbar, Erfassungsbereichdurch mitgelieferte Abdeckclips individuell eingrenzbar
-- Lange Haltbarkeit - Hochwertiger UV-beständiger Kunststoff und Spritzwasserschutz für den Außenbereich nach IP44, damit ideal als vernetzbare Gartenbeleuchtung und Terrassenbeleuchtung
-- Klassische Außenlampe in Laternen-Optik - ideal zur Außenbeleuchtung von Garten, Patio, Garage, Balkon, Eingangstür, Gartenhütte, Wegen, Einfahrten oder Hauseingang
 - Lieferumfang: Außenleuchte, 2x Schrauben, 2x Dübel, Sensor-Abdeckblenden, Bedienungsanleitung; Abmessungen (L x B x H): 224 x 175 x 255 mm; Netzanschluss: 220-240 V, 50/60 Hz; Artikelnummer: 084769
+- Lange Haltbarkeit - Hochwertiger UV-beständiger Kunststoff und Spritzwasserschutz für den Außenbereich nach IP44, damit ideal als vernetzbare Gartenbeleuchtung und Terrassenbeleuchtung
+- Automatisches Licht - 180° Bewegungssensor in Gehäusefarbe mit bis zu 7,5 m Reichweite, Leuchtdauer 5 s – 60 Minuten und Dämmerungsschwelle 2 – 2000 lx einstellbar, Erfassungsbereichdurch mitgelieferte Abdeckclips individuell eingrenzbar
+- Freie Wahl des Leuchtmittels - Wandlampe aussen für austauschbare Lampen mit E27-Fassung und max. 60 Watt maximal 15 W LED geeignet, Leuchtmittel nicht im Lieferumfang enthalten
+- Klassische Außenlampe in Laternen-Optik - ideal zur Außenbeleuchtung von Garten, Patio, Garage, Balkon, Eingangstür, Gartenhütte, Wegen, Einfahrten oder Hauseingang
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C3R88NZ6{{</world>}}

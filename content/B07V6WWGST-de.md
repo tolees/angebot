@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Abnehmbare Schalter zum Einstellen des Widerstands beim klicken und verlängern der Lebensdauer der Maus
+- Ergonomie Gladius mit separaten hauptknöpfen, leichtem Design und rutschfesten Griffen verziert mit dem eichenlogo
 - Das Programm Asus armoury II ermöglicht es Ihnen, die Tasten, Leistung und Beleuchtung einfach zu gestalten.
 - PAW3327 optischer Gaming Sensor (bis zu 6200 dpi) für präzises und schnelles Tracking
-- Ergonomie Gladius mit separaten hauptknöpfen, leichtem Design und rutschfesten Griffen verziert mit dem eichenlogo
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07V6WWGST{{</world>}}

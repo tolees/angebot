@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Besteht zu mindestens 70 % aus recycelten und erneuerbaren Materialien
 - Rippbündchen
 - Regulär geschnitten
 - Taschen auf der Vorderseite
+- Besteht zu mindestens 70 % aus recycelten und erneuerbaren Materialien
 - 55 % Baumwolle / 36 % Polyester (recycelt) / 9 % Viskose
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

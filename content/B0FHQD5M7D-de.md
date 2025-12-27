@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Immersives 6,9" Display, Bis zu 120Hz AdaptiveSync】Das großzügige 6,9" Display sorgt für ein immersives Seherlebnis mit beeindruckender Klarheit und Helligkeit. Dank einer adaptiven Bildwiederholrate von bis zu 120Hz genießt du ein flüssiges und immersives Erlebnis – beim Surfen ebenso wie beim Anschauen von Inhalten.
-- 【Quad-Curved-Rückseite, Elegantes und raffiniertes Design】Das schlanke Gehäuse des POCO C85 ist auf Komfort ausgelegt und bietet einen angenehmen Halt sowie mühelose Handhabung – perfekt für ein aktives Leben unterwegs.
 - 【Leistungsstarker Octa-Core-Prozessor, Zuverlässig und stabil】Angetrieben vom MediaTek Helio G81-Ultra bietet das POCO C85 flüssige Performance für alltägliche Apps, Multitasking und leichtes Gaming – effizient, reaktionsschnell und akkuschonend.
+- 【Quad-Curved-Rückseite, Elegantes und raffiniertes Design】Das schlanke Gehäuse des POCO C85 ist auf Komfort ausgelegt und bietet einen angenehmen Halt sowie mühelose Handhabung – perfekt für ein aktives Leben unterwegs.
+- 【Immersives 6,9" Display, Bis zu 120Hz AdaptiveSync】Das großzügige 6,9" Display sorgt für ein immersives Seherlebnis mit beeindruckender Klarheit und Helligkeit. Dank einer adaptiven Bildwiederholrate von bis zu 120Hz genießt du ein flüssiges und immersives Erlebnis – beim Surfen ebenso wie beim Anschauen von Inhalten.
 - 【Großer 6000mAh Akku, Performance auf einem neuen Level】Das POCO C85 verfügt über einen großen 6000mAh Akku in schlankem Gehäuse. Langanhaltende Energie trifft auf außergewöhnliche Leistung.
 - 【50MP AI-Zweifach-Kamerasystem, Ultra-HD-Modus für lebendige Details】Passt sich unterschiedlichsten Aufnahmeszenarien an und fängt reichhaltige Texturen sowie naturgetreues Licht und Schatten ein – damit du schöne Momente mühelos festhalten kannst.
 

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- DIE KRAFT DER FREUNDSCHAFT: Anfangs können Mio und Zoe einander nicht leiden, doch schon bald sind sie die einzige Hoffnung des jeweils anderen
+- FRIENDS PASS: auf einer beliebigen Plattform (plattformübergreifendes Spielen auf PS, Xbox, Switch, & PC) kostenlos mit dir zu spielen – mit dem Friend’s Pass
 - Dieser Code ist nur auf Switch 2 spielbar. Melden Sie sich in Ihrem Nintendo-Konto im Nintendo e-Shop an (über die Konsole oder den Internetbrowser) und geben Sie den 16-stelligen Code ein.
 - ECHTES KOOP-ABENTEUER: Dieses Splitscreen-Abenteuer erlebt man am besten zu zweit. Erlebe kooperatives Gameplay, bei dem ihr eure Aktionen absprechen und zeitlich abstimmen müsst. Außerdem müsst ihr zusammenarbeiten, um Herausforderungen zu meistern
-- FRIENDS PASS: auf einer beliebigen Plattform (plattformübergreifendes Spielen auf PS, Xbox, Switch, & PC) kostenlos mit dir zu spielen – mit dem Friend’s Pass
-- DIE KRAFT DER FREUNDSCHAFT: Anfangs können Mio und Zoe einander nicht leiden, doch schon bald sind sie die einzige Hoffnung des jeweils anderen
 - Dieses Videospiel ist das neue, unverzichtbare Abenteuerspiel mit geteiltem Bildschirm für zwei Spieler (Coop Spiel). Dieses Spiel ist mit dem Download-Code in der Verpackung zugänglich.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

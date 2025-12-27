@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Praktische Batteriestatus-Anzeige: Gibt Aufschluss darüber, wann es Zeit für einen Batteriewechsel ist. Die Funkmaus benötigt lediglich eine AA-Batterie (im Lieferumfang enthalten)
-- Optischer Sensor: Die Auflösung von 1.200 dpi sorgt für eine präzise und fließende Steuerung des Mauszeigers bei Büroarbeiten aller Art (Textverarbeitung, Internet, Bildbearbeitung, etc.)
 - Symmetrische 3-Tasten-Maus: Lässt sich sowohl von Links- als auch von Rechtshändern optimal nutzen und überzeugt durch modernes Design sowie angenehme Haptik
+- Praktische Batteriestatus-Anzeige: Gibt Aufschluss darüber, wann es Zeit für einen Batteriewechsel ist. Die Funkmaus benötigt lediglich eine AA-Batterie (im Lieferumfang enthalten)
 - Störungsfreie 2,4 GHz Funktechnologie: Genießen Sie kabellose Freiheit innerhalb einer Reichweite von bis zu 10 m. Die Maus verfügt über eine GS-Zulassung („Geprüfte Sicherheit“)
+- Optischer Sensor: Die Auflösung von 1.200 dpi sorgt für eine präzise und fließende Steuerung des Mauszeigers bei Büroarbeiten aller Art (Textverarbeitung, Internet, Bildbearbeitung, etc.)
 - Installation per Plug & Play: Einfach den Nano-USB-Dongle im USB-Port Ihres Endgeräts einstecken - fertig. Ganz ohne zusätzliche Software oder technische Kenntnisse
 
 [🛒 Hier!!]({{< param buyurl >}})

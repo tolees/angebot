@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 82% baumwolle; 18% polyester
 - softvlies und ein raumgefühl
 - dass sie eine lässige lieblings sie von der seitenlinie auf die straße tragen kann
+- 82% baumwolle; 18% polyester
 - Sporttyp: Fußball
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

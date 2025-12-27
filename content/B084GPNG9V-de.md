@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EINFACHE DOSIERUNG: 1 Teil Sirup + 19 Teile Wasser im Glas oder in der Flasche mischen. Praktische Dosierkappe mit Linien für 0,5 L und 1 L Getränk.
-- EINFACH SPRUDELN - FRISCH GENIESSEN: Geniessen Sie Ihr Lieblingsgetränk immer frisch und selbst gesprudelt !
 - NIE MEHR SCHLEPPEN: 1 Flasche Sirup ergibt bis zu 9 Liter Fertiggetränk - Kein Flaschenpfand - kein Leergut - weniger Plastikmüll! (1 Flasche Sirup ersetzt bis zu 9 Pfandflaschen)
-- LIEFERUMFANG: 1x SodaStream Getränkesirup Pepsi Cola 440ml
+- EINFACH SPRUDELN - FRISCH GENIESSEN: Geniessen Sie Ihr Lieblingsgetränk immer frisch und selbst gesprudelt !
 - ORIGINAL TASTE: Original Pepsi mit selbst gesprudeltem oder Mineralwasser kinderleicht zu mischen - immer frisch genießen.
+- LIEFERUMFANG: 1x SodaStream Getränkesirup Pepsi Cola 440ml
+- EINFACHE DOSIERUNG: 1 Teil Sirup + 19 Teile Wasser im Glas oder in der Flasche mischen. Praktische Dosierkappe mit Linien für 0,5 L und 1 L Getränk.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B084GPNG9V{{</world>}}

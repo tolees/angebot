@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1,23 mm.
 - Kirschbaum.
+- 1,23 mm.
 - Saiten-Spule.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

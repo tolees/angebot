@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spieleranzahl: 1 - 3
-- Empfohlenes Alter: ab 5 Jahren
-- Spieldauer: ca. 15 Minuten
 - Auch alleine Spielbar
 - Speziell für die Reise mit Auto und Bahn geeignet
+- Empfohlenes Alter: ab 5 Jahren
+- Spieldauer: ca. 15 Minuten
+- Spieleranzahl: 1 - 3
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07X241HSF{{</world>}}

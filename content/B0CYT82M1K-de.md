@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Textilfutter
 - Reguläre Passform
 - Cloudfoam Zwischensohle
-- Textilfutter
 - Ein vielseitiger Sneaker für jeden Tag
 
 [🛒 Hier!!]({{< param buyurl >}})

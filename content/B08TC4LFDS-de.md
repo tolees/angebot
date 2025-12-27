@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Hochwertige Material
 - Hält kühl und bequem
-- Langlebig
 - Dieses Produkt wird mit 100% recycelten Polyesterfasern
+- Langlebig
 - Bringt Ihnen einen zusätzlichen Komfort
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

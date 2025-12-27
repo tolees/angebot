@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【DOPPELTE FLUGZEIT】: Ein Akku sorgt für eine maximale Flugzeit von 25 Minuten. Aber mit einer zusätzlichen Batterie verlängert die B12 4K-Drohne die Flugzeit auf 50 Minuten (2*25 Minuten) und verdoppelt Ihre Happy Hour!
-- 【4K HD KAMERA】: Erleben Sie atemberaubende Bilder mit unserer 4K HD-Kamera mit 110°-Weitwinkelobjektiv und motorisierter 90°-Einstellung für Aufnahmen aus einzigartigen und bisher unvorstellbaren Winkeln. Dank der 5-GHz-FPV-Übertragung genießen Sie selbst bei hohen Geschwindigkeiten oder starkem Wind flüssige und stabile Videos und gelingen Ihnen so jedes Mal die perfekte Aufnahme.
-- 【LEICHT ZU TRANSPORTIEREN】: Die 4K-Kameradrohne wird mit einer Business-Tragetasche geliefert. Das zusammenklappbare Design lässt sich klein genug zusammenpacken, um in eine Jackentasche zu passen. Dank dieser Eigenschaften ist der B12 einfach im Freien zu verwenden und im freien Zustand sehr einfach sicher zu verstauen.
 - 【MEHR EINFACHER FLUGPASS】: Die Drohne verfügt über Start/Landung mit nur einer Taste, Headless-Modus, Not-Aus und weitere Funktionen, sodass selbst Anfänger problemlos navigieren und ein unterhaltsames Flugerlebnis genießen können. Sie können die Tastensteuerung, die Steuerung per App, die Schwerkraftsteuerung, die Sprachsteuerung und andere nützliche Modi je nach Situation wechseln. Zahlreiche Funktionen warten darauf, von Ihnen entdeckt zu werden.
+- 【LEICHT ZU TRANSPORTIEREN】: Die 4K-Kameradrohne wird mit einer Business-Tragetasche geliefert. Das zusammenklappbare Design lässt sich klein genug zusammenpacken, um in eine Jackentasche zu passen. Dank dieser Eigenschaften ist der B12 einfach im Freien zu verwenden und im freien Zustand sehr einfach sicher zu verstauen.
+- 【DOPPELTE FLUGZEIT】: Ein Akku sorgt für eine maximale Flugzeit von 25 Minuten. Aber mit einer zusätzlichen Batterie verlängert die B12 4K-Drohne die Flugzeit auf 50 Minuten (2*25 Minuten) und verdoppelt Ihre Happy Hour!
 - 【MIT ZUVERSICHT FLIEGEN】: Die Wipkviey B12 Drohne wiegt weniger als 249g! Sie brauchen keinen Drohnenpilotenschein zu machen.
+- 【4K HD KAMERA】: Erleben Sie atemberaubende Bilder mit unserer 4K HD-Kamera mit 110°-Weitwinkelobjektiv und motorisierter 90°-Einstellung für Aufnahmen aus einzigartigen und bisher unvorstellbaren Winkeln. Dank der 5-GHz-FPV-Übertragung genießen Sie selbst bei hohen Geschwindigkeiten oder starkem Wind flüssige und stabile Videos und gelingen Ihnen so jedes Mal die perfekte Aufnahme.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0F2SBWFMD{{</world>}}

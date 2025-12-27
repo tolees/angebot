@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Papier: Pergamentweiß, 90 g/m², hohe Festigkeit und Deckkraft
-- Transparenter Polypropylen-Bezug: manipulationssicher, reißfester und wasserfester Schutz, keine Heftschoner mehr nötig
-- Hergestellt in Frankreich
 - PEFC-ZERTIFIZIERT: für die nachhaltige Bewirtschaftung der Wälder
 - Maxi-Format: Schulformat, ideal zum Einschieben oder Einkleben von A4-Blättern (21 x 29,7 cm), die im Klassenzimmer verteilt sind
+- Papier: Pergamentweiß, 90 g/m², hohe Festigkeit und Deckkraft
+- Hergestellt in Frankreich
+- Transparenter Polypropylen-Bezug: manipulationssicher, reißfester und wasserfester Schutz, keine Heftschoner mehr nötig
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09MW5Q6ZJ{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SOMMER UND WINTER | Genießen Sie das ganze Jahr unseren vielseitigen Deckenventilator. Im Sommer sorgt er für erfrischende Brisen und angenehme Kühle, während er im Winter die Wärme gleichmäßig verteilt und somit Heizkosten spart.
-- 2 IN 1 | Mit dem Raja Deckenventilator mit Beleuchtung bekommen Sie angenehmes Licht und frische Luft in jeden Raum. Diese ästhetische und hochwertige Kombination aus Deckenventilator mit Licht ermöglicht die zentrale Installation beider Elemente.
 - PRAKTISCHE FERBEDIENUNG | Ob Sie die stärke des Ventilator anpassen, oder die integrierte Deckenlampe dimmen wollen, mit der praktischen Fernbedienung liegen alle Einstellungen auf der Hand.
+- 2 IN 1 | Mit dem Raja Deckenventilator mit Beleuchtung bekommen Sie angenehmes Licht und frische Luft in jeden Raum. Diese ästhetische und hochwertige Kombination aus Deckenventilator mit Licht ermöglicht die zentrale Installation beider Elemente.
+- SOMMER UND WINTER | Genießen Sie das ganze Jahr unseren vielseitigen Deckenventilator. Im Sommer sorgt er für erfrischende Brisen und angenehme Kühle, während er im Winter die Wärme gleichmäßig verteilt und somit Heizkosten spart.
 - PEPEO | Als Hersteller von hochwertigen Deckenventilatoren ist die Pepeo seit 2009 fest auf Markt etabliert. Ob Deckenventilatoren mit Beleuchtung oder ohne, bei uns dreht sich alles um die Zufriedenheit unserer Kunden.
 - ENERGIEEFFIZIENT | Diese dimmbare LED Deckenlampe mit Ventilator arbeitet extrem leise und ist darüber hinaus auch sehr energieeffizient. So können Sie mit gutem Gefühl das optimale Raumklima genießen.
 

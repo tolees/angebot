@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Winddicht
 - Länge/Größe : Lang
 - Seitentaschen
 - Reißverschluss, Knopfleiste
-- Winddicht
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CR7PCMGK{{</world>}}

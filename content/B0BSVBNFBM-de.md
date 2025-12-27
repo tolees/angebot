@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 6 x 220g Packung
-- Mit diesem Reis kannst Du leckere und zugleich schnelle Mahlzeiten kreieren.
-- Bens Original Qualität: Schonend dampfgegarter Spitzen-Langkornreis mit Tomaten und Kräutern. Ohne künstliche Konservierungs-, Farb- und Aromastoffe.
-- Zubereitung: Bens Original Express Reis kann einfach und bequem in 2 Minuten in der Mikrowelle oder mit Wasser in 3 Minuten in der Pfanne erhitzt werden.
 - Express Reis entdecken: In vielen weiteren Sorten erhältlich - Ungewürzte Reissorten wie Basmati oder Basmati & Jasmin oder gewürzte Reissorten wie Griechisch, Mexikanisch, Mexikanisch Scharf.
+- Lieferumfang: 6 x 220g Packung
+- Bens Original Qualität: Schonend dampfgegarter Spitzen-Langkornreis mit Tomaten und Kräutern. Ohne künstliche Konservierungs-, Farb- und Aromastoffe.
+- Mit diesem Reis kannst Du leckere und zugleich schnelle Mahlzeiten kreieren.
+- Zubereitung: Bens Original Express Reis kann einfach und bequem in 2 Minuten in der Mikrowelle oder mit Wasser in 3 Minuten in der Pfanne erhitzt werden.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BSVBNFBM{{</world>}}

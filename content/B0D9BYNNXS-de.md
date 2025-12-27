@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - MISS DICH MIT ANDEREN IN DER STADT- In der Stadt kannst du dich beweisen. Spiele im Park ein paar Runden Streetball gegen die Konkurrenz und entdecke verschiedene neue Locations. Ehre NBA-Legenden in Meine KARRIERE, indem du ihre Meilensteine erreichst und übertriffst und baue die größte Basketball-Dynastie aller Zeiten auf. Demonstriere dein Talent in der aufregenden Stadt und füge deinen Namen zur Liste der Legenden hinzu. (Xbox Series X)
-- Diese Edition beinhaltet die NBA 2K25 Xbox Series X Standard Version auf der Disc. Für die Xbox One Standard Version von NBA 2K25 liegt ein Code in der Verpackung bei, mit dem die Version heruntergeladen werden kann.
-- Schnelles Spiel, Meine NBA und The W sind offline spielbar. Alle anderen Spielmodi und Funktionen erfordern eine Internetverbindung und möglicherweise eine Online-KontoRegistrierung (variiert, ab 13 Jahre)
-- DEIN MyTEAM, DEINE ENTSCHEIDUNG - Konkurrenz belebt das Spiel in MyTEAM. Fordere die Aufstellungen deiner Rivalen mit deinem All-Time-MyTEAM-Kader heraus und duelliere dich mit anderen Elite-Spielern im wöchentlichen King of the Court. Duelliere dich und beweise, warum du es verdienst, bei diesem exklusiven Event zum Besten der Besten gekrönt zu werden. Sammle neue Karten, meistere die Basics und verdiene großartige Belohnungen. Wo beginnst du deinen Weg zur wahrer Größe? (Xbox Series X)
 - POWERED BY ProPLAY - Zeig dein Spiel mit ProPLAY - immersiver Technologie, die Videoaufnahmen aus der NBA direkt in spannendes Gameplay umwandelt. Erlebe deine Lieblings-Superstars der NBA hautnah und tauche in Clutch-Momente ein - dank ProPLAM, das dir das bisher authentischste NBA-Erlebnis schenkt. (Xbox Series X)
+- DEIN MyTEAM, DEINE ENTSCHEIDUNG - Konkurrenz belebt das Spiel in MyTEAM. Fordere die Aufstellungen deiner Rivalen mit deinem All-Time-MyTEAM-Kader heraus und duelliere dich mit anderen Elite-Spielern im wöchentlichen King of the Court. Duelliere dich und beweise, warum du es verdienst, bei diesem exklusiven Event zum Besten der Besten gekrönt zu werden. Sammle neue Karten, meistere die Basics und verdiene großartige Belohnungen. Wo beginnst du deinen Weg zur wahrer Größe? (Xbox Series X)
+- Schnelles Spiel, Meine NBA und The W sind offline spielbar. Alle anderen Spielmodi und Funktionen erfordern eine Internetverbindung und möglicherweise eine Online-KontoRegistrierung (variiert, ab 13 Jahre)
+- Diese Edition beinhaltet die NBA 2K25 Xbox Series X Standard Version auf der Disc. Für die Xbox One Standard Version von NBA 2K25 liegt ein Code in der Verpackung bei, mit dem die Version heruntergeladen werden kann.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D9BYNNXS{{</world>}}

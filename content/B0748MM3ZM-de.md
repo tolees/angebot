@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Tiefenreinigung: Akku Staubsauger mit motorbetriebener Elektrosaugbürste und LED-Frontlichtern für optimale Sichtbarkeit und Selbstreinigung der Bürstenrolle per Pedaldruck (Brushroll-Clean Funktion)
+- Lieferumfang: 1x CX7 Akku Staubsauger, 1x Elektrosaugbürste, 1x Ladestation + integriertem Möbelpinsel/Mini-Fugendüse, 1x Filter (bereits im Gerät) // Zubehör-Empfehlung: Erweiterungsset AKIT360+, Möbel-Softbürste AZE130 // Nachfolger: QX6-1-45AN
 - 2in1-Funktion: Der entnehmbare Handstaubsauger des Akku Staubsaugers sorgt für maximale Flexibilität auch an schwer zugänglichen Stellen
+- Tiefenreinigung: Akku Staubsauger mit motorbetriebener Elektrosaugbürste und LED-Frontlichtern für optimale Sichtbarkeit und Selbstreinigung der Bürstenrolle per Pedaldruck (Brushroll-Clean Funktion)
 - Extra lange Laufzeit: Bis zu 45 Min. bzw. 135 m² Laufzeit in der ECO-Stufe (16 Min. bzw. 48 m² in der Power-Stufe) - kraftvoller 18 V Lithium High-Density-Akku
 - Ideal für Allergiker und Haustierbesitzer: Zusätzliche Elektrosaugbürste für das entnehmbare Handteil zur Aufnahme von Tierhaaren, Milben und Hausstaub auf Polstern
-- Lieferumfang: 1x CX7 Akku Staubsauger, 1x Elektrosaugbürste, 1x Ladestation + integriertem Möbelpinsel/Mini-Fugendüse, 1x Filter (bereits im Gerät) // Zubehör-Empfehlung: Erweiterungsset AKIT360+, Möbel-Softbürste AZE130 // Nachfolger: QX6-1-45AN
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0748MM3ZM{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zuverlässige Haftung
 - Unverzichtbarer Schaum
+- Zuverlässige Haftung
 - Fühlt sich weich an
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

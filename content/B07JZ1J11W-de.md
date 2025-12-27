@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hoch geschlossen
 - Gerippte Strickbündchen
+- Hoch geschlossen
 - Pflegeleichter Materialmix mit Viskose für ein angenehmes Tragegefühl
 - Normale Passform
 

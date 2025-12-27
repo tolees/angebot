@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Das Paket enthält ein Gehäuse, einen Kühlkörper, ein Schalterkabel, ein OTG-Kabel, einen HDMI-Adapter, einen GPIO-Header und einen Schraubendreher.
-- Der Kühlkörper ist für eine bessere Wärmeableitung und der GPIO-Header erleichtert das Anschließen der GPIO-Ports.
-- Zugang zu allen Anschlüssen des Raspberry Pi Zero Board
 - Acrylgehäuse mit 2 Abdeckungen und Schrauben zu installieren.
 - Kompatibel mit Raspberry Pi Zero/Zero 2 und Raspberry Pi Zero W/Zero W 2 (Raspberry Pi Zero Board ist nicht im Lieferumfang enthalten)
+- Der Kühlkörper ist für eine bessere Wärmeableitung und der GPIO-Header erleichtert das Anschließen der GPIO-Ports.
+- Zugang zu allen Anschlüssen des Raspberry Pi Zero Board
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07MGFRHHR{{</world>}}

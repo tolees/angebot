@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kann bei Picknicks oder Partys genossen werden
 - Chardonnay in der 3 L Bag in Box
+- Kann bei Picknicks oder Partys genossen werden
 - Der Ideale Begleiter zu Salaten, hellem Fleisch und Fisch
 - Produkt von guter Qualität
 

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Klettern, laufen, springen, pusten, Raketen werfen und sogar tanzen: Spiele und meistere 60 Mini-Spiele
-- Multiplayer-Modus mit bis zu 4 Spielern
 - Die Krone ruft! Erhalte Trophäen und klettere an die Spitze der Rangliste, um zum König der Inseln gekrönt zu werden!
+- Multiplayer-Modus mit bis zu 4 Spielern
 - Erkunden und sammeln: Gewinne Sterne, indem du die Mini-Spiele meisterst, um neue Inseln und noch mehr Spiele freizuschalten.
+- Klettern, laufen, springen, pusten, Raketen werfen und sogar tanzen: Spiele und meistere 60 Mini-Spiele
 - Auch auf der Nintendo Switch Lite spielbar
 
 [🛒 Hier!!]({{< param buyurl >}})

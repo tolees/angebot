@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Produkttyp : PHYSICAL_MOVIE
 - Marke: Leonine Distribution GmbH
 - Das erste Omen
-- Produkttyp : PHYSICAL_MOVIE
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D4SZ1KXY{{</world>}}

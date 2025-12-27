@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
-- ã€�Einfach zu bedienenã€‘ Es verfügt über Schwerkraft-Sensor-Modus, HÃhenhaltemodus, Headless-Modus, Start/Landung/Rückkehr, Not-Stop und 3 Geschwindigkeitsmodi-Einstellungen, was die beste Wahl für Kinder und Anfänger ist.
 - ã€�HD-Bilder & Videos und FPV-Funktionã€‘Die Mini-Drohne ist mit einer 720P-HD-Kamera ausgestattet, die hochwertige Videos und klare Luftaufnahmen aufnimmt. Sie kÃnnen ein Live-Video auf Ihrem Smartphone für eine schÃne Landschaft durch WLAN-Echtzeit-Ãœbertragung ansehen.
+- ã€�Einfach zu bedienenã€‘ Es verfügt über Schwerkraft-Sensor-Modus, HÃhenhaltemodus, Headless-Modus, Start/Landung/Rückkehr, Not-Stop und 3 Geschwindigkeitsmodi-Einstellungen, was die beste Wahl für Kinder und Anfänger ist.
 - ã€�Multifunktional und endloser SpaÃŸã€‘Diese Drohne hat so viele lustige Funktionen wie den individuellen Wegflug, die Schwerkraftsensorsteuerung und 360° Flip. Sie kÃnnen Ihre eigene Flugroute individuell gestalten und wunderschÃne Kunstflug durchführen. Mit dem 360° Flip kann diese 720p Kamera Drohne erstaunliche Flugshows machen und dem Angriff Ihres Konkurrenten ausweichen. Flug kann so viel SpaÃŸ mit der Fernbedienung oder auf der App machen.
 - ã€�Warnung bei schwacher Batterieã€‘ Die Mini-Drohne ist mit einem Warnsystem für niedrigen Batteriestand ausgestattet, das Sie warnen kann, dass der Akku während des Fluges schwach ist. Sie kÃnnen auch im Notfall einen Notstop machen. Aber bitte beachten Sie, dass dies die Mini-Drohne beschädigen kann.
 

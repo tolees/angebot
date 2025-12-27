@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Sporttyp: Multi-Sport
 - Elastischer Bund mit Kordelzug
-- Normaler Schnitt
 - Elastischer Bund mit Kordelzug
+- Normaler Schnitt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08R3W1PTZ{{</world>}}

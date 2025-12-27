@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 8Flexible Gestaltung
 - Extrem hohe Reißfestigkeit
 - Kantenstabilität
+- 8Flexible Gestaltung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00HB3HK8Y{{</world>}}

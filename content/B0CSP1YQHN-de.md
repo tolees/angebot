@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 7 RGB LICHT: EasySMX X15 Controller PC verfügt über einstellbare RGB Licht an den Joysticks und Griffen, mit 7 Farben und 2 Lichtsmodi.
 - Hinweis: Der Controller ist nicht mit Xbox Series kompatibel, aber Sie können bei PC Xbox spiele spielen.
-- HALL TRIGGERS& JOYSTICKS: Die Doppel Hall Triggers&Joysticks sorgt für eine präzisere Steuerung. Keine Totzone, keine Drift.
+- 7 RGB LICHT: EasySMX X15 Controller PC verfügt über einstellbare RGB Licht an den Joysticks und Griffen, mit 7 Farben und 2 Lichtsmodi.
 - BLUETOOTH/ 2.4G/ Kabel: Wireless Controller PC verfügt über 3 Verbindungsmethode: 2.4G USB Empfänger (PC) und Bluetooth (Switch, Android, iOS und Tablet). Wenn Sie Verbindungsmethode ändern, brauchen Sie den entsprechenden Modus wechseln.
-- 1000mAh AKKU: Gaming Controller PC ist eingebaut mit 1000mAh Lithium Akku. Die Akkulaufzeit beträgt über 20 Stunden.
+- HALL TRIGGERS& JOYSTICKS: Die Doppel Hall Triggers&Joysticks sorgt für eine präzisere Steuerung. Keine Totzone, keine Drift.
 - PROGRAMMIERBARE TASTEN: Zwei programmierbare Tasten an der Unterseite des Controllers: M1 M2, einfache Ein-Klick-Bedienung, damit der Spieler sofort spielen und den Spielspaß genießen kann.
+- 1000mAh AKKU: Gaming Controller PC ist eingebaut mit 1000mAh Lithium Akku. Die Akkulaufzeit beträgt über 20 Stunden.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CSP1YQHN{{</world>}}

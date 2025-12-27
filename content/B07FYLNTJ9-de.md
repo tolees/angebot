@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kinderpuzzle
 - Empfohlenes Alter: ab 8 Jahren
+- Kinderpuzzle
 - 200 Teile
 - Spieleranzahl: ab 1 Spieler
 

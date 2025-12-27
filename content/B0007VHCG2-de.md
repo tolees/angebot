@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lieferumfang: 1x Westmark Garnier-und Krapfenspritze, Füllmenge: 180 ml, Maße: 22 x 9,7 x 5,3 cm (L x B x H), Material: Kunststoff (PP)/rostfreier Edelstahl, Farbe: Transparent/Weiß, 31162260
-- Made in Germany: Einfaches Reinigen von Hand da in Einzelteile zerlegbar, spülmaschinengeeignet
-- Garnier- und Krapfenspritze mit Druckknopf und 5 verschiedenen Form-Tüllen zum feinen Dekorieren von Torten, CupCakes, Desserts und deftigen Speisen sowie zum Befüllen von Krapfen, Berlinern, Brandteig-Gebäck oder Pralinen
 - Einfaches Befüllen der Spritze durch große Öffnung, Edelstahlkolben für leichtes Arbeiten mit festeren Cremes, praktische Einhand-Bedienung ohne Kraftaufwand dank Druckknopf, guter Halt durch gebogenen Griff
+- Garnier- und Krapfenspritze mit Druckknopf und 5 verschiedenen Form-Tüllen zum feinen Dekorieren von Torten, CupCakes, Desserts und deftigen Speisen sowie zum Befüllen von Krapfen, Berlinern, Brandteig-Gebäck oder Pralinen
+- Made in Germany: Einfaches Reinigen von Hand da in Einzelteile zerlegbar, spülmaschinengeeignet
 - Gleichmäßiges Garnieren und Befüllen von Süßspeisen mittels Druckknopf, Form-Tüllen für jede Gelegenheit: 2 Sterntüllen (Ø 1/1,2 cm), Lochtülle (Ø 2 mm), Garniertülle (Ø 1 cm) und eine Füll-Tülle (Ø 5 mm/Länge: 4,3 cm)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

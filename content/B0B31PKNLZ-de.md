@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Klettverschluss
 - Reguläre Passform
+- Klettverschluss
 - Textilfutter
 - Abriebfeste Non Marking Gummiaußensohle
 - Obermaterial aus Synthetikleder

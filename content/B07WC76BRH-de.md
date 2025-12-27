@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Perfekte Atmungsaktivität
-- Standard Passform
 - Rundhalsausschnitt
 - Mesh-einsätze am Rücken
+- Standard Passform
+- Perfekte Atmungsaktivität
 - Dri-fit-technologie
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

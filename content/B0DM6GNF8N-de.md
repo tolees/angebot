@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ONLINE-KOOP- UND VS-MODUS: Verbünde dich mit Freunden im lokalen Koop-Modus oder fordere bis zu 8 Kämpfer aus der ganzen Welt im plattformübergreifenden Online-Spiel heraus.
-- ÜBERARBEITETES GAMEPLAY: Das Gameplay wurde mit der Unreal Engine 5 von Grund auf überarbeitet, um ein flüssigeres Gameplay und beeindruckendere Spezialangriffe zu ermöglichen.
 - SPIELEN ALS FEIND: Schlüpfe im Arcade-Modus in die Rolle mächtiger Gegner aus dem Phantom Breaker: Battle Grounds-Universum, jeder mit eigenem Kampfstil und eigenen Fähigkeiten.
 - REMASTERED SOUNDTRACK: Die Spieler haben die Wahl zwischen einem brandneuen Soundtrack, komponiert von der J-Rock-Band The Phantom Breakers, oder den klassischen Versionen aus PB:BG oder PB:BG Overdrive.
+- ONLINE-KOOP- UND VS-MODUS: Verbünde dich mit Freunden im lokalen Koop-Modus oder fordere bis zu 8 Kämpfer aus der ganzen Welt im plattformübergreifenden Online-Spiel heraus.
+- ÜBERARBEITETES GAMEPLAY: Das Gameplay wurde mit der Unreal Engine 5 von Grund auf überarbeitet, um ein flüssigeres Gameplay und beeindruckendere Spezialangriffe zu ermöglichen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DM6GNF8N{{</world>}}

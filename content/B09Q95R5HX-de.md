@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Hoher Bund
 - 5 Taschen, schräge Münztasche
-- Eng anliegend vom Bund bis zum Saum
 - Formbund – steht nicht ab
+- Eng anliegend vom Bund bis zum Saum
 - Reißverschluss
 
 [🛒 Hier!!]({{< param buyurl >}})

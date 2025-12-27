@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mittlerer Halt
 - Gebürstete Oberfläche für ein weicheres Gefühl
+- Mittlerer Halt
 - Bralette mit V-Ausschnitt und herausnehmbaren, atmungsaktiven Pads
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

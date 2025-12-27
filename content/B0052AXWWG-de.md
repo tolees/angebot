@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Brust- und Seitentaschen mit Reißverschluss
-- Erhältlich in einer Vielzahl von Farben, Ideal für den täglichen Gebrauch
-- Länge ca. 69.9 cm
-- Die Reißverschlusstaschen halten Ihre Hände warm und können auch dem sicheren Verstauen von Wertsachen wie Smartphone oder Geld dienen
 - Hoher Halskragen für Wärme und Schutz vor den Elementen
 - Modernes und klassisch geschnittene Full-Zip-Fleecejacke für Herren, die zu jeder Jahreszeit dauerhaften Komfort bietet
+- Erhältlich in einer Vielzahl von Farben, Ideal für den täglichen Gebrauch
+- Die Reißverschlusstaschen halten Ihre Hände warm und können auch dem sicheren Verstauen von Wertsachen wie Smartphone oder Geld dienen
+- Länge ca. 69.9 cm
+- Brust- und Seitentaschen mit Reißverschluss
 - Lieferumfang: 1 x Columbia Fast Trek II Full Zip Fleecejacke für Herren, 100% Polyester Mikrofleece, Farbe: Schwarz, Größe: M, Art.Nr. 1420421
 - 250g Microfleece
 

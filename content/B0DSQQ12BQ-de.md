@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Passform: Regular Fit, Rückenlänge bei Größe M ca. 72 cm;
 - Basic Longsleeve in Unifarben mit kleiner Logo-Stickerei auf der Brust. Mit Rippbündchen am Ausschnitt und den Ärmelabschlüssen. Aus einem weichen Single-Jersey-Stoff aus Baumwolle.
-- Aus einem weichen Single-Jersey-Stoff aus Baumwolle.
 - Rundhalsausschnitt | Langarm
+- Passform: Regular Fit, Rückenlänge bei Größe M ca. 72 cm;
+- Aus einem weichen Single-Jersey-Stoff aus Baumwolle.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DSQQ12BQ{{</world>}}

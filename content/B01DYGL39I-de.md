@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - D&D Icons of the Realms: Monster Menagerie Standard Boosters enthalten jeweils vier Figuren: 1 große Figur und 3 mittlere oder kleine Figuren. D&D-Ikonen der Reiche: Monster Menagerie Standard-Booster-Steine enthalten 8 Standard-Booster (insgesamt 32 Figuren).
-- Sammle alle 55 Figuren aus Monster Menagerie, einer Vielzahl zufällig sortierter Monster und Helden in unserer aufregenden Reihe von D&D-Miniaturen, Icons of the Realms.
 - Erwecke die Welt der Vergessenen Reiche mit diesen fantastischen Miniaturen zum Leben.
 - Monster Menagerie Miniaturen springen direkt aus den Dungeons and Dragons-Büchern und direkt auf die Tischplatte und schließen sich dem Kampf neben vielen anderen Wizkids-Fantasy-Miniaturen an.
+- Sammle alle 55 Figuren aus Monster Menagerie, einer Vielzahl zufällig sortierter Monster und Helden in unserer aufregenden Reihe von D&D-Miniaturen, Icons of the Realms.
 - WizKids, der Branchenführer für hochwertige, vorlackierte Kunststoffminiaturen, freut sich, die Helden, Schurken und Monster aus der Welt des Dungeons & Dragons Forgotten Realms-Universums in dieser neuesten Serie von Fantasy-Miniaturen zum Leben zu erwecken!
 
 [🛒 Hier!!]({{< param buyurl >}})

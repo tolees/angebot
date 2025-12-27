@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Intelligente Beleuchtung: Philips Hue ist kompatibel mit dem Amazon Echo Dot (3.Generation), Echo Plus und Echo Show (2.Generation)
 - Überall einsetzbar: Gemütliches Ambiente mit warmweißem Licht, passend für jede Leuchte mit E27 Fassung
 - Für das volle Smart Home Erlebnis im gesamten Zuhause: Erweitern Sie Ihr System mit der Hue Bridge (separat erhältlich) und entdecken Sie viele weitere Funktionen
 - Personalisierte Beleuchtung: Dimmen Sie das warmweiße Licht, um die optimale Beleuchtung für Ihr Zuhause zu erhalten
+- Intelligente Beleuchtung: Philips Hue ist kompatibel mit dem Amazon Echo Dot (3.Generation), Echo Plus und Echo Show (2.Generation)
 - Stufenlos dimmbar: Nutzen Sie den Smart Button als Lichtschalter oder auch als abnehmbare Fernbedienung für eine flexible Lichtsteuerung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

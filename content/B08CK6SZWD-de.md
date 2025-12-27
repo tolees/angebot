@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochwertiges Silikon mit glatter Oberfläche.
 - Schutzhülle aus Silikon in Rosa aus der Serie Nordik Collection.
 - Federmäppchen mit Reißverschluss, flexibel und formbar.
+- Hochwertiges Silikon mit glatter Oberfläche.
 - Wasserdicht und sehr leicht zu reinigen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

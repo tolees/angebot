@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zwei aufgesetzte Taschen am Gesäß
 - 501 JEANS FOR WOMEN
+- Zwei aufgesetzte Taschen am Gesäß
 - Bund mit Gürtelschlaufen, Knopf und Zipper
 - Zwei Taschen auf der Vorderseite mit Münztasche
 

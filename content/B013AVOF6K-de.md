@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Augenmakeup sorgt dank der Black Booster Polymere für einen noch nie dagewesenen Wimpernaufschlag - für einzigartig voluminöse, faszinierende Wimpern in Tiefschwarz, die mit jedem Schlag verzaubern
 - Das spezielle „Blurring Powder“ und die „Twin Light Black“ Polymere der Schminke sorgen für den extra matten Schwarz-Effekt - das Collagen dehnt die Wimpern auf bis das 9-fache ihrer Größe aus
 - Lieferumfang: 1x LOréal Make Up für die Augen Mega Volume mit Big Eyes Effekt, Augen Makeup in tiefem Schwarz für mega Volumen der Lashes
 - Die neue, großzügige Sofort-Volumenbürste ist 2x größer als eine klassische Bürste: Mit nur einem Strich kann die ideale Menge aufgetragen werden, damit jede einzelne Wimper optimal umhüllt wird
+- Augenmakeup sorgt dank der Black Booster Polymere für einen noch nie dagewesenen Wimpernaufschlag - für einzigartig voluminöse, faszinierende Wimpern in Tiefschwarz, die mit jedem Schlag verzaubern
 - Die neue, innovative und revolutionäre Formel verleiht den Wimpern noch mehr Volumen und ist extra langanhaltend - Augen Make Up mit 24h mega Volumen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

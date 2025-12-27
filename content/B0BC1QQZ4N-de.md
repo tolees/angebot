@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erfahre lustige Fakten über Pokémon.
-- Kein Bildschirm! Alles geht durch Stimmen, Musik, Licht und Bewegung
 - Folgen Sie den Anweisungen des Detektors und bewegen Sie Ihren Körper, um der beste Trainer zu werden
+- Kein Bildschirm! Alles geht durch Stimmen, Musik, Licht und Bewegung
+- Erfahre lustige Fakten über Pokémon.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BC1QQZ4N{{</world>}}

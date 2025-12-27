@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- INTELLIGENTE AUTOMATISIERUNG UND STEUERUNG: Planen Sie für Ihren smarten Stecker, dass er zu bestimmten Zeiten, mit Sprachbefehlen oder bei Sonnenaufgang oder -untergang aktiviert wird, oder Sie können ihn fernsteuern, wenn dies von Ihrem Matter-kompatiblen Hub unterstützt wird
-- EINFACHE EINRICHTUNG MIT ALEXA: Wenn Sie das Produkt berührungslos (Zero Touch) mit Alexa einrichten möchten, wählen Sie an der Kasse „Gerät mit Ihrem Amazon-Konto verknüpfen, um die Einrichtung zu vereinfachen“ aus und nutzen Sie Ihren smarten Stecker im Handumdrehen
-- KOMPAKTES DESIGN: Der Stecker passt perfekt in eine (1) Steckdose, sodass die restlichen Buchsen und Steckdosen zur Verwendung frei sind. Ideal für eine Vielfalt an Vorrichtungen und Geräten wie Weihnachtsbeleuchtung, Ventilatoren, Lampen, Kaffeemaschinen und mehr
 - KOMPATIBILITÄT MIT MEHREREN DIENSTEN: Matter-zertifizierte smarte Stecker sind mit den meisten wichtigen Smart-Home-Diensten wie Amazon Alexa, Google Home, Apple HomeKit und Samsung SmartThings kompatibel. Unterstützt nur 2,4-GHz-WLAN. Matter-kompatibler Smart Hub erforderlich
+- KOMPAKTES DESIGN: Der Stecker passt perfekt in eine (1) Steckdose, sodass die restlichen Buchsen und Steckdosen zur Verwendung frei sind. Ideal für eine Vielfalt an Vorrichtungen und Geräten wie Weihnachtsbeleuchtung, Ventilatoren, Lampen, Kaffeemaschinen und mehr
+- EINFACHE EINRICHTUNG MIT ALEXA: Wenn Sie das Produkt berührungslos (Zero Touch) mit Alexa einrichten möchten, wählen Sie an der Kasse „Gerät mit Ihrem Amazon-Konto verknüpfen, um die Einrichtung zu vereinfachen“ aus und nutzen Sie Ihren smarten Stecker im Handumdrehen
+- INTELLIGENTE AUTOMATISIERUNG UND STEUERUNG: Planen Sie für Ihren smarten Stecker, dass er zu bestimmten Zeiten, mit Sprachbefehlen oder bei Sonnenaufgang oder -untergang aktiviert wird, oder Sie können ihn fernsteuern, wenn dies von Ihrem Matter-kompatiblen Hub unterstützt wird
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DP8K22HP{{</world>}}

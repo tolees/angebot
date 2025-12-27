@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - AEROREADY
 - 100 % recycelter Polyester (Doppelstrick)
-- Elastischer Bund mit Kordelzug
 - Regulär geschnitten
 - Seitenschlitze am Saum
+- Elastischer Bund mit Kordelzug
 - Reißverschlusstaschen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

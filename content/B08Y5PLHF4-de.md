@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfarbiges Oberteil
 - Lockere Passform
 - Stoff mit Stretchanteil
+- Einfarbiges Oberteil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08Y5PLHF4{{</world>}}

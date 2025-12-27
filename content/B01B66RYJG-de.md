@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wasserfeste Formel – Die wasserfeste, sofort wirksame Formel bietet Schutz vor Sonnenbrand und Hautalterung und sorgt für ein geschütztes & weiches Hautgefühl.
 - Vitamin E – Die pflegende Formel der NIVEA SUN Sonnencreme spendet 48h Feuchtigkeit und unterstützt den Hautschutz von innen mit dem Antioxidans Vitamin E.
-- Haut & Umwelt – Aus Rücksicht auf den Ozean ist die Formel zu 77% biologisch abbaubar, frei von Mikroplastik und den UV-Filtern Octocrylen, Octinoxat und Oxybenzon.
+- Wasserfeste Formel – Die wasserfeste, sofort wirksame Formel bietet Schutz vor Sonnenbrand und Hautalterung und sorgt für ein geschütztes & weiches Hautgefühl.
 - Schutz & Pflege – Die wasserfeste Sonnencreme mit LSF 50+ schützt die Haut von außen vor UVA- und UVB-Strahlen und versorgt die Haut von innen mit Feuchtigkeit.
+- Haut & Umwelt – Aus Rücksicht auf den Ozean ist die Formel zu 77% biologisch abbaubar, frei von Mikroplastik und den UV-Filtern Octocrylen, Octinoxat und Oxybenzon.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01B66RYJG{{</world>}}

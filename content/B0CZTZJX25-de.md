@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100 % Baumwolle
 - Rundhalsausschnitt
 - Regulär geschnitten
+- 100 % Baumwolle
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CZTZJX25{{</world>}}

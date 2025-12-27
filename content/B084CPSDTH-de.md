@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Untertitel: Deutsch, Französisch, Italienisch, Dänisch, Finnisch, Norwegisch, Schwedisch
 - Sprache: Italienisch (DTS 5.1), Deutsch (DD 7.1 Plus), Französisch (DD 7.1 Plus)
 - Spieldauer: 127 Minuten
-- Untertitel: Deutsch, Französisch, Italienisch, Dänisch, Finnisch, Norwegisch, Schwedisch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B084CPSDTH{{</world>}}

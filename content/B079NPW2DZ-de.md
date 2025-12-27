@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Ob für Jungs oder Mädchen, Kinder oder Erwachsene, Hobby-Astronomen oder -Astronauten - 3D Puzzlespaß und eine tolle Beschäftigung mit edukativem Hintergrund zum Weltall und den Planeten unseres Sonnensystems
 - Schwierigkeitsgrad 3/5; Das Set enthält 8 Planeten, Sonnen-Mobile, Mondkugel und ein 2-seitiges Poster. Verpackung kann abweichen
 - Puzzeln in der dritten Dimension! Die perfekte Geschenkidee für alle Weltraum-Fans ab 6 Jahren. Mit den 3D Puzzles von Ravensburger erleben Kinder und Erwachsene ein einzigartiges, dreidimensionales Puzzleerlebnis
-- Ob für Jungs oder Mädchen, Kinder oder Erwachsene, Hobby-Astronomen oder -Astronauten - 3D Puzzlespaß und eine tolle Beschäftigung mit edukativem Hintergrund zum Weltall und den Planeten unseres Sonnensystems
-- Die 522 passgenauen Kunststoff-Puzzleteile und 18 Zubehörteile lassen sich dank Easyclick Technology und bebilderter Anleitung ganz einfach zu einem beeindruckenden Modell des Sonnensystems zusammen puzzeln - die fertigen Planeten dienen als stabile Deko-Objekte - ganz ohne Klebstoff
 - Ideale Beschäftigung mit Gelinggarantie - dank bebilderter, farbiger Anleitung, nummerierten Puzzleteilen, zahlreichem Zubehör, 2-seitigem Poster und einem Code für eine informative Online-Broschüre rund um das Thema Weltraum
+- Die 522 passgenauen Kunststoff-Puzzleteile und 18 Zubehörteile lassen sich dank Easyclick Technology und bebilderter Anleitung ganz einfach zu einem beeindruckenden Modell des Sonnensystems zusammen puzzeln - die fertigen Planeten dienen als stabile Deko-Objekte - ganz ohne Klebstoff
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B079NPW2DZ{{</world>}}

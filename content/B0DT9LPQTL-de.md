@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Köstliches Nassfutter in Sauce aus erlesenen Zutaten
-- Serviert in einem 50g Portionsbeutel
 - Hochwertiges Nassfutter, das deine Katze mit allen Nährstoffen versorgt
+- Serviert in einem 50g Portionsbeutel
 - Alleinfuttermittel für ausgewachsene Katzen
 
 [🛒 Hier!!]({{< param buyurl >}})

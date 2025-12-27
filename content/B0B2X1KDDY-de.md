@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hinweis: Das Produkt benötigt möglicherweise ein wichtiges Firmware-Update. Bitte überprüfen Sie die SteelSeries Engine-Software auf Aktualisierungen
-- 60 %-Formfaktor. Volle Funktionalität bei kleinerer Größe. Oberschale aus hochwertigem Aluminium. Abnehmbares USB-C-Kabel.
-- DIE SCHNELLSTE TASTATUR DER WELT – 20 Mal schnellere Betätigung und 11 Mal schnelleres Ansprechverhalten als herkömmliche mechanische Tastaturen
-- Kompatibilität: OS - Windows, Xbox, PlayStation und Mac OS X*. USB-Anschluss erforderlich. | SteelSeries Engine für Windows (8.1 oder neuer) und Mac OSX* (10.13 oder neuer) *Nicht alle Software-Funktionen werden auf Mac OS unterstützt
-- RAPID TRIGGER – Die Latenz durch die physische Betätigung des Switches wird eliminiert, indem die Tasten auf der Grundlage der zurückgelegten Distanz und nicht anhand eines festen Punkts dynamisch aktiviert und deaktiviert werden.
-- TASTEN-DOPPELBELEGUNG – Zwei Aktionen, eine Taste: Leichter Druck zur Vorwärtsbewegung, Durchdrücken zum Sprinten
-- VOLLSTÄNDIG ANPASSBAR UND BAHNBRECHEND SCHNELLmit den anpassbaren OmniPoint 2.0 HyperMagnetic-Switches
 - Verzögerungsfreies Quantum 2.0 Dual Wireless mit einer 2,4 GHz-Verbindung und Bluetooth 5.0
+- Kompatibilität: OS - Windows, Xbox, PlayStation und Mac OS X*. USB-Anschluss erforderlich. | SteelSeries Engine für Windows (8.1 oder neuer) und Mac OSX* (10.13 oder neuer) *Nicht alle Software-Funktionen werden auf Mac OS unterstützt
+- Hinweis: Das Produkt benötigt möglicherweise ein wichtiges Firmware-Update. Bitte überprüfen Sie die SteelSeries Engine-Software auf Aktualisierungen
 - ULTIMATIVE KONTROLLE – 40 Anpassungsstufen pro Taste (0,1 bis 4,0 mm) – stellen Sie WASD auf leichte, ultraschnelle Betätigungen und die Tasten für Skills auf ein tiefes Drücken ein, um ein versehentliches Auslösen zu vermeiden
+- DIE SCHNELLSTE TASTATUR DER WELT – 20 Mal schnellere Betätigung und 11 Mal schnelleres Ansprechverhalten als herkömmliche mechanische Tastaturen
+- 60 %-Formfaktor. Volle Funktionalität bei kleinerer Größe. Oberschale aus hochwertigem Aluminium. Abnehmbares USB-C-Kabel.
+- RAPID TRIGGER – Die Latenz durch die physische Betätigung des Switches wird eliminiert, indem die Tasten auf der Grundlage der zurückgelegten Distanz und nicht anhand eines festen Punkts dynamisch aktiviert und deaktiviert werden.
+- VOLLSTÄNDIG ANPASSBAR UND BAHNBRECHEND SCHNELLmit den anpassbaren OmniPoint 2.0 HyperMagnetic-Switches
+- TASTEN-DOPPELBELEGUNG – Zwei Aktionen, eine Taste: Leichter Druck zur Vorwärtsbewegung, Durchdrücken zum Sprinten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B2X1KDDY{{</world>}}

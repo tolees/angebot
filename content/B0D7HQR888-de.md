@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- zipper with button
+- Stretch cotton denim
 - Tommy Hilfiger branding
-- Whisker effect on thighs
 - Front and back fade effect
 - 5 pocket style
-- Stretch cotton denim
-- zipper with button
+- Whisker effect on thighs
 - Tommy Hilfiger flag embroidery on back pocket
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Im Zweierpack
 - Levis Logo auf der Brust
+- Im Zweierpack
 - Kurzärmeliges T-Shirt aus weichem Jersey
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

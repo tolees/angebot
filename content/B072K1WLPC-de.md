@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Alien Collection – 6-Disc-Set (Alien/Aliens/Alien 3/Alien Resurrection/Prometheus/Alien C
-- Alien Collection - 6-Disc-Set
 - Alien / Aliens / Alien 3 / Alien Resurrection / Prometheus / Alien Covenant
+- Alien Collection - 6-Disc-Set
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B072K1WLPC{{</world>}}

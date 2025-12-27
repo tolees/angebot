@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Bündchen und Saum mit elastischer Einfassung
-- Regulär geschnitten
 - 100 % Polyester (recycelt)
+- Regulär geschnitten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CYY5KFGJ{{</world>}}

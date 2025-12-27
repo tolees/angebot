@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fasertiefe Reinigung: Der Akku-Waschsauger SE 3-18 Compact entfernt Staub, Schmutz und Flecken sauber und hygienisch von Autositzen, Polstermöbeln, Teppichen und anderen Textilien
 - Integrierter Sprühsaugschlauch: Mit dem beiliegenden Schlauch wird sowohl gesprüht als auch gesaugt. Das Bewegungsgelenk sorgt dafür, dass der Schlauch sich nicht verhakt
-- Lieferumfang: Zum Set gehören der Kärcher 18 V Akku-Waschsauger SE 3-18 Compact mit Sprühsaugschlauch, Waschdüse für Polster und eine für Fugen. Der kompatible Kärcher 18-V-Akku ist separat erhältlich
 - Einfaches Verstauen: Der Waschsauger lässt sich nach der Benutzung einfach und ohne Schmutzkontakt reinigen. Dank der Trocknungsfunktion kann er anschließend sofort verstaut werden
+- Fasertiefe Reinigung: Der Akku-Waschsauger SE 3-18 Compact entfernt Staub, Schmutz und Flecken sauber und hygienisch von Autositzen, Polstermöbeln, Teppichen und anderen Textilien
+- Lieferumfang: Zum Set gehören der Kärcher 18 V Akku-Waschsauger SE 3-18 Compact mit Sprühsaugschlauch, Waschdüse für Polster und eine für Fugen. Der kompatible Kärcher 18-V-Akku ist separat erhältlich
 - Maximale Flexibilität: Das kompakte Design und das geringe Gewicht sorgen dafür, dass der kabellose Akku-Waschsauger sich flexibel, etwa bei der Autoreinigung, einsetzen lässt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

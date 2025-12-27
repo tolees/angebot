@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Lieferumfang: 1 x Ecolor Steckdosenleiste mit USB-Ladefunktion und 1,5m Kabel in der Farbe schwarz - in bester Qualität von Brennenstuhl
 - Steckerleiste 4-fach USB mit erhöhtem Berührungsschutz - sorgt für noch mehr Sicherheit im Haushalt
 - Mehrfachsteckdose mit beleuchtetem Sicherheitsschalter zum Ein- und Ausschalten (zweipolig)
-- Steckdosenleiste mit 2 USB A Ladebuchsen 5V/2.10A, 10.5W
-- Lieferumfang: 1 x Ecolor Steckdosenleiste mit USB-Ladefunktion und 1,5m Kabel in der Farbe schwarz - in bester Qualität von Brennenstuhl
 - 4er Schutzkontakt-Steckdosenleiste mit 1,5m Kabellänge (H05VV-F 3G1,5) und einer Steckdosenausrichtung von 45°
+- Steckdosenleiste mit 2 USB A Ladebuchsen 5V/2.10A, 10.5W
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07K75LPJ5{{</world>}}

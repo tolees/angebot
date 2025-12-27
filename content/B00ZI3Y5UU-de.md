@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Klettband ist nicht im Lieferumfang enthalten
 - waschbar bei 30°C
+- für alle gängigen Fenstertypen sowie Türen mit französischem Balkon geeignet
+- Klettband ist nicht im Lieferumfang enthalten
 - in wenigen Minuten am Fensterrahmen befestigt, jederzeit abnehmbar
 - individuell zuschneidbar
-- für alle gängigen Fenstertypen sowie Türen mit französischem Balkon geeignet
 - feinmaschiges Qualitäts-Fliegengitter aus Polyestergewebe sorgt für lückenlosen Schutz
 
 [🛒 Hier!!]({{< param buyurl >}})

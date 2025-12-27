@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Es kommen KEINE Schnecken zu Schaden. Schneckenschleim wird auf sichere und umweltfreundliche Weise in einer für Schnecken angenehmen Umgebung gewonnen und zu Kosmetikrohstoff weiterverarbeitet. 100 % natürlich, hypoallergen, dermatologisch getestet.
 - Schneckenschleim ist ein HOCHWIRKSAMEN Inhaltsstoff für unreine, trockene und empfindliche Haut. Er lässt die Feuchtigkeit tief in die Haut eindringen und hilft bei Akneausbrüchen und Falten.
+- COSRX-Standards: Reine Schönheit – Alle COSRX-Produkte sind aus hautfreundlichen Inhaltsstoffen zubereitet, die Hautreizungen mildern. Hypoallergen, dermatologisch getestet, ohne Tierversuch, ohne Parabene, ohne Sulfate, ohne Phthalate.
 - Leichte Textur, einfach und wirksam: Ein leichtes serum, das von der Haut schnell aufgenommen wird und für ein natürliches und gesundes Leuchten sorgt.
 - Hodosiertes Schneckenserum mit Hyaluronsäure beruhigt und repariert die geschädigte Haut bei Unreinheiten und Rötungen.
-- COSRX-Standards: Reine Schönheit – Alle COSRX-Produkte sind aus hautfreundlichen Inhaltsstoffen zubereitet, die Hautreizungen mildern. Hypoallergen, dermatologisch getestet, ohne Tierversuch, ohne Parabene, ohne Sulfate, ohne Phthalate.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00PBX3L7K{{</world>}}

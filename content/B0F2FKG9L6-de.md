@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Beleuchtung mit hoher Dichte. Strings HD bieten mehr intelligente LEDs pro Fuß als alle anderen zuordnungsfähigen Lichterketten. Jede LED wirkt wie ein Pixel in Ihrem Display und sorgt für hellere, flüssigere und hochauflösende Animationen.
 - Smart-Home-Integration. Die smarten Lichter von Twinkly sind mit Amazon Alexa und Google Assistant kompatibel und ermöglichen eine freihändige Sprachsteuerung.
-- Erweiterbares Beleuchtungssystem. Verbinden Sie Strings HD virtuell mit allen anderen Twinkly-Leuchten für Innen- und Außenbereiche, um ein erweitertes 3D-Layout zu erstellen. Sie können zusammengeführt werden, um als eine einzige Anzeige zu leuchten, oder synchronisiert werden, um die gleichen Animationen abzuspielen.
 - Erstellen Sie unendlich viele benutzerdefinierte Effekte und Animationen. Spielen Sie mit voreingestellten Effekten und Animationen, passen Sie sie an oder erstellen Sie Ihre eigenen aus einer Palette von über 16 Millionen Farben, einschließlich warmweiß. Mit dem FX-Assistenten können Sie sogar Effekte von Grund auf neu erstellen.
+- Erweiterbares Beleuchtungssystem. Verbinden Sie Strings HD virtuell mit allen anderen Twinkly-Leuchten für Innen- und Außenbereiche, um ein erweitertes 3D-Layout zu erstellen. Sie können zusammengeführt werden, um als eine einzige Anzeige zu leuchten, oder synchronisiert werden, um die gleichen Animationen abzuspielen.
 - Zuordnungsfähige, bildschirmähnliche Anzeige. Die Twinkly-App nutzt die Kamera Ihres Smartphones, um jede LED zu lokalisieren und eine virtuelle Karte Ihrer Lichter zu erstellen – egal, wie Sie sie positionieren. So haben Sie die volle Kontrolle über eine bildschirmähnliche Anzeige.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fotorealistische Optik, intensive Action und unzählige authentische und futuristische Fluggeräte
-- Die Deluxe Edition für Nintendo Switch enthält sechs DLC und weitere Bonus-Inhalte
 - ACE COMBAT 7: Skies Unknown steckt SpielerInnen einmal mehr in die Cockpits moderner Kampfflugzeuge
+- Die Deluxe Edition für Nintendo Switch enthält sechs DLC und weitere Bonus-Inhalte
+- Fotorealistische Optik, intensive Action und unzählige authentische und futuristische Fluggeräte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CTKPW4YW{{</world>}}

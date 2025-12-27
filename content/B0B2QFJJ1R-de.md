@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Deo-und Bodyspray mit herb-aromatischem Herrenduft
 - Frische Noten von Lavendel, Basilikum und Sternanis beleben in der Kopfnote die Sinne
 - Die ausgereifte Herznote aus Kaffee, Kümmel und Nelken wird abgerundet und veredelt mit einer erdigen Basis aus Tonkabohne, Patchouli und Zedernholz
+- Das Deo-und Bodyspray mit herb-aromatischem Herrenduft
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B2QFJJ1R{{</world>}}

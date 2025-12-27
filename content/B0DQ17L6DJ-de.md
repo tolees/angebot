@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Große Formenvielfalt durch individuell geformte Puzzleteile Perfekter Zusammenhalt durch speziell entwickelte Pappe Perfekte Passgenauigkeit durch besonders feine Stanzmesser, Spezieller Mattlack für spiegelfreies Puzzeln, Leinenstruktur
-- Empfohlenes Alter: ab 12 Jahren
-- 200 Teile Puzzle
 - Puzzlemaße: 43,2 x 29,1 cm
+- 200 Teile Puzzle
+- Empfohlenes Alter: ab 12 Jahren
 - SCHMIDT SPIELE Premium-Puzzles – mit Qualität, die Sie greifen können
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

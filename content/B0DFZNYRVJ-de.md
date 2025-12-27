@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 🐝 Straffendes und Haut glättendes Serum. Natürliche Hautpflege aus dem Bienenstock mit hochdosiertem Bienengift und hochwertigem Gelée Royale. Beide Bienenprodukte bieten in dieser Kombination den gewünschten Effekt der Haut. Zusätzlich fördern die enthaltenen Acetyl Glucosamine die Hyaluronproduktion. Das bedrop CONCENTRATED ANTI AGING SERUM verleiht eine strahlend schöne und glatte Haut durch die Kraft des Bienenstocks.
-- 🌱 NACHHALTIGKEIT: Inkl. stilvolle, praktische Umverpackung für einen sicheren Transport. Generell verwenden wir bei unseren Produkten nur nachhaltige Materialien zB. Recycling-Faltschachteln.
-- 🔬 KONTROLLE: Unsere Produkte werden in regelmäßigen Abständen von zertifizierten Laboren geprüft. Reich an einem Aminosäuren & Natur-Inhaltsstoffen. Frei von Silikonen, Parabenen und chemischen Zusätzen.
 - ✅ UNTERSTÜTZUNG: Wir von bedrop sind gegen das Bienensterben und setzen uns hierfür mit verschiedenen Imkereien, sowie Projekten ein. Du unterstützt diese Projekte mit jedem Kauf unserer Produkte. Die Bieneninhaltsstoffen werden von geprüften Imkereien bezogen.
 - 💛 SICHERE PRODUKTION: Unter strengen Voraussetzungen und genausten Hygiene-Standards werden unsere Produkte mit Liebe in Deutschland hergestellt.
+- 🌱 NACHHALTIGKEIT: Inkl. stilvolle, praktische Umverpackung für einen sicheren Transport. Generell verwenden wir bei unseren Produkten nur nachhaltige Materialien zB. Recycling-Faltschachteln.
+- 🐝 Straffendes und Haut glättendes Serum. Natürliche Hautpflege aus dem Bienenstock mit hochdosiertem Bienengift und hochwertigem Gelée Royale. Beide Bienenprodukte bieten in dieser Kombination den gewünschten Effekt der Haut. Zusätzlich fördern die enthaltenen Acetyl Glucosamine die Hyaluronproduktion. Das bedrop CONCENTRATED ANTI AGING SERUM verleiht eine strahlend schöne und glatte Haut durch die Kraft des Bienenstocks.
+- 🔬 KONTROLLE: Unsere Produkte werden in regelmäßigen Abständen von zertifizierten Laboren geprüft. Reich an einem Aminosäuren & Natur-Inhaltsstoffen. Frei von Silikonen, Parabenen und chemischen Zusätzen.
 - 🙏 Anti-Aging Effekt durch Bienengift-Power: Gelée Royale und Bienengift sind zwei kraftvolle Bienenprodukte, die in der Anti-Aging-Hautpflege zunehmend an Bedeutung gewinnen. Gelée Royale unterstützt die Kollagenproduktion und verbessert die Hautelastizität, während Bienengift als "natürliche Schönheitsop" wirkt, indem es feine Linien glättet und die Haut strafft. Beide Inhaltsstoffe bieten zudem regenerierende Eigenschaften, die die Haut jugendlich und strahlend erscheinen lassen. Ihre Wirksamkeit hat sogar das britische Königshaus überzeugt, wo sie in der Hautpflege Anwendung finden.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

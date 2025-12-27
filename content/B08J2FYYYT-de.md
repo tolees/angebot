@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - PROFI-QUALITÄT OHNE KOMPROMISSE: Erleben Sie die Leistung eines professionellen, rückwärtig belichteten Vollformat-CMOS-Sensors in einem leichten und kompakten Gehäuse, das Sie überall begleiten kann.
-- SUPERSCHNELLER UND VERLÄSSLICHER AUTOFOKUS: Dank dem einzigartigen Echtzeit-Autofokussystem von Sony, das sogar in der Lage ist, bei Fotos und Videos die Augen Ihres Motives (Menschen oder Tiere) nachzuverfolgen, sind ihre Bilder stets dort gestochen scharf, wo Sie es wollen.
+- ÜBERTRAGEN SIE IHRE WERKE IM HANDUMDREHEN: Mit den kostenlosen Imaging Edge Programmen und Apps können Sie Ihre Inhalte mühelos teilen und streamen.
 - FANGEN SIE JEDEN MOMENT LEBENSECHT EIN: Mit 24,2 MP, 4K Videoaufnahme und einem ISO-Bereich von 100 - 51.200 ist die Alpha 7 C in jeder Situation in der Lage, beeindruckende Bilder und Videos aufzunehmen.
 - INTUITIV UND BENUTZERFREUNDLICH: Bildstabilisierung im Gehäuse für bis zu 5 Blendenstufen Verwackelungskompensation, seitlich dreh- und schwenkbarer Bildschirm mit Touch-AF, ausdauernder Z-Akku, digitale Audioschnittstelle sowie Mikrofon- und Kopfhöreranschluss und verbesserter Schutz gegen Staub und Feuchtigkeit.
-- ÜBERTRAGEN SIE IHRE WERKE IM HANDUMDREHEN: Mit den kostenlosen Imaging Edge Programmen und Apps können Sie Ihre Inhalte mühelos teilen und streamen.
+- SUPERSCHNELLER UND VERLÄSSLICHER AUTOFOKUS: Dank dem einzigartigen Echtzeit-Autofokussystem von Sony, das sogar in der Lage ist, bei Fotos und Videos die Augen Ihres Motives (Menschen oder Tiere) nachzuverfolgen, sind ihre Bilder stets dort gestochen scharf, wo Sie es wollen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08J2FYYYT{{</world>}}

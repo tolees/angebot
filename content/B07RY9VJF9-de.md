@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- kann mit wasservermalbaren Produkten kombiniert werden
 - wasserfest und lichtecht nach ISO 14145-2 zertifiziert
-- ultra feine Faserspitze
 - Perfekt zum feinen Zeichnen, Skizzieren, Illustrieren und Schreiben
+- ultra feine Faserspitze
+- kann mit wasservermalbaren Produkten kombiniert werden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07RY9VJF9{{</world>}}

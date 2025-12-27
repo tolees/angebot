@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein gefühlvoller Damenduft, der eine orientalische Kopfnote trägt
 - 40 ml Eau de Parfum (EdP) Spray
 - Duftnoten: Orientalisch, Blumig
+- Ein gefühlvoller Damenduft, der eine orientalische Kopfnote trägt
 - Gut für alle sinnlichen Damen geeignet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

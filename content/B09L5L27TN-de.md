@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Breitere vertikale Linien auf der Ferse
 - Obermaterial aus Leder mit perforiertem Schuhblatt
+- Breitere vertikale Linien auf der Ferse
 - Zwischensohle und Außensohle aus Gummi
 
 [🛒 Hier!!]({{< param buyurl >}})

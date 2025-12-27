@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 16,8 cm (6,6 Zoll) PLS LCD Display mit 1080 x 2408 Pixel
 - 128 GB interner Speicher, Wassergeschützt, Android 14.0
-- Farbe: schwarz
 - 50 Megapixel Hauptkamera
+- 16,8 cm (6,6 Zoll) PLS LCD Display mit 1080 x 2408 Pixel
+- Farbe: schwarz
 - 2,2 GHz Octa-Core-Prozessor
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

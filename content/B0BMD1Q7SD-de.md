@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schmal geschnitten
 - Die gefütterte Vorderseite
+- Schmal geschnitten
 - Bewegungsfreiheit bietet
 
 [🛒 Hier!!]({{< param buyurl >}})

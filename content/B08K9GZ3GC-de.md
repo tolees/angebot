@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Die ASUS-Extreme-Low-Motion-Blur-Sync-Technologie (ELMB SYNC) ermöglicht die Nutzung von ELMB gleichzeitig mit G-SYNC Compatible, um Ghosting und Tearing zu verhindern.
 - Die High-Dynamic-Range(HDR)-Technologie mit professionellem Farbraum liefert einen Kontrast und eine Farbleistung, die den Anforderungen von DisplayHDR- 400 entspricht.
-- Eine Reaktionszeit von 1ms (MPRT) in Kombination mit Adaptive-Sync, verhindert Ghosting und Tearing für eine gestochen scharfe Gaming-Grafik mit hohen Bildraten.
 - 80,01cm (31,5 Zoll) WQHD (2560x1440) Curved-Gaming-Monitor mit ultra-schneller Bildwiederholfrequenz von 170Hz* (übertaktet), der für professionelle Gamer und immersives Gameplay entwickelt wurde
 - Unterstützt sowohl Adaptive-Sync mit NVIDIA-GeForce-Grafikkarten als auch Freesync Premium mit AMD-Grafikkarten.
+- Eine Reaktionszeit von 1ms (MPRT) in Kombination mit Adaptive-Sync, verhindert Ghosting und Tearing für eine gestochen scharfe Gaming-Grafik mit hohen Bildraten.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08K9GZ3GC{{</world>}}

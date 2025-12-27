@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Vollgummi-Außensohle.
-- FuelFoam-Zwischensohle mit geprägtem Logo. Gerillte Gummi-Außensohle.
 - Leichtes, atmungsaktives Mesh-Obermaterial. Schnürsenkel.
+- FuelFoam-Zwischensohle mit geprägtem Logo. Gerillte Gummi-Außensohle.
 - Gepolsterter Knöchelbereich und Zunge. Logo-Label auf der Zunge.
 - Logo application on the tongue
 

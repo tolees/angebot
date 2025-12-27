@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der zerlegbare Deckel ist spülmaschinengeeignet. Er wird zerlegt, indem die Kunststoffkugel am Pendel abgenommen wird. Zur Reinigung der Karaffe werden Reinigungsperlen empfohlen
+- Der CloseUp-Verschluss öffnet und schließt sich beim Eingießen automatisch. Eis und Fruchtstücke werden durch ein Sieb zurückgehalten. Den Deckel auf den trockenen Karaffenhals fest aufdrehen
 - Durch die große Öffnung ist ein leichtes Befüllen von Kaltgetränken (Wasser, Sprudel, Saft, Eistee uvm.) möglich. Die Karaffe passt in das Getränkefach eines handelsüblichen Kühlschranks
 - Material: Hochwertige Glas Karaffe mit Silikonrand und CloseUp-Verschluss aus Cromargan Edelstahl Rostfrei 18/10. Karaffe: Handwäsche empfohlen
-- Der CloseUp-Verschluss öffnet und schließt sich beim Eingießen automatisch. Eis und Fruchtstücke werden durch ein Sieb zurückgehalten. Den Deckel auf den trockenen Karaffenhals fest aufdrehen
+- Der zerlegbare Deckel ist spülmaschinengeeignet. Er wird zerlegt, indem die Kunststoffkugel am Pendel abgenommen wird. Zur Reinigung der Karaffe werden Reinigungsperlen empfohlen
 - Inhalt: 1x Karaffe Glas mit Deckel mit Deckel (Volumen 1,5 l, Höhe 32,7 cm, Ø 8,8 | 11,3 cm), 1x Silikondeckel mit Closeup-Verschluss - Artikelnummer: 0617726040
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

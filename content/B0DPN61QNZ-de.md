@@ -31,10 +31,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - GANZ EINFACH ÜBERALL TEILEN Für eine stabile Bildübertragung kann man über die Imaging Edge App ganz einfach eine Verbindung mit dem Handy herstellen. VERBINDUNG MIT DEM HANDY: 1) Laden Sie die Imaging Edge App aus dem App Store. 2) Aktivieren Sie Bluetooth und WLAN auf Handy und Kamera. 3) Verbinden Sie die Geräte über die App. > Anschließend können Sie Fotos und Videos direkt übertragen und die Kamera per Smartphone fernsteuern. Mit einer USB-Verbindung wird die Kamera im Handumdrehen zur hochwertigen Webcam – ideal für Streaming, Videokonferenzen und mehr.
 - Update 2025 / A-Version: Der Akku kann ausschließlich mit dem im Lieferumfang enthaltenen Ladegerät extern aufgeladen werden; ein Laden per USB ist nicht mehr möglich.
 - SCHNELLER UND PRÄZISERER AUTOFOKUS: Verlassen Sie sich auf 0,02s AF, Tracking in Echtzeit und Autofokus mit Augenerkennung, um Ihr Motiv in jeder Situation im Fokus zu behalten.
+- PERFEKT FÜR VIDEO CREATOR: Hochauflösende 4K-HDR-Filmaufnahme und Full-HD-Slow-Motion-Funktion (120p) mit Autofokus.
 - LIEFERUMFANG A6400 Body, SEL1650 Objektiv inkl. Abdeckung, Objektivblende, Akku NP-FW50, Ladegerät BC-TRW (für externes Laden des Akkus), Micro USB Kabel
 - IDEAL FÜR: Einsteiger und Fortgeschrittene, die ein kompaktes Alltagsobjektiv (Sony 16-50mm) benötigen. Mit dem optionalen Zoom (Sony 55-210mm) auch optimal um Sport und Natur einzufangen
 - ENTSCHEIDENDE MOMENTE FESTHALTEN: Serienaufnahmen mit bis zu 11 Bildern pro Sekunde mit AF/AE-Tracking.
-- PERFEKT FÜR VIDEO CREATOR: Hochauflösende 4K-HDR-Filmaufnahme und Full-HD-Slow-Motion-Funktion (120p) mit Autofokus.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DPN61QNZ{{</world>}}

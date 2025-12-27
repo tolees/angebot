@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- kräftige, beständige Farben
-- Badteppich in der Größe 60 x 100 cm für Möve Serie Essential und Superwuschel
-- weiches und saugfähiges Bodentuch
 - Waschempfehlung 60°
+- kräftige, beständige Farben
+- weiches und saugfähiges Bodentuch
+- Badteppich in der Größe 60 x 100 cm für Möve Serie Essential und Superwuschel
 - mit eingesticktem Möve Logo am Rand
 
 [🛒 Hier!!]({{< param buyurl >}})

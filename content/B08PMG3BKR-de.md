@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Panoramasicht : Großflächige Gläser für ein maximales Sichtfeld.
-- Full Venting : Besonders gut belüftete Brillenstruktur, die dafür sorgt, dass die Luft stets frei zirkulieren kann und somit das Beschlagen der Gläser verhindert.
 - Air Link Temple System : Der am Bügelende angebrachte stoßdämpfende Elastomer-Einsatz sorgt für zusätzlichen Komfort und Leichtigkeit.
+- Full Venting : Besonders gut belüftete Brillenstruktur, die dafür sorgt, dass die Luft stets frei zirkulieren kann und somit das Beschlagen der Gläser verhindert.
+- Panoramasicht : Großflächige Gläser für ein maximales Sichtfeld.
 - Grip Nose : Weiches, stoßfestes und rutschsicheres Nasensteg-Insert.
 - Total Cover : Optimaler Schutz vor Sonneneinstrahlung unter extremsten Bedingungen.
 

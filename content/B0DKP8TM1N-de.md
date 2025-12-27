@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - AI-Funktionen: Gemini
-- 5110mAh Akku mit 45W TurboCharge
-- 108MP AI-Kamerasystem mit OIS
 - 120Hz Augenschutzdisplay, 2100cd/m² maximale Helligkeit, Corning Gorilla Glass 5
+- 108MP AI-Kamerasystem mit OIS
 - MediaTek Dimensity 7025-Ultra, 6nm Fertigungsprozess-Technologie
+- 5110mAh Akku mit 45W TurboCharge
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DKP8TM1N{{</world>}}

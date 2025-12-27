@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eichhorn - Holzspielzeug mit Tradition - seit über 75 Jahren fertigen wir Qualitäts-Holzspielzeug. Pädagogisch wertvoll fördern unsere Produkte durch Kombination von Fühlen, Stapeln, Stecken, Schieben und Schrauben die Motorik und Kreativität vom frühesten Kindesalter an.
-- Fördert motorische Fähigkeiten - durch das Stecken wird die Feinmotorik sowie Hand-Auge-Koordination der Kinder geschult. Geeignet für Kinder ab einem Jahr
-- Zug mit Licht und Sound - drückt man auf den kleinen gelben Kamin, so beginnt die Lokomotive vorne zu leuchten und es ertönen tolle Zuggeräusche. (Batterien sind enthalten)
 - Mit Steckspiel - der Zug kommt mit 28 bunten Bausteinen in verschiedenen Farben und Formen, die beliebig auf die Steckvorrichtungen gesteckt werden können. Darunter befinden sich auch Steine mit Gesichtern, womit neben Fracht auch Figuren entstehen
+- Fördert motorische Fähigkeiten - durch das Stecken wird die Feinmotorik sowie Hand-Auge-Koordination der Kinder geschult. Geeignet für Kinder ab einem Jahr
+- Eichhorn - Holzspielzeug mit Tradition - seit über 75 Jahren fertigen wir Qualitäts-Holzspielzeug. Pädagogisch wertvoll fördern unsere Produkte durch Kombination von Fühlen, Stapeln, Stecken, Schieben und Schrauben die Motorik und Kreativität vom frühesten Kindesalter an.
+- Zug mit Licht und Sound - drückt man auf den kleinen gelben Kamin, so beginnt die Lokomotive vorne zu leuchten und es ertönen tolle Zuggeräusche. (Batterien sind enthalten)
 - Mit zwei Wagons - der kunterbunte Holzzug besteht aus einer Lokomotive und zwei Wagons, die ganz einfach angehängt werden können. Insgesamt hat der Zug eine Länge von 59cm. Kinder können damit ihre Runden im Kinderzimmer drehen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: Kärcher Glasreiniger-Konzentrat RM 503 500 ml
+- Löst Kalkflecken von Duschkabinen, Spiegeln und Glasflächen und entfernt hartnäckige Verschmutzungen, wie z.B. Fettfilme, Insekten, Hautfette, Emissionen
 - Lässt Regen schneller ablaufen und verzögert die Wiederanschmutzung
 - Geeignet für alle Kärcher Fenstersauger und für die manuelle Reinigung.
-- Löst Kalkflecken von Duschkabinen, Spiegeln und Glasflächen und entfernt hartnäckige Verschmutzungen, wie z.B. Fettfilme, Insekten, Hautfette, Emissionen
+- Lieferumfang: Kärcher Glasreiniger-Konzentrat RM 503 500 ml
 - Anwendungsgebiete: Fensterreiniger-Konzentrat zur streifenfreien Reinigung aller wasserfesten, glatten Oberflächen, wie z.B. Glas, Fenster, Spiegel oder Duschkabinen
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Tippen Sie überall komfortabel und präzise. Die beleuchtete Tastatur in großzügigem Layout mit einer vollständigen Tastenzeile mit iPadOS-Sondertasten, darunter den neuen Screenshot- und Diktattasten, hilft Ihnen, Ihre Produktivität bei Tag und Nacht zu optimieren.
+- Mit vier verschiedenen Verwendungsmodi – Tippen, Lesen, Zeichnen und Anschauen –, können Sie einfach mehr erledigen, egal wo Sie gerade sind.
 - Bearbeiten Sie Dokumente, navigieren Sie in Apps und erstellen Sie Präsentationen mit beispielloser Präzision mit einem Trackpad, das die gewohnten Multi-Touch-Gesten unterstützt.
 - Batterien sind nicht enthalten, weil keine benötigt werden. Die Tastatur wird über den Smart Connector sofort gepairt und eingeschaltet. Sie bezieht außerdem ihren Strom direkt vom iPad und muss daher nicht geladen werden.
-- Mit vier verschiedenen Verwendungsmodi – Tippen, Lesen, Zeichnen und Anschauen –, können Sie einfach mehr erledigen, egal wo Sie gerade sind.
 - Die flexible Halterung ist über einen Winkel von 50° verstellbar: So finden Sie immer den richtigen Winkel für Ihre aktuelle Aufgabe. Wenn es nichts zu tippen gibt, trennen Sie die Tastatur ab und genießen Sie unbehindert Ihren iPad-Bildschirm.
 
 [🛒 Hier!!]({{< param buyurl >}})

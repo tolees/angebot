@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flexible Gestaltung
 - Qualität/Haltbarkeit
 - Innenvierkant Antrieb 12,5 = 1/2″ · Chrom-Vanadium · Oberfläche: verchromt · DIN 3123, ISO 3316 · Außenvierkant Antrieb 10 = 3/8″
+- Flexible Gestaltung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B001CA11GO{{</world>}}

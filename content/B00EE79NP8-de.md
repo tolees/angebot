@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Cups aus glatter Qualität mit Details aus Spitze
 - Mit LYCRA für eine perfekte Anpassung an den Körper und maximale Bewegungsfreiheit
+- Cups aus glatter Qualität mit Details aus Spitze
 - BH mit leichter Polsterung und formenden Bügeln
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

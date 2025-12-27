@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die dicke Laufsohle bietet Amphibienschutz, verhindert Verletzungen durch scharfe Gegenstände und beugt Verbrennungen durch heißen Sand oder Holzsteg vor.
 - Die herausnehmbare, wasserdichte Innensohle sorgt für schnelles Trocknen und bietet besseren Schutz bei Ihren Wasserabenteuern.
 - Weiches und dehnbares Obermaterial sorgt für Komfort und Atmungsaktivität.
 - Ultraleicht und flexibel wie Socken, für höchsten Tragekomfort und einfaches Tragen und Aufbewahren.
+- Die dicke Laufsohle bietet Amphibienschutz, verhindert Verletzungen durch scharfe Gegenstände und beugt Verbrennungen durch heißen Sand oder Holzsteg vor.
 - Das Kordelzug-Design sorgt für einen engeren Sitz um die Knöchel und verhindert, dass kleine Kieselsandkörner leicht in den Schuh gelangen.
 
 [🛒 Hier!!]({{< param buyurl >}})

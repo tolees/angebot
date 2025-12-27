@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- In Kino- & Extended-Cut-Fassung: vollständig restauriert in HD-Qualität, mit originaler deutscher Synchronfassung – perfekt für Sammler und Filmklassiker-Fans
 - Limitierte 2-Disc Blu-Ray Sammleredition von WME Film Klassiker: hochwertiges Wendecover ohne FSK-Logo, exklusive Aufmachung und erstklassige Bild- und Tonqualität
-- Regie-Legenden Michael Winner (& „Death Wish“) und J. Lee Thompson (& „Murphy’s Law“) inszenieren Bronson in seinen härtesten Rollen zwischen Gerechtigkeit und Selbstjustiz
 - Kult-Atmosphäre der 70er & 80er: urbaner Noir-Stil, politische Spannung und klassische Thriller-Musik – echter Retro-Charme für Heimkino und Nostalgie-Fans
+- Regie-Legenden Michael Winner (& „Death Wish“) und J. Lee Thompson (& „Murphy’s Law“) inszenieren Bronson in seinen härtesten Rollen zwischen Gerechtigkeit und Selbstjustiz
+- In Kino- & Extended-Cut-Fassung: vollständig restauriert in HD-Qualität, mit originaler deutscher Synchronfassung – perfekt für Sammler und Filmklassiker-Fans
 - Zwei restaurierte Charles-Bronson-Thriller erstmals vereint: Ein Mann geht über Leichen (1973) & Der Liquidator (1984) – zwei Jahrzehnte kompromissloser Action in einer Edition
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

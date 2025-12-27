@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Cups mit weichen Einlagen und formenden Bügeln
 - Spacer-BH mit glatter Mikrofaser
 - Elastische LYCRA-Faser
+- Cups mit weichen Einlagen und formenden Bügeln
 - Seitenpartien aus superweichem, zweischichtigem Material mit unsichtbaren Nähten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

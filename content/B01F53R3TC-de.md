@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Moderner Wanderschuh
 - Schuhweite: Mittel
+- Moderner Wanderschuh
 - kam als Material Gummi zum Einsatz.
 
 [🛒 Hier!!]({{< param buyurl >}})

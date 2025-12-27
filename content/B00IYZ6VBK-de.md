@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- sehr hochwertige Qualität; pädagogisch wertvoll
-- Sehr hübscher und umfangreicher Kosmetikkoffer, der keine Wünsche offen lässt. Inkl. großem Spiegel und Licht
 - Koffermaße: 30x30x10cm
+- Sehr hübscher und umfangreicher Kosmetikkoffer, der keine Wünsche offen lässt. Inkl. großem Spiegel und Licht
+- sehr hochwertige Qualität; pädagogisch wertvoll
 - Benötigt werden: 2 Batterien Type AAA; Diese sind nicht im Lieferumfang enthalten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

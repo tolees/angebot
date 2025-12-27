@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Mittelbraun
 - 100% Gummi
 - Obbermaterial: 85 % Rindsleder 15 % Textil (84 % recyceltes PET - 16 % Latex)
+- Farbe: Mittelbraun
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CCP4J6VV{{</world>}}

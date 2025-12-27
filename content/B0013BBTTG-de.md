@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für unebene Flächen und Fugen: Mit unterschiedlichen Borstenlängen für eine effektive Reinigung
-- Für das Cleansystem: Kombinierbar mit Gardena Cleansystem-Teilen wie Wasserstielen und Seifenstäbchen
-- Wasserführend: Besonders effektive Reinigung, da anschließbar an Gardena Cleansystem-Wasserstiele
-- Zum Lösen hartnäckiger Verschmutzungen: Ausgestattet mit spezieller Flachstrahldüse und einer Kratzkante
 - Lieferumfang beinhaltet: 1x Gardena Komfort-Schrubber
+- Zum Lösen hartnäckiger Verschmutzungen: Ausgestattet mit spezieller Flachstrahldüse und einer Kratzkante
+- Für unebene Flächen und Fugen: Mit unterschiedlichen Borstenlängen für eine effektive Reinigung
+- Wasserführend: Besonders effektive Reinigung, da anschließbar an Gardena Cleansystem-Wasserstiele
+- Für das Cleansystem: Kombinierbar mit Gardena Cleansystem-Teilen wie Wasserstielen und Seifenstäbchen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0013BBTTG{{</world>}}

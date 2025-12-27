@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gerätemaße H x B x T (cm): 178,8 x 89,5 x 74,5 / WEEE-Nr.: DE55703080
-- AllAround-Kühlung / Doppelte Steuerung / Super-Kühlfunktion
-- 520L Nettovolumen: 338L Kühlen + 182L Gefrieren
 - Energieeffizienzklasse D / 254 kWh pro Jahr
+- AllAround-Kühlung / Doppelte Steuerung / Super-Kühlfunktion
 - LED Beleuchtung / LED Display / Tür offen Warnung / Urlaubsfunktion
+- Gerätemaße H x B x T (cm): 178,8 x 89,5 x 74,5 / WEEE-Nr.: DE55703080
+- 520L Nettovolumen: 338L Kühlen + 182L Gefrieren
 - NoFrost / Dual Inverter Kompressor / mit 3in1 Wasser-/Eisspender und Wassertank
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

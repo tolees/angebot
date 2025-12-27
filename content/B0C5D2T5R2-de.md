@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Es gibt drei Farben von Onyx, Eisblau und Perlgrün
 - 108 MP Weitwinkelkamera. Ultra-Weitwinkelkamera mit 8 MP. Makroobjektiv 2 MP
-- Ausgestattet mit dem MediaTek Helio G96 Prozessor. Hergestellt im 12-nm-Prozess.
 - Kombition aus 5000mAh Akku und 33W Schnellladung Steckertyp: USB Typ-C 2.0
+- Ausgestattet mit dem MediaTek Helio G96 Prozessor. Hergestellt im 12-nm-Prozess.
+- Es gibt drei Farben von Onyx, Eisblau und Perlgrün
 - Das Redmi Note 12S verfügt über ein 6,43-Zoll-AMOLED-Display mit einer Bildwiederholrate von 90 Hz.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

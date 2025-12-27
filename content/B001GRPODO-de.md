@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- UV-BESTÄNDIG: Unsere wasserdichte Gewebeplane ist waschbar und aus UV-beständigem Material hergestellt. Somit wird sichergestellt, dass sich auch bei direkter Sonneneinstrahlung keine Risse oder andere Schäden bilden.
-- VIELFÄLTIG: Die Plane mit Ösen bietet idealen Schutz gegen Wind, Wetter, Schmutz, Feuchtigkeit und eignet sich perfekt als Bau- oder Gartenplane.
-- RESISTENT: Unsere Abdeckplane ist resistent gegen Schimmel, Bakterien und Chemikalien. Sie eignet sich perfekt für Heimwerker, Sport und Camping. Die NOOR-Planenspanner sind optimal, um die Plane zu sichern.
-- PRODUKTINFORMATION: Eine starke, professionelle Plane aus PP / PE-Gewebe, 140 g / m² mit verstärkten Kanten und Ecken und einem Ösenabstand von 50 cm (Ösendurchmesser ca. 14 mm).
 - NOOR: Als Familienunternehmen mit langjähriger Tradition bieten wir Ihnen beste Qualität zum fairen Preis. Überzeugen Sie sich selbst und profitieren Sie von unseren Kompetenzen & Erfahrungen.
+- VIELFÄLTIG: Die Plane mit Ösen bietet idealen Schutz gegen Wind, Wetter, Schmutz, Feuchtigkeit und eignet sich perfekt als Bau- oder Gartenplane.
+- PRODUKTINFORMATION: Eine starke, professionelle Plane aus PP / PE-Gewebe, 140 g / m² mit verstärkten Kanten und Ecken und einem Ösenabstand von 50 cm (Ösendurchmesser ca. 14 mm).
+- UV-BESTÄNDIG: Unsere wasserdichte Gewebeplane ist waschbar und aus UV-beständigem Material hergestellt. Somit wird sichergestellt, dass sich auch bei direkter Sonneneinstrahlung keine Risse oder andere Schäden bilden.
+- RESISTENT: Unsere Abdeckplane ist resistent gegen Schimmel, Bakterien und Chemikalien. Sie eignet sich perfekt für Heimwerker, Sport und Camping. Die NOOR-Planenspanner sind optimal, um die Plane zu sichern.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B001GRPODO{{</world>}}

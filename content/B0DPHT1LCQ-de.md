@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einhändig verstellbarer Fangkörper zum stressfreien Anschnallen, Einhändig einstellbare Rückenlehne, Atmungsaktive All-round-Luftzirkulation zum Wohlfühlen auch auf längeren Fahrten
-- Lieferumfang: 1x CYBEX Gold Autositz Pallas G2 i-Size, Maße (LxBxH): 40,5 x 59,5 x 59-81 cm, Gewicht: 8,9 kg, Farbe: Fog Grey
 - UN R129/04 Zertifizierung, Einfache Befestigung im Auto mit ISOFIX und Top Tether, Abnehmbarer Bezug - Waschmaschinengeeignet (30°C)
 - Neigungsverstellbare Kopfstütze, Integrierter, einhändig verstellbarer Fangkörper zum Sichern des Kindes und Reduzieren des Risikos von Nackenverletzungen, Integrierter Seitenaufprallschutz (L.S.P. System)
 - Stabiler und hochwertiger 2-in-1-Kindersitz mit langer Nutzungsdauer für Kinder im Alter von ca. 15 Monaten bis ca. 12 Jahren (9-50 kg)
+- Lieferumfang: 1x CYBEX Gold Autositz Pallas G2 i-Size, Maße (LxBxH): 40,5 x 59,5 x 59-81 cm, Gewicht: 8,9 kg, Farbe: Fog Grey
+- Einhändig verstellbarer Fangkörper zum stressfreien Anschnallen, Einhändig einstellbare Rückenlehne, Atmungsaktive All-round-Luftzirkulation zum Wohlfühlen auch auf längeren Fahrten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DPHT1LCQ{{</world>}}

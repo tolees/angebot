@@ -31,8 +31,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Hautverträglichkeit dermatologisch bestätigt
 - Die Body Lotion spendet 48 Stunden Feuchtigkeit und einen angenehmen Duft
 - Formel Bronzing Lotion mit Coenzym Q10
-- Lotion für trockene Haut
 - Straffungslotion verbessert die Elastizität der Haut bereits in 10 Tagen
+- Lotion für trockene Haut
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09CZJ78MH{{</world>}}

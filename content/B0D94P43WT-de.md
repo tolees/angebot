@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LIEFERUMFANG: Ortungsgerät GMS 120-27, Schutztasche, Alkaline Batterien 2xAA
-- DREIFARBIGE ANZEIGE: Der LED-Ring um die Markierungsöffnung leuchtet rot wenn ein Objekt detektiert wurde, bei Annäherung an ein Objekt gelb und grün, wenn kein Objekt gefunden wurde
 - SCHNELLE ORTUNG: Einfache Ortung von Metall, spannungsführenden Leitungen und Holzunterkonstruktionen für zielsicheres Bohren.
 - BENUTZERFREUNDLICH: Klare Informationen durch vereinfachte Modusauswahl, Zentrumsanzeige und Materialidentifikation. Der Detektor zeigt an, ob es sich bei dem Objekt um magnetisches oder nichtmagnetisches Metall, eine spannungsführende Leitung oder nichtmetallisches Material handelt.
+- DREIFARBIGE ANZEIGE: Der LED-Ring um die Markierungsöffnung leuchtet rot wenn ein Objekt detektiert wurde, bei Annäherung an ein Objekt gelb und grün, wenn kein Objekt gefunden wurde
 - SEHR ROBUST: Der Wandscanner GMS 120-27 ist dank seines stoßdämpfenden Gummigehäuses und IP 54 für den Einsatz auf Baustellen geeignet.
+- LIEFERUMFANG: Ortungsgerät GMS 120-27, Schutztasche, Alkaline Batterien 2xAA
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D94P43WT{{</world>}}

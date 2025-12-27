@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideale Ergänzung für LEGO Technic Sets, Züge oder programmierbare Roboter
 - LEGO Confidential
+- Ideale Ergänzung für LEGO Technic Sets, Züge oder programmierbare Roboter
 - Lose LEGO Originalware in einem Polybeutel ohne Originalverpackung und Anleitung.
 
 [🛒 Hier!!]({{< param buyurl >}})

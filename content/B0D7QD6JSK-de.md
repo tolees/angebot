@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Top Scooli Qualität - Wir setzen auf strapazierfähige, unabhängig geprüfte Materialien und durchdachte Eigenschaften für die Langlebigkeit und Unbedenklichkeit unserer Produkte im bunten Familienalltag.
-- Cooles Geschenkset - Das Scooli Set beinhaltet eine Brotzeitdose mit herausnehmbarem Einsatz und eine AERO-Trinkflasche. Dank der handlichen Größe passen Trinkflasche und Lunchbox problemlos in jede Tasche. Perfekt für Kindergarten und Schule!
-- Trinkflasche für Kinder - Dank eines Schraubverschlusses kann die Flasche schnell befüllt werden. Der ausklappbare Trinkstutzen mit integriertem Strohhalm ermöglicht einfaches Trinken. Fassungsvermögen: ca. 500 ml, Höhe: 19 cm, Durchmesser: 9 cm
 - Brotdose für Kinder - Die Lunchbox mit herausnehmbarem Einsatz ist ideal für unterwegs. Mit ihren kompakten Maßen von ca. 18 x 13,5 x 6 cm passt sie problemlos in jede Tasche und Rucksack. Fassungsvermögen: ca. 800 ml, Artikelgewicht: ca. 131 Gramm
+- Cooles Geschenkset - Das Scooli Set beinhaltet eine Brotzeitdose mit herausnehmbarem Einsatz und eine AERO-Trinkflasche. Dank der handlichen Größe passen Trinkflasche und Lunchbox problemlos in jede Tasche. Perfekt für Kindergarten und Schule!
+- Top Scooli Qualität - Wir setzen auf strapazierfähige, unabhängig geprüfte Materialien und durchdachte Eigenschaften für die Langlebigkeit und Unbedenklichkeit unserer Produkte im bunten Familienalltag.
+- Trinkflasche für Kinder - Dank eines Schraubverschlusses kann die Flasche schnell befüllt werden. Der ausklappbare Trinkstutzen mit integriertem Strohhalm ermöglicht einfaches Trinken. Fassungsvermögen: ca. 500 ml, Höhe: 19 cm, Durchmesser: 9 cm
 - Einfache Reinigung - Die Scooli Frozen Brotzeitdose und Trinkflasche kann einfach unter fließendem Wasser abgespült und gereinigt werden. Bitte beachten Sie, dass Dose und Flasche nicht spülmaschinen- oder mikrowellengeeignet sind.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
