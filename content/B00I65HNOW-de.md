@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schwimmfähige Autofähre im Maßstab 1:50 zum Transport von bis zu 6 Spielzeugautos oder 2 LKWs
-- Ideal als Geschenk geeignet, Perfekte Ergänzung zu siku-Spielwelten
-- Langanhaltender Spielspaß durch unzählige Kombinationsmöglichkeiten innerhalb der siku-Fahrzeugwelt, z. B. Beladbar mit Spielzeugautos im gleichen Maßstab
 - Ferngesteuerte Modelle - Zubehör
-- Altersempfehlung: von 3 bis 99 Jahre
-- ab 1 Spieler Altersfreigabe: 3 Jahre
 - Umfangreiche Funktionen: Aufklappbare Rampen, Beweglich auch an Land dank Kugelfahrwerk, Öffenbare Türen
+- Langanhaltender Spielspaß durch unzählige Kombinationsmöglichkeiten innerhalb der siku-Fahrzeugwelt, z. B. Beladbar mit Spielzeugautos im gleichen Maßstab
+- Schwimmfähige Autofähre im Maßstab 1:50 zum Transport von bis zu 6 Spielzeugautos oder 2 LKWs
+- Altersempfehlung: von 3 bis 99 Jahre
 - Lieferumfang: 1x siku 1750 Autofähre, Inkl. 2 Spielzeug-Autos aus Metall/Kunststoff, Maßstab: 1:50, Material Fähre: Kunststoff, Abmessungen: 43,7 x 18,4 x 14,2 cm, Gewicht: 0,76 kg, Farbe: Gelb/Grau, Serie: SIKU WORLD
+- Ideal als Geschenk geeignet, Perfekte Ergänzung zu siku-Spielwelten
+- ab 1 Spieler Altersfreigabe: 3 Jahre
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00I65HNOW{{</world>}}

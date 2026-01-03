@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schüre Widerstand und ballere dich durch mechanische Monster, blutrünstige Banditen und fiese Bestien. Sammle ein Arsenal tödlicher Schusswaffen an und stifte in ganz Kairos blutiges Chaos.
 - Befreie dich von Zeitwächter, dem skrupellosen Diktator und Unterdrücker, der aus luftigen Höhen die Massen dominiert. Eine nahende Katastrophe droht, diese perfekte Weltordnung aus den Angeln zu heben und den Planeten ins Chaos zu stürzen.
-- Dieses immersive Sci-Fi-Abenteuer kannst du allein oder in Koop (2-Spieler-Splitscreen oder bis zu vier Spieler online) bestreiten. Erlebe formfreie Kämpfe und Erkundungen, pulsgefährdende Boss-Fights, unendlich abwechslungsreiche Beute-Drops und allerhand neue sowie alte Charaktere, die du nie vergessen wirst.
 - Borderlands 4 ist ein chaotischer Looter-Shooter, vollgepackt mit Milliarden Waffen, unglaublichen Feinden und heftiger Koop-Action. Entkomme einem gefährlichen versteckten Planeten als einer von vier Badass-Kammer-Jägern.
+- Dieses immersive Sci-Fi-Abenteuer kannst du allein oder in Koop (2-Spieler-Splitscreen oder bis zu vier Spieler online) bestreiten. Erlebe formfreie Kämpfe und Erkundungen, pulsgefährdende Boss-Fights, unendlich abwechslungsreiche Beute-Drops und allerhand neue sowie alte Charaktere, die du nie vergessen wirst.
 - Schlag als einer von vier neuen Kammer-Jägern in Kairos auf und geh deinen Weg zu Reichtum und Ruhm. Nutze kraftvolle Action-Skills, bau deinen Build nach deinen Vorstellungen mit üppigen Skill-Bäumen und dominiere deine Feinde mit dynamischen Bewegungsfähigkeiten.
+- Schüre Widerstand und ballere dich durch mechanische Monster, blutrünstige Banditen und fiese Bestien. Sammle ein Arsenal tödlicher Schusswaffen an und stifte in ganz Kairos blutiges Chaos.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FDKWQFQG{{</world>}}

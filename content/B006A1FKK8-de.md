@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Abriebfeste Omni-Grip Außensohle aus Gummi
-- Leichte Techlite Zwischensohle
 - Wasserfeste, versiegelte Innenstiefel-Kontruktion
+- Leichte Techlite Zwischensohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B006A1FKK8{{</world>}}

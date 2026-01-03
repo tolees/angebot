@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Breiter Streifen zum Schutz gegen Abrieb
 - Stützsystem im Knöchelbereich
-- Wasserfeste Membran CLIMAPROTECT
 - Hinterer TPU-Einsatz in der Zwischensohle fur maximale Stabilitat
+- Breiter Streifen zum Schutz gegen Abrieb
+- Wasserfeste Membran CLIMAPROTECT
 - Einlegesohle Ortholite mit Verstarkung aus EVA
 
 [🛒 Hier!!]({{< param buyurl >}})

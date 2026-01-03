@@ -30,10 +30,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Wasserdichte CLIMAPROTECT-Membran
 - Schutzband aus abriebfestem Stoff
-- Knöchelstützsystem
-- TPU-Rücksohle
 - für maximale Stabilität
 - Ortholite-Einlegesohle mit Verstärkung aus EVA
+- Knöchelstützsystem
+- TPU-Rücksohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00N0KKGL0{{</world>}}

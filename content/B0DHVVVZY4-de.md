@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnürverschluss
-- Obermaterial aus Leder und Textil
 - Normale Passform
-- Gummi-Außensohle
 - Textilfutter
+- Schnürverschluss
+- Gummi-Außensohle
+- Obermaterial aus Leder und Textil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DHVVVZY4{{</world>}}

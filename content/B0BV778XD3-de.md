@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideal für Einsteiger – Mit dem CARSON Starter Tyrann 230 gelingt der Einstieg in die Welt der ferngesteuerten Helis garantiert. Der Indoor-Helikopter verfügt über eine Lenkungstrimmung und ist mit einer 2-Kanal-Infrarotfernsteuerung ausgestattet
-- Bitte beachten Sie, dass der Helikopter nur in Innenräumen verwendet werden kann
-- Lange Flugzeit – Geladen wird der Starter Tyrann ganz bequem per USB-Kabel, was dir satte 11 Minuten Flugzeit bringt und den Helikopter auf 10 km/h beschleunigt
-- Lieferumfang – Flugfertiges Modell, Fernsteueranlage, LiPo Flugakku, USB-Ladegerät, Anleitung Erforderliches Zubehör: Mignon-Set (AA) 500609043
 - LED-Beleuchtung – Der ferngesteuerte Hubschrauber ist mit einer, über den Sender schaltbaren LED-Beleuchtung ausgestattet, dies erleichtert die Navigation und ermöglicht ein Fliegen auch bei Dämmerung
+- Lange Flugzeit – Geladen wird der Starter Tyrann ganz bequem per USB-Kabel, was dir satte 11 Minuten Flugzeit bringt und den Helikopter auf 10 km/h beschleunigt
+- Ideal für Einsteiger – Mit dem CARSON Starter Tyrann 230 gelingt der Einstieg in die Welt der ferngesteuerten Helis garantiert. Der Indoor-Helikopter verfügt über eine Lenkungstrimmung und ist mit einer 2-Kanal-Infrarotfernsteuerung ausgestattet
+- Lieferumfang – Flugfertiges Modell, Fernsteueranlage, LiPo Flugakku, USB-Ladegerät, Anleitung Erforderliches Zubehör: Mignon-Set (AA) 500609043
 - Original Carson Qualität – Als Spezialist für ferngesteuerte Helikopter ist Carson seit 25 Jahren ein Garant für herausragende Qualität, höchste Produktsicherheit und selbstverständlich für jede Menge Fahr- und Flugspaß!
+- Bitte beachten Sie, dass der Helikopter nur in Innenräumen verwendet werden kann
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BV778XD3{{</world>}}

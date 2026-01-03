@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garnier Ambre Solaire UltraFeuchtigkeitsschutz SPF30 High Lotion elfenbeinfarben 200 milliliter'
-date: 2026-01-01 12:00:26
+date: 2026-01-03 10:36:46
 image: 'https://m.media-amazon.com/images/I/31wVjbWzrtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

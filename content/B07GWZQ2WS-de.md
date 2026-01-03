@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 7 Funktionen: Sprüheinrichtung, Dampfstoß, Vertikaldampf, Trockenfunktion (Dampf kann abgeschaltet werden), Selbstreinigungsfunktion (zuschaltbar), Tropfstopp, Anti-Kalk
 - 2-stufige Dampfregelung
-- Transparenter Wassertank (ca. 150 ml) inklusive Messbecher
 - Edelstahlspezialsohle
+- 7 Funktionen: Sprüheinrichtung, Dampfstoß, Vertikaldampf, Trockenfunktion (Dampf kann abgeschaltet werden), Selbstreinigungsfunktion (zuschaltbar), Tropfstopp, Anti-Kalk
+- Transparenter Wassertank (ca. 150 ml) inklusive Messbecher
 - Stufenlose Temperaturregelung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

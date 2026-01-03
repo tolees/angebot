@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sehr große Speicherkapazität 256GB
 - Material: Kunststoff; Gewicht: 8 g; Abmessungen: 19 x 65 x 9 mm
-- Super Speed USB 3.2 Gen 1x1
 - Max. Datentransferrate: Bis zu 70,00 MB/s
+- Super Speed USB 3.2 Gen 1x1
 - Lieferumfang: Intenso USB Stick Speed Line USB 3.2 Gen 1x1
+- Sehr große Speicherkapazität 256GB
 - HINWEIS: Das USB 3.2 Gen 1x1-Etikett entspricht dem ursprünglichen USB 3.1 Gen 1 / USB 3.0-Etikett
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

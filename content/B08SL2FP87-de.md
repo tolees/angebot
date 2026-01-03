@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leder: Textile
-- Collection: Frühjahr-Sommer 19
-- Verschluss: Ethylen-Vinylacetat
-- flacher Absatzflacher Absatz
 - 11.0629921147 inches
+- Collection: Frühjahr-Sommer 19
+- Leder: Textile
+- flacher Absatzflacher Absatz
+- Verschluss: Ethylen-Vinylacetat
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08SL2FP87{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Robustheit
 - Hochwertige Abmessungen
+- Robustheit
 - Hochwertige Material
 - Flexible Gestaltung
 

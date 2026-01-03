@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ENTDECKE, WAS DU WILLST: Zuerst geht es in das Bastelzimmer, dann mit dem Katzen-Aufzug ins Spielzimmer, das Badezimmer, die Küche, den Partyraum und den Garten. Jeder Raum ist voller Magie
-- LERNEN UND WACHSEN MIT GABBY: Neue kreative Hobbys mit einfacher Spielsteuerung, die auch für kleine Hände geeignet ist
-- ES IST ZEIT, KLEIN ZU WERDEN MIT GABBY UND PANDA PFÖTCHEN: Ein Spiel, das allein mit Gabby oder mit Freunden im lokalen Koop gespielt werden kann, damit auch Panda Pfötchen mitmachen kann
-- FANTASIE UND KREATIVITÄT: In Gabby’s Dollhouse warten lustige Aktivitäten und Minispiele auf dich
 - PARTY MIT DEN GABBY-KATZEN: Panda Pfötchen, Kuchi, Marty die Partykatze, Ratkatz, Meerkätzchen, DJ Katzenminze, Kitty Fee, Kuschelkatze, Carlita, Baby Box, Mama Box. Die Gabby-Katzen wollen spielen
+- FANTASIE UND KREATIVITÄT: In Gabby’s Dollhouse warten lustige Aktivitäten und Minispiele auf dich
+- LERNEN UND WACHSEN MIT GABBY: Neue kreative Hobbys mit einfacher Spielsteuerung, die auch für kleine Hände geeignet ist
+- ENTDECKE, WAS DU WILLST: Zuerst geht es in das Bastelzimmer, dann mit dem Katzen-Aufzug ins Spielzimmer, das Badezimmer, die Küche, den Partyraum und den Garten. Jeder Raum ist voller Magie
+- ES IST ZEIT, KLEIN ZU WERDEN MIT GABBY UND PANDA PFÖTCHEN: Ein Spiel, das allein mit Gabby oder mit Freunden im lokalen Koop gespielt werden kann, damit auch Panda Pfötchen mitmachen kann
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FDX1K6XP{{</world>}}

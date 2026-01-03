@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Herkunftsland:- Italien
-- Verpackungsgewicht: 8.3 Kg
 - Farbe: grau
+- Verpackungsgewicht: 8.3 Kg
+- Herkunftsland:- Italien
 - Verpackungsabmessungen (L x B x H): 57.5 x 36.5 x 48.5 Zm
 
 [🛒 Hier!!]({{< param buyurl >}})

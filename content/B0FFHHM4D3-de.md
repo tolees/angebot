@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zum ersten Mal in der Geschichte der Reihe begegnest du deinen Kindheitsängsten gemeinsam mit einem Freund im Online-Koop oder alleine mit der KI
 - Begib dich auf ein neues Abenteuer in der einzigartigen Welt von Little Nightmares
+- Zum ersten Mal in der Geschichte der Reihe begegnest du deinen Kindheitsängsten gemeinsam mit einem Freund im Online-Koop oder alleine mit der KI
 - In Little Nightmares III hilfst du Low & Alone auf ihrer Suche nach einem Weg aus dem Nirgendwo
 
 [🛒 Hier!!]({{< param buyurl >}})

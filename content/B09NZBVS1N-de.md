@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 60 cm breit (im geöffneten Zustand)
-- MEGA-Bauset mit realitätsgetreuem Design, filigranen Details und authentischen Dekorationen aus dem MOTU-Universum
-- Kooperatives Bauerlebnis Snake Mountain ist zum gemeinsamen Zusammenbauen mit Freunden konzipiert, bietet aber auch eine spannende Herausforderung für einzelne Bastler
 - Snake Mountain zum Selberbauen, der sich vollständig auf- und zuklappen lässt und viel Platz außen und innen zum Spielen und Ausstellen bietet (öffnet horizontal)
-- Enthält hochwertige Vintage-Verpackung und MEGA-Überraschungen
 - Ram Man, Webstor und Screeech sind erstmals im MEGA-Sortiment verfügbar
+- Kooperatives Bauerlebnis Snake Mountain ist zum gemeinsamen Zusammenbauen mit Freunden konzipiert, bietet aber auch eine spannende Herausforderung für einzelne Bastler
+- MEGA-Bauset mit realitätsgetreuem Design, filigranen Details und authentischen Dekorationen aus dem MOTU-Universum
 - Zu den beweglichen Bauelementen gehören ein Dämonenkopf mit beweglichem Kiefer, eine funktionierende Falltür, die sich über der Monstergrube öffnet, eine wackelnde Hängebrücke, eine auseinanderbrechende Wand als Fluchtweg, ein abnehmbares Wolfskopf-Totem und ein beweglicher Schlangenkopf und -torso
+- Enthält hochwertige Vintage-Verpackung und MEGA-Überraschungen
+- 60 cm breit (im geöffneten Zustand)
 - Zu den 6 detailgetreuen, super beweglichen Mikro-Actionfiguren gehören Thunder Punch He-Man, Dragon Blaster Skeletor mit Drache und Screeech, Evil-Lyn, Trap Jaw, Webstor und Ram Man, mit Display-Ständern und austauschbaren Waffen wie dem Havoc-Stab, transparenten gelben und lilafarbenen Schwertern der Macht und dem Spinnenarmrucksack mit funktionsfähigem Seilgreifhaken
 
 [🛒 Hier!!]({{< param buyurl >}})

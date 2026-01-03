@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Lieferumfang: 161-teiliges Spielfiguren-Set mit Anleitung: 1 Gebäude, 1 Motorrad, 3 Figuren, 156 Zubehörteile, Material: Kunststoff, LxTxH Gebäude (ohne Antennen): 28x23,5x15 cm, Gewicht: 773 g, 70568
+- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Einsatz für die Polizei: PLAYMOBIL Flucht aus dem Gefängis mit Polizist, Polizistin, Gauner, Motorrad und Zubehör zum detailgetreuen Nachspielen
 - Gebäude mit Vorraum sowie Zelle für 2 Häftlinge: verriegelbares Schiebetürgitter, Doppelstockbett, Gitterfenster mit Ausbruch-Gitterteil uvm.
-- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
-- Lieferumfang: 161-teiliges Spielfiguren-Set mit Anleitung: 1 Gebäude, 1 Motorrad, 3 Figuren, 156 Zubehörteile, Material: Kunststoff, LxTxH Gebäude (ohne Antennen): 28x23,5x15 cm, Gewicht: 773 g, 70568
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08KVVDY2D{{</world>}}

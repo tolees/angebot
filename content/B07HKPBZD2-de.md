@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 🏢 MADE IN GERMANY & LABORGEPRÜFT: Die Herstellung/Abfüllung unseres CREATINE MONOHYDRATE Creatine-Supplements findet ausschließlich in Deutschland statt und unterliegt somit den strengen deutschen Richtlininen zur Herstellung von Nahrungsergänzungsmitteln sowie regelmäßigen Kontrollen. Zusätzlich lassen wir unser Creatin-Pulver regelmäßig durch ein unabhängiges Lebensmittel-Labor untersuchen - Prüfzertifikat siehe 5. Bild in der Bildergalerie.
 - ⚡ OPTIMAL HOCHDOSIERT: Eine Portion CREATINE MONOHYDRATE Kreatin-Pulver enthält 3,41 Gramm Creatin-Monohydrat und liefert damit 3 g reines Creatin.
 - 🌱 VEGAN: Sämtliche Rohstoffe für das Creatin-Pulver sind rein pflanzlich, das CREATINE MONOHYDRATE mit Creapure Creatin ist zu 100% vegan.
-- 🥇 CREAPURE CREATIN: Unser CREATINE MONOHYDRATE enthält ein hochwertiges Creatin Monohydrat-Pulver von Creapure. Das Creatine-Monohydrate von Creapure wird in Deutschland hergestellt und garantiert eine weltweit einmalige Reinheit von über 99,9%.
 - 💪 SO WIRKT CREATIN: Kreatin Monohydrat ist DAS Supplement für schnellere Fortschritte im Training: Kreatin erhöht die körperliche Leistung bei Schnellkrafttraining im Rahmen kurzzeitiger körperlicher Höchstbeanspruchung. Die positive Wirkung stellt sich bei einer täglichen Aufnahme von mindestens 3 g Creatin ein.
-- 🏢 MADE IN GERMANY & LABORGEPRÜFT: Die Herstellung/Abfüllung unseres CREATINE MONOHYDRATE Creatine-Supplements findet ausschließlich in Deutschland statt und unterliegt somit den strengen deutschen Richtlininen zur Herstellung von Nahrungsergänzungsmitteln sowie regelmäßigen Kontrollen. Zusätzlich lassen wir unser Creatin-Pulver regelmäßig durch ein unabhängiges Lebensmittel-Labor untersuchen - Prüfzertifikat siehe 5. Bild in der Bildergalerie.
+- 🥇 CREAPURE CREATIN: Unser CREATINE MONOHYDRATE enthält ein hochwertiges Creatin Monohydrat-Pulver von Creapure. Das Creatine-Monohydrate von Creapure wird in Deutschland hergestellt und garantiert eine weltweit einmalige Reinheit von über 99,9%.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07HKPBZD2{{</world>}}

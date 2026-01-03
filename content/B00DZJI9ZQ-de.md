@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Synthetik
-- Innenmaterial: Leder
 - Verschluss: Schnürsenkel
+- Sohle: Synthetik
 - Obermaterial: Smooth Leder
+- Innenmaterial: Leder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00DZJI9ZQ{{</world>}}

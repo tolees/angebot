@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- VLAN-Tagging wird unterstützt, um die Sicherheit und die Segmentierung des Datenverkehrs zu verbessern und eine optimale Netzwerkleistung und -kontrolle zu gewährleisten.
-- Bei der Verwaltung über die Nebula Cloud müssen Sie sich keine Sorgen machen, ob Sie die IP-Adresse oder das Kennwort noch wissen.
 - Großartiges Antennendesign und raffiniertes thermisches Design für Tisch-/Wand-/Deckenmontage.
+- VLAN-Tagging wird unterstützt, um die Sicherheit und die Segmentierung des Datenverkehrs zu verbessern und eine optimale Netzwerkleistung und -kontrolle zu gewährleisten.
 - Stromversorgung über PoE+ oder 12V Gleichstrom, Netzteil im Lieferumfang enthalten.
+- Bei der Verwaltung über die Nebula Cloud müssen Sie sich keine Sorgen machen, ob Sie die IP-Adresse oder das Kennwort noch wissen.
 - Superschnelles WiFi 6 mit bis zu 1,8 Gbit/s (AX1800, Dual 2x2 MU-MIMO).
 
 [🛒 Hier!!]({{< param buyurl >}})

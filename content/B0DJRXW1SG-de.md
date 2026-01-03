@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das perfekte Merch für dein Zuhause!
-- Funko Pop! mit folgenden Eigenschaften:
 - Sammelfigur | Fan & Funmerch | Muster: Uni
 - Größe: Onesize || Material: langlebig
+- Das perfekte Merch für dein Zuhause!
 - Anime, Fan-Merch, Filme, TV-Serien
+- Funko Pop! mit folgenden Eigenschaften:
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DJRXW1SG{{</world>}}

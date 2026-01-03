@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Darüber hinaus wurde das Spiel optisch aufgewertet, um moderner Technologie gerecht zu werden, während gleichzeitig der Charakter des Originalspiels beibehalten wird. Außerdem wurde das Spiel um Barrierefreiheit-Funktionen erweitert, darunter die Übersetzung von In-Game-Texten, Optionen für Farbenblinde und Inhaltswarnungen.
-- In der physischen Version* sind vier Designkarten enthalten, die vollkommen gewöhnliche Darstellungen deiner Lieblingsorte aus Stanley Parable zeigen
-- Alles aus dem ursprünglichen Stanley Parable ist erhalten geblieben, genau wie im Jahr 2013. Aber The Stanley Parable: Ultra Deluxe erweitert die Welt des Originalspiels ausgiebig um neue Inhalte, neue Entscheidungen und neue Geheimnisse zum Aufdecken. Das Labyrinth ist nur noch größer geworden.
 - 20 % der Nettoerlöse werden an die gemeinnützige Organisation 350.org zur Bekämpfung des Klimawandels gespendet.
+- Alles aus dem ursprünglichen Stanley Parable ist erhalten geblieben, genau wie im Jahr 2013. Aber The Stanley Parable: Ultra Deluxe erweitert die Welt des Originalspiels ausgiebig um neue Inhalte, neue Entscheidungen und neue Geheimnisse zum Aufdecken. Das Labyrinth ist nur noch größer geworden.
 - Und wie zuvor begleitet einen die unfehlbare Stimme von Kevan Brighting auf Schritt und Tritt.
+- In der physischen Version* sind vier Designkarten enthalten, die vollkommen gewöhnliche Darstellungen deiner Lieblingsorte aus Stanley Parable zeigen
+- Darüber hinaus wurde das Spiel optisch aufgewertet, um moderner Technologie gerecht zu werden, während gleichzeitig der Charakter des Originalspiels beibehalten wird. Außerdem wurde das Spiel um Barrierefreiheit-Funktionen erweitert, darunter die Übersetzung von In-Game-Texten, Optionen für Farbenblinde und Inhaltswarnungen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CZBBSQNK{{</world>}}

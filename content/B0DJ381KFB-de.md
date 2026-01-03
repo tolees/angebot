@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Klassisches Polohemd mit einem kleinen Logo-Badge auf der Brust
+- Kurzarm | Mit Polokragen
 - Nicht auf Verzierung bügeln | Bügeln bei niedriger Temperatur | Nicht chemisch reinigen | Nicht bleichen | Nicht im Trockner trocknen | Von links waschen und bügeln | 30°C Feinwäsche | Mit ähnlichen Farben waschen | Nass in Form ziehen
 - Passform: Basic Fit, Rückenlänge bei Größe M ca. 73 cm
-- Kurzarm | Mit Polokragen
 - Aus klassischem, leicht strukturiertem Piqué-Stoff
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stromversorgung über einen PoE+ Switch oder Injektor oder ein DC12V Adapter (im Lieferumfang enthalten)
-- 3x3 High-Gain-Antenne gewährleistet die optimale Reichweite im 2,4GHz und 5Ghz Band.
-- VLAN-Tagging wird unterstützt, um die Sicherheit und die Segmentierung des Datenverkehrs zu verbessern und eine optimale Netzwerkleistung und -kontrolle zu gewährleisten.
 - 2,5GB- Uplink-Port ermöglicht, dass die hohe Geschwindigkeit auch im Ethernet Netzwerk ankommt (Multi-Gig)
+- VLAN-Tagging wird unterstützt, um die Sicherheit und die Segmentierung des Datenverkehrs zu verbessern und eine optimale Netzwerkleistung und -kontrolle zu gewährleisten.
+- Stromversorgung über einen PoE+ Switch oder Injektor oder ein DC12V Adapter (im Lieferumfang enthalten)
 - Bis zu 3 Gbit/s WLAN Geschwindigkeit mit hoher Reichweite (AX3000, 3x3 + 2x2 MU-MIMO)
+- 3x3 High-Gain-Antenne gewährleistet die optimale Reichweite im 2,4GHz und 5Ghz Band.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C24Q2RBQ{{</world>}}

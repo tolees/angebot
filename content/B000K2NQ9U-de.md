@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2-Komponenten-Griffhüllen mit Abgleitschutz
 - Beinhaltet je 1x: Kombizange 180 mm, Telefonzange 160 mm, Seitenschneider 160 mm und Wassepumpenzange 250 mm
+- 2-Komponenten-Griffhüllen mit Abgleitschutz
 - 4-teiliger Zangensatz
 - Zangen aus hochwertigem Werkzeugstahl gefertigt und schwarz "spiegelpoliert"
 

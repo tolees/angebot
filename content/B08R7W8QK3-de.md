@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Geringes Gewicht.
 - Flexibilität:
 - Strapazierfähig.
-- Geringes Gewicht.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08R7W8QK3{{</world>}}

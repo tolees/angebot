@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stapeln, verbinden und präsentieren: Die Setzkästen der Harry Potter Figuren sind inspiriert von den Bilderrahmen und Gemälden von Schloss Hogwarts
 - Geschenkset Der Gefangene von Azkaban: Durch die authentischen Mini-Figuren und dem detailreich gestalteten Hintergrund des Setzkastens kann die Szene von Sirius Flucht nachgestellt werden
-- Kompatibel mit den weiteren Micro Magical Moments Spielsets und Sammelfiguren von Spin Master: Die kleinen Setzkästen (weitere separat erhältlich) können einfach zusammen gesteckt und verbunden werden
 - Inhalt: 4 Figuren, 1 Setzkasten, 4 Halterungen, 1 Sammelübersicht
 - Set mit 4 besonderen Harry Potter-Figuren: Ca. 3,8 cm große Figuren von Harry Potter, Hermine Granger, Sirius Black und Seidenschnabel in einem transparenten Setzkasten mit Goldrahmen und 4 Halterungen
+- Kompatibel mit den weiteren Micro Magical Moments Spielsets und Sammelfiguren von Spin Master: Die kleinen Setzkästen (weitere separat erhältlich) können einfach zusammen gesteckt und verbunden werden
+- Stapeln, verbinden und präsentieren: Die Setzkästen der Harry Potter Figuren sind inspiriert von den Bilderrahmen und Gemälden von Schloss Hogwarts
 - Für kleine und große Harry Potter und Zauber-Fans zum Spielen, Sammeln und Verschenken, geeignet für Kinder ab 6 Jahren
 
 [🛒 Hier!!]({{< param buyurl >}})

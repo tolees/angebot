@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Pentel EnerGel Document Liquid Gel-Tintenroller
-- 0,25 mm Strichstärke = 0.5 mm ball, Schreibfarbe Schwarz
 - Druckmechanik und Clip, gummierte Griffzone, 84% Recycling Anteil
 - nachfüllbar mit Mine LRP5 und allen anderen EnerGel Minen
 - pigmentierte, lichtechte EnerGel-Tinte in Archivqualität, zertifiziert nach ISO 27668-2 für die Verwendung auf Dokumenten und zertifiziert nach ISO 11798 für Alterungsbeständigkeit
+- 0,25 mm Strichstärke = 0.5 mm ball, Schreibfarbe Schwarz
+- Pentel EnerGel Document Liquid Gel-Tintenroller
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D78TM7F1{{</world>}}

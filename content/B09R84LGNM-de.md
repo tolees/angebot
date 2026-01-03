@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LIEFERUMFANG - Samyang AF 135mm F1,8 FE, 1x Gegenlichtblende, 2x Schutzdeckel (Linse und Bajonett), 1x Objektivschutzbeutel, 1x Anleitung und Garantieunterlagen DE/EN
+- PASSEND FÜR SONY E-MOUNT VOLLFORMAT UND APS-C KAMERAS - Sony A1, A9 II, A9, A7 IV, A7 III, A7 II, A7, A7S III, A7S II, A7S, A7R IV, A7R III, A7R II, A7R, A7C sowie Sony Alpha 6600, 6500, 6400, 6300, 6100, 6000, 5100, 5000, NEX-3N, NEX-5T, NEX-F3
 - MODERNER AUTOFOKUS – Der moderne LSTM Autofokus arbeitet schnell, leise und präzise. Der flüsterleise Fokus wurde zusätzlich für Video Aufnahmen optimiert. Ideal für Porträt Nahaufnahmen, Makro, Sport, Landschaft und Astro Fotografie
+- LIEFERUMFANG - Samyang AF 135mm F1,8 FE, 1x Gegenlichtblende, 2x Schutzdeckel (Linse und Bajonett), 1x Objektivschutzbeutel, 1x Anleitung und Garantieunterlagen DE/EN
 - INNOVATIVE FEATURES – Fortschrittliche Ausstattung wie Focus-Hold-Button, Custom-Switch und Focus-Range-Limiter-Switch machen professionelles Fotografieren und Filmen noch komfortabler. Alu Gehäuse mit Wetterschutz und angenehmer Haptik
 - EXZELLENTE BILDQUALITÄT – Die aufwendige Konstruktion dieses Autofokus 135mm F1.8 Teleobjektiv für Sony E-Mount Vollformat und APSC Kameras sorgt stets für erstklassige Schärfe und Bildqualität. Die lichtstarke F1.8 Offenblende und 11 Blendenlamellen erschaffen ein beeindruckendes Bokeh
-- PASSEND FÜR SONY E-MOUNT VOLLFORMAT UND APS-C KAMERAS - Sony A1, A9 II, A9, A7 IV, A7 III, A7 II, A7, A7S III, A7S II, A7S, A7R IV, A7R III, A7R II, A7R, A7C sowie Sony Alpha 6600, 6500, 6400, 6300, 6100, 6000, 5100, 5000, NEX-3N, NEX-5T, NEX-F3
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09R84LGNM{{</world>}}

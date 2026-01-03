@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 50 Megapixel Hauptkamera
+- 16.9 cm (6.67 Zoll) OLED Display (2712 x 1220, 144 Hz)
+- interner Speicher: 256GB, Android Android 14
 - Farbe: Schwarz
 - MediaTek Dimensity 8300 Ultra; 8-Kern-Prozessor
-- interner Speicher: 256GB, Android Android 14
-- 16.9 cm (6.67 Zoll) OLED Display (2712 x 1220, 144 Hz)
-- 50 Megapixel Hauptkamera
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DJ33BZFJ{{</world>}}

@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stoff typ: 92% Polyester- Polyurethan Felled, 8% Elasthan - Polyurethan Felled,
-- closure: keine angabe
-- Beinstil: Skinny
-- Passform: Regular
-- care instructions: keine anabe
-- jeans
 - jeans
 - plus size
+- Stoff typ: 92% Polyester- Polyurethan Felled, 8% Elasthan - Polyurethan Felled,
+- care instructions: keine anabe
+- jeans
+- Beinstil: Skinny
+- Passform: Regular
+- closure: keine angabe
 - model: 15211562
 
 [🛒 Hier!!]({{< param buyurl >}})

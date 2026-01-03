@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Sohle: 80% Gummi - 20% recycelter Gummi
+- Better Leather
 - Farbe: Marine
 - Obermaterial: 85 % Rindsleder 15 % Textil (84 % recyceltes PET - 16 % Latex)
-- Better Leather
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C8K1K4T1{{</world>}}

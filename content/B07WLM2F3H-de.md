@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Age range description: Erwachsener
 - Die Dri-FIT-Technologie sorgt für trockenen Tragekomfort
-- Material: Polyester
 - Reguläre Passform
+- Material: Polyester
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07WLM2F3H{{</world>}}

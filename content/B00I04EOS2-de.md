@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nachfüllbar: Ist die Seife oder Lotion einmal aufgebraucht, lässt sich der Spender einfach wieder auffüllen
 - Natürliches Design: Der Seifen-Spender ist ein echter Hingucker und passt sich gut in jedes Bad ein
+- Nachfüllbar: Ist die Seife oder Lotion einmal aufgebraucht, lässt sich der Spender einfach wieder auffüllen
 - Ausreichend Volumen: Der Seifenspender hat ein Fassungsvermögen von ca. 250 ml
 - Praktische Dosierung: Die Abgabe der Seife lässt sich einfach über einen Drücker dosieren. Material: ABS
 - passend zu weiteren Accessoires der Serie Bowl - z.B. WC Bürste, Abfalleimer, Kosmetikorganizer

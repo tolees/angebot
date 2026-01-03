@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- The Club is Yours in EA SPORTS FC 26.
 - Live-Management-Challenges, die frische Geschichten in die neue Saison bringen, und Archetypen inspiriert von den Legenden des Spiels.
 - Spiele auf deine Weise mit einem überarbeiteten Gameplay-Erlebnis, angetrieben durch Community-Feedback.
+- The Club is Yours in EA SPORTS FC 26.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FHRYH76Y{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zeitreise im Miniatur-Format - Das perfekte Geschenkset für Sammler, Nostalgiker und Autoliebhaber: Jedes Auto inkl. Majorette Logo präsentiert eine andere Epoche und Ästhetik der Automobilgeschichte.
-- 5er-Set Spielzeugautos: 1. DS 21, 2. Datsun 260 Z, 3. Volvo 240 GL, 4. Chevrolet Corvette 1990 ZR-1, 5. Alfa Romeo Giulia. Der Datsun 260 Z & der DS 21 sind NUR in diesem Set erhältlich.
-- Premium Qualität - Gefertigt aus 100% Metall sowie Federung, Freilauf und Autoteil zum Öffnen eignet sich das Majorette Spielzeug-Set zum Sammeln und Spielen für Erwachsene und Kinder ab 3 Jahren.
 - Majorette - Als einer der bekanntesten Hersteller von Modellfahrzeugen kombinieren wir Tradition mit Innovation - seit 1964. Unsere Modelle zeichnen sich durch ihre erstklassige Verarbeitung aus.
+- Premium Qualität - Gefertigt aus 100% Metall sowie Federung, Freilauf und Autoteil zum Öffnen eignet sich das Majorette Spielzeug-Set zum Sammeln und Spielen für Erwachsene und Kinder ab 3 Jahren.
+- 5er-Set Spielzeugautos: 1. DS 21, 2. Datsun 260 Z, 3. Volvo 240 GL, 4. Chevrolet Corvette 1990 ZR-1, 5. Alfa Romeo Giulia. Der Datsun 260 Z & der DS 21 sind NUR in diesem Set erhältlich.
 - Majorette Geburtstags-Edition - Feiern Sie den 60. Geburtstag der Majorette Modellautos mit 5 ikonischen Autos aus 60 Jahren Automobil- und Majorette-Geschichte - inkl. 2 exklusiver Automodelle!
+- Zeitreise im Miniatur-Format - Das perfekte Geschenkset für Sammler, Nostalgiker und Autoliebhaber: Jedes Auto inkl. Majorette Logo präsentiert eine andere Epoche und Ästhetik der Automobilgeschichte.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CM6KYTX6{{</world>}}

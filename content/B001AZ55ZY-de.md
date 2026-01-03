@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Physischer Film
 - Fuchs des 20. Jahrhunderts
 - Yo, Robot Deutschland Blu-ray
+- Physischer Film
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B001AZ55ZY{{</world>}}

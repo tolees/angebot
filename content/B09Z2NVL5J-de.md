@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EINFACH: Das USB-Ladegerät lässt sich einfach in eine 230 V~ / 50 Hz Schutzkontakt-Steckdose stecken, aber sie blockiert diese nicht. Sie funktioniert als Durchgangssteckdose und liefert Strom von 16 A
-- STANDARDISIERT: Der UNITEC USB Zwischenstecker liefert eine für USB-Netzteile einheitliche Ausgangsspannung von 5 V
-- LEISTUNGSSTARK: Der Ladestrom des UNITEC Zwischensteckers beträgt maximal 3,6 A. Dies ergibt bei 5 V eine Ausgangsleistung von 18 Watt
 - SICHER: Die Schutzart IP20 bedeutet, dass sich spannungsführende Bauteile nicht mit den Fingern berühren lassen. Auch mittelgroße Fremdkörper können nicht eindringen, der UNITEC Zwischenstecker ist jedoch nicht wasserdicht
+- STANDARDISIERT: Der UNITEC USB Zwischenstecker liefert eine für USB-Netzteile einheitliche Ausgangsspannung von 5 V
 - UNIVERSELL: Der USB-Zwischenstecker eignet sich zum Laden von externen IT-Geräten wie Smartphones, Tablets, Digitalkameras, E-Book-Reader oder MP3-Player über zwei USB-A-Ladebuchsen und parallel über einen USB Typ-C-Port
+- EINFACH: Das USB-Ladegerät lässt sich einfach in eine 230 V~ / 50 Hz Schutzkontakt-Steckdose stecken, aber sie blockiert diese nicht. Sie funktioniert als Durchgangssteckdose und liefert Strom von 16 A
+- LEISTUNGSSTARK: Der Ladestrom des UNITEC Zwischensteckers beträgt maximal 3,6 A. Dies ergibt bei 5 V eine Ausgangsleistung von 18 Watt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09Z2NVL5J{{</world>}}

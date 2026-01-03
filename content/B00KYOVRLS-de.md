@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 690018049
-- Sunscreen
-- FotoUltra Isdin
 - Marke Beauty-Produkte ISDIN
+- Sunscreen
+- 690018049
+- FotoUltra Isdin
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00KYOVRLS{{</world>}}

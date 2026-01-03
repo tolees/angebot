@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Sprossen in 1-2 Wochen; volle Größe in 1-2 Monaten; 2-3 Monate genießen
-- Sollten eventuelle Mängel auftreten, tauscht Click & Grow das Produkt innerhalb von 24 Monaten nach Kauf um
 - Diese Nachfüllpackung ist nur kompatibel mit dem Click & Grow Smart Herb Garden (separat erhältlich)
-- Klicken Sie die Kartusche in den Smart Herb Garden und füllen Sie die Wassergrube. Das ist alles, was Sie tun müssen!
+- Sollten eventuelle Mängel auftreten, tauscht Click & Grow das Produkt innerhalb von 24 Monaten nach Kauf um
 - Züchten Sie frisches Basilikum zu Hause ohne Kraftaufwand. Kein grüner Daumen erforderlich!
+- Klicken Sie die Kartusche in den Smart Herb Garden und füllen Sie die Wassergrube. Das ist alles, was Sie tun müssen!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01BKHGC6W{{</world>}}

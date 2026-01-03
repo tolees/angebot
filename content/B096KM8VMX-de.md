@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Skechers Luftgekühlte Memory Foam Komfort-Einlegesohle
-- Synthetisches Durabuck-Obermaterial mit metallischem Rand und elastischen Schnürsenkeln
 - Absatz: 3,8 cm
+- Synthetisches Durabuck-Obermaterial mit metallischem Rand und elastischen Schnürsenkeln
+- Skechers Luftgekühlte Memory Foam Komfort-Einlegesohle
 - Flexible Gummi-Außensohle
 - Skech-Air Sichtbare, luftgepolsterte Zwischensohle
 

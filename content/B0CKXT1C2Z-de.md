@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Mesh
+- Gewicht: 290 g (Größe 42 2/3)
 - Schnürsenkel
 - Breite Passform
 - Textilfutter
+- Obermaterial aus Mesh
 - Adiwear Außensohle
-- Gewicht: 290 g (Größe 42 2/3)
 - OrthoLite Einlegesohle
 - Sprengung: 10 mm (Rückfußhöhe 33 mm / Vorfußhöhe 23 mm)
 - Cloudfoam Zwischensohle

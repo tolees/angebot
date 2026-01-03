@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LIEFERUMFANG: 1x WELEDA Bio Baby Calendula Windelcreme – natürliche Babycreme zur Pflege der empfindlichen Baby Haut im Windelbereich; Schützt vor Rötungen, Hautirritationen und Windel Ausschlag; Universell einsetzbar und anwendbar ab der Geburt bei Neugeborenen, Babys, Kindern und Erwachsenen
-- HANDARBEIT FÜR DIE HAUT: Die vielseitig wirksame Ringelblume Calendula wird im WELEDA Kernbetrieb in Schwäbisch Gmünd zu Babypflege, Kosmetik und zu Arzneimitteln verarbeitet und wächst direkt vor Ort im Heilpflanzengarten; Sie hat eine pflegende und hautberuhigende Wirkung und verleiht der Wundcreme einen angenehmen, milden Duft
-- HÖCHSTE WELEDA QUALITÄT: Die Babywindel Creme wurde In Zusammenarbeit mit Hebammen entwickelt und ist zum Schutz Ihres Kindes frei von synthetischen Duft-, Farb- und Konservierungsstoffen, Mikroplastik-Inhaltsstoffen sowie Rohstoffen auf Mineralölbasis; Die Hautverträglichkeit wurde dermatologisch bestätigt - auch für empfindliche Haut
 - OPTIMALE BABYPFLEGE: Die Calendula Pflegecreme zieht schnell in die Haut ein und unterstützt die Haut bei Neugeborenen in ihrer gesunden Entwicklung; Die Wundsalbe mit Zinkoxid, hautverwandtem Wollwachs und reinem Bienenwachs schützt wirksam vor Nässe und Wundsein im Windelbereich; Zudem fördert wertvolles Mandelöl und Sesamöl aus kontrolliert-biologischem Anbau die Hautregeneration und pflegt die empfindliche Haut sanft
+- LIEFERUMFANG: 1x WELEDA Bio Baby Calendula Windelcreme – natürliche Babycreme zur Pflege der empfindlichen Baby Haut im Windelbereich; Schützt vor Rötungen, Hautirritationen und Windel Ausschlag; Universell einsetzbar und anwendbar ab der Geburt bei Neugeborenen, Babys, Kindern und Erwachsenen
 - ZUVERLÄSSIGER SCHUTZ VOR WINDELAUSSCHLAG: Die natürliche Calendula Babycreme schützt die empfindliche Haut von Babys und Kleinkindern und pflegt wirksam bei gereizter und geröteter Haut; Die Windelpflegesalbe schützt vor Hautausschlag im Windelbereich und hinterlässt als Nässeschutz eine langanhaltende Schutzschicht auf der Haut
+- HÖCHSTE WELEDA QUALITÄT: Die Babywindel Creme wurde In Zusammenarbeit mit Hebammen entwickelt und ist zum Schutz Ihres Kindes frei von synthetischen Duft-, Farb- und Konservierungsstoffen, Mikroplastik-Inhaltsstoffen sowie Rohstoffen auf Mineralölbasis; Die Hautverträglichkeit wurde dermatologisch bestätigt - auch für empfindliche Haut
+- HANDARBEIT FÜR DIE HAUT: Die vielseitig wirksame Ringelblume Calendula wird im WELEDA Kernbetrieb in Schwäbisch Gmünd zu Babypflege, Kosmetik und zu Arzneimitteln verarbeitet und wächst direkt vor Ort im Heilpflanzengarten; Sie hat eine pflegende und hautberuhigende Wirkung und verleiht der Wundcreme einen angenehmen, milden Duft
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00BN8JUCC{{</world>}}

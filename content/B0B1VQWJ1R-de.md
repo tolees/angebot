@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Pflegeleichter und elastischer Materialmix mit Stretch
-- Normale Passform
 - Kurze Puffärmel
+- Normale Passform
+- Pflegeleichter und elastischer Materialmix mit Stretch
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B1VQWJ1R{{</world>}}

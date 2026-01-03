@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - DESIGN - Modern und minimalistisch, passend zu jeder Einrichtung, mit nahtlosem Rand, damit man sich auf das Wesentliche konzentrieren kann - das Bild. Der schwarze, schlanke Multipositions-TV-Standfuß bietet ultimativen Komfort und ist so konzipiert, dass er sowohl auf breite als auch schmale Möbeloberflächen passt.
-- KLANGQUALITÄT - Dolby Atmos sorgt für einen unvergleichlichen Klang, der jeden Sport, den Sie sehen, und jeden Kommentar, den Sie hören, mit Surround-Sound untermalt, während unsere einzigartigen X-Balanced-Lautsprechereinheiten die Klangqualität maximieren.
 - BILDQUALITÄT - Ein Wohnzimmer wie im Stadion. Das Full Array LED-Display verleiht jeder Szene Helligkeit und Kontrast und sorgt dafür, dass sich alles so real anfühlt. Der X1-Prozessor ist die Kraft hinter diesen hellen Bildern. Die Inhalte werden in Echtzeit analysiert, um mehr Details und Texturen in jeder Szene zu erkennen.
-- BRAVIA CORE - Hunderte von Filmen warten in der BRAVIA CORE App! Exklusiv für BRAVIA TV-Besitzer können 5 Filme in bis zu 4K HDR-Qualität sowie 12 Monate lang unbegrenztes Streaming ausgewählt und eingelöst werden.
 - GAMING - Mit bis zu 120 Bildern pro Sekunde (4K/120fps) für nahezu sofortige Action auf dem Bildschirm eignet sich der X85L auch hervorragend für Gaming. Der Auto Low Latency Mode in HDMI 2.1 sorgt für flüssiges, reaktionsschnelles Gameplay und Auto HDR Tone Mapping enthüllt wichtige Details in den dunkelsten und hellsten Bereichen des Bildschirms. Es gibt sogar ein spezielles Gaming-Menü, welches die brandneuen Fadenkreuz- und Custom Screen-Funktionen enthält - sie könnten das Geheimnis des nächsten Sieges sein!
+- BRAVIA CORE - Hunderte von Filmen warten in der BRAVIA CORE App! Exklusiv für BRAVIA TV-Besitzer können 5 Filme in bis zu 4K HDR-Qualität sowie 12 Monate lang unbegrenztes Streaming ausgewählt und eingelöst werden.
+- KLANGQUALITÄT - Dolby Atmos sorgt für einen unvergleichlichen Klang, der jeden Sport, den Sie sehen, und jeden Kommentar, den Sie hören, mit Surround-Sound untermalt, während unsere einzigartigen X-Balanced-Lautsprechereinheiten die Klangqualität maximieren.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BYPGRVDR{{</world>}}

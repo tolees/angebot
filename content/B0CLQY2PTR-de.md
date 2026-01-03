@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eine Sicherheits-Innentasche und Reißverschluss-Seitentaschen ermöglichen es dir, wichtige Gegenstände sicher aufzubewahren.
-- Lieferumfang: 1x Columbia Powder Lite II Kapuzenjacke für Damen, Farbe: Schwarz, Größe: M, Art.-Nr.: 2089391
 - Die Kapuze und die Ärmelbündchen sind fest angenäht, damit die Jacke einen sauberen Abschluss hat. Der verlängerte Saum am Rücken sorgt für zusätzlichen Schutz.
 - Hergestellt mit der Omni-Shield-Technologie, die Feuchtigkeit abweist und Flecken widersteht; außerdem mit Omni-Heat-Innenfutter mit Wärmereflektierung, das dich warm hält
+- Lieferumfang: 1x Columbia Powder Lite II Kapuzenjacke für Damen, Farbe: Schwarz, Größe: M, Art.-Nr.: 2089391
+- Eine Sicherheits-Innentasche und Reißverschluss-Seitentaschen ermöglichen es dir, wichtige Gegenstände sicher aufzubewahren.
 - Daunenjacke mit Kapuze, wärmereflektierendem Futter und Nieselregen abweisendem Stoff; Diese Pufferjacke ist ein Muss für kalte Abenteuertage
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

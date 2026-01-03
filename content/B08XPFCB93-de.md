@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Normale Passform
 - dryCELL: Technologie von PUMA zum Transport der Feuchtigkeit nach außen für trockenen Tragekomfort
+- PUMA Cat Logo als Thermodruck auf der Vorderseite
 - Mesh-Bündchen in Kontrastfarbe
 - Rundhalsausschnitt
-- PUMA Cat Logo als Thermodruck auf der Vorderseite
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08XPFCB93{{</world>}}

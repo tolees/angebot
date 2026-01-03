@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Größe entsprechend
 - Obermaterial aus Leder
+- Der Größe entsprechend
 - Textilfutter
 - Gummiaußensohle
 

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Produkt wird nicht in einer Box versendet, diese muss separat gekauft werden
-- Ganz gleich, ob du das Schmuckstück alleine tragen oder mit anderen Stylings kombinieren möchtest, diese Herz-Halskette bringt jeden Raum zum Strahlen
 - Die zarten, funkelnden Steine dieser vergoldeten Halskette sind von ewiger Liebe inspirier
 - Bring mit der Drei Sterne Herz Collier-Halskette ein Symbol der Liebe in deinen Look
+- Das Produkt wird nicht in einer Box versendet, diese muss separat gekauft werden
+- Ganz gleich, ob du das Schmuckstück alleine tragen oder mit anderen Stylings kombinieren möchtest, diese Herz-Halskette bringt jeden Raum zum Strahlen
 - Das neue Pandora Timeless Design präsentiert drei runde Steine im Brillantschliff in einer edlen und eleganten Herzform
 
 [🛒 Hier!!]({{< param buyurl >}})

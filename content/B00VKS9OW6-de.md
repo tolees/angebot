@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- (Steven
 - Jethro
+- (Steven
 - Aqualung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

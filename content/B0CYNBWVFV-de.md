@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Obermaterial aus Synthetikleder
 - Zehenkappe aus Wildleder
 - Reguläre Passform
-- Obermaterial aus Synthetikleder
-- Gummiaußensohle
 - Schaft und Futter aus Mesh
+- Gummiaußensohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CYNBWVFV{{</world>}}

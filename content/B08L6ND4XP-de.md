@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Fernsehen der nächsten Generation: Mit den Smart-TV von MEDION erleben Sie das Internet im Wohnzimmer: Apps, Streamingdienste, News und vieles mehr!
+- Lieferumfang: Smart-TV MD850200 X850200 Standfüße inkl. Schrauben, Fernbedienung inkl. Batterien (2x AAA), VESA-Abstandhalterungen, Bedienungsanleitung.
+- Brillanter als je zuvor: High Dynamic Range (HDR10) erlaubt lebensechte Kontraste und Farben.
 - Mehr Details, mehr Schärfe: Erleben Sie durch die Ultra HD 4K-Auflösung (3.840 x 2.160) eine viermal höhere Detailschärfe als bei bisherigen Full HD-TVs.
 - Eleganter 125,7 cm (50") UHD Smart-TV mit HDR10, CI+ Schnittstelle, WLAN, Bluetooth, PVR ready, Mediaplayer, HbbTV, VIDAA App Store, Prime Video, DAZN, Disney+ & Amazon Prime Video App und weiteren Smart-TV-Diensten.
-- Brillanter als je zuvor: High Dynamic Range (HDR10) erlaubt lebensechte Kontraste und Farben.
-- Lieferumfang: Smart-TV MD850200 X850200 Standfüße inkl. Schrauben, Fernbedienung inkl. Batterien (2x AAA), VESA-Abstandhalterungen, Bedienungsanleitung.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08L6ND4XP{{</world>}}

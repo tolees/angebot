@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Schützt die Nägel selbst bei häufiger Nutzung von Lack
 - Der Mix aus roten Beeren und Vanille lassen die Nägel nach dem Trocknen angenehm duften
-- Entfernt den Lack, ohne die Nägel auszutrocknen
 - Zarter Nagellackentferner, wirksam vom ersten Wischen an
+- Entfernt den Lack, ohne die Nägel auszutrocknen
 - Parabenfreie Formel
 
 [🛒 Hier!!]({{< param buyurl >}})

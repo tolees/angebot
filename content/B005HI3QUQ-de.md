@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - silberfarbenes Kunststoffgehäuse mit fein strukturierter Metallgriffzone
-- Metallclip
 - individuell einstellbarer Härtegradindikator
+- Metallclip
 - befüllt mit einem Radierstück (Z2-1N) und 2 Feinminen, Härtegrad HB
 
 [🛒 Hier!!]({{< param buyurl >}})

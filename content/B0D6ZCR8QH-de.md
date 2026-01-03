@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SPIELPLAN IM HOGWARTS-STIL: Erkunde Klassenzimmer, Gemeinschaftsräume und andere bekannte Orte in und um das Hogwarts Brettspiel! Je mehr ein Spieler erkundet, desto mehr Hauspunkte erhält er von anderen Spielern
+- EULENPOST UND STÄNDER: Eulenpostkarten ersetzen die Ereignis- und Gemeinschaftskarten bei dieser Version des Strategiespiels. Vorsicht – einige sind Heuler und können das Spiel eines Spielers verhexen
 - WÄHLE DEIN HAUS: Gryffindor, Hufflepuff, Ravenclaw oder Slytherin? Jeder Spieler wählt eine Hauskarte, wird einem Haus zugeteilt und sammelt während des klassischen Spiels Punkte für sein Haus
 - IKONISCHE GOLDENE SPIELFIGUREN: Ziehe über den Monopoly Spielplan mit einem von 6 verzauberten Transportmitteln: Hippogreif, Fahrender Ritter, Hogwarts Express, Hagrids Motorrad, Thestral und Feuerblitz
 - INSPIRIERT VON HARRY POTTER: Bei Monopoly Harry Potter Brettspiel können Fans als Schüler spielen. Es kombiniert das klassische Monopoly mit Illustrationen, Orten und Themen der Zauberwelt
-- EULENPOST UND STÄNDER: Eulenpostkarten ersetzen die Ereignis- und Gemeinschaftskarten bei dieser Version des Strategiespiels. Vorsicht – einige sind Heuler und können das Spiel eines Spielers verhexen
+- SPIELPLAN IM HOGWARTS-STIL: Erkunde Klassenzimmer, Gemeinschaftsräume und andere bekannte Orte in und um das Hogwarts Brettspiel! Je mehr ein Spieler erkundet, desto mehr Hauspunkte erhält er von anderen Spielern
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D6ZCR8QH{{</world>}}

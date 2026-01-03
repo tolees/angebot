@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Körperverfolgung - Verfolgen Sie die physische Präsenz Ihres gesamten Körpers in der virtuellen Umgebung. Erfassen Sie Ganzkörperbewegungen mit nur 3 Trackern.
-- Akkukapazität - bis zu 7,5 Stunden bei kontinuierlicher Nutzung.
 - Verfolgen Sie Bewegungen und bringen Sie Objekte aus der realen Welt in das virtuelle Universum.
+- Akkukapazität - bis zu 7,5 Stunden bei kontinuierlicher Nutzung.
 - Gemeinsame Nutzung des Datenanschlusses - der USB-Anschluss kann nicht nur zur Stromversorgung, sondern auch zur Eingabe von Controller-Tastenereignissen verwendet werden.
+- Körperverfolgung - Verfolgen Sie die physische Präsenz Ihres gesamten Körpers in der virtuellen Umgebung. Erfassen Sie Ganzkörperbewegungen mit nur 3 Trackern.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08YY215VB{{</world>}}

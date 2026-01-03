@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hält kühl und bequem
-- Haarshampoo
 - Bringt Ihnen einen zusätzlichen Komfort
+- Haarshampoo
+- Hält kühl und bequem
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08KYC41CF{{</world>}}

@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Umfassende Kindersicherung】 Behalte die Online-Aktivitäten deiner Familie im Auge, blockiere unerwünschte Websites und beschränke den Zugriff auf ausgewählte Geräte.
-- 【Automatische Gigabit-WAN/LAN-Anpassung】 HUAWEI WiFi AX3S ist mit vier Gigabit-Ethernet-Anschlüssen ausgestattet, von denen jeder die automatische WAN-/LAN-Anpassung unterstützt, sodass du nicht zwischen ihnen unterscheiden musst, was die Breitbandinstallation wirklich zu einem Kinderspiel macht. (*Wenn einer der Gigabit-Ethernet-Anschlüsse für WAN verwendet wird, können die anderen nur für LAN genutzt werden.)
 - 【Schnelle Geschwindigkeit jenseits deiner Vorstellung】 Mit theoretischen Spitzengeschwindigkeiten von 3.000 Mbit/s kannst du 4K-Filme streamen und deine Lieblingsspiele problemlos spielen.
+- 【Produkt-Garantie】24 Monate Produktgarantie + 6 Monate verlängerte AMZ-Garantie.
 - 【Große Bandbreite mit 160 MHz, High-Speed】AX3S unterstützt eine große Frequenzbandbreite von 160 MHz und bietet optimale Geschwindigkeit für mehr Effizienz.
 - 【Visualisierte WLAN-Diagnose】 Mit dem AX3S kannst du die WLAN-Abdeckungskarte für dein Zuhause überprüfen, den Netzwerkstatus auf einen Blick sehen und Netzwerkprobleme einfach lösen, indem du die vorgeschlagenen Tipps befolgst.
-- 【Produkt-Garantie】24 Monate Produktgarantie + 6 Monate verlängerte AMZ-Garantie.
+- 【Automatische Gigabit-WAN/LAN-Anpassung】 HUAWEI WiFi AX3S ist mit vier Gigabit-Ethernet-Anschlüssen ausgestattet, von denen jeder die automatische WAN-/LAN-Anpassung unterstützt, sodass du nicht zwischen ihnen unterscheiden musst, was die Breitbandinstallation wirklich zu einem Kinderspiel macht. (*Wenn einer der Gigabit-Ethernet-Anschlüsse für WAN verwendet wird, können die anderen nur für LAN genutzt werden.)
+- 【Umfassende Kindersicherung】 Behalte die Online-Aktivitäten deiner Familie im Auge, blockiere unerwünschte Websites und beschränke den Zugriff auf ausgewählte Geräte.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DW7R9XD6{{</world>}}

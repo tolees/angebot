@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - STILVOLLER RUNDHALSAUSSCHNITT: Das T-Shirt vereint cleanes Design mit moderner Lässigkeit. Der stilvolle Rundhalsausschnitt und der Logo-Print auf der Brust verleihen dem Shirt einen zeitlosen Look
+- REGULAR FIT: Der gerade Schnitt und die bequeme Passform sorgen für einen optimalen Sitz. Das Regular Fit Shirt sitzt angenehm locker und bietet ideale Bewegungsfreiheit
 - BIO-BAUMWOLLE: Dieses Oberteil aus 100 Prozent zertifizierter Bio-Baumwolle überzeugt durch weichen Tragekomfort und nachhaltige Qualität. Es kann bei 40 °C gewaschen werden
 - MARC OߴPOLO DENIM: Die urbane Linie von Marc OߴPolo steht für lässigen Streetstyle mit skandinavischem Einfluss. Nachhaltige Materialien und moderne Schnitte schaffen vielseitige Looks, die Authentizität und individuellen Stil verkörpern – the freedom to be yourself
-- REGULAR FIT: Der gerade Schnitt und die bequeme Passform sorgen für einen optimalen Sitz. Das Regular Fit Shirt sitzt angenehm locker und bietet ideale Bewegungsfreiheit
 - VIELSEITIG KOMBINIERBAR: Ob lässig zu Jeans und Sneakern oder klassisch zu Chino und Sakko – dieses Basic Shirt ist ein echtes Allround-Talent für jeden Tag. Perfekt für Casual Chic und elegante Outfits
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

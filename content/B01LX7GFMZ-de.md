@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - In vielen leuchtenden und pastelligen Farben erhältlich
 - STABILO Anti-Dry-Out Technology: 4 Stunden Schutz vor dem Austrocknen
-- Zarten Farben für kreative Ideen wie z.B. Journaling
 - Hohe Qualität in Verarbeitung, Tinte und Schreibkomfort
+- Zarten Farben für kreative Ideen wie z.B. Journaling
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01LX7GFMZ{{</world>}}

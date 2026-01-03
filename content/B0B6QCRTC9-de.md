@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Pentel EnerGel Liquid Gel-Tintenroller
 - 0,35 mm Strichstärke = 0.7 mm ball, Schreibfarben Schwarz, Rot, Blau, Marineblau, Grün, Braun, Orange, Hellgrün, Pink, Hellblau, Türkis, Violett
-- Druckmechanik und Metallclip, gummierte Griffzone, 54% Recycling Anteil
+- Pentel EnerGel Liquid Gel-Tintenroller
 - original EnerGel-Tinte, schreibt sanft, trocknet schnell, ideal für Linkshänder
+- Druckmechanik und Metallclip, gummierte Griffzone, 54% Recycling Anteil
 - nachfüllbar mit Mine LR7 und allen anderen EnerGel Minen
 
 [🛒 Hier!!]({{< param buyurl >}})

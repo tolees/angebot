@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schuhweite: Mittel
 - Moderner Wanderschuh
 - kam als Material Gummi zum Einsatz.
+- Schuhweite: Mittel
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01F53R3TC{{</world>}}

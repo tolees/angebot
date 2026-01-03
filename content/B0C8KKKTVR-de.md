@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eine zeitgenössiche, sportliche Silhouette
 - Textil aus recyceltem PET
+- Eine zeitgenössiche, sportliche Silhouette
 - Bietet eine ergonomische Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

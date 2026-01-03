@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- zeitlose Klassiker
 - weiterentwickelte Laufsohle mit klarem Design
 - Obermaterial aus weichem Leder
+- zeitlose Klassiker
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0783PWMT2{{</world>}}

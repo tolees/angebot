@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Dies ist ein originales Levis Produkt
 - Die Original Jeans seit 1873
-- Gerade Passform
 - Echter amerikanischer Stil
+- Gerade Passform
 - Echter Denim für deinen StyleDies ist ein originales Levis Produkt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

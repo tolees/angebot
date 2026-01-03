@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Rippstrick hat Längsrippen
 - Ideal für den Winter
 - Bequemes Tragegefühl
-- Rippstrick hat Längsrippen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CXQ82F51{{</world>}}

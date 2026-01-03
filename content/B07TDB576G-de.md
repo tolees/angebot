@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ausgangsleistung max. 60 Watt (20 V, 3 A)
 - Teile deine Power zwischen zwei kompatiblen Endgeräten mit USB Type-C
+- Ausgangsleistung max. 60 Watt (20 V, 3 A)
+- Kabellänge: 1 m
 - Ideal für Smartphones oder Tablets
 - USB Type-C zu USB Type-C Kabel unterstützt USB 2.0
-- Kabellänge: 1 m
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07TDB576G{{</world>}}

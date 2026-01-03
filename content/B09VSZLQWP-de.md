@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Obermaterial aus Synthetikleder
 - Reguläre Passform
-- Schnürsenkel
 - Gummiaußensohle
+- Schnürsenkel
 - Synthetikfutter
 
 [🛒 Hier!!]({{< param buyurl >}})

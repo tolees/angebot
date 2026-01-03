@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kabellose Aufnahmemöglichkeit - 4 Kanäle, 3 Gruppen
-- Betriebstemperatur : 0 - 40 °C
 - Bis zu 90° schwenkbar - Indirektes Blitzen für natürliche Aufnahmen mit weicher Ausleuchtung
-- Blitzgerät
+- Betriebstemperatur : 0 - 40 °C
 - LED Licht - für die Videoaufzeichnung oder bei schwacher Beleuchtung
+- Blitzgerät
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01E7NLOBE{{</world>}}

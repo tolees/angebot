@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Reinigt die Haut porentief und trägt dazu bei, überschüssigen Talg sofort zu reduzieren.
 - 1- bis 2-mal pro Woche eine Schicht Acniben Reinigende Gesichtsmaske auf das saubere, trockene Gesicht auftragen, die Augen- und Mundpartie aussparen. 10–15 Minuten trocknen lassen und mit lauwarmem Wasser sanft entfernen.
-- Vermeide den Kontakt mit Augen und Schleimhäuten. Bei Kontakt mit den Augen gründlich mit reichlich Wasser ausspülen. Das Produkt außerhalb der Reichweite von Kindern aufbewahren.
 - Acniben Reinigende Gesichtsmaske sorgt für zusätzliche Reinheit und hilft, Unreinheiten wie Pickel und Mitesser zu reduzieren.
 - Reduziert Hautunreinheiten Hilft, Pickel und Mitesser zu reduzieren und verbessert das Hautbild. Mildert Pickelmale Hilft, Pickelmale auf der Haut zu reduzieren. Vereinheitlicht den Teint Vereinheitlicht den Teint und verbessert das Hautbild. Reguliert die Talgbildung Reguliert die Talgbildung und sorgt für ein weniger fettiges Hautgefühl.
+- Vermeide den Kontakt mit Augen und Schleimhäuten. Bei Kontakt mit den Augen gründlich mit reichlich Wasser ausspülen. Das Produkt außerhalb der Reichweite von Kindern aufbewahren.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BWSDTDL4{{</world>}}

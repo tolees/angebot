@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ravensburger Puzzle sind das beste Geschenk zu jedem Anlass: Geburtstag, Weihnachten, Ostern oder einfach als tolle Freizeitbeschäftigung
-- Gepuzzelt und geklebt macht sich ein Ravensburger Puzzle auch hervorragend als Wanddekoration
+- Inhalt: 2000 Teile Ravensburger Puzzle, im Format 98,00 cm x 75,10 cm, ab 14 Jahren geeignet
 - 2000 bunte Puzzleteile von Ravensburger sind genau das richtige für jeden Puzzlefan, der faszinierende Landschaftsmotive, magische Fantasiewelten oder bunte Collagen liebt
 - Entdecke die Ravensburger Qualitätsmerkmale auf einen Blick: Formenvielfalt durch handgefertigte Stanzmesser, passgenaue Puzzleteile, reflexfreies Puzzlebild durch Naturleinenprägung, knickstabile Puzzleteile, hergestellt aus recycelter Pappe
-- Inhalt: 2000 Teile Ravensburger Puzzle, im Format 98,00 cm x 75,10 cm, ab 14 Jahren geeignet
+- Ravensburger Puzzle sind das beste Geschenk zu jedem Anlass: Geburtstag, Weihnachten, Ostern oder einfach als tolle Freizeitbeschäftigung
+- Gepuzzelt und geklebt macht sich ein Ravensburger Puzzle auch hervorragend als Wanddekoration
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B003TQU1SI{{</world>}}

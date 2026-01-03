@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - SICHTBARKEIT: Die VAUDE Escape Bike Light Jacke verfügt über Reflektor-Streifen und reflektierenden Elementen, um die Sichtbarkeit bei schlechten Lichtverhältnissen zu gewährleisten
+- NACHHALTIG: VAUDE ist seit 2022 klimaneutral. Aktuell nicht vermeidbare Emissionen werden vollständig über „myclimate“ durch zertifizierte Gold-Standard-Klimaschutzprojekte kompensiert
 - AUSSTATTUNG: Unsere nachhaltige Funktionsjacke hat eine einrollbare Kapuze, Frontreißverschluss mit doppelter Klappe & zwei Vordertaschen mit Reißverschluss. Weitenregulierung am Saum & Ärmelbund
 - SCHUTZ: Die VAUDE Packaway-Jacke ist atmungsaktiv, wasserfeste & schützt dank 2-Lagen Design effektiv vor Wind & Wetter. Die funktionale Jacke eignet sich somit perfekt für wechselhaftes Wetter
 - EINSATZBEREICHE: Der Windbreaker Damen ist besonders leicht, lässt sich zusammenrollen & somit im Rucksack transportieren. Ideal als wetterfeste Fahrradjacke, Freizeitjacke oder Übergangsjacke
-- NACHHALTIG: VAUDE ist seit 2022 klimaneutral. Aktuell nicht vermeidbare Emissionen werden vollständig über „myclimate“ durch zertifizierte Gold-Standard-Klimaschutzprojekte kompensiert
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BLGXJH3Z{{</world>}}

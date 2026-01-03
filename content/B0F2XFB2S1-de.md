@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langärmlig mit Rundhals-Ausschnitt
-- Passform: Regular Fit, Rückenlänge bei Größe M ca. 61 cm
 - Waschhinweis: Reinigen mit Perchlorethylen, Trocknen im Trockner nicht möglich, Kein Bleichmittel erlaubt, Bei niedriger Temperatur bügeln (110° C), Schonwaschgang bei max. 30°C
-- Strukturierter Ottoman Pullover mit leicht gerollten Saumkanten
+- Langärmlig mit Rundhals-Ausschnitt
 - Aus nachhaltiger Bio-Baumwolle
+- Passform: Regular Fit, Rückenlänge bei Größe M ca. 61 cm
+- Strukturierter Ottoman Pullover mit leicht gerollten Saumkanten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0F2XFB2S1{{</world>}}

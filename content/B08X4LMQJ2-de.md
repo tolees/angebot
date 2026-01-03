@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gehäusedicke 9,3 mm, Durchmesser des Gehäuses: 43 mm
-- Quarz-Uhrwerk mit drei Zeigern
-- Schwarzes Edelstahl-Armband mit IP-Beschichtung
 - Wasserabweisend bis 3 bar Wasserspritzer oder Regen richten keine Schäden an, solange das Gehäuse, die Krone und das Glas intakt bleiben.
+- Gehäusedicke 9,3 mm, Durchmesser des Gehäuses: 43 mm
+- Schwarzes Edelstahl-Armband mit IP-Beschichtung
+- Quarz-Uhrwerk mit drei Zeigern
 - Schwarzes Zifferblatt mit vertikaler Bürstung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

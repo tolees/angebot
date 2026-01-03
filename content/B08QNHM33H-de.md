@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Innenmaterial: Textil
-- Absatzform: Flach
 - Sohle: Gummi
+- Absatzform: Flach
 - Obermaterial: Leder
 - Verschluss: Klettverschluss
 

@@ -30,11 +30,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Wenn der Rhinomite auf seinen Hinterrädern steht, können coole Stunts wie 360-Wheelie-Drehungen durchgeführt werden!
 - Eignet sich perfekt als Geschenk für Fans von robusten und zerstörerischen Hot Wheels Monster Trucks ab 5 Jahren.
-- Enthält ein Hot Wheels Monster Truck Race Ace im Maßstab 1:64, das über den Beschleuniger gestartet und auf der Ladefläche des größeren Trucks aufbewahrt werden kann.
-- Mit dem Hot Wheels Monster Trucks HW ferngesteuerten, umbaubaren Rhinomite mit einem ferngesteuerten Monster Truck im Maßstab 1:12, der sich in einen Beschleuniger für Monster Trucks im Maßstab 1:64 umbauen lässt, sorgen Kinder für jede Menge Zerstörung.
-- 20 Minuten Ladezeit per USB-Kabel bringen zwei Stunden Spielspaß. Die Fernsteuerungsfrequenz von 2,4 GHz verhindert Störungen und ermöglicht das Spielen mit mehreren ferngesteuerten Fahrzeugen gleichzeitig.
-- Die Allround-Fernsteuerung bietet Panzersteuerung und Zweiradantrieb, was den Truck robust und zerstörerisch macht genau wie den Rhinomite! Er kann auf gewöhnlichen Böden im Innenbereich sowie auf gemischtem Gelände wie Erde, Gras und Die-Cast-Autos fahren.
 - Wird der Rhinomite zu einem motorisierten Beschleuniger umgebaut, der Monster Trucks im Maßstab 1:64 bis zu rund 90 cm hoch starten lassen kann, ist der Dynamitmodus erreicht. Er lässt sich außerdem mit Hot Wheels Tracks verbinden, sodass die Trucks in neue Abenteuer durchstarten können. (Hot Wheels Track separat erhältlich.)
+- 20 Minuten Ladezeit per USB-Kabel bringen zwei Stunden Spielspaß. Die Fernsteuerungsfrequenz von 2,4 GHz verhindert Störungen und ermöglicht das Spielen mit mehreren ferngesteuerten Fahrzeugen gleichzeitig.
+- Mit dem Hot Wheels Monster Trucks HW ferngesteuerten, umbaubaren Rhinomite mit einem ferngesteuerten Monster Truck im Maßstab 1:12, der sich in einen Beschleuniger für Monster Trucks im Maßstab 1:64 umbauen lässt, sorgen Kinder für jede Menge Zerstörung.
+- Enthält ein Hot Wheels Monster Truck Race Ace im Maßstab 1:64, das über den Beschleuniger gestartet und auf der Ladefläche des größeren Trucks aufbewahrt werden kann.
+- Die Allround-Fernsteuerung bietet Panzersteuerung und Zweiradantrieb, was den Truck robust und zerstörerisch macht genau wie den Rhinomite! Er kann auf gewöhnlichen Böden im Innenbereich sowie auf gemischtem Gelände wie Erde, Gras und Die-Cast-Autos fahren.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BRSHND4S{{</world>}}

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 41 NATURAL LOOKING COLORS: With shades of black, brown, blonde, red and platinum, there are so many beautiful colours to choose from.
-- Hinweis: Die Verpackung kann variieren
-- Keratin enriched hair colour: the nourishing, ammonia-free hair colour formula is enriched with keratin and silk amino acid to bring hair in better condition than before dyeing.
 - 100% grey coverage: Revlon 3D colour gel technology provides a rich, natural-looking, multi-dimensional colour with long-lasting shine.
-- EASY TO USE HAIR COLOR SET: Change your look or cover grey areas - easily at home, from root to tip.
+- 41 NATURAL LOOKING COLORS: With shades of black, brown, blonde, red and platinum, there are so many beautiful colours to choose from.
 - Long-lasting hair colour for the home: practical hair dye set for the home, developed in collaboration with salon experts and provides long-lasting grey coverage.
+- Keratin enriched hair colour: the nourishing, ammonia-free hair colour formula is enriched with keratin and silk amino acid to bring hair in better condition than before dyeing.
+- Hinweis: Die Verpackung kann variieren
+- EASY TO USE HAIR COLOR SET: Change your look or cover grey areas - easily at home, from root to tip.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01LTHLD9Y{{</world>}}

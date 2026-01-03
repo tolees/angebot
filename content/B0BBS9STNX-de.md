@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Magnetspiel Modell "Sonnensystem", um Kindern zu helfen, sich mit den Planeten, Konstellationen und Elementen des Sonnensystems vertraut zu machen
 - Enthält 7 Karteikarten mit detaillierten Informationen, um alles Notwendige über die Elemente des Raums in 10 verschiedenen Sprachen zu lernen
-- Lernen Sie die verschiedenen Mondphasen, die Jahreszeiten, die Sternbilder, die Planeten und die wichtigsten Satelliten
 - Optimaler didaktischer Wert: fördert Beobachtung und Vorstellungskraft, erhöht die Konzentration und Aufmerksamkeit und weckt Interesse an unbekannten Objekten und Gewohnheiten. Empfohlen für Kinder ab 5 Jahren
+- Lernen Sie die verschiedenen Mondphasen, die Jahreszeiten, die Sternbilder, die Planeten und die wichtigsten Satelliten
 - Enthält: 1 x Magnet-Szenario von 28 x 18 cm, um in den Boden der Box zu passen, und 27 magnetische Spielsteine zum Entdecken unseres Sonnensystems
 
 [🛒 Hier!!]({{< param buyurl >}})

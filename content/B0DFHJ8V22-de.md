@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hier ist Patrick! – In der offenen Welt von Bikini Bottom könnt ihr ein urkomisches Chaos anrichten
-- Spass mit Physik – Man schnappt Dinge und schiebt sie woanders hin. Das nennt man Physik!
 - Ikonischer Stil – Klassische Patrick-Outfits können mit verrückten Stunts und Sammelobjekten freigeschaltet werden.
+- Spass mit Physik – Man schnappt Dinge und schiebt sie woanders hin. Das nennt man Physik!
+- Hier ist Patrick! – In der offenen Welt von Bikini Bottom könnt ihr ein urkomisches Chaos anrichten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DFHJ8V22{{</world>}}

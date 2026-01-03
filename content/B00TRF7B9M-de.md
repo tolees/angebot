@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- POP! Vinylfigur
 - Battlestar Galactica Classic
 - Adama
+- POP! Vinylfigur
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00TRF7B9M{{</world>}}

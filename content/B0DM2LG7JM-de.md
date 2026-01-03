@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- KOMPATIBEL: Die Figuren sind mit allen Star Wars Micro Galaxy Squadron Fahrzeugen kompatibel
-- IKONISCHE HELDEN: Enthält drei 2,5 cm große Micro Figuren - Jag, Oddball und R4-C7
-- SPIEL-FEATURES: Zwei Cockpits, aufklappbare Flügel, schwenkbare Kanonen und mehr
 - NEUER STERNJÄGER: Mit dem ARC-170 Starfighter wird die Flotte der Republik erweitert
+- KOMPATIBEL: Die Figuren sind mit allen Star Wars Micro Galaxy Squadron Fahrzeugen kompatibel
 - VOM FILM INSPIRIERT: Das 20 cm große Fahrzeug basiert auf dem Sternjäger aus Star Wars: Die Rache der Sith
+- SPIEL-FEATURES: Zwei Cockpits, aufklappbare Flügel, schwenkbare Kanonen und mehr
 - OFFIZIELLES PRODUKT: Offiziell lizenziertes STAR WARS Produkt von Jazwares
+- IKONISCHE HELDEN: Enthält drei 2,5 cm große Micro Figuren - Jag, Oddball und R4-C7
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DM2LG7JM{{</world>}}

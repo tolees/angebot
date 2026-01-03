@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Normale bis schmale Passform
 - Nur von Hand waschen
 - Reguläre Zungenkonstruktion passt zu verschiedenen Fußformen
-- Normale bis schmale Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BLCKXDMS{{</world>}}

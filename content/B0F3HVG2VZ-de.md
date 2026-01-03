@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die schönsten Motive, die größte Größenvielfalt und die typische Clementoni-Qualität – ein Sortiment, das für Puzzle-Fans weltweit Maßstäbe setzt
-- 1000-teiliges Puzzle für Erwachsene
 - Größe des fertigen Puzzles: 98 x 33 cm
 - Clementoni ist sich der Bedeutung des Umweltbewusstseins bewusst und verwendet daher weitgehend recycelte Materialien und verzichtet auf schadstoffhaltige Komponenten
+- 1000-teiliges Puzzle für Erwachsene
+- Die schönsten Motive, die größte Größenvielfalt und die typische Clementoni-Qualität – ein Sortiment, das für Puzzle-Fans weltweit Maßstäbe setzt
 - Hergestellt in Italien
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

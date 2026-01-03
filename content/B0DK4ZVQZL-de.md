@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnürsenkel
 - Obermaterial aus Synthetik- und Wildleder
-- Klassisches T-förmiges Overlay im Zehenbereich
+- Schnürsenkel
 - Regulär geschnitten
+- Klassisches T-förmiges Overlay im Zehenbereich
 - Gummi-Cupsohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

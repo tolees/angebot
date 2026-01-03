@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- [Doppelte Steuerschalter für einfache Bedienung] Übernehmen Sie die Kontrolle mit benutzerfreundlichen Bedienelementen: einem Push-Pull-Hauptschalter für die Gesamtleistung und einem berührungsempfindlichen Startknopf zum Einleiten der Startsequenz. Perfekt für Weltraumfans und Sammler gleichermaßen.
-- [Dynamische Weltraumstart-Simulation] Erleben Sie den Nervenkitzel einer echten Weltraummission mit dem Space Shuttle LKA02. Das Modell verfügt über eine voll funktionsfähige Startbasis und simuliert sowohl die horizontale Bergung als auch den vertikalen Startmodus. Der Startvorgang wird über eine berührungsempfindliche Taste ausgelöst.
 - [Retro-futuristisches Design & hochwertige Verarbeitung] Diese Nachbildung im Maßstab 1:420 besticht durch eine nostalgische Science-Fiction-Ästhetik und eine elegante weiße ABS-Konstruktion. Der siebenstöckige Kontrollturm besticht durch scharfe, industrielle Kanten, während das Shuttle selbst für ein authentisches Aussehen detailgetreu gestaltet ist.
-- [Interaktive Lichteffekte & Countdown] Tauchen Sie mit realistischen Lichteffekten in die Startsequenz ein. Der Kontrollturm blinkt sechsmal gelb, um den Countdown zu signalisieren, gefolgt von leuchtend orangefarbenen und blauen Flammenlichtern an der Raketenbasis, die eine erfolgreiche Zündung signalisieren – genau wie bei einer echten Weltraummission.
+- [Dynamische Weltraumstart-Simulation] Erleben Sie den Nervenkitzel einer echten Weltraummission mit dem Space Shuttle LKA02. Das Modell verfügt über eine voll funktionsfähige Startbasis und simuliert sowohl die horizontale Bergung als auch den vertikalen Startmodus. Der Startvorgang wird über eine berührungsempfindliche Taste ausgelöst.
 - [Motorisierte mechanische Bewegungen] Angetrieben von einem Mikroverzögerungsmotor hebt das Modell das Shuttle über eine rotierende Schiene und dreiachsige mechanische Arme, die sich im 90°-Winkel schließen, sanft in die Startposition – ein Beispiel für fortschrittliche Technik in kompaktem Design.
+- [Interaktive Lichteffekte & Countdown] Tauchen Sie mit realistischen Lichteffekten in die Startsequenz ein. Der Kontrollturm blinkt sechsmal gelb, um den Countdown zu signalisieren, gefolgt von leuchtend orangefarbenen und blauen Flammenlichtern an der Raketenbasis, die eine erfolgreiche Zündung signalisieren – genau wie bei einer echten Weltraummission.
+- [Doppelte Steuerschalter für einfache Bedienung] Übernehmen Sie die Kontrolle mit benutzerfreundlichen Bedienelementen: einem Push-Pull-Hauptschalter für die Gesamtleistung und einem berührungsempfindlichen Startknopf zum Einleiten der Startsequenz. Perfekt für Weltraumfans und Sammler gleichermaßen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FKM2KNNM{{</world>}}

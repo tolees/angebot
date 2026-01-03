@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LIEFERUMFANG: GCL 2-15 mit Drehhalterung RM 1 Professional, 3x AA-Batterien, Laserzieltafel, Schutztasche, L-BOXX Einlage
-- VIELE ANWENDUNGEN: Flexibler Einsatz & vielseitige Befestigungsmöglichkeiten dank drehbarer Multifunktionshalterung RM 1 Professional
 - FUNKTIONEN: Horizontale und vertikale Laserlinien sowie zwei zentrierte Lotpunkte mit optimaler Sichtbarkeit
-- TECHN. DATEN: Laserklasse 2, IP 54, Selbstnivellierbereich ± 4°, Nivelliergenauigkeit ± 0,3 mm/m
 - PROFESSIONELLER EINSATZ: Bosch Kreuzlinienlaser mit Lotpunkten, kompakt und vielseitig einsetzbar für alle Nivellierarbeiten auf kurze Distanzen
+- LIEFERUMFANG: GCL 2-15 mit Drehhalterung RM 1 Professional, 3x AA-Batterien, Laserzieltafel, Schutztasche, L-BOXX Einlage
+- TECHN. DATEN: Laserklasse 2, IP 54, Selbstnivellierbereich ± 4°, Nivelliergenauigkeit ± 0,3 mm/m
+- VIELE ANWENDUNGEN: Flexibler Einsatz & vielseitige Befestigungsmöglichkeiten dank drehbarer Multifunktionshalterung RM 1 Professional
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01FLJ6DO6{{</world>}}

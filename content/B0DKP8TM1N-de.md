@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - 108MP AI-Kamerasystem mit OIS
 - AI-Funktionen: Gemini
-- 120Hz Augenschutzdisplay, 2100cd/m² maximale Helligkeit, Corning Gorilla Glass 5
 - MediaTek Dimensity 7025-Ultra, 6nm Fertigungsprozess-Technologie
 - 5110mAh Akku mit 45W TurboCharge
+- 120Hz Augenschutzdisplay, 2100cd/m² maximale Helligkeit, Corning Gorilla Glass 5
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DKP8TM1N{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Skinny Shape Jeans
 - 5-Pocket stretch Jeans
+- Skinny Shape Jeans
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07T1CKJ19{{</world>}}

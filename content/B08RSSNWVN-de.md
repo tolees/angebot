@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Abteilungsname: Damen
-- das einhorn-charm trägt außerdem eingravierte herzen auf den unterseiten seiner hufe und ein glänzend poliertes horn, mähne und schwanz
-- der artikel wird nicht in einer box versendet. diese muss separat gekauft werden
-- Stil name: Tiere
-- zeigen sie ihre facettenreiche persönlichkeit mit dem bruno das einhorn in regenbogenfarben charm
 - eine farbenfrohe variation des beliebten pandora friend, bruno das einhorn. das leuchtende charm steht für vielfalt, zugehörigkeit, gleichberechtigung und stol
+- der artikel wird nicht in einer box versendet. diese muss separat gekauft werden
+- das einhorn-charm trägt außerdem eingravierte herzen auf den unterseiten seiner hufe und ein glänzend poliertes horn, mähne und schwanz
+- Abteilungsname: Damen
+- zeigen sie ihre facettenreiche persönlichkeit mit dem bruno das einhorn in regenbogenfarben charm
 - das farbenfrohe charm bezaubert mit einem regenbogeneffekt aus von hand aufgetragener, transparenter emaille in rosa, blau, lavendel und grün
+- Stil name: Tiere
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08RSSNWVN{{</world>}}

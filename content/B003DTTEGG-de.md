@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Seit mehr als 60 Jahren stellt die Mozart Distillerie seine Produkte in Salzburg, Österreich her. Jeder Produktionsschritt fordert höchste Qualitätsansprüche die durch jahrelange Erfahrung erfüllt werden & teilweise auch heute noch in Handarbeit erfolgen.
-- Der Mozart Dark Chocolate Cream wurde in den letzen Jahren mehrfach mit Gold & Silber ausgezeichnet. Dies ist das Ergebnis der jahrelangen Erfahrung & Leidenschaft in Kombination mit den Kompetenzen der Herstellung
-- Seine dunkelbraune Farbe mit dem leichten Schimmer überzeugt sowohl pur in einem Glas oder in einem Cocktail. Besonders in den Mozart Choctail Rezepten kommt der Mozart Dark Chocolate Liqueur zur Geltung.
-- Ein rauchig-herber Zartbitter-Schokoladenlikör der aus rein natürlichen Zutaten und mit viel Liebe zum Detail hergestellt wird. Bei der Herstellung wird auf den Zusatz von Sahne verzichtet, weshalb der Likör vegan & laktosefrei ist
 - Dieser intensive Trinkgenuss mit rauchig - herben Noten der Edelkakaobohnen wurde mit Vanille & Karamell verfeinert. Im Abgang zeigen sich nussige Aromen
+- Der Mozart Dark Chocolate Cream wurde in den letzen Jahren mehrfach mit Gold & Silber ausgezeichnet. Dies ist das Ergebnis der jahrelangen Erfahrung & Leidenschaft in Kombination mit den Kompetenzen der Herstellung
+- Ein rauchig-herber Zartbitter-Schokoladenlikör der aus rein natürlichen Zutaten und mit viel Liebe zum Detail hergestellt wird. Bei der Herstellung wird auf den Zusatz von Sahne verzichtet, weshalb der Likör vegan & laktosefrei ist
+- Seine dunkelbraune Farbe mit dem leichten Schimmer überzeugt sowohl pur in einem Glas oder in einem Cocktail. Besonders in den Mozart Choctail Rezepten kommt der Mozart Dark Chocolate Liqueur zur Geltung.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B003DTTEGG{{</world>}}

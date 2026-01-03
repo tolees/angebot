@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Glattleder
 - Lining: 42% Textil (60% PU, 40% Polyester), 33% Baumwolle, 25% Textil (60% Nylon, 40% PU)
 - Lederbezogene Innensohle: bequemer zu tragen
 - Farbe: schwarz
-- Glattleder
 - Gummilaufsohle: guter Halt
 
 [🛒 Hier!!]({{< param buyurl >}})

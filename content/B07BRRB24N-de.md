@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spezialedition Yoshi-Design
-- Soft-Touch-Oberfläche
 - Controller für die Nintendo Switch im traditionellen Stil
-- Offiziell von Nintendo lizenziert
+- Spezialedition Yoshi-Design
 - 2,5 m langes abnehmbares USB-Kabel
+- Offiziell von Nintendo lizenziert
+- Soft-Touch-Oberfläche
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07BRRB24N{{</world>}}

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die wasserfeste Formel bietet auch im Wasser und beim Schwitzen zuverlässigen Schutz vor schädigenden UV-Strahlen
+- Die Sonnenschutz-Milch kann sowohl im Gesicht als auch am Körper verwendet werden
 - Die nicht fettende Textur zieht schnell ein und sorgt umgehend für Schutz
 - Die Hydra Protect+ 24h Sonnenschutz-Milch bietet mit Lichtschutzfaktor 30 einen mittleren Schutz vor UVA- und UVB-Strahlung
-- Die Sonnenschutz-Milch kann sowohl im Gesicht als auch am Körper verwendet werden
 - Die Sonnenschutz-Milch ist mit Vitamin C angereichert, wodurch dunklen Flecken vorgebeugt wird
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Welcome-Package mit 7 Nespresso Kapseln individueller Geschmacksrichtungen
-- Voreinstellungen: 40 ml für espresso und 110 ml für lungo
-- Flow stop: programmierbare kaffeemenge
-- Aufklappbares abtropfgitter für hohe tassen und gläser
 - Direktwahltasten für espresso und lungo
+- Aufklappbares abtropfgitter für hohe tassen und gläser
+- Welcome-Package mit 7 Nespresso Kapseln individueller Geschmacksrichtungen
+- Flow stop: programmierbare kaffeemenge
 - Stückzahl: 1
+- Voreinstellungen: 40 ml für espresso und 110 ml für lungo
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01ITGGKBY{{</world>}}

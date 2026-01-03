@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Diesem Produkt wurden keine tierischen Bestandteile zugesetzt
-- Verwandelt Stress in positive Energie
 - Türkis im Wasser
+- Verwandelt Stress in positive Energie
 - Mit natürlichen ätherischen Ã–len Der Wasserminze und Rosmarin
 - Frischer und klärender Duft
 

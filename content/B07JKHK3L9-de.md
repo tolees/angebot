@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rundhalsausschnitt
 - Geruchshemmendes Material
+- Sonnenschutz - UPF 40 Schutz
+- Rundhalsausschnitt
 - optimaler Feuchtigkeitstransport
 - schnelltrocknend und antibakteriell
-- Sonnenschutz - UPF 40 Schutz
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07JKHK3L9{{</world>}}

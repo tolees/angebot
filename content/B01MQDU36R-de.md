@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fünf verschiedene Sprühbilder: Egal ob für zarte Setzlinge oder gezielte Bewässerung von Pflanzflächen
 - Frostsicher: Mit integriertem Frostschutz
 - Lieferumfang beinhaltet: 1x Gardena Premium Multibrause
+- Fünf verschiedene Sprühbilder: Egal ob für zarte Setzlinge oder gezielte Bewässerung von Pflanzflächen
 - Robuste Qualität: Das Anschlussstück sowie Teile des Brausekopfes sind aus Metall gefertigt
 - Stufenlose Regulierung: Ergonomische Auslösetaste für eine stufenlose Wasserzufuhr mit nur einem Finger
 

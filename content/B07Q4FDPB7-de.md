@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kreieren Sie glamouröse Wellenoder Lockenstile.
 - Ideal für kräftiges Haar.
+- Kreieren Sie glamouröse Wellenoder Lockenstile.
 - Thermospray für starken Halt.
 
 [🛒 Hier!!]({{< param buyurl >}})

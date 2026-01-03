@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ​The collection features all of Disney’s classic characters from Mickey Mouse, Cinderella and Snow White, to pieces inspired by newer films like Moana and Encanto
-- Eine gelungene Kombination aus kultigen Disney-Figuren und einzigartigen, von der amerikanischen Volkskunst inspirierten Mustern des Künstlers Jim Shore
-- Jedes Stück ist ein Beispiel für Kunstfertigkeit und Geschick, das nicht nur die Essenz und die magischen Qualitäten der einzelnen Disney-Figuren einfängt, sondern auch Jims eigenen ikonischen Stil hervorhebt
 - Fast zwei Jahrzehnte lang hat der preisgekrönte Künstler Jim Shore seine Fähigkeiten und Interessen genutzt, um eine Sammlung zu schaffen, die weltweit von Disney-Fans jeden Alters geliebt wird
+- Jedes Stück ist ein Beispiel für Kunstfertigkeit und Geschick, das nicht nur die Essenz und die magischen Qualitäten der einzelnen Disney-Figuren einfängt, sondern auch Jims eigenen ikonischen Stil hervorhebt
+- ​The collection features all of Disney’s classic characters from Mickey Mouse, Cinderella and Snow White, to pieces inspired by newer films like Moana and Encanto
 - Each piece is a example of artistry and skill, not only capturing the essence and magical qualities of each Disney characters, but also in enhancing Jim’s own iconic style​
+- Eine gelungene Kombination aus kultigen Disney-Figuren und einzigartigen, von der amerikanischen Volkskunst inspirierten Mustern des Künstlers Jim Shore
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CV4YMJ8R{{</world>}}

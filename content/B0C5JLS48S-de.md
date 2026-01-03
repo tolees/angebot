@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit einem leichten und weichen Stoff
 - ONLBELLA LIFE LS DETAIL O-NECK CC KNT
+- Mit einem leichten und weichen Stoff
 - Angenehmes Tragekomfort
 - Klassischer und Eleganten Look
 

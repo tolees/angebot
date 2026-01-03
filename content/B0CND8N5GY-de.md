@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Man-made crystal
 - size 60
-- Black
-- Enamel
 - Sterling silver
+- Enamel
+- Black
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CND8N5GY{{</world>}}

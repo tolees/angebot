@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LEICHT ZU BEDIENENDE KINDERSICHERUNG – Du kannst bequem von deinem Gerät aus die Aktivitäten deines Kinds einsehen und so mehr darüber erfahren, was ihm gefällt, sowie Käufe und Download-Anfragen genehmigen oder ablehnen, Inhalte verwalten und noch viel mehr.
-- SPAR BIS ZU 60 € – Im Bundle, im Vergleich zum Gesamtpreis der einzeln gekauften Artikel: ein voll ausgestattetes Tablet (kein Spielzeug) für Kinder von 6 bis 12 Jahren, 1 Jahr Amazon Kids+ und eine dünne kindgerechte Hülle.
-- IN VERBINDUNG BLEIBEN – Kinder können über WLAN Sprach- oder Videoanrufe mit autorisierten Kontakten durchführen, wenn diese über Alexa-fähige Geräte oder die Alexa-App verfügen.
-- LANGE AKKULAUFZEIT – Mit bis zu 13 Stunden Akkulaufzeit, um den ganzen Tag durchzuhalten, starkem Hexa-Core-Prozessor, 3 GB RAM (50 % mehr als im 2022-Modell) und 32 GB internem Speicher, der um bis zu 1 TB Speicher erweitert werden kann (separat erhältlich). Ideal geeignet zum Herunterladen von Spielen, Videos, Büchern und Musik, um auch unterwegs jederzeit Zugriff auf Lerninhalte und Entertainment zu haben.
-- AMAZON KIDS+ INBEGRIFFEN – Mit einem Jahr Amazon Kids+, einer digitalen Mitgliedschaft mit unbegrenztem Zugriff auf werbefreie, altersgerechte Inhalte, die Kinder lieben. Darunter finden sich MINT-Inhalte, aber auch Bücher in verschiedenen Sprachen, mit denen Kinder lernen können. Nach dem 1. Jahr ohne zusätzliche Kosten werden pro Monat ab 4,99 € berechnet. Du kannst die Mitgliedschaft jederzeit über das Amazon Eltern Dashboard kündigen, oder indem du dich an den Kundenservice wendest.
 - SICHERES NETZ – Kinder können selbstständig im Netz surfen, aber mit Einschränkungen. Der Webbrowser hilft dank integrierter Kontrollmechanismen dabei, unangebrachte Websites herauszufiltern und zu sperren.
+- LEICHT ZU BEDIENENDE KINDERSICHERUNG – Du kannst bequem von deinem Gerät aus die Aktivitäten deines Kinds einsehen und so mehr darüber erfahren, was ihm gefällt, sowie Käufe und Download-Anfragen genehmigen oder ablehnen, Inhalte verwalten und noch viel mehr.
 - 2 JAHRE SORGLOS-GARANTIE INBEGRIFFEN – Sollte das Gerät in den ersten zwei Jahren kaputtgehen, kannst du es einfach zurückschicken und wir ersetzen es kostenlos.
+- AMAZON KIDS+ INBEGRIFFEN – Mit einem Jahr Amazon Kids+, einer digitalen Mitgliedschaft mit unbegrenztem Zugriff auf werbefreie, altersgerechte Inhalte, die Kinder lieben. Darunter finden sich MINT-Inhalte, aber auch Bücher in verschiedenen Sprachen, mit denen Kinder lernen können. Nach dem 1. Jahr ohne zusätzliche Kosten werden pro Monat ab 4,99 € berechnet. Du kannst die Mitgliedschaft jederzeit über das Amazon Eltern Dashboard kündigen, oder indem du dich an den Kundenservice wendest.
+- IN VERBINDUNG BLEIBEN – Kinder können über WLAN Sprach- oder Videoanrufe mit autorisierten Kontakten durchführen, wenn diese über Alexa-fähige Geräte oder die Alexa-App verfügen.
+- SPAR BIS ZU 60 € – Im Bundle, im Vergleich zum Gesamtpreis der einzeln gekauften Artikel: ein voll ausgestattetes Tablet (kein Spielzeug) für Kinder von 6 bis 12 Jahren, 1 Jahr Amazon Kids+ und eine dünne kindgerechte Hülle.
+- LANGE AKKULAUFZEIT – Mit bis zu 13 Stunden Akkulaufzeit, um den ganzen Tag durchzuhalten, starkem Hexa-Core-Prozessor, 3 GB RAM (50 % mehr als im 2022-Modell) und 32 GB internem Speicher, der um bis zu 1 TB Speicher erweitert werden kann (separat erhältlich). Ideal geeignet zum Herunterladen von Spielen, Videos, Büchern und Musik, um auch unterwegs jederzeit Zugriff auf Lerninhalte und Entertainment zu haben.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CVDPXVWR{{</world>}}

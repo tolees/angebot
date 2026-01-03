@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 【Intelligente Haustierverfolgung】 Die Kamera erkennt automatisch Haustiere und folgt ihren Bewegungen, um jeden niedlichen Moment festzuhalten.
+- 【Physische Objektivabdeckung】 Das Kameraobjektiv kann nach oben in das Gehäuse gezogen werden – für physischen Sichtschutz und ein sicheres Gefühl zu Hause.
 - 【Kristallklare 1080p Full HD】 Mit 2MP-Auflösung liefert die Überwachungskamera innen gestochen scharfes 1080p-HD und fängt jedes Detail in lebensechten Farben ein.
 - 【Stabile Wi-Fi 6 Verbindung & flüssige Bildübertragung】 Mit fortschrittlichem Wi-Fi 6 Chip für stärkere Signalabdeckung, geringere Latenz und ruckelfreie HD-Wiedergabe.
-- 【Physische Objektivabdeckung】 Das Kameraobjektiv kann nach oben in das Gehäuse gezogen werden – für physischen Sichtschutz und ein sicheres Gefühl zu Hause.
 - 【Lokale Personen-/Haustiererkennung & Bewegungsverfolgung】 Dank lokalem KI-Algorithmus erkennt und verfolgt die Kamera Bewegungen in Echtzeit – ganz ohne Cloud-Verarbeitung. Benachrichtigungen werden sofort an Ihr Smartphone gesendet.
 
 [🛒 Hier!!]({{< param buyurl >}})

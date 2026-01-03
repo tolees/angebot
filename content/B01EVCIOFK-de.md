@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Maße ca. : Höhe 5,3 cm / Ø 5,1 cm / Ø Öffnung 4,0 cm
 - Lieferumfang : 10 Tiegel mit Deckel und 10 Etiketten zum Beschriften ( in Farbe silber )
-- 10 Glastiegel aus Klarglas in Apothekerqualität, für Cremes, Salben, Gewürze, etc. Mit schwarzem Schraubverschluss aus Bakelit
 - Glasart III / Schraubverschluss mit PE beschichteter Pappdichtung - für Salben, Creme, Arzneimittel, etc. ( siehe Produktbeschreibung )
+- Maße ca. : Höhe 5,3 cm / Ø 5,1 cm / Ø Öffnung 4,0 cm
+- 10 Glastiegel aus Klarglas in Apothekerqualität, für Cremes, Salben, Gewürze, etc. Mit schwarzem Schraubverschluss aus Bakelit
 - Fassungsvermögen : ca. 60 ml ( bis Oberkante - Rand gemessen )
 
 [🛒 Hier!!]({{< param buyurl >}})

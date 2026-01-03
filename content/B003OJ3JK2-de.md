@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 255 mm Blattdurchmesser und 25, 4 mm Bohrdurchmesser
 - Die 28-Zahn-Konfiguration ermöglicht schnelle, effiziente Schnitte
 - Schneidet Baustahl, Aluminium, Kunststoffe, Holz und sogar Holz mit eingebetteten Nägeln.
-- Hochwertige Hartmetallzähne, gewährleisten eine erhöhte Lebensdauer
 - Hochwertiges Sägeblatt aus Japan
-- 255 mm Blattdurchmesser und 25, 4 mm Bohrdurchmesser
+- Hochwertige Hartmetallzähne, gewährleisten eine erhöhte Lebensdauer
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B003OJ3JK2{{</world>}}

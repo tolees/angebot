@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LOTR/Hobbit
-- POP! Vinylfigur
 - Merry Brandybuck
+- POP! Vinylfigur
+- LOTR/Hobbit
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0777V5HWP{{</world>}}

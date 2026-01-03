@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Marke: Pandora
 - Farbe: blau
 - Stil: Ring
-- Marke: Pandora
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09Q59Y2WG{{</world>}}

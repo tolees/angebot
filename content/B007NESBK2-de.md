@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Catalog #: 88691 977369
-- Country of Release: NLD
 - Record Label: Sony
+- Country of Release: NLD
 - Year of release: 2012
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfach zu tragen für einzigartigen Komfort
 - Herausnehmbare Innensohle
-- Schuhe, die optimal dämpfen und vor Stößen und Belastungen schützen
 - Antibakterielle Innensohle
+- Einfach zu tragen für einzigartigen Komfort
+- Schuhe, die optimal dämpfen und vor Stößen und Belastungen schützen
 - Patentierte Systeme Geox garantieren die Atmungsaktivität der Sohle und das Wohlbefinden der Füße
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

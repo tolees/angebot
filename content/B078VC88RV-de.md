@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Modernes Design: Diese Philips Leuchte besteht aus hochwertigem Aluminium
-- Vielfältig einsetzbar: Nutzen Sie mit dieser Leuchte Ihren Außenbereich optimal. Sie eignet sich perfekt zur Beleuchtung Ihres Hauseingangs oder Ihrer Terrasse. Sie können sich sicher sein, dass bei jedem Wetter der gewünschte Bereich problemlos beleuchtet wird.
-- Einfach auszutauschendes Leuchtmittel: Der Hersteller empfiehlt eine Philips LED E27 Lampe mit 60W)
 - IP44 - Wetterfest: Diese Philips Außenleuchte wurde speziell für feuchte Umgebungen im Freien entworfen und strengen Tests unterzogen, die die Wasserfestigkeit bestätigen. Diese Außenleuchte verfügt über die Schutzart IP44, d. h. sie ist gegen Spritzwasser geschützt und eignet sich perfekt für Außenbereiche.
 - Schaffen Sie eine stilvolle und einladende Atmosphäre: Diese Wandleuchte wurde neuesten Trends und Lebensstilen nach entwickelt. Sie fügt sich mühelos in Ihre Einrichtung ein und schafft so die von Ihnen gewünschte Atmosphäre.
+- Vielfältig einsetzbar: Nutzen Sie mit dieser Leuchte Ihren Außenbereich optimal. Sie eignet sich perfekt zur Beleuchtung Ihres Hauseingangs oder Ihrer Terrasse. Sie können sich sicher sein, dass bei jedem Wetter der gewünschte Bereich problemlos beleuchtet wird.
+- Einfach auszutauschendes Leuchtmittel: Der Hersteller empfiehlt eine Philips LED E27 Lampe mit 60W)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B078VC88RV{{</world>}}

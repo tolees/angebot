@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Für Zuhause und Unterwegs
+- Geeignet für Spieleabende/ Quizrunden
 - Smart 10 Harry Potter 100 Neue Fragen
 - Der Spieleklassiker von Piatnik
-- Geeignet für Spieleabende/ Quizrunden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09QVXMKXZ{{</world>}}

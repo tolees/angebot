@@ -31,8 +31,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - Nonino Amaro Quintessentia: Ein traditioneller italienischer Kräuterbitter mit alpinem Charakter aus dem renommierten Hause Nonino.
 - Alpine Botanik: Ein Mix aus ausgewählten alpinen Kräutern, die diesem Amaro seine unverwechselbare Note verleihen.
 - Vielseitig genießbar: Als Digestif, zum Abschluss eines Essens, wird er bei Zimmertemperatur serviert. Wunderbar schmeckt er als Nonino Aperitif Giannola Style mit Eis, einer Orangenscheibe & Sekt nach Belieben oder in fantastischen Cocktails. Pur & kühl serviert schmeckt er zu Zartbitterschokolade.
-- Ausgeprägte Aromatik: Der Amaro Quintessentia duftet herrlich nach Orangenzesten, Thymian, Menthol sowie exotischen Noten von Mango. Am Gaumen ein schönes Spiel aus süß und bitter. Pfeffer und Lakritz sind wahrnehmbar, Kakao im Nachhall.
 - Traditionelles Rezept: Handgefertigt nach alter Familientradition, die die Authentizität und Qualität des Produkts garantiert.
+- Ausgeprägte Aromatik: Der Amaro Quintessentia duftet herrlich nach Orangenzesten, Thymian, Menthol sowie exotischen Noten von Mango. Am Gaumen ein schönes Spiel aus süß und bitter. Pfeffer und Lakritz sind wahrnehmbar, Kakao im Nachhall.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B082VQVY97{{</world>}}

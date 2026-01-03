@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Artikelnummer: 10-4104-1300
 - Villeroy & Boch
 - Mariefl.Gr.Ba. Kaffee-Obertasse 0,25l
+- Artikelnummer: 10-4104-1300
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B009OBF24K{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produktgruppe: Parfümerie
-- nanDamen
-- Ziel geschlecht: unisex
 - Geschlecht: für Sie / for Her / pour Femme
+- Ziel geschlecht: unisex
+- nanDamen
+- Produktgruppe: Parfümerie
 - Designer - Hersteller: Clinique
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

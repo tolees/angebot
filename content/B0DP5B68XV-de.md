@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenfutter mit Tasche, um Ihre Sachen zu organisieren
-- Urban Rucksack für Ihren täglichen Gebrauch
 - Hauptfach und Fronttasche mit Reißverschluss
 - Maße: 29 x 24,5 x 15cm
+- Urban Rucksack für Ihren täglichen Gebrauch
+- Innenfutter mit Tasche, um Ihre Sachen zu organisieren
 - Zwei offene Seitentaschen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

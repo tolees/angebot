@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichte Wesentliche für das Training oder Wettbewerb
 - Standard Fit für ein entspanntes, einfaches Gefühl.
+- Leichte Wesentliche für das Training oder Wettbewerb
 - Ripper Kragen.
 
 [🛒 Hier!!]({{< param buyurl >}})

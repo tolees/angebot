@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 108 MP Weitwinkelkamera. Ultra-Weitwinkelkamera mit 8 MP. Makroobjektiv 2 MP
-- Es gibt drei Farben von Onyx, Eisblau und Perlgrün
-- Kombition aus 5000mAh Akku und 33W Schnellladung Steckertyp: USB Typ-C 2.0
 - Ausgestattet mit dem MediaTek Helio G96 Prozessor. Hergestellt im 12-nm-Prozess.
+- Kombition aus 5000mAh Akku und 33W Schnellladung Steckertyp: USB Typ-C 2.0
+- 108 MP Weitwinkelkamera. Ultra-Weitwinkelkamera mit 8 MP. Makroobjektiv 2 MP
 - Das Redmi Note 12S verfügt über ein 6,43-Zoll-AMOLED-Display mit einer Bildwiederholrate von 90 Hz.
+- Es gibt drei Farben von Onyx, Eisblau und Perlgrün
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C5D2T5R2{{</world>}}

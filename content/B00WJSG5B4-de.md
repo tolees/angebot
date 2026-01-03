@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FOR ME DESIGN: Die klare Linienführung und das puristische, weiße Dekor machen die For Me Kollektion zur perfekten Basis für jede Mahlzeit
-- ESPRESSO SET: Das vierteilige Set besteht aus jeweils 2 Tassen und 2 Untertassen und eignet sich als schöne Geschenkidee für Kaffee-Liebhaber
-- QUALITÄT MADE IN GERMANY: Das For Me Tassen und Becherset mit passenden Untertassen ist spülmaschinen- und mikrowellenfest und eignet sich für den Alltag ebenso wie für die Festtags-Tafel
-- LIEFERUMFANG: 1x Villeroy & Boch For Me Espresso-Set, Inhalt: 2x Espresso-Obertasse, 2x Espresso-Untertasse, Gewicht: 420 g, Material: Porzellan, Farbe: weiß (Art.-Nr. 10-4153-8420)
 - ITALIENISCHER KAFFEEGENUSS: Klassische, dickwandige Espressotassen mit Henkel und Untertassen, für den stilvollen Koffein-Kick zwischendurch
+- LIEFERUMFANG: 1x Villeroy & Boch For Me Espresso-Set, Inhalt: 2x Espresso-Obertasse, 2x Espresso-Untertasse, Gewicht: 420 g, Material: Porzellan, Farbe: weiß (Art.-Nr. 10-4153-8420)
+- FOR ME DESIGN: Die klare Linienführung und das puristische, weiße Dekor machen die For Me Kollektion zur perfekten Basis für jede Mahlzeit
+- QUALITÄT MADE IN GERMANY: Das For Me Tassen und Becherset mit passenden Untertassen ist spülmaschinen- und mikrowellenfest und eignet sich für den Alltag ebenso wie für die Festtags-Tafel
+- ESPRESSO SET: Das vierteilige Set besteht aus jeweils 2 Tassen und 2 Untertassen und eignet sich als schöne Geschenkidee für Kaffee-Liebhaber
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00WJSG5B4{{</world>}}

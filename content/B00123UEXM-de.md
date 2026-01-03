@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Durability
 - Peu ist ein -Kultobjekt, das sich in jeder Saison in einem Gewand präsentiert
+- Durability
 - Herrenschuh aus Nubukleder mit PU-Fußbett, elastischen Schnürsenkeln
 - Die Strobel-Machart mit Rundumnaht unerreichte Biegsamkeit und Langlebigkeit in jeder Situation
 

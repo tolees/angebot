@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Universal Werkzeuge von Bosch – flexibel und leistungsstark mit intelligenten Lösungen für vielfältige Projekte
-- Der Hochdruckreiniger UniversalAquatak 125 für kraftvolles Reinigen mit einem Druck von 125 bar
 - Lieferumfang: UniversalAquatak 125, Bosch Hochdruckpistole, 5 m Schlauch, 3-in-1-Düse, Hochdruck-Schaumdüse mit Behälter, transparenter Wasserfilter (3165140883610)
 - Vielseitige Anwendungen dank 3-in-1-Düse: Sie vereint Fächerstrahl, Rotationsstrahl und Punktstrahl
+- Die Universal Werkzeuge von Bosch – flexibel und leistungsstark mit intelligenten Lösungen für vielfältige Projekte
+- Der Hochdruckreiniger UniversalAquatak 125 für kraftvolles Reinigen mit einem Druck von 125 bar
 - Angenehmes Arbeiten durch weniger Geräusche beim Arbeiten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

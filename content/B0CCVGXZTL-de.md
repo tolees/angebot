@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Beeindruckender Sound mit 3,5 W RMS Gesamtausgangsleistung und dynamischem Bass durch integrierten Passivradiator
-- Spritzwassergeschütztes Gehäuse (IPX5) für sorgenfreies Musikhören bei jeder Witterung
 - Einfache Anrufannahme mit Telefon Freisprechfunktion dank integriertem Mikrofon; AUX-Eingang & USB-C Aufladefunktion
+- Spritzwassergeschütztes Gehäuse (IPX5) für sorgenfreies Musikhören bei jeder Witterung
 - Bis zu 20 Stunden Musikgenuss mit dem Grundig Bluetooth-Lautsprecher Solo+ dank 1.050 mAh Akku
 - True Wireless Stereo (TWS) Technologie für kabelloses Musikstreaming mit einer Reichweite von bis zu 30 Metern
 

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Exklusives Hot Wheels Die-Cast-Auto und „Signature Plate“ aus Metall: Mit passendem Hot Wheels Die-Cast-Auto im Maßstab 1:64 und „Signature Plate“ aus Metall, ausschließlich in Mattel Brick Shop-Bausets erhältlich.
-- Mit anderen Marken kompatibel: Die Teile lassen sich mit allen Bausets von Mattel Brick Shop und anderen Marken kombinieren. ​
-- Den „Flügeltürer“ bauen: Komplett nachbaubarer Mercedes-Benz 300 SL im Maßstab 1:12 mit vielen realistischen Details und Metallteilen.
 - ​Individuell gestalten: Enthält zusätzliche Teile, Zubehör, 2 Radkappen-Sets aus Metall und Aufkleber für eine individuelle Gestaltung.
+- Den „Flügeltürer“ bauen: Komplett nachbaubarer Mercedes-Benz 300 SL im Maßstab 1:12 mit vielen realistischen Details und Metallteilen.
+- Exklusives Hot Wheels Die-Cast-Auto und „Signature Plate“ aus Metall: Mit passendem Hot Wheels Die-Cast-Auto im Maßstab 1:64 und „Signature Plate“ aus Metall, ausschließlich in Mattel Brick Shop-Bausets erhältlich.
 - ​Authentische Details des Mercedes-Benz 300 SL: Ein Höchstmaß an Authentizität mit Flügeltüren, die sich öffnen lassen, Ersatzreifen, Mercedes-Emblem aus Metall und Polsterdetails.
+- Mit anderen Marken kompatibel: Die Teile lassen sich mit allen Bausets von Mattel Brick Shop und anderen Marken kombinieren. ​
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D14ZKC2P{{</world>}}

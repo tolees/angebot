@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Feuchtigkeitsregulierend
 - Atmungsaktiv
+- Feuchtigkeitsregulierend
 - Tragekomfort
 
 [🛒 Hier!!]({{< param buyurl >}})

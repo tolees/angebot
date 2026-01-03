@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideal geeignet für Handwerk und Industrie
 - Robustes Design steht für sich allein
+- Ideal geeignet für Handwerk und Industrie
 - Kann manuell oder mit einem Elektroschrauber verwendet werden
 - Vernickelt
 
