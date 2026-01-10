@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wirksam gegen Blattläuse, Schildläuse, Spinnmilben, Weiße Fliege, Zikaden, Frostspanner
-- Wirkt auch gegen Buchsbaumzünsler, Kartoffelkäfer, Buchsbaumzünsler, Schwammspinner, Eichenprozessionsspinner, uvm
-- Die Ausgangsstoffe sind gemäß EG Öko-Verordnung idgF für die ökologische/biologische Produktion geeignet; Nicht bienengefährlich
-- Der Wirkstoff hat eine teilsystemische Wirkung und dringt tief ins Blattgewebe ein, dadurch bis zu 10 Tage Schutzwirkung
 - Zul.-Nr: 024436-64, Pflanzenschutzmittel vorsichtig verwenden; Vor Verwendung stets Etikett und Produktinformationen lesen; Bitte beachten Sie die Warnhinweise und Sicherheitsratschläge in der Gebrauchsanleitung; Anwendung durch nichtberufliche Anwender zulässig
 - Enthält ein hochwertiges Azadirachtin-Extrakt aus den Neem-Kernen als Wirkstoff mit sehr guter Pflanzenverträglichkeit
 - Zur Bekämpfung von saugenden, beißenden und blattminierenden Insekten sowie Trauermücken und Kartoffelkäfern
+- Wirkt auch gegen Buchsbaumzünsler, Kartoffelkäfer, Buchsbaumzünsler, Schwammspinner, Eichenprozessionsspinner, uvm
+- Wirksam gegen Blattläuse, Schildläuse, Spinnmilben, Weiße Fliege, Zikaden, Frostspanner
+- Der Wirkstoff hat eine teilsystemische Wirkung und dringt tief ins Blattgewebe ein, dadurch bis zu 10 Tage Schutzwirkung
+- Die Ausgangsstoffe sind gemäß EG Öko-Verordnung idgF für die ökologische/biologische Produktion geeignet; Nicht bienengefährlich
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00P15X5QA{{</world>}}

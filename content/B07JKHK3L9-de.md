@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- optimaler Feuchtigkeitstransport
 - Sonnenschutz - UPF 40 Schutz
+- optimaler Feuchtigkeitstransport
 - Rundhalsausschnitt
 - Geruchshemmendes Material
 - schnelltrocknend und antibakteriell

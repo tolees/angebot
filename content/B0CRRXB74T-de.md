@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- - 32 Karten
 - 74 x 91 x 40
+- - 32 Karten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CRRXB74T{{</world>}}

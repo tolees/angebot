@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mikrowellengeeignet
-- Spülmaschinenfest
 - Hochwertiges Premium-Porzellan
+- Spülmaschinenfest
+- Mikrowellengeeignet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B005J4BHHM{{</world>}}

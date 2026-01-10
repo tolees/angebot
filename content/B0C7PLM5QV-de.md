@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gerade Beinform bis zum Beinabschluss haben
 - Passform : Gerade geschnitten
+- Gerade Beinform bis zum Beinabschluss haben
 - Curvy Straight Fit Jeans, die an den Oberschenkeln figurbetont sind und eine bequeme
 
 [🛒 Hier!!]({{< param buyurl >}})

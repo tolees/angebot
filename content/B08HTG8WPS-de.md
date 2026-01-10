@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wilde Kämpfe - Dem Spieler steht bei seiner Aufgabe eine Vielzahl an Waffen, Fähigkeiten und Mächten zur Verfügung
 - Adventure-RPG - Eine erfrischende Kombination aus Adventure-Elementen und RPG-Spielmechaniken
+- Wilde Kämpfe - Dem Spieler steht bei seiner Aufgabe eine Vielzahl an Waffen, Fähigkeiten und Mächten zur Verfügung
 - Einmalige Alterungsmechanik - Jedes Mal, wenn der Spieler stirbt, altert er ein Jahr
 - Die Spieler müssen sich ans fortschreitende Alter anpassen, während sie ihren Charakter voranbringen
 

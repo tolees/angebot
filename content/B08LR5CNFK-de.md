@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichte, stoßdämpfende Zwischensohle
 - Extrem flexible Traktionslaufsohle
 - Gepolsterte Einlegesohle aus Air Cooled Memory Foam
+- Leichte, stoßdämpfende Zwischensohle
 - Obermaterial aus atmungsaktivem Funktions-Mesh
 
 [🛒 Hier!!]({{< param buyurl >}})

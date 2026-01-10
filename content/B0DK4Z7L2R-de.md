@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reguläre Passform
-- Textilfutter
 - Besteht zu mindestens 20 % aus recycelten Materialien
-- Gummi-Cupsohle
+- Reguläre Passform
 - Schnürsenkel
+- Gummi-Cupsohle
+- Textilfutter
 - Obermaterial aus Wildleder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 【Hochwertiges optisches Glas】Hergestellt aus premium Optikglas für gleichmäßige Ausleuchtung ohne Vignettierung. Sorgen für gleiche Schärfe vom Zentrum bis zu den Bildecken und ein klareres Nachtbild
-- 【Vielfältige Anwendungen】Dieser Filter eignet sich nicht nur für nächtliche Stadt- und Architekturfotografie, sondern auch ideal für die Aufnahme von Sternspuren, Polarlichtern und die Beobachtung von Himmelsobjekten in städtischen Umgebungen
-- 【Tipps】Aufgrund der speziellen Beschichtung können die Bilder kühler erscheinen. Für optimale Farben wird empfohlen, den Weißabgleich manuell einzustellen
-- 【Doppelseitige Nanobeschichtung】Die komplexe Nanobeschichtung reduziert Reflexionen um ~99,5% und bietet zudem Schutz vor Staub, Öl, Wasser und Kratzern
 - 【Nachtlicht Filter】Der Rollei Astroklar Filter reduziert effektiv Lichtverschmutzung (wie orange-gelben oder bläulich-weißen Dunst) bei Nachtaufnahmen, verstärkt den Kontrast und erfasst detailreichere, klarere Bilder
+- 【Tipps】Aufgrund der speziellen Beschichtung können die Bilder kühler erscheinen. Für optimale Farben wird empfohlen, den Weißabgleich manuell einzustellen
+- 【Vielfältige Anwendungen】Dieser Filter eignet sich nicht nur für nächtliche Stadt- und Architekturfotografie, sondern auch ideal für die Aufnahme von Sternspuren, Polarlichtern und die Beobachtung von Himmelsobjekten in städtischen Umgebungen
+- 【Doppelseitige Nanobeschichtung】Die komplexe Nanobeschichtung reduziert Reflexionen um ~99,5% und bietet zudem Schutz vor Staub, Öl, Wasser und Kratzern
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07DVYB6QB{{</world>}}

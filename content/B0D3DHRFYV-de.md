@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eleganter 125,7 cm (50") UHD Smart-TV mit HDR10, CI+, WLAN, Bluetooth, PVR ready, Mediaplayer, HbbTV, VIDAA Store,
+- Brillanter als je zuvor: High Dynamic Range (HDR10) erlaubt lebensechte Kontraste und Farben.
 - Lieferumfang: Smart-TV MD31641 X15015 Standfüße inkl. Schrauben, Fernbedienung inkl. Batterien (2x AAA), Bedienungsanleitung.
 - Fernsehen der nächsten Generation: Mit den Smart-TV von MEDION erleben Sie das Internet im Wohnzimmer: Apps, Streamingdienste, News und vieles mehr!
-- Brillanter als je zuvor: High Dynamic Range (HDR10) erlaubt lebensechte Kontraste und Farben.
+- Eleganter 125,7 cm (50") UHD Smart-TV mit HDR10, CI+, WLAN, Bluetooth, PVR ready, Mediaplayer, HbbTV, VIDAA Store,
 - Mehr Details, mehr Schärfe: Erleben Sie durch die Ultra HD 4K-Auflösung (3.840 x 2.160) eine viermal höhere Detailschärfe als bei bisherigen Full HD-TVs.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - TECHNISCHE DATEN: Flammentemperatur: bis 1060 °C; Gasdruck: max. 4 bar, 8 kg/h; Brennerbiegung mit 60 cm, ca. 35° gebogen; Brenner: Ø 57 mm
-- ANWENDUNGSVORTEILE: Der Hochleistungsbrenner für Abflamm- und Heißklebearbeiten in Economy Ausführung, Niedriger Gasverbrauch durch exakte Brennereinstellung
-- ANWENDUNGSGEBIETE: Flämmen von Bitumenbahnen; Aufwärmen; Abflammen; Verschweißen von Folien; Teerarbeiten; Dachisolierungen; Beton- und Mauerwerkstrocknung; Biologische Unkrautvertilgung und Moosbeseitigung; Auch optimal zum Auftauen/ Enteisen geeignet; Europalettenveredelung & Möbelveredelung im Vintage-Style zum Selbermachen
 - ANWENDUNGSGEBIET UNKRAUTVERNICHTUNG: Das Gerät wenige Sek in einem Abstand von ca. 3 cm über das Unkraut führen. Die Flamme erreicht 1.000⁰C und bringt die Zellflüssigkeit der Wurzeln zum Gerinnen wodurch diese innerhalb weniger Tage vertrocknen, ein Verbrennen ist nicht nötig. Der umweltschonende Unkrautentferner kommt komplett ohne chemische Stoffe wie Glyphosat & Co aus
 - ANWÄRMBRENNER-SET: 1x Hochleistungsbrenner – Stahl verzinkt & randverstärkt; 1x Propangasschlauch – 5,0 m, G 2 x 3/8“ L; 1x Propan-Konstantregler; 1x Griffstück mit Dreiwegeventil und fixierter Pilotflamme; 1x 60 cm Brennerrohr mit Brennerstütze
+- ANWENDUNGSVORTEILE: Der Hochleistungsbrenner für Abflamm- und Heißklebearbeiten in Economy Ausführung, Niedriger Gasverbrauch durch exakte Brennereinstellung
+- ANWENDUNGSGEBIETE: Flämmen von Bitumenbahnen; Aufwärmen; Abflammen; Verschweißen von Folien; Teerarbeiten; Dachisolierungen; Beton- und Mauerwerkstrocknung; Biologische Unkrautvertilgung und Moosbeseitigung; Auch optimal zum Auftauen/ Enteisen geeignet; Europalettenveredelung & Möbelveredelung im Vintage-Style zum Selbermachen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00PEVQRZW{{</world>}}

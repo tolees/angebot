@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Akkubetrieb, 40 Minuten Betriebszeit, LED-Ladekontrollanzeige
 - Aufbewahrungstasche
-- Einstellrad mit 5 Haarlängenstufen (3-12 mm)
 - Titanbeschichtete, selbstschärfende Klingen, Folienrasieraufsatz für glatte Ergebnisse
+- Einstellrad mit 5 Haarlängenstufen (3-12 mm)
+- Akkubetrieb, 40 Minuten Betriebszeit, LED-Ladekontrollanzeige
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00IBDVR4G{{</world>}}

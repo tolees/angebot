@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichte und dynamische Dämpfung
 - Lederverstärkungen am Vorfuß
+- Leichte und dynamische Dämpfung
 - Leichtes und atmungsaktives Mesh-Obermaterial
 
 [🛒 Hier!!]({{< param buyurl >}})

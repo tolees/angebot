@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vegan und Parabenfrei: Unsere Eyeliner ist 100% vegan und frei von Parabenen. Wir glauben an die Kraft der Natur und verwenden nur die sichersten und effektivsten Inhaltsstoffe. Sie können sich darauf verlassen, dass unsere Produkte gut für Sie und den Planeten sind.
-- Wasserfester Augenstift: Unser wasserfester Augenstift ist perfekt für aktive Tage und Nächte. Er hält den ganzen Tag, ohne zu verschmieren oder zu verblassen. Sie können sicher sein, dass Ihr Look immer frisch bleibt.
 - Augenstift Schwarz: Mit unserem Augenstift in schwarz können Sie Ihren Look auf das nächste Level heben. Er bietet eine intensive Farbe und ist einfach aufzutragen. Ideal für den täglichen Gebrauch und besondere Anlässe.
 - Schwarzer Eyeliner: Unser schwarzer Eyeliner bietet eine einzigartige und lebendige Farbe. Er kann Ihnen dabei helfen, Ihre Augen hervorzuheben und Ihre natürliche Schönheit zu betonen. Perfekt für den täglichen Gebrauch oder spezielle Anlässe
+- Wasserfester Augenstift: Unser wasserfester Augenstift ist perfekt für aktive Tage und Nächte. Er hält den ganzen Tag, ohne zu verschmieren oder zu verblassen. Sie können sicher sein, dass Ihr Look immer frisch bleibt.
+- Vegan und Parabenfrei: Unsere Eyeliner ist 100% vegan und frei von Parabenen. Wir glauben an die Kraft der Natur und verwenden nur die sichersten und effektivsten Inhaltsstoffe. Sie können sich darauf verlassen, dass unsere Produkte gut für Sie und den Planeten sind.
 - Hypoallergene Eyeliner: Dieser hypoallergene Eyeliner ist speziell für empfindliche Augen und Kontaktlinsenträger entwickelt. Er ist sanft zu Ihrer Haut, während er Ihnen einen intensiven und langanhaltenden Look verleiht.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

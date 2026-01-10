@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Perfekt für kleine Kinderhände
 - 60 leuchtend bunte Mega Bloks Bausteine
+- Perfekt für kleine Kinderhände
 - Passend für alle Mega Bloks Sets
 - Mit Aufbewahrungsbeutel für schnelles und einfaches Aufräumen
 

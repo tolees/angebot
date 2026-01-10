@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Werkzeugfreies Spannen ermöglicht eine einfache Montage von Sägekette und Schwert mit dem SDS-System
 - Lieferumfang: EasyChain 18V-15-7, 1x 50-ml-Ölflasche, 1x Kettenschutz, 1x Schnell-Start-Anleitung, 1x Spannhilfe, Karton
+- Werkzeugfreies Spannen ermöglicht eine einfache Montage von Sägekette und Schwert mit dem SDS-System
 - Akku - Mini Kettensäge für das Schneiden von Bäumen, das Beschneiden von Ästen und verschiedene Heimwerkerarbeiten im Garten
 - POWER FOR ALL ALLIANCE: 1 AKKU, ​10+ MARKEN, ​150+ GERÄTE.​
 - Leicht und portabel, ideal für kompakte Räume

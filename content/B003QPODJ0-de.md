@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Original HP Toner: Ideal abgestimmt auf Ihren Laserdrucker garantiert der original Toner hochqualitative und beständige Ausdrucke
-- HP Toner für Ihren Samsung Drucker - Kompatibilität: Samsung CLP-320, 320N, 325, 325W / CLX-3185, 3185N, 3185FN, 3185FW
 - Lieferumfang: HP CLT-Y4072S/ELS Original Toner Gelb (SU472A)
+- HP Toner für Ihren Samsung Drucker - Kompatibilität: Samsung CLP-320, 320N, 325, 325W / CLX-3185, 3185N, 3185FN, 3185FW
+- Original HP Toner: Ideal abgestimmt auf Ihren Laserdrucker garantiert der original Toner hochqualitative und beständige Ausdrucke
 - Umweltschutz: Original HP Toner werden regelmäßig TÜV-geprüft und stellen umweltfreundliche Nutzung sicher
 - Reichweite: ca. 1.000 Seiten (Tatsächliche Reichweite ist abhängig vom Deckungsgrad der gedruckten Seiten basierend auf ISO/IEC 19752)
 

@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 - Lieferumfang: 1x PLAYMOBIL City Action Polizeistation mit Gefängnis, 256-teiliges Spielfiguren-Set mit Anleitung: 1 Polizeistation, 3 Figuren, 252 Zubehörteile, Material: Kunststoff, LxBxH: 63x45x26 cm, Art.-Nr. 6872
+- Spielspaß für kleine Polizisten: PLAYMOBIL Polizeistation mit Gefängnis, Polizisten & Verbrecher, Viele Zubehörteile für detailgetreues Nachspielen
 - Spielfiguren-Set für Kinder ab 5 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - 3 Figuren, 2 Gefängniszellen, Mit Kommandozentrale und Telefonanlage, Helikopter-Landeplatz, Innenhof mit Parkplatz für Polizeiwagen (6873), uvm.
-- Spielspaß für kleine Polizisten: PLAYMOBIL Polizeistation mit Gefängnis, Polizisten & Verbrecher, Viele Zubehörteile für detailgetreues Nachspielen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01608LOHS{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnittstelle mit: 1 x RF-Eingang, 2 x HDMI, 1 x USB 2.0, 1 x Mini-AV-In, CI+, 1 x COAX und Kopfhörerausgang.
-- Ultraleichtes Design und mehrsprachiges OSD.
 - Genießen Sie die kostenlosen Kanäle von TDT HD, DVB-T2/DVB-S2 auf HEVC 10 MAIN und H.265
 - Mit USB-Anschluss für die Wiedergabe von Mediendateien.
+- Ultraleichtes Design und mehrsprachiges OSD.
+- Schnittstelle mit: 1 x RF-Eingang, 2 x HDMI, 1 x USB 2.0, 1 x Mini-AV-In, CI+, 1 x COAX und Kopfhörerausgang.
 - 61 cm (24 Zoll) LED-Fernseher und eine HD-Auflösung von 1366 x 768p
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fused Quartz Glass Element - löst bis zu 100MP Sensoren auf
-- Messingrahmen - Glattes Gewinde und erhöhte Haltbarkeit
-- Inklusive - Filter, Hartschalenkoffer, Softcase, Reinigungstuch In der Tat
 - 16 Coating Layer - Anti-Kratz / Anti-Öl / Hydrophobe Beschichtungen
+- Inklusive - Filter, Hartschalenkoffer, Softcase, Reinigungstuch In der Tat
+- Messingrahmen - Glattes Gewinde und erhöhte Haltbarkeit
 - Perfekte Farbneutralität - Neuer Beschichtungsprozess für Nullpunktverschiebung
+- Fused Quartz Glass Element - löst bis zu 100MP Sensoren auf
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07KWF3KT8{{</world>}}

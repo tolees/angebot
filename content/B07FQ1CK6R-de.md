@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Farbe: Schwarz
 - XL EXTRALIGHT für mehr Leichtigkeit und Stoßdämpfung
 - Mit OrthoLite
-- Mit sportlicher Silhouette
-- Farbe: Schwarz
-- Obermaterial: Leder (Rindsleder)
-- Laufsohle/Eigenschaften: EVA-Laufsohle für geringes Gewicht
 - Rundumnaht for hohe Langlebigkeit
+- Mit sportlicher Silhouette
+- Laufsohle/Eigenschaften: EVA-Laufsohle für geringes Gewicht
+- Obermaterial: Leder (Rindsleder)
 - Dieser Herrensneaker aus weichem Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

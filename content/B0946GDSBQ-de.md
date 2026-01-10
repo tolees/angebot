@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kurze, lässige Form
 - Modischer Cardigan von VERO MODA
-- Softe Grobstrick Qualität
 - Cooler Style mit extra langen Bündchen
+- Softe Grobstrick Qualität
+- Kurze, lässige Form
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0946GDSBQ{{</world>}}

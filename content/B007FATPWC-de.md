@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 10 Jahre eingeschränkte Garantie auf den Motor, mit bebilderter Bedienungsanleitung
 - 105 cm Innenraum-Deckenventilator mit Beleuchtung, Montage nur mit Verlängerungsstange, für Räume bis 20 Quadratmeter, die Fernbedienung mit Wandhalterung ist im Lieferumfang enthalten
 - Deckenventilatoren von Westinghouse verfügen über hochwertige Motoren für eine kräftige Luftzirkulation und ruhige Laufleistung und einen Umschalter für Sommer- und Winterbetrieb.
 - Die Leuchte mit Strahlern benötigt drei 40 Watt-Leuchtmittel mit E14-Sockel (nicht im Lieferumfang enthalten)
 - Deckenventilator in gebürstetem Nickel mit Wendeflügeln in Silber und Wenge
+- 10 Jahre eingeschränkte Garantie auf den Motor, mit bebilderter Bedienungsanleitung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B007FATPWC{{</world>}}

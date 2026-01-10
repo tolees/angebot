@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produkttyp: Physikalischer Film
 - Jurassic Park (Blu-Ray) [Blu-Ray 3D]
+- Produkttyp: Physikalischer Film
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00EEW5C4Y{{</world>}}

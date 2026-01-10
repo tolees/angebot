@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Kapuzenjackendesign
 - Bietet Tragekomfort
 - Lange Ärmel
-- Kapuzenjackendesign
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08R8T2SPH{{</world>}}

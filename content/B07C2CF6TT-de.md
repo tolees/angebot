@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Pullover
-- bequem
 - Baumwolle
+- Pullover
 - weich
+- bequem
 - elastisch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

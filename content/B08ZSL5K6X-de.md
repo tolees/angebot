@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- STEUERUNG: Die Fernbedienung kann bis zu zwei Antriebe gleichzeitig steuern - zum Beispiel für Haus- und Kellertür oder Terrassentür
 - BATTERIE: Spannungsversorgung per Batterie - 1 x 3V Knopfzelle CR2032 im Lieferumfang enthalten | Batteriestand in der App einsehbar
 - STATUSABFRAGE: Durch gleichzeitiges Drücken beider Tastenknöpfe lässt sich abfragen, ob die Haustür verriegelt (grünes Licht) oder entriegelt (rotes Licht) ist
+- STEUERUNG: Die Fernbedienung kann bis zu zwei Antriebe gleichzeitig steuern - zum Beispiel für Haus- und Kellertür oder Terrassentür
 - KOMPATIBILITÄT: die Fernbedienung ist kompatibel mit den Türschlossantrieben Loxeris One, CFA3100 und dem Terrassentürantrieb Wintecto One sowie dem elektronischen Türzylinder Cylox One
 - SCHLÜSSELLOS: Die Haustür oder Terrassentür lässt sich per Knopfdruck verriegeln, entriegeln und öffnen
 

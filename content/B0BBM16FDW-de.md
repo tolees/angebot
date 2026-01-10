@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dezentes Design: Tür-/Fenstersensor mit extra dünnem Magnet (3mm) fügt sich unauffällig in das Gesamtbild der Wohnumgebung ein und kann auch bei Mehrfachverglasung am Fensterflügel montiert werden
-- Maximaler Mehrwert im System: Zur Integration in das Bosch Smart Home System ist ein Bosch Smart Home Controller oder Bosch Smart Home Controller II erforderlich
-- Lieferumfang: 1x Tür-/Fenster-Senor, 1x Magnet, 1x CR123A Batterie, Klebeband, Bedienungsanleitung
-- Heizkosten sparen: Fenstersensor erkennt geöffnete Fenster, sodass smarte Heizkörper-Thermostate über den Dienst "Nachhaltiges Lüften" automatisch gedrosselt werden, um Energiekosten zu sparen
-- Smarter Sensor: Erkennt zuverlässig geöffnete Türen und Fenster, zeigt deren Status in der App und dient durch integrierten Button als Auslöser für Aktionen oder Szenarien im Smart Home
 - Einbruchschutz: Ist der Tür- Fensterkontakt in das Bosch Smart Home Alarmsystem integriert, löst er bei unbefugtem Öffnen von Türen und Fenstern sofort Alarm aus
+- Smarter Sensor: Erkennt zuverlässig geöffnete Türen und Fenster, zeigt deren Status in der App und dient durch integrierten Button als Auslöser für Aktionen oder Szenarien im Smart Home
+- Lieferumfang: 1x Tür-/Fenster-Senor, 1x Magnet, 1x CR123A Batterie, Klebeband, Bedienungsanleitung
+- Maximaler Mehrwert im System: Zur Integration in das Bosch Smart Home System ist ein Bosch Smart Home Controller oder Bosch Smart Home Controller II erforderlich
+- Heizkosten sparen: Fenstersensor erkennt geöffnete Fenster, sodass smarte Heizkörper-Thermostate über den Dienst "Nachhaltiges Lüften" automatisch gedrosselt werden, um Energiekosten zu sparen
+- Dezentes Design: Tür-/Fenstersensor mit extra dünnem Magnet (3mm) fügt sich unauffällig in das Gesamtbild der Wohnumgebung ein und kann auch bei Mehrfachverglasung am Fensterflügel montiert werden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BBM16FDW{{</world>}}

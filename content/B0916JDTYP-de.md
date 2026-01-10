@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- LEVIS TAB: Es gibt verschiedene Varianten des bekannten roten "Tabs". Egal ob LEVIS, Levis, ohne Schriftzug oder in einer anderen Farbe, es handelt sich um ein Original Levis Produkt.\
 - Aus 100 % Baumwoll-Frottee, das weich auf der Haut ist
 - Ein lässiger Hoodie
-- LEVIS TAB: Es gibt verschiedene Varianten des bekannten roten "Tabs". Egal ob LEVIS, Levis, ohne Schriftzug oder in einer anderen Farbe, es handelt sich um ein Original Levis Produkt.\
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0916JDTYP{{</world>}}

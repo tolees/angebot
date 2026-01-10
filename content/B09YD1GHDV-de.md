@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verleihe Ihrem Look mit dem Funkelndes Erhabenes Herz Ring eine raffinierte Note
 - Dieses Schmuckstück ist aus einer 14 Karat
+- Verleihe Ihrem Look mit dem Funkelndes Erhabenes Herz Ring eine raffinierte Note
 - Klare Cubic Zirkonia bilden einen Ring darum und verzieren die Hälfte des Ringbandes, während auf der Innenseite das Pandora Logo zu sehen ist
 
 [🛒 Hier!!]({{< param buyurl >}})

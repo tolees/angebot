@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【HDR10+ über alle Brennweiten, Lebendige Farben und satter Kontrast】Sattere, lebendigere Farben mit noch plastischerem und realistischerem Licht- und Schattenspiel.
-- 【Spotlight-Fotografie, Zoom ins Leben】Die Teleobjektivkamera des Xiaomi 15T bietet eine natürliche Perspektive, um Emotionen optimal zur Geltung zu bringen – ideal für Porträts, Gesichtsausdrücke und die Momente, die wirklich zählen.
 - 【Immersives 6,83" Display, Sehen neu definiert】Verfügt über ein kürzlich upgegradetes, mit 6,83 Zoll ultragroßes Display, ultradünnes Rahmendesign und 1,5K Auflösung – für ein noch weiteres Sichtfeld und atemberaubende Details.
+- 【Spotlight-Fotografie, Zoom ins Leben】Die Teleobjektivkamera des Xiaomi 15T bietet eine natürliche Perspektive, um Emotionen optimal zur Geltung zu bringen – ideal für Porträts, Gesichtsausdrücke und die Momente, die wirklich zählen.
+- 【HDR10+ über alle Brennweiten, Lebendige Farben und satter Kontrast】Sattere, lebendigere Farben mit noch plastischerem und realistischerem Licht- und Schattenspiel.
 - 【IP68 Abgerundetes, schlankes Design – Sanfte Haptik, angenehmer Griff】Sanft geschwungene Konturen und ein mattes Finish ergeben ein Design, das raffiniert, ausgewogen und mühelos elegant wirkt.
 - 【Xiaomi 3D IceLoop-System, Kühl und effizient】Das 3D-Kühlsystem liegt eng am Chip an und sorgt für eine schnelle Wärmeableitung, effiziente Kühlung und dauerhaft hohe Leistung.
 

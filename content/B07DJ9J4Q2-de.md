@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Gummi
-- Innenmaterial: Textil
-- Obermaterial: Synthetik
 - Absatzform: Flach
+- Obermaterial: Synthetik
+- Sohle: Gummi
 - Verschluss: Ohne Verschluss
+- Innenmaterial: Textil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07DJ9J4Q2{{</world>}}

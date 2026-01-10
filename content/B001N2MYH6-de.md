@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gummilaufsohle
-- Ortholite Innersohle für Polsterung und Atmungsaktivität
 - Elastische Schnürsenkel
+- Ortholite Innersohle für Polsterung und Atmungsaktivität
+- Gummilaufsohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001N2MYH6{{</world>}}

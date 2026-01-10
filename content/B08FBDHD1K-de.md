@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aus weichem Jersey-Stoff für täglichen Tragekomfort
-- Gerippte Bündchen für eine bequeme Passform
 - Klassisches langärmeliges T-Shirt mit kleinem Housemark-Logo
 - Kein Etikett am Hals, damit beim Tragen nichts kratzt
+- Aus weichem Jersey-Stoff für täglichen Tragekomfort
+- Gerippte Bündchen für eine bequeme Passform
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08FBDHD1K{{</world>}}

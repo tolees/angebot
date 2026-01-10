@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100 prozent Polyester
 - Standard Passform
+- 100 prozent Polyester
 - Rundhalsausschnitt
 - Ideale Atmungsaktivität
 

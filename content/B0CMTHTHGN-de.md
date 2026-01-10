@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Leichtes & Angenehmes Tragegefühl – Hergestellt aus 100% hochwertigem Polyester für ein angenehmes Tragegefühl und maximale Bewegungsfreiheit.
-- Sportliches Design – Mit ikonischem hummel Logo-Print und seitlichen Chevrons für einen dynamischen Look.
 - Ideal für jeden Tag – Perfekt für Schule, Sport oder Freizeit – das ideale Outfit für energiegeladene Kids!
+- Sportliches Design – Mit ikonischem hummel Logo-Print und seitlichen Chevrons für einen dynamischen Look.
 - Sportkleidung für aktive Kinder – Enthält ein bequemes T-Shirt und Shorts für Spiel, Sport, Training, Fussball und Alltag.
 - Bequeme Passform – Der elastische Bund der Shorts sorgt für optimalen Halt und einfaches An- und Ausziehen.
 

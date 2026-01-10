@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Normale Passform
 - Pflegeleichter und elastischer Materialmix mit Stretch
+- Normale Passform
 - Kurze Puffärmel
 
 [🛒 Hier!!]({{< param buyurl >}})

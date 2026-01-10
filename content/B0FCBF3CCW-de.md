@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rase in Sonic Racing: CrossWorlds durch Land, Meer, Luft, Raum und Zeit
-- Rase über 24 Strecken und warpe mit Reiseringen in 15 CrossWorlds - eine einzigartige Gameplay-Mechanik
-- Wähle aus 23 bekannten Sonic-Charakteren, der größten Auswahl aller Sonic-Rennspiele
 - Brause allein oder im Team in einer Vielzahl von Offline- und Online-Modi zum Sieg und tritt gegen Spieler aus aller Welt an
+- Rase über 24 Strecken und warpe mit Reiseringen in 15 CrossWorlds - eine einzigartige Gameplay-Mechanik
+- Rase in Sonic Racing: CrossWorlds durch Land, Meer, Luft, Raum und Zeit
+- Wähle aus 23 bekannten Sonic-Charakteren, der größten Auswahl aller Sonic-Rennspiele
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0FCBF3CCW{{</world>}}

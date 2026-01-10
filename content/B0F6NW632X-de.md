@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - VON HIER ... BIS DORT – Das extralange Kabel ist 1,50 m lang und bietet dir viel Bewegungsfreiheit, sodass du problemlos die ganze Länge deines Tische fürs Gamen nutzen kannst
-- LED-PARTY – Die mehrfarbige LED-Beleuchtung hat drei verschiedene Einstellungen, damit dir deine Maus in Sachen Coolness in nichts nachsteht. Groovy Gaming!
 - SPEED-MODUS AKTIVIERT – Egal, welches Game du spielst, mit der einstellbaren Cursor-Geschwindigkeit von 200-6400 DPI findest du immer den richtigen Rhythmus
 - DIE KLICKS DEINER WAHL – Vylax hat sechs Tasten, einschließlich zwei Seitentasten und einer DPI-Wahltaste, damit du genug Optionen hast, um deine Gaming-Maus individuell einzustellen
+- LED-PARTY – Die mehrfarbige LED-Beleuchtung hat drei verschiedene Einstellungen, damit dir deine Maus in Sachen Coolness in nichts nachsteht. Groovy Gaming!
 - GANZ NACH PROGRAMM – Möchtest du Lichteffekte, Makros oder die DPI-Geschwindigkeit ändern? Kein Problem - diese Maus hat programmierbare Software, die du genauso einstellen kannst, wie du willst
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

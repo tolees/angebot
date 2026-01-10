@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatzform: Flach
 - Innenmaterial: Synthetik
+- Absatzform: Flach
 - Obermaterial: Synthetisch
 - Verschluss: Gummi
 

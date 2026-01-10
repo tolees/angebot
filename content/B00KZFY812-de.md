@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vegeta
-- POP! Vinylfigur
 - Yes
+- POP! Vinylfigur
+- Vegeta
 - Dragonball Z
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

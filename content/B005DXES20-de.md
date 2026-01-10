@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Smooth Leather
 - Innenmaterial: Leather
+- Obermaterial: Smooth Leather
 - Sohle: Rubber
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Passend für k&m 10065 und 10062 Notenständer
+- Platz für ein Namensschild vorhanden.
 - Doppeltes LED-Licht zum Anklippen
 - Geeignet für Notenständer, Rednerpulte und DJ-Kabinen
-- Platz für ein Namensschild vorhanden.
 - Kommt mit verstellbarem Schultergurt.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

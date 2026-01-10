@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- IMMUNSYSTEM: Mit Vitamin C als Beitrag zur normalen Funktion des Immunsystems
-- PLUS LUTEIN: Zusätzlich ist das pflanzliche Carotinoid Lutein enthalten
-- LIEFERUMFANG: 40 Depot-Tabletten - Nahrungsergänzungsmittel mit Vitaminen, Mineralstoffen, Spurenelementen und Lutein - Nettofüllmenge: 59,6 g
 - DEPOT-FUNKTION: Die Nährstoffe werden über mehrere Stunden nach und nach freigegeben und dem Körper so anhaltend zur Verfügung gestellt
+- LIEFERUMFANG: 40 Depot-Tabletten - Nahrungsergänzungsmittel mit Vitaminen, Mineralstoffen, Spurenelementen und Lutein - Nettofüllmenge: 59,6 g
+- PLUS LUTEIN: Zusätzlich ist das pflanzliche Carotinoid Lutein enthalten
+- IMMUNSYSTEM: Mit Vitamin C als Beitrag zur normalen Funktion des Immunsystems
 - LANGZEIT-VITAMINE: Doppelherz A-Z Complete enthalten sorgfältig aufeinander abgestimmte Vitamine, Mineralstoffe und Spurenelemente - von Vitamin A bis Zink
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

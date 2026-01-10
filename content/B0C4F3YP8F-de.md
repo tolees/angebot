@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 165 Hz – Bild für Bild pure Action ohne Ablenkungen. Dieses Display liefert mit einer schnellen Bildwiederholrate von 165 Hz und einer Reaktionszeit von nur 1 ms lebensechte Bilder ohne Bewegungsunschärfe
-- SPASS, WIE SIE IHN MÖGEN – Erkunden Sie die zahlreichen Einstellungsmöglichkeiten im OMEN Gaming Hub – einer Komplettlösung zur Anpassung Ihrer Systemumgebung
 - VERLIEREN SIE SICH IN EINER ANDEREN WELT – Erkunden Sie fremde Welten, so realistisch wie das Leben selbst. Realistisches Gameplay mit lebensechten Farben, Nuancen und Schattierungen
+- SPASS, WIE SIE IHN MÖGEN – Erkunden Sie die zahlreichen Einstellungsmöglichkeiten im OMEN Gaming Hub – einer Komplettlösung zur Anpassung Ihrer Systemumgebung
+- 165 Hz – Bild für Bild pure Action ohne Ablenkungen. Dieses Display liefert mit einer schnellen Bildwiederholrate von 165 Hz und einer Reaktionszeit von nur 1 ms lebensechte Bilder ohne Bewegungsunschärfe
 - VERLEIHEN SIE IHREM GAMINGBEREICH EINE NEUE DIMENSION – Mit Anschlüssen zum Anschluss Ihres Gaming-PCs, Ihrer Spielkonsole und selbst Ihres Arbeits-PCs ausgestattet
 - MIT SPIELKONSOLEN KOMPATIBEL – Mehr als 140 Testanwendungen, um die Kompatibilität mit der Spielkonsole Ihrer Wahl sicherzustellen
 

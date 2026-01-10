@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Komfortabler Rundhalsausschnitt.
-- Vielseitige T-Shirts für jeden Anlass
 - In verschiedenen Farben und Designs erhältlich
+- Vielseitige T-Shirts für jeden Anlass
 - Ideal zum Kombinieren mit Jeans oder Shorts.
+- Komfortabler Rundhalsausschnitt.
 - Hergestellt aus weichen und langlebigen Materialien.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

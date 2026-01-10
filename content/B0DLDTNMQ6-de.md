@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Atmungsaktiv und leicht
 - Kordelzug am Knöchel
+- Atmungsaktiv und leicht
 - Elastischer Bund
 - Lockere Passform
 

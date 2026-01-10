@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- POP! Vinylfigur
-- Yes
 - Star Wars: E8 TLJ
+- Yes
 - Rose (POP 13)
+- POP! Vinylfigur
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B071Z8NRHY{{</world>}}

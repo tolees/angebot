@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Stehkragen
+- Reißverschluss
 - Steppjacke für Damen der dänischen Marke VERO MODA
 - Ohne Ärmel
 - Jacke
-- Stehkragen
-- Reißverschluss
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CN1DTNTV{{</world>}}

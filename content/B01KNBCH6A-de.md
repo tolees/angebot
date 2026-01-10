@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eyeliner
+- Marke Beauty-Produkte
 - Hochwertige Produkte
 - Item_Display_Weight: 0.28 grams
-- Marke Beauty-Produkte
+- Eyeliner
 - Marke CLINIQUE
 - Marke: Clinique
 

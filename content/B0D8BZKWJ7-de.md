@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- T-Shirt in Unifarben aus Single-Jersey-Stoff aus Baumwolle
+- Rundhalsausschnitt | Kurzarm
 - Aus weichem, atmungsaktivem Single Jersey Stoff aus Baumwolle
 - Passform: Regular Fit, Rückenlänge bei Größe M ca. 64 cm
 - Nicht auf Verzierung bügeln | Bügeln bei mäßiger Temperatur | Nicht chemisch reinigen | Nicht bleichen | Nicht im Trockner trocknen | Von links waschen und bügeln | 30°C Feinwäsche | Mit ähnlichen Farben waschen | Nass in Form ziehen
-- Rundhalsausschnitt | Kurzarm
-- T-Shirt in Unifarben aus Single-Jersey-Stoff aus Baumwolle
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D8BZKWJ7{{</world>}}

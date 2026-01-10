@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Einstellbarer Timer 60 Minuten; variable Temperatur bis 80-200 oC
 - Heißluft- und Backofenfritteuse 11L Multifunktional: Braten, Braten, Braten, Auftauen, Aufwärmen, Grillen, Gratin; Grillfunktion: Drehspieß für ein ganzes Geflügel
+- Herausnehmbarer Schwenkkorb zum Frittieren der Luft; Grillschale mit Fettauffangschale
 - Abnehmbare transparente Tür mit Innenlicht zum Kochen von Lebensmitteln.
 - Zubehör: 3 Grillroste, 1 Backblech, 1 Drehspieß für den Huhn, 1 Drehkorb und 1 U-förmiger Griff zum Herausnehmen von Schnaps und drehbarem Korb.
-- Herausnehmbarer Schwenkkorb zum Frittieren der Luft; Grillschale mit Fettauffangschale
-- Einstellbarer Timer 60 Minuten; variable Temperatur bis 80-200 oC
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B085WMT8YM{{</world>}}

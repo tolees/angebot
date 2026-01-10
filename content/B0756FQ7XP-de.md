@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Verstellbar.
 - Luftgekühlte Einlegesohlen aus Memory Foam.
 - Gummiband-Schnürung.
 - Luftgekühlt.
-- Verstellbar.
 - Klassische Passform.
 
 [🛒 Hier!!]({{< param buyurl >}})

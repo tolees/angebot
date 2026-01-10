@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ... und im Spukmodus kontrolliert eine Person die Geister und tritt gegen bis zu vier weitere Spieler an.
 - Im kooperativen Modus gibt es Spielmöglichkeiten für Anfänger und Fortgeschrittene.
 - Das Spiel ist der Gewinner des Preises Kinderspiel des Jahres“ 2014 und wurde damit als hervorragendes Spiel für Familien gewürdigt.
 - Gemeinsam als Team gilt es, Geister zu bekämpfen und mit 8 Schatzjuwelen aus einem Spukhaus zu entkommen, bevor die Gespenster die Oberhand gewinnen.
+- ... und im Spukmodus kontrolliert eine Person die Geister und tritt gegen bis zu vier weitere Spieler an.
 - Zwei Spiele in einem! Im kooperativen Modus spielen alle gemeinsam, um die Geister zu schlagen ...
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

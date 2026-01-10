@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eingriffstaschen
 - Hergestellt aus recycelten Inhaltsstoffen
 - Stretcheinfassung an Bündchen und Saum.
+- Eingriffstaschen
 - Brusttasche mit Reißverschluss
 - Stretcheinfassung am Kragen
 

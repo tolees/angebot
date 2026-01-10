@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Normal geschnitten
+- Mittlere Taille
 - Klassische Hose
 - Materialzusammensetzung: 63% LENZING ECOVERO Viscose, 32% Nylon, 5% Elasthan
-- Mittlere Taille
-- Normal geschnitten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01L7FYI9A{{</world>}}

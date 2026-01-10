@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- AKTUALISIERTER KLASSIKER: Feiere unser Archiv mit einem aktualisierten, aber vertrauten Look. Aus weichem, beschichtetem Leder gefertigt, mit erneuerten Details.
 - ZEITLOSES DESIGN: Das zeitlose und legendäre Design des ST Runner v4 L in Regular Fit geht nie aus der Mode. Perfekt für Freizeit und Alltag.
 - HÖHERE ZWISCHENSOHLE: Die leicht erhöhte Zwischensohle bietet zusätzlichen Komfort und Unterstützung bei jedem Schritt, ideal für lange Spaziergänge oder den täglichen Arbeitsweg.
 - ERSTKLASSIGER KOMFORT: Die SoftFoam+ Einlegesohle sorgt für hervorragende Dämpfung und optimalen Komfort bei jedem Schritt Perfekt für Damen und Herren, die den ganzen Tag auf den Beinen sind
-- AKTUALISIERTER KLASSIKER: Feiere unser Archiv mit einem aktualisierten, aber vertrauten Look. Aus weichem, beschichtetem Leder gefertigt, mit erneuerten Details.
 - VERANTWORTUNGSVOLLE LEDERHERSTELLUNG: Die Lederprodukte von PUMA unterstützen die verantwortungsvolle Herstellung durch die Leather Working Group.
 
 [🛒 Hier!!]({{< param buyurl >}})

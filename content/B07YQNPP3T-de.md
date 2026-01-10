@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Bausteine sind mit allen Bausets von Mega Construx und anderen Marken kompatibel.
 - Bauset mit beweglicher Pikachu-Figur (Größe ca. 10 cm)
+- Die Bausteine sind mit allen Bausets von Mega Construx und anderen Marken kompatibel.
 - Dieses Bauspielzeug eignet sich perfekt für Kinder ab 6 Jahren, regt die Fantasie an und trainiert ihre Problemlösungskompetenz.
 - Pikachu trägt auf seinen Wangen Details zu Attacken des Elektro-Typs.
 

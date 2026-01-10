@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- AUSGEZEICHNET vom International Hip Dysplasia Institut als „gesund für die Hüften” und mit dem Gütesiegel der „Aktion gesunder Rücken e.V.“
-- SCHUTZ IM ALLTAG - Mit gepolsterter, faltbarer Nacken- und Kopfstütze, verstaubarer Kapuze für Sonnen- und Sichtschutz (zum Stillen), sowie reflektierender Akzente für mehr Sichtbarkeit
-- MAXIMALER TRAGEKOMFORT - Lordosenstütze sowie individuell anpassbare, gepolsterte Schultergurte mit Über-Kreuz Option für eine noch komfortablere Passform und extra langen Trage-Komfort
-- ATMUNGSAKTIV - Das innovative SoftFlex Meshmaterial mit seiner rautenförmigen Netzstruktur befindet sich auf der gesamten Trage und sorgt an allen Stellen für maximale Luftzirkulation
 - ERGONOMISCHE BABYTRAGE - 4 Tragepositionen: Bauch-, Hüft-, Rücken- und Fronttrageweise in Blickrichtung nach vorne. Die größenverstellbare Stegbreite unterstützt ab Geburt bis zum Kleinkind (3,2-20,4 kg) die natürliche, ergonomische Anhock-Spreiz-Haltung (M-Position)
+- SCHUTZ IM ALLTAG - Mit gepolsterter, faltbarer Nacken- und Kopfstütze, verstaubarer Kapuze für Sonnen- und Sichtschutz (zum Stillen), sowie reflektierender Akzente für mehr Sichtbarkeit
+- ATMUNGSAKTIV - Das innovative SoftFlex Meshmaterial mit seiner rautenförmigen Netzstruktur befindet sich auf der gesamten Trage und sorgt an allen Stellen für maximale Luftzirkulation
+- MAXIMALER TRAGEKOMFORT - Lordosenstütze sowie individuell anpassbare, gepolsterte Schultergurte mit Über-Kreuz Option für eine noch komfortablere Passform und extra langen Trage-Komfort
+- AUSGEZEICHNET vom International Hip Dysplasia Institut als „gesund für die Hüften” und mit dem Gütesiegel der „Aktion gesunder Rücken e.V.“
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09F3NFHRY{{</world>}}

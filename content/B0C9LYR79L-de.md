@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2x1kg Spool 1.75mm Filament PETG in der Vakuumverpackung
 - Keine Verunreinigungen, Kein verstopft
+- 2x1kg Spool 1.75mm Filament PETG in der Vakuumverpackung
 - Druck Temperatur: 190-220℃
 - Durchmessertoleranz +/- 0.02mm
 - Umweltschutz, Hergestellt aus Stärke-Rohstoffen, die aus nachwachsenden Pflanzenressourcen stammen

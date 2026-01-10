@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Energiesparend: Energieeffizienzklasse A
-- Effektiv: sofort 100 % Licht, keine Aufwärmzeit
 - INNOVANT : LOSRAM LED Superstar impressionne par son design innovant et offre une solution déclairage moderne grâce à sa technologie à filament LED.
-- Dekorativ: für Anwendungen im Haushalt. Allgemeinbeleuchtung
+- Energiesparend: Energieeffizienzklasse A
 - Langlebig: sehr hohe Anzahl an Schaltzyklen
+- Dekorativ: für Anwendungen im Haushalt. Allgemeinbeleuchtung
+- Effektiv: sofort 100 % Licht, keine Aufwärmzeit
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D92BK75M{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Style: Low-Top Trainers
 - Leder: Suede
 - Lining: Kalt gefüttert
+- Style: Low-Top Trainers
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08W1ZZ48K{{</world>}}

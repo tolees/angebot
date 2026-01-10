@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dabei erhält das Dusch-Shampoo den natürlichen Säureschutzmantel der zarten Kinderhaut
 - Die Hautverträglichkeit des Showergels ist dermatologisch bestätigt
+- Dabei erhält das Dusch-Shampoo den natürlichen Säureschutzmantel der zarten Kinderhaut
 - Zudem ist das 2in1 Pflegeprodukt pH-hautneutral, vegan und kommt ohne Mikroplastik und Silikone aus
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

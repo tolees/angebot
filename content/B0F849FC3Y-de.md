@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Entdecke den Ursprung des organisierten Verbrechens in Mafia: The Old Country, einer düsteren Mafia-Geschichte, die in der brutalen Unterwelt von Sizilien um 1900 spielt. Kämpfe in diesem immersiven Third-Person-Action-Adventure als Enzo Favara ums Überleben und bewähre dich bei der Cosa Nostra in einer gefährlichen und gnadenlosen Epoche.
 - Enzo wird alles für ein besseres Leben geben. Nach einer brutalen Kindheit mit Zwangsarbeit ist er bereit, alles zu riskieren, um in der kriminellen Familie Torrisi ein Ehrenmann zu werden.
 - Sein Eid auf die Cosa Nostra, mit all ihrer Macht, ihren Versuchungen und Entbehrungen, ist eine schmerzliche Erinnerung an eine simple Wahrheit: Blut ist dicker als Wasser.
 - Zum Leben erwecken diese spannende Erzählung eine atemberaubende Grafik, filmreifes Storytelling und der authentische Realismus, für den die von der Kritik gelobte Mafia-Reihe bekannt ist. Enzos Geschichte trägt sich in einer Zeit zu, in der die Virtuosität mit dem Stilett oft noch tödliche Folgen haben konnte, die Schusswaffe der Wahl häufig die Lupara, eine abgesägte Flinte, war, mörderische Fehden Jahrzehnte andauerten.
-- Entdecke den Ursprung des organisierten Verbrechens in Mafia: The Old Country, einer düsteren Mafia-Geschichte, die in der brutalen Unterwelt von Sizilien um 1900 spielt. Kämpfe in diesem immersiven Third-Person-Action-Adventure als Enzo Favara ums Überleben und bewähre dich bei der Cosa Nostra in einer gefährlichen und gnadenlosen Epoche.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0F849FC3Y{{</world>}}

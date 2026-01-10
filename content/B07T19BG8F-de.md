@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Designed von Romero Britto
-- Disney BRITTO Collection
-- Handgemacht und handbemalt
 - Markengeschenkbox
 - Einzigartiger zeitgenössischer Pop-Art-Stil
+- Handgemacht und handbemalt
+- Designed von Romero Britto
+- Disney BRITTO Collection
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07T19BG8F{{</world>}}

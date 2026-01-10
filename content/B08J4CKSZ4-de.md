@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Angenehmes Tragekomfort
 - Die patentierten Geox-Systeme, die Atmungsaktivität der Sohle und sorgen für Wohlbefinden des Fußes
+- Angenehmes Tragekomfort
 - Leicht verstellbare Passform dank Schnürverschluss
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

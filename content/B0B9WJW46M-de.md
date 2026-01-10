@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Inhalt: Life is Strange Remastered und Life is Strange: Before the Storm Remastered
+- Drehe mit Max Caulfield die Zeit zurück und entdecke gemeinsam mit Chloe Price die Geheimnisse von Arcadia Bay
 - Verbesserte Charakteranimation mit Full Motion Capture für Gesichter (Life is Strange Remastered)
 - Überarbeitete, für Nintendo Switch optimierte Grafik für Charaktere und Umgebungen
-- Drehe mit Max Caulfield die Zeit zurück und entdecke gemeinsam mit Chloe Price die Geheimnisse von Arcadia Bay
-- Inhalt: Life is Strange Remastered und Life is Strange: Before the Storm Remastered
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B9WJW46M{{</world>}}

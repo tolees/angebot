@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gemeinsames Kunstprojekt
-- Enthält über 4000 Teile und 9 Leinwand-Platten mit 9 Bildoptionen in den 4 Themenbereichen: Essen, Muster, Symbole und Interessen
-- Vom Hersteller empfohlenes Alter: 7+
 - Anzahl der Teile: 4138
-- Entdecke dieses Amazon exklusive LEGO Set, das nur bei Amazon oder bei ausgewählten Händlern erhältlich ist
+- Enthält über 4000 Teile und 9 Leinwand-Platten mit 9 Bildoptionen in den 4 Themenbereichen: Essen, Muster, Symbole und Interessen
+- Gemeinsames Kunstprojekt
 - Sortiert die Teile, baut die Farbpalette, wählt euer Lieblingsmotiv und beginnt gemeinsam mit dem Bauen
+- Vom Hersteller empfohlenes Alter: 7+
+- Entdecke dieses Amazon exklusive LEGO Set, das nur bei Amazon oder bei ausgewählten Händlern erhältlich ist
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08X21QT7V{{</world>}}

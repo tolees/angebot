@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- AUTOMATISCHES NOISE CANCELLING UND AMBIENT SOUND MODE: Fortschrittliches Noise Cancelling, Auto-NC Optimiser und Ambient Sound
+- NON-STOP POWER: Bis zu 21 Stunden Wiedergabe (5,5 h Earbuds + 15,5 h Case) plus Schnellladung (1 h in 5 Min.)
+- KOMFORTABLE PASSFORM MIT AIR FITTING SUPPORTER: Bequemer Sitz und Stabilität dank Air Fitting Supporter, wasserdicht nach IPX4
+- AUSGEZEICHNETE KLANGQUALITÄT: Hi-Res-Audio, Musik-Upscaling und anpassbarer EQ für individuellen Sound
 - VERBINDEN SIE ZWEI GERÄTE GLEICHZEITIG: Nahtloser Wechsel zwischen iPhone, Android, PC oder Mac per Multipoint
 - PERSONALISIEREN SIE IHRE OHRKOPFHÖRER: In 4 Farben erhältlich, optionales Zubehör in verschiedenen Farben (separat erhältlich)
-- AUTOMATISCHES NOISE CANCELLING UND AMBIENT SOUND MODE: Fortschrittliches Noise Cancelling, Auto-NC Optimiser und Ambient Sound
-- KOMFORTABLE PASSFORM MIT AIR FITTING SUPPORTER: Bequemer Sitz und Stabilität dank Air Fitting Supporter, wasserdicht nach IPX4
 - VIELE STEUERUNGSMÖGLICHKEITEN FÜR JEDE AKTIVITÄT: Tap-Steuerung, Sprachsteuerung und Sony Sound Connect App
-- AUSGEZEICHNETE KLANGQUALITÄT: Hi-Res-Audio, Musik-Upscaling und anpassbarer EQ für individuellen Sound
-- NON-STOP POWER: Bis zu 21 Stunden Wiedergabe (5,5 h Earbuds + 15,5 h Case) plus Schnellladung (1 h in 5 Min.)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DBLNHPKT{{</world>}}

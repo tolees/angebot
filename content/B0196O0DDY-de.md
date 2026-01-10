@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- verstellbare seitliche Bodenbelüftung
-- 1 Apsis
-- ultraleichte Überwurf-Konstruktion
-- Klimaneutral: Die Emissionen aus Materialien, Herstellungsprozess und Versand wurden ganzheitlich ermittelt und systematisch reduziert. Aktuell nicht vermeidbare Emissionen wurden vollständig über die unabhängige Non-Profit-Organisation „myclimate“ kompensiert
-- mehr Kopffreiheit durch überarbeitete Gestängekonstruktion
 - laminierter Zeltboden resistent gegen Ameisensäure
+- verstellbare seitliche Bodenbelüftung
+- mehr Kopffreiheit durch überarbeitete Gestängekonstruktion
+- ultraleichte Überwurf-Konstruktion
+- 1 Apsis
+- Klimaneutral: Die Emissionen aus Materialien, Herstellungsprozess und Versand wurden ganzheitlich ermittelt und systematisch reduziert. Aktuell nicht vermeidbare Emissionen wurden vollständig über die unabhängige Non-Profit-Organisation „myclimate“ kompensiert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0196O0DDY{{</world>}}

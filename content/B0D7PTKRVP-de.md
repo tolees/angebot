@@ -30,10 +30,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Das Hot Wheels Monster Trucks Loop & Flip Trophy Challenge-Spielset mit Die-Cast-Bigfoot Spielzeugtruck zum 50. Jubiläum bietet Rennspaß und Stunt-Abenteuer.
 - Die zwei Spielmöglichkeiten mit einfachem Aufbau fordern das Stunt-Geschick der Kinder heraus.
-- Die Hälfte des Loopings abbauen, um den Bigfoot mit einem Rückwärtssalto in den Pokalen zu landen.
 - Sie können den Bigfoot über einen Schnellstarter mit genau der richtigen Kraft durch den Looping flitzen lassen, um die meisten Punkte zu erzielen!
 - Jeder Truck im Maßstab 1:64 kann sich dieser Herausforderung stellen. (Zusätzliche Trucks separat erhältlich.)
 - Das Set enthält einen Hot Wheels Monster Trucks Die-Cast-Bigfoot im Maßstab 1:64 mit exklusiver Deko zum 50. Jubiläum.
+- Die Hälfte des Loopings abbauen, um den Bigfoot mit einem Rückwärtssalto in den Pokalen zu landen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D7PTKRVP{{</world>}}

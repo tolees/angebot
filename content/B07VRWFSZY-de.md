@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Gruppensteuerung und -steuerung zusammen】: Sie können viele WLAN-Touch-Schalter als Gruppe festlegen und in der Smart Life-App steuern. Und teilen Sie es auch Ihrer Familie mit, sie können es gleichzeitig kontrollieren!
-- 【Timing-Funktion】: Der Schedule-Schalter schaltet die Elektronik basierend auf der von Ihnen festgelegten Zeit automatisch ein und aus. Energieeinsparung eliminiert verschwenderische Standby-Energie und verhindert Überladung und Überhitzung, spart Stromkosten und verlängert die Produktlebensdauer
-- 【Sprachsteuerung】: Kompatibel mit der Smart Life Tuya-App Amazon Alexa, Google Home Assistant unter IOS oder Android. Steuern Sie Ihre Haushaltsgeräte, indem Sie einfach Sprachbefehle an Amazon Alexa oder Google Assistant senden.
 - 👍👍 【2-Wege-Funktion】: Verbindungsmethode siehe Haupt-PICs. 2-Wege-Schalter zur Steuerung von 1 Lampe von verschiedenen Orten aus. Dieser 2-Wege-WLAN-Schalter kann nicht mit anderen Marken funktionieren.
+- 【Timing-Funktion】: Der Schedule-Schalter schaltet die Elektronik basierend auf der von Ihnen festgelegten Zeit automatisch ein und aus. Energieeinsparung eliminiert verschwenderische Standby-Energie und verhindert Überladung und Überhitzung, spart Stromkosten und verlängert die Produktlebensdauer
+- 【Gruppensteuerung und -steuerung zusammen】: Sie können viele WLAN-Touch-Schalter als Gruppe festlegen und in der Smart Life-App steuern. Und teilen Sie es auch Ihrer Familie mit, sie können es gleichzeitig kontrollieren!
+- 【Sprachsteuerung】: Kompatibel mit der Smart Life Tuya-App Amazon Alexa, Google Home Assistant unter IOS oder Android. Steuern Sie Ihre Haushaltsgeräte, indem Sie einfach Sprachbefehle an Amazon Alexa oder Google Assistant senden.
 - 【WICHTIG】: Schalten Sie das Gerät aus, bis die Installation abgeschlossen ist. ★ Neutralleiter erforderlich, ★ Funktioniert NUR mit 2,4-GHz-WLAN-Netzwerken!
 
 [🛒 Hier!!]({{< param buyurl >}})

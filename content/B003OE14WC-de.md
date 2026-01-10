@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Physiologisches Deodorant mit 24h Wirkung
 - Emulgierbares Ölbad für das tägliche Duschen oder Baden
+- Physiologisches Deodorant mit 24h Wirkung
 - Täglich auf die gereinigte Haut unter den Achseln auftragen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

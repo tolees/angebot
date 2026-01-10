@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Gehäusedurchmesser: 45 mm,Gehäuse Höhe: 13 mm, Gehäusefarbe: Silber, Zifferblattfarbe: Schwarz
 - Wasserdicht: 5 bars -Gewicht: 112 g
 - Diese Uhr verfügt über ein Sechs-Zeiger-Chronographenwerk mit proprietärer Hochleistungs-Quarztechnologie mit einer Schwingungsfrequenz von 262 kHz für präzise Genauigkeit -Diese Uhr verfügt über eine funktion: Stoppuhr, Leuchtzeiger, Leuchtziffern, Tachymeter
-- Gehäusedurchmesser: 45 mm,Gehäuse Höhe: 13 mm, Gehäusefarbe: Silber, Zifferblattfarbe: Schwarz
 - Diese hochwertige Uhr hat ein Schwarz Nylon Band ( 21 cm Länge und 19 mm Breite) mit einer Dornschließe
 - Die Uhr wird in eine schönen, original Geschenkbox geliefert und hat 2 Jahre Garantie
 

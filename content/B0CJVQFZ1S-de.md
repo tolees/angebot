@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Akku
 - Analog / Digital Gamepad Android, PC, Xbox One, Xbox Series S, Xbox Series X D-Pad, Menü-Taste, Schaltfläche Teilen, View button
 - Schwarz, Grau
+- Akku
 - Akku-/Batteriebetriebsdauer: 30 h
 - Verkabelt & Kabellos Bluetooth/USB Kabellänge: 3 m
 

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Teile deine Power zwischen zwei kompatiblen Endgeräten mit USB Type-C
-- USB Type-C zu USB Type-C Kabel unterstützt USB 2.0
 - Ideal für Smartphones oder Tablets
 - Kabellänge: 1 m
+- USB Type-C zu USB Type-C Kabel unterstützt USB 2.0
 - Ausgangsleistung max. 60 Watt (20 V, 3 A)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

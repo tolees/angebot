@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Konisch geschliffen
-- Hochwertige Produkte
 - 40 mm Breite
+- Hochwertige Produkte
+- Konisch geschliffen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00GR2A9KG{{</world>}}

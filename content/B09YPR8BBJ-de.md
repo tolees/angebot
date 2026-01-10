@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Geeignet für Kinder ab 7 Jahren: ideal für die ganze Familie zur Steigerung der Vorfreude in der Vorweihnachtszeit
-- Abwechslungsreiche Rätsel: spannende Such-, Wort- und Logikrätsel, lustige Texträtsel, verzwickte Labyrinthe, pfiffige Zahlenrätsel und vieles mehr
-- Knifflige Herausforderungen: jeden Tag erwartet Dich ein neues Rätsel, das sich in rund 10 Minuten lösen lässt
 - Adventszeit ist Rätselzeit: 24 x spannender Knobelspaß, begleite die Maus auf ihrer geheimen Mission auf Burg Schüttstein
+- Knifflige Herausforderungen: jeden Tag erwartet Dich ein neues Rätsel, das sich in rund 10 Minuten lösen lässt
+- Abwechslungsreiche Rätsel: spannende Such-, Wort- und Logikrätsel, lustige Texträtsel, verzwickte Labyrinthe, pfiffige Zahlenrätsel und vieles mehr
 - Nachhaltiger Denksport: beinhaltet Umschläge aus umweltfreundlichem Papier, Hilfsmittel und ein ausführliches Handbuch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

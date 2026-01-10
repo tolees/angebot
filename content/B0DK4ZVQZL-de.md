@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Gummi-Cupsohle
 - Schnürsenkel
 - Regulär geschnitten
 - Obermaterial aus Synthetik- und Wildleder
 - Klassisches T-förmiges Overlay im Zehenbereich
-- Gummi-Cupsohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DK4ZVQZL{{</world>}}

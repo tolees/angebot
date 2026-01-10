@@ -30,11 +30,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - 5 LEGO Friends Figuren: Der kreative Modellbau beinhaltet die Minifiguren Aliya, Autumn, Liann, Nova & Leo, 5 LEGO Tiere: 2 Hunde, Meerschweinchen, Gecko und Katze; für Spielspaß mit Tierfiguren
 - SPIELZEUG ADVENTSKALENDER MIT TÄGLICHER ÜBERRASCHUNG: Dieser Adventskalender ist ein Bauset für Kinder; Hinter den 24 Türchen erwarten Mädchen und Jungen ab 6 Jahren jeden Tag neue Überraschungen
-- GESCHENK FÜR KINDER ZUR WEIHNACHTSZEIT: Dieses LEGO Friends Set ist ein beliebtes Adventsgeschenk oder ein vorgezogenes Weihnachtgeschenk für Kinder, die weihnachtliche Aktivitäten lieben
-- LERNSPIELZEUG MIT ZUBEHÖR: Für jede Tierfigur ist Zubehör enthalten: ein Knochen für Aira, ein Wasserspender für Popcorn, ein Kratzbaum für Churro, ein Bett für Ruby und eine Futterstation für Pickle
-- LEGO FRIENDS TIERE & GESCHICHTEN KREATIV KOMBINIEREN: Die verschiedenen separat erhältlichen LEGO Friends Bausets lassen Kinder unterschiedliche Freundschaftsmomente darstellen
 - LEGO FIGUREN KOMBINIEREN: Weitere Spielideen für andere separat erhältliche Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
 - WEIHNACHTSKALENDER FÜR JUNGEN & MÄDCHEN: Lass die LEGO Spielfiguren einen Wunschzettel für den Weihnachtsmann schreiben, den Baum schmücken, Karaoke singen, Steckenpferd reiten, heiße Schokolade machen
+- LEGO FRIENDS TIERE & GESCHICHTEN KREATIV KOMBINIEREN: Die verschiedenen separat erhältlichen LEGO Friends Bausets lassen Kinder unterschiedliche Freundschaftsmomente darstellen
+- LERNSPIELZEUG MIT ZUBEHÖR: Für jede Tierfigur ist Zubehör enthalten: ein Knochen für Aira, ein Wasserspender für Popcorn, ein Kratzbaum für Churro, ein Bett für Ruby und eine Futterstation für Pickle
+- GESCHENK FÜR KINDER ZUR WEIHNACHTSZEIT: Dieses LEGO Friends Set ist ein beliebtes Adventsgeschenk oder ein vorgezogenes Weihnachtgeschenk für Kinder, die weihnachtliche Aktivitäten lieben
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DWDX4DJ5{{</world>}}

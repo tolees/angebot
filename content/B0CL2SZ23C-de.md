@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100% Baumwolle
 - Reguläre Passform
+- 100% Baumwolle
 - Gerippter Rundhalsausschnitt
 
 [🛒 Hier!!]({{< param buyurl >}})

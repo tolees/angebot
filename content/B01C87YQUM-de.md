@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bd Mad Max Fury Road Blu-Ray
 - Produkttyp: Physischer Film
+- Bd Mad Max Fury Road Blu-Ray
 - Marke: Warner Home
 
 [🛒 Hier!!]({{< param buyurl >}})

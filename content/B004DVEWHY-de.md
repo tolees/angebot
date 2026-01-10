@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Usb-kabel
 - Farbe: schwarz
+- Usb-kabel
 - Usb (m) auf rj-4 5 (10-polig) (m)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

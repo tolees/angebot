@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Verstellbare 4D-Armlehnen, verstellbare Rückenlehne, multifunktionale Kontrolleinheit mit Wipp-, Feststell- und Kippfunktion
+- Empfohlene Größe: < 200 cm. Maximale Kapazität der Gasdruckfeder: 150 kg
 - Farbiges, mit Aluminium beschichtetes Drehkreuz, Rahmen aus massivem Stahl, atmungsaktive Kaltschaumpolsterung mit hochwertigem Kunstlederbezug
 - Preisgekrönter Premium-Gaming- und Bürostuhl für den E-Sport mit ergonomischem Design
-- Empfohlene Größe: < 200 cm. Maximale Kapazität der Gasdruckfeder: 150 kg
-- Verstellbare 4D-Armlehnen, verstellbare Rückenlehne, multifunktionale Kontrolleinheit mit Wipp-, Feststell- und Kippfunktion
 - Lenden- und Kopfstützkissen bieten optimalen Komfort und die perfekte Unterstützung für lange Sitzungen vor PC und Konsole
 
 [🛒 Hier!!]({{< param buyurl >}})

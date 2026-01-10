@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - JBL Headphones App: Mit der JBL Headphones App lässt sich der EQ passend zum eigenen Stil auswählen / Zusätzlich informieren Sprachansagen, wenn der Akku fast leer ist
-- Multipoint-Verbindung: Bluetooth ermöglicht die gleichzeitige Verbindung der Earbuds mit mehreren Geräten, sodass problemlos zwischen Tablet und eingehenden Anrufen auf dem Smartphone gewechselt werden kann
+- Adaptives Noise-Cancelling: Mit der Smart-Ambient-Funktion können Ablenkungen ausgeblendet werden und es lässt sich individuell bestimmen, wie viel von der Umgebung wahrgenommen wird / Die 10 mm Treiber liefern dabei kraftvollen JBL Pure Bass Sound
 - Pausenlose Musik: Die JBL Tune Flex 2 Ohrhörer bieten 10 Stunden Akkulaufzeit, plus zusätzliche 30 Stunden mit dem Ladecase bei eingeschaltetem ANC, oder bis zu 12 Stunden plus 36 Stunden bei ausgeschaltetem ANC
 - Kristallklare Anrufe: 2 Beamforming-Mikrofone pro Ohrhörer erfassen die Stimme und blenden Umgebungsgeräusche aus, für klaren Sound selbst im Freien
-- Adaptives Noise-Cancelling: Mit der Smart-Ambient-Funktion können Ablenkungen ausgeblendet werden und es lässt sich individuell bestimmen, wie viel von der Umgebung wahrgenommen wird / Die 10 mm Treiber liefern dabei kraftvollen JBL Pure Bass Sound
+- Multipoint-Verbindung: Bluetooth ermöglicht die gleichzeitige Verbindung der Earbuds mit mehreren Geräten, sodass problemlos zwischen Tablet und eingehenden Anrufen auf dem Smartphone gewechselt werden kann
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DK3RXTW4{{</world>}}

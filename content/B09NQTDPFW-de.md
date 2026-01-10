@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MARKENHERSTELLER - Paulmann macht Licht aus Leidenschaft, und das seit 40 Jahren
-- Bei diesem Produkt handelt es sich um ein umgebendes Produkt. Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können. Dieses Produkt enthaelt eine Lichtquelle der Energieeffizienzklasse F
-- FARBTEMPERATUR - 2700 Kelvin: warmweißes Licht wie von der Glühlampe gewohnt, gemütliches Licht zum Entspannen
 - WEISSLICHTSTEUERUNG - Die Lichtfarbe lässt sich dank der Tunable White Funktion individuell einstellen
 - SMART - steuerbar via Bluetooth 4.0 und höher vom Smartphone oder Tablet aus
+- FARBTEMPERATUR - 2700 Kelvin: warmweißes Licht wie von der Glühlampe gewohnt, gemütliches Licht zum Entspannen
+- Bei diesem Produkt handelt es sich um ein umgebendes Produkt. Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können. Dieses Produkt enthaelt eine Lichtquelle der Energieeffizienzklasse F
+- MARKENHERSTELLER - Paulmann macht Licht aus Leidenschaft, und das seit 40 Jahren
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09NQTDPFW{{</world>}}

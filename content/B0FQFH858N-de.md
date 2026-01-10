@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Case funktioniert nahtlos mit der Kamerasteuerung, um präzise Fingerbewegungen wie Drücken und Streichen zu erkennen.
 - Mit integrierten Magneten, die sich perfekt am iPhone 17 ausrichten, hält das Case ganz einfach und sorgt für schnelleres kabel­loses Laden. Lass dein iPhone beim Laden einfach im Case und docke dein MagSafe Ladegerät an oder leg es auf dein Qi2.2 oder Qi zertifiziertes Ladegerät.
-- Das Case besteht zu 45 % aus recyceltem Silikonmaterial. Seine glatte, weiche Außenseite fühlt sich gut an und liegt genauso in der Hand. Und innen bietet ein weiches Futter aus Mikrofaser zusätzlichen Schutz.
+- Das Case funktioniert nahtlos mit der Kamerasteuerung, um präzise Fingerbewegungen wie Drücken und Streichen zu erkennen.
 - Wie jedes von Apple entwickelte Case durchläuft es im Laufe des Design‑ und Fertigungsprozesses Tausende von Teststunden. Deshalb sieht es nicht nur großartig aus, sondern ist auch dafür gemacht, dein iPhone vor Kratzern und bei Stürzen zu schützen.
+- Das Case besteht zu 45 % aus recyceltem Silikonmaterial. Seine glatte, weiche Außenseite fühlt sich gut an und liegt genauso in der Hand. Und innen bietet ein weiches Futter aus Mikrofaser zusätzlichen Schutz.
 - Dieses Silikon Case mit MagSafe wurde von Apple speziell für das iPhone 17 entwickelt und schützt dein iPhone genauso gut, wie es aussieht. Und es lässt sich sicher am Crossbody Band befestigen, damit du dein iPhone einfach freihändig tragen kannst.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

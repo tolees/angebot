@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Textilfutter
-- Obermaterial aus beschichtetem Leder
 - Reguläre Passform
+- Obermaterial aus beschichtetem Leder
+- Textilfutter
 - Dämpfende Zwischensohle
 - Schnürsenkel
 

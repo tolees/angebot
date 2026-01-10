@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Abtriebfeste Omni-Grip Gummi-Außensohle für ideale Bodenhaftung
 - Leichte Techlite Zwischensohle
+- Abtriebfeste Omni-Grip Gummi-Außensohle für ideale Bodenhaftung
 - Obermaterial aus Leder/Mesh
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

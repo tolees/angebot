@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Auf Basis der Aufbauanleitung müssen die passgenauen Einzelteile zusammengefügt werden. Eine Lackierung der Teile kann nach eigenen Vorstellungen vorgenommen werden.
-- Detaillierter Modellbausatz im Maßstab 1:350
-- Der selbstständige Aufbau wird mithilfe einer Schritt für Schritt bzw. bebilderten Aufbauanleitung begleitet. Die Aufbauanleitung ist selbstverständlich im Lieferumfang enthalten.
 - Werkzeug, Klebstoff und Farben sind im Lieferumfang des Plastikbausatzes nicht enthalten. Diese müssen optional erworben werden.
+- Detaillierter Modellbausatz im Maßstab 1:350
+- Auf Basis der Aufbauanleitung müssen die passgenauen Einzelteile zusammengefügt werden. Eine Lackierung der Teile kann nach eigenen Vorstellungen vorgenommen werden.
+- Der selbstständige Aufbau wird mithilfe einer Schritt für Schritt bzw. bebilderten Aufbauanleitung begleitet. Die Aufbauanleitung ist selbstverständlich im Lieferumfang enthalten.
 - Der qualitativ hochwertige Bausatz von TAMIYA muss in Eigenregie montiert werden.
 
 [🛒 Hier!!]({{< param buyurl >}})

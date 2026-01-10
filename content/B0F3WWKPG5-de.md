@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- KEIN VERSTOPFEN & KEINE BLASEN: ELEGOO PLA-Filament wird vor dem Verpacken gründlich getrocknet und gut vakuumversiegelt, um das Filament vor Feuchtigkeit zu schützen, kein Verstopfen und keine Blasenbildung
-- WENIGER VERWICKELUNG & SAUBER GEWICKELT: Jede Filamentspule ist sauber gewickelt, wodurch Verwicklungen und Zuführprobleme vermieden werden. Starke Schichthaftung sorgt für hervorragende 3D-Druckergebnisse, ist einfach zu bedienen und einzurichten, ideal für Anfänger und Profis
 - HÖCHSTE GENAUIGKEIT UND KONSEQUENZ: Fortschrittliche Messverfahren während der Herstellung gewährleisten einen Filamentdurchmesser von 1,75 mm mit einer Genauigkeit von +/- 0,02 mm und sorgen so für eine gleichmäßige und reibungslose Zufuhr
+- WENIGER VERWICKELUNG & SAUBER GEWICKELT: Jede Filamentspule ist sauber gewickelt, wodurch Verwicklungen und Zuführprobleme vermieden werden. Starke Schichthaftung sorgt für hervorragende 3D-Druckergebnisse, ist einfach zu bedienen und einzurichten, ideal für Anfänger und Profis
+- KEIN VERSTOPFEN & KEINE BLASEN: ELEGOO PLA-Filament wird vor dem Verpacken gründlich getrocknet und gut vakuumversiegelt, um das Filament vor Feuchtigkeit zu schützen, kein Verstopfen und keine Blasenbildung
 - HOCHWERTIGES PLA-FILAMENT: Hergestellt aus hochwertigem PLA, niedriger Schmelzpunkt, geringe Verformung und Schrumpfung, geruchslos während des Druckens
 - GLÄNZENDE OBERFLÄCHE & EINFACHE ANWENDUNG: Starke Schichthaftung, geringe Verformung und Schrumpfung sorgen für hervorragende und erfolgreiche 3D-Druckergebnisse. Die niedrigere Drucktemperatur erleichtert das Drucken und Einrichten.
 

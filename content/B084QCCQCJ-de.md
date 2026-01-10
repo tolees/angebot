@@ -31,8 +31,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Radiert schnell und präzise mit kreisförmiger Motorbewegung; nicht scheuernd
 - Geeignet für Links- und Rechtshänder; die Funktionstaste kann bei Bedarf ein- und ausgeschaltet werden, sodass die Hand für maximale Kontrolle frei gehalten werden kann
 - USB- wiederaufladbarer Radiergummi mit lang anhaltende Ladung, kein Batteriewechsel erforderlich
-- Der extrafeine Radierer eignet sich perfekt zum Radieren feinster Haarlinien für detaillierte Kunstwerke und technische Zeichnungen
 - Lieferumfang: 1 x Derwent USB-Wiederaufladbarer Radierer, 1 x USB-Ladekabel, 20 x Radiergummi-Minen (10 große Radiergummis 5 mm & 10 extrafeine Radiergummis 2,4 mm Durchmesser)
+- Der extrafeine Radierer eignet sich perfekt zum Radieren feinster Haarlinien für detaillierte Kunstwerke und technische Zeichnungen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B084QCCQCJ{{</world>}}

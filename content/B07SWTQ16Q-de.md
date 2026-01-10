@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatzform: Flach
-- Nicht Wasserfest
-- Obermaterial: Canvas
-- Innenmaterial: Synthetik
 - Sohle: Synthetik
+- Absatzform: Flach
+- Innenmaterial: Synthetik
 - Verschluss: Schnürung
+- Obermaterial: Canvas
+- Nicht Wasserfest
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07SWTQ16Q{{</world>}}

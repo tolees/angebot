@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Koffermaße: 30x30x10cm
 - Sehr hübscher und umfangreicher Kosmetikkoffer, der keine Wünsche offen lässt. Inkl. großem Spiegel und Licht
 - Benötigt werden: 2 Batterien Type AAA; Diese sind nicht im Lieferumfang enthalten
-- Koffermaße: 30x30x10cm
 - sehr hochwertige Qualität; pädagogisch wertvoll
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

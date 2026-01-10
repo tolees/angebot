@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- für Handbetätigung und Elektroschrauber
-- Hochwertige Produkte
+- Torx
 - Modellnummer: 918.4541
+- Hochwertige Produkte
+- für Handbetätigung und Elektroschrauber
 - mit Außensechskantantrieb nach DIN 3126/ ISO 1173 - C 6, 3
 - Marke: KS Tools
-- Torx
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07QL21FVC{{</world>}}

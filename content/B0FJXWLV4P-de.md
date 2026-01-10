@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DER NEUE STANDARD FÜR FPS-KÄMPFE: Mit überarbeiteten Feuergefechten und taktischen Bewegungen vom geduckten Sprinten bis zum Wegziehen und Wiederbeleben sind jeder Schuss und jede Bewegung instinktiver und präziser
-- GLOBALE KAMPAGNE: Fahre mit Panzern durch die Sahara; Stürme die Strände von Gibraltar; Verteidige New York gegen eine Invasion; Schließe dich einem Elitesquad aus Marine Raiders an und kämpfe unermüdlich, um eine Welt am Rande des Kollaps zu retten
-- Internetverbindung und EA-Konto erforderlich, um zu spielen, auch im Einzelspielermodus; Xbox-Konto muss mit einem EA-Konto verknüpft sein
 - IKONISCHER ALL-OUT WARFARE: Kampfjets, Panzer, Fallschirmjäger, schwere Artillerie und intensive Infanteriegefechte werden zu einem großen Ganzen; Diesen Krieg gibt es nur bei Battlefield
 - MEHR WEGE IN DIE SCHLACHT: Sieg, wie auch immer du ihn dir vorstellst; Strebe nach Ruhm in legendären Modi wie Eroberung, Durchbruch und Rush; Kämpfe in Kairo, Brooklyn, Gibraltar und an anderen ikonischen Schauplätzen in aller Welt
+- GLOBALE KAMPAGNE: Fahre mit Panzern durch die Sahara; Stürme die Strände von Gibraltar; Verteidige New York gegen eine Invasion; Schließe dich einem Elitesquad aus Marine Raiders an und kämpfe unermüdlich, um eine Welt am Rande des Kollaps zu retten
 - PORTAL: Battlefield Portal ist eine riesige Sandbox, in der Ersteller:innen und Spielende Battlefield an seine Grenzen bringen können; Kontrolliere deine Umgebung mehr denn je, indem du Objekte bewegst, skalierst und duplizierst
+- Internetverbindung und EA-Konto erforderlich, um zu spielen, auch im Einzelspielermodus; Xbox-Konto muss mit einem EA-Konto verknüpft sein
 - Die Standard-Edition für den XBOX Series X (disc) enthält das vollständige Spiel Battlefield 6
 - TAKTISCHE ZERSTÖRUNG: Reaktiver und präziser denn je. Dank audiovisueller Hinweise weißt du genau, wie kurz ein Objekt vor der Zerstörung steht. Meistere deine Umgebung. Verschaffe deinem Squad einen Vorteil
+- DER NEUE STANDARD FÜR FPS-KÄMPFE: Mit überarbeiteten Feuergefechten und taktischen Bewegungen vom geduckten Sprinten bis zum Wegziehen und Wiederbeleben sind jeder Schuss und jede Bewegung instinktiver und präziser
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FJXWLV4P{{</world>}}

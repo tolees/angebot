@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spiele in der Ego-Perspektive, verwalte dein Inventar und interagiere mit den Charakteren im Spiel
-- Erkunde den Einsatzort, entscheide dich für das taktische Vorgehen und arbeite den Einsatz ab
-- Nutze Gerätschaften wie Rauchvorhang, Halligan-Tool, Drehleiter oder verschiedene Löschmittel
-- Jeder Einsatz wird ausgewertet, so dass du dich ständig verbessern kannst
-- Schlüpfe in die Rolle des Angriffstrupp und absolviere eine Vielzahl abwechslungsreicher Einsätze
 - Deine taktischen Entscheidungen beeinflussen den weiteren Einsatzverlauf
+- Jeder Einsatz wird ausgewertet, so dass du dich ständig verbessern kannst
+- Nutze Gerätschaften wie Rauchvorhang, Halligan-Tool, Drehleiter oder verschiedene Löschmittel
+- Spiele in der Ego-Perspektive, verwalte dein Inventar und interagiere mit den Charakteren im Spiel
+- Schlüpfe in die Rolle des Angriffstrupp und absolviere eine Vielzahl abwechslungsreicher Einsätze
+- Erkunde den Einsatzort, entscheide dich für das taktische Vorgehen und arbeite den Einsatz ab
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CGVM26HV{{</world>}}

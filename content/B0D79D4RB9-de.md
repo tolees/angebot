@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Weiß Natur
 - Futter: 63% Schweinsleder - 37% Stoff (100% recyceltes Polyester)
-- Laufsohle: 51% recyceltes EVA - 49% EVA
 - Obbermaterial: 100% Rindsleder
+- Farbe: Weiß Natur
+- Laufsohle: 51% recyceltes EVA - 49% EVA
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D79D4RB9{{</world>}}

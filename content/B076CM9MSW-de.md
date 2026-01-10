@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Farbschutz
 - antioxidant
 - sulfatfrei
-- Farbschutz
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B076CM9MSW{{</world>}}

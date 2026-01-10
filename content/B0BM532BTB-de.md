@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Thermoplastisches Polyurethan
 - FlexibleFlexible
+- Verschluss: Thermoplastisches Polyurethan
 - 14.0157480172 inches
 - Leder: Smooth Leather
 

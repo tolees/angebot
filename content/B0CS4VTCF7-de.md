@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einsätze mit verschiedenen Strukturen
-- Kordelzug mit Kordelstopper vorne
-- Schlaufe zum Anziehen
 - Seitliche Tommy Hilfiger Flag aus Emaille
+- Einsätze mit verschiedenen Strukturen
+- Schlaufe zum Anziehen
+- Kordelzug mit Kordelstopper vorne
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CS4VTCF7{{</world>}}

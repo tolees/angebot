@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kurzarm | Mit Polokragen
-- Klassisches Polohemd mit einem kleinen Logo-Badge auf der Brust
 - Passform: Basic Fit, Rückenlänge bei Größe M ca. 73 cm
 - Aus klassischem, leicht strukturiertem Piqué-Stoff
+- Kurzarm | Mit Polokragen
+- Klassisches Polohemd mit einem kleinen Logo-Badge auf der Brust
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D8BXM9GB{{</world>}}

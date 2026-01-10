@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Direkt auf Rost, 3in1
 - Schnell trocknend
 - Zuverlässiger Schutz vor Rostbefall
+- Direkt auf Rost, 3in1
 - Hohe Schlag- und Kratzfestigkeit
 - Hochgradig witterungs- und UV-beständig
 

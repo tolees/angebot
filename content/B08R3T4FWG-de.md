@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fleece-Material
 - Kordelzug im Bund
+- Fleece-Material
 - Reißverschlusstaschen
 - Weite Passform
 

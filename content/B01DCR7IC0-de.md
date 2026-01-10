@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Standard-Passform
 - Authentisches Kunstleder auf der Oberseite sorgt für Strapazierfähigkeit.
 - Die Gummiaußensohle sorgt für optimale Traktion.
-- Standard-Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01DCR7IC0{{</world>}}

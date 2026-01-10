@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Spielspaß für kleine Polizeifans: PLAYMOBIL Polizei-Straßensperre mit Figuren und vielen Zubehörteilen für detailgetreues Nachspielen
-- Spielfiguren-Set für Kinder ab 5 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - 2 Polizisten und 1 Polizeihund in Schutzkleidung, Hilfsmittel wie Radargerät, Schranke, Waffen und mehr, Hundebox passend zu/in Einsatzwagen (6873)
 - Lieferumfang: 1x PLAYMOBIL City Action Polizei-Straßensperre, 48-teiliges Spielfiguren-Set mit Anleitung: 1 Straßensperre, 2 Figuren, 45 Zubehörteile, Material: BPA-freier Kunststoff, LxTxH: 7,5x3x4,5 cm, 6878
+- Spielfiguren-Set für Kinder ab 5 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

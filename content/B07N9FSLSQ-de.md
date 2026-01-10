@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Ideale Begleiter zu Salaten, hellem Fleisch und Fisch
 - Kann bei Picknicks oder Partys genossen werden
 - Produkt von guter Qualität
+- Der Ideale Begleiter zu Salaten, hellem Fleisch und Fisch
 - Chardonnay in der 3 L Bag in Box
 
 [🛒 Hier!!]({{< param buyurl >}})

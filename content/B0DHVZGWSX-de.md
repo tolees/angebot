@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Synthetikleder
 - Gummi-Cupsohle
 - Der Größe entsprechend
+- Obermaterial aus Synthetikleder
 - Obermaterial mit einem Recycling-Anteil von mindestens 50 %
 - Synthetikfutter
 

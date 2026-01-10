@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ob im Einzelspielermodus oder online mit bis zu drei Freunden, die Spieler können diese Selbstmordmission auf ihre ganz eigene Art und Weise angehen
 - Spieler:innen können mit einer Reihe an unterschiedlichen Spielstilen experimentieren, um ihren Feinden maximalen Schaden zuzufügen
+- Ob im Einzelspielermodus oder online mit bis zu drei Freunden, die Spieler können diese Selbstmordmission auf ihre ganz eigene Art und Weise angehen
 - Alle Teammitglieder verfügen über eine eigene Bewegungsmechanik
 - Begleite die neuen "rekrutierten" Mitglieder von Amanda Wallers berüchtigter Task Force X, Harley Quinn, Deadshot, Captain Boomerang und King Shark
 
