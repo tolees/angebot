@@ -1,0 +1,40 @@
+---
+layout: post
+title: 'LEGO Harry Potter Schloss Hogwarts: Flugstunden Abenteuer-Spielset mit 6 Minifiguren zum Sammeln inkl. Draco Malfoy & Professor McGonagall Rollenspiel Set für Jungen und Mädchen ab 9 Jahren 76447'
+date: 2026-03-16 13:56:24
+image: 'https://m.media-amazon.com/images/I/51oHh2uLmmL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DHSFB2SQ-de LEGO Harry Potter Schloss Hogwarts: Flugstunden Abenteuer-...'
+sku: 'B0DHSFB2SQ-de'
+tags: [ '🇩🇪', ]
+actualPrice: 67.95 EUR
+currency: EUR
+price: 67.95
+comparePrice: 79.99 EUR
+prodname: 'LEGO Harry Potter Schloss Hogwarts: Flugstunden Abenteuer-Spielset mit 6 Minifiguren zum Sammeln inkl. Draco Malfoy & Professor McGonagall Rollenspiel Set für Jungen und Mädchen ab 9 Jahren 76447'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B0DHSFB2SQ/?tag=tolees0ca-21'
+descuento: '15.05'
+average: '75.9766666666667'
+---
+
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Harry Potter Sammlerstück: Dieses Spielset gehört zu einer Serie von (separat erhältlichen) Modulen, die man zum bisher detailreichsten Modell von Schloss Hogwarts aus LEGO Steinen zusammenfügen kann
+- Magische Geschenkidee für Kinder ab 9 Jahren: Das zauberhafte Harry Potter Set ist ein tolles Geschenk für Jungen, Mädchen und alle Harry Potter Liebhaber; Es zaubert jedem Fan der Zauberwelt ein Lächeln ins Gesicht
+- Klassenzimmer-Spielset: Das ausklappbare Gebäude beherbergt den Quidditch Ausrüstungsraum, das Klassenzimmer für den Verwandlungsunterricht, Professor McGonagalls Büro, den Trophäenraum und Besenflugfunktionen
+- Spielset für Kinder mit einem Turm: LEGO Harry Potter Schloss Hogwarts: Flugstunden ist ein Abenteuerset, mit dem Kinder das Quidditch Training und den Verwandlungsunterricht nachstellen können
+- Magisches Abenteuer-Bauset mit 6 LEGO Harry Potter Minifiguren: Harry Potter, Neville Longbottom, Draco Malfoy, Professor McGonagall, Madam Hooch und Oliver Wood sorgen für ganz viel Bauspaß
+- 2 von 14 Hogwarts Porträts zum Sammeln: Dieses LEGO Harry Potter Bauspielzeug beinhaltet 2 von 14 zufällig ausgewählten Hogwarts Porträts, die im Trophäenraum aufgehängt werden können
+- Faszinierendes Bauerlebnis: Die LEGO Builder App nimmt Kinder auf ein intuitives Bauabenteuer mit; In der App kann man Sets speichern, den Baufortschritt verfolgen und beim Bauen 3D-Ansichten der Modelle vergrößern und drehen
+
+[🛒 kauf es hier!!]({{< param buyurl >}})
+{{<world>}}B0DHSFB2SQ{{</world>}}

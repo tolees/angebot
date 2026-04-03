@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'TOM TAILOR Denim Herren T-Shirt Basic v-Neck doublepack/412 Einfarbig Gr. XX-Large Weiß White 2000'
+date: 2026-03-10 12:49:02
+image: 'https://m.media-amazon.com/images/I/21TMKnLJ1GL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00NKYVHVO-de TOM TAILOR Denim Herren T-Shirt Basic v-Neck...'
+sku: 'B00NKYVHVO-de'
+tags: [ '🇩🇪', ]
+actualPrice: 13.59 EUR
+currency: EUR
+price: 13.59
+comparePrice: 15.99 EUR
+prodname: 'TOM TAILOR Denim Herren T-Shirt Basic v-Neck doublepack/412 Einfarbig Gr. XX-Large Weiß White 2000'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B00NKYVHVO/?tag=tolees0ca-21'
+descuento: '15.01'
+average: '13.59'
+---
+
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Aus weichem & pflegeleichtem Single-Jersey-Stoff aus Baumwolle
+- Kurzärmlig mit V-Ausschnitt
+- Basic T-Shirt in Unifarben im praktischen Doppelpack/2-er Pack: zwei T-Shirts mit V-Ausschnitt in der gleichen Farbe pro Packung
+- Passform: Regular Fit, Rückenlänge bei Größe L ca. 74 cm
+
+[🛒 kauf es hier!!]({{< param buyurl >}})
+{{<world>}}B00NKYVHVO{{</world>}}

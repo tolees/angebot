@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'LIEBESKIND Berlin Women s Francis Calf XS Black Crossbody'
+date: 2026-03-31 14:07:39
+image: 'https://m.media-amazon.com/images/I/31rGAi5KhvL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CB1WZC3D-de LIEBESKIND Berlin Women s Francis Calf XS Black Crossbody'
+sku: 'B0CB1WZC3D-de'
+tags: [ '🇩🇪', ]
+actualPrice: 76.93 EUR
+currency: EUR
+price: 76.93
+comparePrice: 149.9 EUR
+prodname: 'LIEBESKIND Berlin Women s Francis Calf XS Black Crossbody'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B0CB1WZC3D/?tag=tolees0ca-21'
+descuento: '48.68'
+average: '80.12'
+---
+
+Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Modellnummer: 2140266007
+- Als klassische Baguette-Bag zeigt sich die Franzis Crossbody XS in schmaler und länglicher Form mit kurzen Henkeln. Sie ist aus hochwertigem genarbtem Nappaleder gefertigt und überzeugt mit ihrem eleganten Aussehen. Durch den zusätzlichen langen abnehmbaren Träger kann sie so leicht von einer Schultertasche zu einer Crossbody-Bag umfunktioniert werden. Egal, ob für besondere Anlässe oder in Kombination mit legeren Outfits im Alltag – die Franzis Crossbody XS setzt als vielseitiges Accessoire stilvoll modische Akzente
+- Franzis Crossbody XS
+- Vollnarbiges Nappaleder Hauptfach mit Reißverschluss Innenraum mit Steckfach mit abnehmbarem langen und schmalen Schultergurt mit Logo Tag auf der Vorderseite Passend für: iPhone 15 Pro, Samsung Galaxy S23 und ähnliche Smartphones Stilvoll, modisch, Baguette-Bag
+
+[🛒 Hier!!]({{< param buyurl >}})
+{{<world>}}B0CB1WZC3D{{</world>}}
