@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- OPTIMALE PASSFORM: Der minimalistische Look der vielseitigen Windjacke passt zu jedem Outfit und hält warm. Die zeitlose Jacke hat eine fixierte Kapuze mit Kordeln und schützt vor Wind.
 - IKONISCH & ZEITLOS: Die original Tommy Jeans Jacke mit zwei Reißverschlusstaschen auf Taillenhöhe ist in schlichtem Design gehalten. Sie ist aufgrund ihres leichten Materials ideal für den Übergang geeignet.
 - MATERIAL & PFLEGE: Die Jacke besteht aus 100% recyceltem Nylon. Sie kann in der Maschine gewaschen werden und ist für den Trockner geeignet.
+- OPTIMALE PASSFORM: Der minimalistische Look der vielseitigen Windjacke passt zu jedem Outfit und hält warm. Die zeitlose Jacke hat eine fixierte Kapuze mit Kordeln und schützt vor Wind.
 - STREETWEAR NEU INTERPRETIERT: Um beliebte Klassiker aus den 90ern in die nächste Generation zu holen, orientiert sich Tommy Jeans an Hip-Hop-Ikonen aus dieser Ära. Dabei wird der Fokus auf Qualität und coole Designs mit viel Denim gesetzt.
 - FÜR JEDEN ANLASS: Die coole Herrenjacke ist ein vielseitiger Begleiter. Sie zeichnet sich durch ihre Funktionalität und den besonders hohen Tragekomfort aus und eignet sich somit ideal für den Alltag und für besondere Anlässe.
 

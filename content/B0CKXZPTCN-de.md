@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Textilfutter
 - Obermaterial aus Leder
-- Schnürsenkel
-- Reguläre Passform
-- Verstärkter Zehenbereich
-- Textilfutter
 - Besteht zu mindestens 20 % aus recycelten Materialien
+- Reguläre Passform
+- Textilfutter
 - Gummiaußensohle
+- Verstärkter Zehenbereich
+- Schnürsenkel
+- Textilfutter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CKXZPTCN{{</world>}}

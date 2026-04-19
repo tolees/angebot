@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- TAG UND NACHT: Unsere fortschrittliche Nachtsicht-Technologie garantiert, dass Ihr Zuhause tagsüber und vor allem nachts geschützt ist.
+- PERSONENERKENNUNG: Die eufyCam 2C Überwachungskamera aussen erkennt Vögel, Hunde und Blätter im Wind und reduziert falschen Alarm(2) um 95%, damit Sie wirklich nur im richtigen Moment alarmiert werden.
+- 180 TAGE AKKULAUFZEIT: Ihre Überwachungskamera aussen dient Ihnen nach einem Aufladen ein halbes Jahr lang!
 - FULL HD QUALITÄT: 1080p Auflösung stellt sicher, dass jede Aufnahme kristallklar aufgezeichnet wird. Das 135° Weitwinkelobjektiv garantiert eine glasklare Panoramaansicht - von der Garage bis zur Haustüre ist alles mit dabei. (HomeBase speichert alle Aufnahmen lokal und gebührenfrei ohne Abonnement.)
 - WETTERFEST: Dank der IP67-Wasserschutzklasse hält Ihre eufyCam 2C Überwachungskamera aussen so gut wie alles aus, Sommerhitze, Regen und sogar den deutschen Winter!
-- 180 TAGE AKKULAUFZEIT: Ihre Überwachungskamera aussen dient Ihnen nach einem Aufladen ein halbes Jahr lang!
-- PERSONENERKENNUNG: Die eufyCam 2C Überwachungskamera aussen erkennt Vögel, Hunde und Blätter im Wind und reduziert falschen Alarm(2) um 95%, damit Sie wirklich nur im richtigen Moment alarmiert werden.
+- TAG UND NACHT: Unsere fortschrittliche Nachtsicht-Technologie garantiert, dass Ihr Zuhause tagsüber und vor allem nachts geschützt ist.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07W4MY7HL{{</world>}}

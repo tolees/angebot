@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Wunderschöne Optik – Verstecktes Refugium im Wald】 Die schräg geschnittene Herberge verschmilzt harmonisch mit einem uralten Baum und schafft ein einzigartiges „Waldversteck“. Van-Gogh-inspirierte Farben, detailreiche Gravuren und 360°-Ansichten machen dieses Set zu einem wahren Blickfang – ideal zum Ausstellen und Sammeln
-- 【Perfektes Geschenk für Fantasy- & Bau-Fans】 Exklusives Originaldesign von LUMIBRICKS mit 3120 hochwertigen Klemmbausteinen. UV-Druck statt Sticker – kein Abblättern. ein unvergessliches Geburtstags-, Weihnachts- oder Sammlergeschenk
-- 【22 LED-Lichtpunkte – Magisches Leuchten in der Nacht】 Mit 22 integrierten LED-Lichtern entsteht ein faszinierendes Nachtbild. Das warme Licht fällt durch Glasfenster und wirft traumhafte Reflexionen auf die Wände. Nachts erwacht die Herberge zum Leben – ein beeindruckendes Lichtspektakel für echte Fantasy-Fans
-- 【Kreative Struktur – Zwei Formen, unendlicher Spielspaß】 Dank der innovativen 4-teiligen Transformationsstruktur lässt sich das Modell leicht zwischen „offener Elfenherberge“ und „Waldhütte“ umschalten. Durch das Schnellwechsel-Design der Etagen kannst du mühelos das Innere erkunden – mit Kräuterschrank, Geheimfächern und verborgenen Geschichten
 - 【Von Fantasy inspiriertes Design – Erschaffe deine eigene Elfenwelt】 Inspiriert von klassischen Tolkien-Geschichten, entführt dieses Fantasy-Bauset in einen friedlichen Elfenwald voller Magie – blaue Kerzenflammen, goldene Apfelbäume, mystische Symbole und geheimnisvolle Kreaturen. Tauche beim Bauen in eine ruhige, märchenhafte Welt ein
 - [Wie man das Licht einschaltet] Mit USB/Type- C oder Batteriepack betreiben (Batterien sind nicht im Set enthalten, benötigt: 3× AA)
+- 【22 LED-Lichtpunkte – Magisches Leuchten in der Nacht】 Mit 22 integrierten LED-Lichtern entsteht ein faszinierendes Nachtbild. Das warme Licht fällt durch Glasfenster und wirft traumhafte Reflexionen auf die Wände. Nachts erwacht die Herberge zum Leben – ein beeindruckendes Lichtspektakel für echte Fantasy-Fans
+- 【Wunderschöne Optik – Verstecktes Refugium im Wald】 Die schräg geschnittene Herberge verschmilzt harmonisch mit einem uralten Baum und schafft ein einzigartiges „Waldversteck“. Van-Gogh-inspirierte Farben, detailreiche Gravuren und 360°-Ansichten machen dieses Set zu einem wahren Blickfang – ideal zum Ausstellen und Sammeln
+- 【Perfektes Geschenk für Fantasy- & Bau-Fans】 Exklusives Originaldesign von LUMIBRICKS mit 3120 hochwertigen Klemmbausteinen. UV-Druck statt Sticker – kein Abblättern. ein unvergessliches Geburtstags-, Weihnachts- oder Sammlergeschenk
 - 【Detailreiche Story-Elemente – Entdecke die Geheimnisse des Waldes】 Jedes bedruckte Teil erzählt ein Stück der Gesamtgeschichte: der kürbisliebende Herbergsvater, ein versteinertes Wesen, das erste magische Tier der Lumi-Welt und vieles mehr. Mit zahlreichen, liebevoll gestalteten Easter Eggs ist dieses Set eine perfekte Kombination aus Bauen, Erzählen und Sammeln
+- 【Kreative Struktur – Zwei Formen, unendlicher Spielspaß】 Dank der innovativen 4-teiligen Transformationsstruktur lässt sich das Modell leicht zwischen „offener Elfenherberge“ und „Waldhütte“ umschalten. Durch das Schnellwechsel-Design der Etagen kannst du mühelos das Innere erkunden – mit Kräuterschrank, Geheimfächern und verborgenen Geschichten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FRN1D2XR{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- NACHHALTIG: Hochwertiges Buchenholz, speziell ausgesucht für optimale Bruchfestigkeit und Elastizität. PEFC-Siegel garantiert die Verwendung von Hölzern aus nachhaltiger Waldbewirtschaftung
-- DURCHDACHT: Anreißfunktion – im ausgeklappten Zustand ergeben die Glieder eine durchgehend gerade Kante. Große Ziffern für bessere Ablesbarkeit. Rote Zehnerzahlen für schnelle Orientierung
-- HOCHWERTIG: Eingelassene, gehärtete Stahlblechgelenke mit integrierter Stahlfeder für Langlebigkeit und exaktes Einrasten. Witterungsbeständige Lackierung zum Schutz der Holzlättchen und der Skala
-- GEPRÜFT: Gliedermaßstab mit Genauigkeitsklasse III. Beidseitige cm/mm-Teilung an beiden Maßstabkanten
 - PRAKTISCH: Maßstab mit klar sichtbarer Maßeinteilung. Integriertes Winkelschema zum schnellen Anlegen und Übertragen häufig verwendeter Winkel (15°, 30°, 45°, 60°, 75°, 90°, 105° und 120°)
+- GEPRÜFT: Gliedermaßstab mit Genauigkeitsklasse III. Beidseitige cm/mm-Teilung an beiden Maßstabkanten
+- HOCHWERTIG: Eingelassene, gehärtete Stahlblechgelenke mit integrierter Stahlfeder für Langlebigkeit und exaktes Einrasten. Witterungsbeständige Lackierung zum Schutz der Holzlättchen und der Skala
+- DURCHDACHT: Anreißfunktion – im ausgeklappten Zustand ergeben die Glieder eine durchgehend gerade Kante. Große Ziffern für bessere Ablesbarkeit. Rote Zehnerzahlen für schnelle Orientierung
+- NACHHALTIG: Hochwertiges Buchenholz, speziell ausgesucht für optimale Bruchfestigkeit und Elastizität. PEFC-Siegel garantiert die Verwendung von Hölzern aus nachhaltiger Waldbewirtschaftung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B001ZZYOBA{{</world>}}

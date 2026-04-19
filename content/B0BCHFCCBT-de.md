@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nachhaltiges Drucken: Mit dem Energy Star erfüllen Sie anspruchsvolle Branchenstandards für Effizienz. Die HP Auto-On/Auto-Off-Technologie optimiert die Energienutzung und macht Ihren Drucker günstiger.
-- Hochproduktiver Laserdrucker mit schnellem beidseitigen Druck und 50-Blatt-ADF für beidseitiges Scannen in einem Durchlauf. Drucken und dabei Zeit sparen - mit den Shortcuts von HP Smart.
 - Dieser Drucker ist nur für Patronen bzw. Kartuschen vorgesehen, die mit Original HP Chips und Schaltkreisen ausgestattet sind. Produkte mit Chips oder Schaltkreisen von Fremdherstellern werden blockiert. Regelmäßige Firmware-Updates erhalten die Wirksamkeit dieser Maßnahmen aufrecht.
 - Druckgeschwindigkeit: Bis zu 40 Seiten/Minute (schwarzweiß); Druckqualität: bis zu 1200 x 1200 dpi; Anschlüsse: 1 Hi-Speed USB 2.0 Anschluss; 1 USB-Hostanschluss hinten; 1 USB-Anschluss vorne; Gigabit Ethernet LAN 10/100/1000BASE-T Netzwerkanschluss; 802.3az (EEE); 802.11b/g/n / 2,4/5 GHz Wi-Fi Übertragung und BLE
+- Hochproduktiver Laserdrucker mit schnellem beidseitigen Druck und 50-Blatt-ADF für beidseitiges Scannen in einem Durchlauf. Drucken und dabei Zeit sparen - mit den Shortcuts von HP Smart.
 - HP Wolf Pro Security: Sorgen Sie vom Start weg für die Sicherheit Ihrer Drucker. Dank vorkonfigurierter Einstellungen ist alles bereit, wenn Sie es sind. Mit der PIN/Pull-Option werden Druckaufträge nur freigegeben, wenn Sie anwesend sind.
+- Nachhaltiges Drucken: Mit dem Energy Star erfüllen Sie anspruchsvolle Branchenstandards für Effizienz. Die HP Auto-On/Auto-Off-Technologie optimiert die Energienutzung und macht Ihren Drucker günstiger.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BCHFCCBT{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Materialzusammensetzung: 50% Cotton - Traceable Better Cotton, 28% Recycelter Polyester, 20% Recyelte Baumwolle, 2% Elasthan
 - Slim Fit
 - Slim Fit Jeans
 - Niedrige Taille
+- Materialzusammensetzung: 50% Cotton - Traceable Better Cotton, 28% Recycelter Polyester, 20% Recyelte Baumwolle, 2% Elasthan
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08C2W78RN{{</world>}}

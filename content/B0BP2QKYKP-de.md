@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 62 % Baumwolle / 34 % recycelter Polyester / 3 % Elastan / 1 % recyceltes Nylon
-- 3er-Pack
-- Fußgewölbeunterstützung
-- Knöchellang
 - Gebondete Zehennähte
+- Knöchellang
+- Fußgewölbeunterstützung
+- 3er-Pack
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BP2QKYKP{{</world>}}

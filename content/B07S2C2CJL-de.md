@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Materialzusammensetzung: 92% Baumwolle, 6% Elastomultiester, 2% Elasthan
 - Skinny Jeans
+- Materialzusammensetzung: 92% Baumwolle, 6% Elastomultiester, 2% Elasthan
 - Mittlere Taille
 - Skinny Fit
 

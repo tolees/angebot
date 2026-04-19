@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MEMO-FUNKTION: Mit Ihrem individuellen Profil können Sie die GröÃŸe Ihres Lieblingskaffee einstellen und speichern
 - KAFFEESTÄRKEWAHL PLUS: Mit der Funktion zur Kaffeestärkewahl kann zwischen einem kleinen, starkem und einem milden, normalen Kaffee sowie einem leckeren Espresso gewählt werden
-- CREMA PLUS: Das neue und patentierte Senseo Cremasystem garantiert jetzt eine noch bessere feinporige Crema bei jedem Kaffee
 - 1 ODER 2 TASSEN GLEICHZEITIG: Bereiten Sie eine oder zwei Tassen Ihres köstlichen Senseo Kaffees in weniger als einer Minute zu
 - AUS 21 PERCENT RECYCELTEM PLASTIK: Hergestellt aus 21 percent recyceltem Plastik bei den Teilen, die nicht mit Lebensmitteln in Kontakt kommen
+- CREMA PLUS: Das neue und patentierte Senseo Cremasystem garantiert jetzt eine noch bessere feinporige Crema bei jedem Kaffee
+- MEMO-FUNKTION: Mit Ihrem individuellen Profil können Sie die GröÃŸe Ihres Lieblingskaffee einstellen und speichern
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08THGRW93{{</world>}}

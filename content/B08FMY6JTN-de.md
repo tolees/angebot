@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ZUTRITT VON ÜBERALL AUS GEWÄHREN - Sende sichere Schlüssel an Freunde, Familienmitglieder oder Personen deines Vertrauens, und zwar direkt über die Yale Access App. Verwalte und plane den Zugang jederzeit.
-- DOORSENSE (TÜRSENSOR-TECHNOLOGIE) - zeigt dir an, ob deine Tür sicher geschlossen ist. Und wenn etwas Unerwartetes passiert, z. B. wenn die Tür einen Spalt offen steht, erfährst du es als Erster.
+- SMARTES SCHLIESSEN - Mach dein Smartphone oder deine Apple Watch zu deinem Schlüssel. Mit dem Linus Smart Lock kannst Du deine Tür mit der Yale Access App ver- und entriegeln - ganz gleich, wo du dich befindest. erfordert Yale Connect Wi-Fi-Bridge für Remote-Funktionalität
+- SICHER UND GESICHERT - Das Yale Access Konto ist durch eine 2-Faktor-Authentifizierung geschützt, d. h. Benutzer müssen ihre Identität entweder per E-Mail oder per Telefonnummer verifizieren. Zusätzlich zu der von Bluetooth gebotenen Sicherheit verwenden wir AES- und TLS-Verschlüsselung, die üblicherweise als Sicherheit auf Bank-Ebene bezeichnet wird. Wenn du dein Telefon verlierst, kannst du in der Yale Access App alle virtuellen Schlüssel jederzeit deaktivieren.
 - AUTOMATISCHE VERRIEGELUNG UND ENTRIEGELUNG - Wenn du nach Hause zurückkehrst und dich deiner Tür näherst, wird diese dank Geo-Fencing (je nach gewählter Einstellung) automatisch entriegelt ( sobald du und dein Telefon in der Nähe der Tür sind), sodass du dich nicht mehr mit Schlüsseln herumschlagen musst. Möglichkeit, die automatische Verriegelung zu aktivieren, wenn sich die Tür schließt.
 - SMARTES SCHLIESSEN - Mache dein Smartphone oder deine Apple Watch zum Schlüssel. Mit dem Linus Smart Lock kannst du deine Tür mit der Yale Access App ver- und entriegeln - ganz gleich, wo du dich befindest. *erfordert Yale Connect Wi-Fi-Bridge für Remote-Funktionalität
-- ARBEITET MIT - führenden Smart Home-Systemen, Sprachassistenten und Ferienvermietungsplattformen für mühelose Schlosskontrolle und Zutrittsverwaltung * Für die Remote-Funktionalität ist die Yale Connect Wi-Fi Bridge erforderlich.
-- SICHER UND GESICHERT - Das Yale Access Konto ist durch eine 2-Faktor-Authentifizierung geschützt, d. h. Benutzer müssen ihre Identität entweder per E-Mail oder per Telefonnummer verifizieren. Zusätzlich zu der von Bluetooth gebotenen Sicherheit verwenden wir AES- und TLS-Verschlüsselung, die üblicherweise als Sicherheit auf Bank-Ebene bezeichnet wird. Wenn du dein Telefon verlierst, kannst du in der Yale Access App alle virtuellen Schlüssel jederzeit deaktivieren.
+- DOORSENSE (TÜRSENSOR-TECHNOLOGIE) - zeigt dir an, ob deine Tür sicher geschlossen ist. Und wenn etwas Unerwartetes passiert, z. B. wenn die Tür einen Spalt offen steht, erfährst du es als Erster.
 - BATTERIELAUFZEIT - Benachrichtigt dich, wenn deine Batterie schwach wird, damit diese vorzeitig ersetzt werden kann. Die Batterielaufzeit ist abhängig von der Anzahl der Schließvorgänge, der Leichtigkeit der Türöffnung und der Anzahl der Öffnungen pro Tag. Bei normalem Gebrauch haben die Batterien eine Laufzeit von 6 bis 9 Monaten
-- SMARTES SCHLIESSEN - Mach dein Smartphone oder deine Apple Watch zu deinem Schlüssel. Mit dem Linus Smart Lock kannst Du deine Tür mit der Yale Access App ver- und entriegeln - ganz gleich, wo du dich befindest. erfordert Yale Connect Wi-Fi-Bridge für Remote-Funktionalität
+- ARBEITET MIT - führenden Smart Home-Systemen, Sprachassistenten und Ferienvermietungsplattformen für mühelose Schlosskontrolle und Zutrittsverwaltung * Für die Remote-Funktionalität ist die Yale Connect Wi-Fi Bridge erforderlich.
+- ZUTRITT VON ÜBERALL AUS GEWÄHREN - Sende sichere Schlüssel an Freunde, Familienmitglieder oder Personen deines Vertrauens, und zwar direkt über die Yale Access App. Verwalte und plane den Zugang jederzeit.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08FMY6JTN{{</world>}}

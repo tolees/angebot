@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für ein immersives Flugerlebnis mit Adrenalinschub – Durch die Brille erhältst du ein visuelles Feedback, als wärst du direkt im Cockpit, und genießt eine atemberaubende Perspektive, puren Nervenkitzel und totale Freiheit.
-- Integrierter Propellerschutz für mehr Sicherheit – super-stabil! Mit den integrierten Propellerschutzvorrichtungen ist die Drohne robuster und langlebiger, was dir in verschiedenen Szenarien mehr Freiheit beim Fliegen ermöglicht.
 - Die DJI Avata 2 (nur Drohne) enthält die DJI Avata 2, 1 Intelligent Flight Battery, 2 Paar zusätzliche Propeller und andere Artikel. Eine kostengünstigere Option. Muss mit Goggles und RC Motion 3 verwendet werden (separat erhältlich).
+- Müheloser POV-Content, Filmaufnahmen beim Start – Die leichte, tragbare Drohne ist sofort einsatzbereit, um hochwertige POV-Inhalte aufzunehmen. Die LightCut App bietet viele Vorlagen, mit denen die Erstellung von Inhalten kinderleicht ist.
 - Intuitive Bewegungssteuerung – Steuere die Bewegungen der Drohne mühelos mit deiner Hand, ohne komplizierte Knöpfe – nur natürliche, einfache Bewegungen, die es auch Anfängern ermöglichen, sicher und mühelos zu fliegen.
 - Kompatibel mit Goggles 3, Goggles N3, Goggles 2, Goggles Integra, RC Motion 2, RC Motion 3, FPV Fernsteuerung 2 und FPV Fernsteuerung 3. Detaillierte Informationen zur Kompatibilität findest du unten in den FAQ.
 - Scharfe Aufnahmen in Super-Wide 4K – Der 155° FOV und das ultrascharfe Video bringen ein einzigartiges Erlebnis und der 1/1,3 Zoll Bildsensor ermöglicht atemberaubende 4K/60fps Aufnahmen und 4K/100fps Slow-Motion Video.
-- Müheloser POV-Content, Filmaufnahmen beim Start – Die leichte, tragbare Drohne ist sofort einsatzbereit, um hochwertige POV-Inhalte aufzunehmen. Die LightCut App bietet viele Vorlagen, mit denen die Erstellung von Inhalten kinderleicht ist.
 - Easy ACRO, fliege in kurzer Zeit wie ein Profi - Führe spektakuläre Flips, Rollen, 180° Drifts und Powerloops aus, ohne langes Training. Verbessere deine Flugfähigkeiten und fange unglaubliche Momente mühelos ein.
+- Integrierter Propellerschutz für mehr Sicherheit – super-stabil! Mit den integrierten Propellerschutzvorrichtungen ist die Drohne robuster und langlebiger, was dir in verschiedenen Szenarien mehr Freiheit beim Fliegen ermöglicht.
+- Für ein immersives Flugerlebnis mit Adrenalinschub – Durch die Brille erhältst du ein visuelles Feedback, als wärst du direkt im Cockpit, und genießt eine atemberaubende Perspektive, puren Nervenkitzel und totale Freiheit.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CS6KY96F{{</world>}}

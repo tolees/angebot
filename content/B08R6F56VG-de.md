@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Gewebe-Art: 82 Prozent Baumwolle; 18 Prozent Polyester
-- Ripp an Bündchen und Saum
-- Normale Passform
-- Kängurutasche
 - Packung die Größe: 9.2 L x 28.8 H x 19.5 W (cm)
+- Normale Passform
+- Ripp an Bündchen und Saum
+- Kängurutasche
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08R6F56VG{{</world>}}

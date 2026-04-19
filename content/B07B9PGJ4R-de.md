@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- HeelHeight: 2, 00 cm
 - Water Resistant
+- Principal Material: Nappa, Lining Material: Natural Fur/Real Fur Sole Material: TR InnerSole RemovableInsert: No
 - Made in Spain
 - Panama Jack Men, Castaño / Chestnut Wüste Boots
-- Principal Material: Nappa, Lining Material: Natural Fur/Real Fur Sole Material: TR InnerSole RemovableInsert: No
-- HeelHeight: 2, 00 cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07B9PGJ4R{{</world>}}

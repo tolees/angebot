@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Zwischensohle aus Gummi
 - Recyceltes Obermaterial
 - Gummilaufsohle
-- Zwischensohle aus Gummi
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09L5K1PNJ{{</world>}}

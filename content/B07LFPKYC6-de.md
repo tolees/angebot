@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für den Rasen im Wembley-Look: Der Gartenroboter von WORX ist der Gartenhelfer für Flächen bis 2000 qm und sorgt stets für einen schönen, gepflegten Rasen - da werden selbst die Nachbarn neidisch
 - Lieferumfang: 1 x WORX WR155E Landroid Rasenroboter, 9 x Messer und Schrauben, 1 x 20V Li-Ionen Akku, 1 x Ladestation inkl. Netzteil und Befestigungsnägeln, 1 x 250 m Begrenzungsdraht inkl. 340 Heringe
-- Mit einer Akkulaufzeit von 120 Minuten wird die Rasenpflege schnell und effizient erledigt / Als Teil der Powershare Serie kann der 20V Akku mit anderen Worx-Geräteakkus ausgetauscht werden
+- Für den Rasen im Wembley-Look: Der Gartenroboter von WORX ist der Gartenhelfer für Flächen bis 2000 qm und sorgt stets für einen schönen, gepflegten Rasen - da werden selbst die Nachbarn neidisch
 - Geht bis an seine Grenzen: Der Mäher lässt keinen Grashalm stehen und erspart lästige Nacharbeiten - dank der Cut to Edge Funktion wird das Gras auch bis zum äußersten Rand des Gartens gekürzt
 - Nützliche Technik ersetzt das lästige Rasenmähen - der Rasenmäherroboter bezwingt Steigungen von bis zu 35 Prozent sowie Ecken und Kanten mühelos und leise - einfach mit dem WLAN verbinden und per App steuern
+- Mit einer Akkulaufzeit von 120 Minuten wird die Rasenpflege schnell und effizient erledigt / Als Teil der Powershare Serie kann der 20V Akku mit anderen Worx-Geräteakkus ausgetauscht werden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07LFPKYC6{{</world>}}

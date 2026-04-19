@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mechanische HyperX Switches*, Gaming-Mode, 100% Anti-Ghosting und N-Key Rollover-Funktionen
-- Überwältigende RGB-Beleuchtung mit dynamischen Effekten
-- Ultrakompaktes TKL-Design (tenkeyless) mit abnehmbarem USB-C-Kabel
 - Vollaluminiumgehäuse in Flugzeugqualität, Drei einstellbare Tastaturwinkel
+- Mechanische HyperX Switches*, Gaming-Mode, 100% Anti-Ghosting und N-Key Rollover-Funktionen
+- Ultrakompaktes TKL-Design (tenkeyless) mit abnehmbarem USB-C-Kabel
+- Überwältigende RGB-Beleuchtung mit dynamischen Effekten
 - Erweiterte Personalisierung mit der HyperX NGENUITY Software, Interner Speicher für drei Profile
 
 [🛒 Hier!!]({{< param buyurl >}})

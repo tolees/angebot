@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- AIO‑Wasserkühlung bis 360 mm (oder 280 mm) auf der rechten Seite möglich – dank entnehmbarer Lüfter/Radiator‑Halterung besonders einfach zu installieren.
 - GPU‑Clearance bis ca. 360 mm – genug Raum für moderne Gaming‑Grafikkarten, saubere Kabelführung und starke Performance im Mini‑Format.
 - Optional erweiterbar: kompatibel mit separatem 3,9" LCD Screen Kit und Stand‑Kit (je nach Variante/Verfügbarkeit) – für extra individuelles Modding.
-- Leise & leistungsstark kühlbar: inklusive 2x 120 mm CT‑Lüfter; zusätzlich Platz für weitere Lüfter (bis zu 8x 120 mm möglich je nach Setup) – hoher Airflow bei niedriger Drehzahl.
 - Mini‑ITX Vertical‑Showcase mit ikonischem Tower‑Design und Tempered‑Glass‑Look – setzt deine Komponenten und ARGB‑Beleuchtung perfekt in Szene.
+- Leise & leistungsstark kühlbar: inklusive 2x 120 mm CT‑Lüfter; zusätzlich Platz für weitere Lüfter (bis zu 8x 120 mm möglich je nach Setup) – hoher Airflow bei niedriger Drehzahl.
+- AIO‑Wasserkühlung bis 360 mm (oder 280 mm) auf der rechten Seite möglich – dank entnehmbarer Lüfter/Radiator‑Halterung besonders einfach zu installieren.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DQ45DZFP{{</world>}}

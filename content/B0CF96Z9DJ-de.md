@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Schritt-für-Schritt-Anleitung: 2D-Code aus der Schachtel scannen es kommt mit detaillierten und einfachen Anweisungen, die Sie Schritt für Schritt durch die Montage der Leuchten führen.
 - KundendienstWenn Sie Probleme oder Schwierigkeiten mit dem Produkt haben, zögern Sie bitte nicht, uns zu kontaktieren. Wir werden immer für Sie da sein.
-- Coole Geschenkauswahl: Dieses Beleuchtungsset würde Ihr Lego-Set zum Leuchten bringen und es zu einem großartigen Geburtstagsgeschenk, Weihnachtsgeschenk für Kinder oder jeden Modellbau-Enthusiasten machen.
 - Großartige Ergänzung zu Ihrem Lego-Set: Dieser LED Licht Bausatz ist speziell für das Lego 42161 Technic Lamborghini Huracán Tecnica Bauklötze Modell entworfen.
+- Coole Geschenkauswahl: Dieses Beleuchtungsset würde Ihr Lego-Set zum Leuchten bringen und es zu einem großartigen Geburtstagsgeschenk, Weihnachtsgeschenk für Kinder oder jeden Modellbau-Enthusiasten machen.
 - NUR LED-Lichtset: Bitte beachten Sie, dass nur das Lichtset geliefert wird. Alle in Bildern und Videos gezeigten LEGO-Sets sind nicht enthalten.
 
 [🛒 Hier!!]({{< param buyurl >}})

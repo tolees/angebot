@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stabiler und hochwertiger Kinderwagen mit wendbarer Sitzeinheit und verstellbarem Schiebegriff, Ab der Geburt bis 22 kg (ca. 4 Jahre), Kompatibel mit allen Cybex-Babyschalen
-- UPF50+ XXL Sonnenverdeck mit integriertem Netzfenster, Erhältliches Zubehör: Babyschalen-Adapter, Regenverdeck, Snøgga 2 Fußsack, Getränkehalter etc.
+- Lieferumfang: 1 EOS 2-in-1 Kinderwagen, Maße (LxBxH): 85-95 x 60 x 112,5 cm (Faltmaß: 68 x 52 x 42 cm), Gewicht: 10,3 kg, Farbe: Moon Black (Schwarz)
 - Leichtgängig durch große, robuste All-Terrain-Räder mit Vorderradfederung, Einfacher Umbau von einer Babywanne zu einer Sitzeinheit mit Liegeposition
 - Einhändig verstellbare Rückenlehne vollständig zurückklappbar für eine bequeme und ergonomische Position, Geräumiger Einkaufskorb für bis zu 5 kg
-- Lieferumfang: 1 EOS 2-in-1 Kinderwagen, Maße (LxBxH): 85-95 x 60 x 112,5 cm (Faltmaß: 68 x 52 x 42 cm), Gewicht: 10,3 kg, Farbe: Moon Black (Schwarz)
+- Stabiler und hochwertiger Kinderwagen mit wendbarer Sitzeinheit und verstellbarem Schiebegriff, Ab der Geburt bis 22 kg (ca. 4 Jahre), Kompatibel mit allen Cybex-Babyschalen
+- UPF50+ XXL Sonnenverdeck mit integriertem Netzfenster, Erhältliches Zubehör: Babyschalen-Adapter, Regenverdeck, Snøgga 2 Fußsack, Getränkehalter etc.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CHB7X3HZ{{</world>}}

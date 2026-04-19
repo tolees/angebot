@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus offenporigem Mesh
 - Obermaterial aus mindestens 50 % recycelten Materialien
+- Obermaterial aus offenporigem Mesh
+- Adiwear Außensohle
+- 1 Nummer größer kaufen
 - Textilfutter
 - EVA-Zwischensohle
 - Gepolsterter Schaft
-- Adiwear Außensohle
-- 1 Nummer größer kaufen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BZ8CB4C4{{</world>}}

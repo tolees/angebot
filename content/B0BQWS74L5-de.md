@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 62 % Baumwolle / 36 % recycelter Polyester / 1 % Elastan / 1 % recyceltes Nylon
 - Wadenlang
-- Gebondete Zehennähte
 - Fußgewölbeunterstützung
+- Gebondete Zehennähte
+- 62 % Baumwolle / 36 % recycelter Polyester / 1 % Elastan / 1 % recyceltes Nylon
 - Sechs Paar pro Packung
 
 [🛒 Hier!!]({{< param buyurl >}})

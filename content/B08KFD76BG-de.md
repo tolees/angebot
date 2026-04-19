@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mittlere Taille
 - Materialzusammensetzung: 98% Baumwolle, 2% Elasthan
-- Slim Fit
 - Chino Hose
+- Mittlere Taille
+- Slim Fit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08KFD76BG{{</world>}}

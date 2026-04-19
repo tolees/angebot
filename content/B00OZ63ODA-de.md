@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Clean Beauty: Vegane und umweltfreundliche Kosmetik, ohne Farbstoffe, ohne Paraffine, ohne Konservierungsstoffe, ohne Tierversuche
-- Der AHA/BHA Peeling Toner hilft dabei, die verstopften Poren zu reinigen, Unreinheiten und Pickel zu vorbeugen.
+- COSRX-Standards: Alle COSRX-Produkte sind aus hautfreundlichen Inhaltsstoffen zubereitet, die Hautreizungen mildern. Hypoallergen, dermatologisch getestet, ohne Parabene, ohne Alkohol, ohne Sulfate, ohne Phthalate.
 - Ein sanfter Peeling-Toner mit AHA, BHA und hochwertige botanische Extrakte verbessert Hauttextur und Haut-Vitalität.
 - Einfach zu verwenden: Nach der Reinigung den Spray-Toner direkt auf das Gesicht sprühen oder mit dem getränketen Wattepad abwischen.
-- COSRX-Standards: Alle COSRX-Produkte sind aus hautfreundlichen Inhaltsstoffen zubereitet, die Hautreizungen mildern. Hypoallergen, dermatologisch getestet, ohne Parabene, ohne Alkohol, ohne Sulfate, ohne Phthalate.
+- Der AHA/BHA Peeling Toner hilft dabei, die verstopften Poren zu reinigen, Unreinheiten und Pickel zu vorbeugen.
+- Clean Beauty: Vegane und umweltfreundliche Kosmetik, ohne Farbstoffe, ohne Paraffine, ohne Konservierungsstoffe, ohne Tierversuche
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00OZ63ODA{{</world>}}

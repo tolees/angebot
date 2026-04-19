@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 【Hinweis】 Bei HDMI-Verbindungen muss der Monitor zuerst mit Strom versorgt werden. Verwenden Sie dann das HDMI-zu-Mini-HDMI-Kabel sowie das USB-A- (Laptop) zu USB-C- (Stromversorgung/Touch)-Kabel, um die Touch-Funktion auf W-indows-Geräten zu aktivieren.
-- 【Lebendige Bilder mit Augenschutz】 Der 15,6-Zoll IPS FHD-HDMI-Monitor (1920×1080) bietet einen Kontrast von 1500:1, 350 cd/m² Helligkeit und HDR für kristallklare Gaming- und Multimedia-Erlebnisse. Blaulichtfilter und Eye-Care-Technologie reduzieren Ermüdung bei längerem Gebrauch.
-- 【Plug-and-Play & Multi-Geräte-Kompatibilität】 Dual USB-C, Mini-HDMI und OTG ermöglichen einfache Verbindungen mit Laptops, Smartphones, Konsolen und Tastaturen – keine Treiber erforderlich. Unterstützt Duplizieren/Erweitern/Sekundärbildschirm-Modi sowie Hoch- und Querformat-Ausrichtung.
 - 【Ultraportables Design & flexible Nutzung】 Nur 0,39 Zoll dünn, 1,54 Pfund leicht und mit schmalen 0,25-Zoll Rändern – perfekt für unterwegs. VESA-Wandmontage möglich, zur platzsparenden Aufstellung an Ständern oder Wänden für ein aufgeräumtes Arbeitsumfeld. Das mitgelieferte Lederetui dient sowohl als Schutz als auch als verstellbarer Ständer für individuelle Betrachtungswinkel.
 - 【10-Punkt-Touchscreen-Erlebnis】 Mit kapazitiver 10-Punkt-Touch-Technologie für präzise und hochreaktive Steuerung – ideal für nahtloses Wischen, Zoomen und Multitasking. Intuitive Touch-Gesten steigern die Arbeitseffizienz. Hinweis: Nicht kompatibel mit m-acOS/i-OS/L-inux.
+- 【Lebendige Bilder mit Augenschutz】 Der 15,6-Zoll IPS FHD-HDMI-Monitor (1920×1080) bietet einen Kontrast von 1500:1, 350 cd/m² Helligkeit und HDR für kristallklare Gaming- und Multimedia-Erlebnisse. Blaulichtfilter und Eye-Care-Technologie reduzieren Ermüdung bei längerem Gebrauch.
+- 【Plug-and-Play & Multi-Geräte-Kompatibilität】 Dual USB-C, Mini-HDMI und OTG ermöglichen einfache Verbindungen mit Laptops, Smartphones, Konsolen und Tastaturen – keine Treiber erforderlich. Unterstützt Duplizieren/Erweitern/Sekundärbildschirm-Modi sowie Hoch- und Querformat-Ausrichtung.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FHQ4KQN6{{</world>}}

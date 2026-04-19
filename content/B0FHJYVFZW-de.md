@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ultra-Lange Steuerreichweite: Mit einer beeindruckenden Steuerdistanz von 2.650 Fuß (ca. 800 m) übertrifft es bei Weitem andere Drohnen, die nur 250 Fuß Reichweite bieten. Diese große Reichweite ermöglicht freies und ungebundenes Fliegen am Himmel.
 - Alle Funktionen: A77 ist extrem benutzerfreundlich, das kommt mit One Key Start/Landing, Optical Flow Positioning, Höhe Halten, Automatisches Folgen, 3D Flips, Headless Mode, Geschwindigkeitsanpassung, Gesten Selfie und Waypoints Flying Funktionen, passt sich an alle Erfahrungsstufen auch für Anfänger.
 - 4K HD Einstellbare Kamera: Ausgestattet mit einer 4K HD Kamera, die mit Ihrer Fernbedienung oder der App innerhalb von 90° eingestellt werden kann, bietet Ihnen das 108°Weitwinkelobjektiv ein aufregendes Erlebnis der Luftkulisse und hilft Ihnen, jeden wunderbaren Moment aus der Vogelperspektive einzufangen.
 - Starke bürstenlose Motoren und verbesserte Batterien: Die langlebigen Legierungsbürstenlosen Motoren verfügen über starke Windbeständigkeit und bieten einen schnelleren, leiseren und leistungsstärkeren Flug. Ausgestattet mit drei verbesserten Batterien kann es eine Flugzeit von bis zu 84 Minuten bieten und lässt Ihre Drohne frei am Himmel reisen.
+- Ultra-Lange Steuerreichweite: Mit einer beeindruckenden Steuerdistanz von 2.650 Fuß (ca. 800 m) übertrifft es bei Weitem andere Drohnen, die nur 250 Fuß Reichweite bieten. Diese große Reichweite ermöglicht freies und ungebundenes Fliegen am Himmel.
 - Bestellen Sie mit Vertrauen: Diese Drohne wiegt weniger als 249 g. Das kompakte, faltbare Design und die tragbare Tragetasche ermöglichen es Ihnen, die Drohne problemlos überallhin mitzunehmen. Eine einjährige Garantie und eine dauerhafte Support-Garantie sorgen dafür, dass Sie mit Vertrauen kaufen können.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

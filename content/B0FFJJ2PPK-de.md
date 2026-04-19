@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - PREMIUM DESIGN UND BEWEGLICHKEIT: Star Wars Fans können diese Figur (Skala 15 cm) in ihren eigenen Sammlungen ausstellen. Sie kommt im Premium-Look mit einer filmgetreuen Formgebung und beeindruckt mit mehreren Bewegungspunkten
-- STAR WARS: ANGRIFF DER KLONKRIEGER: Die Jango Fett Figur ist von Episode II der klassischen Prequel-Serie inspiriert und eignet sich perfekt als Geschenk für Sammler und Fans ab 4 Jahren
-- ACCESSOIRES ZUM FILM: Die Figur bringt einen abnehmbaren Helm und ein Jetpack sowie 2 Blaster als Accessoires mit
 - EIN LEGENDÄRER KOPFGELDJÄGER: Jango Fett war ein geübter Schütze und unbewaffneter Kämpfer. In den letzten Jahren der Republik galt Jango als bester Kopfgeldjäger in der Galaxis
 - FENSTERSCHACHTEL-VERPACKUNG: Die Fensterschachtel mit elegantem Charakterdesign ist perfekt, um Star Wars Fandom im eigenen Regal zu zeigen
+- STAR WARS: ANGRIFF DER KLONKRIEGER: Die Jango Fett Figur ist von Episode II der klassischen Prequel-Serie inspiriert und eignet sich perfekt als Geschenk für Sammler und Fans ab 4 Jahren
+- ACCESSOIRES ZUM FILM: Die Figur bringt einen abnehmbaren Helm und ein Jetpack sowie 2 Blaster als Accessoires mit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FFJJ2PPK{{</world>}}

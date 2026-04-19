@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses Bauspielzeug eignet sich perfekt für Kinder ab 8Jahren, regt die Fantasie an und trainiert ihre Problemlösungskompetenz.
-- Großes Hot Wheels Bone Shaker-Rennauto im Maßstab 1:18 mit authentischen Designelementen und einzigartigen Details speziell für Sammler
 - Diese Special Edition enthält ein Original-Diecast-Modell mit Display-Ständer
-- Besondere Details sind die beweglichen Räder, ein Fahrersitz, Türen und Heckklappe, die sich öffnen lassen, das legendäre Bone Shaker-Totenkopf-Logo sowie Fahrgestell und Motor in Chromfarbe
 - Die 904 Bausteine und Teile sind mit allen Bausets von Mega Construx und anderen Marken kompatibel
+- Besondere Details sind die beweglichen Räder, ein Fahrersitz, Türen und Heckklappe, die sich öffnen lassen, das legendäre Bone Shaker-Totenkopf-Logo sowie Fahrgestell und Motor in Chromfarbe
+- Großes Hot Wheels Bone Shaker-Rennauto im Maßstab 1:18 mit authentischen Designelementen und einzigartigen Details speziell für Sammler
+- Dieses Bauspielzeug eignet sich perfekt für Kinder ab 8Jahren, regt die Fantasie an und trainiert ihre Problemlösungskompetenz.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08WKH1QPC{{</world>}}

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Steckerleiste mit beleuchtetem Sicherheitsschalter zum Ein- und Ausschalten (zweipolig)
-- Schützt wertvolle Geräte vor Überspannungen mit einem max. Ableitstrom bis zu 60.000 A (Schutz bei Gewitter, Blitzschlag, etc.)
-- Mehrfachsteckdose mit intelligentem, auswechselbarem Modul-Bausystem
 - 8er Schutzkontakt-Steckdosenleiste Schutz vor Überspannung und mit 3m Kabellänge H05VV-F 3G1,5
-- Mehrfachsteckdosenleisten mit Überspannungsschutz können Spannungsspitzen reduzieren, sodass die angeschlossenen Geräte nicht beschädigt werden
+- Steckerleiste mit beleuchtetem Sicherheitsschalter zum Ein- und Ausschalten (zweipolig)
 - Die Steckdosenleisten mit zweipoligem Schalter bieten den Vorteil, dass der Stromkreislauf vollständig unterbrochen und auf den Standby-Modus verzichtet wird
+- Schützt wertvolle Geräte vor Überspannungen mit einem max. Ableitstrom bis zu 60.000 A (Schutz bei Gewitter, Blitzschlag, etc.)
+- Mehrfachsteckdosenleisten mit Überspannungsschutz können Spannungsspitzen reduzieren, sodass die angeschlossenen Geräte nicht beschädigt werden
+- Mehrfachsteckdose mit intelligentem, auswechselbarem Modul-Bausystem
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09S6PJMC9{{</world>}}

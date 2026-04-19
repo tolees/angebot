@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wohltuender & erfrischender Duft – Das Haarpflege Shampoo mit ausgeglichenem pH-Wert hinterlässt einen besonders erfrischenden & wohltuenden Rosmarin & Minze Duft, der an einen erholsamen Wellnesstag erinnert
-- Für gesünderes Haar nach nur einer Haarwäsche* – Das erfrischende & klärende Shampoo ohne sulfathaltige Tenside pflegt Kopfhaut & Haar und verleiht gesünderes Haar nach nur einer Haarwäsche* (*vs. einem nicht-pflegendem Shampoo)
 - Lieferumfang – 1 x 385ml OGX Rosemary Mint Shampoo, erfrischendes Haarshampoo mit LipiPro Shield Technologie für 2x mehr Lipid- & Proteinschutz* (*vs. einem nicht-pflegendem Shampoo, bei kontinuierlicher Anwendung)
-- Erfrischendes Shampoo für alle Haartypen – Das OGX Rosemary Mint Shampoo reinigt & erfrischt die Kopfhaut, entfernt sanft überschüssige Öle & Ablagerungen und ist für alle Haartypen geeignet, insbesondere für fettiges Haar und Kopfhaut.
 - 2x mehr Lipid- & Proteinschutz* – Das klärende Haarshampoo schützt die Strähnen dank neuer & patentierter LipiPro Shield Technologie und spendet 2x mehr Lipid- & Proteinschutz* (*vs. einem nicht-pflegendem Shampoo, bei kontinuierlicher Anwendung)
+- Wohltuender & erfrischender Duft – Das Haarpflege Shampoo mit ausgeglichenem pH-Wert hinterlässt einen besonders erfrischenden & wohltuenden Rosmarin & Minze Duft, der an einen erholsamen Wellnesstag erinnert
+- Erfrischendes Shampoo für alle Haartypen – Das OGX Rosemary Mint Shampoo reinigt & erfrischt die Kopfhaut, entfernt sanft überschüssige Öle & Ablagerungen und ist für alle Haartypen geeignet, insbesondere für fettiges Haar und Kopfhaut.
+- Für gesünderes Haar nach nur einer Haarwäsche* – Das erfrischende & klärende Shampoo ohne sulfathaltige Tenside pflegt Kopfhaut & Haar und verleiht gesünderes Haar nach nur einer Haarwäsche* (*vs. einem nicht-pflegendem Shampoo)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DLWMRY1D{{</world>}}

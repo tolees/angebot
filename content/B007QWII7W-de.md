@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Xbox Live Gold ist jetzt Xbox Game Pass Core
 - Spiel mit anderen über den Online-Konsolen-Multiplayer und finde schnell Mitspieler innen – egal ob aus dem Freundeskreis, der Familie oder der Xbox-Community
-- Profitiere bei den Game Pass-Werbeaktionen von Deals und Rabatten für Mitglieder von bis zu 50prozent auf ausgewählte Spiele
+- Xbox Live Gold ist jetzt Xbox Game Pass Core
 - Holen Sie ein Upgrade auf Game Pass Ultimate und spiele neue Spiele direkt ab Release. Außerdem konnen Sie Hunderte großartige Spiele mit deinen Freundinnen auf Konsole, PC und in der Cloud genießen
 - Xbox Game Pass Core vereint die Vorteile des Online-Konsolen-Multiplayers von Xbox Live Gold mit dem Zugriff auf eine Bibliothek von mehr als 25 großartigen Konsolenspielen, die Sie auf ihrer Xbox Series X|S- oder Xbox One-Konsole spielen konnen - und das alles zum gleichen günstigen Preis wie Xbox Live Gold
+- Profitiere bei den Game Pass-Werbeaktionen von Deals und Rabatten für Mitglieder von bis zu 50prozent auf ausgewählte Spiele
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B007QWII7W{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reparaturflicken im Lieferumfang enthalten
-- Babybecken
 - Abmessungen: 61x22 cm
-- Fassungsvermögen bei der empfohlenen Füllhöhe von 14 cm: 28 L
 - Struktur mit drei aufblasbaren Ringen aus 0,20 mm dickem Vinyl, mit mehrfarbigem Aufdruck
+- Fassungsvermögen bei der empfohlenen Füllhöhe von 14 cm: 28 L
+- Babybecken
+- Reparaturflicken im Lieferumfang enthalten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01NBM0J6Y{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Sie ist auswechselbar und hat eine blaue dokumentenechte Tinte
 - Im Set sind zwei Kugelschreiber Poly Ball mit einer rutschfesten Soft Touch Oberfläche enthalten
+- Durch die ergonomische Dreieckform wird auch Vielschreibern ein ermüdungsfreies Schreiben ermöglicht
 - Die extra breite XB Mine verfügt über die Strichstärke 0.5 mm
 - Der Schaft und der Clip des Druckkugelschreibers bestehen aus 100% recyceltem Kunststoff
-- Durch die ergonomische Dreieckform wird auch Vielschreibern ein ermüdungsfreies Schreiben ermöglicht
-- Sie ist auswechselbar und hat eine blaue dokumentenechte Tinte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CG9TJS92{{</world>}}

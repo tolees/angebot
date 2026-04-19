@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- My Hero Academia folgt der Geschichte von Izuku Midoriya, auch bekannt als Deku, einem durchschnittlichen Mittelschulschüler in einer Welt, in der Menschen mit Superkräften bekannt als "Quirks" die Norm sind.
-- 21.99
-- Fantastische Action-Vinyl: Aus dem Hit My Hero Academia kommen alle Ihre Lieblings-Charaktere als stilisierte Pop! Vinyl-Figuren von Funko!
 - Pop! Mit Ibara Shiozaki, aka Vine, deren Macke es ihr ermöglicht, ihr rankenartiges Haar zu kontrollieren und es nach Belieben zu bewegen, zu verlängern und zu lösen, wenn sie Feinde angreifen.
+- My Hero Academia folgt der Geschichte von Izuku Midoriya, auch bekannt als Deku, einem durchschnittlichen Mittelschulschüler in einer Welt, in der Menschen mit Superkräften bekannt als "Quirks" die Norm sind.
+- Fantastische Action-Vinyl: Aus dem Hit My Hero Academia kommen alle Ihre Lieblings-Charaktere als stilisierte Pop! Vinyl-Figuren von Funko!
+- 21.99
 - 889699000000
 
 [🛒 Hier!!]({{< param buyurl >}})

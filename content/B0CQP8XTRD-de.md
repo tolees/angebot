@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Figur ca. 3 cm groß
 - Sandkasten mit Sandspielzubehör und Pool mit Schwimmreifen und Wasserball
+- Figur ca. 3 cm groß
 - Drillings Figur
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

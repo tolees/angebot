@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Optimiert für die Bedienung mit der rechten Hand: Die MW 4500 wurde speziell für Rechtshänder konzipiert und und sorgt dank abriebfester Oberflächenveredelung für ein angenehmes Handgefühl
-- Ergonomische Wireless Mouse mit 6 Tasten im 45° Design: Die Vertikalmaus fördert eine natürlichere Handhaltung und entlastet das Handgelenk - für ermüdungsfreies und entspanntes Arbeiten
-- Praktisch: Status-LED zeigt niedrigen Batteriestand an, 2 Daumentasten lassen sich mit der CHERRY KEYS Software individuell belegen - zum Beispiel mit Copy und Paste
-- Kabellose 2,4 GHz Funktechnologie: Einfache Verbindung über Plug & Play mit Nano-USB-Empfänger. Beim Transport lässt sich der Dongle sicher im Boden der Maus verstauen
 - Präziser Sensor mit 3-stufig-regelbarer Auflösung (600/900/1200 dpi): Wechseln Sie per Knopfdruck hin und her und stellen Sie die vertikale Maus ideal auf Ihre Bedürfnisse im Alltag ein
+- Ergonomische Wireless Mouse mit 6 Tasten im 45° Design: Die Vertikalmaus fördert eine natürlichere Handhaltung und entlastet das Handgelenk - für ermüdungsfreies und entspanntes Arbeiten
+- Optimiert für die Bedienung mit der rechten Hand: Die MW 4500 wurde speziell für Rechtshänder konzipiert und und sorgt dank abriebfester Oberflächenveredelung für ein angenehmes Handgefühl
+- Kabellose 2,4 GHz Funktechnologie: Einfache Verbindung über Plug & Play mit Nano-USB-Empfänger. Beim Transport lässt sich der Dongle sicher im Boden der Maus verstauen
+- Praktisch: Status-LED zeigt niedrigen Batteriestand an, 2 Daumentasten lassen sich mit der CHERRY KEYS Software individuell belegen - zum Beispiel mit Copy und Paste
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0788C2VQQ{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Weiches Futter aus Stoff
 - S-Logo an der Seite
+- Weiches Futter aus Stoff
 - Gepolsterte, komfortable Memory Foam Innensohle
 - Leichte, flexible und stoßdämpfende Laufsohle
 

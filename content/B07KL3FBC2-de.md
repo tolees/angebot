@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Atmungsaktiv
 - Komfort
+- Atmungsaktiv
 - Bewegungsfreiheit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

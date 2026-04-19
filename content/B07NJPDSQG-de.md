@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Maschinenwaschbar.
 - Memoryschaum-Fußbett.
+- Maschinenwaschbar.
 - Vegan.
 
 [🛒 Hier!!]({{< param buyurl >}})

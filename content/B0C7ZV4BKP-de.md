@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Palm Rejection: Mit diesem Eingabestift kannst du deine Hand auf den Bildschirm legen, als würdest du auf einem Notizblock schreiben. Die Palm-Rejection-Funktion erkennt deine Handfläche und verhindert unerwünschte Berührungen – für ein problemloses Schreiben
-- Verpackungsinhalt: 1 Stift, 3 Ersatzspitzen, 1 Type-C-Ladekabel und 1 Benutzerhandbuch. Es sind drei zusätzliche Spitzen enthalten, die den kostenintensiven Nutzern von Hochfrequenzspitzen erheblich Kosten sparen
-- Neigungssensitivität und natürliches Zeichnen: Dank der Neigungsfunktion lässt sich der digitale Stiftwinkel für hochpräzise variable Strichstärken und Schattierungen verändern. Mit einer 1,5-mm-Spitze und verzögerungsfreiem Chip für ein originalgetreues Mal- und Schreiberlebnis
 - Schnellladung in nur 13 Minuten: Dank der Schnellladetechnik mit USB C ist der Stylus in nur 13 Minuten voll geladen und bietet bis zu 9 Stunden Laufzeit. Perfekt für unterwegs - ob auf Reisen, in der Schule, im Büro oder zu Hause - ohne lästiges Laden
+- Neigungssensitivität und natürliches Zeichnen: Dank der Neigungsfunktion lässt sich der digitale Stiftwinkel für hochpräzise variable Strichstärken und Schattierungen verändern. Mit einer 1,5-mm-Spitze und verzögerungsfreiem Chip für ein originalgetreues Mal- und Schreiberlebnis
+- Verpackungsinhalt: 1 Stift, 3 Ersatzspitzen, 1 Type-C-Ladekabel und 1 Benutzerhandbuch. Es sind drei zusätzliche Spitzen enthalten, die den kostenintensiven Nutzern von Hochfrequenzspitzen erheblich Kosten sparen
 - Finde den richtigen Stift für dein iPad: Kompatibel mit 13"/11" iPad Pro M4, 12.9" iPad Pro 3.-6. Generation, 13"/11" iPad Air M3/M2/3.-5. Generation, iPad A16/6.-10. Generation, iPad Mini A17 Pro/5.-6. Generation. Nicht kompatibel mit iPhones und Android-Geräten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- WILLKOMMEN IN DER STADT - Crescent Cove dient als expansive Kampfarena für einzigartige 3v7 Kämpfe zwischen Klowns und Menschen – sie bietet zahlreiche Orte und zahlreiche taktische Möglichkeiten für jedes Team.
-- ENTWICKELT DEN HORROR WEITER - Ein Genre mit einem einzigartigen Versteckspiel, Anpassungsoptionen, PvPvE und dynamischen Zielen, die jedes Spiel anders enden lassen. Dieses Spiel entwickelt die Formel des Online-Horrors auf neue Weise weiter."
-- SCHÜTZT DIE MENSCHHEIT - Wir lieben schrägen Horror. Deshalb basieren unsere menschlichen Charaktere auf klassischen Horror-Vorbildern: Teenager, Punks, Polizisten, Rednecks und Biker. Überlebt und entkommt als einer von sieben mutigen Bürgern von Crescent Cove – durchsucht die Stadt nach wertvoller Beute und Waffen, vermeidet es, von den Klowns geschnappt zu werden, und überlebt die Alien-Invasion.
 - "SCHICKT DIE KILLER KLOWNS LOS - Schlüpft in die Rolle der ikonischen Killer Klowns – arbeitet im Team aus drei Spielern zusammen, nutzt eure überirdischen Fähigkeiten, jagt Menschen mit verrückten Waffen und plant eure Alien-Invasion, um die Bevölkerung von Crescent Cove erfolgreich zu ernten.
+- SCHÜTZT DIE MENSCHHEIT - Wir lieben schrägen Horror. Deshalb basieren unsere menschlichen Charaktere auf klassischen Horror-Vorbildern: Teenager, Punks, Polizisten, Rednecks und Biker. Überlebt und entkommt als einer von sieben mutigen Bürgern von Crescent Cove – durchsucht die Stadt nach wertvoller Beute und Waffen, vermeidet es, von den Klowns geschnappt zu werden, und überlebt die Alien-Invasion.
+- ENTWICKELT DEN HORROR WEITER - Ein Genre mit einem einzigartigen Versteckspiel, Anpassungsoptionen, PvPvE und dynamischen Zielen, die jedes Spiel anders enden lassen. Dieses Spiel entwickelt die Formel des Online-Horrors auf neue Weise weiter."
+- WILLKOMMEN IN DER STADT - Crescent Cove dient als expansive Kampfarena für einzigartige 3v7 Kämpfe zwischen Klowns und Menschen – sie bietet zahlreiche Orte und zahlreiche taktische Möglichkeiten für jedes Team.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DD4FVDSX{{</world>}}

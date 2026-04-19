@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geeignet für Elektrotechnik, Industrie, Instandhaltung, Service (Fehlersuche), Photovoltaik-/ Windkraftanlagen und Hybrid-Fahrzeugtechnik
-- Spannungsmessbereich 1 V - 1000 V AC/ 1200 V DC / Spannungsanzeige ab 50 V auch bei leeren Batterien
 - Geprüft und zugelassen nach DIN EN 61243-3, VDE 0682-401:2015
 - Prüfart 2-polig
+- Spannungsmessbereich 1 V - 1000 V AC/ 1200 V DC / Spannungsanzeige ab 50 V auch bei leeren Batterien
 - Im Lieferumfang ist ein Spannungsprüfer enthalten
+- Geeignet für Elektrotechnik, Industrie, Instandhaltung, Service (Fehlersuche), Photovoltaik-/ Windkraftanlagen und Hybrid-Fahrzeugtechnik
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B007TN55ZQ{{</world>}}

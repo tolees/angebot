@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gewicht: 301 g (Größe 42 2/3)
-- Cloudfoam Zwischensohle
 - Sprengung: 10 mm (Rückfußhöhe: 34 mm / Vorfußhöhe: 24 mm)
-- Wasserabweisendes Obermaterial aus Mesh mit reflektierenden Details
-- Schnürsenkel
-- Textilfutter
-- Seitendetails
 - Reguläre Passform
+- Textilfutter
+- Schnürsenkel
+- Wasserabweisendes Obermaterial aus Mesh mit reflektierenden Details
+- Cloudfoam Zwischensohle
 - Adiwear Außensohle
+- Gewicht: 301 g (Größe 42 2/3)
+- Seitendetails
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CZS4PJQY{{</world>}}

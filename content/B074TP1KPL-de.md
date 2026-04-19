@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Puzzlemaße: 69,30 x 49,30 cm
-- 1000 Puzzleteile
 - Empfohlenes Alter: ab 12 Jahren
 - SCHMIDT SPIELE Premium-Puzzles – mit Qualität, die Sie greifen können.
+- Puzzlemaße: 69,30 x 49,30 cm
+- 1000 Puzzleteile
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B074TP1KPL{{</world>}}

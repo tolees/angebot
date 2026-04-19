@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einzigartige Beleuchtung schafft eine ruhige Sternenhimmel-Atmosphäre: Mit 13 Lichtpunkten, die Innenräume in hellweißem und hellblauem Licht für einen Hightech-Effekt erstrahlen lassen. Vier besondere Lichteffekte – Milchstraßenprojektion, Sternendach, leuchtende Glaskugel und Kosmosdisplay – erhellen die Szenerie. Eine innovative Verkabelung sorgt für ein sauberes Aussehen und ein immersives Lichterlebnis.（Das Bild zeigt den Effekt in einer dunklen Umgebung）
 - Designinspiration: Das Design basiert auf dem Sphinx-Observatorium am Jungfraujoch und erschafft eine Schneesternwarte auf dem Gipfel der Klippe mit schneebedeckten Wänden und Wolkenhimmel für eine kalte und ruhige Atmosphäre, fern vom Stadtlärm, um stille Momente unter den Sternen zu genießen
+- Einzigartige Beleuchtung schafft eine ruhige Sternenhimmel-Atmosphäre: Mit 13 Lichtpunkten, die Innenräume in hellweißem und hellblauem Licht für einen Hightech-Effekt erstrahlen lassen. Vier besondere Lichteffekte – Milchstraßenprojektion, Sternendach, leuchtende Glaskugel und Kosmosdisplay – erhellen die Szenerie. Eine innovative Verkabelung sorgt für ein sauberes Aussehen und ein immersives Lichterlebnis.（Das Bild zeigt den Effekt in einer dunklen Umgebung）
+- [Wie man das Licht einschaltet] Mit USB-Anschluss oder Batteriepack betreiben (Batterien sind nicht im Set enthalten, benötigt: AA*3 & CR2032*2)
 - Perfekt als Geschenk, ideal zum Sammeln und Bauen: Hochwertiges Design, kompatibel mit anderen Bausteinen. Ob Geburtstag, Weihnachten oder besondere Anlässe – ein ideales Geschenk für Astronomie- und Bausteinfans, das sich zum Sammeln und Teilen eignet
 - Reichhaltige Details und Überraschungen: Die Architektur, Innenfunktionen und feinen Details sind vom echten Observatorium inspiriert, 51 bedruckte Teile stellen dies originalgetreu dar. Ein verstecktes Extra – die Goldene Schallplatte der Voyager 1 Sonde – wartet darauf, entdeckt zu werden
 - Hoher Spielwert für interaktive Erlebnisse: Die obere Sternwarte lässt sich um 360° drehen, das Teleskop ist ausziehbar und frei verstellbar. Die Hauptgebäudeschichten sind zu öffnen, das Batteriefach ist im Berg versteckt. Zwei Figuren – ein Bergsteiger und ein Hochlandbewohner – begleiten Ihr Abenteuer
-- [Wie man das Licht einschaltet] Mit USB-Anschluss oder Batteriepack betreiben (Batterien sind nicht im Set enthalten, benötigt: AA*3 & CR2032*2)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0FGV7MT37{{</world>}}

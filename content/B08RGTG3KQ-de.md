@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Dieses atemberaubende Bild von Thomas Kinkade fängt den liebenswerten Charme von Disneys Winnie the Pooh und all seinen Freunden ein, während sie mit Christopher Robin im magischen Hundert Hektar Wald spielen
-- Schmidt Sechs-Sterne-Puzzle in Premiumqualität mit 1.000 Teilen.
 - Eng anliegende, abwechslungsreiche, extra dicke und glattkantige Teile.
+- Schmidt Sechs-Sterne-Puzzle in Premiumqualität mit 1.000 Teilen.
 - Ein perfektes Geschenk für jeden Puzzler ab 12 Jahren.
 - Das fertige Puzzle misst ungefähr 693 mm x 493 mm.
 

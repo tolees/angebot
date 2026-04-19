@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gummiaußensohle
-- Obermaterial aus Leder
 - Eine Nummer größer kaufen
-- Cloudfoam Einlegesohle
+- Obermaterial aus Leder
 - Schnürsenkel
+- Cloudfoam Einlegesohle
+- Gummiaußensohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C5NW2WKH{{</world>}}

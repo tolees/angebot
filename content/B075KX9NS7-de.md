@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DIE MARKE: Melissa & Doug steht seit über 35 Jahren für liebevoll durchdachte, hochwertige und zeitlose Spielzeuge, die Kindern Fähigkeiten vermitteln, die sie stark für’s Leben machen. Es beginnt mit Melissa & Doug.; Dieses Produkt ist vom Forest Stewardship Council zertifiziert. Bitte beachten Sie, dass die FSC-Zertifizierung nur für Neuware gilt (FSC C156584).
 - SCHÖNE GESCHENKIDEE: Das Pizza-Set für Kinder ist ein hübsches Geschenk für kleine Pizza-Liebhaber von 3-6 Jahren - egal ob zum Geburtstag, zu Weihnachten oder zu Ostern
+- DIE MARKE: Melissa & Doug steht seit über 35 Jahren für liebevoll durchdachte, hochwertige und zeitlose Spielzeuge, die Kindern Fähigkeiten vermitteln, die sie stark für’s Leben machen. Es beginnt mit Melissa & Doug.; Dieses Produkt ist vom Forest Stewardship Council zertifiziert. Bitte beachten Sie, dass die FSC-Zertifizierung nur für Neuware gilt (FSC C156584).
 - STÄRKT FEINMOTORIK: Mit einer Vielzahl an Zutaten wie Käse, Gemüse und Wurst, die einfach auf die Pizza gelegt und „gebacken“ werden können – konzipiert für kleine Hände
 - FÖRDERT KREATIVITÄT: 41-teiliges Pizza-Spielset mit Theke – regt zum kreativen Rollenspiel an und lässt Kinder ihre eigenen Pizzen „zubereiten“ und servieren
 - ENTWICKELT SOZIALE FÄHIGKEITEN: Kinder können als Pizzabäcker agieren, Bestellungen aufnehmen und servieren – fördert Interaktion und Kommunikation im Spiel

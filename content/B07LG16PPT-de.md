@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Sohle: Synthetic
 - Obermaterial: Smooth Leather
 - Verschluss: Slip-on
 - Innenmaterial: Synthetic
-- Sohle: Synthetic
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07LG16PPT{{</world>}}

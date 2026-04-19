@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Betriebssicher und geräuscharm: Rückschlagventil garantiert eine störungsfreie Inbetriebnahme. Für einen geräusch- und vibrationsarmen Betrieb sorgen die Stellfüße
-- Übersicht durch Multi-Control LC-Display: Betriebs- und Sicherheitsanzeigen und Informationen zu evtl. Störungen und deren Abhilfe werden in 24 Sprachen angezeigt
-- Schutzmechanismus: Besteht Frostgefahr, lässt sich der Hauswasserautomat einfach mittels einer Wasser-Ablassschraube entleeren. Großvolumiger Feinfilter schützt vor Schmutz und Sand
 - Lieferumfang beinhaltet: 1x Gardena Comfort Hauswasserautomat 5000/5E LCD, Engineered in Germany
+- Übersicht durch Multi-Control LC-Display: Betriebs- und Sicherheitsanzeigen und Informationen zu evtl. Störungen und deren Abhilfe werden in 24 Sprachen angezeigt
+- Betriebssicher und geräuscharm: Rückschlagventil garantiert eine störungsfreie Inbetriebnahme. Für einen geräusch- und vibrationsarmen Betrieb sorgen die Stellfüße
+- Schutzmechanismus: Besteht Frostgefahr, lässt sich der Hauswasserautomat einfach mittels einer Wasser-Ablassschraube entleeren. Großvolumiger Feinfilter schützt vor Schmutz und Sand
 - Energiesparend: Intelligente Pumptechnik aktiviert die Pumpe bei Wasserbedarf und schaltet sie danach wieder ab. Alles vollautomatisch, energiesparend und komfortabel - auch bei kleinen Fördermengen
 
 [🛒 Hier!!]({{< param buyurl >}})

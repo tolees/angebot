@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatzform: Plateauabsatz
-- Nicht wasserfest
 - Schuhweite: Medium
+- Nicht wasserfest
+- Absatzform: Plateauabsatz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CKJBYSFN{{</world>}}

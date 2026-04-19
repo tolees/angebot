@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spüle links oder rechts einbaubar
 - Montageart: Standard-Einbauspüle
+- Spüle links oder rechts einbaubar
 - Material: Quartzkomposit
 - Lieferumfang: Kompositspüle, Pflegeanleitung; Zubehör beiliegend: Exzenterbedienung, Ablaufgarnitur, Siebkorbventil, Montageset
 

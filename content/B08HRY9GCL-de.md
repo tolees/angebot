@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Moderne LED Deckenlampe mit drei rechteckigen LED-Modulen in schwarz, gefertigt aus Metall-Kunststoff - Metall schwarz, inkl. Auflage aus Holz auf Baldachin
-- Bei diesem Produkt handelt es sich um ein umgebendes Produkt. Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können. Dieses Produkt enthält eine Lichtquelle der Energieeffizienzklasse E
+- Produktabmessungen: 1040x420x105mm
 - Dank zwei drehbarer LED Module können Sie das Licht individuell steuern - durch ihr edles Design, ist die LED Leuchte vielseitig einsetzbar, z.B. als Wohnzimmerlampe, Schlafzimmerlampe oder Esszimmerleuchte - zudem auch als Wandlampe verwendbar
 - Mit Hilfe der Dimmfunktion und der Farbwechselfunktion (2.700 Kelvin bis 5.000 Kelvin; warmweiß bis neutralweiß) können Sie die Lichtverhältnisse optimal auf Ihre Bedürfnisse anpassen und individuell steuern - zudem verfügt die Leuchte über eine Nachtlichtfunktion und einen Timer (die Deckenlampe wird nach ca. 1 Minute automatisch ausgeschaltet) - alle Funktionen können Sie mit der beiliegenden Fernbedienung bequem vom Sofa aus steuern
+- Moderne LED Deckenlampe mit drei rechteckigen LED-Modulen in schwarz, gefertigt aus Metall-Kunststoff - Metall schwarz, inkl. Auflage aus Holz auf Baldachin
 - Bei energiesparenden 47 Watt und einer Lichtleistung von insgesamt 6.600 Lumen (2x 2.500 Lumen & 1x 1.600Lumen) sorgt die moderne Lampe für eine angenehme Wohlfühlatmosphäre - die hohe durchschnittliche Lebensdauer liegt bei ca. 25.000 Stunden
-- Produktabmessungen: 1040x420x105mm
+- Bei diesem Produkt handelt es sich um ein umgebendes Produkt. Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können. Dieses Produkt enthält eine Lichtquelle der Energieeffizienzklasse E
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08HRY9GCL{{</world>}}

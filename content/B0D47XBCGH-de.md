@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zusatzinhalte: Die Quest „Ein Hundeleben“ (ab Veröffentlichung), die kommende Erweiterung „Die Klauen von Awaji“ (zu einem späteren Zeitpunkt), der Download-Code für die Zusatzinhalte befinden sich auf einem Flyer in der Spielverpackung
 - Schleiche als Naoe durch feindliche Linien, verwirre Gegner mit Beweglichkeit oder besiege sie als Yasuke mit tödlicher Präzision
+- Zusatzinhalte: Die Quest „Ein Hundeleben“ (ab Veröffentlichung), die kommende Erweiterung „Die Klauen von Awaji“ (zu einem späteren Zeitpunkt), der Download-Code für die Zusatzinhalte befinden sich auf einem Flyer in der Spielverpackung
+- Tauche ein in ein episches Action-Adventure im feudalen Japan: Werde eine tödliche Shinobi-Assassinin und ein mächtiger Samurai, während du eine offene Spielwelt in chaotischen Zeiten erkundest
 - Inhalte der Assassins Creed Shadows Limited Edition: Das Hauptspiel, das Charakterpaket „Sekiryuu“ mit exklusiven Ausrüstungs- und Waffensets, Sekiryuu-Bestie und Drachenzahn-Schmuckstück
 - Errichte ein anpassbares Versteck für deine Shinobi-Liga: Rekrutiere Kämpfer, stelle Ausrüstung her und gestalte Räume nach deinem Geschmack
-- Tauche ein in ein episches Action-Adventure im feudalen Japan: Werde eine tödliche Shinobi-Assassinin und ein mächtiger Samurai, während du eine offene Spielwelt in chaotischen Zeiten erkundest
 - Baue ein eigenes Spionagenetzwerk auf: Nutze Informationen, rekrutiere Verbündete mit einzigartigen Fähigkeiten und finde deine Ziele schneller
 
 [🛒 Hier!!]({{< param buyurl >}})

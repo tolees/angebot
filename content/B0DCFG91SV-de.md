@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1000mAh BATTERIE: Wireless Controller PC ist mit 1000mAh Batterie eingebaut. 2 Stunden Ladezeit können für 6-8 Stunden verwendet werden.
-- 2 IN 1 TIGGER: Per Schalter lässt sich zwischen Linear-Trigger und Micro-Action-Trigger wechseln. Linear-Trigger für Rennspiele，Micro-Action-Trigger für Schießspiele.
-- 2.4G & BLUETOOTH & SWITCH MODUS: 2.4G USB Empfänger für PC, Steam, Tesla. Bluetooth für Handy, Tablet. Hinweis: Wenn Sie die Verbindungsmethode ändern, brauchen Sie den entsprechenden Modus ändern.
 - RGB LICHT: EasySMX X20 Controller haben 3 RGB Modus. Sie können die RGB-Beleuchtung entsprechend der Spielumgebung anpassen.
+- 2 IN 1 TIGGER: Per Schalter lässt sich zwischen Linear-Trigger und Micro-Action-Trigger wechseln. Linear-Trigger für Rennspiele，Micro-Action-Trigger für Schießspiele.
+- 1000mAh BATTERIE: Wireless Controller PC ist mit 1000mAh Batterie eingebaut. 2 Stunden Ladezeit können für 6-8 Stunden verwendet werden.
 - ZWANGSVERBINDUNG: 1. Drücken Sie die Taste am USB-Empfänger. Es blinkt schnell. 2. Wenn der Controller ausgeschaltet ist, halten Sie die Home-Taste 5 Sekunden lang gedrückt. Der Controller blinkt schnell und schaltet sich dann dauerhaft ein.
+- 2.4G & BLUETOOTH & SWITCH MODUS: 2.4G USB Empfänger für PC, Steam, Tesla. Bluetooth für Handy, Tablet. Hinweis: Wenn Sie die Verbindungsmethode ändern, brauchen Sie den entsprechenden Modus ändern.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DCFG91SV{{</world>}}

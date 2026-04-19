@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Etikett: Leonine Sony Music
 - Marke: Leonina
 - Das Interessengebiet Bd
-- Etikett: Leonine Sony Music
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CVSLDK4C{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- WASSERABWEISEND: Diese Jacke aus 100 % recyceltem Polyester überzeugt durch ihre wasserabweisende Oberfläche und ihre nachhaltige Qualität. Sie ist mit einer Wattierung aus Unifi REPREVE ausgestattet und kann schonend bei 30 °C gewaschen werden.
 - MARC OߴPOLO: Die internationale Marke mit skandinavischen Wurzeln steht für Premium-Mode, die Individualität und Authentizität vereint. Natürliche Materialien und zeitlose Designs geben die Freiheit, den eigenen Stil zu leben – the freedom to be yourself.
+- WASSERABWEISEND: Diese Jacke aus 100 % recyceltem Polyester überzeugt durch ihre wasserabweisende Oberfläche und ihre nachhaltige Qualität. Sie ist mit einer Wattierung aus Unifi REPREVE ausgestattet und kann schonend bei 30 °C gewaschen werden.
 - ALLROUND-TALENT: Ob lässig zu Jeans und Sneakern oder stilvoll zu Chino und Boots – diese Jacke ist ein echtes Allround-Talent für jeden Tag. Perfekt für Casual Chic und elegante Outfits.
 - PRAKTISCHER STEHKRAGEN: Die Steppjacke vereint klassischen Stil mit hohem Komfort. Der praktische Stehkragen und der Zwei-Wege-Reißverschluss verleihen der Jacke einen zeitlosen Look.
 - REGULAR FIT: Die elastischen Bündchen an Saum und Armabschlüssen sorgen für einen optimalen Sitz. Die Regular Fit Jacke sitzt angenehm locker, ist gerade geschnitten und bietet ideale Bewegungsfreiheit.

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Fersenhalt
 - Kombination aus Synthetik und Stoff
 - Mesh-Details vermitteln ein Gefühl von Leichtigkeit
-- Fersenhalt
 - Elastischer Innenärmel und sockenähnliche Konstruktion
 
 [🛒 Hier!!]({{< param buyurl >}})

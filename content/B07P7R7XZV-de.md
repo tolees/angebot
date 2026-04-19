@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatzform: Flach
 - Innenmaterial: Synthetik
-- Obermaterial: Patent Leather
 - Verschluss: Gummi
+- Absatzform: Flach
+- Obermaterial: Patent Leather
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07P7R7XZV{{</world>}}

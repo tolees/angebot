@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - NACHHALTIG UND ROBUST – Diese Funktionsjacke ist hergestellt aus recyceltem Polyester mit PFC-freier Imprägnierung für umweltfreundlichen, langlebigen Schutz bei jedem Wetter
+- LEICHT UND WASSERDICHT – Eine der leichtesten Mammut-Wanderjacken mit PFC-freier 2,5-Lagen Mammut DRY Tour Membran für zuverlässigen Wetterschutz ohne zusätzliches Gewicht
 - KOMPAKT UND VERSTAUBAR – Dank ihres geringen Packvolumens lässt sich die Wanderjacke in ihrer eigenen Tasche verstauen und ist der ideale Begleiter für alle outdoor Abenteuer
 - INDIVIDUELL EINSTELLBAR – Die Kapuze, Bündchen und der Saum sind in der Weite regulierbar und bieten eine perfekte Passform sowie optimalen Schutz vor Wind und Regen
-- LEICHT UND WASSERDICHT – Eine der leichtesten Mammut-Wanderjacken mit PFC-freier 2,5-Lagen Mammut DRY Tour Membran für zuverlässigen Wetterschutz ohne zusätzliches Gewicht
 - OPTIMALE ATMUNGSAKTIVITÄT – Belüftungsreißverschlüsse unter den Armen ermöglichen eine gezielte Luftzirkulation und sorgen für angenehmen Tragekomfort bei wechselnden Bedingungen
 
 [🛒 Hier!!]({{< param buyurl >}})

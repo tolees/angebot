@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nicht kompatibel mit Nintendo Switch 2
-- Nintendo Switch
 - "Für Zelda - Fans"
+- USK ab 12 Freigaben
 - Altersempfehlung: ab 12 Jahren.
 - The Legend of Zelda: Breath of the Wild
-- USK ab 12 Freigaben
+- Nintendo Switch
+- Nicht kompatibel mit Nintendo Switch 2
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01MT8ERQW{{</world>}}

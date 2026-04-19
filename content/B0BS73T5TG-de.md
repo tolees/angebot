@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- HERZ + GEHIRN: EPA und DHA als Beitrag für die normale Herzfunktion - DHA unterstützt die normale Gehirnfunktion bei einer täglichen Aufnahme von 250 mg
 - LIEFERUMFANG: 60 Kapseln - Nahrungsergänzungsmittel mit Omega-3-Fettsäuren aus Algenöl - Nettofüllmenge: 42,9 g
-- HOHER OMEGA-3 GEHALT: Das hochwertige Algenöl zeichnet sich durch einen hohen Gehalt und einer guten Bioverfügbarkeit der wertvollen Omega-3-Fettsäuren DHA (Docosahexaensäure) und EPA (Eicosapentaensäure) aus - In Doppelherz Omega-3 1000 vegan sind 500 mg EPA/DHA pro zwei gut schluckbare gelatinefreie Kapseln enthalten
-- 100 % VEGAN: Algenöl aus der Mikroalge Schizochytrium sp. ist besonders reich an den Omega-3-Fettsäuren DHA und EPA - Eine echte Alternative aus dem Meer - Für alle, die keinen Fisch verzehren wollen oder aufgrund von Allergien und Unverträglichkeiten essen wollen - Kein unangenehmer Fischgeschmack
 - HOCHWERTIGES ALGENÖL: Nur besondere Algen können als direkte vegane/nicht-tierische Quelle für die DHA- und EPA-Gewinnung genutzt werden - In Doppelherz Omega-3 1000 vegan werden die wertvollen Omega-3-Fettsäuren EPA und DHA aus dem Öl einer speziellen Mikroalge (Schizochytrium sp.) gewonnen
+- HERZ + GEHIRN: EPA und DHA als Beitrag für die normale Herzfunktion - DHA unterstützt die normale Gehirnfunktion bei einer täglichen Aufnahme von 250 mg
+- 100 % VEGAN: Algenöl aus der Mikroalge Schizochytrium sp. ist besonders reich an den Omega-3-Fettsäuren DHA und EPA - Eine echte Alternative aus dem Meer - Für alle, die keinen Fisch verzehren wollen oder aufgrund von Allergien und Unverträglichkeiten essen wollen - Kein unangenehmer Fischgeschmack
+- HOHER OMEGA-3 GEHALT: Das hochwertige Algenöl zeichnet sich durch einen hohen Gehalt und einer guten Bioverfügbarkeit der wertvollen Omega-3-Fettsäuren DHA (Docosahexaensäure) und EPA (Eicosapentaensäure) aus - In Doppelherz Omega-3 1000 vegan sind 500 mg EPA/DHA pro zwei gut schluckbare gelatinefreie Kapseln enthalten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BS73T5TG{{</world>}}

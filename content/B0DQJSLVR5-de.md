@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Front-Artwork
 - Langärmelig
+- Front-Artwork
 - Lockere Passform
 - Rundhalsausschnitt
 - Ripped cuffs on sleeves and hem

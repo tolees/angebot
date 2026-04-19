@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthalten ist außerdem ein USB-Ladekabel
 - Nicht kompatibel mit Nintendo Switch 2
+- Enthalten ist außerdem ein USB-Ladekabel
 - Dieser kabellose Controller im traditionellen Controller-Design liegt gut in der Hand und ist angenehm auch bei längerem Spielen im TV-Modus und Tisch-Modus
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

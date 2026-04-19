@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Autofokus und Keystone-Korrektur: Die automatische Keystone-Korrektur von +/- 40° vertikal/horizontal passt das Bild an, bis es perfekt ist. Autofokus ToF berechnet die Entfernung und stellt das Display sofort scharf.
-- Hochauflösendes 1080p-Bild: 1920×1080 FHD-Bild, ergänzt durch LED-betriebene, hyperfokussierte 700 ISO Lumen (4K-Inhalte werden ebenfalls unterstützt).
 - Intelligente Bildschirmanpassungstechnologie: Die trainierte intelligente Bildschirmausrichtung passt das Display schnell an Ihren Bildschirm an. Ein KI-gestützter Raumsensor erkennt Objekte und skaliert den Bildschirm automatisch, um sie zu umgehen.
-- Für unterwegs: Ausgestattet mit einem eingebauten 59.454-W-Akku und minimalistischem Design, bietet er 2.5 Stunden lang Unterhaltung auf dem Großbildschirm - überall und jederzeit.
+- Hochauflösendes 1080p-Bild: 1920×1080 FHD-Bild, ergänzt durch LED-betriebene, hyperfokussierte 700 ISO Lumen (4K-Inhalte werden ebenfalls unterstützt).
+- Autofokus und Keystone-Korrektur: Die automatische Keystone-Korrektur von +/- 40° vertikal/horizontal passt das Bild an, bis es perfekt ist. Autofokus ToF berechnet die Entfernung und stellt das Display sofort scharf.
 - Android TV 10.0: Über 5000 Google-Play-Apps. Übertragen Sie Apps, Spiele und mehr mit dem integrierten Chromecast drahtlos von Ihren Android-/Apple-Geräten.
+- Für unterwegs: Ausgestattet mit einem eingebauten 59.454-W-Akku und minimalistischem Design, bietet er 2.5 Stunden lang Unterhaltung auf dem Großbildschirm - überall und jederzeit.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09MD1R9QV{{</world>}}

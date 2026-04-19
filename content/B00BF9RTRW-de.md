@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 🎉 HUMORVOLLE PRODUKTIDEEN – Neben humorvollen Produktideen steht die "Scherzboutique" für ein rundes ausgesuchtes Sortiment und witzige Geschenkartikel für den Geburtstag, die Hochzeit, die Konfirmationen, Jugendweihe, Weihnachten, Silvester oder einfach als schelmisches Geschenk für die Kollegen, den Chef, die Angestellten oder aber auch für den den Liebsten. Die Scherzboutique legt wert auf MADE IN GERMANY.
 - 🧶 Die aus Strick gewickelte Voodoo-Stoffpuppe mit Anhängerschlaufe ist verpackt in einer unkaputtbaren, wiederverschließbaren, durchsichtigen Geschenkdose (7cm hoch, Ø 5,2 cm).
 - 🤹‍♂️ Ob als Geschenk oder für den eigenen Arbeitsplatz, lassen Sie den Ärger an der Puppe aus und schon zaubert sich ein Lächeln ins Gesicht.
 - 💪​ ARBEITSWELT Voodoo-Doll mit Nadeln & Anleitung in einer Geschenk-/Sammeldose. Imaginäre Strafen für "geliebte" Chefs, "sympatische" Kollegen und andere "Lieblingsmenschen" auf der Arbeit.
+- 🎉 HUMORVOLLE PRODUKTIDEEN – Neben humorvollen Produktideen steht die "Scherzboutique" für ein rundes ausgesuchtes Sortiment und witzige Geschenkartikel für den Geburtstag, die Hochzeit, die Konfirmationen, Jugendweihe, Weihnachten, Silvester oder einfach als schelmisches Geschenk für die Kollegen, den Chef, die Angestellten oder aber auch für den den Liebsten. Die Scherzboutique legt wert auf MADE IN GERMANY.
 - 😂 SCHERZBOUTIQUE AUS BERLIN – Dies ist ein Produkt der Firma "Scherzboutique", die für ein breites und oft schelmisches Grinsen und viele glückliche Gesichter sorgt. Dazu gehören Klassiker wie die „Geldgeschenk-Röhrchen“, "Sardinendosengeschenke", unsere "Komplimentkekse" und natürlich unsere "Voodoo Dolls".
 
 [🛒 Hier!!]({{< param buyurl >}})

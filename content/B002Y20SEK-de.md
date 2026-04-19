@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hinweis - Abstand zwischen den Fahrrädern und den maximalen Rahmendurchmesser bitte beachten. Felgenhaltebänder sind austauschbar: Für Fatbikes mit größerer Reifenbreite werden Rastbänder der Länge 600 mm benötigt
 - Plug & Drive - Montage erfolgt mittels Schnellspannverschluss. Der schnelle Zugang zum Kofferraum ist dank gesichertem Abklappmechanismus auch mit montierten Fahrrädern einfach möglich
-- Ausstattung - Komplett vormontiertes, crashstabiles System inkl. Radschalen mit Laufradschutz, gepolsterte Greifarme, Diebstahlschutz, Felgenhaltebänder mit Ratschenfunktion und Spannkraftschutz, Rückleuchten, Kennzeichenhalter EU
 - Technische Daten - Max. Gewicht pro Fahrrad: 30 kg, Rahmendurchmesser: 2,5cm – 8cm, max. Reifendicke 2,4 Zoll. Für E-Bikes sehr gut geeignet. Der Träger misst 110x20x59 cm bei 14,9 kg Gewicht
+- Ausstattung - Komplett vormontiertes, crashstabiles System inkl. Radschalen mit Laufradschutz, gepolsterte Greifarme, Diebstahlschutz, Felgenhaltebänder mit Ratschenfunktion und Spannkraftschutz, Rückleuchten, Kennzeichenhalter EU
+- Hinweis - Abstand zwischen den Fahrrädern und den maximalen Rahmendurchmesser bitte beachten. Felgenhaltebänder sind austauschbar: Für Fatbikes mit größerer Reifenbreite werden Rastbänder der Länge 600 mm benötigt
 - Ausführung - Der Träger für die Anhängerkupplung hält 2 Fahrräder bis max. Gesamtzuladung 60 kg. Abstand zwischen den Fahrrädern 23 cm. Mit separat erhältlicher Erweiterungsschiene auf 3 Bikes (67,9 kg) erweiterbar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

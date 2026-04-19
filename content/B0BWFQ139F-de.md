@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EINFACHE VERBINDUNG – Die Canon EOS R50 spiegellose Kamera verbindet sich mühelos über Bluetooth und WLAN mit deinen Smart Devices, sodass das Teilen von Fotos und das Hochladen von Inhalten ganz einfach ist. Diese kompakte Kamera mit WLAN sorgt für eine unkomplizierte Verbindung.
-- PERFEKT FÜR CONTENT CREATORS – Die kompakte und leichte Canon EOS R50 verfügt über einen variablen Touchscreen und einem ergonomischen Griff, der sich bequem in deine Hand schmiegt. Diese spiegellose Kamera ist ideal für Vlogging und Fotografie.
+- SOFORTIGER FOKUS – Egal, ob du bewegte oder statische Motive wie Menschen, Tiere oder Fahrzeuge fotografierst, die Canon EOS R50 erkennt und verfolgt dein Motiv zuverlässig dank Dual Pixel CMOS Autofokus II. So verpasst du keinen Moment – perfekt für Einsteiger.
 - ERSTELLE DEINEN BESTEN CONTENT – Fange gestochen scharfe Details ein und steuere die Tiefenschärfe für authentische Porträts – selbst bei schwachem Licht – dank des 24,2 Megapixel APS-C Sensors. Diese Digitalkamera garantiert dir stets erstklassige Fotos.
 - 4K-VIDEO – Erwecke dein Filmmaking mit UHD 4K 30p, herunterskaliert aus 6K, zum Leben. Zusätzlich kannst du zuschneiden und zoomen, ohne die Full HD-Auflösung zu verlieren. Für einen cineastischen Look bietet die 4-fache Zeitlupe tolle Effekte. Diese 4K-Vlog-Kamera ist ideal für hochwertige Videos.
-- SOFORTIGER FOKUS – Egal, ob du bewegte oder statische Motive wie Menschen, Tiere oder Fahrzeuge fotografierst, die Canon EOS R50 erkennt und verfolgt dein Motiv zuverlässig dank Dual Pixel CMOS Autofokus II. So verpasst du keinen Moment – perfekt für Einsteiger.
+- EINFACHE VERBINDUNG – Die Canon EOS R50 spiegellose Kamera verbindet sich mühelos über Bluetooth und WLAN mit deinen Smart Devices, sodass das Teilen von Fotos und das Hochladen von Inhalten ganz einfach ist. Diese kompakte Kamera mit WLAN sorgt für eine unkomplizierte Verbindung.
+- PERFEKT FÜR CONTENT CREATORS – Die kompakte und leichte Canon EOS R50 verfügt über einen variablen Touchscreen und einem ergonomischen Griff, der sich bequem in deine Hand schmiegt. Diese spiegellose Kamera ist ideal für Vlogging und Fotografie.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BWFQ139F{{</world>}}

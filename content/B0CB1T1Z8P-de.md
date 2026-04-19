@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Modellnummer: 2140266007
 - Als klassische Baguette-Bag zeigt sich die Franzis Crossbody XS in schmaler und länglicher Form mit kurzen Henkeln. Sie ist aus hochwertigem genarbtem Nappaleder gefertigt und überzeugt mit ihrem eleganten Aussehen. Durch den zusätzlichen langen abnehmbaren Träger kann sie so leicht von einer Schultertasche zu einer Crossbody-Bag umfunktioniert werden. Egal, ob für besondere Anlässe oder in Kombination mit legeren Outfits im Alltag – die Franzis Crossbody XS setzt als vielseitiges Accessoire stilvoll modische Akzente
-- Vollnarbiges Nappaleder Hauptfach mit Reißverschluss Innenraum mit Steckfach mit abnehmbarem langen und schmalen Schultergurt mit Logo Tag auf der Vorderseite Passend für: iPhone 15 Pro, Samsung Galaxy S23 und ähnliche Smartphones Stilvoll, modisch, Baguette-Bag
 - Franzis Crossbody XS
+- Vollnarbiges Nappaleder Hauptfach mit Reißverschluss Innenraum mit Steckfach mit abnehmbarem langen und schmalen Schultergurt mit Logo Tag auf der Vorderseite Passend für: iPhone 15 Pro, Samsung Galaxy S23 und ähnliche Smartphones Stilvoll, modisch, Baguette-Bag
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CB1T1Z8P{{</world>}}

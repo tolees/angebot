@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Leichter Einstieg für einmaligen Tragekomfort
-- Leichter Einstieg und verstellbare Passform mit Reißverschluss und Schnürsenkeln
 - Absatzhöhe: 2,5 cm / 1"
+- Leichter Einstieg und verstellbare Passform mit Reißverschluss und Schnürsenkeln
 - Die patentierten Geox
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

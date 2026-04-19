@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Vollfarb-Nachtsicht bis 30m & 360° Schwenk-Neige-Funktion】Zwei leistungsstarke Scheinwerfer und IR-Sensoren ermöglichen lebendige Farbaufnahmen auch nachts. Mit 355° horizontalem und 90° vertikalem Bewegungsspielraum überwacht die Kamera jeden Winkel ohne tote Zonen.
-- 【KI-gestützte Personenerkennung & Präziser Alarm】Dank Deep-Learning-Technologie erkennt die Kamera zuverlässig menschliche Bewegungen und filtert Fehlalarme aus. Bei Eindringlingen werden sofort akustische und optische Alarme ausgelöst, und Sie erhalten eine Push-Benachrichtigung.
-- 【Drei Speicheroptionen & Duale Vernetzung, IP65 wetterfest】Wählen Sie zwischen lokaler Micro-SD-Karte (bis 512 GB), Cloud-Speicherung oder NVR-Aufzeichnung für maximale Flexibilität. Verbinden Sie die Kamera per 2,4-GHz-WLAN oder Ethernet-Kabel. Die IP65-Zertifizierung garantiert Beständigkeit gegen Regen, Staub und extreme Temperaturen.(Kompatibel mit Alexa für sprachgesteuerte Steuerung)
 - 【Technischer Support】Wenn Sie technische Fragen haben, wenden Sie sich bitte an unsere E-Mail: support.de@tenda.cn
-- 【2K Ultra HD & F1.6 Super-Weitwinkelobjektiv】Der 3MP-Sensor liefert kristallklare 2K-Auflösung und reduziert Bildrauschen selbst bei schwachem Licht. Die große F1.6-Blende sorgt für helle, detailreiche Aufnahmen – auch in der Dunkelheit.
 - 【Zweiwege-Audio & Drei personalisierte Sprachansagen】Nutzen Sie die Echtzeit-Zweiwege-Kommunikation, um mit Familie oder Besuchern zu sprechen. Sie können bis zu drei eigene Sprachmeldungen (z. B. Willkommensgruß oder Warnhinweis) für verschiedene Situationen einrichten.
+- 【2K Ultra HD & F1.6 Super-Weitwinkelobjektiv】Der 3MP-Sensor liefert kristallklare 2K-Auflösung und reduziert Bildrauschen selbst bei schwachem Licht. Die große F1.6-Blende sorgt für helle, detailreiche Aufnahmen – auch in der Dunkelheit.
+- 【KI-gestützte Personenerkennung & Präziser Alarm】Dank Deep-Learning-Technologie erkennt die Kamera zuverlässig menschliche Bewegungen und filtert Fehlalarme aus. Bei Eindringlingen werden sofort akustische und optische Alarme ausgelöst, und Sie erhalten eine Push-Benachrichtigung.
+- 【Vollfarb-Nachtsicht bis 30m & 360° Schwenk-Neige-Funktion】Zwei leistungsstarke Scheinwerfer und IR-Sensoren ermöglichen lebendige Farbaufnahmen auch nachts. Mit 355° horizontalem und 90° vertikalem Bewegungsspielraum überwacht die Kamera jeden Winkel ohne tote Zonen.
+- 【Drei Speicheroptionen & Duale Vernetzung, IP65 wetterfest】Wählen Sie zwischen lokaler Micro-SD-Karte (bis 512 GB), Cloud-Speicherung oder NVR-Aufzeichnung für maximale Flexibilität. Verbinden Sie die Kamera per 2,4-GHz-WLAN oder Ethernet-Kabel. Die IP65-Zertifizierung garantiert Beständigkeit gegen Regen, Staub und extreme Temperaturen.(Kompatibel mit Alexa für sprachgesteuerte Steuerung)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09M2ZK6K8{{</world>}}

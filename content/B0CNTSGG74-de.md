@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Steigere deinen Ruhm und schalte Ressourcen und Gelegenheiten frei, um an immer gefährlichere Aufträge zu kommen und deine Ausrüstung aufzuwerten
 - Internet und eine Playstation Plus Mitgliedschaft werden benötigt, um das Spiel spielen zu können
-- Kämpfe in spannenden Seeschlachten und rüste zahlreiche mächtige Waffen aus, während du alles für die fetteste Beute riskierst
 - Stelle dich halsabschneiderischen Piratenjägern, tödlichen Seeungeheuern, unberechenbarem Wetter, gefährlichen Riesenwellen, übernatürlichen Bedrohungen und vielem mehr, während du eine gewaltige offene Welt erkundest
+- Steigere deinen Ruhm und schalte Ressourcen und Gelegenheiten frei, um an immer gefährlichere Aufträge zu kommen und deine Ausrüstung aufzuwerten
+- Kämpfe in spannenden Seeschlachten und rüste zahlreiche mächtige Waffen aus, während du alles für die fetteste Beute riskierst
 - Segle alleine über die gesetzlosen Meere oder verbünde dich mit bis zu zwei Freund:innen oder Spieler:innen und schnapp dir teilbare Aufträge und Belohnungen.
 - Stelle bis zu 10 verschiedene Schiffe her und stich mit ihnen in See. Jedes dieser Schiffe bietet einzigartige Vorteile und kann an deinen Spielstil angepasst werden
 

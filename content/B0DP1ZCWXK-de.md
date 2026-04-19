@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Premium & praktisch: Das 6-in-1 Design mit 2m Verlängerungskabel macht diese usb c Ladegerät zu einer kompakten und platzsparenden Ladelösung - perfekt für den Schreibtisch oder für den schnellen Energieboost unterwegs. Metallischer Lack und rutschfeste Silikonfüße verbessert das Ladeerlebnis noch subtiler.
-- 100W 6-in-1 Ladestation: Mit der leistungstarken Gesamtleistung von 100W und der 6 Anschlüssen (4 USB-C & 2 USB-A) kannst du jetzt alle deine Geräte – vom Laptops über Smartphone bis hin zu Tablets – gleichzeitig schnellladen. Spare nicht nur Zeit, sondern auch den lästigen Kabelsalat mit der mehrfachen 100W Ladestation von UGREEN. Erlebe eine neue Effizienz!
-- Power für über 1000 Geräte: unser 100W-Ladegerät unterstützt „Superschnellladen 2.0" und ist mit einer Vielzahl von Geräten kompatibel – darunter MacBook Serien, XPS Serien, HP Laptops, ThinkPads, iPhone 17-8 Serien, Galaxy S-A Serien, Switch und mehr.
 - Professionelle Ladeschutz: Dank modernster GaNInfinity-Technologie und mehrstufigen Schutzsystemen gewährleistet unsere 100W Desktop-Charger nicht nur höchste Energieeffizienz für optimierte Ladeleistung, sondern schützt deine Geräte zuverlässig vor Überhitzung, Überladung und Kurzschlüssen – für ein rundum sicheres Ladeerlebnis.
+- Power für über 1000 Geräte: unser 100W-Ladegerät unterstützt „Superschnellladen 2.0" und ist mit einer Vielzahl von Geräten kompatibel – darunter MacBook Serien, XPS Serien, HP Laptops, ThinkPads, iPhone 17-8 Serien, Galaxy S-A Serien, Switch und mehr.
+- 100W 6-in-1 Ladestation: Mit der leistungstarken Gesamtleistung von 100W und der 6 Anschlüssen (4 USB-C & 2 USB-A) kannst du jetzt alle deine Geräte – vom Laptops über Smartphone bis hin zu Tablets – gleichzeitig schnellladen. Spare nicht nur Zeit, sondern auch den lästigen Kabelsalat mit der mehrfachen 100W Ladestation von UGREEN. Erlebe eine neue Effizienz!
 - 65W Volle Power: Erlebe 65W blitzschnelles Laden für alle deine Geräte. Mit Unterstützung von Multi-Schnelllade-Protokolle (PD/PPS/QC/AFC usw.) lädt der USB-C1 Anschluss dein MacBook, iPad, iPhone, Galaxy, Pixel Serien blitzschnell auf. Dein MacBook Air lädt in nur 30 Minuten von 0% auf 51% auf – jederzeit effizient und zuverlässig.
 
 [🛒 Hier!!]({{< param buyurl >}})

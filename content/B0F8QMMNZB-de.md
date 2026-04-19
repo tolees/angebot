@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 9L: GIANTZONE: Perfekt für übergroße und große Mahlzeiten, Passt für Lasagne, große Portionen Pommes frites oder 2 ganze Hähnchen nebeneinander, Ideal für bis 8 Personen
-- FLEXCOOK LEICHT GEMACHT: Mit nur einem Schritt lässt sich die Trennwand ein- oder ausschieben und verwandelt die Form Ihrer Heißluftfritteuse im Handumdrehen, Sie ist sogar spülmaschinenfest
 - DUAL ODER MONO – ODER BEIDES: Wechseln Sie ganz einfach von 2 Zonen (5,5 L + 3,5 L) zu 1 einzigen GiantZone (9 L), dank der genialen FlexCook-Trennwand
+- FLEXCOOK LEICHT GEMACHT: Mit nur einem Schritt lässt sich die Trennwand ein- oder ausschieben und verwandelt die Form Ihrer Heißluftfritteuse im Handumdrehen, Sie ist sogar spülmaschinenfest
+- 9L: GIANTZONE: Perfekt für übergroße und große Mahlzeiten, Passt für Lasagne, große Portionen Pommes frites oder 2 ganze Hähnchen nebeneinander, Ideal für bis 8 Personen
 - 2 GERICHTE GLEICHZEITIG GAREN: Genau wie eine doppelte Heißluftfritteuse, mit 2 unabhängigen Heizelementen und individueller Zeit- und Temperaturkontrolle
 - 15-JAHRE REPARIERBARKEIT ZU EINEM ANGEMESSENEN PREIS: Wir empfehlen, Ihr Produkt in einem unserer 6200 Reparaturzentren weltweit reparieren zu lassen
 

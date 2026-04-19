@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- klassische Nylon-Obermaterial
 - ST Runner v2 NL ist mit einer moderneren Laufsohle aus durchgehendem Gummi ausgestattet
 - PUMA Formstrip aus Leder
-- klassische Nylon-Obermaterial
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B077MPJSTT{{</world>}}

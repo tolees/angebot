@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Feuerzange aus rostfreiem Edelstahl
-- Bowletopf aus hitzebeständigem Güteglas
 - hochwertige Griffe
+- Bowletopf aus hitzebeständigem Güteglas
+- Feuerzange aus rostfreiem Edelstahl
 - Sicherheitspastenbrenner
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

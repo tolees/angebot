@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wohlklingender Sound dank Dolby Atmos- und Harman-Kardon-zertifiziertem Audiosystem mit 6 Lautsprechern
-- Perfekter Begleiter on-the-go aufgrund seines superdünnen Designs mit maximal 11mm und superleichten 1,5kg Gewicht
-- Ausgezeichnet von CHIP.de: Gesamtnote „Sehr gut (1,2)“ für das Asus Zenbook S16 OLED dank hervorragendem 16-Zoll-OLED-Display, starker Leistung mit AMD Ryzen AI 9 365/300 Serie, extrem guter Akkulaufzeit, hochwertigem Design und vielseitigen Anschlussmöglichkeiten. (Thorsten Nowag, „Asus ZenBook S 16 OLED im Test“, 15.11.2024)
-- Erstklassige Performance dank des AMD Ryzen AI 9 365 Prozessors mit 45+ TOPs, integrierter AMD Ryzen AI und AMD Radeon 880M Grafik
 - Ultrascharfes 2,8K (2880 x 1620) 16 Zoll OLED Lumina Display im NanoEdge Design und 16:10 Format mit 120Hz, 100 Prozent DCI-P3-Farbraum Abdeckung und 500 Nits Spitzenhelligkeit
+- Erstklassige Performance dank des AMD Ryzen AI 9 365 Prozessors mit 45+ TOPs, integrierter AMD Ryzen AI und AMD Radeon 880M Grafik
+- Perfekter Begleiter on-the-go aufgrund seines superdünnen Designs mit maximal 11mm und superleichten 1,5kg Gewicht
+- Wohlklingender Sound dank Dolby Atmos- und Harman-Kardon-zertifiziertem Audiosystem mit 6 Lautsprechern
 - Die AiSense FHD IR-Kamera unterstützt AI-Effekte und die AI Noise-Cancelling Technologie isoliert dank maschinellem Lernen unerwünschte Geräusche für eine optimale Qualität in Gruppen-Konferenzgesprächen
+- Ausgezeichnet von CHIP.de: Gesamtnote „Sehr gut (1,2)“ für das Asus Zenbook S16 OLED dank hervorragendem 16-Zoll-OLED-Display, starker Leistung mit AMD Ryzen AI 9 365/300 Serie, extrem guter Akkulaufzeit, hochwertigem Design und vielseitigen Anschlussmöglichkeiten. (Thorsten Nowag, „Asus ZenBook S 16 OLED im Test“, 15.11.2024)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08H1HQ24K{{</world>}}

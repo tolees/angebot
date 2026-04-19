@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die zwei Schwierigkeitsstufen der Hinweiskarten, enthalten Inhalte zu allen Star Wars Filmen, The Clone Wars und The Mandalorien. Ideal für alle Fans.
-- Möge die Macht mit dir sein.“ Die Spieler können das Spiel zu Hause mit einem kompatiblen streaming-fähigen Gerät auf den Fernseher übertragen.
-- Die Spieler zeichnen abwechselnd in die Luft und interagieren mit den Bildern, während ihre Teammitglieder die Bilder erraten.
-- Einfach die kostenlose Pictionary Air App auf ein Tablet oder Smartphone herunterladen (es können zusätzliche Kosten für die Datenübertragung beim Netzbetreiber anfallen) und Star Wars auswählen, für mehr intergalaktische Funktionen.
 - Jedes Team wählt einen Droiden aus und kann dann in Pictionary Air Star Wars seine Jedi-Zeichenskills darbieten. Das Star Wars Franchise verleiht diesem klassischen Zeichenspiel einen galaktischen Look.
+- Die zwei Schwierigkeitsstufen der Hinweiskarten, enthalten Inhalte zu allen Star Wars Filmen, The Clone Wars und The Mandalorien. Ideal für alle Fans.
+- Einfach die kostenlose Pictionary Air App auf ein Tablet oder Smartphone herunterladen (es können zusätzliche Kosten für die Datenübertragung beim Netzbetreiber anfallen) und Star Wars auswählen, für mehr intergalaktische Funktionen.
+- Die Spieler zeichnen abwechselnd in die Luft und interagieren mit den Bildern, während ihre Teammitglieder die Bilder erraten.
+- Möge die Macht mit dir sein.“ Die Spieler können das Spiel zu Hause mit einem kompatiblen streaming-fähigen Gerät auf den Fernseher übertragen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09QS9LGK1{{</world>}}

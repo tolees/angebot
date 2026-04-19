@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Materialzusammensetzung: Außenschicht: 100% Polyester; Futter: 100% Polyester; Ärmellänge: 100% Polyester; Rippdesign: 100% Polyester
-- Softshell Jacke
-- Langarm
 - Regular Fit
+- Langarm
+- Softshell Jacke
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BHXFFQ4K{{</world>}}

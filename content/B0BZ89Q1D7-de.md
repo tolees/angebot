@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnürsenkel
 - Reguläre Passform
 - Dieser energierückführende Laufschuh ist teilweise aus recycelten Materialien hergestellt.
+- Schnürsenkel
 - Individuell gewebtes Obermaterial aus Mesh
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gerader Saum
 - Rippbündchen
-- Fully fashioned
+- Gerader Saum
 - Tiefer Ausschnitt, Dekollete
 - Strukturierter Griff
+- Fully fashioned
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B095G7ZKDJ{{</world>}}

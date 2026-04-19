@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- elastisches Strick-Material
+- Strickbündchen an Ärmel- und Bundabschluss
 - aufgesetzte Brusttasche mit Klettverschluss und Stift-Tasche
 - Strickbündchen an Ärmel- und Bundabschluss
-- Strickbündchen an Ärmel- und Bundabschluss
-- elastisches Strick-Material
 - hochschließender, dicker Kragen mit Reißverschluss
 
 [🛒 Hier!!]({{< param buyurl >}})

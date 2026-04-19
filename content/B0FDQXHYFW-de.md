@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mit NVIDIA Blackwell-Architektur und DLSS 4
+- Ausgestattet mit 16 GB GDDR7 und 128-Bit-Schnittstelle
 - WINDFORCE-Kühlsystem
 - Powered by GeForce RTX 5060Ti
-- Ausgestattet mit 16 GB GDDR7 und 128-Bit-Schnittstelle
 - Verstärkte Struktur
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

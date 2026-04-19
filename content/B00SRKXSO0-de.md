@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die polyurethanbeschichteten Laufflächen schützen Ihren hochwertigen Hartboden vor Kratzern und Blessuren
-- Stiftdurchmesser: 11 mm; Rollendurchmesser: 50 mm
-- Bei Laminatböden bitte zusätzlich eine Bodenschutzmatte verwenden
-- Hochwertige, lastabhängig gebremste Doppelrollen für harte Böden; Made In Germany
 - Einsatzbereich: für Hartböden wie Parkett, Laminat, Fliesen oder Steinboden
+- Hochwertige, lastabhängig gebremste Doppelrollen für harte Böden; Made In Germany
+- Bei Laminatböden bitte zusätzlich eine Bodenschutzmatte verwenden
+- Stiftdurchmesser: 11 mm; Rollendurchmesser: 50 mm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00SRKXSO0{{</world>}}

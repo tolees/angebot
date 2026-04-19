@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Breites Farbspektrum – Der MAG 272URDF E16 bietet bis zu 1,07 Milliarden Farben bei 131 % sRGB für immersivere Bilder und Details; er verfügt über Less Blue Light Technologie und Anti-Flimmer-Funktion, um die visuelle Ermüdung zu reduzieren.
-- HDMI CEC CONNEKTIVITÄT - Die Schnittstellenoptionen für PC-Konsole und Laptop umfassen DisplayPort 1.4a, HDMI 2.1 CEC-Ports, die Rückseite des Bildschirms verfügt über einen 5-Wege-Navigationsstift.
 - DYNAMISCHER KONTRAST & AI-VISION - Das Rapid IPS-Panel bietet einen hervorragenden nativen Kontrast von 1000:1 und unterstützt dynamischen Kontrast (100M:1); MSI AI Vision bereichert Details in dunklen Bereichen und optimiert Helligkeit und Farben.
+- HDMI CEC CONNEKTIVITÄT - Die Schnittstellenoptionen für PC-Konsole und Laptop umfassen DisplayPort 1.4a, HDMI 2.1 CEC-Ports, die Rückseite des Bildschirms verfügt über einen 5-Wege-Navigationsstift.
 - Schnelle IPS-Bildqualität, rahmenloses Gaming – Die Rapid-IPS-Displays von MSI bieten eine außergewöhnliche Farbintensität und unterstützen breite Betrachtungswinkel von 178°; das rahmenlose Design reduziert die Rahmenlinien zwischen den Bildschirmen.
 - 27 Zoll mit Rapid IPS Dual-Mode (UHD bei 160 Hz / FHD bei 320 Hz) im 16:9 Format bietet eine hohe Auflösung und flüssige Zielverfolgung; die Reaktionszeit von 0,5 ms (GtG, Min.) ist ideal für esport-Events.
 

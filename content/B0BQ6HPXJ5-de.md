@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Einfache Passform und einen modernen Look
 - Absolute Bewegungsfreiheit
 - Material-Prozentangaben können variieren. Genaue Angaben findest du auf dem Label
 - Normale Passform
-- Einfache Passform und einen modernen Look
 - Aufgesticktes Logo
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Rezeptur ohne Mikroplastik
-- Sanfte Pflege
-- Milde Reinigung
 - Entspannung der Muskeln Dank wertvollem Extrakt der Arnika
 - Mit natürlichen ätherischen Ölen aus Cabreuva, Rosmarin & Pinus-Arten
+- Sanfte Pflege
+- Milde Reinigung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BGWXP2C8{{</world>}}

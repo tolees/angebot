@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus weichem Leder
 - Update des PUMA Smash
-- Inspiriert vom Tennis. Stylischer Komfort für jeden Tag
 - Legen nicht nur auf dem Tennisplatz, sondern auch auf den Straßen einen sportlichen Auftritt hin: die Smash v2 Sneakers in sanften Farben. Wir haben diesem Style aus weichen Leder mit einer herausnehmbaren Einlegesohle ein Update verpasst, damit sie sich immer so frisch anfühlen, wie sie aussehen.
+- Obermaterial aus weichem Leder
+- Inspiriert vom Tennis. Stylischer Komfort für jeden Tag
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B077MJJM3W{{</world>}}

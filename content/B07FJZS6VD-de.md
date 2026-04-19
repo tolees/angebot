@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kunstleder / PU
 - Ohne Verschluss
+- Kunstleder / PU
 - Synthetik
 - Synthetik
 

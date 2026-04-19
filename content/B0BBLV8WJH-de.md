@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erweiterbare Kapazität von 1 bis zu 3kWh: Der Powerstation mit 1kWh Kapazität kann mit Zusatzakkus bis zu 3kWh erreichen. Ideal als Notstromversorgung für Urlaub, Reise, Wohnmobil. Damit wichtigste Geräte auch bei Stromausfall weiter funktionieren.
 - 7-mal Schnellere AC-Ladung: Dank X-Stream Technologie lädt DELTA 2 7X schneller als vergleichbare Produkte. Mit AC-Ladung beträgt die Landzeit 0-80% nur 50mins, 0-100% nur 80mins. Es perfekt als Notstromversorgung oder Schnellaufladung Generator.
-- Strom für Alles: Mit 1800W AC-Ausgangsleistung und 2*100W USB-PD Anschlüsse reicht DELTA 2 für mehr als 90 % Ihrer Haushaltsgeräte. Sie können bis zu 13 Geräte gleichzeitig anschließen. Dank X-Boost es kann eine Überlastung bis zu 2400W verhindern.
 - Grüne Energie ohne Verzicht: Mit Solarpanel kann DELTA 2 in 3–6 Stunden aufgeladen beim Camping, Reise, Wohnmobil. Der intelligente MPPT misst DELTA 2 Stromspannung und Stromstärke, um Max Leistung zu nutzen, gibt höhere Ladeeffizienz als Anderes.
-- 6-mal längere Lebensdauer: Mit LFP-Batterie kann tragbares Powerstation über 3000 Ladezyklen mitmachen. Profitieren Sie von jahrelanger Nutzung, bevor die Kapazität auf 80% ursprünglichen Kapazität sinkt. Dank BMS können Sie sich sicher funktioniert.
+- Erweiterbare Kapazität von 1 bis zu 3kWh: Der Powerstation mit 1kWh Kapazität kann mit Zusatzakkus bis zu 3kWh erreichen. Ideal als Notstromversorgung für Urlaub, Reise, Wohnmobil. Damit wichtigste Geräte auch bei Stromausfall weiter funktionieren.
 - Lieferumfang: Solar Generator EcoFlow DELTA 2, AC-Ladekabel, Benutzerhandbuch und eine exklusive 5-Jahres-Garantie.
+- Strom für Alles: Mit 1800W AC-Ausgangsleistung und 2*100W USB-PD Anschlüsse reicht DELTA 2 für mehr als 90 % Ihrer Haushaltsgeräte. Sie können bis zu 13 Geräte gleichzeitig anschließen. Dank X-Boost es kann eine Überlastung bis zu 2400W verhindern.
+- 6-mal längere Lebensdauer: Mit LFP-Batterie kann tragbares Powerstation über 3000 Ladezyklen mitmachen. Profitieren Sie von jahrelanger Nutzung, bevor die Kapazität auf 80% ursprünglichen Kapazität sinkt. Dank BMS können Sie sich sicher funktioniert.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BBLV8WJH{{</world>}}

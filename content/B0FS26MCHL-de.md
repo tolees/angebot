@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kabellos und wiederaufladbar - Spiel deine Lieblingsspiele von Nintendo den ganzen Tag lang mit einer kabellosen Reichweite von bis zu 9 Metern und einem integrierten Akku, der pro Ladung bis zu 40 Stunden Spielzeit bietet
+- TMR-Thumbsticks - Erlebe die Kontrolle auf der nächsten Stufe mit den Thumbsticks mit TMR (Tunneling Magnetoresistance), die für bessere Genauigkeit, weniger Drift und lang anhaltende Leistung für ein reibungsloses, reaktionsschnelles Gameplay entwickelt wurden
 - C-Taste für GameChat - Die integrierte C-Taste bietet schnellen Zugriff auf die wichtigsten GameChat-Funktionen und verbessert die Kommunikation im Spiel, ohne das Spiel zu unterbrechen
 - Anpassbare RGB-Lichter - Mit den 4 einstellbaren Beleuchtungsmodi und der durchsichtigen Hülle, die den Blick auf die inneren Schaltkreise freigibt, lässt du dein Setup erstrahlen. Stelle die Helligkeit ein und passe deine Leuchteffekte für ein elegantes Hightech-Gaming-Erlebnis an
-- TMR-Thumbsticks - Erlebe die Kontrolle auf der nächsten Stufe mit den Thumbsticks mit TMR (Tunneling Magnetoresistance), die für bessere Genauigkeit, weniger Drift und lang anhaltende Leistung für ein reibungsloses, reaktionsschnelles Gameplay entwickelt wurden
+- Kabellos und wiederaufladbar - Spiel deine Lieblingsspiele von Nintendo den ganzen Tag lang mit einer kabellosen Reichweite von bis zu 9 Metern und einem integrierten Akku, der pro Ladung bis zu 40 Stunden Spielzeit bietet
 - Offiziell von Nintendo lizenziertes Produkt - Dieser von Nintendo offiziell lizenzierte kabellose Controller wurde gründlich auf Qualität und Sicherheit getestet und garantiert die Kompatibilität und Leistung mit der Konsole deiner Wahl
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

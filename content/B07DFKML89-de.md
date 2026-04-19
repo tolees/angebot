@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DESIGN: Die innovative Struktur des Ronin-S erhöht die Kammeralast über die Rollachse hinaus, sodass der eingebaute Display der Kamera das Sichtfeld nicht behindert. Das ergonomische Design ermöglicht es dem Ronin-S, sich nicht zu bewegen, wenn er mit einem einzigen Klick von einer unteren Position in eine obere Position wechselt
 - ECO-SYSTEM: Häufig benötigen Sie für Ihre Projekte mehr als ein einfaches Gimbal. Auf dem Ronin-S können mehrere Zubehörhalterungen installiert werden, wie Mikrofon, LED-Leuchten und kabelloser Videosender
-- SMOOTHTRACK: Mit der SmoothTrack-Technologie können Sie mühelos mit einer Hand von der Bewegung in den "Kamerawinkel" übergehen. Mit anpassbaren Parametern können Sie Ihre bevorzugten SmoothTrack-Einstellungen speichern und mit nur einem Klick von einer zur anderen wechseln
-- VIELSEITIGKEIT: Der Ronin-S kann problemlos an einem RC-Buggy für Aufnahmen mit geringem Winkel oder sogar als Remote-Kamera an einem Ausleger montiert werden. Die spezielle DJI Focus Command Unit kann an der Zubehörhalterung installiert werden, sodass Sie beim Bedienen mit dem Standardgriff fokussieren können
 - In der kiste: Ronin S Gimbal, BG37 Griff (Integrierter Akku), Kamera Befestigungsplatte, Kameraschraube 1/4"-20 x 3, Objektivhalterung, Kamera Riser, USB-C-Kabel, Klettverschlussriemen für den Gimbal, Transportkoffer, Fokusrad, RSS-IR-Kontrollkabel, Multi-Kamera-Kontrollkabel (Typ-C), Multi-Kamera-Kontrollkabel (Typ-B), Erweiterungsgriff/Stativ (Metall), 24 W USB-Netzadapter (Unterscheidet sich je nach Region), Zubehörbox, Innensechskantschlüssel x 2, Klettverschlussriemen für die Kabel
+- SMOOTHTRACK: Mit der SmoothTrack-Technologie können Sie mühelos mit einer Hand von der Bewegung in den "Kamerawinkel" übergehen. Mit anpassbaren Parametern können Sie Ihre bevorzugten SmoothTrack-Einstellungen speichern und mit nur einem Klick von einer zur anderen wechseln
+- DESIGN: Die innovative Struktur des Ronin-S erhöht die Kammeralast über die Rollachse hinaus, sodass der eingebaute Display der Kamera das Sichtfeld nicht behindert. Das ergonomische Design ermöglicht es dem Ronin-S, sich nicht zu bewegen, wenn er mit einem einzigen Klick von einer unteren Position in eine obere Position wechselt
+- VIELSEITIGKEIT: Der Ronin-S kann problemlos an einem RC-Buggy für Aufnahmen mit geringem Winkel oder sogar als Remote-Kamera an einem Ausleger montiert werden. Die spezielle DJI Focus Command Unit kann an der Zubehörhalterung installiert werden, sodass Sie beim Bedienen mit dem Standardgriff fokussieren können
 - INNOVATIVER SPORT-MODUS: Der neue Ronin-S Sport-Modus erhöht auf intelligente Weise die Reaktionsfähigkeit von SmoothTrack, sodass Sie jeder Bewegung folgen können
 
 [🛒 Hier!!]({{< param buyurl >}})

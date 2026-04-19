@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Energiesparend inkl. Leuchtmittel
-- Elegantes Design: Moderne Leuchte für Ihren Außenbereich
 - Angenehmes Licht: Warmweißes Licht zum Wohlfühlen
+- Energiesparend inkl. Leuchtmittel
 - Hohe Qualität: Robustes und zuverlässiges Material in höchster Qualität
+- Elegantes Design: Moderne Leuchte für Ihren Außenbereich
 - Wetterfest: IP44 für die Anwendung im Außenbereich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

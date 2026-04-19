@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Baubares D&D Abenteuer: Suche nach magischen Items, entdecke Easter Eggs und hüte dich vor den Fallen und Zunderheuler dem Roten Drachen, während du die Taverne, den Turm und das Verlies erkundest
-- Erste Wahl der LEGO Fans: Dieses LEGO Set zum Sammeln gehört zu einer ganzen Reihe von LEGO Ideas Sets für Erwachsene, die von einem Fandesigner entworfen, von den LEGO Fans ausgewählt und dann von der LEGO Gruppe hergestellt werden
-- Geschenk für erwachsene Fans: Dungeons & Dragons: Die Sage vom Roten Drachen ist das allererste LEGO Modell aus Forgotten Realms. Mit diesem Set aus LEGO Steinen kannst du eigene Fantasy-Abenteuer darstellen
-- Nostalgische Geschenkidee: Dieses LEGO Ideas Set ist eine tolle Belohnung für dich selbst oder eine fantastische Geschenkidee für andere kreative Erwachsene, die sich genau wie du für DUNGEONS & DRAGONS Abenteuer begeistern
-- Zusammen mit Wizards of the Coast entwickelte Kampagne: Lade dir die spielbare Kampagne herunter, die in Zusammenarbeit mit den weltbekannten Wizards of the Coast eigens für dieses kreative Bauset entwickelt wurde
 - Geheimnisvolle Fabelwesen: LEGO Minifiguren, beispielsweise ein Elfenzauberer, eine Gnomenkämpferin, ein Zwergkleriker, ein Ork-Räuber und der Drachengeborene Alax Jadeschuppe sowie Monster wie ein Eulenbär und ein Betrachter laden zum Spielen ein
+- Erste Wahl der LEGO Fans: Dieses LEGO Set zum Sammeln gehört zu einer ganzen Reihe von LEGO Ideas Sets für Erwachsene, die von einem Fandesigner entworfen, von den LEGO Fans ausgewählt und dann von der LEGO Gruppe hergestellt werden
+- Zusammen mit Wizards of the Coast entwickelte Kampagne: Lade dir die spielbare Kampagne herunter, die in Zusammenarbeit mit den weltbekannten Wizards of the Coast eigens für dieses kreative Bauset entwickelt wurde
+- Baubares D&D Abenteuer: Suche nach magischen Items, entdecke Easter Eggs und hüte dich vor den Fallen und Zunderheuler dem Roten Drachen, während du die Taverne, den Turm und das Verlies erkundest
+- Nostalgische Geschenkidee: Dieses LEGO Ideas Set ist eine tolle Belohnung für dich selbst oder eine fantastische Geschenkidee für andere kreative Erwachsene, die sich genau wie du für DUNGEONS & DRAGONS Abenteuer begeistern
+- Geschenk für erwachsene Fans: Dungeons & Dragons: Die Sage vom Roten Drachen ist das allererste LEGO Modell aus Forgotten Realms. Mit diesem Set aus LEGO Steinen kannst du eigene Fantasy-Abenteuer darstellen
 - Gemeinsames Bauerlebnis: 4 Broschüren liegen bei, die neben einem Interview mit dem Fandesigner dieses Drachen-Sammelobjekts auch Bauanleitungen für unterschiedliche Teile des Sets enthalten, damit du das Set mit deiner D&D Gruppe bauen kannst
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

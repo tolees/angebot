@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der enthaltenen Mikroorganismus beeinflusst die Darmflora positiv, Wohlbefinden des Hundes wird unterstützt
-- Fütterungsempfehlung pro Tier und Tag: 1 gestrichenen Teelöffel mit nur wenig Futter oder direkt ins Maul vor den Mahlzeiten. Als Kur über 1 Woche oder länger. (1 gestrichener Teelöffel = ca. 4ml = 4 x 10⁹ KBE Enterococcus faecium)
-- Einsatz bei Irritationen des Magen-Darm-Traktes ausgelöst z.B.: nach Futterumstellung, durch Futterunverträglichkeit, durch Stressituatonen oder nach Antibiotikumeinsatz
-- Die physiologische Darmflora wird stabilisiert
-- Zusatzstoffe: 1 x 10¹² KBE Enterococcus faecium (Stamm DSM 10 663 / NCIMB 10 415)
 - Ergänzungsfuttermittel für Hunde
-- Zusammensetzung: Öle und Fette
-- Die Verdaulichkeit des Futters wird verbessert
+- Einsatz bei Irritationen des Magen-Darm-Traktes ausgelöst z.B.: nach Futterumstellung, durch Futterunverträglichkeit, durch Stressituatonen oder nach Antibiotikumeinsatz
 - Inhaltsstoffe: 83,0% Fettgehalt, 5,0% Rohasche, 0,5% Protein, 0,0% Rohfaser
+- Der enthaltenen Mikroorganismus beeinflusst die Darmflora positiv, Wohlbefinden des Hundes wird unterstützt
+- Die physiologische Darmflora wird stabilisiert
+- Die Verdaulichkeit des Futters wird verbessert
+- Zusatzstoffe: 1 x 10¹² KBE Enterococcus faecium (Stamm DSM 10 663 / NCIMB 10 415)
+- Zusammensetzung: Öle und Fette
+- Fütterungsempfehlung pro Tier und Tag: 1 gestrichenen Teelöffel mit nur wenig Futter oder direkt ins Maul vor den Mahlzeiten. Als Kur über 1 Woche oder länger. (1 gestrichener Teelöffel = ca. 4ml = 4 x 10⁹ KBE Enterococcus faecium)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000VBQOSA{{</world>}}

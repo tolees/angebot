@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kompatibilität: Das Zubehör eignet sich ideal für halbstationäre Kreissägen wie die Metabo KGS 254 M Kappsäge
-- Technische Werte: 254 x 2,4 x 30 mm (Durchmesser x Schnittbreite x Bohrung), Material Hartmetall (HW/CT), Zähnezahl 48, Zahnform Wechselzahn (WZ), Stammblattdicke 1,8 mm / Spanwinkel 5° neg.
-- Lieferumfang: 1 x Metabo Sägeblatt "precision cut wood - classic" (628061000) / Für halbstationäre Kreissägen
-- Anwendungsbereiche: Das Sägeblatt eignet sich ideal für Voll- und Schichtholz, Spanplatten roh, beschichtet oder furniert sowie für MDF und Verbundwerkstoffe
 - Das Metabo Kreissägeblatt "precision cut wood classic" bietet ein breites Einsatzspektrum in der Holzbearbeitung - für saubere Schnittergebnisse bei Längs- und Querschnitten in Weich- und Hartholz
+- Kompatibilität: Das Zubehör eignet sich ideal für halbstationäre Kreissägen wie die Metabo KGS 254 M Kappsäge
+- Anwendungsbereiche: Das Sägeblatt eignet sich ideal für Voll- und Schichtholz, Spanplatten roh, beschichtet oder furniert sowie für MDF und Verbundwerkstoffe
+- Lieferumfang: 1 x Metabo Sägeblatt "precision cut wood - classic" (628061000) / Für halbstationäre Kreissägen
+- Technische Werte: 254 x 2,4 x 30 mm (Durchmesser x Schnittbreite x Bohrung), Material Hartmetall (HW/CT), Zähnezahl 48, Zahnform Wechselzahn (WZ), Stammblattdicke 1,8 mm / Spanwinkel 5° neg.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00FKK72OC{{</world>}}

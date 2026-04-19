@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Futter: 95 % Stoff (80% Wolle - 20% TENCEL) 4 % Schweinsleder 1 % recyceltes Polyester
 - Farbe: Dunkelbraun
 - Obbermaterial: 100 % Rindsleder
 - Laufsohle: 80% TPU - 20% recyceltes TPU
-- Futter: 95 % Stoff (80% Wolle - 20% TENCEL) 4 % Schweinsleder 1 % recyceltes Polyester
 - Better Leather,Better Outsoles
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

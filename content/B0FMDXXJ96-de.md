@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfache und sichere Befestigung an der Wand oder abgehängter Decke mit den mitgelieferten Befestigungsteilen.
-- Vereinfachte Bereitstellung mit PoE oder Stromversorgung durch das optionale PAV12V-Netzteil (separat erhältlich).
-- WiFi 6-Dualband mit AX3000-Geschwindigkeit zusammen mit MU-MIMO-Technologie unterstützt bis zu 256 Client-Geräte und eine Abdeckung von 250 m².
 - Umfasst WPA3, Netzwerk- und Client-Isolierung und Erkennung nicht autorisierter APs.
 - Einschließlich bis zu 8 SSIDs, OFDMA, Bandsteuerung und Beamforming+.
+- WiFi 6-Dualband mit AX3000-Geschwindigkeit zusammen mit MU-MIMO-Technologie unterstützt bis zu 256 Client-Geräte und eine Abdeckung von 250 m².
+- Einfache und sichere Befestigung an der Wand oder abgehängter Decke mit den mitgelieferten Befestigungsteilen.
 - Mesh-Funktionen für reibungsloses Roaming und stark skalierbare Abdeckungsbereiche
 - Verbinden Sie dem kabelgebundenen Netzwerkanschluss mit dem 1G-Anschluss für maximale Geschwindigkeit.
+- Vereinfachte Bereitstellung mit PoE oder Stromversorgung durch das optionale PAV12V-Netzteil (separat erhältlich).
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FMDXXJ96{{</world>}}

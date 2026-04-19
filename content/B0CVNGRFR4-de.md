@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- GREEN SHAPE: Die Jacke hat das VAUDE Green Shape-Label & steht für ein nachhaltiges Produkt aus bluesign-zertifizierten Materialien. Die Umwelt wird geschont, ohne auf Funktionalität zu verzichten
 - ATMUNGSAKTIV: Die seitlichen Zonen der Winterjacke aus Performance Stretch sorgen für Bewegungsfreiheit & hohe Atmungsaktivität, damit Du auch bei intensiven Outdoor-Aktivitäten trocken bleibst
+- KOMPAKT: Die Herren Steppjacke besticht durch ein geringes Gewicht & ein kompaktes Packmaß. Damit ist die Outdoorjacke ein idealer Begleiter für Deine Abenteuer & passt problemlos in jeden Rucksack
 - Passform: Slim fit; WÄRMEISOLIERUNG: Die Sesvenna Übergangsjacke Herren ist mit hochwertiger PrimaLoft Silver Insulation Eco ausgestattet, die für optimalen Wärmeschutz und Isolierung bei kalten Temperaturen sorgt
 - VIELSEITIG: Die Winterjacke ist für Aktivitäten wie Wandern, Skitouren oder Spaziergänge, aber auch als bequeme Freizeitjacke geeignet. Ob Berg oder Stadt, sie passt sich Deinen Bedürfnissen an
-- KOMPAKT: Die Herren Steppjacke besticht durch ein geringes Gewicht & ein kompaktes Packmaß. Damit ist die Outdoorjacke ein idealer Begleiter für Deine Abenteuer & passt problemlos in jeden Rucksack
-- GREEN SHAPE: Die Jacke hat das VAUDE Green Shape-Label & steht für ein nachhaltiges Produkt aus bluesign-zertifizierten Materialien. Die Umwelt wird geschont, ohne auf Funktionalität zu verzichten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CVNGRFR4{{</world>}}

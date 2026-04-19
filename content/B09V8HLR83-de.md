@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einzigartige Formel – Die wirksame Anti-Age Augencreme kombiniert reines Retinol zur Förderung der Kollagenproduktion, Myrtenblatt-Extrakt zur Steigerung der Retinol-Wirksamkeit und Hyaluronsäure für intensive Feuchtigkeit und pralle Haut
 - Anwendung – 1x täglich drei kleine Tropfen Augenpflege Creme auf die Augenpartie auftragen, sanft um die Augenkontur herum einklopfen und dabei den direkten Kontakt mit den Augen vermeiden
+- Einzigartige Formel – Die wirksame Anti-Age Augencreme kombiniert reines Retinol zur Förderung der Kollagenproduktion, Myrtenblatt-Extrakt zur Steigerung der Retinol-Wirksamkeit und Hyaluronsäure für intensive Feuchtigkeit und pralle Haut
 - Sichtbare Ergebnisse* – Die parfümfreie Creme für die Augen ist so effektiv, dass bei 100% der Testerinnen eine sichtbare Wirkung bestätigt wurde*. (*Wissenschaftliche Bewertung durch Dermatologen mit 36 Probanden, 1x tägliche Anwendung)
 - Lieferumfang – 1 x 15 ml Neutrogena Retinol Boost Augencreme effektive Anti-Age Augenpflege Creme mit Retinol, Myrtenblatt Extrakt & Hyaluronsäure für jünger & gesund aussehende Haut
 - Die parfümfreie Neutrogena Retinol Boost Augencreme bekämpft sichtbare Zeichen der Hautalterung: feine Linien, Krähenfüße und eine müde aussehende Augenpartie. Spendet Feuchtigkeit. Für jünger und gesund aussehende Haut

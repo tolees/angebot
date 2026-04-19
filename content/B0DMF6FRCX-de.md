@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kabelloser* Betrieb für flexible Rasenpflege: Du kannst sofort loslegen ohne Kabel, Antennen oder Sendemasten zu installieren
-- Lieferumfang: 1 x Gardena smart SILENO free 750 m², 1 x Ladestation, 1 x smart Gateway, 1 x Installationshilfe, 1x deutsches Benutzerhandbuch
-- LONA Intelligence* für individuelle Gartenpflege: KI-basierte Technologie, die lernt, Geländekarten erstellt und sich individuellen Gärten anpasst
 - Sicheres Mähen mit optionalem Antikollisions-Radar: Antikollisions-Radar (separat erhältlich) schützt den Mäher vor Kollisionen mit Hindernissen im Garten
+- LONA Intelligence* für individuelle Gartenpflege: KI-basierte Technologie, die lernt, Geländekarten erstellt und sich individuellen Gärten anpasst
+- Lieferumfang: 1 x Gardena smart SILENO free 750 m², 1 x Ladestation, 1 x smart Gateway, 1 x Installationshilfe, 1x deutsches Benutzerhandbuch
 - Präzises Mähen dank Trim-to-Edge-Technologie: Trim-to-Edge schneidet dicht an festen Kanten wie Mauern und Zäunen entlang
+- Kabelloser* Betrieb für flexible Rasenpflege: Du kannst sofort loslegen ohne Kabel, Antennen oder Sendemasten zu installieren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DMF6FRCX{{</world>}}

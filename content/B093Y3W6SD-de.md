@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Star Wars Logo Licht, Wandmontage und freistehend
 - Paladone
+- Star Wars Logo Licht, Wandmontage und freistehend
 - Offizielles Lizenzprodukt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

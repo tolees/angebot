@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ✅ Multifunktionaler 360-Grad-Drehsitz und multidirektionale Räder, Belastbarkeit 130 kg, Neigefunktion von 90 bis 130 Grad mit stufenloser Winkelsperre
 - ✅ Abmessungen L (94-115) x B 68 x H (124-132) cm. Sitzhöhe verstellbar von 43 cm bis 50 cm.
 - ✅ Vielseitig einsetzbar: Der Gaming-Stuhl eignet sich zum Spielen, Entspannen und für die Büroarbeit.
+- ✅ Multifunktionaler 360-Grad-Drehsitz und multidirektionale Räder, Belastbarkeit 130 kg, Neigefunktion von 90 bis 130 Grad mit stufenloser Winkelsperre
 - ✅ Rollen sorgen für Stabilität und leises Rollen. Das abriebfeste Öko-Leder ist weich und angenehm im Griff und bietet maximalen Komfort.
 - ✅ Einzigartiger Ruhemodus: Der Gaming-Sessel ist perfekt für eine kleine Pause geeignet. Einfach die Rückenlehne auf ihr Maximus neigen und die Fußstütze ausklappen. So gönnst Du Dir direkt auf dem PC-Stuhl den verdienten Power-Nap.
 

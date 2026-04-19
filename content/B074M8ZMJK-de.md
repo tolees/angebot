@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leicht zu montieren - alles dabei! Die Installationsanleitung ist eindeutig, selbsterklärend und enthält ein Inhaltsverzeichnis. Sie ist außerdem mit Zeichnungen und Piktogrammen bebildert.
 - neigbar: -10° bis 3°, schwenkbar: -90° bis 90°, Wandabstand: 62-309mm, Traglast: max. 20,0kg
-- Wandhalterung für TV Geräte mit 81-140 cm (32 -55 Zoll), VESA 200x100, 200x200,300x300,400x200,400x400,
-- Die genannten, kompatiblen Displayformate beruhen auf Erfahrungswerten. VESA-Lochmaß und Gewicht Ihres TV bestimmen ausschließlich die Kompatibilität zu unseren Wandhalterungen. Mit VESA 200x200,400x200,300x300,400x400 und 20kg Tragkraft ist die Halterung universell einsetzbar.
 - Folgende VESA-Maße werden unterstützt: VESA 200x200,400x200,300x300,400x400
+- Wandhalterung für TV Geräte mit 81-140 cm (32 -55 Zoll), VESA 200x100, 200x200,300x300,400x200,400x400,
+- Leicht zu montieren - alles dabei! Die Installationsanleitung ist eindeutig, selbsterklärend und enthält ein Inhaltsverzeichnis. Sie ist außerdem mit Zeichnungen und Piktogrammen bebildert.
+- Die genannten, kompatiblen Displayformate beruhen auf Erfahrungswerten. VESA-Lochmaß und Gewicht Ihres TV bestimmen ausschließlich die Kompatibilität zu unseren Wandhalterungen. Mit VESA 200x200,400x200,300x300,400x400 und 20kg Tragkraft ist die Halterung universell einsetzbar.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B074M8ZMJK{{</world>}}

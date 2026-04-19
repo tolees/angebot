@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Viele Graphit- und Farbminenminen: Inklusive ausreichend starker und glatter Minenminen für Ihr tägliches künstlerisches Schreiben und Zeichnen. Schwarze HB-Minenminen mit 6 Tuben, 0,5 mm, 0,7 mm und 0,9 mm. 10 Tuben mit 2 mm Graphitminen unterschiedlicher Härte für Kunstschattierungen (2B, HB, 2H, 4H, 4B, 6B und 36 verschiedene Farben).
+- Fantastisches Künstlerset: Enthält 6 mechanische Zeichenstifte aus Metall, darunter 0,5 mm, 0,7 mm, 0,9 mm und 2,0 mm, jeweils in einer anderen Strichstärke für eine Vielzahl von Skizziertechniken. Im Lieferumfang sind 3 weiche 4B-Radiergummis und 18 Mini-Kappen-Radiergummi-Nachfüllpackungen enthalten, die Graphitmarkierungen sauber und vollständig vom Papier entfernen
 - Federmäppchen aus Leder: Hergestellt aus echtem Leder mit starkem Reißverschluss, langlebig, Qualität garantiert. Gehäusegröße: 7 x 5 x 1 Zoll, einschließlich unabhängigem Stiftstecker und Netztasche zur Aufbewahrung kleiner Gegenstände
 - Ideale für Künstler, Profis, Lehrer und Studenten gleichermaßen. Praktisch, um Ihr gesamtes Druckbleistift Set überallhin mitzunehmen. Perfekt zum Schreiben, Zeichnen, Zeichnen und Skizzieren
 - Gutes Gewicht und reibungsloses Schreiben: Der Metallstift mit Ganzmetallgehäuse sorgt für eine gute Gewichtsverteilung für ermüdungsfreies Schreiben und Zeichnen. Für die 2,0-Mine sind zwei zusätzliche Minenspitzer im Lieferumfang enthalten, damit die feine Spitze erhalten bleibt, wenn sie stumpf wird.
-- Fantastisches Künstlerset: Enthält 6 mechanische Zeichenstifte aus Metall, darunter 0,5 mm, 0,7 mm, 0,9 mm und 2,0 mm, jeweils in einer anderen Strichstärke für eine Vielzahl von Skizziertechniken. Im Lieferumfang sind 3 weiche 4B-Radiergummis und 18 Mini-Kappen-Radiergummi-Nachfüllpackungen enthalten, die Graphitmarkierungen sauber und vollständig vom Papier entfernen
+- Viele Graphit- und Farbminenminen: Inklusive ausreichend starker und glatter Minenminen für Ihr tägliches künstlerisches Schreiben und Zeichnen. Schwarze HB-Minenminen mit 6 Tuben, 0,5 mm, 0,7 mm und 0,9 mm. 10 Tuben mit 2 mm Graphitminen unterschiedlicher Härte für Kunstschattierungen (2B, HB, 2H, 4H, 4B, 6B und 36 verschiedene Farben).
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BCFPMD76{{</world>}}

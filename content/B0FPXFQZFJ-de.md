@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DIGITALE BAUANLEITUNG FÜR MEHR SPIELSPASS: Mit der LEGO Builder App können Kinder Sets speichern, ihren Baufortschritt verfolgen und Modelle in 3D drehen und heranzoomen für ein noch intuitiveres Bauerlebnis
-- SPIELZEUG MIT POLIZEIZUG: Dieses spannende LEGO City Set bringt Action auf die Schienen mit einem motorisierten Zug, Hubschrauber, Rallyeauto, Schienen sowie 6 Minifiguren für fantasievolles Spiel
-- MEHR LEGO CITY SETS ZU ENTDECKEN: Noch mehr Spaß und Abenteuer entstehen, wenn dieses Zugset mit weiteren Bausets (separat erhältlich) aus der LEGO City Reihe kombiniert wird
-- SPIELSET MIT VIEL ZUBEHÖR: Kinder finden hier alles, was sie brauchen, um eine Lok, 3 Flachwagen, 1 Rallyeauto, 1 Hubschrauber, 1 Gefängniszelle, 1 Tresor, 1 Bahnübergang und 1 Figuren Team zu bauen
 - SPANNENDE FUNKTIONEN FÜR ROLLENSPIELE: Enthält einen Ganoven-Helikopter mit Greifklaue zum Stehlen des Banktresors, Rallyeautos und der Gefängniszelle vom Polizeizug
-- MODELLEISENBAHN ALS KINDER GESCHENK: Dieses Bauset ist ein cooles Geburtstagsgeschenk für Jungen und Mädchen ab 7 Jahren, die Spielzeugzüge und Polizeispielsets mögen
 - ELEKTRONISCHER SPIELZUG MIT APP-STEUERUNG: Die motorisierte Lok fährt auf einer ovalen Strecke und lässt sich ganz bequem mit der beiliegenden Fernbedienung oder via Powered Up App über ein Smartgerät steuern
+- MODELLEISENBAHN ALS KINDER GESCHENK: Dieses Bauset ist ein cooles Geburtstagsgeschenk für Jungen und Mädchen ab 7 Jahren, die Spielzeugzüge und Polizeispielsets mögen
+- SPIELSET MIT VIEL ZUBEHÖR: Kinder finden hier alles, was sie brauchen, um eine Lok, 3 Flachwagen, 1 Rallyeauto, 1 Hubschrauber, 1 Gefängniszelle, 1 Tresor, 1 Bahnübergang und 1 Figuren Team zu bauen
+- DIGITALE BAUANLEITUNG FÜR MEHR SPIELSPASS: Mit der LEGO Builder App können Kinder Sets speichern, ihren Baufortschritt verfolgen und Modelle in 3D drehen und heranzoomen für ein noch intuitiveres Bauerlebnis
+- MEHR LEGO CITY SETS ZU ENTDECKEN: Noch mehr Spaß und Abenteuer entstehen, wenn dieses Zugset mit weiteren Bausets (separat erhältlich) aus der LEGO City Reihe kombiniert wird
+- SPIELZEUG MIT POLIZEIZUG: Dieses spannende LEGO City Set bringt Action auf die Schienen mit einem motorisierten Zug, Hubschrauber, Rallyeauto, Schienen sowie 6 Minifiguren für fantasievolles Spiel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FPXFQZFJ{{</world>}}

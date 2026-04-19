@@ -29,15 +29,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Federung und Energierückgabe dank weicher, ultra-leichter PHORENE Zwischensohle
-- Polsterung und Flexibilität dank der ECCO FLUIDFORM Direct Comfort Technologie
 - Der Shank bietet die zusätzliche Stabilität, die Sie auf den Trails brauchen
-- Shank provides the additional stability you need when hitting the trails
-- Soft, ultra-light PHORENE midsole for bounce and energy return
-- Fully PFC-free to reduce the environmental impact
 - Gefertigt aus einer Mischung aus Premium-Leder und Textil
-- ECCO’s own PFC-free waterproof membrane keeps your foot dry and cosy
 - Modern, lighter look with a mix of oiled nubuck and nubuck leathers made in ECCOs gold-rated tanneries using water-saving DriTan Technology, and a premium textile
+- Polsterung und Flexibilität dank der ECCO FLUIDFORM Direct Comfort Technologie
+- Shank provides the additional stability you need when hitting the trails
+- ECCO’s own PFC-free waterproof membrane keeps your foot dry and cosy
+- Fully PFC-free to reduce the environmental impact
 - PFAS-freie, wasserdichte Membran, die den Fuß trocken hält
+- Soft, ultra-light PHORENE midsole for bounce and energy return
 - Innovative, unverwechselbare Laufsohle mit Michelin-Gummi, multidirektionalen Rillen und zwei unterschiedlichen Zonen, die Griffigkeit, Strapazierfähigkeit und Halt bietet
 
 [🛒 Hier!!]({{< param buyurl >}})

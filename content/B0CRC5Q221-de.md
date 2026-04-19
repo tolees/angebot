@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Dunkelbraun
-- Laufsohle: 80% TPU - 20% recyceltes TPU
-- Better Leather,Better Outsoles
 - Futter: 95 % Stoff (80% Wolle - 20% TENCEL) 4 % Schweinsleder 1 % recyceltes Polyester
+- Better Leather,Better Outsoles
 - Obbermaterial: 100 % Rindsleder
+- Laufsohle: 80% TPU - 20% recyceltes TPU
+- Farbe: Dunkelbraun
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CRC5Q221{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Acryl Farben Set für einen einfachen, direkten Start in die Acrylmalerei; 12 aufeinander abgestimmte, vermischbare Farben auch für Terrakotta; inkl. A4 Acrylmalblock
-- Hochwertige, wasserfeste, pigmentierte Acrylfarben auf Wasserbasis; deckend, lichtecht und permanent für eine saubere Anwendung; seidenmattes Ergebnis
-- 1x A4 Malblock (280g/m² und 10 Blatt) um direkt mit dem Malen und Gestalten zu starten; stabiles Set aus Karton präsentiert die Acrylstifte auf einen Blick
 - 2x edding 5300 Acrylmarker fein für Konturen und Akzente; 1x edding 5400 3D Double Liner; mit 2 unterschiedlich großen Düsen für einzigartige Effekte
+- Hochwertige, wasserfeste, pigmentierte Acrylfarben auf Wasserbasis; deckend, lichtecht und permanent für eine saubere Anwendung; seidenmattes Ergebnis
+- Acryl Farben Set für einen einfachen, direkten Start in die Acrylmalerei; 12 aufeinander abgestimmte, vermischbare Farben auch für Terrakotta; inkl. A4 Acrylmalblock
+- 1x A4 Malblock (280g/m² und 10 Blatt) um direkt mit dem Malen und Gestalten zu starten; stabiles Set aus Karton präsentiert die Acrylstifte auf einen Blick
 - 3x edding 5000 Acrylmarker mit breiter Keilspitze für das Bemalen größere Flächen; 6x edding 5100 Acrylmarker medium zum Gestalten unterschiedlicher Motive
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

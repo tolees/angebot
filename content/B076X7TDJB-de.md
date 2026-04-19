@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Rubber
 - Obermaterial: Smooth Leather
+- Sohle: Rubber
 - Innenmaterial: Canvas
 
 [🛒 Hier!!]({{< param buyurl >}})

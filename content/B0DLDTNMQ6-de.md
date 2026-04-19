@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lockere Passform
-- Kordelzug am Knöchel
 - Atmungsaktiv und leicht
+- Kordelzug am Knöchel
 - Elastischer Bund
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Exklusive Garantieverlängerung bei Amazon】2 Jahre Herstellergarantie + 1 zusätzliches Jahr Garantie, einlösbar über den Xiaomi Kundenservice.
+- 【Premium-Design mit Flaggschiff-Ausstattung】Ultraschall-Fingerabdrucksensor für schnelles und sicheres Entsperren. Symmetrische Dual-Stereo-Lautsprecher (1115F) liefern kraftvollen Sound. Unterstützt erstmals eSIM in der X-Serie sowie Xiaomi Offline Communication. Ausgestattet mit dem neuesten Xiaomi HyperOS 3.
 - 【Flaggschiff-Leistung mit Dimensity 9500s】Der Dimensity 9500s Prozessor im fortschrittlichen 3nm-Prozess mit 4+4 All-Big-Core Architektur und NPU890 AI Engine sorgt für extreme Performance. WildBoost-Optimierung, bis zu 120FPS Smart Frame Rate und ein POCO 3D IceLoop Kühlsystem garantieren flüssiges Gaming und effiziente Wärmeableitung.
 - 【8500mAh Akku mit 100W HyperCharge】Der größte Akku in einem POCO Smartphone: 8500mAh Kapazität mit moderner Silizium-Carbon-Technologie (16%). Hohe Energiedichte von 847Wh/L ermöglicht bis zu 2 Tage Akkulaufzeit. Unterstützt 100W HyperCharge Schnellladen für schnelles und effizientes Aufladen.
 - 【50MP Light Fusion 600 Kamera mit OIS】50MP Hauptkamera mit Light Fusion 600 Sensor und optischer Bildstabilisierung (OIS) für klare Fotos und Videos. Zusätzlich mit 8MP Ultraweitwinkelkamera. Unterstützt Portraitmodus mit Bokeh + HDR sowie Video-zu-Dynamic-Shot Konvertierung und AI Kreativ-Assistent mit Blendungsentfernung.
-- 【Premium-Design mit Flaggschiff-Ausstattung】Ultraschall-Fingerabdrucksensor für schnelles und sicheres Entsperren. Symmetrische Dual-Stereo-Lautsprecher (1115F) liefern kraftvollen Sound. Unterstützt erstmals eSIM in der X-Serie sowie Xiaomi Offline Communication. Ausgestattet mit dem neuesten Xiaomi HyperOS 3.
+- 【Exklusive Garantieverlängerung bei Amazon】2 Jahre Herstellergarantie + 1 zusätzliches Jahr Garantie, einlösbar über den Xiaomi Kundenservice.
 - 【6,83" 1.5K 120Hz Ultra-helles AMOLED-Display】Großes 6,83 Zoll AMOLED Display mit 1.5K Auflösung und 120Hz Bildwiederholrate für flüssige Darstellung. Bis zu 3500 Nits Spitzenhelligkeit (25% APL), ultraschmale Displayränder und Eye-Care-Technologie sorgen für ein immersives und augenschonendes Seherlebnis. Geschützt durch Corning Gorilla Glass 7i.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die DJI Neo wiegt nur 135 g, zählt zur Klasse C0 und darf in den Kategorien A1/A3 ohne Prüfung geflogen werden. Diese Mini Drohne ist ultraleicht, tragbar und ideal für Reisen – eine Drohne mit 4K Kamera für Stadt und Outdoor.
-- Die DJI Neo wird standardmäßig mit einem Akku, Propellerschutz und mehr geliefert und kann ohne Controller oder mit einem Smartphone verwendet werden.
-- Mit den Funktionen QuickShot und Smart Follow rückt DJI Neo dich ins Rampenlicht. Dieser Quadcopter ist mit acht kreativen QuickShot-Modi ausgestattet, die professionelle Videoaufnahmen einfacher denn je machen – perfekt für soziale Medien und Reisen.
 - Steuere Kamera Drohne, wie es dir passt – controllerfrei, per Sprachsteuerung (EN/CN), über die DJI App oder mit RC-Fernsteuerung. So filmst du Geburtstage und Familien-Picknicks mühelos; als ferngesteuerte Mini Drohne ist sie besonders einsteigerfreundlich.
-- Mit modernster Stabilisierungstechnologie und Windresistenz Stufe 4 bleiben deine Videos flüssig. Diese Drohne fliegt auch bei Wind zuverlässig und liefert ruhige Aufnahmen – ein stabiler Quadrocopter für Anfänger.
+- Die DJI Neo wird standardmäßig mit einem Akku, Propellerschutz und mehr geliefert und kann ohne Controller oder mit einem Smartphone verwendet werden.
+- Die DJI Neo wiegt nur 135 g, zählt zur Klasse C0 und darf in den Kategorien A1/A3 ohne Prüfung geflogen werden. Diese Mini Drohne ist ultraleicht, tragbar und ideal für Reisen – eine Drohne mit 4K Kamera für Stadt und Outdoor.
+- Mit den Funktionen QuickShot und Smart Follow rückt DJI Neo dich ins Rampenlicht. Dieser Quadcopter ist mit acht kreativen QuickShot-Modi ausgestattet, die professionelle Videoaufnahmen einfacher denn je machen – perfekt für soziale Medien und Reisen.
 - Starte deine Drohne direkt per Handstart: ohne Fernsteuerung, ferngesteuert über die DJI‑App oder per Sprachbefehl – alternativ auch mit RC‑Fernsteuerung. Flexibel einsetzbar bei Grillabenden, Geburtstagen und Wanderungen.
+- Mit modernster Stabilisierungstechnologie und Windresistenz Stufe 4 bleiben deine Videos flüssig. Diese Drohne fliegt auch bei Wind zuverlässig und liefert ruhige Aufnahmen – ein stabiler Quadrocopter für Anfänger.
 - Der integrierte Propellerschutz sorgt für mehr Sicherheit – egal ob drinnen oder im Freien, etwa zwischen Bäumen. So können auch Einsteiger unbesorgt fliegen und die Mini Drohne mit 4K Kamera stressfrei steuern.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- EVA-Zwischensohle
+- Mit dem Obermaterial verbundene Zunge
+- RAIN.RDY
 - Abriebfestes, wasserdichtes Obermaterial aus Mesh; Synthetik-Overlays
 - Schnürsenkel
-- EVA-Zwischensohle
-- RAIN.RDY
-- Mit dem Obermaterial verbundene Zunge
 - Reguläre Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langarm
+- Jeanshemd
 - Comfort Fit
 - Materialzusammensetzung: 100% Baumwolle
-- Jeanshemd
+- Langarm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07CG3FHPN{{</world>}}

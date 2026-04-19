@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 5 Jahre Herstellergarantie: Die hohe Qualität von Material und Verarbeitung garantiert eine lange Lebensdauer
-- Passend zu allen WCs der Duravit Keramikserie D-Code*, selbst zum D-Code Compact WC mit verkürzter Ausladung #221109. *(ausgenommen D-Code Wand-WC Basic #018409)
-- Hochwertige Edelstahl-Scharniere: Rostfrei und robust auch bei hoher Belastung
 - Lieferumfang: WC-Sitz mit Deckel, Befestigungsmaterial, Montageanleitung, Pflegeanleitung
+- Passend zu allen WCs der Duravit Keramikserie D-Code*, selbst zum D-Code Compact WC mit verkürzter Ausladung #221109. *(ausgenommen D-Code Wand-WC Basic #018409)
+- 5 Jahre Herstellergarantie: Die hohe Qualität von Material und Verarbeitung garantiert eine lange Lebensdauer
 - Aus hochwertigem Duroplast: Langlebiges pflegeleichtes Material, staub-, wasser- und schmutzabweisend, antistatisch sowie UV-lichtbeständig
+- Hochwertige Edelstahl-Scharniere: Rostfrei und robust auch bei hoher Belastung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01HGGCGFC{{</world>}}

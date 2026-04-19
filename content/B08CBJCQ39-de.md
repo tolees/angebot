@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - AUSSERGEWÖHNLICH EINFACH ZU REINIGEN – Für Ihre Bequemlichkeit können Sie die LatteGo-Abtropfschale und den Kaffeesatzbehälter in die Spülmaschine geben. Das spart Zeit und sorgt für eine hygienische Reinigung.
+- 12 KÖSTLICHE KAFFEEARTEN – Jeder Moment hat seine eigene Kaffeesorte zum Genießen. Vom kraftvollen Espresso bis zum genussvollen Cappuccino liefert Ihr Espressovollautomat im Handumdrehen perfekte Ergebnisse in der Tasse, ganz ohne großen Aufwand.
 - PERFEKTE TEMPERATUR UND PERFEKTES AROMA – Das Aroma-Extrakt-System gleicht Brühtemperatur und Aromaextraktion optimal aus, hält die Wassertemperatur zwischen 90 und 98 °C und reguliert die Durchflussrate für jederzeit köstlichen Kaffee.
 - 100% KERAMIKMAHLWERK – Verbessern Sie den Geschmack Ihres Kaffees mit langlebigen Keramikmahlwerken. Entwickelt für optimales Aroma und Geschmack, mahlt es von grob bis ultrafein und hält mindestens 20.000 Tassen.
 - INTUITIVES DISPLAY – Einfach bedienbares Display für köstlichen Kaffee. Passen Sie den Geschmack frischer Bohnen individuell an und genießen Sie Ihre perfekte Tasse in wenigen Schritten.
-- 12 KÖSTLICHE KAFFEEARTEN – Jeder Moment hat seine eigene Kaffeesorte zum Genießen. Vom kraftvollen Espresso bis zum genussvollen Cappuccino liefert Ihr Espressovollautomat im Handumdrehen perfekte Ergebnisse in der Tasse, ganz ohne großen Aufwand.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08CBJCQ39{{</world>}}

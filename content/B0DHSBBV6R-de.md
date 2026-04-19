@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BAUSET MIT RENNSPORTFIGUR: Zum Fahrzeug gehört eine Rennfahrer Minifigur im Ferrari Rennoverall mit Helm, die im Cockpit platziert werden kann und dem Modell einen authentischen Rennsportcharakter verleiht
-- AUTHENTISCHE FERRARI DETAILS: Das F1 Modellauto überzeugt mit Heckflügel, Halo-Bügel, Sponsorenaufklebern und breiteren Hinterreifen mit Pirelli Aufdruck, angelehnt an das Design der Saison 2024
-- F1 MODELLAUTO FÜR ERWACHSENE: Der LEGO Speed Champions Ferrari SF-24 F1 Rennwagen lässt sich bauen, ausstellen oder ins Rennen schicken und bringt die Dynamik der Formel-1-Saison 2024 ins Regal
 - FORMEL 1 GESCHENK ZUM VATERTAG: Dieses Bauset ist ein beliebtes Vatertagsgeschenk für Papa und erwachsene Motorsportfans, die Ferrari, Rennwagen Design und kompakte Modellbauprojekte schätzen
 - ERWEITERBARE RENNEN-SAMMLUNG: Weitere separat erhältliche LEGO Speed Champions F1 Modelle ermöglichen es, eine persönliche Sammlung moderner Rennwagen aufzubauen und verschiedene Teams zu kombinieren
+- F1 MODELLAUTO FÜR ERWACHSENE: Der LEGO Speed Champions Ferrari SF-24 F1 Rennwagen lässt sich bauen, ausstellen oder ins Rennen schicken und bringt die Dynamik der Formel-1-Saison 2024 ins Regal
+- BAUSET MIT RENNSPORTFIGUR: Zum Fahrzeug gehört eine Rennfahrer Minifigur im Ferrari Rennoverall mit Helm, die im Cockpit platziert werden kann und dem Modell einen authentischen Rennsportcharakter verleiht
 - GESCHENK FÜR KINDER UND ERWACHSENE MOTORSPORTFANS: Das actionreiche Spielzeugauto ist eine Formel 1 Geschenkidee für Jungen und Mädchen ab 10 Jahren sowie für Erwachsene mit Leidenschaft für Ferrari
+- AUTHENTISCHE FERRARI DETAILS: Das F1 Modellauto überzeugt mit Heckflügel, Halo-Bügel, Sponsorenaufklebern und breiteren Hinterreifen mit Pirelli Aufdruck, angelehnt an das Design der Saison 2024
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DHSBBV6R{{</world>}}

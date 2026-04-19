@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kraftform Micro Schraubendreher für Kreuzschlitzschrauben Phillips-Recess
+- Die Wera Black Point-Spitze bietet Passgenauigkeit und optimierten Korrosionsschutz
 - Mehrkomponentiger Kraftform Micro Griff für schnelles und ergonomisches Verschrauben
 - Z. B. für Elektroniker, Optiker, Feinmechaniker, Juweliere oder EDV-Hardwaremonteure
+- Kraftform Micro Schraubendreher für Kreuzschlitzschrauben Phillips-Recess
 - Mit Abrollschutz und drehbarer Kappe für schnelles Zwirbeln
-- Die Wera Black Point-Spitze bietet Passgenauigkeit und optimierten Korrosionsschutz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B008F7XMK0{{</world>}}

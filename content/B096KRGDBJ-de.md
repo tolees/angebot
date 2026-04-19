@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vegan
 - Keil-Passform
+- Vegan
 - Luftgekühlter Memory-Schaum
 - Skech Air-Technologie
 - Bequemer Schuh

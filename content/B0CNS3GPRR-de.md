@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- In den Stoff gestanzter Print mit 3D-Look
 - Locker geschnitten
+- In den Stoff gestanzter Print mit 3D-Look
 - Gebürstetes Material mit weicher Innenseite
 - Futter Kapuze aus gleichem Material
 

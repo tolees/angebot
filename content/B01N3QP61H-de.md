@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Locker geschnitten
 - Ideal für jede Gelegenheit und jede Jahreszeit
-- Mit regulärer Passform
 - Im legeren Look
+- Mit regulärer Passform
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01N3QP61H{{</world>}}

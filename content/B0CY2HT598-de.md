@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Mesh Master-Funktion: FRITZ!Box fasst verteilte WLAN-Zugangspunkte (z.B. FRITZ!Repeater) zu einem dynamischen intelligenten WLAN-Netz zusammen
+- 4 Gigabit-LAN-Anschlüsse, 1x 2,5 Gigabit-LAN-Anschluss, 1 USB 2.0-Anschlüsse für Drucker und Speichermedien, integrierter Mediaserver (UPnP AV) für Filme, Fotos und Musik im Heimnetz
+- 2 x 2 Wi-Fi 7 mit bis zu 2.880 MBit/s (5 GHz) und 688 MBit/s (2,4 GHz) für stabile Gigabit-Geschwindigkeiten bei einer Vielzahl an Endgeräten
+- Lieferumfang: FRITZ!Box 6670 Cable, Netzteil, 1,5 Meter Koaxialkabel, 1,5 Meter LAN-Kabel, Installationsanleitung
 - Integration von smarten Geräten mit den Funkstandards Zigbee (3.0-kompatibel) und DECT ULE per Tastendruck für ein noch vielseitigeres Smart Home
 - Router mit integriertem DOCSIS-3.1-Kabelmodem, abwärtskompatibel zu DOCSIS 3.0, geeignet für alle Kabelanschlüsse inkl. Vodafone, Unitymedia u.v.m
-- 2 x 2 Wi-Fi 7 mit bis zu 2.880 MBit/s (5 GHz) und 688 MBit/s (2,4 GHz) für stabile Gigabit-Geschwindigkeiten bei einer Vielzahl an Endgeräten
 - HINWEIS: Diese FRITZ!Box ist mit dem integrierten Kabelmodem nur für Kabelnetze nutzbar, ein DSL/VDSL-Anschluss ist nicht möglich
-- Lieferumfang: FRITZ!Box 6670 Cable, Netzteil, 1,5 Meter Koaxialkabel, 1,5 Meter LAN-Kabel, Installationsanleitung
-- 4 Gigabit-LAN-Anschlüsse, 1x 2,5 Gigabit-LAN-Anschluss, 1 USB 2.0-Anschlüsse für Drucker und Speichermedien, integrierter Mediaserver (UPnP AV) für Filme, Fotos und Musik im Heimnetz
-- Mesh Master-Funktion: FRITZ!Box fasst verteilte WLAN-Zugangspunkte (z.B. FRITZ!Repeater) zu einem dynamischen intelligenten WLAN-Netz zusammen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CY2HT598{{</world>}}

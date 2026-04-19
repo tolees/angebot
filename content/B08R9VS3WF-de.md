@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- für Kinder ab 3 Jahren geeignet
 - durch Herausnehmen der Drillingssitze können auch Babies im Kinderwagen fahren
-- die Drillingssitze können auch im Auto als Autositz verwendet werden
+- für Kinder ab 3 Jahren geeignet
 - Sylvanian Families fördert das Rollenspiel bei Kindern
+- die Drillingssitze können auch im Auto als Autositz verwendet werden
 - Kinderwagen für Drillinge und Babies
 
 [🛒 Hier!!]({{< param buyurl >}})

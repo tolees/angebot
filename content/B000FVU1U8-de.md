@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - ANWENDUNG: Bei Inbetriebnahme und Neueinrichtung der Filtertechnik, nach Filterreinigung & Medikamentenbehandlung von Teichfischen auf angefeuchtetes Filtermaterial streuen und 2 Std. einwirken lassen
-- REIN BIOLOGISCH: Die speziell gezüchteten, hochreinen FilterstarterBakterien von Söll (100 g für 15.000 Liter) aktivieren sofort die natürlichen biologischen Reinigungskräfte im Teichfilter
-- EMPFOHLENE DOSIERUNG: Die Portionsgröße der Bakterien von 100 g ist ausreichend für Teiche mit Wasservolumen von 15.000 Liter (bei starkem Fischbesatz ist eine Überdosierung empfehlenswert)
 - BAUT ABFALLSTOFFE AB: Die Starterbakterien unterstützen einen raschen Schadstoffabbau und beseitigen unerwünschte Stressfaktoren für Fische - die Teichbewohner werden widerstandsfähiger und vitaler
 - SCHNELLE FILTERWIRKUNG UND VERLÄNGERTE FILTERSTANDZEIT: Die hochspezialisierten Teichbakterien fördern den Abbau von Pflanzenresten im Wasser und verlängern somit die Filter-Standzeit erheblich
+- EMPFOHLENE DOSIERUNG: Die Portionsgröße der Bakterien von 100 g ist ausreichend für Teiche mit Wasservolumen von 15.000 Liter (bei starkem Fischbesatz ist eine Überdosierung empfehlenswert)
+- REIN BIOLOGISCH: Die speziell gezüchteten, hochreinen FilterstarterBakterien von Söll (100 g für 15.000 Liter) aktivieren sofort die natürlichen biologischen Reinigungskräfte im Teichfilter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000FVU1U8{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- AI-Funktionen: AI Erase Pro, AI Image Expansion, Gemini, Circle to Search von Google
-- 5110mAh Akku mit 45W TurboCharge: Akku mit hoher Energiedichte, der Temperaturen von bis zu -30℃ aushält
-- MediaTek Dimensity 7300-Ultra: Leistungsstarker und energieeffizienter 4nm 5G Prozessor
 - 1,5K 120Hz Augenschutzdisplay, Corning Gorilla Glass Victus 2, IP68 staub- und wasserdicht
 - 200MP professionelles AI-Kamerasystem: Dank AI macht das Fotografieren noch viel mehr Spaß. Alles wird einfacher und intelligenter, was die gesamte Benutzererfahrung verbessert
+- MediaTek Dimensity 7300-Ultra: Leistungsstarker und energieeffizienter 4nm 5G Prozessor
+- AI-Funktionen: AI Erase Pro, AI Image Expansion, Gemini, Circle to Search von Google
+- 5110mAh Akku mit 45W TurboCharge: Akku mit hoher Energiedichte, der Temperaturen von bis zu -30℃ aushält
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DKY6ZXYM{{</world>}}

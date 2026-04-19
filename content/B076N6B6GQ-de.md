@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Unterstützung für VESA-Halterungen 75 x 75 und 100 x 100
 - Verstellbarer Riemen fixiert das Gerät sicher
 - Trägt bis zu 5 kg
 - Gummipads zur Vermeidung von Schäden an Ihrem Gerät
 - Sparen Sie Platz und reduzieren Sie das Kabelgewirr, indem Sie Ihren thin-client PC oder Ihre Dockingstation an der Rückseite Ihres Monitors, an einer Monitorhalterung, unter Ihrem Schreibtisch oder an der Wand befestigen
+- Unterstützung für VESA-Halterungen 75 x 75 und 100 x 100
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B076N6B6GQ{{</world>}}

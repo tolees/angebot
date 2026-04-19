@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LICHTEFFEKTE: Inklusive Spectra-Sensorlichtern und Kinnleuchten mit automatischer Abschaltfunktion
-- ZUM AUFBAU EINER EIGENEN SAMMLUNG: Es gibt noch andere Rollenspielartikel aus der Black Series wie die Force FX Elite Lightsabers (jeweils separat erhältlich. Je nach Verfügbarkeit).
-- PREMIUM DESIGN: Hiermit können Fans und Sammler mit einem Helm in Erscheinung treten, der von der schwarzen Rüstung eines Death Troopers inspiriert ist und ein detailliertes Design zeigt
-- ROGUE ONE: A STAR WARS STORY: Dieser offiziell lizenzierte Black Series Helm basiert auf dem Helm eines Imperialen Death Troopers in Rogue One: A Star Wars Story und im Star Wars Entertainment
 - VERSTELLBARE PASSFORM: Der Helm ist gepolstert und kann an die meisten Kopfgrößen angepasst werden
+- LICHTEFFEKTE: Inklusive Spectra-Sensorlichtern und Kinnleuchten mit automatischer Abschaltfunktion
+- ROGUE ONE: A STAR WARS STORY: Dieser offiziell lizenzierte Black Series Helm basiert auf dem Helm eines Imperialen Death Troopers in Rogue One: A Star Wars Story und im Star Wars Entertainment
+- PREMIUM DESIGN: Hiermit können Fans und Sammler mit einem Helm in Erscheinung treten, der von der schwarzen Rüstung eines Death Troopers inspiriert ist und ein detailliertes Design zeigt
+- ZUM AUFBAU EINER EIGENEN SAMMLUNG: Es gibt noch andere Rollenspielartikel aus der Black Series wie die Force FX Elite Lightsabers (jeweils separat erhältlich. Je nach Verfügbarkeit).
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DMS3MK2S{{</world>}}

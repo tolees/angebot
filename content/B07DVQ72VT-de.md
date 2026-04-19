@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kantenfräsenmodul für Multifunktionsfräsen DRT50/RT0700C Kantenfräsenmodul mit gummierter Grifffläche und großer Öffnung für beste Sicht auf den Fräser
 - Präzise Tiefeneinstellung und sichere Arretierung
+- Kantenfräsenmodul für Multifunktionsfräsen DRT50/RT0700C Kantenfräsenmodul mit gummierter Grifffläche und großer Öffnung für beste Sicht auf den Fräser
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07DVQ72VT{{</world>}}

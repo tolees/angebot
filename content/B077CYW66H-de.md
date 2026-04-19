@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dämpfende Zwischensohle für Komfort
 - Durchgehende Schnürung für einen festen Sitz
+- Dämpfende Zwischensohle für Komfort
 - Obermaterial aus Veloursleder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

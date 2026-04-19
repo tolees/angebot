@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wählen Sie bitte Ihr Fahrzeug in der Auswahlliste, um die Kompatibilität mit dem Produkt zu überprüfen.
 - KARCHER Nass- / Trockensauger
+- Wählen Sie bitte Ihr Fahrzeug in der Auswahlliste, um die Kompatibilität mit dem Produkt zu überprüfen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B074XK2D8W{{</world>}}

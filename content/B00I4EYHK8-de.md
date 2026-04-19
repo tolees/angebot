@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Besonders dicker und fluffiger Badteppich aus Baumwolle / Leinen
 - Mit besonders hohen und dichten Schlingen, extra schwer (2250 g / qm)
+- Besonders dicker und fluffiger Badteppich aus Baumwolle / Leinen
 - Zertifiziert nach Öko-Tex Standard 100 (schadstoffgeprüft), bestens geeignet für Allergiker und empfindliche Babyhaut (Produktklasse 1)
 - Erhältlich in der Farbe nature, waschbar bei 30° C und trocknergeeignet
 

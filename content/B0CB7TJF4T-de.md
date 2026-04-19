@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ortholite-Einlegesohle.
-- Sehr abriebfeste Gummi-Außensohle.
-- Sehr abriebfeste Gummi-Außensohle.
 - All-surface rubber outsole
 - Obermaterial aus Leder.
+- Sehr abriebfeste Gummi-Außensohle.
+- Sehr abriebfeste Gummi-Außensohle.
+- Ortholite-Einlegesohle.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CB7TJF4T{{</world>}}

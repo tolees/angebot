@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideal auf Reisen – Das ultradünne Design und der größere, blendfreie Bildschirm sorgen für gut lesbaren Text, jederzeit und überall.
 - Mit gewaltiger Auswahl – Du hast Zugriff auf Millionen von Titeln im Kindle-Shop, und mit einer Kindle Unlimited-Mitgliedschaft stehen dir sogar noch mehr Inhalte zur Verfügung.
+- Ausreichend Akku selbst für deine längsten Romane – Eine einzige Aufladung über USB-C reicht für bis zu 12 Wochen.
+- Ideal auf Reisen – Das ultradünne Design und der größere, blendfreie Bildschirm sorgen für gut lesbaren Text, jederzeit und überall.
 - Wasserfest, für sorgenfreies Lesen – Deine Geschichten immer dabei, auch im Bad, am Pool und überall sonst.
 - Für alle Lichtverhältnisse – Passe die Farbtemperatur an, von weiß bis Bernstein, um sowohl im Dunkeln als auch in der hellen Sonne immer gut zu lesen.
-- Ausreichend Akku selbst für deine längsten Romane – Eine einzige Aufladung über USB-C reicht für bis zu 12 Wochen.
 - Sei ganz in deinen Büchern – Lesen auf deinem Kindle ist frei von sozialen Medien, Benachrichtigungen und anderen Ablenkungen wie Apps.
 - Unser schnellster Kindle – Das neue 7-Zoll-Paperwhite-Display verfügt über höheren Kontrast und Umblättern geht jetzt 25 % schneller.
 

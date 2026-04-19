@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Buffalo Trace Kentucky Straight Bourbon Whiskey, 700ml, 40% Vol, Preisgekrönter Blended Whiskey, Mais, Roggen, Gerstenmalz, Originalrezept, Ideal für Old Fashioned Cocktail, Whisky Geschenk
-- BUFFALO TRACE DESTILLERIE: Als älteste kontinuierlich betriebene Brennerei in Amerika bekannt, stellen wir seit über 200 Jahren Bourbon Whiskey her, und ehren damit die mächtigen Büffel und den freien Geist der Pioniere, die es nach Westen zog
-- VERKOSTUNGSNOTIZEN: Aroma von Vanille, Minze und Melasse und einem angenehm süßen Geschmack mit Noten von braunem Zucker und Gewürzen, die in Eiche, Toffee, dunkle Früchte und Anis übergehen; der Abgang ist lang und weich mit echter Tiefe
-- PREISGEKRÖNTER BOURBON WHISKEY: Im letzten Jahrzehnt hat Buffalo Trace mehr Auszeichnungen gewonnen als jede andere Brennerei weltweit, darunter unangefochtene sieben "Destillerie des Jahres" Titel
-- ÜBERRAGENDER BLENDED WHISKEY: Hergestellt aus bestem Mais, speziell ausgewähltem Roggen und überlegener Malzgerste; jedes Fass wird von unserem Meisterbrenner handverlesen, um eine konstante, überragende Qualität abzuliefern
 - VIELE SERVIERMÖGLICHKEITEN: Pur genießen, auf Eis oder einfache Cocktails wie einen zeitlosen Old Fashioned zubereiten; probieren Sie ihn auf Eis mit Ginger Ale als erfrischende Variante
+- PREISGEKRÖNTER BOURBON WHISKEY: Im letzten Jahrzehnt hat Buffalo Trace mehr Auszeichnungen gewonnen als jede andere Brennerei weltweit, darunter unangefochtene sieben "Destillerie des Jahres" Titel
+- VERKOSTUNGSNOTIZEN: Aroma von Vanille, Minze und Melasse und einem angenehm süßen Geschmack mit Noten von braunem Zucker und Gewürzen, die in Eiche, Toffee, dunkle Früchte und Anis übergehen; der Abgang ist lang und weich mit echter Tiefe
+- BUFFALO TRACE DESTILLERIE: Als älteste kontinuierlich betriebene Brennerei in Amerika bekannt, stellen wir seit über 200 Jahren Bourbon Whiskey her, und ehren damit die mächtigen Büffel und den freien Geist der Pioniere, die es nach Westen zog
+- ÜBERRAGENDER BLENDED WHISKEY: Hergestellt aus bestem Mais, speziell ausgewähltem Roggen und überlegener Malzgerste; jedes Fass wird von unserem Meisterbrenner handverlesen, um eine konstante, überragende Qualität abzuliefern
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00CAIZZMI{{</world>}}

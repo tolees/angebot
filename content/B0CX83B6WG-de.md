@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- mit Stahlkappe
 - Atmungsaktiv
+- mit Stahlkappe
 - Sanft
 - Kevlar Zwischensohle
 - Verschleißfest

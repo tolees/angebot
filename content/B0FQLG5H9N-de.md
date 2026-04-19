@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erledigt die Einkommensteuer-Erklärung 2025 mit allen Einkunftsarten. Mit Mantelbogen und allen Formularen. Daten-Übernahme aus dem Vorjahr. Kostenloser Telefonsupport und kostenlose Updates.
-- Feststellungserklärung 2025 für Erbengemeinschaften und BGB-Gesellschaften. Auch für EÜR, Umsatz- und Gewerbesteuer-Erklärung, Umsatzsteuer-Voranmeldung, Lohnsteuer-Anmeldung, Fahrtenbuch
-- WISO Steuer 2026 zeigt sofort die Erstattung oder Nachzahlung. Hunderte Steuer-Tipps, über 150 Videos mit Tipps rund um Ihre Steuererklärung. Steuer-Ratgeber für die optimale Erstattung.
-- Für 64-Bit-System mit Windows 10 oder 11 und mit aktuellem Featurerelease und/oder macOS ab 12.00 ( Monterey) mit jeweils 3 GB freiem Festplattenspeicher; 4 GB freiem RAM; Grafik ab 1280 x 800; Internetzugang für ELSTER, Videos, Aktivierung und Updates. 2 GB freiem Festplattenspeicher, 2 GB verfügbarem RAM (empfohlen 3 GB). (Mac 3 bz. 4 GB) Grafik ab 1280 x 800. Internetzugang für ELSTER, Videos und Updates.
 - Schnell-Rechner für Gehalt, Abfindung, Erbschaft, Kfz-Steuer, Riester und vieles mehr. Automatischer Vergleich des Steuerbescheids mit der Programmberechnung, Musterschreiben an das Finanzamt.
+- Für 64-Bit-System mit Windows 10 oder 11 und mit aktuellem Featurerelease und/oder macOS ab 12.00 ( Monterey) mit jeweils 3 GB freiem Festplattenspeicher; 4 GB freiem RAM; Grafik ab 1280 x 800; Internetzugang für ELSTER, Videos, Aktivierung und Updates. 2 GB freiem Festplattenspeicher, 2 GB verfügbarem RAM (empfohlen 3 GB). (Mac 3 bz. 4 GB) Grafik ab 1280 x 800. Internetzugang für ELSTER, Videos und Updates.
+- WISO Steuer 2026 zeigt sofort die Erstattung oder Nachzahlung. Hunderte Steuer-Tipps, über 150 Videos mit Tipps rund um Ihre Steuererklärung. Steuer-Ratgeber für die optimale Erstattung.
 - Der bereitgestellte Installations-Prozess (Web Redemption) vereinfacht die Installation der Downloadversion. Mit Buhl Konto ist die Eingabe des Keys nicht mehr nötig. Wer diesen Weg nicht nutzen möchte, kann nach wie vor Download Link und Key in seiner Games und Software Bibliothek einsehen und anonym installieren
+- Feststellungserklärung 2025 für Erbengemeinschaften und BGB-Gesellschaften. Auch für EÜR, Umsatz- und Gewerbesteuer-Erklärung, Umsatzsteuer-Voranmeldung, Lohnsteuer-Anmeldung, Fahrtenbuch
+- Erledigt die Einkommensteuer-Erklärung 2025 mit allen Einkunftsarten. Mit Mantelbogen und allen Formularen. Daten-Übernahme aus dem Vorjahr. Kostenloser Telefonsupport und kostenlose Updates.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0FQLG5H9N{{</world>}}

@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Body: 82 % Baumwolle/18 % Polyester; Kapuzenfutter: 100 % Baumwolle.
 - Fleece-Material garantiert ein weiches, warmes Tragegefühl.
+- Mit einem Kordelzug an der Kapuze kannst du den Schutz anpassen.
+- Sporttyp: Fußball
+- Stoff typ: 80 % Baumwolle/20 % Polyester
 - Vordertasche.
 - Standardpassform für ein relaxtes, unkompliziertes Tragegefühl.
-- Sporttyp: Fußball
-- Body: 82 % Baumwolle/18 % Polyester; Kapuzenfutter: 100 % Baumwolle.
-- Stoff typ: 80 % Baumwolle/20 % Polyester
-- Mit einem Kordelzug an der Kapuze kannst du den Schutz anpassen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08R6BVZQ6{{</world>}}

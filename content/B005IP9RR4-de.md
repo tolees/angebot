@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anzahl der Packung: 1
+- Sub-D 25 Pin Buchse
 - 3 x 9 Pin Terminalblock (25 Pins beschaltet)
 - Verpackungsabmessungen (L x B x H): 16.0 zm x 9.6 zm x 1.6 zm
-- Sub-D 25 Pin Buchse
+- Anzahl der Packung: 1
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B005IP9RR4{{</world>}}

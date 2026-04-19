@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die blaue Linie wird von einer Batterielok zur modernen Haltestelle gezogen. Dort können die Passagiere in die rote Linie umsteigen
-- Vom Untergeschoß gelangt der Fahrgast mithilfe des mechanischen Aufzugs ins Obergeschoß, wo die rote Linie hält
 - Das Set enthält viele Schienen und Weichen, um eine tolle Schienenlandschaft aufzubauen
 - Deine Phantasie bestimmt, wohin die Reise geht
+- Vom Untergeschoß gelangt der Fahrgast mithilfe des mechanischen Aufzugs ins Obergeschoß, wo die rote Linie hält
+- Die blaue Linie wird von einer Batterielok zur modernen Haltestelle gezogen. Dort können die Passagiere in die rote Linie umsteigen
 - Bringe die Fahrgäste von einem Zug zum Anderen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

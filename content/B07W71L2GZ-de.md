@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Slim Fit
 - Materialzusammensetzung: 64% Viskose, 31% Recycelter Polyester, 5% Elasthan
+- Slim Fit
 - Chino Hose
 - Haken- und Ösenverschluss mit Reißverschluss
 

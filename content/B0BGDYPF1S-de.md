@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geringere Wärmeentwicklung (gegenüber dem Standardreferenzprodukt).
 - RGBW-Farben (ca. 16 Mio Farben) und Lichtfarbe von warmweiß (2700K) bis tageslichtweiß (6500K) änderbar
+- Geringere Wärmeentwicklung (gegenüber dem Standardreferenzprodukt).
 - Sofort volles Licht, keine Aufwärmzeit. Einfacher Austausch von Standardglühlampen, echter Ersatz für eine 100-W-Glühbirne (Außenanwendungen nur in geeigneten Leuchten)
-- Lange Lebensdauer bis zu 15000 Stunden und bis zu 100000 Schaltzyklen. Warmweißes Licht für Wohlbehagen und Entspannung in Wohn-, Schlaf-, und Kinderzimmern
 - Steuerung über LEDVANCE SMART + App (ab Android 8.0) oder Apple Home App (ab iOS 14.0), SAMSUNG SmartThings und HomeConnect Plus, einfache Steuerung über Google Assistant oder Amazon Alexa per Voice Control möglich
+- Lange Lebensdauer bis zu 15000 Stunden und bis zu 100000 Schaltzyklen. Warmweißes Licht für Wohlbehagen und Entspannung in Wohn-, Schlaf-, und Kinderzimmern
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BGDYPF1S{{</world>}}

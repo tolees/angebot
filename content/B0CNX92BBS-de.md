@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein Hot Wheels Car Culture Premium-Fahrzeug ist eine erlesene Ergänzung für jede Hot Wheels Sammlung.
 - Jedes Hot Wheels Car Culture Fahrzeug ist offiziell lizenziert und für wahre Automobil-Begeisterte gestaltet.
 - Die kunstvoll gestaltete Verpackung ist eine Bereicherung zum Spielen oder Ausstellen!
 - Im Jahresverlauf kommen verschiedene themenbezogene Kombinationen heraus, um Sammler anzusprechen und die Fahrzeuge aus der ganzen Welt darzustellen, die am meisten im Trend liegen.
+- Ein Hot Wheels Car Culture Premium-Fahrzeug ist eine erlesene Ergänzung für jede Hot Wheels Sammlung.
 - Die Die-Cast-Autos oder -Trucks im Maßstab 1:64 sind mit Real Riders-Reifen sowie Metall/Metall-Karosserie und -Fahrgestell hochwertig verarbeitet.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

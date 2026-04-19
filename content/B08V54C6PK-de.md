@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einzigartige Monster Trucks mit ihren erstaunlichen Funktionen regen zu abenteuerlichen Geschichten und fantasievollem Spiel an!
-- Die Licht- und Geräuscheffekte des Mega Wrex Fahrzeugs werden durch Druck auf seinen Schwanz aktiviert. Dann verschlingt es alle Autos und Trucks im Maßstab 1:64, die ihm im Weg sind.
 - Toll für Kinder ab 3 Jahren als Ergänzung der Monster Trucks Spielwelt, die für viele Stunden voller Spielspaß sorgt.
 - Mit dem gigantischen Hot Wheels Monster Trucks Autos verschlingenden Mega Wrex Fahrzeug können Kinder einen ihrer Lieblingstrucks zum Leben erwecken, denn er frisst“ und verdaut“ Autos und Trucks im Maßstab 1:64.
+- Die Licht- und Geräuscheffekte des Mega Wrex Fahrzeugs werden durch Druck auf seinen Schwanz aktiviert. Dann verschlingt es alle Autos und Trucks im Maßstab 1:64, die ihm im Weg sind.
 - Mega Wrex ist ein Liebling der Fans und die Idealbesetzung für dieses Trucks und Autos verschlingende Monster, das die Fahrzeuge auch verdaut!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

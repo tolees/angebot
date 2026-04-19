@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- gefertigt aus Chrom-Vanadium-Stahl
 - Abtriebsprofil: T-Profil (für Torx) T30
-- mit Rändelung
+- gefertigt aus Chrom-Vanadium-Stahl
 - Länge: 38 mm
+- mit Rändelung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B001ILAHGC{{</world>}}

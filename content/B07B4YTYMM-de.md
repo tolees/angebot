@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- AUF ENTDECKERTOUR: Mit diesem tollen Teleskop kann die Entdeckertour beginnen. Wo baut der Vogel sein Nest und wo versteckt das Eichhörnchen die Nüsse? Kleine Abenteurer können viele spannende Objekte in 8-facher Vergrößerung bewundern.
-- SCHARF WIE ADLERAUGEN: Dieses authentische Spielzeugteleskop fördert das kindliche Interesse an der Natur und an Tieren, denn es ermöglicht eine gute Sicht auf alles, was kleine Entdecker spannend finden.
-- NACHHALTIGER WEITBLICK: Mit diesem Spielzeug macht das Erkunden der Natur noch mehr Spaß, denn es ist aus nachhaltigem Bambus gefertigt. Darüber freuen sich sowohl kleine Abenteurer als auch die Umwelt.
-- KINDGERECHT UND SICHER: Das Spielzeugteleskop entspricht den internationalen Standards zu Qualität und Sicherheit. Aber auch hier gilt: Der direkte Blick in die Sonne kann eine Schädigung der Augen verursachen und sollte daher vermieden werden.
 - EINFACH PRAKTISCH: Das Teleskop ist mit einer praktischen Trageschlaufe ausgestattet und kann so ganz einfach und bequem mit den Kleinen auf Entdeckerreise gehen. Ist die Tour beendet, wird es in der Aufbewahrungstasche untergebracht und wartet dort auf den nächsten Einsatz.
+- KINDGERECHT UND SICHER: Das Spielzeugteleskop entspricht den internationalen Standards zu Qualität und Sicherheit. Aber auch hier gilt: Der direkte Blick in die Sonne kann eine Schädigung der Augen verursachen und sollte daher vermieden werden.
+- NACHHALTIGER WEITBLICK: Mit diesem Spielzeug macht das Erkunden der Natur noch mehr Spaß, denn es ist aus nachhaltigem Bambus gefertigt. Darüber freuen sich sowohl kleine Abenteurer als auch die Umwelt.
+- SCHARF WIE ADLERAUGEN: Dieses authentische Spielzeugteleskop fördert das kindliche Interesse an der Natur und an Tieren, denn es ermöglicht eine gute Sicht auf alles, was kleine Entdecker spannend finden.
+- AUF ENTDECKERTOUR: Mit diesem tollen Teleskop kann die Entdeckertour beginnen. Wo baut der Vogel sein Nest und wo versteckt das Eichhörnchen die Nüsse? Kleine Abenteurer können viele spannende Objekte in 8-facher Vergrößerung bewundern.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07B4YTYMM{{</world>}}

@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BELIEBTES KINDER GESCHENK: Dieses Lernspielzeug ist ein tolles Geburtstagsgeschenk für Mädchen und Jungen ab 5 Jahren, die Rollenspiele rund ums Einkaufen mit Familie und Freunden mögen
-- SPIELZEUG FÜR ROLLENSPIEL: Der LEGO Laden lässt Kinder lustige Ausflüge zum Laden nachspielen; Regale befüllen, einkaufen, an der Kasse bezahlen und sogar leere Flaschen am Recyclingpunkt abgeben
-- 2 MINI PUPPEN UND EINE LEGO TIERFIGUR: Enthält kleine Puppen Autumn und Zac sowie einen Spielzeughund und viele lustige Details, die Kinder zu fantasievollem Spielen anregen
-- MONESSORI SPIELZEUG MIT ZUBEHÖR: Kinder können im Markt unter anderem Brot, Donuts, Saft, Milch, Nudelkartons, Kaugummi, Sandwich, Apfel, Banane, Erdbeeren, Kirschen, Karotten, Popcorn und eine Pflanze kaufen
-- DIGITALE ANLEITUNGEN: Die LEGO Builder App führt Kinder auf ein intuitives Abenteuer, bei dem sie Sets speichern, den Fortschritt verfolgen und Modelle mit 3D-Anleitungen heranzoomen und drehen können
 - KINDER EINKAUFSLADEN: In diesem LEGO Friends Heartlake City Mini-Markt können Mädchen und Jungen ab 5 Jahren einkaufen spielen; mit 2 Spielfiguren, Hund, Einkaufswagen, Korb, Obstkiste und viele Lebensmittel
+- SPIELZEUG FÜR ROLLENSPIEL: Der LEGO Laden lässt Kinder lustige Ausflüge zum Laden nachspielen; Regale befüllen, einkaufen, an der Kasse bezahlen und sogar leere Flaschen am Recyclingpunkt abgeben
+- MONESSORI SPIELZEUG MIT ZUBEHÖR: Kinder können im Markt unter anderem Brot, Donuts, Saft, Milch, Nudelkartons, Kaugummi, Sandwich, Apfel, Banane, Erdbeeren, Kirschen, Karotten, Popcorn und eine Pflanze kaufen
+- 2 MINI PUPPEN UND EINE LEGO TIERFIGUR: Enthält kleine Puppen Autumn und Zac sowie einen Spielzeughund und viele lustige Details, die Kinder zu fantasievollem Spielen anregen
+- BELIEBTES KINDER GESCHENK: Dieses Lernspielzeug ist ein tolles Geburtstagsgeschenk für Mädchen und Jungen ab 5 Jahren, die Rollenspiele rund ums Einkaufen mit Familie und Freunden mögen
 - ONLINE-SERIE: Entdecke noch mehr Spielideen mit anderen Sets (separat erhältlich) und der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Charaktere aus Heartlake City kennenlernen
+- DIGITALE ANLEITUNGEN: Die LEGO Builder App führt Kinder auf ein intuitives Abenteuer, bei dem sie Sets speichern, den Fortschritt verfolgen und Modelle mit 3D-Anleitungen heranzoomen und drehen können
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FPXBHY2V{{</world>}}

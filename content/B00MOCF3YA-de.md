@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Geeignet für die Verwendung mit einer LED-Lichtquelle
-- Aus Aluminium gefertigt
 - Einfach auf ein Dimmer an zu schliessen (nicht mitgeliefert)
+- Aus Aluminium gefertigt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00MOCF3YA{{</world>}}

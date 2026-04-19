@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- STAR WARS ACTION-FIGUREN: Diese Darth Vader und Sturmtruppler Star Wars Figuren in einer Skala von 10 cm warten mit Design und Details auf, die von den Charakteren inspiriert sind
-- MIT DER EPIC HERO SERIES SPIELWELT KOMPATIBEL: Die Figuren sind mit den meisten Accessoires, Fahrzeugen und Figuren aus Hasbros exklusiver Epic Hero Series kompatibel. (Jeweils separat erhältlich. Je nach Verfügbarkeit)
-- SPIELEN MIT POSEN: Die Star Wars Spielzeuge bieten mehrere Bewegungspunkte und stehen von alleine, so dass sie von Kindern in faszinierenden Action-Posen dargestellt werden können
 - DARTH VADER & STURMTRUPPLER: Mit diesem Star Wars Figuren-Multipack können Abenteuer mit der Dunklen Seite der Macht inszeniert werden
+- STAR WARS ACTION-FIGUREN: Diese Darth Vader und Sturmtruppler Star Wars Figuren in einer Skala von 10 cm warten mit Design und Details auf, die von den Charakteren inspiriert sind
+- SPIELEN MIT POSEN: Die Star Wars Spielzeuge bieten mehrere Bewegungspunkte und stehen von alleine, so dass sie von Kindern in faszinierenden Action-Posen dargestellt werden können
+- MIT DER EPIC HERO SERIES SPIELWELT KOMPATIBEL: Die Figuren sind mit den meisten Accessoires, Fahrzeugen und Figuren aus Hasbros exklusiver Epic Hero Series kompatibel. (Jeweils separat erhältlich. Je nach Verfügbarkeit)
 - ACTION-FIGUREN MIT ACCESSOIRES: Das Star Wars Set enthält außerdem ein rotes Lichtschwert und einen Blaster als Accessoires, die in die Hände der Figuren passen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

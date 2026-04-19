@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die hochwertige Acrylglaslinse mit großem Sichtfeld und 9 cm Durchmesser vergrößert 2, 0-fach, die kleine Zusatzlinse mit 2, 5 cm Durchmesser 4, 0-fach.
-- Diese 2-in-1 LED-Lupe kann vielfältig benutzt werden. Entweder als Handlupe für Kleingedrucktes wie z. B. Inhaltsstoffe auf Verpackungen oder als Tischlupe zum Modellieren und Basteln.
-- Lieferung inkl. 2 x 1, 5V AAA Micro-Batterien im attraktiven Karton. Maße: 22, 3 x 9, 7 x 2, 2 cm
 - Dank dem zuschaltbaren LED-Licht ist auch ein Arbeiten bei schlechten Lichtverhältnissen kein Problem.
+- Die hochwertige Acrylglaslinse mit großem Sichtfeld und 9 cm Durchmesser vergrößert 2, 0-fach, die kleine Zusatzlinse mit 2, 5 cm Durchmesser 4, 0-fach.
 - Für freihändiges Arbeiten einfach den Standfuß ausklappen und den verstellbaren Lupenkopf in den gewünschten Winkel einstellen. Damit sind auch filigrane Bastel- und Handarbeiten präzise möglich.
+- Lieferung inkl. 2 x 1, 5V AAA Micro-Batterien im attraktiven Karton. Maße: 22, 3 x 9, 7 x 2, 2 cm
+- Diese 2-in-1 LED-Lupe kann vielfältig benutzt werden. Entweder als Handlupe für Kleingedrucktes wie z. B. Inhaltsstoffe auf Verpackungen oder als Tischlupe zum Modellieren und Basteln.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B084QZV5SK{{</world>}}

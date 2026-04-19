@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SWAT: Staffel 04
 - Marke: Sony Pictures Home Entertainment
+- SWAT: Staffel 04
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B097XB3X7N{{</world>}}

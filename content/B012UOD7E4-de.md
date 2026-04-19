@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Trio sonata op 5 n.4 in DO per 2 violini e bc
 - Trio sonata op 5 n.2 in mi per 2 violini e bc
-- (registrazioni dal 1995 al 2014)
 - Trio sonata op 5 n.1 in SOL per 2 violini e bc
 - Trio sonata op 5 n.3 in MI per 2 violini e bc
+- Trio sonata op 5 n.4 in DO per 2 violini e bc
+- (registrazioni dal 1995 al 2014)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B012UOD7E4{{</world>}}

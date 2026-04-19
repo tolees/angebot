@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Skechers Logo-Detail
 - Gepolsterte Komfort-Innensohle
+- Skechers Logo-Detail
 - Flexible abriebfeste Traktions-Laufsohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

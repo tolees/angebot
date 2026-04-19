@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spezielle Strickverfahren, die auf die anatomischen Unterschiede des rechten und linken Fußes abgestimmt sind, sorgen für hohen Tragekomfort, eine perfekte, rutsch- und faltenfreie Passform, eine lange Haltbarkeit und schützen vor Druckstellen
-- Damit Passform und Farbe nach mehrmaligem Waschen erhalten bleibt, empfehlen wir den Artikel im Wollwaschgang zu waschen
-- Die leichten Unisex Socken aus feuchtigkeitsregulierender Wolle und atmungsaktivem Funktionsmaterial halten Ihre Haut trocken, verhindern Blasen und sind ideal für casuale sowie sportive Anlässe
-- Modellnummer FALKE: Walkie Light Socken: 16486; verfügbare Größen: 35-36, 37-38, 39-41, 42-43, 44-45, 46-48; Dieses Produkt wurde auf Schadstoffe geprüft und zertifiziert nach Standard 100 durch OEKO-TEX 96.0.9647 HOHENSTEIN HTTI
-- Der glatt gestrickte Fuß, der gerippte Schaft sowie das Umschlagbündchen bieten besten Halt, die leicht gepolsterte Plüschsohle ist angenehm weich, wirkt dämpfend und entlastet Ihre Füße
 - Das Familienunternehmen FALKE, gegründet 1895, steht auf einem festen Wertefundament: Bedingungslose Qualität und höchste Handwerkskunst; wir begleiten Menschen jeden Alters mit neuen Ideen und modernen Produkten
+- Die leichten Unisex Socken aus feuchtigkeitsregulierender Wolle und atmungsaktivem Funktionsmaterial halten Ihre Haut trocken, verhindern Blasen und sind ideal für casuale sowie sportive Anlässe
+- Spezielle Strickverfahren, die auf die anatomischen Unterschiede des rechten und linken Fußes abgestimmt sind, sorgen für hohen Tragekomfort, eine perfekte, rutsch- und faltenfreie Passform, eine lange Haltbarkeit und schützen vor Druckstellen
+- Der glatt gestrickte Fuß, der gerippte Schaft sowie das Umschlagbündchen bieten besten Halt, die leicht gepolsterte Plüschsohle ist angenehm weich, wirkt dämpfend und entlastet Ihre Füße
+- Damit Passform und Farbe nach mehrmaligem Waschen erhalten bleibt, empfehlen wir den Artikel im Wollwaschgang zu waschen
+- Modellnummer FALKE: Walkie Light Socken: 16486; verfügbare Größen: 35-36, 37-38, 39-41, 42-43, 44-45, 46-48; Dieses Produkt wurde auf Schadstoffe geprüft und zertifiziert nach Standard 100 durch OEKO-TEX 96.0.9647 HOHENSTEIN HTTI
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001NLMGL6{{</world>}}

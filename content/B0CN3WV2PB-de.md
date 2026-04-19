@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- INTELLIGENTE DESIGN-DETAILS: Eng anliegender Sitz mit verstellbarem Kragen, leicht erreichbarer Reißverschluss, sichere Brust- und Eingrifftaschen sowie ein Kordelzugsaum für eine individuelle Passform
+- Lieferumfang: 1 x Columbia West Bend Vest II Weste, Damen, Größe: XL, Farbe: Black (Schwarz)
 - ABENTEUERBEREITE SCHICHT: Erlebe frische Morgen oder Lagerfeuerabende mit dieser Damen-Polyfleece-Weste, die Wärme und vielseitigen Outdoor-Komfort bietet
 - DAUERHAFTE MATERIALIEN & PFLEGE: Hergestellt aus 100% Polyester und recycelten Fasern—Maschinenwäsche kalt im Schonwaschgang, flach trocknen, nicht bleichen oder bügeln
-- Lieferumfang: 1 x Columbia West Bend Vest II Weste, Damen, Größe: XL, Farbe: Black (Schwarz)
+- INTELLIGENTE DESIGN-DETAILS: Eng anliegender Sitz mit verstellbarem Kragen, leicht erreichbarer Reißverschluss, sichere Brust- und Eingrifftaschen sowie ein Kordelzugsaum für eine individuelle Passform
 - STILVOLL AUF DEINE WEISE: Über Oberteilen mit Jeans oder Leggings für lässige Ausflüge, perfekt für Herbstspaziergänge oder Winterabenteuer kombinierbar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

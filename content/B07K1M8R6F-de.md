@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein leistungsstarkes Multitalent mit Filterfunktion und Wasserspiel geeignet für Teich bis 1,5 m³ und einer Wassersäule bis zu 0,9 m
-- Praktische Clips ermöglichen ein schnelles Öffnen des Gehäuses wodurch die Filterelemente leicht gesäubert werden können
 - Individuelle Regelung der Wassermenge und Fontänenhöhe
+- Praktische Clips ermöglichen ein schnelles Öffnen des Gehäuses wodurch die Filterelemente leicht gesäubert werden können
+- Ein leistungsstarkes Multitalent mit Filterfunktion und Wasserspiel geeignet für Teich bis 1,5 m³ und einer Wassersäule bis zu 0,9 m
 - Im Lieferumfang sind 3 Fontänenaufsätze enthalten, welche individuelle Wasserspiele ermöglichen und so Ihren Teich abwechslungsreich gestalten
 - Zwei unterschiedliche Filterschwämme sowie Bioflächenelemente und Keramik sorgen für die mechanische und biologische Reinigung des Teichwassers
 

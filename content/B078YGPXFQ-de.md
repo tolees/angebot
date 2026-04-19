@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Seltener gießen: Einfache Befüllung des Reservoir für selbstständige Versorgung der Pflanzen, Praktischer Wasserstandsanzeiger für volle Gießkontrolle
+- Stilvoller Pflanzwürfel aus der Stone Collection mit naturnaher Steinoptik für Pflanzen und Gräser, Perfekt auf jeder Stellfläche im Haus oder Garten, Nutzung in einzelner Anordnung oder in einer Gruppe
+- Lieferumfang: 1x Lechuza CANTO Stone low 40, Inkl. Bewässerungssystem, Material: Kunststoff, Maße: 40 x 40 x 40 cm, Pflanzeinsatz: 34 x 34 cm, Pflanzvolumen: 29 l
 - Keine Staunässe: Kontrolle der Füllmenge über mitgelieferten Wasserstandsanzeiger, Bodenschraube für Ablauf überflüssigen Wassers, Herausnehmbarer Pflanzeinsatz für einfaches Wechseln der Bepflanzung
 - Made in Germany: Hochwertig verarbeitetes, UV-beständiges Pflanzgefäß aus Kunststoff, Naturstein-Optik Maße: 40 x 40 x 76 cm Wasserspeicher: 7l Pflanzvolumen: 29l Pflanzeinsatz: 34 x 34 cm
-- Stilvoller Pflanzwürfel aus der Stone Collection mit naturnaher Steinoptik für Pflanzen und Gräser, Perfekt auf jeder Stellfläche im Haus oder Garten, Nutzung in einzelner Anordnung oder in einer Gruppe
-- Seltener gießen: Einfache Befüllung des Reservoir für selbstständige Versorgung der Pflanzen, Praktischer Wasserstandsanzeiger für volle Gießkontrolle
-- Lieferumfang: 1x Lechuza CANTO Stone low 40, Inkl. Bewässerungssystem, Material: Kunststoff, Maße: 40 x 40 x 40 cm, Pflanzeinsatz: 34 x 34 cm, Pflanzvolumen: 29 l
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B078YGPXFQ{{</world>}}

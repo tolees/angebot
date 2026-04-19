@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Raumklima-Level wird neben den Werten zur Innentemperatur und Luftfeuchtigkeit durch ein Smiley Symbol dargestellt. Die Temperatur wird in °C angegeben.
 - Mit dem praktischen 3er Set lassen sich gleich mehrere Räume kontrollieren und somit vor übermäßiger Feuchtigkeitsbildung schützen
+- Das Raumklima-Level wird neben den Werten zur Innentemperatur und Luftfeuchtigkeit durch ein Smiley Symbol dargestellt. Die Temperatur wird in °C angegeben.
+- Abmessungen: 45 x 58 x 13 mm, Gewicht: 31 g; Für den Betrieb werden 3x CR2032 Batterien (1 pro Sensor) benötigt (im Lieferumfang enthalten)
 - Lieferumfang: 3 Thermo / Hygro-Messer, 3 CR2032 Batterien, Bedienungsanleitung
 - Das 3er Indikator Set ist Thermometer und Hygrometer zugleich. Es dient zur Kontrolle des Raumklimas und zur Vorbeugung gegen Schimmelbildung. Die Thermo/Hygrometer können sowohl mit dem integrierten Standfuß aufgestellt, als auch aufgehängt werden.
-- Abmessungen: 45 x 58 x 13 mm, Gewicht: 31 g; Für den Betrieb werden 3x CR2032 Batterien (1 pro Sensor) benötigt (im Lieferumfang enthalten)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07LG5T3V9{{</world>}}

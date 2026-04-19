@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Beinhaltete Spieltitel: Legacy of Kain: Soul Reaver & Legacy of Kain: Soul Reaver 2
 - Jenseits des physischen Spiels Legacy of Kain Soul Reaver 1&2 Remastered für Nintendo Switch oder PlayStation 5 enthält die Deluxe Edition die folgenden exklusiven Inhalte:
 - Steelbook mit einigen der wunderschönen Motive des Spiels; Ein Softcover-Artbook, das die atemberaubend remasterten gotischen Umgebungen, Architekturen, Charaktere, Feinde, Waffen sowie Konzept- und Schlüsselkunst des Spiels hervorhebt; Der offizielle Soundtrack auf einer physischen CD; Eine Sammlerbox, die alle Inhalte stilvoll aufbewahrt.
-- Beinhaltete Spieltitel: Legacy of Kain: Soul Reaver & Legacy of Kain: Soul Reaver 2
 - Erlebe die legendäre Geschichte: Jahrhunderte, nachdem dein ehemaliger Meister Kain dich verraten und hingerichtet hat, erhebst du dich erneut und begibst dich auf eine unerbittliche Suche nach Rache.
 - Nutze die Kräfte eines Gespenstes: Töte deine ehemaligen Vampirbrüder mit deinen Klauen, Blitzen aus telekinetischer Energie und der elementaren Gespenstklinge. Erlange Stärke, indem du die Seelen deiner Gegner verschlingst.
 

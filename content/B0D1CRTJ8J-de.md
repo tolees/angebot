@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Bei der neuen und optimierten Burst II Air wird die sehr beliebte Burst-Form mit ihrem für Rechtshänder ausgelegten symmetrischen und ergonomischen Design mit nahtloser Verschmelzung von Leistung und Bedienkomfort beibehalten
-- Der weiter entwickelte TITAN Switch Optical mit einstellbarer Entprellung bietet eine lange Lebensdauer von 100 Millionen Klicks und eine lichtschnelle Betätigung für beispiellose Geschwindigkeit und Präzision
 - Erlebe flüssige, präzise Abtastung mit dem verbesserten optischen Owl-Eye-Sensor mit bis zu 26.000 DPI und 650 IPS (16.5m/s) Abtastungsgeschwindigkeit. Eine seitlich positionierte DPI-Taste ermöglicht schnelle DPI-Einstellungen ohne Software
+- Der weiter entwickelte TITAN Switch Optical mit einstellbarer Entprellung bietet eine lange Lebensdauer von 100 Millionen Klicks und eine lichtschnelle Betätigung für beispiellose Geschwindigkeit und Präzision
 - Die Burst II Air verschiebt die Gewichtsgrenzen mit seinen klassenbesten 47 g weiter nach unten. Zudem bietet sie ein robustes Top Shell-Design für eine perfekte Balance zwischen Haltbarkeit, Leistung und gewichtsbedingtem Komfort
 - Dank eines kabellosen Dualsystems kannst du zwischen dem 2,4-GHz-Band für optimale Gaming-Leistung und Bluetooth für mehr Produktivität und Akkulaufzeit wechseln (40 Stunden bei 2,4 GHz/120 Stunden im Bluetooth-Betrieb)
 

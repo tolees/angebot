@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Regular fit Jeans
 - Mittlere Taille
-- Materialzusammensetzung: 78% Cotton - Organic Direct to Farm, 20% Recyelte Baumwolle, 2% Elasthan
 - Regular Fit
+- Materialzusammensetzung: 78% Cotton - Organic Direct to Farm, 20% Recyelte Baumwolle, 2% Elasthan
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08KYFSPXN{{</world>}}

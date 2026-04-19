@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Jeans, Hose, lang
-- Pflegehinweis: Waschmaschinen geeignet
 - Verschluss: Reißerschluss und Knopf
 - Zusammensetzung: 99 Prozent Cotton 1 Prozent Elastane
+- Pflegehinweis: Waschmaschinen geeignet
 - Passform: Regular Fit
+- Jeans, Hose, lang
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CSDMZWBC{{</world>}}

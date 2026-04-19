@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- GAME-READY PRESETS — Gain a competitive edge in your favorite game with just a few clicks using GG QuickSets game-ready keyboard settings
-- PROTECTION MODE — A SteelSeries exclusive feature — protect your keypresses by reducing the sensitivity of surrounding keys when the intended key is pressed, preventing accidental inputs
 - THE WORLDS FASTEST KEYBOARD — Push the boundaries with cutting-edge OmniPoint 3.0 switches with Rapid Trigger, Protection Mode, Rapid Tap and full adjustability.
-- OMNIPOINT 3.0 — More than just fast, our newly redesigned Hall Effect Switch have 20x faster actuation and 11x quicker response time, with 40 levels of adjustable actuation
+- GAME-READY PRESETS — Gain a competitive edge in your favorite game with just a few clicks using GG QuickSets game-ready keyboard settings
 - REDUCED LATENCY — Rapid Trigger and Rapid Tap register keypresses faster for more responsive game play and improved aim.
+- PROTECTION MODE — A SteelSeries exclusive feature — protect your keypresses by reducing the sensitivity of surrounding keys when the intended key is pressed, preventing accidental inputs
+- OMNIPOINT 3.0 — More than just fast, our newly redesigned Hall Effect Switch have 20x faster actuation and 11x quicker response time, with 40 levels of adjustable actuation
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DWFRGDJJ{{</world>}}

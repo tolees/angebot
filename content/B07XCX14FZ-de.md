@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Elastische Bündchen
 - PUMA Cat-Logo auf der linken Brust
 - Ungefüttert
-- Elastische Bündchen
 - Kontrastierendes Colourblock-Design an Schultern und Unterseite
 - Durchgehender Reißverschluss
 

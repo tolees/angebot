@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FUNKTIONAL: Vorgeformte lange Ärmel, ein länger geschnittener Rücken & elastische Abschlüsse machen die wetterfeste Windjacke ideal für Rennradfahrer & alle weiteren Fahrrad-Varianten
 - SLIM FIT: Die wetterfeste Fahrradjacke mit körperbetonter Passform ist eng geschnitten & hat einen durchgehenden Reißverschluss. Am besten passt die Jacke, wenn sie eine Nummer größer bestellt wird
+- FUNKTIONAL: Vorgeformte lange Ärmel, ein länger geschnittener Rücken & elastische Abschlüsse machen die wetterfeste Windjacke ideal für Rennradfahrer & alle weiteren Fahrrad-Varianten
+- LEICHT: Die VAUDE Windjacke Herren ist mit 150 Gramm ultraleicht. Die dünne Slim-Fit Fahrradjacke hat zudem ein kleines Packmaß & lässt sich in einer offenen Tasche am Rücken der Jacke verpacken
 - WETTERFEST: Das Eco-Finish der Herren Fahrradjacke ist frei von PVC & hat eine wasserabweisende Funktion. Zudem ist die leichte Windjacke zu 80% winddicht, schnelltrocknend & besonders atmungsaktiv
 - NACHHALTIG: VAUDE ist seit 2022 klimaneutral. Aktuell nicht vermeidbare Emissionen werden vollständig über „myclimate“ durch zertifizierte Gold-Standard Klimaschutzprojekte kompensiert
-- LEICHT: Die VAUDE Windjacke Herren ist mit 150 Gramm ultraleicht. Die dünne Slim-Fit Fahrradjacke hat zudem ein kleines Packmaß & lässt sich in einer offenen Tasche am Rücken der Jacke verpacken
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CCD7X2G1{{</world>}}

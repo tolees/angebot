@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für Kinder ab 3 Jahren geeignet
 - Material: Kunststoff
-- Kopf beweglich
 - Figur ca. 4 cm groß
+- Für Kinder ab 3 Jahren geeignet
+- Kopf beweglich
 - Farbe: Schwarz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

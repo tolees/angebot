@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Lieferumfang: 1x Columbia Gefütterte Herren-Kapuzenjacke, Pike Lake II, Farbe: Grün (Stone Green, Shark), Größe: S, Art. 2050931
 - Durchgehender Reißverschluss, 2 Reißverschluss-Taschen für warme und sichere Hände, Sicherheitsinnentasche zum Verstauen wichtiger Gegenstände
-- Wasserabweisende Kapuzenjacke für Herren, Ideal für kalte Wintertage in der Stadt, beim Wandern und anderen Outdoor-Aktivitäten, Moderne Passform
 - Verstellbarer Tunnelzugsaum für maximalen Tragekomfort, Hoher Kragen und elastische Bündchen für hervorragende Wärmespeicherung
 - Besonders warmhaltend dank Omni-Heat mit wärmereflektierendem Futter, Thermarator-Isolierung für optimalen Schutz vor Wind und Wetter
+- Wasserabweisende Kapuzenjacke für Herren, Ideal für kalte Wintertage in der Stadt, beim Wandern und anderen Outdoor-Aktivitäten, Moderne Passform
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CLQW41DW{{</world>}}

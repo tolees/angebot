@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - FUNKTIONIERT MIT ALLEN PHILIPS TV-GERÄTEN - Die Philips TV-Ersatzfernbedienung ist kompatibel mit allen TV-Geräten wie LCD, LED und Plasma. Damit ist sie die einzig wahre Philips-Ersatzfernbedienung.
-- FUNKTIONIERT WIE EINE ORIGINAL PHILIPS FERNBEDIENUNG - Die Philips TV-Ersatzfernbedienung von One For All unterstützt alle Philips-Funktionen wie Browse Menu, Home und Ambilight.
 - KEINE EINRICHTUNG ERFORDERLICH - Nach dem Einlegen der Batterien kann die Philips TV-Ersatzfernbedienung sofort betrieben werden.
 - KUNDENDIENST: Ausführliche Informationen zum Support finden Sie auf der One For All-Webseite. Finden Sie Hilfe beim Einrichten Ihrer One For All-Produkte, indem Sie Handbücher herunterladen, häufig gestellte Fragen durchlesen oder Videos ansehen. Wir helfen Ihnen gerne weiter
+- FUNKTIONIERT WIE EINE ORIGINAL PHILIPS FERNBEDIENUNG - Die Philips TV-Ersatzfernbedienung von One For All unterstützt alle Philips-Funktionen wie Browse Menu, Home und Ambilight.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08PDFSDXJ{{</world>}}

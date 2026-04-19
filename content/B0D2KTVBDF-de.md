@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Schnürung und Gummilaufsohle
 - PUMA Formstrip an den Seiten
+- Mit Schnürung und Gummilaufsohle
 - Reguläre Breite
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Textilfutter
 - Gummiaußensohle
-- Obermaterial aus Leder
 - Reguläre Passform
+- Obermaterial aus Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CYTFQVCH{{</world>}}

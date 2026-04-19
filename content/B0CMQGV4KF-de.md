@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hose
-- Slim Fit
 - Materialzusammensetzung: 64% Viskose, 31% Polyester, 5% Elasthan
+- Slim Fit
+- Hose
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CMQGV4KF{{</world>}}

@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1,8 l Fassungsvermögen für das Kochen von bis zu 10 Tassen (entspricht 10 kleinen Portionen)
-- Herausnehmbarer, antihaftbeschichteter Gartopf, Glasdeckel zum Verfolgen des Garvorgangs
-- Alle Teile, die mit Lebensmitteln in Berührung kommen, sind BPA-frei
-- Automatischer Wechsel in die Warmhaltefunktion, wenn der Reis gar ist, Kontrollleuchte, 700 Watt
-- Inklusive Reislöffel und Messbecher und zusätzlichem Dampfkorb für das Garen von Gemüse oder Fisch
 - Verwenden Sie zum Kochen genau die richtige Menge Wasser und lassen Sie den Herd automatisch auf Warm stellen. Verwenden Sie zum Dämpfen reichlich Wasser, beobachten Sie den Garvorgang und stellen Sie den Schalter manuell nach oben, wenn das Essen gar ist
+- Alle Teile, die mit Lebensmitteln in Berührung kommen, sind BPA-frei
+- 1,8 l Fassungsvermögen für das Kochen von bis zu 10 Tassen (entspricht 10 kleinen Portionen)
 - Oberfläche aus hochwertigem gebürsteten Edelstahl mit Kunststoffapplikationen
+- Herausnehmbarer, antihaftbeschichteter Gartopf, Glasdeckel zum Verfolgen des Garvorgangs
+- Inklusive Reislöffel und Messbecher und zusätzlichem Dampfkorb für das Garen von Gemüse oder Fisch
+- Automatischer Wechsel in die Warmhaltefunktion, wenn der Reis gar ist, Kontrollleuchte, 700 Watt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00BEJ77WK{{</world>}}

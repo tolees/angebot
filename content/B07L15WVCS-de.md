@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Der weiche, fruchtige Whiskey ist unerwartet tief und einprägsam mit einem langanhaltenden, ausgewogenen Finish.
 - The Sexton reift vier Jahre in ehemaligen Sherry-Fässern und erlangt so die perfekte Balance zwischen Sherry-Aromen und Noten von Eichenholz.
 - Der Irish Whiskey überzeugt im Duft mit einer tollen Kombination aus Aromen von getrockneten Früchten und rauchigem Eichenholz.
-- Der weiche, fruchtige Whiskey ist unerwartet tief und einprägsam mit einem langanhaltenden, ausgewogenen Finish.
-- Am besten genießt man den modernen Single Malt Whiskey pur, auf Eis oder in kräftigen Cocktails.
 - The Sexton Whiskey ist ein moderner Single Malt aus Irland mit fruchtigen, weichen Aromen.
+- Am besten genießt man den modernen Single Malt Whiskey pur, auf Eis oder in kräftigen Cocktails.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07L15WVCS{{</world>}}

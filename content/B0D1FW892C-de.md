@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Kompatibles Modell】Diese Einlagen sind für die Ninja Flex Drawer AF500EU und AF500EUCP Flex Dual Air Fryer konzipiert. Das Einlegeset enthält 60 große Papiereinlagen und 100 kleine Papiereinlagen.
 - 【Umweltfreundlich】Hitzebeständig und einfach zu verwenden: hitzebeständig bis 232 °C, mikrowellen- und ofenfest. Diese antihaftbeschichteten Einweg-Luftfritteusenblätter haben alle eine Schüsselform und eine exakte Größe, kein Schneiden oder Falten erforderlich. Einfach die Müllbeutel in den Korb legen und nach Gebrauch in einen Mülleimer werfen. Im Vergleich zu Luftfritteusen-Silikoneinlagen sind Luftfritteusen-Pergamentpapiereinlag
+- 【Kompatibles Modell】Diese Einlagen sind für die Ninja Flex Drawer AF500EU und AF500EUCP Flex Dual Air Fryer konzipiert. Das Einlegeset enthält 60 große Papiereinlagen und 100 kleine Papiereinlagen.
 - 【Premium Pergament】Hergestellt aus 100% lebensmittelechtem Zellstoff, keine fluoreszierenden Mittel. Die 2 Seiten des Pergamentpapiers haben eine lebensmittelechte Antihaftbeschichtung, nicht klebend für Lebensmittel, nicht klebend für die Heißluftfritteuse.40GSM-Material, Verbessertes und verdicktes Papier ist nicht leicht zu brechen, wasserdicht und ölabweisend.
 - 【WARNUNG】: 1. Legen Sie beim Vorheizen kein leeres Papier ein. 2. Stellen Sie sicher, dass ausreichend Lebensmittel mindestens 2/3 der Pergamentfolie abdecken. 3. Seien Sie vorsichtig, um alle vier Ecken mit Lebensmitteln zu beschweren. 4. Die maximale Aufheizzeit < 45 Minuten
 - 【KEEP AIR FRYER CLEAN】: Keine Löcher und speziell mit Schalenform entworfen, spart immer Korb zu fettig, und keine Rückstände. Die Seiten und der Boden der Fritteuse bleiben nahezu makellos. Kein Abwaschen nach jedem Gebrauch erforderlich. Sie erleichtern auch das Übertragen der Speisen auf den Teller.

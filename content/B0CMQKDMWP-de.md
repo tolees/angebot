@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 💡【Energieeinsparung】: G9 Led Glühbirnen 0.4W-4W/230V,gleichwertig mit 40-50W Glühbirne, gleiche Helligkeit. Es spart bis zu 90% Energie. arbeiten etwa 30000 Stunden.Größe-18.9 x 62.3 mm,Bitte überprüfen Sie vor dem Kauf die Größe, um sicherzustellen, dass sie passt.
-- 🎙【Voice control】: Die WiFi G9 LED Smart dimmbare Glühbirne kann leicht mit "Amazon Alexa/Google Assistant" gepaart werden, um die Glühbirne mit einfachen Sprachbefehlen zu steuern, um die Helligkeit und Farbtemperatur einzustellen. Zum Beispiel: "Alexa, schalte das Licht aus!"
 - 📱【App-Steuerung & Gruppensteuerung】: Stellen Sie sicher, dass Ihr Heim-Wifi 2.4GHz ist, können Sie alle Ihre Glühbirnen koppeln und verbinden, indem Sie die "Smart Life" App oder die "Tuya Smart" App herunterladen. Nach erfolgreicher Kopplung können Sie alle gekoppelten Glühbirnen in Ihrem Haus einfach über Ihr Smartphone (Android 4.1 oder höher oder IOS 8.0 oder höher) steuern, auch wenn Sie unterwegs sind (Hinweis: Stellen Sie sicher, dass Ihr Haus wifi immer eingeschaltet ist)
 - 📶【Wi-Fi Dimmbare Smart G9 Glühbirne】: Farbtemperatur von 2700K bis 6500 Kelvin und die Helligkeit zwischen 1% -100%, 40LM-400LM, dunkel bis hell, einfach per Handy zu steuern.(Hinweis: Eingebauter intelligenter Steuerchip, nicht kompatibel mit Dimmern! Die App muss in der neuesten Version heruntergeladen werden. Nach dem Anschließen der Leuchten muss die Firmware-Version jeder Leuchte auf die neueste Version aktualisiert werden, da es sonst zu Verbindungsproblemen kommen kann. Aktuelle Version: V1.6.3)
 - ⏰【Set Schedules & Timers】: Nachdem die Lampe mit der APP gekoppelt wurde, können Sie den Timer für die Lampe einstellen und die Zeit zum automatischen Ein- oder Ausschalten im Voraus einstellen, um Strom zu sparen. Die App bietet auch vier voreingestellte Szenen: Lesen, Arbeit, Gute Nacht und Entspannung, so dass Sie eine breite Palette von Umgebungslicht mit minimalem Aufwand genießen können.
+- 🎙【Voice control】: Die WiFi G9 LED Smart dimmbare Glühbirne kann leicht mit "Amazon Alexa/Google Assistant" gepaart werden, um die Glühbirne mit einfachen Sprachbefehlen zu steuern, um die Helligkeit und Farbtemperatur einzustellen. Zum Beispiel: "Alexa, schalte das Licht aus!"
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CMQKDMWP{{</world>}}

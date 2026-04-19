@@ -28,17 +28,17 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit universellem Staubabsaugungsadapter
-- 1650W - 6000 U/min- 2x 150mm Diamantscheiben - Schnittbreite - 8 - 30mm (6 positionen), Schnitttiefe - 8 - 40mm (8 positionen)
-- Mit universellem Staubabsaugungsadapter
-- Extra langes Kabel, 3 Meter
-- Ergonomische Bauweise mit Softgrip für optimalen Arbeitskomfort
-- Ergonomische Bauweise mit Softgrip für optimalen Arbeitskomfort
 - HINWEIS- Weitere Informationen finden Sie in den Produktleitfäden und Dokumenten.
-- Mit Laser fürhrung für genaues Arbeiten
-- 3 meter extra langes Kabel
+- Mit universellem Staubabsaugungsadapter
+- Mit universellem Staubabsaugungsadapter
 - Hinweise zur optimalen Nutzung Zeichnen Sie Linien, um die Richtung zu definieren, in die die Trennscheiben geführt werden sollen. Halten Sie die Maschine mit beiden Händen fest. Stellen Sie die Schlitzbreite ein. Stellen Sie den Tiefenanschlag ein. Stellen Sie die Maschine mit den Rädern an die Wand. Stellen Sie sicher, dass die Trennscheiben mit den gezeichneten Linien an der Wand ausgerichtet sind. Stellen Sie die Schlitztiefe ein. Schalten Sie die Maschine ein. Warten Sie, bis die Maschine die volle Geschwindigkeit erreicht hat
+- 1650W - 6000 U/min- 2x 150mm Diamantscheiben - Schnittbreite - 8 - 30mm (6 positionen), Schnitttiefe - 8 - 40mm (8 positionen)
+- 3 meter extra langes Kabel
+- Mit Laser fürhrung für genaues Arbeiten
 - Ergonomische Bauweise mit Softgrip für optimalen Arbeitskomfort
+- Ergonomische Bauweise mit Softgrip für optimalen Arbeitskomfort
+- Ergonomische Bauweise mit Softgrip für optimalen Arbeitskomfort
+- Extra langes Kabel, 3 Meter
 - Mit Laser fürhrung für genaues Arbeiten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

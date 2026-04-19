@@ -30,12 +30,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Included_Components: Wasserkocher und 360°-Sockel mit Kabelaufwicklung, Bedienungsanleitung
 - 2.400 Watt
-- 1,7 l Fassungsvermögen
+- Perfect Pour-Ausgusstülle - ermöglicht ein tropfenfreies Ausgießen
 - Automatische Deckelöffnung per Knopfdruck
 - Verdecktes Heizelement und herausnehmbarer Kalkfilter
-- Schnellkochfunktion für 1, 2 oder 3 Tassen
-- Perfect Pour-Ausgusstülle - ermöglicht ein tropfenfreies Ausgießen
+- 1,7 l Fassungsvermögen
 - Kocht eine Tasse Wasser (235 ml) in 55 Sekunden und spart bis zu 70% Energie (beim Kochen einer Tasse Wasser (235 ml) im Vergleich zu 1,0 l)
+- Schnellkochfunktion für 1, 2 oder 3 Tassen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01B0YT0E6{{</world>}}

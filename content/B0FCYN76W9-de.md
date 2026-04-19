@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Neue Synchronisation in Englisch und Japanisch: „Trails in the Sky“-Charaktere erwachen mit brandneuer Synchronisation in Englisch und Japanisch zum Leben!
-- Moderne Gameplay-Mechaniken: Erlebe nahtloses Gameplay mit der Auswahl zwischen traditionellem rundenbasierten Kampf oder brandneuem Realtime-Action-Kampf – ganz wie es deinem Stil von Abenteuer entspricht.
 - Fesselnde Welt: Verliere dich in zahllosen Stunden voller Abenteuer, während du in einer unvergleichlichen ausgeklügelten Storyline voranschreitest. Jede Interaktion ist auf deinen einzigartigen Fortschritt im Spiel zugeschnitten, von den Nebencharakteren bis ganz zu den NPCs!
+- Moderne Gameplay-Mechaniken: Erlebe nahtloses Gameplay mit der Auswahl zwischen traditionellem rundenbasierten Kampf oder brandneuem Realtime-Action-Kampf – ganz wie es deinem Stil von Abenteuer entspricht.
 - Verbesserte HD-Grafik: Tauche ein in die atemberaubende Welt von Liberl, die in hochdefinierenden Details zum Leben erweckt sind.
 
 [🛒 Hier!!]({{< param buyurl >}})

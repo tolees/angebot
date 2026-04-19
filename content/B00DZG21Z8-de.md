@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Aroma: Sherrynoten und Anklänge von süßem Malz.
-- Kilbeggan Blended Irish Whiskey wird zweifach destilliert, ganz nach irischer Tradition, so bleibt mehr Geschmack erhalten als bei der dreifachen Destillation.
 - Geschmack: Besonders mild, mit harmonischen Noten von Pfirsich, Karamell, Vanille und Mandelnugat.
 - Charaktervoll, harmonisch und unverwechselbar. Bereits seit 1757 wird Kilbeggan Irish Whiskey auf traditionelle Art und Weise hergestellt – in der ältesten lizenzierten und am häufigsten ausgezeichneten Whiskey-Destillerie Irlands.
+- Kilbeggan Blended Irish Whiskey wird zweifach destilliert, ganz nach irischer Tradition, so bleibt mehr Geschmack erhalten als bei der dreifachen Destillation.
 - Feinstes heimisches Getreide und reines Wasser – reich an Mineralien – verschmelzen zu einem einzigartigen, harmonischen Geschmack nach süßem Karamell, Vanille und fruchtigem Pfirsich.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

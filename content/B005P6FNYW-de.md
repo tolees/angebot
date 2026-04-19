@@ -30,10 +30,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - KWF-zertifiziert. Größe L (EU 50-52)
 - Viel Stauraum für Werkzeuge - zwei große Fronttaschen und eine Gesäßtasche mit Klettverschluss
-- EN ISO 11393-2 Klasse 1 Sicherheit für Kettensägenschutz; von professionellen Holzfällern empfohlen
+- Zwei-Wege-Stretch-Polyester bietet fünf Lagen Schutzmaterial gegen Kraftstoff, Öl und Hitze und hält Sie den ganzen Tag über kühl
 - Nur Front- und Seitenschutz
 - Leichte, bequeme und abriebfeste Schnittschutzhose, ideal für Baumpfleger, Holzfäller, Landschaftsgärtner und Hausbesitzer für schwere Arbeiten im Freien
-- Zwei-Wege-Stretch-Polyester bietet fünf Lagen Schutzmaterial gegen Kraftstoff, Öl und Hitze und hält Sie den ganzen Tag über kühl
+- EN ISO 11393-2 Klasse 1 Sicherheit für Kettensägenschutz; von professionellen Holzfällern empfohlen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B005P6FNYW{{</world>}}

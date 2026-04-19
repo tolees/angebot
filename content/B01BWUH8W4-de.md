@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- KOMPATIBILITÄT: tado° funktioniert mit fast allen Heizungssystemen – ersetzen Sie einfach Ihre vorhandenen Thermostate, um die Zentralheizung, Erdwärme- und Luftwärmepumpe oder Ihre Fußbodenheizung zu steuern
-- AUCH BEI MIETWOHNUNGEN: Sie können die Heizungsthermostate problemlos in einer Mietwohnung nutzen, indem Sie beim Auszug einfach die alten Geräte wieder installieren
 - SMART CONTROL: Steuern Sie mehrere Räume oder Zonen individuell und legen Sie mit Ihrem Smartphone in jedem Bereich intelligente Zeitpläne für Ihre Heizung fest
-- VORAUSSETZUNGEN: Funktioniert nur mit einem tado° Starter Kit (V2, V3 oder V3+) mit Internet Bridge, das Sie nur einmal pro Haus benötigen
-- EINFACHE INSTALLATION: Um weitere intelligente Thermostate und Zubehör zu verbinden, folgen Sie einfach den Anweisungen in Ihrer tado° App
-- ZUSATZFUNKTIONEN: Von Geofencing über Wetteranpassung, Statistiken, Energiesparbericht, Mehrraum-Steuerung mit zusätzlichem Thermostat und Boost-Funktion bis hin zur Frost- und Kindersicherung bietet tado° zahlreiche Features für Ihre Heizung
+- KOMPATIBILITÄT: tado° funktioniert mit fast allen Heizungssystemen – ersetzen Sie einfach Ihre vorhandenen Thermostate, um die Zentralheizung, Erdwärme- und Luftwärmepumpe oder Ihre Fußbodenheizung zu steuern
 - SMART & ENERGIESPAREND: Das verkabelte, in Deutschland entwickelte Thermostat erweitert Ihr tado˚ Starterkit zur Steuerung eines Heizkessels oder einer wasserbasierten Fußbodenheizung
+- AUCH BEI MIETWOHNUNGEN: Sie können die Heizungsthermostate problemlos in einer Mietwohnung nutzen, indem Sie beim Auszug einfach die alten Geräte wieder installieren
+- ZUSATZFUNKTIONEN: Von Geofencing über Wetteranpassung, Statistiken, Energiesparbericht, Mehrraum-Steuerung mit zusätzlichem Thermostat und Boost-Funktion bis hin zur Frost- und Kindersicherung bietet tado° zahlreiche Features für Ihre Heizung
+- EINFACHE INSTALLATION: Um weitere intelligente Thermostate und Zubehör zu verbinden, folgen Sie einfach den Anweisungen in Ihrer tado° App
+- VORAUSSETZUNGEN: Funktioniert nur mit einem tado° Starter Kit (V2, V3 oder V3+) mit Internet Bridge, das Sie nur einmal pro Haus benötigen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01BWUH8W4{{</world>}}

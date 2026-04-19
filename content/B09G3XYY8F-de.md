@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit einem natürlichen Bildwinkel eignet es sich ideal für natürliche Porträts, Interviews und Tutorial-Videos. Porträtierte Personen verhalten sich natürlicher, wenn man ihnen kein riesiges Objektiv vor das Gesicht hält.
 - Die kompakten Abmessungen und das geringe Gewicht erleichtern Filmaufnahmen aus der Ego-Perspektive.
 - Das NIKKOR Z 40 mm 1:2 bietet eine hohe Abbildungsleistung für wunderschöne Details, Tiefe und Farbtreue.
+- Mit einem natürlichen Bildwinkel eignet es sich ideal für natürliche Porträts, Interviews und Tutorial-Videos. Porträtierte Personen verhalten sich natürlicher, wenn man ihnen kein riesiges Objektiv vor das Gesicht hält.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09G3XYY8F{{</world>}}

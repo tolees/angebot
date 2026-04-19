@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anzahl der Packungen : 1
-- Digitaler TRUE-RMS Spannungsprüfer
-- Abmessungen: 330 x 100 x 60 mm
 - Optimaler Schutz für Ihren Benning DUSPOL
+- Abmessungen: 330 x 100 x 60 mm
+- Digitaler TRUE-RMS Spannungsprüfer
+- Anzahl der Packungen : 1
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08HYP33XW{{</world>}}

@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Padded tongue for comfort and to prevent chafing
-- hummel branded Chevrons on the side
 - Lightweight quality TPR outsole with good grip. Can be recycled.
+- hummel branded Chevrons on the side
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D5D4NFYZ{{</world>}}

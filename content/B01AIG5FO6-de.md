@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ENTERPRISE-LEVEL-GARANTIE - Eingeschränkte lebenslange Garantie und kostenloser Support für Firmware-Upgrades
 - LAYER 2-FUNKTIONEN - VLAN, QoS, IGMP-Snooping, Link-Aggregation (LAG), IPv6 und DoS- Prävention optimieren Sicherheit und Management
-- SMART MANAGED - In nur wenigen Schritten einsatzbereit: Ein webbasierter Setup-Assistent ermöglicht eine einfache und schnelle Konfiguration und ein einfaches und schnelles Management
-- PORTKONFIGURATION - Schnelle Netzwerkleistung mit 10 Gigabit-Ethernet-Ports
 - INTELLIGENTE STROMVERSORGUNG - Ein „Verbrauchsmodus“ verteilt Strom effizient, so dass das PoE-Budget mehr Geräte mit Strom versorgen kann. Intelligente PoE+ 802.3af/802.3at- Unterstützung mit max. 30 W je Port (77W Gesamtbudget)
+- PORTKONFIGURATION - Schnelle Netzwerkleistung mit 10 Gigabit-Ethernet-Ports
+- ENTERPRISE-LEVEL-GARANTIE - Eingeschränkte lebenslange Garantie und kostenloser Support für Firmware-Upgrades
+- SMART MANAGED - In nur wenigen Schritten einsatzbereit: Ein webbasierter Setup-Assistent ermöglicht eine einfache und schnelle Konfiguration und ein einfaches und schnelles Management
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01AIG5FO6{{</world>}}

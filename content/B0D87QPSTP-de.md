@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ZERLEGEN & ZUSAMMENSETZEN: Hier bestimmen die Kinder das Geschehen – mit Star Wars Spielzeugen, die sie zerlegen, wieder zusammensetzen und nach Lust und Laune kombinieren können, um individuelle Figuren zu erschaffen
 - ENTHÄLT 3 DURCH DARTH VADER INSPIRIERTE TEILE: Das Star Wars Mandalorianer und Grogu Action-Figurenset kommt mit einer Hand im schwarzen Darth Vader Handschuh, einer Projektil abschießenden Hand in Machtpose, einem roten Projektil und 6 Accessoires, darunter ein Dunkelschwert und ein biegsamer Arm
+- ZERLEGEN & ZUSAMMENSETZEN: Hier bestimmen die Kinder das Geschehen – mit Star Wars Spielzeugen, die sie zerlegen, wieder zusammensetzen und nach Lust und Laune kombinieren können, um individuelle Figuren zu erschaffen
 - MILLIONEN VON MÖGLICHKEITEN: Dank Millionen von kreativen Möglichkeiten, die austauschbaren Teile zu kombinieren, können diese Star Wars Spielzeuge für Kinder zum stundenlangen fantasievollen Spielen anregen, bei dem einzigartige Action-Figuren entstehen
-- HEY, DEN KERL KENNE ICH: Die MixMashers Star Wars Action-Figuren präsentieren ausschließlich die kultigsten Helden und Schurken, darunter Chewbacca, Boba Fett, Darth Maul, Sturmtruppler, Darth Vader und der Mandalorianer & Grogu
 - COOLE STAR WARS GESCHENKE: MixMashers Star Wars Spielzeuge eignen sich hervorragend als Geschenke für Jungen und Mädchen ab 4 Jahren (jeweils separat erhältlich. Je nach Verfügbarkeit.)
+- HEY, DEN KERL KENNE ICH: Die MixMashers Star Wars Action-Figuren präsentieren ausschließlich die kultigsten Helden und Schurken, darunter Chewbacca, Boba Fett, Darth Maul, Sturmtruppler, Darth Vader und der Mandalorianer & Grogu
 - TOTAL VERRÜCKTE KOMBINATIONEN: Mit MixMashers Spielzeugen können die Kinder ihre Lieblingscharaktere und tolle Accessoires kreieren, kombinieren und zerlegen
 - MEHRMALIGES ZERLEGEN: Die für Kinder entwickelten MixMashers Spielzeugfiguren verfügen über robuste Universal-Steckverbindungen – so lassen sie sich immer wieder zerlegen, neu kombinieren und kreieren
 

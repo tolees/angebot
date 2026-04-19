@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PUMA Branding-Details auf Zunge, Ferse und Obermaterial
 - PUMA Formstrip an der Seite
+- PUMA Branding-Details auf Zunge, Ferse und Obermaterial
 - Geschichtete Zwischensohle aus Gummi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

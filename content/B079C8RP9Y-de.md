@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Materialzusammensetzung: 100% Cotton - Organic Direct to Farm
-- Slim Fit
 - Poloshirt
+- Materialzusammensetzung: 100% Cotton - Organic Direct to Farm
 - Kurzarm
+- Slim Fit
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B079C8RP9Y{{</world>}}

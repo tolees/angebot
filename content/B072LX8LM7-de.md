@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SOFORTIGE FADENZUFUHR: Innovatives Command-Feed-Fadensystem für sofortige Fadenzufuhr durch Knopfdruck.
+- 90° DREHBARER TRIMMERKOPF: Damit können Sie auf abschüssigem Gelände schneiden und kanten und schwer zugängliche Stellen erreichen.
+- 2-IN-1: Grass-Trimmer und Kantenschneider Werkzeug. Lässt sich in Sekundenschnelle vom Faden-Trimmer zum Radkantenschneider umwandeln.
 - Lieferumfang: 1x WORX WG163E.1 Akku-Rasentrimmer, 1x Spule WA0004, 1x Sicherheitsschutz, 1x Rad zum Kantenschneiden, 1x Akku, 1x Ladegerät
 - GLEICHER AKKU, ERWEITERBARE ENERGIE: Der Worx PowerShare-Akku ist mit allen Worx 20V-, 40V- und 80V-Werkzeugen, Outdoor Power- und Lifestyle-Produkten kompatibel.
-- 90° DREHBARER TRIMMERKOPF: Damit können Sie auf abschüssigem Gelände schneiden und kanten und schwer zugängliche Stellen erreichen.
 - GUMMIERTE RÄDER: Unterstützen und führen den Kantenschneider, damit Sie geradere Linien und sauberere Schnitte erhalten.
-- 2-IN-1: Grass-Trimmer und Kantenschneider Werkzeug. Lässt sich in Sekundenschnelle vom Faden-Trimmer zum Radkantenschneider umwandeln.
+- SOFORTIGE FADENZUFUHR: Innovatives Command-Feed-Fadensystem für sofortige Fadenzufuhr durch Knopfdruck.
 - KOMFORT & KOMPAKT: Die Teleskopstange und der Handgriff sind höhenverstellbar und bieten dadurch maximale Sicherheit und Arbeiten in einer angenehmen Position bei jeder Körpergröße
 
 [🛒 Hier!!]({{< param buyurl >}})

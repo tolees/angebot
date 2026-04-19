@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 📖 Sicheres Spielen: Anleitung zum Aufbau gemeinsam mit den Eltern. Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser und ohne chemische Mittel.
-- 📖 Das Original: Playmobil steht seit 1974 für hochwertige Qualität und robustes Design.
 - 📖 In der großen Schule ist immer etwas los: In den verschiedenen Klassenzimmern lernen die Kinder spannende Dinge
+- 📖 Sicheres Spielen: Anleitung zum Aufbau gemeinsam mit den Eltern. Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser und ohne chemische Mittel.
 - 📖 Für Kinder ab 5 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten. Kreative Rollenspiele fördern die Fantasie Ihres Kindes.
+- 📖 Das Original: Playmobil steht seit 1974 für hochwertige Qualität und robustes Design.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BT89K8TV{{</world>}}

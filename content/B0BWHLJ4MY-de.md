@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vielseitige T-Shirts für jeden Anlass
-- In verschiedenen Farben und Designs erhältlich
 - Hergestellt aus weichen und langlebigen Materialien.
 - Ideal zum Kombinieren mit Jeans oder Shorts.
 - Komfortabler Rundhalsausschnitt.
+- Vielseitige T-Shirts für jeden Anlass
+- In verschiedenen Farben und Designs erhältlich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BWHLJ4MY{{</world>}}

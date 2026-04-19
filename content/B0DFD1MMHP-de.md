@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Einige liebenswerte Charaktere werden dich von Anfang an begleiten, und im Laufe des Spiels triffst du noch viele mehr; Du baust schließlich nicht nur Häuser, du baust eine ganze Gemeinschaft aus entzückenden und unvergesslichen Stadtbewohner:innen
+- Spiele und kreiere Welten in Retro-Wiederveröffentlichungen von zwei liebenswerten Spielen im MySims: Cozy Bundle
+- Erstelle liebenswerte Sims und gestalte die Welt, in der sie leben; Schalte Kleidung und Bau-Optionen frei, indem du verschiedene Aufgaben abschließt – es gibt unzählige Möglichkeiten zu entdecken und zwei einmalige Welten zu erschaffen
 - Zur Erinnerung: Die Hardware des Nintendo-Switch-2-Systems unterscheidet sich von der der ursprünglichen Nintendo Switch. Einige Spiele der Nintendo Switch werden unter Umständen nicht unterstützt oder sind nicht vollständig kompatibel
 - Entspanne dich mit zauberhaften Geschichten über Kreativität und Entdeckung; Zwei Welten warten auf dich, voller zu lösender Rätsel und freizuschaltender Orte, sowie mit Stadtbewohner:innen, denen es zu helfen gilt
-- Einige liebenswerte Charaktere werden dich von Anfang an begleiten, und im Laufe des Spiels triffst du noch viele mehr; Du baust schließlich nicht nur Häuser, du baust eine ganze Gemeinschaft aus entzückenden und unvergesslichen Stadtbewohner:innen
 - Vollständig kompatibel mit Switch 2
-- Erstelle liebenswerte Sims und gestalte die Welt, in der sie leben; Schalte Kleidung und Bau-Optionen frei, indem du verschiedene Aufgaben abschließt – es gibt unzählige Möglichkeiten zu entdecken und zwei einmalige Welten zu erschaffen
-- Spiele und kreiere Welten in Retro-Wiederveröffentlichungen von zwei liebenswerten Spielen im MySims: Cozy Bundle
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DFD1MMHP{{</world>}}

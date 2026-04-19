@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dank der neuen Share-Taste kannst du Screenshots und Videoclips während des Spiels mühelos aufnehmen und teilen.
 - Hol mit der Breaker Special Edition-Serie das Beste aus dir heraus. Denn: Mit einem Mix aus eisigen und frostigen Blautönen sorgt der Ice Breaker immer für frischen Wind.
-- Beinhaltet Xbox Wireless und Bluetooth-Technologie, um schnell koppeln, spielen und zwischen Geräten wie Konsole, PC und Cloud wechseln zu können.*
-- Mit den strukturierten Triggern hast du dein Ziel immer fest im Griff und bist dank der rutschfesten Griffe auf der Rückseite immer mittendrin statt nur dabei.
 - Gestalte deinen Controller individuell, indem du die Tastenzuweisungen mit der Xbox Zubehör-App anpasst.*
+- Beinhaltet Xbox Wireless und Bluetooth-Technologie, um schnell koppeln, spielen und zwischen Geräten wie Konsole, PC und Cloud wechseln zu können.*
+- Dank der neuen Share-Taste kannst du Screenshots und Videoclips während des Spiels mühelos aufnehmen und teilen.
+- Mit den strukturierten Triggern hast du dein Ziel immer fest im Griff und bist dank der rutschfesten Griffe auf der Rückseite immer mittendrin statt nur dabei.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FKGVK6KK{{</world>}}

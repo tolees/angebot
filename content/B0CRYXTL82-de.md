@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 25 integrierte Spiele, darunter Lee, Berzerk, Millipede, Miner 2049er, M.U.L.E, Star Raiders II
-- Wähle aus 12 hübschen Frames für das Gameplay
 - Bildet alle Atari 8-Bit-Systeme, vom 400 bis zum 800XL, einschließlich der Heimkonsole Atari 5200 nach
 - THECXSTICK - ein klassischer Atari-Joystick mit 8 Tasten
+- Wähle aus 12 hübschen Frames für das Gameplay
+- 25 integrierte Spiele, darunter Lee, Berzerk, Millipede, Miner 2049er, M.U.L.E, Star Raiders II
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CRYXTL82{{</world>}}

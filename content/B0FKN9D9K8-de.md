@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- [Wie man das Licht einschaltet] Mit USB-Anschluss oder Batteriepack betreiben (Batterien sind nicht im Set enthalten, benötigt: 3× AA)
-- Klassischer europäischer Architekturstil： Das Design ist von der edwardianischen Architektur Großbritanniens inspiriert und wird durch exklusive ziegelrote Bausteine ergänzt, um den Charme klassischer europäischer Stadtviertel zu zeigen. Mit Luftballons, Geschenkboxen und bunten Schaufenstern dekoriert, verbindet das Modell kindliche Verspieltheit mit Sammlerästhetik. (Standard-Bodenplatte: 32*32 Noppen)
-- 2-in-1 modulares Puppenhaus： Die Vorderseite lässt sich schnell abnehmen und verwandelt das Gebäude sofort in ein Puppenhaus zum Betrachten. Sechs Räume sind herausziehbar und austauschbar, das modulare Design der Innenregale ermöglicht kreatives DIY für ein individuelles Layout und erhöht den Bau- und Ausstellungsspaß
-- Atmosphärisches Lichterlebnis： Mit 10 integrierten Lichtpunkten, hauptsächlich in warmem Weiß, die die gemütliche Abendstimmung einer europäischen Kleinstadt wiedergeben. Drehbare Lampen beleuchten das Geschäftsschild und erzeugen einen Leuchtkasten-Effekt, der die gesamte Straßenszene immersiver macht
 - Sammelbare Minifiguren & Brettspiel-Zubehör： Das Set enthält besondere Minifiguren wie einen Clown, einen alten Ladenbesitzer, einen Spielzeugjäger und eine Schriftstellerin aus dem Book Café, die sowohl Geschichtenerzählen als auch Sammlerwert bieten. In Kombination mit einem Western-Brettspiel wird der Bauprozess noch interaktiver und voller Spaß
+- Atmosphärisches Lichterlebnis： Mit 10 integrierten Lichtpunkten, hauptsächlich in warmem Weiß, die die gemütliche Abendstimmung einer europäischen Kleinstadt wiedergeben. Drehbare Lampen beleuchten das Geschäftsschild und erzeugen einen Leuchtkasten-Effekt, der die gesamte Straßenszene immersiver macht
 - Immersive Innendetails und thematische Resonanz： Mit über 100 bedruckten Teilen und einer Vielzahl an Innendetails, darunter Automodelle, Knetspielzeug, Dinosaurier- und Eisenbahnszenen, wird das Einkaufserlebnis im Spielzeugladen realistisch nachgestellt. Inklusive LUMI-Western-Mikromodelle – weckt Erinnerungen und erhöht den Bauspaß
+- Klassischer europäischer Architekturstil： Das Design ist von der edwardianischen Architektur Großbritanniens inspiriert und wird durch exklusive ziegelrote Bausteine ergänzt, um den Charme klassischer europäischer Stadtviertel zu zeigen. Mit Luftballons, Geschenkboxen und bunten Schaufenstern dekoriert, verbindet das Modell kindliche Verspieltheit mit Sammlerästhetik. (Standard-Bodenplatte: 32*32 Noppen)
+- [Wie man das Licht einschaltet] Mit USB-Anschluss oder Batteriepack betreiben (Batterien sind nicht im Set enthalten, benötigt: 3× AA)
+- 2-in-1 modulares Puppenhaus： Die Vorderseite lässt sich schnell abnehmen und verwandelt das Gebäude sofort in ein Puppenhaus zum Betrachten. Sechs Räume sind herausziehbar und austauschbar, das modulare Design der Innenregale ermöglicht kreatives DIY für ein individuelles Layout und erhöht den Bau- und Ausstellungsspaß
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FKN9D9K8{{</world>}}

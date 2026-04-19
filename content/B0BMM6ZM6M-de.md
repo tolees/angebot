@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die Original Jeans seit 1873
+- Dies ist ein originales Levis Produkt
 - Gerade Passform
 - Echter Denim für deinen StyleDies ist ein originales Levis Produkt
-- Dies ist ein originales Levis Produkt
 - Echter amerikanischer Stil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

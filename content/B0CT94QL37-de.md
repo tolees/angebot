@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Super Geschenk für Hobbydetektivinnen und -detektive ab 8 Jahren
-- Tolle Detektiv-Gimmicks zum Sammeln.
 - Adventskalender 2024 mit spannender Detektiv-Geschichte zum Knobeln.
+- Super Geschenk für Hobbydetektivinnen und -detektive ab 8 Jahren
 - Die drei !!! ermitteln im Tierheim.
 - Besondere Mechanik: Jeden Tag muss ein Rätsel in der Geschichte gelöst werden, um das nächste Türchen zu finden.
+- Tolle Detektiv-Gimmicks zum Sammeln.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CT94QL37{{</world>}}

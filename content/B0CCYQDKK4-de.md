@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 99350169222
 - Zubehör
 - ghd max Profi Glätteisen mit breiten Platten für langes Haar
-- 99350169222
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CCYQDKK4{{</world>}}

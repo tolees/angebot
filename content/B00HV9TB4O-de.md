@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Vielseitiges, leichtes Tele-Zoomobjektiv mit 55-210 mm (entspricht APS-C: 82,5-315 mm) und F4,5 - 6,3 für E-Mount-Kameras mit 3,8 fachem Zoombereich
 - Zirkulare Blende mit Sieben Lamellen für wunderschöne Unschärfe-Effekte
 - Optischer Bildstabilisator (SteadyShot) - bis zu 4EV Stufen. Sichtwinkel (APS-C): 29°-7° 40
 - Lieferumfang: Sony SEL55210 F4,5-6,3 / 55-210 mm E-Mount Sony Tele-Zoom-Objektiv, Objektivschutzkappe, Bajonettschutzkappe, Gegenlichtblende (ALC-SH115)
-- Vielseitiges, leichtes Tele-Zoomobjektiv mit 55-210 mm (entspricht APS-C: 82,5-315 mm) und F4,5 - 6,3 für E-Mount-Kameras mit 3,8 fachem Zoombereich
 - Direct Manual Focus mit nicht drehendem Fokusring bei AF: ideal für präzise, komfortable manuelle Fokuseinstellungen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

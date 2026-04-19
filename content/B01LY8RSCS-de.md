@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- KOMPAKT: Im zusammengeschobenen Zustand ist die Sicherheitsleiter nur 94 cm hoch und lässt sich so nach getaner Arbeit leicht verstauen - 264 cm Höhe im voll ausgefahrenen Zustand
+- HAILO QUALITÄT: Unser Markenzeichen ist der rote HAILO-Punkt. Dahinter steht ein verantwortungsvolles Familienunternehmen, hohe Produktqualität mit einfacher Handhabung sowie exzellenter Service
 - PRAKTISCHE AUSSTATTUNG: Die Aluleiter verfügt über einen gummierten Wandstoßschutz, der Beschädigungen an Wänden verhindern kann - die Gurtbandfixierung trägt zudem zu einer guten Tragbarkeit bei
 - EINFACH UND SICHER: Das Einfahren der Anlegeleiter gelingt mit nur einer Hand und ohne Klemmgefahr - dank der farbigen Verriegelungs-Anzeige ist der Status der Verriegelung leicht erkennbar
 - INDIVIDUELL EINSTELLBAR: Für die optimale Arbeitshöhe lässt sich die Leiter sprossenweise ausziehen - nach Gebrauch ist sie wieder platzsparend zusammenschiebbar
-- HAILO QUALITÄT: Unser Markenzeichen ist der rote HAILO-Punkt. Dahinter steht ein verantwortungsvolles Familienunternehmen, hohe Produktqualität mit einfacher Handhabung sowie exzellenter Service
-- KOMPAKT: Im zusammengeschobenen Zustand ist die Sicherheitsleiter nur 94 cm hoch und lässt sich so nach getaner Arbeit leicht verstauen - 264 cm Höhe im voll ausgefahrenen Zustand
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01LY8RSCS{{</world>}}

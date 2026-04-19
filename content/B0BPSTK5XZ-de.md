@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Knöchellang
-- Rippbündchen
 - 3er-Pack
-- 68 % Baumwolle / 29 % recycelter Polyester / 2 % Elastan / 1 % recyceltes Nylon
+- Knöchellang
 - Leicht und dünn
+- 68 % Baumwolle / 29 % recycelter Polyester / 2 % Elastan / 1 % recyceltes Nylon
+- Rippbündchen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BPSTK5XZ{{</world>}}

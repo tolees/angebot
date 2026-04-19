@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1 x Flasche The Glenlivet Single Malt Scotch Whisky 12 Jahre (0,7 l, 40 Vol.-Prozent) in edler Box / Ideal als Geschenk zum Geburtstag
-- Der schottische Single Malt Whisky ist eine exquisite Scotch-Komposition, die mindestens 12 Jahre lang in Fässern aus amerikanischer Weißeiche lagert, um ihr unvergleichliches Aroma zu entwickeln
-- Der 12-jährige Glenlivet begeistert schon seit Jahrzehnten Whisky-Kenner aus aller Welt mit seinem fruchtigen Geschmack, seinem erlesenen Bouquet aus zarten Sommerdüften und der hell-goldenen Farbe
-- Der milde und frische Nachklang hinterlässt einen Geschmack von Nüssen, Marzipan und leichter Ingwerwürze - der Whisky mit lang anhaltendem Aroma-Komplex
 - The Glenlivet 12 Year Old besticht durch sein fruchtig-blumiges Aroma mit einem Hauch von Pfirsich, Birne und Ananas sowie durch die bittersüße Note aus den Weißeichen-Fässern
+- Der 12-jährige Glenlivet begeistert schon seit Jahrzehnten Whisky-Kenner aus aller Welt mit seinem fruchtigen Geschmack, seinem erlesenen Bouquet aus zarten Sommerdüften und der hell-goldenen Farbe
+- Der schottische Single Malt Whisky ist eine exquisite Scotch-Komposition, die mindestens 12 Jahre lang in Fässern aus amerikanischer Weißeiche lagert, um ihr unvergleichliches Aroma zu entwickeln
+- Der milde und frische Nachklang hinterlässt einen Geschmack von Nüssen, Marzipan und leichter Ingwerwürze - der Whisky mit lang anhaltendem Aroma-Komplex
+- Lieferumfang: 1 x Flasche The Glenlivet Single Malt Scotch Whisky 12 Jahre (0,7 l, 40 Vol.-Prozent) in edler Box / Ideal als Geschenk zum Geburtstag
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00CKL4R24{{</world>}}

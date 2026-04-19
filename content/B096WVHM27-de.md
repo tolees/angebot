@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Damen UNO Stand ON AIR Mint Durabuck/Mesh 37 EU'
-date: 2026-03-18 14:14:32
+date: 2026-04-18 11:08:16
 image: 'https://m.media-amazon.com/images/I/41i32wbWgRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096WVHM27-de Skechers Damen UNO Stand ON AIR Mint Durabuck/Mesh 37 EU'
 sku: 'B096WVHM27-de'
 tags: [ '🇩🇪', ]
-actualPrice: 52.99 EUR
+actualPrice: 65.9 EUR
 currency: EUR
-price: 52.99
+price: 65.9
 comparePrice: 79.95 EUR
 prodname: 'Skechers Damen UNO Stand ON AIR Mint Durabuck/Mesh 37 EU'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B096WVHM27/?tag=tolees0ca-21'
-descuento: '33.72'
-average: '52.99'
+descuento: '17.57'
+average: '59.445'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Keilform mit verdecktem 2,5-cm-Absatz
-- Weiches Obermaterial aus perforiertem Durabuck-Synthetik
 - Flexible Traktionslaufsohle aus Gummi
+- Weiches Obermaterial aus perforiertem Durabuck-Synthetik
+- Keilform mit verdecktem 2,5-cm-Absatz
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B096WVHM27{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kompakt, robust und leicht sowie helle und naturgetreue Abbildung, Silververpsiegelung reduziert schädliche UV-Strahlung, Stativgewinde
-- Helle, naturgetreue Abbildung dank hochwertiger BaK-4-Prismen, deren Lichtdurchlässigkeit durch eine Silberverspiegelung nochmals erhöht wird
-- Lieferumfang: Fernglas, Staubschutzkappen, Komfort-Trageriemen, Tasche, Putztuch, Bedienungsanleitung
-- Absolut wasserdicht und somit für jedes Wetter und auch für (Sonnen-)Brillenträger geeignet
 - Größe 125x128x50mm, Gewicht ohne Etui 550g, Sehfeld 122m, 8x-Vergrößerung, vollständig mehrschichtvergütete Linsen, Obektivdurchmesser 32mm, Nahpunkt 3m
+- Lieferumfang: Fernglas, Staubschutzkappen, Komfort-Trageriemen, Tasche, Putztuch, Bedienungsanleitung
+- Helle, naturgetreue Abbildung dank hochwertiger BaK-4-Prismen, deren Lichtdurchlässigkeit durch eine Silberverspiegelung nochmals erhöht wird
+- Absolut wasserdicht und somit für jedes Wetter und auch für (Sonnen-)Brillenträger geeignet
+- Kompakt, robust und leicht sowie helle und naturgetreue Abbildung, Silververpsiegelung reduziert schädliche UV-Strahlung, Stativgewinde
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B005EJOIPK{{</world>}}

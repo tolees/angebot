@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gefertigt in den USA mit den feinsten und frischesten Materialien
-- Super Slinky, eine der ursprünglichen Slinky-Stärken, ist seit Jahrzehnten eine der beliebtesten E-Gitarrensaiten
-- Heller, ausgewogener Ton
-- Super Slinky, eine der ursprünglichen Slinky-Stärken, ist seit Jahrzehnten eine der beliebtesten E-Gitarrensaiten
 - Enthält 4 klar verpackte Sets
-- Heller, ausgewogener Ton
+- Super Slinky, eine der ursprünglichen Slinky-Stärken, ist seit Jahrzehnten eine der beliebtesten E-Gitarrensaiten
 - Ernie Ball Slinkys werden von Legenden auf der ganzen Welt gespielt, darunter Slash, Jimmy Page, Metallica, Eric Clapton und mehr
+- Gefertigt in den USA mit den feinsten und frischesten Materialien
+- Super Slinky, eine der ursprünglichen Slinky-Stärken, ist seit Jahrzehnten eine der beliebtesten E-Gitarrensaiten
+- Heller, ausgewogener Ton
 - Enthält 4 klar verpackte Sets
 - Gefertigt in den USA mit den feinsten und frischesten Materialien
+- Heller, ausgewogener Ton
 - Ernie Ball Slinkys werden von Legenden auf der ganzen Welt gespielt, darunter Slash, Jimmy Page, Metallica, Eric Clapton und mehr
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

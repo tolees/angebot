@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - HANDS-FREE CALLING: Eine bessere Gesprächsqualität genießen mit der Echounterdrückungstechnologie. Zwei Personen können gleichzeitig sprechen, ohne dass es zu Aussetzern kommt.
 - LANGE BATTERIELEBENSDAUER: Der XB100 läuft bis zu 16 Stunden lang durch und verfügt über eine praktische Batteriestatusanzeige. Aufladen des Akkus über USB-C.
-- HALTBAR: Mit der IP67-Klassifizierung ist der XB100 wasser- und staubdicht. Zusätzlich hat er eine neue UV-Beschichtung, die auch bei hellem Sonnenschein hält, sodass dieser Lautsprecher überallhin mithingenommen werden kann.
 - KOMPAKT & PORTABEL: Der XB100 ist leicht und superkompakt. Mit dem Gurt kann der Lautsprecher getragen oder befestigt werden.
 - LEISTUNGSFÄHIGEN, KLAREN KLANG GENIESSEN, EGAL WO: Dieser superkompakte Lautsprecher erzeugt großen Klang mit tiefen Bässen. Der Sound Diffusion Processor verteilt den Klang in alle Richtungen.
+- HALTBAR: Mit der IP67-Klassifizierung ist der XB100 wasser- und staubdicht. Zusätzlich hat er eine neue UV-Beschichtung, die auch bei hellem Sonnenschein hält, sodass dieser Lautsprecher überallhin mithingenommen werden kann.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CCYFP62W{{</world>}}

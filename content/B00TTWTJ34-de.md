@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Auf das nasse Haar auftragen. Massieren, bis es schäumt. 3 Minuten einwirken lassen und mit viel Wasser abspülen
 - Die Ergebnisse sind ab den ersten Anwendungen sichtbar und die Wirkung ist für 4 Wochen sichtbar anhaltend
 - Dermatologisch getestet
 - Seine Formel mit Ichthyol Pale und Pirocton Olamin reduziert überschüssiges Sebum, lindert Juckreiz und reduziert Schuppen
 - Macht das Haar weich, glänzend, versorgt es mit Feuchtigkeit. Hinterlässt es ölfrei und einfach zu stylen
-- Auf das nasse Haar auftragen. Massieren, bis es schäumt. 3 Minuten einwirken lassen und mit viel Wasser abspülen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00TTWTJ34{{</world>}}

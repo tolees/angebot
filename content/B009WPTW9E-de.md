@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ANSPRUCHSVOLL: Die Strategie-Spiele für Hunde von TRIXIE bieten eine anspruchsvolle Beschäftigung für deinen Vierbeiner und sind für Knobelprofis, als auch für Knobelanfänger geeignet
-- OPTIMALE BESCHÄFTIGUNG: Das Strategie-Spiel für Hunde ist die optimale Indoor-Beschäftigung, gerade wenn das Wetter zu schlecht ist, um Abenteuer in der Natur zu erleben
-- SCHWIERIGKEIT: Die Intelligenzspielzeuge von TRIXIE sind in verschiedene Schwierigkeitsgrade unterteilt. Dieses Spielzeug hat den mittleren Schwierigkeitsgrad und ist somit für Knobel-Fortgeschrittene geeignet
 - BELOHNEND: Mit dem Erlangen von Leckerlis durch das Lösen des Spiels wird ein ausgezeichneter Lerneffekt erzielt. Zudem wird durch das Auffinden von Leckerlies Stress abgebaut und das Selbstvertrauen gestärkt
+- OPTIMALE BESCHÄFTIGUNG: Das Strategie-Spiel für Hunde ist die optimale Indoor-Beschäftigung, gerade wenn das Wetter zu schlecht ist, um Abenteuer in der Natur zu erleben
+- ANSPRUCHSVOLL: Die Strategie-Spiele für Hunde von TRIXIE bieten eine anspruchsvolle Beschäftigung für deinen Vierbeiner und sind für Knobelprofis, als auch für Knobelanfänger geeignet
+- SCHWIERIGKEIT: Die Intelligenzspielzeuge von TRIXIE sind in verschiedene Schwierigkeitsgrade unterteilt. Dieses Spielzeug hat den mittleren Schwierigkeitsgrad und ist somit für Knobel-Fortgeschrittene geeignet
 - SPIELSPASS: Hunde benötigen neben ausreichender körperlicher Auslastung auch geistige Herausforderungen. Die Strategiespiele von TRIXIE bieten diese Herausforderungen gepaart mit Spielspaß
 
 [🛒 Hier!!]({{< param buyurl >}})

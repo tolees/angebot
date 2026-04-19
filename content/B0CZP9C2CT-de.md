@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 100 % Polyester (recycelt)
-- Mittelhoher Bund
-- Regulär geschnitten
 - Elastischer Bund mit Kordelzug
+- Regulär geschnitten
+- Mittelhoher Bund
 - Taschen auf der Vorderseite
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

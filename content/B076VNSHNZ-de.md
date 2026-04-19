@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1 x Columbia Damen Fleecejacke mit durchgehendem Reißverschluss, Benton Springs, Farbe: Grau (Cirrus Grey Heather), Größe: XL, Art.-Nr.: 1372111
 - Leichtes Material mit moderner, klassischer Passform, Fleece-Material zum Schutz vor Kälte, Komfort beim Wandern, Trailrunning und anderen Outdoor-Aktivitäten
-- Damen-Fleecejacke mit durchgehendem Reißverschluss, Reißverschlusstaschen für die Hände zur sicheren Aufbewahrung von Gegenständen
+- Lieferumfang: 1 x Columbia Damen Fleecejacke mit durchgehendem Reißverschluss, Benton Springs, Farbe: Grau (Cirrus Grey Heather), Größe: XL, Art.-Nr.: 1372111
 - Weiches und kuscheliges Fleece für optimalen Tragekomfort, Innenliegender Tunnelzug für eine bequeme Passform, Fleece aus 100% Polyester MTR-Filament
+- Damen-Fleecejacke mit durchgehendem Reißverschluss, Reißverschlusstaschen für die Hände zur sicheren Aufbewahrung von Gegenständen
 - Ideal, um sich an kalten Wintertagen warm zu halten, während man aktiv ist, sei es an einem kühlen Morgen oder einem kühlen Abend
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

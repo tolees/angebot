@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - spülmaschinenfest/mikrowellengeeignet
 - 6tlg
-- Premium Porcelain
 - Liefermenge 1 Set
+- Premium Porcelain
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08CRWZ9QX{{</world>}}

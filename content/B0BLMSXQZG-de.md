@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ultra HD 4K video output: the USB C to 4K video adapter can mirror or extend the screen of your laptop/phone with the USB-C hub HDTV port and stream 4K UHD (3840 x 2160 at 60 Hz) or full HD 1080p video synchronisation directly to most HDTVs, monitors, projectors and other devices. 4k Output-connection, provides vivid, clear, no wobbling of video and picture.
-- Super Speed 5Gbps Data Transfer: The USB 3.0 port supports super fast data transfer at up to 5Gbps (5120Mbps), is 10x faster than USB 2.0 (480Mbps) and allows easy transfer of HD movies in a short time. Compatible with USB flash disk, camera, removable hard drive, mouse, keyboard or other USB A 2.0/USB-A 3.0 devices.
 - 3 in 1 USB-C to 4K HDTV Adapter: The ports of the USB Type-C to 4K HDTV/USB-C/USB 3.0 multiport hub adapter can work simultaneously for faster charging, more stable data transfer and video output with higher resolution. Perfect for home theater entertainment, offices, exhibitions, presentations, teaching and more.
-- 【Wide Compatibility】USB-C to Multiport HDTV Adapter Compatible for 2015/16/17/18 MacBook/MacBook Pro, Dell XPS13/15, Dell Precision5510, HP Spectre X2, HP Spectre X360, HP Elitebook Folio G1, HP Elite X2 1012 G1, Spin7 Chromebook R13, Chromebook RGoogle Chromebook Pixel, 900/910, HuaWei MateBook or other phones with Type C 3.1 port, Samsung s8/s8+/S9/S9+/Note 8, Huawei Mate10 etc.
 - Plug and play, 100 W power output: no installation of drivers/apps and personal hotspots or WiFi required, simply connect any interface to the corresponding device. And the adapters 100W Type-C charging port allows you to charge your laptops/tablets/phones in a flash when using other ports.
+- 【Wide Compatibility】USB-C to Multiport HDTV Adapter Compatible for 2015/16/17/18 MacBook/MacBook Pro, Dell XPS13/15, Dell Precision5510, HP Spectre X2, HP Spectre X360, HP Elitebook Folio G1, HP Elite X2 1012 G1, Spin7 Chromebook R13, Chromebook RGoogle Chromebook Pixel, 900/910, HuaWei MateBook or other phones with Type C 3.1 port, Samsung s8/s8+/S9/S9+/Note 8, Huawei Mate10 etc.
+- Super Speed 5Gbps Data Transfer: The USB 3.0 port supports super fast data transfer at up to 5Gbps (5120Mbps), is 10x faster than USB 2.0 (480Mbps) and allows easy transfer of HD movies in a short time. Compatible with USB flash disk, camera, removable hard drive, mouse, keyboard or other USB A 2.0/USB-A 3.0 devices.
+- Ultra HD 4K video output: the USB C to 4K video adapter can mirror or extend the screen of your laptop/phone with the USB-C hub HDTV port and stream 4K UHD (3840 x 2160 at 60 Hz) or full HD 1080p video synchronisation directly to most HDTVs, monitors, projectors and other devices. 4k Output-connection, provides vivid, clear, no wobbling of video and picture.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BLMSXQZG{{</world>}}

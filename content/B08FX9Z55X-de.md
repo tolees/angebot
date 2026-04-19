@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- LEICHTE REINIGUNG: Die kompakte Brühgruppe ist wartungsarm, lässt sich vollständig aus der Kaffeemaschine herausnehmen und ermöglicht so eine unkomplizierte Reinigung des Maschineninnenraums
 - LATTECREMA-SYSTEM: Das patentierte Milchaufschäumsystem ermöglicht besonders feinporigen Milchschaum für einen cremigen Cappuccino oder Latte Macchiato – die Reinigung erfolgt automatisch per Drehregler
+- LONG-COFFEE-FUNKTION: Der traditionelle Frühstückskaffee wird im Schwallbrühverfahren bei niedrigem Druck zubereitet – 3-facher Espresso für 3-fachen Genuss
 - AUTOMATISCHES EINSTELLEN DER MASCHINE: Nach Installation der kostenlosen App kann die Bean Adapt Technologie genutzt werden und ermittelt so automatisch die optimalen Einstellungen für die gewählte Bohnensorte (bitte die technischen Voraussetzungen beachten)
 - EINFACHE BEDIENUNG: Auf dem 4,3 Zoll TFT Farbdisplay kann aus 18 vorinstallierten Rezepten auf Knopfdruck Ihre liebste Kaffeespezialität ausgewählt werden – egal ob Espresso, Long Coffee, Doppio+, Flat White, Cortado oder heiße Milch
-- LONG-COFFEE-FUNKTION: Der traditionelle Frühstückskaffee wird im Schwallbrühverfahren bei niedrigem Druck zubereitet – 3-facher Espresso für 3-fachen Genuss
-- LEICHTE REINIGUNG: Die kompakte Brühgruppe ist wartungsarm, lässt sich vollständig aus der Kaffeemaschine herausnehmen und ermöglicht so eine unkomplizierte Reinigung des Maschineninnenraums
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08FX9Z55X{{</world>}}

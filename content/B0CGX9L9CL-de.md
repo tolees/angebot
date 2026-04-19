@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Staubfreie Arbeitsbedingungen dank Saugaufsatz Auto Power GDE 18V-12/GDE 12
-- Lieferumfang: Reinigungstuch;L-BOXX 238 (1 600 A01 2G2);L-BOXX-Volleinlage für GBH 18V-22 + GDE 18V-12 (1 600 A02 NS8);Tiefenanschlag (1 613 001 009);Staubabsaugung GDE 18V-12 Professional (1 600 A02 8H6)
 - Mehr Sicherheit gegen unabsichtliches Blockieren dank KickBack Control
-- Besseres Bohrerlebnis dank Vibration Control zur Absorption von Schwingungen
+- Lieferumfang: Reinigungstuch;L-BOXX 238 (1 600 A01 2G2);L-BOXX-Volleinlage für GBH 18V-22 + GDE 18V-12 (1 600 A02 NS8);Tiefenanschlag (1 613 001 009);Staubabsaugung GDE 18V-12 Professional (1 600 A02 8H6)
+- Staubfreie Arbeitsbedingungen dank Saugaufsatz Auto Power GDE 18V-12/GDE 12
 - Mehr Löcher pro Akkuladung und konstante Abgabeleistung dank Motor mit konstanter Drehzahl
+- Besseres Bohrerlebnis dank Vibration Control zur Absorption von Schwingungen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CGX9L9CL{{</world>}}

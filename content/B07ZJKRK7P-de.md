@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Jogginghose
+- Mittlere Taille
 - Regular Fit
 - Materialzusammensetzung: 85% Baumwolle, 15% Viskose
-- Mittlere Taille
+- Jogginghose
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07ZJKRK7P{{</world>}}

@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - ULTRALEICHT - Mit einem Gewicht von nur 54 g verfügt die Pure Air über ein gut ausbalanciertes, ultraleichtes Design, das auf Leistung ausgelegt ist, und ermöglicht schnelle Schnappschüsse und große Mausbewegungen
 - OPTISCHER OWL-EYE-SENSOR MIT 26.000 DPI - Erlebe flüssige und präzise Abtastung mit einem verbesserten optischen Owl-Eye-Sensor mit 26.000 DPI und 650 IPS (16.5m/s) Abtastungsgeschwindigkeit
-- AIMO BELEUCHTUNG - Pure Air verfügt über eine Projektion des Turtle Beach-Logos auf die Rückseite der Maus mit vollständig anpassbarer RGB- und programmierbarer AIMO-Kompatibilität für intelligente Beleuchtung
 - ERGONOMISCHE FORM - Die Pure Air tritt in die Fußstapfen der kultigen Kone Pureund profitiert von über einem Jahrzehnt ergonomischer Entwicklung, um die komfortabelste Maus der Welt zu bauen
+- AIMO BELEUCHTUNG - Pure Air verfügt über eine Projektion des Turtle Beach-Logos auf die Rückseite der Maus mit vollständig anpassbarer RGB- und programmierbarer AIMO-Kompatibilität für intelligente Beleuchtung
 - 2,4 GHZ-BAND + BLUETOOTH - Mit dem kabellosen Dualsystem kannst du zwischen dem 2,4-GHz-Band für Gaming-Leistung und Bluetooth für Vielseitigkeit wechseln
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Einhell Akku-Schlagbohrschrauber TP-CD 18/50 Li-i BL (2x2,0Ah) ist ein Allrounder mit Schraub-, Bohr- und Schlagbohrfunktion, vereint in einem praktischen Gerät.
-- Mit der Drehzahl-Elektronik für material- und anwendungsgerechtes Arbeiten liefert das Gerät bei Bedarf aber auch niedrigere Drehzahlen zum Schrauben in weicheren Materialien.
-- Durch die inkludierte Schlagbohrfunktion für universelles Arbeiten und das 2-Gang-Getriebe zum kraftvollen Bohren und Schrauben dringt der Schlagbohrschrauber selbst in härtere Materialien ein.
 - PurePOWER Brushless - Der wartungsarme und kraftvolle Brushless-Motor sorgt für maximale Leistung bei längerer Laufzeit im Vergleich zu herkömmlichen Kohlebürstenmotoren.
-- In der Lieferung enthalten sind zwei 2,0 Ah PXC Lithium-Ionen-Akkus. Diese sind kompatibel mit der gesamten Power X-Change-Reihe und stehen für stete Einsatzbereitschaft, ganz ohne Selbstentladung.
+- Mit der Drehzahl-Elektronik für material- und anwendungsgerechtes Arbeiten liefert das Gerät bei Bedarf aber auch niedrigere Drehzahlen zum Schrauben in weicheren Materialien.
 - Der Schlagbohrschrauber bietet auch bei harten Anwendungen höchste Handlichkeit und einen festen Halt durch das ergonomische Design und den Softgrip.
+- In der Lieferung enthalten sind zwei 2,0 Ah PXC Lithium-Ionen-Akkus. Diese sind kompatibel mit der gesamten Power X-Change-Reihe und stehen für stete Einsatzbereitschaft, ganz ohne Selbstentladung.
+- Durch die inkludierte Schlagbohrfunktion für universelles Arbeiten und das 2-Gang-Getriebe zum kraftvollen Bohren und Schrauben dringt der Schlagbohrschrauber selbst in härtere Materialien ein.
+- Der Einhell Akku-Schlagbohrschrauber TP-CD 18/50 Li-i BL (2x2,0Ah) ist ein Allrounder mit Schraub-, Bohr- und Schlagbohrfunktion, vereint in einem praktischen Gerät.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B084JZY2HX{{</world>}}

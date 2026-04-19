@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Detailliert gestaltet - Die Sammelfigur verfügt über 20 Gelenkpunkte, die es dir ermöglichen, sämtliche Kampfpositionen nachzustellen - mit alternativem Kopf und Händen für zusätzliche Varianten.
+- Jada Toys - Actionfiguren für Zuhause: Als führender Spielzeug-Hersteller von Film-Figuren und -Autos aus Hollywood & Co. bringen wir deine Helden als detailgetreue Nachbildungen zu dir ins Wohnzimmer.
 - Zubehör für Spezialangriff - Mithilfe der mitgelieferten lodernden Flamme führt die 15 cm große Figur sogar den Feuer-Kick SHIENKYAKU aus - einen von FEI LONGS berühmten Street Fighter Moves.
 - Origineller Fanartikel ab 13 Jahren - Die offiziell von Capcom lizenzierte Action Figur ist in einer außergewöhnlichen Fenster-Box verpackt, die von einer Spielkonsole im Arcade-Stil inspiriert wurde.
 - Street Fighter Ikone FEI LONG - Ob im Videospiel oder als Actionfigur im Maßstab 1:12: Mit unerschütterlicher Disziplin und Ausdauer verkörpert Kampfkunstmeister FEI-LONG den perfekten Kämpferethos.
-- Detailliert gestaltet - Die Sammelfigur verfügt über 20 Gelenkpunkte, die es dir ermöglichen, sämtliche Kampfpositionen nachzustellen - mit alternativem Kopf und Händen für zusätzliche Varianten.
-- Jada Toys - Actionfiguren für Zuhause: Als führender Spielzeug-Hersteller von Film-Figuren und -Autos aus Hollywood & Co. bringen wir deine Helden als detailgetreue Nachbildungen zu dir ins Wohnzimmer.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BZ592TJZ{{</world>}}

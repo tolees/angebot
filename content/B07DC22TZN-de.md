@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Dämpfende Zwischensohle für Komfort
 - Obermaterial aus Veloursleder
 - Durchgehende Schnürung für einen festen Sitz
-- Dämpfende Zwischensohle für Komfort
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07DC22TZN{{</world>}}

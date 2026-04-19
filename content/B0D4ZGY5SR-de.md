@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verpackungsdesign in Englisch; Textsprachen: Englisch, Französisch, Italienisch, Deutsch, Spanisch, traditionelles Chinesisch, vereinfachtes Chinesisch, Portugiesisch, Russisch, Japanisch und Koreanisch
+- Rhythmusspiel: Du kannst zum GGST-Soundtrack mitspielen.
 - Charakter-Skins: Einige Kunden besuchen die Sushi-Bar möglicherweise als GGST-Cosplayer.
-- Schiffs-Skins: Dekoriere dein Fischerboot mit beliebten GGST-Charakteren.
 - Die Midnight Sushi Bar: Koche Sushi-Gericht mit frisch gefangenen Zutaten. Mit genug Mundpropaganda kommen vielleicht auch spezielle Kunden. Steigere die Verkaufszahlen der Sushi-Bar, damit du noch weiter in das Meer des Unbekannten vordringen kannst.
 - Erkunde das Mysterious Blue Hole: Von winzigen tropischen Fischen bis zu riesigen Kranken, die Meereswelt ist mit sehr vielseitigem Leben gefüllt. Man weiß nie, mit welchen Meereslebewesen man konfrontiert wird. Entkomme Angriffen von Raubtieren, während du auf der Jagd nach frischen Zutaten für dein Sushi bist. Alte Relikte, die in der riesigen Unterwasserwelt verteilt sind, erzählen von noch größeren Geheimnissen.
-- Rhythmusspiel: Du kannst zum GGST-Soundtrack mitspielen.
+- Schiffs-Skins: Dekoriere dein Fischerboot mit beliebten GGST-Charakteren.
+- Verpackungsdesign in Englisch; Textsprachen: Englisch, Französisch, Italienisch, Deutsch, Spanisch, traditionelles Chinesisch, vereinfachtes Chinesisch, Portugiesisch, Russisch, Japanisch und Koreanisch
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D4ZGY5SR{{</world>}}

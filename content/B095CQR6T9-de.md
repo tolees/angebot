@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MATERIAL - Der bequeme und weiche Stoff aus 80% Viskose, 20% Baumwolle bietet hochwertige Verarbeitung und angenehm leichten Tragekomfort.
 - BASIC - Zeitloses und minimalistisches Basic Design, ein Klassiker in der Modewelt! Dünnes Longsleeve JDYFRANSISKA - 15228065, ein Essential für Deine Daily Looks!
 - JDYFRANSISKA L/S HIGHNECK TOP JRS NOOS
 - PASSFORM - Elastischer Regular Fit Schnitt. Mit dem Rundhals-Stehkragen und dem gerafftem Rollkanten-Abschluss setzt Du Deine feminine Silhouette perfekt in Szene.
+- MATERIAL - Der bequeme und weiche Stoff aus 80% Viskose, 20% Baumwolle bietet hochwertige Verarbeitung und angenehm leichten Tragekomfort.
 - PERFEKT - Einfarbiges Longsleeve Shirt. Mode Kleidung zum Wohlfühlen. Kombiniere das dünne Oberteil ganz vielfältig auf all Deine Outfits!
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Strategische, rundenbasierte Kämpfe
 - Eine epische Geschichte über Verbindungen
 - Abenteuer zwischen Raum und Zeit
+- Strategische, rundenbasierte Kämpfe
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0FC2TN7LD{{</world>}}

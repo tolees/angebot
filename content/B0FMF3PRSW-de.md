@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Übertragungsgeschwindigkeiten von bis zu 100 MB/s: Basierend auf internen Tests kann die Leistung je nach Host-Gerät, Schnittstelle, Nutzungsbedingungen variieren. 1 MB = 1.000.000 Byte
 - USB-C 2-in-1-Speicher-OTG: Das Lexar JumpDrive Dual Drive D40E verfügt über USB-Typ-A- und Typ-C-Anschlüsse in einem schlanken, tragbaren Formfaktor für einfache Gerätekompatibilität
 - Haltbar & Kompakt: Der Lexar D40E USB-Stick verfügt über ein Metallgehäuse, hält Temperaturen von 0 °C bis 50 °C (32 °F bis 122 °F) stand und ist mit 26 g und Abmessungen von 70,4 x 16,9 x 11,7 mm leicht
+- Übertragungsgeschwindigkeiten von bis zu 100 MB/s: Basierend auf internen Tests kann die Leistung je nach Host-Gerät, Schnittstelle, Nutzungsbedingungen variieren. 1 MB = 1.000.000 Byte
 - Sicherheit und Garantie: Schützt Dateien sicher mit einer fortschrittlichen Sicherheits-Softwarelösung mit 256-Bit-AES-Verschlüsselung. Unterstützt durch eine 3-jährige eingeschränkte Garantie
 - Plug and Play: Weitgehend kompatibel mit Windows-, Android-, Linux- und Mac OS-Systemen, keine Softwareinstallation erforderlich. Die um 360° drehbare Kappe ermöglicht ein einfaches Wechseln zwischen den Anschlüssen, ohne die Gefahr, eine Kappe zu verlieren
 

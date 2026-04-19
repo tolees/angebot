@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Kreativer Spielspaß ohne Limits: Für weitere spannende Abenteuer musst du dieses Set nur mit anderen separat erhältlichen LEGO City Modellen kombinieren
 - Faszinierendes Rennauto-Spielzeug: Kinder können die Fahrer-Minifigur ins Cockpit des Mini-Monster-Trucks stecken und losflitzen, um spektakuläre Stunts und Sprünge vorzuführen
-- Inhalt der Box: Alles, was Kinder brauchen, um einen blauen LEGO City Monster Truck zu bauen, sowie eine Rennfahrer-Minifigur
 - Monster-Truck-Spielzeug: LEGO City Blauer Monstertruck ist das perfekte Offroad-Auto, um Kinder spektakuläre Stuntshows und spannende Offroad-Abenteuer darstellen zu lassen
+- Inhalt der Box: Alles, was Kinder brauchen, um einen blauen LEGO City Monster Truck zu bauen, sowie eine Rennfahrer-Minifigur
 - Ein lustiges Geschenk für jeden Anlass: Dieses LEGO City Monster Truck Set ist ein cooles Geburtstags-, Oster- oder Weihnachtsgeschenk für Kinder ab 5 Jahren, die LEGO Fahrzeuge und Action ohne Verschnaufpause lieben
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

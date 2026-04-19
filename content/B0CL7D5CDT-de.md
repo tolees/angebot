@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Materialzusammensetzung: Außenschicht: 100% Polyester; Polsterung: 100% Polyester; Futter: 100% Polyester
-- Langarm
 - Steppjacke
+- Langarm
+- Materialzusammensetzung: Außenschicht: 100% Polyester; Polsterung: 100% Polyester; Futter: 100% Polyester
 - Regular Fit
 
 [🛒 Hier!!]({{< param buyurl >}})

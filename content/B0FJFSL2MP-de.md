@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- [WLAN Steckdose] Hinweis zur WLAN-Kompatibilität: Bitte verbinden Sie die smarte Steckdose mit einem 2,4-GHz-WLAN-Netzwerk; 5 GHz wird nicht unterstützt.
 - [Energieüberwachung] Der OBLINPLE Wlan Steckdose überwacht den täglichen Stromverbrauch und die Stromkosten Ihrer Haushaltsgeräte. Er liefert präzise Daten zum Energieverbrauch, sodass Sie Ihren Stromverbrauch im Haushalt besser im Blick behalten und Energiesparpotenziale einplanen können.
-- [Sprachsteuerung] Dieser Alexa Steckdose ist mit Alexa, Google Assistant und SmartThings kompatibel. Steuern Sie Ihre Geräte einfach per Sprachbefehl mit "Alexa, schalte die Kaffeemaschine ein", Erleben sie das leben im smart home!
-- [Kundenservice] Bei Fragen oder Problemen steht Ihnen unser Support-Team gerne zur Verfügung. Wir helfen Ihnen gerne weiter.
-- [Überladeschutz] Der OBLINPLE Smart Steckdose schützt Ihre Haushaltsgeräte. Sobald Ihre Geräte (z. B. Saugroboter, Tablets usw.) über den Smart-Plug vollständig geladen sind, wird der Ladevorgang automatisch gestoppt, um ein Überladen zu verhindern. Dadurch werden Schäden vermieden, die Akkulaufzeit verlängert und die Brandgefahr reduziert.
-- [Zeitschaltuhr] Mit der Timer- und Countdown-Funktion des Smarte Steckdose können Sie Ihre Geräte so einstellen, dass sie sich zu den von Ihnen gewählten Zeiten automatisch ein- und ausschalten. Dies vermeidet unnötige Standby-Zeiten und spart Stromkosten.
+- [WLAN Steckdose] Hinweis zur WLAN-Kompatibilität: Bitte verbinden Sie die smarte Steckdose mit einem 2,4-GHz-WLAN-Netzwerk; 5 GHz wird nicht unterstützt.
 - [Fernsteuerung] Mit dieser smart home steckdose, die sich über Smart Life und die Tuya-App fernsteuern lässt, können Sie Ihre Geräte jederzeit und überall ein- und ausschalten – unabhängig von Ihrem Standort und ohne sich Sorgen machen zu müssen, den Strom auszuschalten, selbst wenn Sie nicht zu Hause sind. (Hinweis: Diese Steckdose unterstützt "Tasmota" nicht.)
+- [Kundenservice] Bei Fragen oder Problemen steht Ihnen unser Support-Team gerne zur Verfügung. Wir helfen Ihnen gerne weiter.
+- [Zeitschaltuhr] Mit der Timer- und Countdown-Funktion des Smarte Steckdose können Sie Ihre Geräte so einstellen, dass sie sich zu den von Ihnen gewählten Zeiten automatisch ein- und ausschalten. Dies vermeidet unnötige Standby-Zeiten und spart Stromkosten.
+- [Überladeschutz] Der OBLINPLE Smart Steckdose schützt Ihre Haushaltsgeräte. Sobald Ihre Geräte (z. B. Saugroboter, Tablets usw.) über den Smart-Plug vollständig geladen sind, wird der Ladevorgang automatisch gestoppt, um ein Überladen zu verhindern. Dadurch werden Schäden vermieden, die Akkulaufzeit verlängert und die Brandgefahr reduziert.
+- [Sprachsteuerung] Dieser Alexa Steckdose ist mit Alexa, Google Assistant und SmartThings kompatibel. Steuern Sie Ihre Geräte einfach per Sprachbefehl mit "Alexa, schalte die Kaffeemaschine ein", Erleben sie das leben im smart home!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FJFSL2MP{{</world>}}

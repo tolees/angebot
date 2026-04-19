@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Keine Verunreinigungen, Kein verstopft
 - Umweltschutz, Hergestellt aus Stärke-Rohstoffen, die aus nachwachsenden Pflanzenressourcen stammen
+- Keine Verunreinigungen, Kein verstopft
+- Durchmessertoleranz +/- 0.02mm
 - Druck Temperatur: 190-220℃;
 - 1kg Spool 1.75mm Filament PLA in der Vakuumverpackung
-- Durchmessertoleranz +/- 0.02mm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DY7H7JNM{{</world>}}

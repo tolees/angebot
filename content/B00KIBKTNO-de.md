@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 🍑 AROMA PUR - CÎROC Peach ist ein eleganter Premium Wodka, der durch seine intensive Süße besticht. Er eignet sich Ideal für anspruchsvolle Feiern und verleiht jedem Anlass eleganten, französischen Glamour.
-- 🍹 SERVIERVORSCHLAG - Genießen Sie das saftig-fruchtige Aroma des CÎROC Peach mit Ananassaft in einem köstlichen Mix: Einfach 50 ml CÎROC Peach und 50 ml Ananassaft in einen Tumbler mit Eiswürfeln geben und garnieren. Fertig.
 - ☀️ FRANZÖSISCHES SAVOIR FAIRE - CÎROC Peach besticht mit seiner Fülle tropischer Aromen und einem frischen Abgang mit süßen Noten von Pfirsich. Er wird für höchste Qualität fünffach destilliert und mit den saftigen Aromen süßer Pfirsiche angereichert.
+- 🍑 AROMA PUR - CÎROC Peach ist ein eleganter Premium Wodka, der durch seine intensive Süße besticht. Er eignet sich Ideal für anspruchsvolle Feiern und verleiht jedem Anlass eleganten, französischen Glamour.
 - 🎁 GESCHENKIDEE - Das ideale Geschenk oder Mitbringsel für jede Geburtstagsparty, gehobenes Zuhausefeiern oder auch zu Weihnachten. Jetzt bei uns in limitierter Edition erhältlich - aus dem südfranzösischen Hause CîROC.
+- 🍹 SERVIERVORSCHLAG - Genießen Sie das saftig-fruchtige Aroma des CÎROC Peach mit Ananassaft in einem köstlichen Mix: Einfach 50 ml CÎROC Peach und 50 ml Ananassaft in einen Tumbler mit Eiswürfeln geben und garnieren. Fertig.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00KIBKTNO{{</world>}}

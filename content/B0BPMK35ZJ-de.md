@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Kraft der Esper - Nutze verschiedene Fertigkeiten, um dich in den rasanten Kämpfen zu behaupten
+- Inhalt: Das Spiel "Final Fantasy XVI" und ein exklusives Steelbook
 - Kampf der Giganten - Bei Duellen zwischen Domini erwarten dich gewaltige Zusammenstöße ihrer Esper
 - Das Erbe der Kristalle hat unsere Geschichte lang genug geprägt!
 - Jetzt vorbestellen und sich die Vorbestellerboni-DLCs: "Gil-Boost-Accessoire: Cait-Sith-Talisman" und "Bonus-Waffe: Kämpferherz" sichern
-- Inhalt: Das Spiel "Final Fantasy XVI" und ein exklusives Steelbook
+- Die Kraft der Esper - Nutze verschiedene Fertigkeiten, um dich in den rasanten Kämpfen zu behaupten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BPMK35ZJ{{</world>}}

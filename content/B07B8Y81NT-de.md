@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Hot Wheels Sammelbox
-- Sonderedition zum 50-jährigen Jubiläum
 - Platz für 50 Autos
+- Sonderedition zum 50-jährigen Jubiläum
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07B8Y81NT{{</world>}}

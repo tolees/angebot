@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Der Familienspiel-Klassiker ab 7 Jahren mit hochwertiger Leuchtfarbe macht es möglich das Spiel mit altbekannten Regeln im Hellen und zusätzlich in vollkommener Dunkelheit zu spielen - Wer als erstes alle Pokémon gefunden hat, gewinnt
 - Für all diejenigen, die nicht genug von ihren beliebtesten Pokémon bekommen, ist dieses Suchspiel das passende Geschenk oder Mitbringsel
 - Egal ob beim Spielen mit Freunden, mit der Familie oder unter Pokémon-Liebhabern - Mit diesem Suchspiel wird der nächste Spieleabend sicher nicht langweilig und lässt durch den magischen Effekt kleine und große Spieler staunen
-- Das verrückte Labyrinth: Ein Brettspiel mit Tradition. Seit über 30 Jahren begeistert der spannende Klassiker Familien über Generationen hinweg
-- Der Familienspiel-Klassiker ab 7 Jahren mit hochwertiger Leuchtfarbe macht es möglich das Spiel mit altbekannten Regeln im Hellen und zusätzlich in vollkommener Dunkelheit zu spielen - Wer als erstes alle Pokémon gefunden hat, gewinnt
 - Diese Pokémon-Ausgabe mit einer Spieleranzahl von 2-4 Spielern ist das ideale Gesellschaftsspiel für die ganze Familie. Die Grundregeln sind für alle Fans des Verrückten Labyrinths bekannt: Geschickt müssen die Gänge des Irrgartens verschoben werden, um die gesuchten Pokémon zu finden
+- Das verrückte Labyrinth: Ein Brettspiel mit Tradition. Seit über 30 Jahren begeistert der spannende Klassiker Familien über Generationen hinweg
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CZ12JTS7{{</world>}}

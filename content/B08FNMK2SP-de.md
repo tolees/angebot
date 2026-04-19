@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lieferung im Karton ohne Akku, ohne Ladegerät, ohne Koffer
-- Elektronik-Schalter für stufenlose Drehzahlsteuerung
 - Handliches Gebläse mit langem Blasrohr zum komfortablen Arbeiten
+- Elektronik-Schalter für stufenlose Drehzahlsteuerung
 - Zusätzliches 3-stufiges Stellrad für feste Drehzahlen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

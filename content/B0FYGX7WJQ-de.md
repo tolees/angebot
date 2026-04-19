@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Alles beginnt, als eine Leiche – das Opfer einer unbekannten Krankheit – in einem verlassenen Hotel aufgefunden wird. Grace Ashcroft, Kriminalanalytikerin beim FBI, wird mit der Untersuchung beauftragt. Doch der Fundort der Leiche ist genau der Ort, an dem vor acht Jahren ihre Mutter starb.
 - Eine neue Ära des Survival Horrors beginnt 2026. Technologischer Fortschritt kombiniert mit der weitreichenden Erfahrung des Entwicklerteams, Stories mit fein ausgearbeiteten Charakteren und Gameplay zu kombinieren, sorgen für eine immersivere Erfahrung als je zuvor.
 - Erleben Sie den klassischen Survival Horror der Serie durch Kampf, Untersuchungen, Rätsel und Ressourcen-Management. Das Gameplay erlaubt, frei zwischen Ego- und Third-Person-Perspektive zu wechseln und den Horror aus dem Blickwinkel zu erleben, der am besten zu Ihrem Spielstil passt.
-- Nervös, mit ihrer Vergangenheit konfrontiert zu werden, macht sich Grace auf in Richtung Hotel. Wie sich herausstellt, steht der Fall in Verbindung mit der Wahrheit hinter dem Unglück von Raccoon City, der biologischen Katastophe, die einst die Welt schockierte. Wird mit diesem Kapitel nun endlich ein Schlussstrich gezogen?
+- Alles beginnt, als eine Leiche – das Opfer einer unbekannten Krankheit – in einem verlassenen Hotel aufgefunden wird. Grace Ashcroft, Kriminalanalytikerin beim FBI, wird mit der Untersuchung beauftragt. Doch der Fundort der Leiche ist genau der Ort, an dem vor acht Jahren ihre Mutter starb.
 - Resident Evil Requiem ist der neunte Titel in der Resident Evil-Hauptserie. Bereiten Sie sich dich darauf vor, dem Tod in dieser atemberaubenden Erfahrung zu entkommen, die Sie bis aufs Mark erschüttern wird.
+- Nervös, mit ihrer Vergangenheit konfrontiert zu werden, macht sich Grace auf in Richtung Hotel. Wie sich herausstellt, steht der Fall in Verbindung mit der Wahrheit hinter dem Unglück von Raccoon City, der biologischen Katastophe, die einst die Welt schockierte. Wird mit diesem Kapitel nun endlich ein Schlussstrich gezogen?
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0FYGX7WJQ{{</world>}}

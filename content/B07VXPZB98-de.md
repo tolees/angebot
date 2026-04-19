@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wählen Sie aus 20 Dinosauriern, die Angst und Schrecken verbreiten oder erschaffen Sie Ihre eigenen
 - Lego Jurassic World ist das erste Videospiel, in dem Spieler Schlüsselmomente und unvergessliche Szenen aus allen vier Jurassic-Filmen erleben können
+- Wählen Sie aus 20 Dinosauriern, die Angst und Schrecken verbreiten oder erschaffen Sie Ihre eigenen
 - Mit Zugriff auf sechs Charaktere, zwei Fahrzeuge, das Jurassic-Einsatzfahrzeug, das Jurassic world-Shuttle und mehr
 - Erkunden Sie die weitläufigen Gegenden von Isla Nublar und Isla Sorna indem Sie die eigenen Saurier auf die Weide stellen
 

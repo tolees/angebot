@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Es entfernt abgestorbene Hautzellen und nährt die Haut
 - Die Hautstruktur wird feiner , die Haut ist genährt und sichtbar schöner
+- Es entfernt abgestorbene Hautzellen und nährt die Haut
 - die Haut mit einer nährenden Schutzhülle umgibt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

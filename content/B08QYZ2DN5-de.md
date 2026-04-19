@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kapuze mit Kordelzug
 - Weicher Stoff
+- Kapuze mit Kordelzug
 - Normale Passform
 
 [🛒 Hier!!]({{< param buyurl >}})

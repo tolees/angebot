@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wähle aus einer Vielzahl von Combat Memories; Kampfstile, die Ps Gameplay drastisch verändern. Jede Erinnerung verleiht P unterschiedliche Gegenstände und Werte und ist auf verschiedene Spielstile zugeschnitten. Sein breites Arsenal an Schusswaffen, Schwertern, Äxten und vielem mehr kann ebenfalls von den verschiedenen Wegen profitieren, die P einschlagen kann
 - Spiele als Pinocchio, eine mechanische Marionette, und kämpfe dich durch alles, was dir im Weg steht, um den berühmten Erfinder Gepetto zu finden. Löse das Geheimnis, was mit dir und der weitläufigen Stadt Krat passiert ist. Aber erwarte keine Hilfe auf deinem Weg, eine Vielzahl von Charakteren, sowohl Freund als auch Feind, haben alle ihre eigenen Motivationen
-- Erlebe zusammenhängende Quests, die sich je nachdem, wie und wann du lügst, unterschiedlich entwickeln. Je mehr du lügst, desto menschlicher wirst du, aber das Lügen hat auch Auswirkungen auf deine Interaktionen mit NSCs, die Art der Feinde, denen du begegnest, und die Stadt Krat um dich herum
+- Wähle aus einer Vielzahl von Combat Memories; Kampfstile, die Ps Gameplay drastisch verändern. Jede Erinnerung verleiht P unterschiedliche Gegenstände und Werte und ist auf verschiedene Spielstile zugeschnitten. Sein breites Arsenal an Schusswaffen, Schwertern, Äxten und vielem mehr kann ebenfalls von den verschiedenen Wegen profitieren, die P einschlagen kann
 - Mit einem umfangreichen Crafting-System können Sie Waffen auf vielfältige Weise kombinieren, um etwas völlig Neues zu schaffen. Jede Waffe kann zerlegt und mit verschiedenen Effekten ausgestattet werden. Durchsuche die Stadt, um die besten Kombinationen zu finden und etwas wirklich Besonderes zu schaffen
+- Erlebe zusammenhängende Quests, die sich je nachdem, wie und wann du lügst, unterschiedlich entwickeln. Je mehr du lügst, desto menschlicher wirst du, aber das Lügen hat auch Auswirkungen auf deine Interaktionen mit NSCs, die Art der Feinde, denen du begegnest, und die Stadt Krat um dich herum
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BXPQ2NC4{{</world>}}

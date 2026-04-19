@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Marke: Zyxel
 - Gefahrgutversand: Nein
 - Hersteller-Artikelnummer: XMG-108HP-EU0101F
-- Marke: Zyxel
-- Hersteller: Zyxel
 - Produktname für Otto: Zyxel Zyxel XMG-108 8 Port 10/2,5G MultiGig PoE++ XMG-108HP-EU0
+- Hersteller: Zyxel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CLGXFV62{{</world>}}

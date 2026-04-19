@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Klassischer Stil – reguläre Passform
 - Dieser Klassiker ist in einer Vielzahl von Größen erhältlich
 - Dies ist ein langlebiges Kleidungsstück, das Sie für die kommenden Jahreszeiten genießen werden
-- Klassischer Stil – reguläre Passform
 - Wir bieten nur die hochwertigsten Materialien
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

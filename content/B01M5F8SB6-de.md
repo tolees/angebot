@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 3D-Drehachse mit Rudersperre: Mehr Kontrolle im Simulationsflug dank Rudersteuerung über die Drehachse des G Saitek X52 Joysticks, Drehachse deaktivierbar
 - Individuell einstellbar: 282 Befehle in 3 Modi sorgen für das ultimative Raumfahrt- und Flight-Simulation-Erlebnis
 - Anzeige: Auf dem LCD-Display des Saitek-X52-Schubreglers werden Spielstände und Informationen zur Konfiguration angezeigt, wichtige Tasten sind beleuchtet
+- 3D-Drehachse mit Rudersperre: Mehr Kontrolle im Simulationsflug dank Rudersteuerung über die Drehachse des G Saitek X52 Joysticks, Drehachse deaktivierbar
 - 5-stufige Griffjustierung: Der ergonomische Joystick-Griff von Logitech G Saitek X52 ist verstellbar und passt sich der Handgröße und dem Griffstil an
 - Professionell: Logitech Flugsimulatoren-Joysticks mit Sensor-Technologie der X- und Y-Achsen und Doppelfeder-Zentrierungsmechanismus für eine verbesserte Bedienung
 

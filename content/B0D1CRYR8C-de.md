@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MECHANISCHE SCHALTER - Die mechanischen Schalter der Pure SEL sind für 20 Millionen Klicks ausgelegt und bieten ein knackiges, taktiles Erlebnis
 - PIXART-SENSOR - Der PixArt PAW3318-Sensor bietet eine hervorragende Leistung mit 8K DPI und 200 IPS Abtastungsgeschwindigkeit
-- ULTRALEICHT - Mit einem Gewicht von nur 49 g fühlt sich die Pure SEL schwerelos an und bietet ein reines Leistungsdesign, das schnelle Bewegungen und große Mausbewegungen ermöglicht
 - KLICK-SPANNUNG - Die linke und rechte Maustaste sind mit einem Spannsystem ausgestattet, das die Zuverlässigkeit und Reaktionszeit verbessert und für ein präzises und angenehmes Klicken sorgt
+- MECHANISCHE SCHALTER - Die mechanischen Schalter der Pure SEL sind für 20 Millionen Klicks ausgelegt und bieten ein knackiges, taktiles Erlebnis
+- ULTRALEICHT - Mit einem Gewicht von nur 49 g fühlt sich die Pure SEL schwerelos an und bietet ein reines Leistungsdesign, das schnelle Bewegungen und große Mausbewegungen ermöglicht
 - ERGONOMISCHE FORM - Die Pure SEL tritt in die Fußstapfen der kultigen Kone Pureund profitiert von über einem Jahrzehnt ergonomischer Entwicklung, um die komfortabelste Maus der Welt zu bauen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

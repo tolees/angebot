@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Gold Edition enthält das Hauptspiel und den Season Pass. Der Season Pass beinhaltet zwei Story Pakete, die Zusatzmission Jabbas Schachzug und drei kosmetische Pakete.
-- Erlebe Star Wars wie nie zuvor in einem faszinierenden Open-World-Spiel, bei dem du die gesamte Galaxis erkundest und dich auf eine unvergleichliche Abenteuerreise begibst.
 - Tauche ein in die mitreißende Geschichte einer echten Gesetzlosen und entdecke die unzähligen Facetten ihres gefährlichen Alltags, während sie sich gegen die mächtigen Verbrechersyndikate der Galaxis behauptet.
-- Wage dich in riskante Missionen und akzeptiere Aufträge von den gefürchtetsten Verbrechersyndikaten der Galaxis, um dich in den gefährlichen Untiefen der Unterwelt zu behaupten und lohnende Belohnungen zu erlangen.
+- Die Gold Edition enthält das Hauptspiel und den Season Pass. Der Season Pass beinhaltet zwei Story Pakete, die Zusatzmission Jabbas Schachzug und drei kosmetische Pakete.
 - Schlüpfe in die Rolle von Kay Vess, einer furchtlosen Halunkin, die sich mutig den Herausforderungen stellt, um in der Galaxis nach Freiheit und einem neuen Leben zu suchen.
+- Erlebe Star Wars wie nie zuvor in einem faszinierenden Open-World-Spiel, bei dem du die gesamte Galaxis erkundest und dich auf eine unvergleichliche Abenteuerreise begibst.
+- Wage dich in riskante Missionen und akzeptiere Aufträge von den gefürchtetsten Verbrechersyndikaten der Galaxis, um dich in den gefährlichen Untiefen der Unterwelt zu behaupten und lohnende Belohnungen zu erlangen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0F7HKTH4H{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eine integrierte Firewall schützt vor Angriffen über das Internet
 - Schnelle Einrichtung dank Wi-Fi Protected Setup (WPS)
 - Durch die kleine Größe können Sie es überallhin mitnehmen
 - Mit integriertem SIM-Kartensteckplatz
+- Eine integrierte Firewall schützt vor Angriffen über das Internet
 - Bis zu 5 Stunden Batteriedauer. Betriebstemperatur: 0 bis 40 °C
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

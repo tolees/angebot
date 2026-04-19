@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- DETAILS: Material Rahmen: Solides Stahlrohr | Material Bezug: Bequemes, reißfestes 600D Oxford-Gewebe | Maße ca. 192x64x42 | klappbare / faltbare Ausführung mit geringem Packmaß | incl. Transporttasche | Packmaß ca. 92x10x17 cm
 - MOBIL: Das Feldbett lässt sich in sekundenschnelle aufbauen, sodass eine lästige und langwierige Montage entfällt. Auch das Zusammenklappen funktioniert im Handumdrehen. Durch die beigefügte Transporttasche mit geringem Packmaß lässt sich das Camping-Bett einfach transportieren oder lagern.
 - STABIL: Hochwertige Ausführung mit massivem Rahmengestell aus solidem Stahlrohr, verstärkt mit vielen T-Beschlägen um eine hohe Belastbarkeit zu gewährleisten. Die X-Form der Beine sowie die Anti-Rutsch-Beschichtung an den Füßen sorgen für einen sicheren Stand.
 - UNVERZICHTBAR: Optimal für lange und kurze Ausflüge in der Natur: Beispielweise beim Angeln, Campen, Wandern oder Bushcrafting: Dieses stabile Feldbett darf bei keiner Tour fehlen! Zudem eignet sich Camping-Liege auch optimal als Gäste-Bett.
 - BEQUEM & STRAPAZIERFÄHIG: Auf dem äußerst reißfesten und feuchtigkeitsbeständigen Oxford-Gewebe (600D) können Sie es sich gemütlich machen – ob zum Ausruhen, für eine kurze Pause oder für einen langen, erholsamen Schlaf.
-- DETAILS: Material Rahmen: Solides Stahlrohr | Material Bezug: Bequemes, reißfestes 600D Oxford-Gewebe | Maße ca. 192x64x42 | klappbare / faltbare Ausführung mit geringem Packmaß | incl. Transporttasche | Packmaß ca. 92x10x17 cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08BRXVRFL{{</world>}}

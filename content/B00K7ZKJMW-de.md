@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- GESCHMACKSNOTEN – Aviation American Gin ist bekannt für sein einzigartiges Geschmacksprofil, das traditionelle Gin-Botanicals mit modernen, innovativen Akzenten kombiniert.
+- GESCHENKIDEE – Aviation American Gin ist ein ideales Geschenk für Gin-Liebhaber:innen und eignet sich perfekt für besondere Anlässe.
 - SO WIRD ER GENOSSEN – Aviation American Gin wird am besten mit viel Eis und einem Premium-Tonic serviert. Er eignet sich nicht nur hervorragend zum Mischen mit Mixgetränken, sondern ist auch eine köstliche Basis für Gin-Cocktails.
 - HINTERGRUND – Aviation Gin ist ein einzigartiger und edler Gin aus Portland, Oregon. Hergestellt mit Wacholder, Lavendel und Kardamom überzeugt dieser Gin mit einem weichen und floralen Geschmack. Entdecken Sie die perfekte Mischung für Ihre Mixology-Abenteuer.
-- GESCHENKIDEE – Aviation American Gin ist ein ideales Geschenk für Gin-Liebhaber:innen und eignet sich perfekt für besondere Anlässe.
+- GESCHMACKSNOTEN – Aviation American Gin ist bekannt für sein einzigartiges Geschmacksprofil, das traditionelle Gin-Botanicals mit modernen, innovativen Akzenten kombiniert.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00K7ZKJMW{{</world>}}

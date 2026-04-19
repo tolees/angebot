@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 1.74 AMOLED Display: Lebendige Farben und scharfe Darstellung mit einer Auflösung von 360x480 Pixeln.
-- 1200 nits Helligkeit: Optimale Sichtbarkeit, auch bei hellem Sonnenlicht.
 - 5ATM Wasserfest: Geeignet für Schwimmen und andere Wasseraktivitäten bis zu 50 Meter Tiefe.
 - 21 Tage Akkulaufzeit: Lang anhaltende Energie für den Alltag, inklusive Fitness-Tracking.
+- 1200 nits Helligkeit: Optimale Sichtbarkeit, auch bei hellem Sonnenlicht.
 - 150+ Sportmodi: Vielfältige Trainingsoptionen mit präziser Erfassung deiner Aktivitäten.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flugverwaltungsanzeige - Die vollfarbige Anzeige mit speziellen Bedienelementen lässt dich das System für Microsoft Flight Simulator wie im Flug erlernen und konfigurieren.
-- Realistisches Steuerrad - Realistische 180°-Drehung des Steuerrads, abgestimmt auf sanfte und präzise Kurskorrekturen jedes Flugzeugs.
 - Modularer Schubquadrant - Die Doppelhebel-Steuerung und Vernier-Steuerung sorgt für ein realistisches Erlebnis sowohl bei kleinen Flugzeugen als auch bei großen Jets.
 - Integrierte Seitenrudersteuerung - Einfaches Rollen, Landen und Wenden durch integrierte Rudersteuerung und Bremstasten in Griffweite.
 - Universelles Design - VelocityOne Flight ist ein vollständiges Flugverwaltungssystem und enthält ein Steuerrad mit integrierter Seitenrudersteuerung, Neigungstrimrad und Schubquadrant.
+- Flugverwaltungsanzeige - Die vollfarbige Anzeige mit speziellen Bedienelementen lässt dich das System für Microsoft Flight Simulator wie im Flug erlernen und konfigurieren.
+- Realistisches Steuerrad - Realistische 180°-Drehung des Steuerrads, abgestimmt auf sanfte und präzise Kurskorrekturen jedes Flugzeugs.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09JM8SX8G{{</world>}}

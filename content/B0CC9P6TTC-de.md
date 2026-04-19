@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Hose mit legerer Silhouette
 - Maschinenwäsche
-- Materialzusammensetzung: 100% Leinen
 - B0CC9P6TTC
+- Materialzusammensetzung: 100% Leinen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CC9P6TTC{{</world>}}

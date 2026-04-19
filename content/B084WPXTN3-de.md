@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die cleveren Slider Edge XB - jetzt auch in trendigem Pastell zum Verschönern ihres Tagebuchs oder Bullet Journals
-- Der großzügig gummierte Dreikantschaft ermöglicht eine entspannte und sichere Schreibhaltung ohne Ermüdung der Hand. Die Kappe ist umsteckbar
 - Kugelschreiber mit Viscoglide-Technologie für außergewöhnlich leichtes und gleitendes Schreiben in extrabreiter Strichstärke (XB)
-- Die Schrift trocknet schnell - auch auf glattem Papier - und bleibt sogar bei anschließendem Markieren mit Textmarkern wischfest
 - Auch zum Zeichnen und Malen bestens geeignet, da die Spezialpaste selbst auf saugfähigem Papier nicht zerfließt. In vielen verschiedenen Farben erhältlich
+- Der großzügig gummierte Dreikantschaft ermöglicht eine entspannte und sichere Schreibhaltung ohne Ermüdung der Hand. Die Kappe ist umsteckbar
+- Die Schrift trocknet schnell - auch auf glattem Papier - und bleibt sogar bei anschließendem Markieren mit Textmarkern wischfest
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B084WPXTN3{{</world>}}

@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Obermaterial aus Synthetikleder
-- Gummi-Cupsohle
+- Synthetikfutter
 - Reguläre Passform
 - Schnürsenkel
-- Synthetikfutter
+- Gummi-Cupsohle
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09VSZFL3X{{</world>}}

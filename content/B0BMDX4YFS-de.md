@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Ultraleiser Schrittmotor
-- Scharfer Fokus, weiche Hintergründe
 - Perfekt für Fotos & Videos
-- 40mm Objektiv im Nikon Retro-Look (FX + DX)
 - Großartige Nahaufnahmen
+- 40mm Objektiv im Nikon Retro-Look (FX + DX)
+- Scharfer Fokus, weiche Hintergründe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BMDX4YFS{{</world>}}

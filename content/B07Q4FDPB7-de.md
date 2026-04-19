@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Thermospray für starken Halt.
 - Kreieren Sie glamouröse Wellenoder Lockenstile.
 - Ideal für kräftiges Haar.
+- Thermospray für starken Halt.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07Q4FDPB7{{</world>}}

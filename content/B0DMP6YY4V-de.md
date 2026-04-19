@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - ECOSYSTEM-KOMPATIBEL: Der Griff und die Basis sind mit dem Thrustmaster-Ecosystem kompatibel.
-- ACHSENPRÄZISION: X-, Y- und Z-Achsen mit H.E.A.R.T. (HallEffect AccuRate Technology)-16-Bit-Genauigkeit.
-- IKONISCHES DESIGN: Beleuchteter Joystick in einem Design, das von den größten Science-Fiction-Blockbustern inspiriert ist.
 - BEIDHÄNDIGE UND KOMFORTABLE GRIFFE: Auswechselbare Handgelenk- und Daumenauflage, Stabilisierungsstützen für die Basis.
 - MULTIFUNKTIONALER FLIGHTSTICK: 21 Aktionstasten auf dem Flightstick, darunter 2 Trigger, 2 Hut-Schalter, 1 Ministick und 1 Daumenrad.
+- IKONISCHES DESIGN: Beleuchteter Joystick in einem Design, das von den größten Science-Fiction-Blockbustern inspiriert ist.
 - DER PERFEKTE JOYSTICK, UM DIE STERNE ZU EROBERN: 1 abnehmbarer beidhändiger Griff und eine Basis mit zentralem Schubhebel, insgesamt 44 Aktionsstasten.
+- ACHSENPRÄZISION: X-, Y- und Z-Achsen mit H.E.A.R.T. (HallEffect AccuRate Technology)-16-Bit-Genauigkeit.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DMP6YY4V{{</world>}}

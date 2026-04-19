@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- WLAN-6-Netzwerk & Zwei-Wege-Audio: Die outdoor Kamera mit Akku unterstützt die Verbindung mit WiFi 6, wodurch Sie eine schnellere und stabilere Netzwerkverbindung erhalten. Außerdem können Sie jederzeit und überall über die EZVIZ-App ein Zwei-Wege-Gespräch führen.
-- 5.200 mAh wiederaufladbare Batterie mit Solarpanel: Diese Akku Kamera outdoor verfügt über einen 5.200 mAh Akku und kann für eine längere Nutzung an ein Solarpanel angeschlossen werden. Sie sollten sich keine Sorgen mehr um das Aufladen der Überwachungskamera machen!
-- 24/7-Videoüberwachung bei minimalem Stromverbrauch: Der AOV-Modus ermöglicht eine Überwachung rund um die Uhr bei minimalem Stromverbrauch, indem die Akku Kamera in festgelegten Intervallen automatisch aktiviert werden kann. Gleichzeitig erkennt die kabellose Kamera Personen oder Fahrzeugen in größerer Entfernung, auch wenn sie außerhalb des PIR-Sensorbereichs sind.
 - 2K Auflösung & flexibler Speicher: Die hohe 2K-Auflösung ermöglicht es Ihnen, Tag und Nacht mehr Details festzuhalten. Sie können mehr Ihre Lieblingsvideos speichern, indem Sie eine lokale microSD-Karte mit bis zu 512 GB (nicht im Lieferumfang enthalten) kaufen. Optional können Sie auch EZVIZ Cloud für Speicherung verwenden.
+- 5.200 mAh wiederaufladbare Batterie mit Solarpanel: Diese Akku Kamera outdoor verfügt über einen 5.200 mAh Akku und kann für eine längere Nutzung an ein Solarpanel angeschlossen werden. Sie sollten sich keine Sorgen mehr um das Aufladen der Überwachungskamera machen!
 - Intelligente Personen-/Fahrzeugerkennung & aktive Verteidigung: Mit Hilfe von der künstlichen Intelligenz kann die Kamera WiFi Akku Personen und Fahrzeuge genauer von anderen sich bewegenden Objekten unterscheiden. Sobald eine Person oder ein Fahrzeug erkennt wird, löst das Alarm automatisch aus und die zwei Spotlights schalten sich gleichzeitig ein, um abschreckend zu wirken.
+- WLAN-6-Netzwerk & Zwei-Wege-Audio: Die outdoor Kamera mit Akku unterstützt die Verbindung mit WiFi 6, wodurch Sie eine schnellere und stabilere Netzwerkverbindung erhalten. Außerdem können Sie jederzeit und überall über die EZVIZ-App ein Zwei-Wege-Gespräch führen.
+- 24/7-Videoüberwachung bei minimalem Stromverbrauch: Der AOV-Modus ermöglicht eine Überwachung rund um die Uhr bei minimalem Stromverbrauch, indem die Akku Kamera in festgelegten Intervallen automatisch aktiviert werden kann. Gleichzeitig erkennt die kabellose Kamera Personen oder Fahrzeugen in größerer Entfernung, auch wenn sie außerhalb des PIR-Sensorbereichs sind.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BHNZG9M5{{</world>}}

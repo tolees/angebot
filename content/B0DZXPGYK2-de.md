@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Perfekte Ansicht durch automatische Kalibrierung: Der Projektor scannt deine Fläche und stellt Bildgröße, Position und Klarheit automatisch ein – mit einem Klick. Mit Spatial Recall speicherst du deine bevorzugten Einstellungen für jeden Raum.
-- Erlebe jede Nuance der Dunkelheit mit ultrascharfem Kontrast: Der 6-Lamellen-Iris-Mechanismus sorgt für ein beeindruckendes natives Kontrastverhältnis von 5.000:1, das mit der NebulaMaster-Technologie auf atemberaubende 56.000:1 ansteigt.
-- Technologische Meisterwerke: Ein 14-Elemente-All-Glass-Objektiv für kinoreife Schärfe, ein motorisierter 25°-Mikro-Gimbal für hohe Flexibilität an Wänden bis 3 Meter und ein innovatives Flüssigkeitskühlungssystem, das die Wärmeabgabe optimiert und den Geräuschpegel auf unter 26dB senkt.
-- Flexibler optischer Zoom mit motorisiertem 0,9-1,5 Short- bis Long-Throw: Verändere die Bildgröße im Handumdrehen und passe sie perfekt deinem Raum an, ohne den Projektor zu bewegen – die Bildqualität bleibt immer top.
 - Brillante Helligkeit und atemberaubende 4K-Klarheit: Mit einem einzigartigen Triple-Laser-Optiksystem bringt der Projektor 3.500 ANSI-Lumen und 110% Rec. 2020 Farbtreue – ISF- und TUV-zertifiziert, plus Dolby Vision-Unterstützung für das ultimative Kinoerlebnis.
+- Perfekte Ansicht durch automatische Kalibrierung: Der Projektor scannt deine Fläche und stellt Bildgröße, Position und Klarheit automatisch ein – mit einem Klick. Mit Spatial Recall speicherst du deine bevorzugten Einstellungen für jeden Raum.
+- Flexibler optischer Zoom mit motorisiertem 0,9-1,5 Short- bis Long-Throw: Verändere die Bildgröße im Handumdrehen und passe sie perfekt deinem Raum an, ohne den Projektor zu bewegen – die Bildqualität bleibt immer top.
 - Netflix in 4K – ganz offiziell: Genieße über 10.000 Apps, einschließlich des 4K-Netflix mit Dolby Vision via Google TV – ganz ohne Zusatzgeräte oder Dongles.
+- Technologische Meisterwerke: Ein 14-Elemente-All-Glass-Objektiv für kinoreife Schärfe, ein motorisierter 25°-Mikro-Gimbal für hohe Flexibilität an Wänden bis 3 Meter und ein innovatives Flüssigkeitskühlungssystem, das die Wärmeabgabe optimiert und den Geräuschpegel auf unter 26dB senkt.
+- Erlebe jede Nuance der Dunkelheit mit ultrascharfem Kontrast: Der 6-Lamellen-Iris-Mechanismus sorgt für ein beeindruckendes natives Kontrastverhältnis von 5.000:1, das mit der NebulaMaster-Technologie auf atemberaubende 56.000:1 ansteigt.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DZXPGYK2{{</world>}}

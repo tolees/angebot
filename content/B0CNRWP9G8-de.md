@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ENTSCHEIDE, WIE DIE GESCHICHTE ENDET - Deine Entscheidungen im Hauptspiel sowie im Spionage-Thriller-Abenteuer Phantom Liberty ziehen ein komplexes Netz aus Konsequenzen nach sich
-- ERKUNDE DIE STADT DER ZUKUNFT - Du entscheidest, wann du wohin gehen möchtest und wie du dorthin kommst
 - DAS ULTIMATIVE „CYBERPUNK 2077“-ERLEBNIS – inkl. die von Kritikern gelobte Spionage-Thriller-Erweiterung Phantom Liberty
+- ENTSCHEIDE, WIE DIE GESCHICHTE ENDET - Deine Entscheidungen im Hauptspiel sowie im Spionage-Thriller-Abenteuer Phantom Liberty ziehen ein komplexes Netz aus Konsequenzen nach sich
 - ERSTELLE DEINEN EIGENEN CYBERPUNK
+- ERKUNDE DIE STADT DER ZUKUNFT - Du entscheidest, wann du wohin gehen möchtest und wie du dorthin kommst
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CNRWP9G8{{</world>}}

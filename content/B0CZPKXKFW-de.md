@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Waschhinweis: Professionelle chemische Reinigung in: Perchlorethylen, Kohlenwasserstoffe (Schwerbenzine) | Bügeln bei niedriger Temperatur | Nicht bleichen | Liegend trocknen | Nicht im Trockner trocknen | Von links waschen und bügeln | 30°C Feinwäsche | Mit ähnlichen
 - Passform: Regular, Rückenlänge bei Größe M ca. 70 cm
 - Strukturierter Pullover mit kleinem Logo-Badge auf der Brust
-- Waschhinweis: Professionelle chemische Reinigung in: Perchlorethylen, Kohlenwasserstoffe (Schwerbenzine) | Bügeln bei niedriger Temperatur | Nicht bleichen | Liegend trocknen | Nicht im Trockner trocknen | Von links waschen und bügeln | 30°C Feinwäsche | Mit ähnlichen
 - BE PART: By choosing our cotton products, you’re supporting our investment in Better Cotton’s mission. “Better Cotton“ is sourced via a mass-balance system and is not physically traceable to end products. See bettercotton.org/massbalance for details.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

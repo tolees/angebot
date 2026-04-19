@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Entwickelt für die Verwendung von Öffnungen mit einer Breite von bis zu 121,9 cm x einer Höhe von bis zu 121,9 cm.
 - Die vielfältigen Installationsmöglichkeiten unseres Lamellensystems ermöglichen es dir, sie einfach in jedes Projekt zu integrieren.
+- Entwickelt für die Verwendung von Öffnungen mit einer Breite von bis zu 121,9 cm x einer Höhe von bis zu 121,9 cm.
 - Bietet Privatsphäre, ohne deine Sicht zu beeinträchtigen.
 - Bietet dir die Möglichkeit, zu kontrollieren, wie viel Sonne, Regen und Luftstrom du in deinem Außenbereich wünschst.
 - Hergestellt in Kanada.

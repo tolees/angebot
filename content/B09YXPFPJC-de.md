@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Spitzenverschluss für eine gute Passform
-- Obermaterial aus Wildleder
 - PUMA Nr. 1 Logo auf der Zunge
 - Aktualisiertes Eyestay-Design
+- Obermaterial aus Wildleder
 - Durchgenähter und gepolsterter Kragen
 
 [🛒 Hier!!]({{< param buyurl >}})

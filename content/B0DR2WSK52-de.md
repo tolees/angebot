@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Laufsohle: 100% vulkanisiertes Gummi
 - Obbermaterial: 100% Rindsleder
+- Laufsohle: 100% vulkanisiertes Gummi
 - Farbe: Dunkelbraun
 - Futter: 63% Schweinsleder - 37% Stoff (100% recyceltes Polyester)
 

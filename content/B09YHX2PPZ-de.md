@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Qualität/Haltbarkeit
-- Marke: Elizabeth Arden
 - Herkunftsland: ES
+- Marke: Elizabeth Arden
+- Qualität/Haltbarkeit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09YHX2PPZ{{</world>}}

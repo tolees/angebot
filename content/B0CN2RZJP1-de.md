@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Starker Halt
 - 0
 - Dimensions: 7,5 x 7,5 x 4 cm
-- Starker Halt
-- Design auf Produkt kann variieren, aber Produkt bleibt gleich
 - Matt-Effekt
+- Design auf Produkt kann variieren, aber Produkt bleibt gleich
 - Die folgenden Informationen gelten für jede Einheit pro Packung
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hohe Bildqualität durch hochauflösendes F2.0-Objektiv, 12 MP Hochgeschwindigkeits-CMOS-Bildsensor, TruePic VIII-Bildprozessor, RAW, 4K-Video, Unterwasser- und Makro-Aufnahmemodi
 - Feldsensor-System: GPS, Manometer, Temperatursensor, Kompass, Bildfreigabe und Tracking über WLAN OI.Share
-- Neue Funktionen im Vergleich zur Olympus TG-6: Intervallaufnahmen, Zeitraffer-Videos, vertikales Video, drahtlose Bluetooth-Steuerung der optional erhältlichen Fernbedienung RM-WR1, Baumodus, USB-Buchse Typ C, verbesserter Griff
-- Nützliche Kamerafunktionen: Wasserdicht bis zu 15 m, bruchsicher bis zu 100 kg, temperaturbeständig bis zu -10 °C, stoßfest bis zu 2,1 m und staubdichtes Gehäuse, Anti-Beschlag-Technologie
 - Lieferumfang: TG-7 Kamera, wiederaufladbarer Li-92B Akku, Handschlaufe, USB-C-Kabel zum Aufladen des Akkus in der Kamera
+- Nützliche Kamerafunktionen: Wasserdicht bis zu 15 m, bruchsicher bis zu 100 kg, temperaturbeständig bis zu -10 °C, stoßfest bis zu 2,1 m und staubdichtes Gehäuse, Anti-Beschlag-Technologie
+- Hohe Bildqualität durch hochauflösendes F2.0-Objektiv, 12 MP Hochgeschwindigkeits-CMOS-Bildsensor, TruePic VIII-Bildprozessor, RAW, 4K-Video, Unterwasser- und Makro-Aufnahmemodi
+- Neue Funktionen im Vergleich zur Olympus TG-6: Intervallaufnahmen, Zeitraffer-Videos, vertikales Video, drahtlose Bluetooth-Steuerung der optional erhältlichen Fernbedienung RM-WR1, Baumodus, USB-Buchse Typ C, verbesserter Griff
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CGLZZ9GC{{</world>}}

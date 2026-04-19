@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PROBIERE UNSEREN SIGNATURE SERVE: Hendrick’s Spritz – eine harmonische Komposition aus spritzigem Hendrick’s Gin, Apfelsaft, Schaumwein und Olivenlake, garniert mit unseren typischen Gurkenscheiben, einer Olive und einer Zitronenzeste. Das Ergebnis: ein äußerst erfrischender Genuss
-- HANDGEFERTIGT IN SCHOTTLAND: Destilliert in unserem Gin Palace in Girvan, unter der Leitung der Master Distillerin Ms. Lesley Gracie, wird Hendrick’s in kleinen Chargen hergestellt. Dabei werden Destillate aus zwei unterschiedlichen, antiken Brennblasen vereint – der Bennett Still von 1860 und der Carter-Head Still von 1948 – und ergeben einen göttlich milden und zugleich einzigartig charaktervollen Gin
-- KEIN ANDERER GIN SCHMECKT WIE HENDRICK’S, WEIL KEIN ANDERER GIN SO HERGESTELLT WIRD: Destilliert in unserem Gin Palace erfordert Hendrick’s einen absurd ineffizienten Prozess mit zwei vollkommen unterschiedlichen Brennblasen – doch das Ergebnis ist ein höchst ungewöhnlicher und ungewöhnlich wunderbarer Gin
-- AUSSERGEWÖHNLICH MIT GURKE & ROSE INFUSIONIERT: Hergestellt aus elf Botanicals ist Hendrick’s Gin ein kurios milder, wunderbar anderer Gin
 - GIN & TONIC ODER VIELE ANDERE HERRLICHE COCKTAILS: Hendrick’s schmeckt am besten mit Tonic Water und exakt drei Gurkenscheiben – eine schlichte Kombination, die wir liebevoll den Hendricks & Tonic nennen. Sollte dich die Neugierde packen (und wir hoffen, das tut sie), besuche unsere Website für weitere Cocktail‑Inspirationen
+- AUSSERGEWÖHNLICH MIT GURKE & ROSE INFUSIONIERT: Hergestellt aus elf Botanicals ist Hendrick’s Gin ein kurios milder, wunderbar anderer Gin
+- PROBIERE UNSEREN SIGNATURE SERVE: Hendrick’s Spritz – eine harmonische Komposition aus spritzigem Hendrick’s Gin, Apfelsaft, Schaumwein und Olivenlake, garniert mit unseren typischen Gurkenscheiben, einer Olive und einer Zitronenzeste. Das Ergebnis: ein äußerst erfrischender Genuss
+- KEIN ANDERER GIN SCHMECKT WIE HENDRICK’S, WEIL KEIN ANDERER GIN SO HERGESTELLT WIRD: Destilliert in unserem Gin Palace erfordert Hendrick’s einen absurd ineffizienten Prozess mit zwei vollkommen unterschiedlichen Brennblasen – doch das Ergebnis ist ein höchst ungewöhnlicher und ungewöhnlich wunderbarer Gin
+- HANDGEFERTIGT IN SCHOTTLAND: Destilliert in unserem Gin Palace in Girvan, unter der Leitung der Master Distillerin Ms. Lesley Gracie, wird Hendrick’s in kleinen Chargen hergestellt. Dabei werden Destillate aus zwei unterschiedlichen, antiken Brennblasen vereint – der Bennett Still von 1860 und der Carter-Head Still von 1948 – und ergeben einen göttlich milden und zugleich einzigartig charaktervollen Gin
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B004LLZP3Q{{</world>}}

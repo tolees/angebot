@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 81% Baumwolle, 17% Polyamid, 2% Elastische Faser
 - 10 Paar hochwertige Comfort Business Baumwollsocken für Damen & Herren Socken,Gekämmte Baumwolle
+- 81% Baumwolle, 17% Polyamid, 2% Elastische Faser
 - Extra weicher Komfortbund,Kein Einschneiden,Ohne Gummidruck
 - Anti Transpiration，Idealer Feuchtigkeitstransport，Klimaregulierend
 

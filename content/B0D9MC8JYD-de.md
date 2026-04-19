@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ÜBERNIMM DIE KONTROLLE - Die Easy-Shift[+]-Tastenduplikatortechnologie erweitert die 7 Tasten von Kone II und das neigbare 4D-Scroll-Rad auf 23 anpassbare Funktionen
-- OPTISCHER OWL-EYE-SENSOR - Erlebe eine flüssige, präzise Abtastung mit dem verbesserten optischen Owl-Eye-Sensor mit bis zu 26K DPI und 650 IPS (16,5 m/s) Abtastungsgeschwindigkeit. Spezielle DPI-Tasten ermöglichen schnelle DPI-Anpassungen ohne Software
 - TITAN OPTISCHE SCHALTER - TITAN Optische Schalter bieten ein taktiles Gefühl mit einer unglaublichen Geschwindigkeit und Haltbarkeit mit einem Lebenszyklus von 100 Millionen Klicks, während ein Vorspannsystem die Zuverlässigkeit und Reaktionszeit für die genauesten Klicks verbessert
-- 4D-SCROLL-RAD - Aktiviere den taktilen Bildlauf für verbesserte Präzision, klicke auf das Scroll-Rad und neige es nach links und rechts, um auf zwei vollständig anpassbare Bedienelemente zuzugreifen
+- OPTISCHER OWL-EYE-SENSOR - Erlebe eine flüssige, präzise Abtastung mit dem verbesserten optischen Owl-Eye-Sensor mit bis zu 26K DPI und 650 IPS (16,5 m/s) Abtastungsgeschwindigkeit. Spezielle DPI-Tasten ermöglichen schnelle DPI-Anpassungen ohne Software
+- ÜBERNIMM DIE KONTROLLE - Die Easy-Shift[+]-Tastenduplikatortechnologie erweitert die 7 Tasten von Kone II und das neigbare 4D-Scroll-Rad auf 23 anpassbare Funktionen
 - ERGONOMISCH GEFORMT - Mehr als ein Jahrzehnt Erfahrung in der ergonomischen Entwicklung, um perfekt für mittlere und größere Hände geeignet zu sein, unabhängig von der Griffart – Kralle, Handteller oder Fingerspitze
+- 4D-SCROLL-RAD - Aktiviere den taktilen Bildlauf für verbesserte Präzision, klicke auf das Scroll-Rad und neige es nach links und rechts, um auf zwei vollständig anpassbare Bedienelemente zuzugreifen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D9MC8JYD{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichte, dünne TPU-Außensohle mit Stollen
 - GripControl-Beschichtung für die entscheidende Kontrolle über den Ball
+- Leichte, dünne TPU-Außensohle mit Stollen
 - Normale bis schmale Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

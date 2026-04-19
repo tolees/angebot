@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- S-Logo an der Seite
-- Leichte, flexible und stoßdämpfende Laufsohle
 - Gepolsterte, komfortable Memory Foam Innensohle
+- Leichte, flexible und stoßdämpfende Laufsohle
+- S-Logo an der Seite
 - Weiches Futter aus Stoff
 
 [🛒 Hier!!]({{< param buyurl >}})

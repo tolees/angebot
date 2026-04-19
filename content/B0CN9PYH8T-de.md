@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Pull-On
-- Baby-Mädchen Top
 - Top für Baby-Mädchen der dänischen Marke NAME IT
+- Baby-Mädchen Top
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CN9PYH8T{{</world>}}

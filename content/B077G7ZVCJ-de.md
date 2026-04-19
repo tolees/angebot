@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hitze: Setzen Sie Crocs-Schuhe nicht über einen längeren Zeitraum extremer Hitze oder intensivem Sonnenlicht aus, da die einzigartige Beschaffenheit des Crocs PCCR-Materials bedeutet, dass hohe Temperaturen dazu führen können, dass sie sich verziehen
 - Leichtgewicht: Diese Crocs für Männer und Frauen sind unglaublich leicht, wasserfreundlich und schwebend. Der Croslite-Schaum bietet den legendären Crocs-Komfort, der sich perfekt zum Entspannen zu Hause oder für einen Stadtbummel eignet
+- Hitze: Setzen Sie Crocs-Schuhe nicht über einen längeren Zeitraum extremer Hitze oder intensivem Sonnenlicht aus, da die einzigartige Beschaffenheit des Crocs PCCR-Materials bedeutet, dass hohe Temperaturen dazu führen können, dass sie sich verziehen
 - Ausgefallene Clogs: Setzen Sie persönliche Akzente mit unserem Jibbitz-Schuhschmuck, der in die Lüftungslöcher gesteckt wird
 - Welche Größe sollte ich kaufen? Crocs sind nur in ganzen Größen erhältlich. Wenn Sie normalerweise eine halbe Größe tragen, empfehlen wir Ihnen, eine Größe größer zu bestellen
 - Größe: Crocs verwenden US-Größen auf der Sohle, mit einer Einheitsumrechnung für UK-Größen und zwei Größen für DE und andere EU-Märkte (siehe Größentabelle unten) (z.B., UK Herren 5/EU 38-39 Herren)

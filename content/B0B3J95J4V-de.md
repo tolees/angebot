@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Lithium-Ionen-Akku für bis zu 3 Wochen Rasur (50 Minuten), 5 Minuten Schnellladung für eine komplette Rasur
 - Mit 5 Jahren Garantie (es gelten die AGB auf der Braun Website)
 - 100% wasserdichter elektrischer Rasierer für Nass- und Trockenanwendung. Enthält Barttrimmer-Aufsatz für Bärte von 0,5 mm bis 7 mm
 - Gründliche Rasur ganz einfach gemacht: Die 3 flexiblen Klingen dieses Elektrorasierers passen sich problemlos Ihren Gesichtskonturen an
 - EasyClean-System: Ermöglicht eine schnelle und einfache Reinigung, ohne den Scherkopf abzunehmen
 - Auch bei dichten Bärten effektiv: Die AutoSense-Technologie erkennt die Bartdichte, passt die Leistung entsprechend an und erfasst und schneidet so mehr Haare bei jeder Rasur
-- Lithium-Ionen-Akku für bis zu 3 Wochen Rasur (50 Minuten), 5 Minuten Schnellladung für eine komplette Rasur
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B3J95J4V{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MZB0FM7EU
 - Marke: XIAOMI
+- MZB0FM7EU
 - Hochwertige Produkte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

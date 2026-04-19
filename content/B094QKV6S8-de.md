@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DER EINE FÜR ALLES: Ankers weltberühmte Ladetechnologie garantiert blitzschnelle Ladungen für so gut wie jedes Gerät - ob Smartphones, Tablets oder Notebooks. Und das in einem winzigen, federleichten USB-C Ladegerät.
-- POWERED BY GaN II TECHNOLOGIE: Mit einer 20%-igen Verbesserung der Betriebsfrequenz, einem innovativen minimalistischen Design und einer verbesserten Leiterstruktur ermöglicht die GaN II-Technologie ein neues, winziges, kompaktes Ladegerät, ohne auch nur ein Element an Leistung zu verlieren.
-- WAS DU BEKOMMST: Ein Anker Nano II 65W Ladegerät, eine Bedienungsanleitung. (Ladekabel nicht im Lieferumfang enthalten.)
-- HIGH-SPEED LADELEISTUNG: Lade ein 2020 MacBook Air in unter 2 Stunden, ein MacBook Pro 13ʺ mit Höchstgeschwindigkeit, ein iPhone 15 mit dreifacher Geschwindigkeit sowie die neuesten Samsung Geräte mit Samsung Super Fast Charging Ladeoption.
 - KOMPAKTES DESIGN: Das ultimative Design von Anker: Fantastische Effizienz bei weniger Wärmeerzeugung in einem federleichten, um 58% kleineren Format im Vergleich zu Standard-Ladegeräten.
+- HIGH-SPEED LADELEISTUNG: Lade ein 2020 MacBook Air in unter 2 Stunden, ein MacBook Pro 13ʺ mit Höchstgeschwindigkeit, ein iPhone 15 mit dreifacher Geschwindigkeit sowie die neuesten Samsung Geräte mit Samsung Super Fast Charging Ladeoption.
+- WAS DU BEKOMMST: Ein Anker Nano II 65W Ladegerät, eine Bedienungsanleitung. (Ladekabel nicht im Lieferumfang enthalten.)
+- POWERED BY GaN II TECHNOLOGIE: Mit einer 20%-igen Verbesserung der Betriebsfrequenz, einem innovativen minimalistischen Design und einer verbesserten Leiterstruktur ermöglicht die GaN II-Technologie ein neues, winziges, kompaktes Ladegerät, ohne auch nur ein Element an Leistung zu verlieren.
+- DER EINE FÜR ALLES: Ankers weltberühmte Ladetechnologie garantiert blitzschnelle Ladungen für so gut wie jedes Gerät - ob Smartphones, Tablets oder Notebooks. Und das in einem winzigen, federleichten USB-C Ladegerät.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B094QKV6S8{{</world>}}

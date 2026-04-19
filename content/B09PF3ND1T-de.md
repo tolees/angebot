@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FEINE RILLENSTRUKTUR: Die spannende Oberfläche macht die Hängeampel BOLA zu einem Hingucker auf Augenhöhe. Dank umlaufendem Wasserspeicher einfach zu gießen!
 - ALL-IN-ONE: 1x Pflanzgefäß BOLA, inkl. Bewässerungssystem, Pflanzsubstrat LECHUZA-PON LECHUZA-PON zur Komplettbepflanzung und herausnehmbarem Pflanzeinsatz mit Wasserstandsanzeiger. Rostfreie Edelstahl-Aufhängung inklusive. Material: Kunststoff Maße: 32x32x25 cm Pflanzvolumen: 3,1l Wasserspeicher: 2l
+- MIT BEWÄSSERUNGSSYSTEM: Das im Pflanzgefäß integrierte Original LECHUZA-Bewässerungssystem versorgt Pflanzen zuverlässig mit der richtigen Menge an Wasser. Mit praktischem Wasserstandsanzeiger für die volle Gießkontrolle.
 - FÜR INNEN GEEIGNET: Die hochwertige Oberflächen und runde Forme mit Rillenstruktur fügt sich stilsicher in jeden Wohnstil ein. Ideal für alle Zimmerpflanzen.
 - MADE IN GERMANY: Hochwertiger Kunststoff, zu 100% recycelbar, langlebig und bruchsicher.
-- MIT BEWÄSSERUNGSSYSTEM: Das im Pflanzgefäß integrierte Original LECHUZA-Bewässerungssystem versorgt Pflanzen zuverlässig mit der richtigen Menge an Wasser. Mit praktischem Wasserstandsanzeiger für die volle Gießkontrolle.
+- FEINE RILLENSTRUKTUR: Die spannende Oberfläche macht die Hängeampel BOLA zu einem Hingucker auf Augenhöhe. Dank umlaufendem Wasserspeicher einfach zu gießen!
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09PF3ND1T{{</world>}}

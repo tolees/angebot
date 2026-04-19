@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lenovo Tab P11 Pro G2 TB-132FU WiFi ZAB50043SE 8/256GB, Android, grau
-- Nähere Informationen folgen in kürze.
 - Nähere Informationen folgen in kürze.
 - Material: Acryl
+- Nähere Informationen folgen in kürze.
+- Lenovo Tab P11 Pro G2 TB-132FU WiFi ZAB50043SE 8/256GB, Android, grau
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DJH1DPCC{{</world>}}

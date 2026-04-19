@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schwarzes Zifferblatt
-- Multifunktions-Quarz-Uhrwerk
 - Gehäusedicke 12,5 mm / Durchmesser des Gehäuses: 46 mm
 - Wasserabweisend bis 5 bar Sie kann beim Duschen oder Schwimmen getragen werden, jedoch nicht beim Tauchen.
+- Multifunktions-Quarz-Uhrwerk
+- Schwarzes Zifferblatt
 - Schwarzes Lederarmband
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

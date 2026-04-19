@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Die große Kapuze mit Kordelzug kann lose getragen oder festgezogen werden, um Schutz gegen die Kälte zu bieten
+- Ein durchgehendes Reißverschluss-Design ermöglicht es Ihnen, Wärme abzugeben, wenn Ihr Training aufheizt
 - Bequem mit weichem Fleece bezogen
 - Kapuze mit Kordelzug zum Anpassen der Abdeckung
-- Ein durchgehendes Reißverschluss-Design ermöglicht es Ihnen, Wärme abzugeben, wenn Ihr Training aufheizt
-- Die große Kapuze mit Kordelzug kann lose getragen oder festgezogen werden, um Schutz gegen die Kälte zu bieten
 - Seitentaschen
 
 [🛒 Hier!!]({{< param buyurl >}})

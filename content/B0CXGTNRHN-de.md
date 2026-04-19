@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Obermaterial aus Leder
 - Normale Passform
 - Schnürverschluss
-- Obermaterial aus Leder
 - Textilfutter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

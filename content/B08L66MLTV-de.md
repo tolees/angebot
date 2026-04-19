@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - INNOVATIV: Das Aeroflex 3D-System unseres Outdoor-Backpacks sorgt für durchgehende Belüftung des Rückens. Dank umlaufender Federdrahtrahmen hat der Wander-Rucksack eine hohe Packstabilität
-- KLIMANEUTRAL: Klimafreundlich und ressourcenschonend hergestellt. Das Hauptmaterial des Rucksacks besteht aus recycelten PET-Flaschen. Der Rucksack ist dank EcoFinish PFC-frei & wasserabweisend
 - EINSATZBEREICH: Der sportliche Wanderrucksack eignet sich für Kletter- oder Wandertouren, Radfahren oder im Alltag. Der Hüftgurt kann nach Wunsch abgenommen & die Tragegurte verstellt werden
-- STAURAUM: Mit 30 Litern bietet der Rucksack viel Platz und kann durch einen Reißverschluss auf 34 Liter vergrößert werden. Regenhülle, Stockhalterung, Vorrichtung für Trinksystem
 - KOMFORT: Der VAUDE Rucksack bietet dank ErgoShape-Schultergurte, verstellbarer Rückenlänge & gepolsterter Hüftflügel ein angenehmes Tragegefühl. Tagesrucksack mit ausgeglichener Gewichtsverteilung
+- STAURAUM: Mit 30 Litern bietet der Rucksack viel Platz und kann durch einen Reißverschluss auf 34 Liter vergrößert werden. Regenhülle, Stockhalterung, Vorrichtung für Trinksystem
+- KLIMANEUTRAL: Klimafreundlich und ressourcenschonend hergestellt. Das Hauptmaterial des Rucksacks besteht aus recycelten PET-Flaschen. Der Rucksack ist dank EcoFinish PFC-frei & wasserabweisend
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08L66MLTV{{</world>}}

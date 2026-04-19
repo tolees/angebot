@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 5 mm kariert mit Umrandung und Kopfzeile, 80 Blatt, 160 Seiten, 90 g/m², Premiumpapier, hochweiß, satiniert, tintenfest, Spiralbindung, 4-fach Lochung, Ausreißhilfe, Microperforation
-- Deckblattfarbe: anthrazit, veredelt mit metallischem Effekt
-- Format: A4
 - Protokoll-Lineatur
+- Format: A4
+- Deckblattfarbe: anthrazit, veredelt mit metallischem Effekt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01MTESNTY{{</world>}}

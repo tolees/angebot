@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- TEKKEN 8 setzt die tragische Saga der Mishima-Blutlinie und ihre weltbewegenden Kämpfe zwischen Vater und Sohn fort.
 - TEKKEN 8, der brandneue Teil der legendären TEKKEN-Reihe, bringt den Kampf in eine neue Generation!
 - Mit einer Vielzahl von Einzelspielerinhalten, wie dem brandneuen Arcade Quest-Modus und einem umfassenden Anpassungssystem für Charaktere und Avatare, bietet TEKKEN 8 das bisher aufregendste Erlebnis.
+- TEKKEN 8 setzt die tragische Saga der Mishima-Blutlinie und ihre weltbewegenden Kämpfe zwischen Vater und Sohn fort.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DSG3CVQ1{{</world>}}

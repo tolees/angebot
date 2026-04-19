@@ -28,16 +28,16 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Scannen bis zu 22,5 Seiten pro Minute (Einseitig)
 - Automatischer Vorlageneinzug für 50 Blatt (ADF) für einseitiges Scannen
-- Druckgeschwindigkeit von bis zu 32 Seiten pro Minute
-- 2-zeiliges LC-Display
-- Inklusive Toner mit einer Reichweite von 1.200 Seiten
-- Papierkassette für 250 Blatt
-- Toner erhältlich mit bis zu 3.000 Seiten
-- LAN, WLAN 5GHz und USB 2.0 Hi-Speed
 - Beidseitiger Druck, bis zu 16 Seiten pro Minute
+- LAN, WLAN 5GHz und USB 2.0 Hi-Speed
+- Scannen bis zu 22,5 Seiten pro Minute (Einseitig)
+- Papierkassette für 250 Blatt
+- Inklusive Toner mit einer Reichweite von 1.200 Seiten
+- Druckgeschwindigkeit von bis zu 32 Seiten pro Minute
+- Toner erhältlich mit bis zu 3.000 Seiten
 - 128 MB Speicher
+- 2-zeiliges LC-Display
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CJRSY15B{{</world>}}

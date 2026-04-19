@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gummi-Cupsohle
+- Zehenkappe aus Wildleder
 - Textilfutter
 - Obermaterial aus Leder
 - Elastische Schnürsenkel; Klettverschlussriemen oben
-- Zehenkappe aus Wildleder
-- Textilfutter
 - Reguläre Passform
+- Gummi-Cupsohle
+- Textilfutter
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CKXVQ93C{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Schaft und Zunge gepolstert
 - TPU-Fersenclip
+- Perforierte Zehenkappe
 - Logo an Ferse und Markenfenster
 - Logo-Print an der Zunge
-- Schaft und Zunge gepolstert
-- Perforierte Zehenkappe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B1N2XN42{{</world>}}

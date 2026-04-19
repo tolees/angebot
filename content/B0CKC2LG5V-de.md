@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EINE KONSTELLATION MIT SAMMELFIGUREN: Es gibt noch mehr Star Wars Action-Figuren aus der Black Series, um eine Galaxis im eigenen Regal zu erschaffen! (Jeweils separat erhältlich. Je nach Verfügbarkeit.)
-- STAR WARS: EINE NEUE HOFFNUNG: Diese Action-Figur ist durch Star Wars: Eine neue Hoffnung inspiriert und perfekt als Geschenk für Sammler und Fans ab 4 Jahren geeignet
-- ZUM CHARAKTER PASSENDES ACCESSOIRE: Diese Figur kommt mit einem Lichtschwert als Accessoire
 - FENSTERSCHACHTEL-VERPACKUNG: Die Fensterschachtel mit elegantem Charakterdesign ist perfekt, um Star Wars Fandom zu präsentieren
 - PREMIUM-DESIGN UND BEWEGLICHKEIT: Star Wars Fans und Sammler können diese Action-Figur in einer Skala von 15 cm mit Premium-Dekor und Design zum Film in ihrer eigenen Sammlung präsentieren. Sie verfügt über mehrere Bewegungspunkte
+- EINE KONSTELLATION MIT SAMMELFIGUREN: Es gibt noch mehr Star Wars Action-Figuren aus der Black Series, um eine Galaxis im eigenen Regal zu erschaffen! (Jeweils separat erhältlich. Je nach Verfügbarkeit.)
+- ZUM CHARAKTER PASSENDES ACCESSOIRE: Diese Figur kommt mit einem Lichtschwert als Accessoire
+- STAR WARS: EINE NEUE HOFFNUNG: Diese Action-Figur ist durch Star Wars: Eine neue Hoffnung inspiriert und perfekt als Geschenk für Sammler und Fans ab 4 Jahren geeignet
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CKC2LG5V{{</world>}}

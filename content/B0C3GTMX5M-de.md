@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【20.000mAh Riesenkapazität】Laden Sie Ihr MacBook Air M2 15″ bis zu 1,1 Mal, Galaxy S23 Ultra 3 Mal oder iPhone 15 Pro 4,5 Mal voll – ideal für Langstreckenflüge und mehrtägige Trips.
 - 【Smart Display & Flugzeugtauglich】Echtzeit-Akkuanzeige via LED-Display, volles Schutzsystem und flugzeugkonformes Design – sorgenfreies Reisen weltweit.
 - 【3 Anschlüsse, 3-fach Effizienz】Gleichzeitiges Laden von drei Geräten möglich (100W USB-C + 30W USB-C + 22,5W USB-A) – spart Zeit und reduziert Reisegepäck.
-- 【Universell kompatibel】Unterstützt PD 3.0, PPS und mehr – Kompatibel mit MacBook Pro/Air, iPhone 17/Air/17 Pro Max/16/15, Galaxy S25 Ultra, Dell und mehr.
 - 【100W Blitzladung für Laptop】Mit Power Delivery 3.0 lädt der USB-C1-Anschluss Ihren MacBook Pro 16″ in nur 40 Minuten bis zu 50% – perfekt für schnelle Energie unterwegs.
+- 【Universell kompatibel】Unterstützt PD 3.0, PPS und mehr – Kompatibel mit MacBook Pro/Air, iPhone 17/Air/17 Pro Max/16/15, Galaxy S25 Ultra, Dell und mehr.
+- 【20.000mAh Riesenkapazität】Laden Sie Ihr MacBook Air M2 15″ bis zu 1,1 Mal, Galaxy S23 Ultra 3 Mal oder iPhone 15 Pro 4,5 Mal voll – ideal für Langstreckenflüge und mehrtägige Trips.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C3GTMX5M{{</world>}}

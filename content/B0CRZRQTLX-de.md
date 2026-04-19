@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Stehkragen
+- Paspeltaschen an der Taille
 - Reißverschluss
 - G-Star RAW Stickerei auf der Brust
 - Rippdesign an Bündchen und Saum
-- Paspeltaschen an der Taille
-- Stehkragen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CRZRQTLX{{</world>}}

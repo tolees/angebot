@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Das QNAP Switch System (QSS) ist einfach zu bedienen und bietet ein Übersichts-Dashboard, eine Port-Verwaltung und einen Einstellungsleitfaden, wodurch die zentrale Netzwerkverwaltung intuitiv wird.
-- Beinhaltet zwei 10GbE SFP+/ RJ45 Combo-Ports. Kompatibel mit 10GbE- und NBASE-T-Technologien zur Unterstützung von fünf Geschwindigkeiten (10G / 5G / 2,5G / 1G / 100M) unter Verwendung vorhandener Kabel.
-- Einer der wenigen web-verwalteten Switches, der das Rapid Spanning Tree Protocol (RSTP) unterstützt. Einfache und effiziente Bereitstellung von kleinen/mittleren Netzwerken, die Erweiterung, Redundanz und Loop Prevention unterstützen.
 - Der QSW-M1208-8C entspricht IEEE 802.3az Energy Efficient Ethernet und IEEE802.3x Flow Control im Vollduplex-Modus und vermeidet Paketverluste durch unvergleichliche Bandbreite und reduziert den Stromverbrauch bei langsamen und inaktiven Verbindungen.
+- Einer der wenigen web-verwalteten Switches, der das Rapid Spanning Tree Protocol (RSTP) unterstützt. Einfache und effiziente Bereitstellung von kleinen/mittleren Netzwerken, die Erweiterung, Redundanz und Loop Prevention unterstützen.
+- Beinhaltet zwei 10GbE SFP+/ RJ45 Combo-Ports. Kompatibel mit 10GbE- und NBASE-T-Technologien zur Unterstützung von fünf Geschwindigkeiten (10G / 5G / 2,5G / 1G / 100M) unter Verwendung vorhandener Kabel.
 - Bietet Layer-2-Verwaltungsfunktionen (wie LACP, VLAN, ACL und LLDP) für IT-Mitarbeiter zur effizienten Kontrolle der Netzwerkbandbreite und zur Verbesserung der Sicherheit.
 
 [🛒 Hier!!]({{< param buyurl >}})

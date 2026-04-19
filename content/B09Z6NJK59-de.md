@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Elastischer und pflegeleichter Materialmix
 - 3/4-Ärmel mit Aufschlagriegel
 - Regular Fit
+- Elastischer und pflegeleichter Materialmix
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09Z6NJK59{{</world>}}

@@ -29,12 +29,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Entworfen für Beton-, Ziegel- und Holzbolzenwände (Einzelbolzen).
-- Komfortable Sicht mit Neigungsbereich von +10 ° bis -5 °.
-- Geeignet für Fernseher mit bis zu 36,3 kg und Bildschirmgröße von 66 cm bis 140 cm (26 bis 55 Zoll).
 - Entwickelt für VESA-Größen von 100 x 100 mm bis 400 x 400 mm.
-- Montagematerial, Wasserwaage, Montageschablone und Bedienungsanleitung (eventuell nicht in deutscher Sprache) im Lieferumfang enthalten.
 - Wichtig: Sieh dir das Video an und erfahre mehr über die unten aufgeführten Details zu „Entworfen für ...“!
+- Geeignet für Fernseher mit bis zu 36,3 kg und Bildschirmgröße von 66 cm bis 140 cm (26 bis 55 Zoll).
+- Komfortable Sicht mit Neigungsbereich von +10 ° bis -5 °.
 - Gelenkbereich von 6,6 cm bis 41,4 cm; 180 Grad drehbar.
+- Montagematerial, Wasserwaage, Montageschablone und Bedienungsanleitung (eventuell nicht in deutscher Sprache) im Lieferumfang enthalten.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01KBEOL5E{{</world>}}

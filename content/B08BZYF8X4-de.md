@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anwendung Sanftes Auftragen und Verteilen auf dem zuvor gereinigten Gesicht, optimale Ergebnisse durch Einwirkzeit über Nacht.
 - Zertifizierte Gesichtspflege für empfindliche Haut mit veganer Formel und Bio-Hanfsamenöl, Naturkosmetik und Bio-Kosmetik.
 - Beruhigendes und pflegendes Bio-Hanf-Regenerations-Nachtöl gegen gestresste und geschädigte Haut mit Vitamin E.
+- Anwendung Sanftes Auftragen und Verteilen auf dem zuvor gereinigten Gesicht, optimale Ergebnisse durch Einwirkzeit über Nacht.
 - Ergebnis: Für einen strahlenden und gesunden Teint über Nacht, der den ganzen Tag aufpolstert und mit Feuchtigkeit versorgt.
 - Lieferumfang Garnier Bio Hanf Recovery Regeneration Nachtöl für gestresste und geschädigte Haut, 30 ml.
 

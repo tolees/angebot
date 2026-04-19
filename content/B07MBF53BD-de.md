@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SO SCHMECKT JEDER KILOMETER SEIT 1996 für viele Profi -Athleten aus den Sportarten Laufen, Radfahren und Triathlon , die mit unserem veganen Power Gel an den Start gehen
-- GIBT VOLLE POWER mit der Kohlenhydratmischung, die ein 2:1 Verhältnis aus Glukose- und Fruktose-Quellen enthält und so optimal Energie bei hoher Belastung liefert
 - MIT SICHERHEIT GENIESSEN ist unser Versprechen, denn alle unsere Produkte stehen auf der Kölner Liste, sind also auf verbotene Substanzen getestet
 - VOLLE ENERGIE steckt bei uns in jedem Paket dank einem Lieferumfang von 24 Beutel pro Box
 - WIR EMPFEHLEN im Rahmen einer gesunden Ernährung nach Bedarf 1-2 Energie Gel(e) in regelmäßigen Abständen während des Sports mit Wasser zu genießen
+- SO SCHMECKT JEDER KILOMETER SEIT 1996 für viele Profi -Athleten aus den Sportarten Laufen, Radfahren und Triathlon , die mit unserem veganen Power Gel an den Start gehen
+- GIBT VOLLE POWER mit der Kohlenhydratmischung, die ein 2:1 Verhältnis aus Glukose- und Fruktose-Quellen enthält und so optimal Energie bei hoher Belastung liefert
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07MBF53BD{{</world>}}

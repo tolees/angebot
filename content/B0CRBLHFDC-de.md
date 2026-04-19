@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obbermaterial: 85 % Kuhleder 15 % Stoff (84% recyceltes Polyester - 16% Latex)
-- Farbe: Dunkelgrau
-- Futter: 87 % Schweinsleder 10 % Stoff (84% recyceltes Polyester - 16% Latex) 3 % Schweinsleder
 - Better Leather,Better Outsoles
+- Obbermaterial: 85 % Kuhleder 15 % Stoff (84% recyceltes Polyester - 16% Latex)
+- Futter: 87 % Schweinsleder 10 % Stoff (84% recyceltes Polyester - 16% Latex) 3 % Schweinsleder
+- Farbe: Dunkelgrau
 - Laufsohle: 80 % vulkanisiertes Gummi - 20 % recyceltes Gummi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

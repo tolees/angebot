@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- *Ein neues Themenpaket für die Familien-Edition!
 - *Nur spielbar mit der Smartbox aus den Originalspielen!
 - *100 Karten mit 200 neuen Fragen und 2000 neuen Antworten
+- *Ein neues Themenpaket für die Familien-Edition!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CCQFHZND{{</world>}}

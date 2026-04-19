@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Wildleder
-- Gepolsterter Kragen
 - Puma Cat Logo an der Ferse
+- Obermaterial aus Wildleder
 - Mid-Boot-Konstruktion
+- Gepolsterter Kragen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BLCQ3MY3{{</world>}}

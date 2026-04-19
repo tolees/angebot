@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- NOCH MEHR NINJA-ABENTEUER: Schau dir noch weitere separat erhältliche LEGO NINJAGO Bauspielzeuge für Kinder mit detailreichen Drachen, Tempeln und Fahrzeugen an
-- MODELLBAU MIT BEWEGLICHEM MECH: Der LEGO Action-Mech hat ein Cockpit für Cole, bewegliche Gliedmaßen und einen Rucksack, in dem sich Ausrüstung für spannende Rollenspiele verstauen lässt
-- GESCHENK FÜR FANTASY-FANS: Dieses LEGO Set ist ein beliebtes Geschenk für Jungen und Mädchen und bereitet Kindern vor allem durch die vielen Details eine große Freude
-- DIY SET MIT AUSSTATTUNG: Mit Schwert, Stab und Blaster samt Pfeilen ist der Mech bestens ausgerüstet, und die Ausrüstung lässt sich sogar mit anderen LEGO Sets wie dem Ninja-Drachen Riyu kombinieren
-- SPIELZEUG FÜR ABENTEUERLUSTIGE KINDER: Mit dem LEGO NINJAGO Set Coles Action-Mech und Drachen-Zane (71854) bauen Kinder ab 7 Jahren ein Modell und erleben epische Szenen aus NINJAGO Aufstieg der Drachen
-- KINDERSPIELZEUG MIT FIGUREN: Das Set enthält drei Minifiguren - Cole mit Hammer, Zane in Drachen-Form mit Schwert und ein Säuremonster mit Stab - für fesselnde Duelle zwischen Gut und Böse
 - LEGO NINJAGO SPIELSETS: Dieses breite Spektrum an Kinderspielzeug lässt Ninja-Fans in eine Fantasy-Welt eintauchen, in der sie besonders fantasievoll mit ihren Ninja Helden spielen können
+- SPIELZEUG FÜR ABENTEUERLUSTIGE KINDER: Mit dem LEGO NINJAGO Set Coles Action-Mech und Drachen-Zane (71854) bauen Kinder ab 7 Jahren ein Modell und erleben epische Szenen aus NINJAGO Aufstieg der Drachen
+- GESCHENK FÜR FANTASY-FANS: Dieses LEGO Set ist ein beliebtes Geschenk für Jungen und Mädchen und bereitet Kindern vor allem durch die vielen Details eine große Freude
+- NOCH MEHR NINJA-ABENTEUER: Schau dir noch weitere separat erhältliche LEGO NINJAGO Bauspielzeuge für Kinder mit detailreichen Drachen, Tempeln und Fahrzeugen an
+- KINDERSPIELZEUG MIT FIGUREN: Das Set enthält drei Minifiguren - Cole mit Hammer, Zane in Drachen-Form mit Schwert und ein Säuremonster mit Stab - für fesselnde Duelle zwischen Gut und Böse
+- MODELLBAU MIT BEWEGLICHEM MECH: Der LEGO Action-Mech hat ein Cockpit für Cole, bewegliche Gliedmaßen und einen Rucksack, in dem sich Ausrüstung für spannende Rollenspiele verstauen lässt
+- DIY SET MIT AUSSTATTUNG: Mit Schwert, Stab und Blaster samt Pfeilen ist der Mech bestens ausgerüstet, und die Ausrüstung lässt sich sogar mit anderen LEGO Sets wie dem Ninja-Drachen Riyu kombinieren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FPXG2DNH{{</world>}}

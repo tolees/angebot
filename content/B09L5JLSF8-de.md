@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Leder und recyceltem Material
 - Halbhoher Schaft
+- Obermaterial aus Leder und recyceltem Material
 - Perforiertes Schuhblatt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

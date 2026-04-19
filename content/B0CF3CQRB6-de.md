@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Ergonomische Bedienung: einfaches Öffnen des Deckels auf Knopfdruck.
 - Tassenanzeige: hilft dir, Energie und Zeit zu sparen, indem du nur die benötigte Menge kochst.
 - Leicht ablesbare Wasserstandsanzeige auf beiden Seiten: geeignet für Links- und Rechtshänder.
 - Kalkfilter: Der entnehmbare und leicht zu reinigende Filter verhindert Kalk im Getränk.
-- Ergonomische Bedienung: einfaches Öffnen des Deckels auf Knopfdruck.
 - 3-fach sicher: Abschaltautomatik, Trockengeh- und Überhitzungsschutz sowie Lift-Switch-off.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

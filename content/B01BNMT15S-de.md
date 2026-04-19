@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reinigungsschaum
-- Clinique
 - Hergestellt im Vereinigten Staaten
+- Clinique
+- Reinigungsschaum
 - Extra gentle - Cleansing foam
 
 [🛒 Hier!!]({{< param buyurl >}})

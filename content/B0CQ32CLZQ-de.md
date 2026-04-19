@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit einer Auflösung von 2712 × 1220 Pixeln und einer Bildwiederholrate von 120 Hz bietet das Display gestochen scharfe Bilder und flüssige Animationen. Es erreicht eine Spitzenhelligkeit von 1800 Nits und sorgt so für gute Sichtbarkeit auch bei direkter Sonneneinstrahlung.
-- Neben ultraschnellem 5G-Internet bietet das Smartphone auch NFC für kontaktloses Bezahlen, einen Fingerabdrucksensor unter dem Display und Stereolautsprecher für ein immersives Klangerlebnis.
-- Die beeindruckende 200-Megapixel-Kamera mit optischer Bildstabilisierung (OIS) ermöglicht extrem detaillierte Aufnahmen. Unterstützt wird sie von einer 8-MP-Ultraweitwinkel- und einer 2-MP-Makrokamera für vielseitige Fotografie.
 - Der große Akku sorgt für eine lange Laufzeit, während die 67-W-Schnellladefunktion das Smartphone in weniger als einer Stunde auflädt.
+- Neben ultraschnellem 5G-Internet bietet das Smartphone auch NFC für kontaktloses Bezahlen, einen Fingerabdrucksensor unter dem Display und Stereolautsprecher für ein immersives Klangerlebnis.
+- Mit einer Auflösung von 2712 × 1220 Pixeln und einer Bildwiederholrate von 120 Hz bietet das Display gestochen scharfe Bilder und flüssige Animationen. Es erreicht eine Spitzenhelligkeit von 1800 Nits und sorgt so für gute Sichtbarkeit auch bei direkter Sonneneinstrahlung.
+- Die beeindruckende 200-Megapixel-Kamera mit optischer Bildstabilisierung (OIS) ermöglicht extrem detaillierte Aufnahmen. Unterstützt wird sie von einer 8-MP-Ultraweitwinkel- und einer 2-MP-Makrokamera für vielseitige Fotografie.
 - Der moderne 4-nm-Chip von Qualcomm sorgt für eine solide Performance in Alltagssituationen und beim Gaming. Dank effizientem Energiemanagement bleibt der Akkuverbrauch dabei moderat.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1 x 65 W GaN Multiport-Ladegerät (1 x USB-A und 2 x USB-C) von Verbatim, inkl. EU- und UK-Adapter sowie Kurzanleitung, silbergrau
-- Praktischer Reiseadapter: Leichter als herkömmliche Ladegeräte und mit ausklappbaren US-Stiften sowie austauschbaren EU- und UK-Steckern ist der Verbatim GaN Multi-Charger der ideale Reisebegleiter
-- Charge fast, Charge smart: Mit 2 x 65 W Power Delivery sowie 1 x 30 W Quick Charge lädt der GaN Schnellladestecker Laptop, Tablet, Handy, Powerbank oder Spielekonsole schonend und in kürzester Zeit
-- Kompakt & sicher: Der USB Charger besteht aus hitzebeständigem Galliumnitrid, ist mit vier Schutzsystemen ausgestattet und sitzt aufgrund seiner kompakten Form sicher in der Steckdose
 - Allrounder: Kompatibel mit MacBook Pro 16"/M2 13"/13", HP Spectre, Huawei MateBook, NoteBook, iPad Pro/Air, Tab A8/S8, iPhone 14/14 Pro/14 Pro Max/13/13 Pro/13 Pro Max/12/12 Pro/12 Mini/11/SE 2022/2020, AirPods Pro, MagSafe und Galaxy S23 Ultra/S23+/S23/S22/ S21/S10/Note 10, Pixel 7 Pro/6/5/4 usw.
 - Innovatives Laden: Das Verbatim Ladegerät ist für das Laden von bis zu 3 USB-Geräten wie etwa Laptop und Smartphone mit nur einem Stecker geeignet – schneller, effizienter und sicherer dank GaN-Technologie
+- Praktischer Reiseadapter: Leichter als herkömmliche Ladegeräte und mit ausklappbaren US-Stiften sowie austauschbaren EU- und UK-Steckern ist der Verbatim GaN Multi-Charger der ideale Reisebegleiter
+- Charge fast, Charge smart: Mit 2 x 65 W Power Delivery sowie 1 x 30 W Quick Charge lädt der GaN Schnellladestecker Laptop, Tablet, Handy, Powerbank oder Spielekonsole schonend und in kürzester Zeit
+- Lieferumfang: 1 x 65 W GaN Multiport-Ladegerät (1 x USB-A und 2 x USB-C) von Verbatim, inkl. EU- und UK-Adapter sowie Kurzanleitung, silbergrau
+- Kompakt & sicher: Der USB Charger besteht aus hitzebeständigem Galliumnitrid, ist mit vier Schutzsystemen ausgestattet und sitzt aufgrund seiner kompakten Form sicher in der Steckdose
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CMJC74CL{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die klassische und zuverlässige Ladelösung für zuhause, im Büro oder als leichtes Zweitgerät im Gepäck, kompatibel mit allen Geräten, die per USB-A geladen werden
+- Dank des breiten Eingangsspannungsbereichs von 100-240 V kann der USB-Stecker international in verschiedenen Ländern verwendet werden
 - Die integrierte Schutzelektronik sichert deine angeschlossenen Geräte zuverlässig gegen Überstrom, Überladung sowie Überhitzung und sorgt für maximale Sicherheit
 - Mit 5 Watt Leistung ist das Ladegerät perfekt auf die Stromversorgung von kleineren Geräten wie Smartwatches, Bluetooth-Kopfhörern oder Fitness-Trackern zugeschnitten
 - Durch seine superkompakte und leichte Bauform passt dieses Netzteil in jede Hosentasche und ist der ideale, platzsparende Reisebegleiter für den weltweiten Einsatz
-- Dank des breiten Eingangsspannungsbereichs von 100-240 V kann der USB-Stecker international in verschiedenen Ländern verwendet werden
+- Die klassische und zuverlässige Ladelösung für zuhause, im Büro oder als leichtes Zweitgerät im Gepäck, kompatibel mit allen Geräten, die per USB-A geladen werden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07WP42N9R{{</world>}}

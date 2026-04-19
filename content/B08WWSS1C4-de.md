@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Griffige und flexible Sohle
 - Kuscheliges und sehr warmes Schurwoll-Futter
 - Extra weiche Decksohle
-- Griffige und flexible Sohle
 - Wasserabweisende und atmungsaktive RiekerTEX-Membran
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

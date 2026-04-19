@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hält kühl und bequem
 - Packungage die Größe: 9.9 L x 25.8 H x 9.9 W (cm)
+- Hält kühl und bequem
 - Bringt Ihnen einen zusätzlichen Komfort
 - Langlebig
 

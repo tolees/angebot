@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Produkttyp: ABIS_BOOK
-- Marke: Alpha Edition
 - 100-jähriger Kalender 2023 - Bildkalender 24x34 cm: Mit täglichen Wetterprognosen und Bauernregeln
+- Marke: Alpha Edition
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09PW6G8LG{{</world>}}

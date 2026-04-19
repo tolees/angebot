@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LG xboom Party-Bluetooth-Lautsprecher mit Karaoke- und DJ-Funktionen, Haltegriff, Beleuchtungsoptionen und austauschbarem Akku, zusammen entwickelt mit will.i.am
+- AI Sound mit AI Calibration für raumfüllenden, genregerechten Klang und AI Lighting-Funktion für stimmungsvolle Beleuchtung im Takt deiner Musik
 - Kompatibel zur LG App; Bluetooth 5.3, Aux in (3,5mm), USB (Playback), Mikrofon input (6,3mm), Gitarren input (6,3mm), Mikrofon Volume und Reverb
 - Signature Sound mit 2.1-Soundsystem mit einem 6,5-Zoll-Tieftöner, zwei 2,5-Zoll-Mitteltönern und 120W Musikleistung bei Netzbetrieb bzw. 60W bei Akkubetrieb
 - Unterstützt u. a. Multipoint, Wireless Party Link und Auracast – mit bis zu 12 Std. Akkulaufzeit und IPX4-zertifiziertem Spritzwasserschutz
-- AI Sound mit AI Calibration für raumfüllenden, genregerechten Klang und AI Lighting-Funktion für stimmungsvolle Beleuchtung im Takt deiner Musik
+- LG xboom Party-Bluetooth-Lautsprecher mit Karaoke- und DJ-Funktionen, Haltegriff, Beleuchtungsoptionen und austauschbarem Akku, zusammen entwickelt mit will.i.am
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0F1LTWQFZ{{</world>}}

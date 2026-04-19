@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit dem MagSafe Ladegerät ist kabelloses Laden ganz einfach. Die perfekt ausgerichteten Magnete docken an kompatiblen iPhone Modellen an.
-- Das Kabel ist in zwei Längen erhältlich: 1 Meter und 2 Meter. Die magnetische Ausrichtung funktioniert nur beim iPhone 12, iPhone 13, iPhone 14, iPhone 15, bei den iPhone 16 Modellen, den iPhone 17 Modellen und beim iPhone Air.
-- Das MagSafe Ladegerät ist zertifiziert zum Laden mit Qi2.2 und Qi. Du kannst damit also dein iPhone 8 oder neuer sowie AirPods Modelle mit kabellosem Ladecase kabellos laden.
 - Empfohlen: Für schnelleres kabelloses Laden mit bis zu 25 W ­− in etwa 30 Minuten bis zu 50 % für iPhone 17 Modelle − bei Verwendung des 30W USB‑C Power Adapters (separat erhältlich). Für schnelles kabelloses Laden mit bis zu 15 W für das iPhone 12 oder neuer mit MagSafe bei Verwendung des 20W USB‑C Power Adapters (separat erhältlich). Für kabelloses Laden mit bis zu 7,5 W für das iPhone 8 oder neuer mit Qi bei Verwendung des 20W USB‑C Power Adapters (separat erhältlich).
+- Das MagSafe Ladegerät ist zertifiziert zum Laden mit Qi2.2 und Qi. Du kannst damit also dein iPhone 8 oder neuer sowie AirPods Modelle mit kabellosem Ladecase kabellos laden.
+- Das Kabel ist in zwei Längen erhältlich: 1 Meter und 2 Meter. Die magnetische Ausrichtung funktioniert nur beim iPhone 12, iPhone 13, iPhone 14, iPhone 15, bei den iPhone 16 Modellen, den iPhone 17 Modellen und beim iPhone Air.
 - Das MagSafe Ladegerät ermöglicht schnelleres kabelloses Laden mit bis zu 25 W bei Verwendung eines 30W Power Adapters.
+- Mit dem MagSafe Ladegerät ist kabelloses Laden ganz einfach. Die perfekt ausgerichteten Magnete docken an kompatiblen iPhone Modellen an.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FQFZDCXT{{</world>}}

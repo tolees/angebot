@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Noch besser mit SwitchBot Hub - Mit SwitchBot Hub (unterstützt nur 2,4-GHz-Wi-Fi) können Sie Ihren SwitchBot von überall aus fernsteuern und die Sprachsteuerung aktivieren. Funktioniert gut mit Amazon Alexa, Google Assistant, Siri und IFTTT.
 - Unterstützt jetzt HomeKit über Matter: SwitchBot Fingerbots werden über Matter unterstützt, wenn Sie den SwitchBot Hub2 (2. Generation) verwenden, was wiederum dazu beiträgt, dass Ihr Gerät über HomeKit unterstützt wird. Fügen Sie jetzt SwitchBot Bot zu Apple Home hinzu für ein noch besseres Smart-Home-Erlebnis.
+- Universell - Funktioniert mit so gut wie allen Wippschaltern und Knöpfen von Geräten. Smarter Bluetooth-Tastendrücker für Ihr intelligentes Zuhause. Unterstützt Druckmodus/Schaltmodus/Benutzerdefinierter Modus. Mit dem beiliegenden Aufkleber hilft der Schaltmodus, Ihr Licht ein-/auszuschalten. （Wenn Sie die Wi-Fi-Fernbedienungsfunktion nutzen möchten, müssen Sie die SwitchBot Hub-Serie separat erwerben.）
 - Zeitschaltuhren - Verwenden Sie die SwitchBot-App, um integrierte Zeitschaltuhren zu programmieren, die ohne Telefon oder Hub laufen. Schalten Sie Lichter oder Haushaltsgeräte automatisch ein/aus, auch wenn Sie nicht da sind. Sie haben die Hände frei.
 - Einfach zu installieren und einzurichten - Kleben Sie ihn mit einem 3M-Aufkleber in 5 Sekunden direkt neben einen Kippschalter oder eine Taste. Kein Austauschen, kein Werkzeug erforderlich. Einfache App-Bedienung innerhalb der Bluetooth-Reichweite - Bei zweimaliger Verwendung pro Tag hält die Batterie etwa 600 Tage.
-- Universell - Funktioniert mit so gut wie allen Wippschaltern und Knöpfen von Geräten. Smarter Bluetooth-Tastendrücker für Ihr intelligentes Zuhause. Unterstützt Druckmodus/Schaltmodus/Benutzerdefinierter Modus. Mit dem beiliegenden Aufkleber hilft der Schaltmodus, Ihr Licht ein-/auszuschalten. （Wenn Sie die Wi-Fi-Fernbedienungsfunktion nutzen möchten, müssen Sie die SwitchBot Hub-Serie separat erwerben.）
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07B7NXV4R{{</world>}}

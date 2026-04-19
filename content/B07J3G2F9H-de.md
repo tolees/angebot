@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reichweite: 30 m. 2 x LR6/AA für die Fernbedienung (24 GHz) & 6x LR6/AA für das Auto werden benötigt (2 St. für TryMe Modus enthalten)
-- Für die extra Portion Action, schalte einfach vom Standard-Modus in den Anti-Schwerkraft-Modus um und fahre per Knopfdruck abenteuerliche Stunts und Drifts
+- Räder in den Anti-Gravity-Modus umklappen
 - Das kleine Rennauto kann sogar 360° Drehungen machen
 - Dieses witzige Luigi Kart RC im „geschrumpften“ Mini-Format kannst du mit Geschick durch die wildesten Parcours manövrieren
-- Räder in den Anti-Gravity-Modus umklappen
+- Für die extra Portion Action, schalte einfach vom Standard-Modus in den Anti-Schwerkraft-Modus um und fahre per Knopfdruck abenteuerliche Stunts und Drifts
+- Reichweite: 30 m. 2 x LR6/AA für die Fernbedienung (24 GHz) & 6x LR6/AA für das Auto werden benötigt (2 St. für TryMe Modus enthalten)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07J3G2F9H{{</world>}}

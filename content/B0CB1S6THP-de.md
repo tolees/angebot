@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Geo-Mesh mit Stretch-Schnürung
 - Leichte, flexible und stoßdämpfende Zwischensohle
+- Obermaterial aus Geo-Mesh mit Stretch-Schnürung
 - Flexible Traktionslaufsohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

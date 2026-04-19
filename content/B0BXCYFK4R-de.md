@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Power in a Snap: Starke Magnete richten dein Handy und das Ladegerät automatisch aus, um dir ein schnelleres und einfacheres Aufladen mit magnetischem Place-and-Go-Komfort zu ermöglichen und gleichzeitig sicherzustellen, dass dein Handy sicher befestigt bleibt
 - Tragbares Watch Ladegerät: Mit dem kleinen, leichten USB-C Ladegerät kannst du es unterwegs über zahlreiche Geräte aufladen, sodass du jederzeit und überall verwicklungsfreies magnetisches kabelloses Laden deiner Watch genießen kannst
+- Power in a Snap: Starke Magnete richten dein Handy und das Ladegerät automatisch aus, um dir ein schnelleres und einfacheres Aufladen mit magnetischem Place-and-Go-Komfort zu ermöglichen und gleichzeitig sicherzustellen, dass dein Handy sicher befestigt bleibt
 - Verstellbarer 2 Way Ständer: Wähle Hoch- oder Querformat und einen Winkel, der zu dir passt, um bequem freihändig zu sehen
 - Made for Apple Watch Zertifiziert: Watch Ladegerät ist offiziell zertifiziert, um sicheres und zuverlässiges Schnellladen zu ermöglichen
 - Gebaut für unterwegs: Das faltbare, kompakte Design und die mitgelieferte Reisetasche machen es einfach, das Ladegerät in deinen Rucksack zu stecken, um unterwegs mehrere Geräte aufzuladen

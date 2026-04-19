@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Weiches Cloudfoam Fußbett
-- Slip-On-Design
 - Leichtes Design
+- Slip-On-Design
+- Weiches Cloudfoam Fußbett
 - Eine bequeme Adilette für die Dusche
 - Regulär geschnitten
 

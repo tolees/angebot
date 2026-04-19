@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MOBIL UND ROBUST – Betrieb mit AA-Batterien oder USB, ideal für den Einsatz unterwegs.
 - VIELSEITIGE ANWENDUNG – Drei App-Modi für Musik, Podcasting und Field Recording ermöglichen maßgeschneiderte Bedienung.
-- FLEXIBLE ANSCHLÜSSE – Vier XLR-Eingänge und zwei XLR/TRS-Kombibuchsen mit Gain-Reglern und Pad-Schaltern.
+- MOBIL UND ROBUST – Betrieb mit AA-Batterien oder USB, ideal für den Einsatz unterwegs.
 - AUSTAUSCHBARE MIKROFONE – Inklusive XYH-6-Kapsel für klare Stereoaufnahmen, kompatibel mit weiteren Zoom-Kapseln.
+- FLEXIBLE ANSCHLÜSSE – Vier XLR-Eingänge und zwei XLR/TRS-Kombibuchsen mit Gain-Reglern und Pad-Schaltern.
 - HOCHWERTIGE AUFNAHME – Bis zu 12 Spuren gleichzeitig in WAV oder MP3 mit 24 Bit / 96 kHz Auflösung.
 
 [🛒 Hier!!]({{< param buyurl >}})

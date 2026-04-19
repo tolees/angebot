@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - ZAHNARZT SPIELEN UND EIN LÄCHELN INS GESICHT ZAUBERN: Kreative Aktivitäten beim Zahnarzt - wenn der Patient den Mund öffnet und seine Zunge herausstreckt, haben kleine Zahnärzte großen Spaß. Hier kann eine ganze Zahnreihe auf einmal geknetet werden
+- 8 DOSEN PLAY-DOH-SET INKLUSIVE METALLFARBENER KNETE: Mit den richtigen Farben macht das Zahnarztspiel noch mehr Spaß! Play-Doh in Silber, Gold, Weiß, Rot und Grün sowie eine spezielle „Karies-Knete“ sorgen für spannende Momente in der Zahnarztpraxis
 - PLAY-DOH ZAHNSPANGE UND FÜLLUNGEN: Die silber- und goldfarbene Play-Doh Modelliermasse eignet sich perfekt, um mit dem Rollrädchen eine Zahnspange und mit der Knetspritze Zahnfüllungen zu kneten
 - MIT PLAY-DOH WERKZEUGEN ZÄHNE KNETEN UND FÜLLEN: Mit dem handbetriebenen Bohrer können die Löcher in den Zähnen ausgehöhlt und dann mit der Knetspritze und einer Play-Doh Füllung repariert werden
-- 8 DOSEN PLAY-DOH-SET INKLUSIVE METALLFARBENER KNETE: Mit den richtigen Farben macht das Zahnarztspiel noch mehr Spaß! Play-Doh in Silber, Gold, Weiß, Rot und Grün sowie eine spezielle „Karies-Knete“ sorgen für spannende Momente in der Zahnarztpraxis
 - ZÄHNEPUTZEN NICHT VERGESSEN: Zahnarzt Dr. Wackelzahn kommt mit insgesamt 10 Werkzeugen, darunter eine Zahnbürste, die Play-Doh Zahncreme ausdrückt, ein Zahnseidenstick, ein Mundspiegel und eine Pinzette
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

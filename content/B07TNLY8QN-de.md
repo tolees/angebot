@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Lange Ärmel
+- Slim Fit
+- Figurbetont geschnitten
 - Ohne stretchanteil
 - Leinwandbindung
-- Slim Fit
-- Lange Ärmel
-- Figurbetont geschnitten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07TNLY8QN{{</world>}}

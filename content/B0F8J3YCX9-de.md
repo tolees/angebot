@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leicht und flexibel
 - Leicht zu reinigen
+- Leicht und flexibel
 - Schwenkbare Fersenriemen
 
 [🛒 Hier!!]({{< param buyurl >}})

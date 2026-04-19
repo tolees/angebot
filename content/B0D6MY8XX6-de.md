@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ERKUNDE ZWEI ZEITLINIEN - Finde Verbündete und verfolge Verdächtige in zwei Versionen derselben Realität und bestimme den Verlauf beider Zeitlinien
-- EIN RENNEN GEGEN DIE ZEIT - Max gerät ins Visier der Ermittler und Safis Mörder rückt mit jedem entdeckten Hinweis näher
-- EXKLUSIVER SOUNDTRACK - Ein eindrucksvoller Original-Soundtrack, neue Songs und aufregende, lizenzierte Tracks!
 - BESTIMME DAS SCHICKSAL VON CALEDON - Erkunde in zwei Realitäten einen lebhaften, verschneiten Campus voller Hinweise, Geheimnisse und Entscheidungen
+- EIN RENNEN GEGEN DIE ZEIT - Max gerät ins Visier der Ermittler und Safis Mörder rückt mit jedem entdeckten Hinweis näher
+- ERKUNDE ZWEI ZEITLINIEN - Finde Verbündete und verfolge Verdächtige in zwei Versionen derselben Realität und bestimme den Verlauf beider Zeitlinien
+- EXKLUSIVER SOUNDTRACK - Ein eindrucksvoller Original-Soundtrack, neue Songs und aufregende, lizenzierte Tracks!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D6MY8XX6{{</world>}}

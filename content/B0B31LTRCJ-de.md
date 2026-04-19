@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langarm
 - Regular Fit
-- Materialzusammensetzung: Außenschicht: 100% Polyester; Futter: 100% Polyester; Polsterung: 100% Polyester; Ärmellänge: 100% Polyester
 - Hybridjacke
+- Langarm
+- Materialzusammensetzung: Außenschicht: 100% Polyester; Futter: 100% Polyester; Polsterung: 100% Polyester; Ärmellänge: 100% Polyester
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B31LTRCJ{{</world>}}

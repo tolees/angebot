@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 51 % Baumwolle / 46 % recycelter Polyester / 2 % Elastan / 1 % Nylon
-- Knöchellang
 - Fußgewölbeunterstützung
+- Knöchellang
+- 51 % Baumwolle / 46 % recycelter Polyester / 2 % Elastan / 1 % Nylon
 - 3er-Pack
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

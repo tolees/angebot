@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ZWEI GRÖSSEN & ZWEI FARBEN - Das Nackenhörnchen in Größe S eignet sich für Kinder ab 3 Jahren. Das Nackenkissen in M für Kinder ab 6 Jahren. Alle Varianten werden in einer kreativ gestalteten Geschenkbox mit unterhaltsamen Spiel geliefert.
 - 360°-STÜTZE - Entwickelt, um Deinem Kind das Einschlafen während langer Reisen zu erleichtern - unser Kinder-Nackenkissen bietet gezielte Unterstützung am Kinn und an den Seiten!
 - PREMIUM VISKOELASTISCHER SCHAUM mit “slow-rebound” Memory-Effekt für die perfekte Balance zwischen Halt und Komfort. Ein Nach-Vorne-Fallen des Kopfes wird aufgrund der Kopfstütze vermieden.
+- ZWEI GRÖSSEN & ZWEI FARBEN - Das Nackenhörnchen in Größe S eignet sich für Kinder ab 3 Jahren. Das Nackenkissen in M für Kinder ab 6 Jahren. Alle Varianten werden in einer kreativ gestalteten Geschenkbox mit unterhaltsamen Spiel geliefert.
 - SAUBER dank des abnehmbaren waschbaren Kissenbezugs und mittels des mitgelieferten Beutels lässt sich das Auto- und Flugzeug-Nackenkissen KOMPAKT und geschützt verstauen.
 - EINSTELLBAR & SICHER - Mittels praktischer Druckknöpfe lässt sich das Kinder-Nackenhörnchen an den Halsumfang Deines Kindes einstellen. Es ist somit robust, sicher und lässt sich leicht anpassen, während Dein Kind wächst.
 

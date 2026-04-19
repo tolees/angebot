@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gummi-Außensohle
-- Canvasmaterial in lebendigen Farben
 - Echtes Wildleder
+- Canvasmaterial in lebendigen Farben
+- Gummi-Außensohle
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01MFDN61M{{</world>}}

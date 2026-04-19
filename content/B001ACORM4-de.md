@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Cow Leather
 - Sohle: 100 Prozent EVA
 - Farbe: Schwarz
+- Obermaterial: Cow Leather
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001ACORM4{{</world>}}

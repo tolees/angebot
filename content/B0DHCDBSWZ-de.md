@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aufbewahrung – Für oft verwendetes Zubehör ist die Gerätehalterung mit einer Zubehöraufbewahrung ausgestattet.
-- Arbeitsradius – Dank des 2 m langen Netzkabels kann flexibel mit dem Werkzeug gearbeitet werden. Eine Knickschutztülle sorgt für die Langlebigkeit des Kabels.
 - Anwendung – Das Schleif- und Gravur-Werkzeug kann vor allem für kleinere Reparaturen oder Bastelarbeiten an z. B. Glas, Holz, Stein oder Metall verwendet werden.
-- Leistung – Das Einhell Schleif- und Gravur-Werkzeug TC-MT 150 E hat eine Leistung von 150 W und eine Leerlaufdrehzahl von max. 35.000 U/min.
+- Aufbewahrung – Für oft verwendetes Zubehör ist die Gerätehalterung mit einer Zubehöraufbewahrung ausgestattet.
 - Gravurstift – Dank des schmalen Stifts an der 100 cm langen, flexiblen Welle sind auch präzise und detaillierte Schleif- und Gravurarbeiten mit dem Gerät optimal umsetzbar.
-- Materialgerecht – Mithilfe der 6-stufigen Drehzahlelektronik kann perfekt abgestimmt auf Material und Anwendung mit dem Gravur-Werkzeug gearbeitet werden.
 - Inkl. Zubehör – Mit dem Arretierknopf wird das Zubehör einfach und schnell gewechselt. Im Lieferumfang enthalten ist ein 117-teiliges Zubehör-Set.
+- Materialgerecht – Mithilfe der 6-stufigen Drehzahlelektronik kann perfekt abgestimmt auf Material und Anwendung mit dem Gravur-Werkzeug gearbeitet werden.
+- Arbeitsradius – Dank des 2 m langen Netzkabels kann flexibel mit dem Werkzeug gearbeitet werden. Eine Knickschutztülle sorgt für die Langlebigkeit des Kabels.
+- Leistung – Das Einhell Schleif- und Gravur-Werkzeug TC-MT 150 E hat eine Leistung von 150 W und eine Leerlaufdrehzahl von max. 35.000 U/min.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DHCDBSWZ{{</world>}}

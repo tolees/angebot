@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LIEFERUMFANG - Geliefert wird das Objectiv RF 15-30mm F4.5-6.3 IS STM, der Objektivdeckel E-67II, der Objektivrückdeckel RF und Anleitungen
 - ERSTKLASSIGE AUFNAHMEN - Mit seiner interessanten Naheinstellgrenze und dem optischen Bildstabilisator eignet sich das Kameraobjektiv ideal für Landschafts- und Videoaufnahmen.
 - KREATIVE FREIHEIT - Das Objektiv mit Ultraweitwinkel Zoombereich bietet alle Möglichkeiten und zeichnet sich durch den 5,5-Stufen optischen Bild Stabilisatoren aus
+- LIEFERUMFANG - Geliefert wird das Objectiv RF 15-30mm F4.5-6.3 IS STM, der Objektivdeckel E-67II, der Objektivrückdeckel RF und Anleitungen
 - Dieses Objektiv ist nur mit „EOS R“-Modellen wie EOS R100, R50, R10, R6, R7, R8 kompatibel
-- KOMPAKT UND PORTABEL - Das Kamera Obejktiv ist kompakt und leicht, hat nur 390g Gewicht, besitzt ein kleines 67mm Filtergewinde und ist durch den STM Motor ideal für Fotos und Videos
 - HERVORRAGENDE ABBILDUNGSLEISTUNG - Durch den Center Macro Modus wird ein Maßstab 1:2 bei manueller Fokussierung erreicht - zudem ist das Cameraobjective mit In-Body IS mit bis zu 7 Stufen kompatibel
+- KOMPAKT UND PORTABEL - Das Kamera Obejktiv ist kompakt und leicht, hat nur 390g Gewicht, besitzt ein kleines 67mm Filtergewinde und ist durch den STM Motor ideal für Fotos und Videos
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B6FVR4VM{{</world>}}

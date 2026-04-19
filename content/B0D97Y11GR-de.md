@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Leather, textile, rubber
 - Quiksilver Shoes varial tan Leather, textile, rubber
 - Quiksilver Shoes
-- Leather, textile, rubber
 - varial tan
 
 [🛒 Hier!!]({{< param buyurl >}})

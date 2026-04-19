@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Patentiertes Advanced Focus System: Effizientes und präzises Licht dank innovativer Reflektorlinse - rundes Nahlicht wird zu scharf gebündeltem Fernlicht - Rapid Focus zur Veränderung des Lichtkegels und vieles mehr
 - Vier Lichtfunktionen: "Power" für hohe Lichtleistung, "Low Power" mit energiesparendem Licht für lange Laufzeiten, "Boost" für einen kurzzeitigen Helligkeits-Boost und "Blink" mit automatisch pulsierendem Licht
-- Lieferumfang: 1 Stirnlampe mit Batteriesatz, USB-Kabel, Verlängerungskabel und Netzteil - Farbe: Rot/Schwarz - Gewicht mit Batterie: 340 g - Garantie: 7 Jahre - Wasserdichtigkeit: IPX4
 - Beeindruckende Leuchtkraft: Helmlampe mit bis zu 300 Metern Leuchtweite, 1000 Lumen und bis zu 35 Stunden Leuchtdauer - die ultimative Power ohne Kompromisse
+- Patentiertes Advanced Focus System: Effizientes und präzises Licht dank innovativer Reflektorlinse - rundes Nahlicht wird zu scharf gebündeltem Fernlicht - Rapid Focus zur Veränderung des Lichtkegels und vieles mehr
+- Lieferumfang: 1 Stirnlampe mit Batteriesatz, USB-Kabel, Verlängerungskabel und Netzteil - Farbe: Rot/Schwarz - Gewicht mit Batterie: 340 g - Garantie: 7 Jahre - Wasserdichtigkeit: IPX4
 - Ledlenser H14R.2: Aufladbare, ergonomische Hochleistungs-Kopfleuchte mit geringem Gewicht und optimaler Gewichtsverteilung für angenehmen Tragekomfort - ideal für den anspruchsvolle Anwender
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

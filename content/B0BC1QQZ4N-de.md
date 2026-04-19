@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Folgen Sie den Anweisungen des Detektors und bewegen Sie Ihren Körper, um der beste Trainer zu werden
 - Erfahre lustige Fakten über Pokémon.
+- Folgen Sie den Anweisungen des Detektors und bewegen Sie Ihren Körper, um der beste Trainer zu werden
 - Kein Bildschirm! Alles geht durch Stimmen, Musik, Licht und Bewegung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

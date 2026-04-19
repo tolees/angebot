@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- OPTISCHE TITAN II-SCHALTER - Die exklusiven optischen TITAN II-Schalter verfügen über eine sanfte, lineare und ultraschnelle Betätigung sowie eine unglaubliche Haltbarkeit mit einer Lebensdauer von 200 Millionen Klicks und bieten so einen Wettbewerbsvorteil in jedem Spiel
 - 65 % FORMFAKTOR - Der Mini-65-%-Formfaktor sorgt für eine kleine Stellfläche auf deinem Schreibtisch und behält die Funktionalität der Pfeiltasten bei
+- ULTRALANGE AKKULAUFZEIT - Entwickelt, um die Konkurrenz auszustechen, egal ob DU DICH für die volle RGB-Beleuchtung entscheidest (bis zu 90 Stunden) oder eine unauffällige, unbeleuchtete Variante bevorzugst (bis zu 240 Stunden)
 - EASY-SHIFT[+] - Ruf den Spielmodus auf, um auf die Easy-Shift[+]-Tastenduplikator-Technologie zuzugreifen und eine zweite Funktionsebene freizuschalten, die so programmiert werden kann, dass sie die Möglichkeiten jedes Tastendrucks erweitert
 - SMART KEYS - Mit den 29 Multifunktionen von Smart Keys kannst du dich auf deine Tasten verlassen. Eine doppelte LED zeigt an, wenn Sekundärfunktionen aktiviert sind
-- ULTRALANGE AKKULAUFZEIT - Entwickelt, um die Konkurrenz auszustechen, egal ob DU DICH für die volle RGB-Beleuchtung entscheidest (bis zu 90 Stunden) oder eine unauffällige, unbeleuchtete Variante bevorzugst (bis zu 240 Stunden)
+- OPTISCHE TITAN II-SCHALTER - Die exklusiven optischen TITAN II-Schalter verfügen über eine sanfte, lineare und ultraschnelle Betätigung sowie eine unglaubliche Haltbarkeit mit einer Lebensdauer von 200 Millionen Klicks und bieten so einen Wettbewerbsvorteil in jedem Spiel
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D185QNM7{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anti-Loch-Garantie: Haben Sie innerhalb des ersten Jahres nach dem Kauf ein Loch in Ihren Socken? Wir senden Ihnen kostenlos einen Ersatz. Bei Fragen hilft Ihnen unser Kundenservice immer gerne weiter
-- HERGESTELLT IN EUROPA - Unsere Wandersocken wurden mit Everest-Bergsteiger Rasmus Kragh entworfen, der unsere Produkte testet, um hohe Qualitätsstandards zu gewährleisten. Die Socken werden fair in Portugal produziert
 - MERINOWOLLKOMFORT - Unsere gepolsterten Wollstrümpfe mit thermoregulierender, atmungsaktiver Merinowolle und schweißableitenden Belüftungsbahnen sorgen dafür, dass Ihre Füße bei jedem Wetter frisch, trocken und bequem bleiben
-- Hochwertige Materialien: aus 38 % Wolle (Merino), 30 % Acryl, 30 % Polyamid und 2 % Elastan. OEKO-TEX Standard 100 zertifiziert Schadstofffrei Maschinenwäsche bei max. 40 ° C Nicht im Trockner trocknen
+- HERGESTELLT IN EUROPA - Unsere Wandersocken wurden mit Everest-Bergsteiger Rasmus Kragh entworfen, der unsere Produkte testet, um hohe Qualitätsstandards zu gewährleisten. Die Socken werden fair in Portugal produziert
+- Anti-Loch-Garantie: Haben Sie innerhalb des ersten Jahres nach dem Kauf ein Loch in Ihren Socken? Wir senden Ihnen kostenlos einen Ersatz. Bei Fragen hilft Ihnen unser Kundenservice immer gerne weiter
 - OUTDOOR DESIGN - Unsere antibakteriellen und rutschfesten Wandersocken verfügen über eine gezielte Dämpfung, um das Risiko von Blasen und wunden Füßen zu reduzieren. Ideal zum Wandern, Trekking, Outdoor-Abenteuer, Spazierengehen, Reisen, Arbeit oder Alltag
+- Hochwertige Materialien: aus 38 % Wolle (Merino), 30 % Acryl, 30 % Polyamid und 2 % Elastan. OEKO-TEX Standard 100 zertifiziert Schadstofffrei Maschinenwäsche bei max. 40 ° C Nicht im Trockner trocknen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08QRQSWNX{{</world>}}

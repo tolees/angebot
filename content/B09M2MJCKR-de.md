@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Wenn sie technische fragen haben, wenden sie sich bitte an unsere E-Mail: support.de@tenda.cn
-- 【Vollfarb-Nachtsicht bis 30m & 360° Panorama-Überwachung】Zwei starke Scheinwerfer und IR-Sensoren ermöglichen lebendige Vollfarb-Nachtsicht bei Dunkelheit. Durch 355° Schwenk und 90° Neigung ist jeder Winkel abgedeckt – ohne tote Zonen. Drei Nachtmodi (Smart, Vollfarb, Schwarz-Weiß) passen sich automatisch an.
-- 【Zweiwege-Audio & Individuelle Sprachaufnahmen】Nutzen Sie die Vollduplex-Audiokommunikation für klare Gespräche mit Besuchern oder Ihrer Familie. Sie können auch eigene Sprachmeldungen (bis 10 Sekunden) einrichten, etwa zur Begrüßung oder als akustische Abschreckung.
-- 【KI-Erkennung für Personen & Fahrzeuge mit präziser Alarmierung】Intelligente Deep-Learning-Algorithmen erkennen zuverlässig Personen und Fahrzeuge und filtern Fehlalarme heraus. Sobald eine Person oder ein Fahrzeug erkannt wird, ertönt ein Alarm mit Licht- und Tonsignalen, und die App sendet umgehend eine Benachrichtigung.
-- 【4MP Ultra HD & F1.6 Große Blende】Mit dem hochauflösenden 4MP-Sensor und einem lichtstarken F1.6-Objektiv liefert die Außenkamera auch bei schwachem Licht gestochen scharfe, detailreiche Bilder. Die erweiterte Lichtempfindlichkeit sorgt für klare Aufnahmen rund um die Uhr.
 - 【Duale Vernetzung & H.265 Kompression für effiziente Speicherung】 Wählen Sie zwischen stabiler 2,4-GHz-WLAN-Verbindung mit verstärkter Reichweite oder kabelgebundener RJ45-Anbindung. Die H.265-Kodierung spart bis zu 50% Speicherplatz gegenüber H.264, sodass mehr Aufnahmen auf der Micro-SD-Karte Platz finden. (Kompatibel mit Alexa für sprachgesteuerte Bedienung)
+- 【KI-Erkennung für Personen & Fahrzeuge mit präziser Alarmierung】Intelligente Deep-Learning-Algorithmen erkennen zuverlässig Personen und Fahrzeuge und filtern Fehlalarme heraus. Sobald eine Person oder ein Fahrzeug erkannt wird, ertönt ein Alarm mit Licht- und Tonsignalen, und die App sendet umgehend eine Benachrichtigung.
+- 【Zweiwege-Audio & Individuelle Sprachaufnahmen】Nutzen Sie die Vollduplex-Audiokommunikation für klare Gespräche mit Besuchern oder Ihrer Familie. Sie können auch eigene Sprachmeldungen (bis 10 Sekunden) einrichten, etwa zur Begrüßung oder als akustische Abschreckung.
+- 【4MP Ultra HD & F1.6 Große Blende】Mit dem hochauflösenden 4MP-Sensor und einem lichtstarken F1.6-Objektiv liefert die Außenkamera auch bei schwachem Licht gestochen scharfe, detailreiche Bilder. Die erweiterte Lichtempfindlichkeit sorgt für klare Aufnahmen rund um die Uhr.
+- 【Vollfarb-Nachtsicht bis 30m & 360° Panorama-Überwachung】Zwei starke Scheinwerfer und IR-Sensoren ermöglichen lebendige Vollfarb-Nachtsicht bei Dunkelheit. Durch 355° Schwenk und 90° Neigung ist jeder Winkel abgedeckt – ohne tote Zonen. Drei Nachtmodi (Smart, Vollfarb, Schwarz-Weiß) passen sich automatisch an.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09M2MJCKR{{</world>}}

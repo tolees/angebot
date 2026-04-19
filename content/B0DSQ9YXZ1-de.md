@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Passform: Regular Fit, Rückenlänge bei Größe M ca. 85 cm;
-- Stehkragen mit Kapuze | Langarm
 - Nicht auf Verzierung bügeln | Bei Lufttrocknen Kleidungsstück mehrmals wenden und aufschütteln | Bügeln bei niedriger Temperatur | Nicht chemisch reinigen | Alle Verschlüsse vor dem Waschen schließen | Nicht bleichen | 30°C Buntwäsche | Mit Tennisbällen im Trockner trocknen | Von links waschen | Keinen Weichspüler verwenden | Mit ähnlichen Farben waschen | Mildes Trocknen
-- Aus einem robusten Polyester-Twill – widerstandsfähig, wasserabweisend und angenehm zu tragen, ideal für Herbst und Winter;
+- Stehkragen mit Kapuze | Langarm
+- Passform: Regular Fit, Rückenlänge bei Größe M ca. 85 cm;
 - Warmer Parka mit abnehmbarer Kapuze, Logo-Badge am oberen Ärmel und Rippbündchen an den Ärmelabschlüssen. Zahlreiche Taschen auf der Vorderseite sowie eine zusätzliche Innentasche eignen sich ideal zum Verstauen von Portemonnaie, Schlüssel oder Handy.
+- Aus einem robusten Polyester-Twill – widerstandsfähig, wasserabweisend und angenehm zu tragen, ideal für Herbst und Winter;
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DSQ9YXZ1{{</world>}}

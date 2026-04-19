@@ -30,12 +30,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Versuche, in jedem Level den höchsten Rang zu erreichen, um die Bestenliste zu dominieren und Arcade-Unsterblichkeit zu erlangen.
 - Tauche ein in dieses klassisches Arcade-Erlebnis, eine Hommage an das Terminator-Universum mit authentischem Arcade-Gameplay, Musik und einer von Grund auf neu entwickelten Grafik.
-- Genieße einen kinoreifen Soundtrack mit neu interpretierten Musikstücken aus dem legendären Terminator 2: Judgment Day-Score sowie brandneuen Kompositionen.
-- Kämpfe gegen die ganze Macht von Cyberdyne und Skynets Arsenal, mit verschiedenen Gegnertypen und adrenalingeladenen Bosskämpfen.
-- Erlebe legendäre Momente und gehe neue Wege als Sarah, John und T-800 in einer Erzählung, die eine Mischung aus klassischen Terminator 2: Judgment Day-Szenen und brandneuen Terminator-Stories ist.
-- Erlebe die Welt von Terminator 2: Judgment Day wie nie zuvor mit detaillierten 2D-Sprite-Grafiken deiner Lieblingscharaktere und -szenen.
 - Schieße, schleiche und entkomme den Klingen des T-1000 in einer Vielzahl von Leveln und führe als John Connor in entscheidenden Missionen des Zukunftskriegs den Widerstand an.
+- Erlebe die Welt von Terminator 2: Judgment Day wie nie zuvor mit detaillierten 2D-Sprite-Grafiken deiner Lieblingscharaktere und -szenen.
+- Erlebe legendäre Momente und gehe neue Wege als Sarah, John und T-800 in einer Erzählung, die eine Mischung aus klassischen Terminator 2: Judgment Day-Szenen und brandneuen Terminator-Stories ist.
+- Genieße einen kinoreifen Soundtrack mit neu interpretierten Musikstücken aus dem legendären Terminator 2: Judgment Day-Score sowie brandneuen Kompositionen.
 - Die verschiedenen Spielmodi garantieren Abwechslung: Story-Modus, Arcade-Modus, Unendlich-Modus, Boss-Ansturm, Mutter der Zukunft und Leveltraining!
+- Kämpfe gegen die ganze Macht von Cyberdyne und Skynets Arsenal, mit verschiedenen Gegnertypen und adrenalingeladenen Bosskämpfen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DYPKFNG2{{</world>}}

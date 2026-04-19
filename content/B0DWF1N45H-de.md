@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 4 LEGO Star Wars Mini-Figuren: 2 Todestruppler und 2 Nachttruppler, die jeweils einen Helm und einen Blaster tragen
-- Todestruppler & Nachttruppler Battle Pack: Dieses Bauset beinhaltet Mini-Figuren und ein Landungsschiff aus LEGO-Steinen, damit Kinder die Abenteuer aus Star Wars: Ahsoka nachspielen können
 - Verstaue die LEGO Star Wars Blaster: Steck die Blaster zwischen die Mini-Figuren hinten im Landungsschiff, damit sie für viele Kreativspiele und Schlachten gerüstet sind
-- LEGO Star Wars Battle Packs zum Sammeln: Schau dir auch die anderen separat erhältlichen Star Wars Battle Packs an, die Kinder eigene Einheiten für viele Fantasy-Abenteuer bauen lassen
+- Todestruppler & Nachttruppler Battle Pack: Dieses Bauset beinhaltet Mini-Figuren und ein Landungsschiff aus LEGO-Steinen, damit Kinder die Abenteuer aus Star Wars: Ahsoka nachspielen können
 - Kleines Geschenk für Jungen, Mädchen und alle Fans ab 6 Jahren: Dieses baubare Actionspielzeug ist eine coole Überraschung für LEGO Fans und Kinder, die Star Wars: Ahsoka lieben
+- 4 LEGO Star Wars Mini-Figuren: 2 Todestruppler und 2 Nachttruppler, die jeweils einen Helm und einen Blaster tragen
+- LEGO Star Wars Battle Packs zum Sammeln: Schau dir auch die anderen separat erhältlichen Star Wars Battle Packs an, die Kinder eigene Einheiten für viele Fantasy-Abenteuer bauen lassen
 - Baubares Modell-Landungsschiff: Das Landungsschiff hat 2 Shooter, ein Cockpit mit abnehmbarem Dach für eine LEGO Mini-Figur und im Heckladeraum Platz für 4 Figuren
 - Entdecke das ganze Sortiment: Separat erhältliche LEGO Star Wars Bausets lassen Kinder und erwachsene Star Wars Fans klassische Szenen nachspielen, neue Geschichten darstellen oder die gebauten Bauspielzeuge einfach nur ausstellen
 

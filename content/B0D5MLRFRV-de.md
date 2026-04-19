@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Low Cut
-- Court Style
-- PU Upper
 - TPR Outsole
+- Court Style
+- Low Cut
+- PU Upper
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D5MLRFRV{{</world>}}

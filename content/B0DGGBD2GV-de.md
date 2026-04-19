@@ -31,10 +31,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Farbe: Schwarz // Anzahl: 1 Stück // Größe: (B x H x T) 3,1 cm x 3,2 cm x 3,4 cm
 - ULTRAKOMPAKTES DESIGN: Schlankes, tragbares Gehäuse für maximale Mobilität und Flexibilität
 - USB-C KOMPATIBEL: Universeller USB-C-Anschluss für flexible und problemlose Nutzung
-- AUTOMATISCHE STROMERKENNUNG: Intelligente Anpassung der Leistung für das jeweilige Gerät
-- 30W SCHNELLLADEN: Lädt Smartphones und Tablets mit bis zu 30W für ein schnelles und effizientes Ladeerlebnis
 - POWER DELIVERY 3.0: Optimierte Ladegeschwindigkeit dank Power Delivery 3.0 Technologie
 - Modellnummer: MK5894 // Marke: deleyCON
+- AUTOMATISCHE STROMERKENNUNG: Intelligente Anpassung der Leistung für das jeweilige Gerät
+- 30W SCHNELLLADEN: Lädt Smartphones und Tablets mit bis zu 30W für ein schnelles und effizientes Ladeerlebnis
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DGGBD2GV{{</world>}}

@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - 【Speicherkarte, und reichlich Zubehör】: Enthält 1x 64GB Speicherkarte, 1x Gehäuse, 2x 1350mAh Akkus, 1x Kabel und 1x Ladekasten, in der die Akkus auch aufbewahrt werden können. 1x drahtlose Fernbedienung, 1x Lenkerhalterung, 1x Helmhalterung.
 - 【EIS Anti-Shake】: Die 6-Achsen-EIS-Bildstabilisierung Technologie garantiert stabile und glatte Aufnahmen bei Verwendung der Actioncam und hält wichtige Momente mit scharfer Klarheit fest, was ästhetisch ansprechend ist.
-- 【130FT Wasserdicht(mit Gehäuse)】:Mit der robusten IP68 wasserdichten Schutzhülle können Sie bis zu einer Tiefe von 40 Metern tauchen. Die M80Air ist ideal zum Filmen beim Schwimmen, Schnorcheln, Tauchen, Rafting, Surfen und anderen Wassersportarten.
 - 【Wirlesse Steuerung】: Mit der Apex DV APP können Sie die Kamera über Ihr Smartphone bedienen und Dateien auf Ihrem Smartphone speichern oder auf sozialen Medien teilen. Sie können auch die mitgelieferte Fernbedienung verwenden, um die Kamera zu bedienen. Wenn Sie die Fernbedienung zum Beispiel an Ihrem Handgelenk befestigen und die Kamera an Ihrem Helm oder Fahrradlenker montieren, können Sie ganz einfach beim Sport aufnehmen. ACHTUNG: Die Fernbedienung ist nicht wasserdicht!
+- 【130FT Wasserdicht(mit Gehäuse)】:Mit der robusten IP68 wasserdichten Schutzhülle können Sie bis zu einer Tiefe von 40 Metern tauchen. Die M80Air ist ideal zum Filmen beim Schwimmen, Schnorcheln, Tauchen, Rafting, Surfen und anderen Wassersportarten.
 - 【Professionelle 4K/64MP Aktionskamera】: Verfügbar in den Videoauflösungen 4K/60FPS, 4K/30FPS, 4K/30FPS(9:16), 1080P/120FPS, 1080P/60FPS, 1080P/30FPS. Mit 64-Megapixel-Bildern und 8X Zoom können Sie das, was Sie sehen, in fantastischer Auflösung festhalten und teilen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

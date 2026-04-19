@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Usb-kabel
 - Farbe: schwarz
 - Usb (m) auf rj-4 5 (10-polig) (m)
-- Usb-kabel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B004DVEWHY{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Zeitplan &Timer】 Planen Sie Smart Plugs, öffnen oder schließen Sie Haushaltsgeräte bei Bedarf. Diese Funktionen vermeiden unnötige Standby-Zeiten und sparen Energie.
-- 【APP-Fernbedienung】 Laden Sie die entsprechende APP (Smart Life oder TUYA Smart) herunter und verbinden Sie Ihren Smart steckdose über 2,4-GHz-WLAN.(5GHz nicht unterstützt)
-- 【Hinweis】 Zum Zurücksetzen der Steckdose muss die LED 5-10 Sekunden lang gedrückt werden, bis die LED zu blinken beginnt.
-- 【Stromverbrauch Messen】Alexa Steckdose verfügt über eine Stromüberwachungsfunktion, die Energie sparen und Stromrechnungen senken kann.
 - 【Sprachsteuerung mit Alexa】 Smart Steckdose kann mit Alexa oder Google Assistant verbunden werden. Sie können Ihre Haushaltsgeräte mit einem einfachen Sprachbefehl steuern.
+- 【Hinweis】 Zum Zurücksetzen der Steckdose muss die LED 5-10 Sekunden lang gedrückt werden, bis die LED zu blinken beginnt.
+- 【Zeitplan &Timer】 Planen Sie Smart Plugs, öffnen oder schließen Sie Haushaltsgeräte bei Bedarf. Diese Funktionen vermeiden unnötige Standby-Zeiten und sparen Energie.
+- 【Stromverbrauch Messen】Alexa Steckdose verfügt über eine Stromüberwachungsfunktion, die Energie sparen und Stromrechnungen senken kann.
+- 【APP-Fernbedienung】 Laden Sie die entsprechende APP (Smart Life oder TUYA Smart) herunter und verbinden Sie Ihren Smart steckdose über 2,4-GHz-WLAN.(5GHz nicht unterstützt)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C98YRV2C{{</world>}}

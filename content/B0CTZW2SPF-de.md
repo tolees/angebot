@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dank der Abfragerate von 8.000 Hz werden Eingabesignale 4 x schneller als bei den meisten Gaming-Tastaturen registriert, so dass eine blitzschnelle Reaktionsfähigkeit garantiert ist.
-- NZXT schnelle optische Schalter haben ein lineares, leichtes Gefühl mit einer Reaktionszeit von 0,2 ms, eine Garantie für 100 Millionen Tastendrücke und eine einstellbare Betätigung von 1 mm oder 1,5 mm.
 - Beim MiniTKL-Formfaktor befinden sich alle Tasten einer traditionellen Tenkeyless-Tastatur auf kleinster Fläche, um Platz zu sparen.
+- NZXT schnelle optische Schalter haben ein lineares, leichtes Gefühl mit einer Reaktionszeit von 0,2 ms, eine Garantie für 100 Millionen Tastendrücke und eine einstellbare Betätigung von 1 mm oder 1,5 mm.
 - Eine zweilagige Schicht aus schalldämpfendem Schaumstoff und eine bandverstärkte Leiterplatte verbessern die Akustik, indem sie unerwünschte Knackgeräusche absorbieren.
+- Dank der Abfragerate von 8.000 Hz werden Eingabesignale 4 x schneller als bei den meisten Gaming-Tastaturen registriert, so dass eine blitzschnelle Reaktionsfähigkeit garantiert ist.
 - Doubleshot-PBT-Keycaps bestehen aus zwei Kunststoffschichten, um die Beschriftung zu erhalten und ein allmähliches Verblassen zu verhindern.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Ideal als Übergangsjacke im Frühling und Herbst
 - Waschhinweis: Keine chemische Reinigung möglich / Trocknen im Trockner nicht möglich / Kein Bleichmittel erlaubt / Bei niedriger Temperatur bügeln (110° C) / Normalwaschgang bei max 40°C
+- Passform: Slim Fit, Jackenlänge in Größe 52 ca 62 cm
 - Aus weichem Baumwoll-Stoff mit Stretch-Anteil für mehr Bewegungsfreiheit und ein angenehmes Tragegefühl
 - Klassische Basic Jeansjacke im Washed-Look mit aufgesetzten Brusttaschen, seitlichen Eingriffstaschen und Kentkragen
-- Ideal als Übergangsjacke im Frühling und Herbst
-- Passform: Slim Fit, Jackenlänge in Größe 52 ca 62 cm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C9ZZGKQ1{{</world>}}

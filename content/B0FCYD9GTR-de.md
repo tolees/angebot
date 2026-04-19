@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Als wagemutiges Erd-Direktorat steht und fällt das Schicksal der gesamten Galaxie mit deinen Entscheidungen – mit deinen Stärken, deinen Schwächen, deiner Crew und den Fraktionen, denen du dich anvertraust.
+- Mach dich bereit für ein actiongeladenes Abenteuer mit einer neuen Crew, neuen Waffen und neuen Gegner*innen in einer neuen Kolonie! So viel Neues!
 - The Outer Worlds 2 ist die sehnsüchtig erwartete Fortsetzung des preisgekrönten Ego-Sci-Fi-RPGs von Obsidian Entertainment.
 - Mit der Premium Edition sicherst du dir: das Basisspiel The Outer Worlds 2, bis zu 5 Tage Early Access, den DLC-Pass für 2 zukünftige Story-Erweiterungen*, das Moon Man’s Corporate Appreciation Premium Prize Pack und obendrein Zugriff auf das digitale Artbook und den Original-Soundtrack. Inhaltsdownload erforderlich.
-- Mach dich bereit für ein actiongeladenes Abenteuer mit einer neuen Crew, neuen Waffen und neuen Gegner*innen in einer neuen Kolonie! So viel Neues!
 - Erschaffe deinen Charakter mit den Fähigkeiten und Entscheidungen, die deinen Spielstil perfekt unterstreichen. Die Kolonie reagiert auf jede deiner Bewegungen und spinnt daraus eine Geschichte, deren Ausgang du selbst in der Hand hast.
+- Als wagemutiges Erd-Direktorat steht und fällt das Schicksal der gesamten Galaxie mit deinen Entscheidungen – mit deinen Stärken, deinen Schwächen, deiner Crew und den Fraktionen, denen du dich anvertraust.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0FCYD9GTR{{</world>}}

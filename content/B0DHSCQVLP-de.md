@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1 von 14 Hogwarts Porträts zum Sammeln: Der LEGO Harry Potter Duellierclub ist ein tolles Bauspielzeug für kleine und große Fans; 1 von 14 Hogwarts Porträts zum Sammeln ist enthalten und kann über dem Kamin aufgehängt werden
-- Harry Potter Bauspielzeug für Kinder ab 8 Jahren: Dieses Set ist eine tolle spontane Belohnung für Jungen, Mädchen und alle, die die Magie der Zauberwelt entdecken und erforschen möchten
-- Magisches Kinderspielzeug: Stell mit dem Schloss Hogwarts: Duellierclub aus LEGO Steinen die klassische Szene aus Harry Potter und die Kammer des Schreckens nach, in der Harry lernt, wie man in Duellen Magie anwendet
-- Intuitive Bauanleitungen: In der LEGO Builder App sind interaktive Funktionen verfügbar, die Kinder 3D-Modellansichten vergrößern und drehen, ihre LEGO Harry Potter Sets speichern und ihren Baufortschritt verfolgen lassen
 - Abenteuer Spielset mit 4 LEGO Harry Potter Charakteren: Die Minifiguren Harry Potter und Draco Malfoy, die beide einen Zauberstab und Zauberelemente halten, sowie Gilderoy Lockhart und Severus Snape sind auch mit dabei
 - Interaktives Spielset mit Umstürz-Funktion: Das Bauset beinhaltet einen Kamin und eine Duellplattform mit einer Funktion, um eine Minifigur von der Plattform zu stürzen; Hierzu muss man nur die Treppenstufen auf der anderen Seite herunterdrücken
 - LEGO Harry Potter Sammlerstück: Der Duellierclub gehört zu einer Serie von (separat erhältlichen) modularen Sets, die man zum bisher detailreichsten Modell von Schloss Hogwarts aus LEGO Steinen zusammenfügen kann
+- Harry Potter Bauspielzeug für Kinder ab 8 Jahren: Dieses Set ist eine tolle spontane Belohnung für Jungen, Mädchen und alle, die die Magie der Zauberwelt entdecken und erforschen möchten
+- Magisches Kinderspielzeug: Stell mit dem Schloss Hogwarts: Duellierclub aus LEGO Steinen die klassische Szene aus Harry Potter und die Kammer des Schreckens nach, in der Harry lernt, wie man in Duellen Magie anwendet
+- 1 von 14 Hogwarts Porträts zum Sammeln: Der LEGO Harry Potter Duellierclub ist ein tolles Bauspielzeug für kleine und große Fans; 1 von 14 Hogwarts Porträts zum Sammeln ist enthalten und kann über dem Kamin aufgehängt werden
+- Intuitive Bauanleitungen: In der LEGO Builder App sind interaktive Funktionen verfügbar, die Kinder 3D-Modellansichten vergrößern und drehen, ihre LEGO Harry Potter Sets speichern und ihren Baufortschritt verfolgen lassen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DHSCQVLP{{</world>}}

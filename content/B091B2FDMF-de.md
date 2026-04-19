@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- GREEN SHAPE: Das VAUDE Green Shape-Label steht für ein umweltfreundliches, funktionelles Produkt aus bluesign-zertifizierten Materialien, was dich zuverlässig durch die kalte Jahreszeit begleitet
+- ECO FINISH: Die VAUDE Fahrradjacke Herren kommt ohne schädliche Fluorcarbone (PFC) aus. Dank der umweltfreundlichen Eco Finish-Beschichtung lässt die Oberfläche der Radfahrjacke Wasser abperlen
 - VIELSEITIGE NUTZUNG: Die äußerst vielseitig einsetzbare Softshell-Jacke Herren ist primär für den Einsatz auf dem Fahrrad konzipiert, eignet sich aber auch bestens als Outdoorjacke für den Alltag
 - WETTERFEST: Die leichte Fahrradjacke Herren ist nicht nur wasserdicht & atmungsaktiv, sondern dank der speziell eingearbeiteten Membran auch zu 100% winddicht und schützt den Körper vor Auskühlung
 - FUNKTIONAL: Für eine ideale Passform verfügt die Radfahrjacke über verstellbare Bündchen, eine Kapuze & eine ergonomische Schnittführung, speziell auf die Bedürfnisse von Radfahrern abgestimmt
-- ECO FINISH: Die VAUDE Fahrradjacke Herren kommt ohne schädliche Fluorcarbone (PFC) aus. Dank der umweltfreundlichen Eco Finish-Beschichtung lässt die Oberfläche der Radfahrjacke Wasser abperlen
+- GREEN SHAPE: Das VAUDE Green Shape-Label steht für ein umweltfreundliches, funktionelles Produkt aus bluesign-zertifizierten Materialien, was dich zuverlässig durch die kalte Jahreszeit begleitet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B091B2FDMF{{</world>}}

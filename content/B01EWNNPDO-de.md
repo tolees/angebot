@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inhalt: 1x Kaffeemühle aus Cromargan Edelstahl matt (18 x 13 x 23 cm, 110 W, max. Bohnen-Füllmenge 180 g, Kabellänge 1,2m) - Artikelnummer: 0417070011
-- Das aromaschonende Scheibenmahlwerk aus Stahl arbeitet sehr schonend, sodass die leckeren Röstaromen des Lieblings-Kaffees beim Mahlen nicht zerstört werden
-- Die Kaffeemühle wird über eine beleuchtete Start-/ Stopptaste bedient. Die Kaffeemenge ist über den Portionswahl-Drehknopf für 2 bis 10 Tassen einstellbar. Durch die Abschaltautomatik schaltet die Mühle nach dem Mahlvorgang automatisch ab
 - Kaffeegeschmack und -stärke sind persönliche Vorlieben: der 17-stufig einstellbaren Mahlgrad (von fein bis grob) ermöglicht die optimale Kaffeequalität für z.B. Filterkaffeemaschinen eine feinere, für Handaufbrühung und French Press eine gröbere Einstellung
 - Zur bequemen Befüllung ist der transparente Bohnenbehälter mit Aroma-Schutzdeckel abnehmbar. Bohnenbehälterdeckel, Auffangbehälter und Auffangbehälterdeckel lassen sich in der Spülmaschine reinigen
+- Inhalt: 1x Kaffeemühle aus Cromargan Edelstahl matt (18 x 13 x 23 cm, 110 W, max. Bohnen-Füllmenge 180 g, Kabellänge 1,2m) - Artikelnummer: 0417070011
+- Die Kaffeemühle wird über eine beleuchtete Start-/ Stopptaste bedient. Die Kaffeemenge ist über den Portionswahl-Drehknopf für 2 bis 10 Tassen einstellbar. Durch die Abschaltautomatik schaltet die Mühle nach dem Mahlvorgang automatisch ab
+- Das aromaschonende Scheibenmahlwerk aus Stahl arbeitet sehr schonend, sodass die leckeren Röstaromen des Lieblings-Kaffees beim Mahlen nicht zerstört werden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01EWNNPDO{{</world>}}

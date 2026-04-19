@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - LANGANHALTENDE TEMPERATUR: Dank doppelwandigem Glas bleibt die Temperatur des Inhalts besonders lange erhalten, ideal für Eiskaffee oder Heißgetränke. Die Farbe der Getränke kommt perfekt zur Geltung
-- LIEFERUMFANG: 1 x Artesano Hot&Cold Beverages Latte-Macchiato-Glas Set 2tlg., Größe: 114 mm, Material: Borosilikatglas, Farbe: klar, Füllmenge: 250 ml (Artikelnummer: 1172038089)
-- HOCHWERTIGES MATERIAL: Hergestellt aus robustem Borosilikatglas, sind die Gläser spülmaschinenfest, mikrowellensicher, besonders hart und ritzbeständig – auch für die Gastronomie geeignet
 - ZEITLOSES DESIGN: Die schlichte Form der Gläser und der urbane Stil sind vielfältig kombinierbar und perfekt als Set mit anderen Hot & Cold Gläsern erweiterbar - Ideal für Cappuccino, Latte Macchiato, Tee, heiße Schokolade, Eiskaffee und andere Heiß- oder Kaltgetränke
+- HOCHWERTIGES MATERIAL: Hergestellt aus robustem Borosilikatglas, sind die Gläser spülmaschinenfest, mikrowellensicher, besonders hart und ritzbeständig – auch für die Gastronomie geeignet
+- LIEFERUMFANG: 1 x Artesano Hot&Cold Beverages Latte-Macchiato-Glas Set 2tlg., Größe: 114 mm, Material: Borosilikatglas, Farbe: klar, Füllmenge: 250 ml (Artikelnummer: 1172038089)
 - STILVOLLER GENUSS: Doppelwandige Latte-Macchiato-Gläser für den stilvollen Genuss von heißen und kalten Getränken wie Latte Macchiato, Cappuccino, Tee, Eiskaffee und mehr
 
 [🛒 Hier!!]({{< param buyurl >}})

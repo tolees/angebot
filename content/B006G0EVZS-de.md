@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SCHWEIZER PREMIUMKAFFEE: Mit großer Sorgfalt von erfahrenen Schweizer Röstmeistern veredelt, für authentischen Kaffeegenuss und höchste Qualitätsansprüche
 - IDEAL FÜR VOLLAUTOMATEN: Speziell entwickelt für die Zubereitung in Vollautomaten, schont das Mahlwerk und ist gut geeignet für Siebträgermaschinen als ganze Bohnen in der 1kg Aromaschutzpackung
-- EDLE ARABICA-BOHNEN: Hochwertige, Arabica-Kaffeebohnen, in schonender Langzeitröstung veredelt, sorgen für einen aromatischen Espresso mit einer samtigen Crema und intensiven Aromen
+- SCHWEIZER PREMIUMKAFFEE: Mit großer Sorgfalt von erfahrenen Schweizer Röstmeistern veredelt, für authentischen Kaffeegenuss und höchste Qualitätsansprüche
 - KRÄFTIGER GESCHMACK: Noten von Bitterschokolade und Haselnuss treffen auf eine mittlere Röstung mit Stärke 4/5 und Säure 2/5 – für intensiven Espresso mit Charakter
 - NACHHALTIGE PRODUKTION: Schwiizer Schüümli Kaffeebohnen kommen aus Rainforest Alliance-zertifizierter Produktion, nachhaltig und fair angebaut
+- EDLE ARABICA-BOHNEN: Hochwertige, Arabica-Kaffeebohnen, in schonender Langzeitröstung veredelt, sorgen für einen aromatischen Espresso mit einer samtigen Crema und intensiven Aromen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B006G0EVZS{{</world>}}

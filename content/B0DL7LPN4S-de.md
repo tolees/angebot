@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Textilfutter
 - Reguläre Passform
 - Perforierter Vorfußbereich
+- Textilfutter
 - Obermaterial aus Leder und Synthetik
 - Schnürsenkel
 

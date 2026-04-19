@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Slim Fit
-- Cargo-Hose
-- Niedrige Taille
 - Materialzusammensetzung: 78% Baumwolle, 20% Recyelte Baumwolle, 2% Elasthan
+- Niedrige Taille
+- Cargo-Hose
+- Slim Fit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07C272VPJ{{</world>}}

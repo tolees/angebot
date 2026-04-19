@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Eco On-Energiesparmodus
-- I-Wave (gleichmäßige Erwärmung des Garguts durch dreidimensionale Mikrowellen)
 - Garprogramme mit Gewichtsautomatik
+- I-Wave (gleichmäßige Erwärmung des Garguts durch dreidimensionale Mikrowellen)
 - Antibakteriell beschichteter Innenraum mit Easy Clean
 - Smart Inverter Technologie
 

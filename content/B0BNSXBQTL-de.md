@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Tri-Mode-Konnektivität: Spiele bis zu 119 Stunden lang mit 2,4-GHz-Frequenz mit niedriger Latenz, kopple bis zu drei Geräte über den Bluetooth-Modus oder lade und spiele mit kabelgebundenem USB
-- Klassischer Look, mit zusätzlicher Leichtigkeit: Die berühmte asymmetrische Ästhetik der Gladius-Serie, reduziert auf nur 79 Gramm
-- ROG SpeedNova Wireless-Technologie: Sie bietet eine niedrige Latenzzeit, eine zuverlässige drahtlose Leistung und eine optimierte Energielösung im 2,4-GHz-HF-Modus
 - Perfekte Präzision: optischer ROG AimPoint-Sensor mit 36.000 dpi, 650 ips und 50 g Beschleunigungsrate sowie 1000 Hz Polling-Rate
+- Klassischer Look, mit zusätzlicher Leichtigkeit: Die berühmte asymmetrische Ästhetik der Gladius-Serie, reduziert auf nur 79 Gramm
+- Tri-Mode-Konnektivität: Spiele bis zu 119 Stunden lang mit 2,4-GHz-Frequenz mit niedriger Latenz, kopple bis zu drei Geräte über den Bluetooth-Modus oder lade und spiele mit kabelgebundenem USB
 - Push-Fit-Schaltersockel II: Austauschbares Schalterdesign für einfache Anpassung; Gladius III Wireless AimPoint enthält ROG Micro Switches und ist mit anderen 3-poligen mechanischen und 5-poligen optischen Micro Switches kompatibel
+- ROG SpeedNova Wireless-Technologie: Sie bietet eine niedrige Latenzzeit, eine zuverlässige drahtlose Leistung und eine optimierte Energielösung im 2,4-GHz-HF-Modus
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BNSXBQTL{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lederdecksohle mit angenehmer Oberflächenstruktur
 - camel active Logopatch am Fersenband
-- Rutschfeste TPR-Sohle mit griffigem Profil
+- Lederdecksohle mit angenehmer Oberflächenstruktur
 - Flexibler Einstieg durch seitliche Stretch-Einsätze
+- Rutschfeste TPR-Sohle mit griffigem Profil
 - Glattleder-Obermaterial mit hoher Strapazierfähigkeit
 
 [🛒 Hier!!]({{< param buyurl >}})

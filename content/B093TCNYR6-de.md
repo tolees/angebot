@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Ergonomisch und intuitiv: optimale Werkzeugkontrolle durch hervorragende Balance, ergonomische Handauflage und Griff nahe am Werkstück
 - Lieferumfang: GEX 18V-125, Schleifteller (125mm), 1x Schleifpapier C430, Expert for Wood + Paint, 120 (auch separat im 5er Set erhältlich: 2 608 605 643), Staubbeutel
 - Schneller Arbeitsfortschritt und verlängerte Lebensdauer: dank bürstenlosem Motor und Bosch Professional 18V System
-- Ergonomisch und intuitiv: optimale Werkzeugkontrolle durch hervorragende Balance, ergonomische Handauflage und Griff nahe am Werkstück
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B093TCNYR6{{</world>}}

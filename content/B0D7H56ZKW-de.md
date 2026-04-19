@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Atemberaubende HD-2D-Grafik, welche die Welt zum Leben erweckt wie nie zuvor
 - Erkunde eine große Welt voller spannender Orte und unerwarteter Begegnungen
 - Rundenbasiertes Kampfsystem und Charaktere mit mehreren Berufungen
-- Atemberaubende HD-2D-Grafik, welche die Welt zum Leben erweckt wie nie zuvor
 - Erlebe einen zeitlosen Soundtrack und tauche damit in die Magie des DRAGON QUEST-Universums ein
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit dieser Maus immer obenauf: Dank elf vollständig programmierbaren Tasten einschließlich Mausrad-Neigung können Sie Ihre Spielweise mit leistungsstarken Makros oder Tastenneubelegungen anpassen.
 - Wireless-Akku mit bis zu 100 Stunden Laufzeit und Schnellaufladung: Spielen Sie bis zu 100 Stunden** lang mit einer einzigen Akkuladung. Nach nur 15 Minuten Ladezeit sind Sie wieder für 20 Stunden im Spiel. ** Über Bluetooth mit deaktivierter Hintergrundbeleuchtung.
-- Ultrapräziser optischer Sensor mit 26.000 DPI: Dank Tracking mit 26.000 DPI und 650 IPS sowie einer Beschleunigung von bis zu 50 G erfasst der optische CORSAIR MARKSMAN-Sensor selbst kleinste Mausbewegungen.
-- Paketinhalt: CORSAIR NIGHTSABRE WIRELESS Gaming Mouse | USB-Lade- und Datenkabel | USB Wireless Transceiver | Sicherheitsdatenblatt | Garantiekarte | CH-931B011-EU
+- Mit dieser Maus immer obenauf: Dank elf vollständig programmierbaren Tasten einschließlich Mausrad-Neigung können Sie Ihre Spielweise mit leistungsstarken Makros oder Tastenneubelegungen anpassen.
 - Power und Performance in Ihrer Hand: Kabellose Maus mit außerordentlicher, robuster, symmetrischer Form, mit der Sie für alle Herausforderungen in FPS, MOBA, Battle Royale und mehr gerüstet sind.
+- Paketinhalt: CORSAIR NIGHTSABRE WIRELESS Gaming Mouse | USB-Lade- und Datenkabel | USB Wireless Transceiver | Sicherheitsdatenblatt | Garantiekarte | CH-931B011-EU
+- Ultrapräziser optischer Sensor mit 26.000 DPI: Dank Tracking mit 26.000 DPI und 650 IPS sowie einer Beschleunigung von bis zu 50 G erfasst der optische CORSAIR MARKSMAN-Sensor selbst kleinste Mausbewegungen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CBVTZM9S{{</world>}}

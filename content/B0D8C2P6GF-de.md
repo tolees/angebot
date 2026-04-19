@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BE PART: Wir sind stolzes Mitglied der Better Cotton Initiative (BCI). Mit dem Kauf dieses Artikels unterstützt du einen nachhaltigeren Baumwollanbau.
 - Waschhinweis: Keine chemische Reinigung möglich, Trocknen im Trockner nicht möglich, Kein Bleichmittel erlaubt, Bei hoher Temperatur bügeln (200° C), Normalwaschgang bei max. 40°C
-- Aus weichem Single-Jersey-Stoff
-- T-Shirt mit großem Logo-Print auf der Vorderseite. Aus einem Single-Jersey-Stoff aus Baumwolle.
 - Passform: Regular Fit, Rückenlänge bei Größe L ca. 74 cm
+- T-Shirt mit großem Logo-Print auf der Vorderseite. Aus einem Single-Jersey-Stoff aus Baumwolle.
+- Aus weichem Single-Jersey-Stoff
+- BE PART: Wir sind stolzes Mitglied der Better Cotton Initiative (BCI). Mit dem Kauf dieses Artikels unterstützt du einen nachhaltigeren Baumwollanbau.
 - Kurzärmlig mit Rundhals-Ausschnitt, ideal für den Frühling, Herbst & Sommer
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

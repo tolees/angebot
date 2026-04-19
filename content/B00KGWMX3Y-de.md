@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kurzärmlig mit Rundhals-Ausschnitt
-- Aus weichem & pflegeleichtem Single-Jersey-Stoff aus Baumwolle
 - Passform: Regular Fit, Rückenlänge bei L ca. 74 cm
+- Aus weichem & pflegeleichtem Single-Jersey-Stoff aus Baumwolle
 - Basic T-Shirt in Unifarben im praktischen 2-er Pack. Aus einem Single-Jersey-Stoff aus Baumwolle.
 
 [🛒 Hier!!]({{< param buyurl >}})

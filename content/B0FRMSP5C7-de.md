@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Müheloses Styling: Die Sensoren dieses durchdachten Stylers halten das Gerät an, wenn zu viel Haar auf einmal hinzugefügt wird, und das offene Design verhindert, dass sich die Haare verfangen
-- Schutz vor Hitzeschäden: SenseIQ Sensoren erfassen die Haartemperatur und passen die Stylingwärme an, um vor Schäden zu schützen; bis zu 99 % der natürlichen Stärke des Haars bleiben so erhalten³
 - 1 Gerät, 5 Styles: Mit den 5 Styling-Einstellungen des verstellbaren Lockenstabs ist jeder gewünschte Style leicht zu erzielen – ob natürlicher Blowout, lockere Wellen oder schwungvolle Locken
 - Der beste Philips Haarstyler: Locken und Wellen den ganzen Tag dank einzigartiger 360°-Shaping-Technologie, die jede Strähne erhitzt; atemberaubende Styles für bis zu 12 Stunden¹
+- Schutz vor Hitzeschäden: SenseIQ Sensoren erfassen die Haartemperatur und passen die Stylingwärme an, um vor Schäden zu schützen; bis zu 99 % der natürlichen Stärke des Haars bleiben so erhalten³
 - Das Set beinhaltet: 1x Philips WavePro Styler, 1x Kosmetiktasche, 1x Reinigungszubehör
 - Mit AutoWrap in Sekunden gestylt: Einfach platzieren, drücken und loslassen, um in max. 10 Sekunden eine gestylte Strähne zu erhalten; 88 % der Anwender*innen sagen, AutoWrap ist sanft zu ihren Haaren
 

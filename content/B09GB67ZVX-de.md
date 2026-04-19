@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- * Siehe Fußnoten 1-15 auf der Epson EcoTank-Webseite.
-- Voller Funktionen - Dank des 3,7 cm großen LC-Display, dem automatischen Dokumenteneinzug für 30 Blatt, der Faxfunktion, der Papierkassette für 100 Blatt an der Rückseite und der Druckgeschwindigkeiten von bis zu 10 Seiten pro Minute* können Sie problemlos und schnell verschiedene Aufgaben erledigen.
-- Weiter sparen - Mit diesem sparsamen Drucker reduzieren Sie Ihre Tintenkosten um bis zu 90 %* - Im Lieferumfang enthalten ist ein Tintenvorrat für bis zu 3 Jahren* - Ein Tintenflaschensatz reicht für den Druck von bis zu 4,500 Seiten in Schwarzweiß und 7,500 Seiten in Farbe* - Das entspricht der beeindruckenden Zahl von bis zu 72 Tintenpatronen!*
 - Epson Smart Panel-App - Mit dieser App können Sie Ihren Drucker über Ihr Smart-Gerät bedienen* - Sie können Dokumente und Fotos drucken, kopieren und scannen, den Drucker einrichten und steuern sowie Fehler beheben – alles über Ihr Handy oder Tablet.
 - Moderne Flexibilität - Dank des kompakten Designs und der vollständigen Konnektivität über WLAN, Wi-Fi Direct und Ethernet können Sie diesen Drucker problemlos in Ihr Zuhause oder Büro integrieren und über Handys, Tablets und Laptops drucken*.
-- Heat-Free-Technologie - Aufgrund unserer zukunftsorientierten Micro Piezo Heat-Free Technology sind Epson Tintenstrahldrucker weniger wartungsintensiv, was die Anzahl der Benutzereingriffe reduziert - Zudem profitieren Sie von einem stark reduziertem Stromverbrauch - Der Druckkopf ist ebenfalls vorinstalliert, sodass der Drucker problemlos eingerichtet werden kann.
 - Endlich drucken ohne Patronen - EcoTank ermöglicht komfortables Drucken zu Hause - Die großvolumigen Tintentanks ermöglichen ein unkompliziertes Nachfüllen - Da die Tintenflaschen über ein Schlüssel-Schloss-Prinzip funktionieren, kann nur die jeweils richtige Tinte eingefüllt werden.
+- Voller Funktionen - Dank des 3,7 cm großen LC-Display, dem automatischen Dokumenteneinzug für 30 Blatt, der Faxfunktion, der Papierkassette für 100 Blatt an der Rückseite und der Druckgeschwindigkeiten von bis zu 10 Seiten pro Minute* können Sie problemlos und schnell verschiedene Aufgaben erledigen.
+- * Siehe Fußnoten 1-15 auf der Epson EcoTank-Webseite.
+- Heat-Free-Technologie - Aufgrund unserer zukunftsorientierten Micro Piezo Heat-Free Technology sind Epson Tintenstrahldrucker weniger wartungsintensiv, was die Anzahl der Benutzereingriffe reduziert - Zudem profitieren Sie von einem stark reduziertem Stromverbrauch - Der Druckkopf ist ebenfalls vorinstalliert, sodass der Drucker problemlos eingerichtet werden kann.
+- Weiter sparen - Mit diesem sparsamen Drucker reduzieren Sie Ihre Tintenkosten um bis zu 90 %* - Im Lieferumfang enthalten ist ein Tintenvorrat für bis zu 3 Jahren* - Ein Tintenflaschensatz reicht für den Druck von bis zu 4,500 Seiten in Schwarzweiß und 7,500 Seiten in Farbe* - Das entspricht der beeindruckenden Zahl von bis zu 72 Tintenpatronen!*
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09GB67ZVX{{</world>}}

@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Einfach zu fliegen: Starte und lande automatisch mit nur einem Knopfdruck. Headless-Modus und Höhenhaltung machen das Steuern intuitiv. Führe aufregende 360°-Flips aus oder steuere die Drohne mit einfachen Handgesten – für unterhaltsamen, freihändigen Betrieb.
 - Leistungsstark & stabiler Flug: Ausgestattet mit einem bürstenlosen Motor für kraftvolle, leise und langlebige Leistung. Optical-Flow-Positionierung gewährleistet stabiles Schweben und einen sanften Flug – auch in Innenräumen oder für Einsteiger.
-- Faltbares & tragbares Design: Die faltbaren Arme machen diese Drohne kompakt und besonders portabel. Einfach in deine Tasche packen für Reisen, Wanderungen oder jedes Outdoor-Abenteuer – immer startbereit in wenigen Momenten.
 - 1080P HD-Kamera & Echtzeit-FPV: Verfügt über eine 1080P HD-Kamera mit einem 90° verstellbaren Objektiv zur Aufnahme klarer Fotos und Videos aus verschiedenen Winkeln. Genieße eine Live-Übertragung per WiFi-FPV direkt auf dein Smartphone.
+- Faltbares & tragbares Design: Die faltbaren Arme machen diese Drohne kompakt und besonders portabel. Einfach in deine Tasche packen für Reisen, Wanderungen oder jedes Outdoor-Abenteuer – immer startbereit in wenigen Momenten.
 - Lange Flugzeit & komplettes Paket: Genieße bis zu 17 Minuten Flugzeit mit einer Ladung. Das Paket enthält alles, was du für den sofortigen Start benötigst – das perfekte Geschenk für Anfänger und Erwachsene.
 
 [🛒 Hier!!]({{< param buyurl >}})

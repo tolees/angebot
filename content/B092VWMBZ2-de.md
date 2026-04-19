@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Intelligente und automatische Bandauswahl im laufenden Betrieb: Drei Funkeinheiten für ein High-End WLAN mit bis zu 6.000 MBit/s (WLAN AX)
 - Innovatives und schnelles WiFi 6 ausgelegt für ein anspruchsvolles Heimnetz mit einer Vielzahl an gleichzeitig verwendeten WLAN-Endgeräten
+- Lieferumfang: FRITZ!Repeater 6000, Installationsanleitung, 1x Netzwerkkabel und 1x Netzteil
 - WLAN Mesh: Mehrere WLAN-Zugangspunkte werden zu einem WLAN-Netz mit optimaler Leistung zusammengefasst, kompatibel zu allen gängigen WLAN-Routern, einfache und sichere WLAN-Einrichtung per Knopfdrucküber WPS
 - Ultraschneller Gigabit-LAN-Anschluss für den Aufbau einer LAN-Brücke oder für Netzwerkgeräte ohne WLAN-Funktion
-- Lieferumfang: FRITZ!Repeater 6000, Installationsanleitung, 1x Netzwerkkabel und 1x Netzteil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B092VWMBZ2{{</world>}}

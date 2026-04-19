@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der schwarze runde Teekannen-Gussuntersetzer verfügt über vier rutschfeste Gummistandfüße
 - Der kleine matte genoppte Untersetzer für Teekannen besteht aus hochwertigem Gusseisen
+- Der schwarze runde Teekannen-Gussuntersetzer verfügt über vier rutschfeste Gummistandfüße
 - Die Noppenstruktur verleiht dem Teekannen-Untersetzer ein traditionell asiatisches Design
 
 [🛒 Hier!!]({{< param buyurl >}})

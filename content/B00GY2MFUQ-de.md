@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marke Beauty-Produkte UREADIN
 - Korrekturcreme und Anti-Imperfektionen
+- Marke Beauty-Produkte UREADIN
 - Marke Beauty-Produkte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

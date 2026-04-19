@@ -28,16 +28,16 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatzhöhe: 0 centimeters
-- not_water_resistant
-- Obermaterial: Leder
-- 15 centimeters
-- Sohle: Rubber
 - Fit: Geox-Schuhe haben eine bequeme Passform
-- Verschluss: Hook & Loop
+- Innenmaterial: Leather
+- Absatzhöhe: 0 centimeters
 - 8 centimeters
 - Absatzform: Flat
-- Innenmaterial: Leather
+- Sohle: Rubber
+- 15 centimeters
+- Obermaterial: Leder
+- Verschluss: Hook & Loop
+- not_water_resistant
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07M7FGYPT{{</world>}}

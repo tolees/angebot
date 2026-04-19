@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Strichstärke: 0,5mm
+- Mine für Druckbleistifte
 - Härtegrad: HB
 - Dose mit 12 Minen
-- Mine für Druckbleistifte
-- Strichstärke: 0,5mm
 - Stabile und elastische Hi-Polymer SUPER Mine
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

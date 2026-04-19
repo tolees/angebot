@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Offiziell lizenzierte Ware: Entdecken Sie ein neues Stück Merch für Ihre Sammlung mit unserer Auswahl an Sammlerstücken für Männer, Frauen, Fans, Kinder, Jungen und Mädchen, die den Spaß der Popkultur lieben
-- Drei Lichtmodi: Diese 21 cm (8 Zoll) hohe Leuchte verfügt über einen Ständer sowie die Lichtmodi Farbabstimmung, Farbauswahl und Musikreaktion. Stromversorgung über das mitgelieferte Micro-USB-Kabel oder 3 x AAA-Batterien (nicht im Lieferumfang enthalten)
-- PlayStation-Licht: Dekorieren Sie Ihr Spielzimmer, Ihre Männerhöhle oder Ihr Schlafzimmer mit dem PlayStation-Logo-Licht, das das ikonische Playstation-Logo zeigt. Es ist sowohl freistehend als auch an der Wand montierbar
 - Lustige Geschenke für lustige Leute: Für diejenigen, die coole Sachen und alles Geek, Verrückte und Einzigartige suchen, sind wir stolz darauf, die meistverkauften Spielzeuge, Tassen, Lighter, Dekorationen und Geschenke zu kreieren, die die Leute zum Lächeln bringen
+- PlayStation-Licht: Dekorieren Sie Ihr Spielzimmer, Ihre Männerhöhle oder Ihr Schlafzimmer mit dem PlayStation-Logo-Licht, das das ikonische Playstation-Logo zeigt. Es ist sowohl freistehend als auch an der Wand montierbar
+- Drei Lichtmodi: Diese 21 cm (8 Zoll) hohe Leuchte verfügt über einen Ständer sowie die Lichtmodi Farbabstimmung, Farbauswahl und Musikreaktion. Stromversorgung über das mitgelieferte Micro-USB-Kabel oder 3 x AAA-Batterien (nicht im Lieferumfang enthalten)
+- Offiziell lizenzierte Ware: Entdecken Sie ein neues Stück Merch für Ihre Sammlung mit unserer Auswahl an Sammlerstücken für Männer, Frauen, Fans, Kinder, Jungen und Mädchen, die den Spaß der Popkultur lieben
 - Ikonische Marke: PlayStation ist eine der Top-Gaming-Marken der Welt, deren Logo, Videospiele, Symbole, Konsole, Controller und Name für Spieler jeden Alters sofort erkennbar sind
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Der verlässliche und schnelle Helfer in der Werkstatt, der Bastelstube und im Haushalt: Für Bastelarbeiten und kleinere Reparaturen.
-- Komfortables Arbeiten mit dem ergonomischen Handgriff.
 - Inklusive Standarddüse, Flachdüse, Verlängerungsdüse und drei Heißklebestiften.
 - Mechanischer Vorschub und Klebestift-Führung mit Sichtfenster für präzises Auftragen.
+- Komfortables Arbeiten mit dem ergonomischen Handgriff.
 - Aufstellbügel für den sicheren Stand.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

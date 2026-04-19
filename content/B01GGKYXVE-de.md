@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnelles Laden und schnelle Datenübertragung: Unterstützt schnelles Laden bis zu 15 W (5 V, 3 A) und Datenübertragung mit einer Geschwindigkeit von bis zu 5 Gbit/s. Überschreite nicht die empfohlene Last (15 W, 5 V, 3 A). Eingeschränkte Ladegeschwindigkeit für PD-fähige Geräte
+- Mit einer eingeschränkten einjährigen Garantie von Amazon Basics
 - USB-IF-Zertifizierung, verbindet jeden USB-C-Stecker mit jedem USB-A-kompatiblen Gerät. Zur Stromübertragung, zum Aufladen von Smartphones, Powerbanks, für Wand- oder Autoladegeräte und Niederspannungsgeräte. Geeignet für Datenübertragung zwischen Smartphones, Tablets, Laptops, Festplatten und mehr
 - Lieferumfang: 1 x Adapterkabel, 14 cm, 15 W, USB-C (3.1, Gen. 1) auf USB-A, zur Übertragung von Daten, Fotos und Musik. Kompatibel mit USB 3.0 und USB 2.1
 - Kompaktes Design: Ein USB-C-Anschluss ist nur halb so breit und nur ein Drittel so hoch wie ein standardmäßiger USB-Typ-A-Anschluss (etwas größer als ein Lightning- oder ein Micro-USB-Anschluss)
-- Mit einer eingeschränkten einjährigen Garantie von Amazon Basics
+- Schnelles Laden und schnelle Datenübertragung: Unterstützt schnelles Laden bis zu 15 W (5 V, 3 A) und Datenübertragung mit einer Geschwindigkeit von bis zu 5 Gbit/s. Überschreite nicht die empfohlene Last (15 W, 5 V, 3 A). Eingeschränkte Ladegeschwindigkeit für PD-fähige Geräte
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01GGKYXVE{{</world>}}

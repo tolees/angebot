@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Niedrige Taille
-- Materialzusammensetzung: 50% Bio-Baumwolle, 28% Cotton - Traceable Better Cotton, 20% Recyelte Baumwolle, 2% Elasthan
-- Slim Fit
 - Chino Hose
+- Slim Fit
+- Materialzusammensetzung: 50% Bio-Baumwolle, 28% Cotton - Traceable Better Cotton, 20% Recyelte Baumwolle, 2% Elasthan
+- Niedrige Taille
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07JQB82SB{{</world>}}

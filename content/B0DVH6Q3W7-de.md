@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- hat ein Tape
-- der Ausschnitt ist rund, mit Stehkragen, die Kapuze ist abnehmbar
-- der Saum hat eine Naht
-- mit aufgesetzter Tasche, hat eine Brusttasche, hat einen Reißverschluss, mit Leistentasche, hat eine Innentasche, mit Pattentasche, mit langen Ärmeln
 - hat ein Futter aus Webware, mit Wattierung, hat ein Taftfutter, mit Fleecefutter, Webware
+- hat ein Tape
+- der Saum hat eine Naht
+- der Ausschnitt ist rund, mit Stehkragen, die Kapuze ist abnehmbar
+- mit aufgesetzter Tasche, hat eine Brusttasche, hat einen Reißverschluss, mit Leistentasche, hat eine Innentasche, mit Pattentasche, mit langen Ärmeln
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DVH6Q3W7{{</world>}}

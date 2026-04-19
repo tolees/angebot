@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- USB-UNTERSTÜTZUNG - Direkte Verbindung mit deinem Windows-PC, Mac oder Android-Gerät per USB-Kabel.
-- WLAN-UNTERSTÜTZUNG - Direkte Verbindung mit den speziellen Spielservern von Amazon per Cloud Direct-Technologie für ein Spielerlebnis mit niedriger Latenz.
-- FUNKTIONIERT MIT VIELEN DEINER GERÄTE – Geeignet für kompatible Windows-PCs, Macs, Fire TVs, Fire-Tablets, iPhones, iPads, Chromebooks, Android-Geräte und Smart-TVs von Samsung und LG.
-- NAHTLOSER ÜBERGANG VON GERÄT ZU GERÄT - Du kannst auf Luna dein Spiel auf einem Gerät pausieren und es direkt auf einem anderen Gerät fortsetzen.
-- PERFEKT FÜR GAMING - Versetzte Analogsticks, leicht zu erreichende Bumper, präzise Trigger, reaktionsschnelle Tasten und ein Steuerkreuz.
 - BLUETOOTH-UNTERSTÜTZUNG - Du kannst den Luna-Controller als Gamecontroller für alle Geräte mit Bluetooth-Unterstützung nutzen.
+- USB-UNTERSTÜTZUNG - Direkte Verbindung mit deinem Windows-PC, Mac oder Android-Gerät per USB-Kabel.
+- NAHTLOSER ÜBERGANG VON GERÄT ZU GERÄT - Du kannst auf Luna dein Spiel auf einem Gerät pausieren und es direkt auf einem anderen Gerät fortsetzen.
+- FUNKTIONIERT MIT VIELEN DEINER GERÄTE – Geeignet für kompatible Windows-PCs, Macs, Fire TVs, Fire-Tablets, iPhones, iPads, Chromebooks, Android-Geräte und Smart-TVs von Samsung und LG.
+- PERFEKT FÜR GAMING - Versetzte Analogsticks, leicht zu erreichende Bumper, präzise Trigger, reaktionsschnelle Tasten und ein Steuerkreuz.
 - FÜR AMAZON LUNA ENTWICKELT - Der Luna-Controller sorgt für ein optimales Spielerlebnis auf Luna, Amazons Cloud-Gaming-Dienst.
+- WLAN-UNTERSTÜTZUNG - Direkte Verbindung mit den speziellen Spielservern von Amazon per Cloud Direct-Technologie für ein Spielerlebnis mit niedriger Latenz.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D8LJWZPB{{</world>}}

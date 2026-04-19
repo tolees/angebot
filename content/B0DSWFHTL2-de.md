@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mach das Foto und sei selbst mit drauf. „Mich hinzufügen“ sorgt dafür, dass alle im Bild sind. Mach ein Foto von der Gruppe und tausche für ein weiteres mit einem anderen Fotografen. Pixel führt beide Fotos auf magische Weise zusammen.
-- Verwandle kleine Details in spektakuläre Bilder. Wenn du den Makrofokus verwendest, kannst du in lebendigen Farben und mit kräftigem Kontrast auch die kleinsten Details in Fotos und Videos hervorheben, zum Beispiel Regentropfen, Blumen oder Sprenkel.
 - Lebendige Farben. Nachhaltiges Design. Das Pixel 9a ist in den Farben Obsidian, Porcelain, Peony und Iris erhältlich, hat eine glatte Oberfläche und besteht zum Teil aus recycelten Materialien.
-- Der zuverlässige Akku für den ganzen Tag. Der intelligente Akku des Pixel 9a bietet mehr als 24 Stunden Laufzeit. Du brauchst noch mehr? Wenn du den Extrem-Energiesparmodus direkt nach dem Aufladen aktivierst, reicht der Akku bis zu 100 Stunden.
 - Unterstützung von Gemini – egal in welcher Google App. Mit Gemini kannst du in deinen Google Apps nach Informationen suchen und Angelegenheiten für dich erledigen lassen. So sparst du Zeit – Multitasking leicht gemacht.
+- Verwandle kleine Details in spektakuläre Bilder. Wenn du den Makrofokus verwendest, kannst du in lebendigen Farben und mit kräftigem Kontrast auch die kleinsten Details in Fotos und Videos hervorheben, zum Beispiel Regentropfen, Blumen oder Sprenkel.
+- Der zuverlässige Akku für den ganzen Tag. Der intelligente Akku des Pixel 9a bietet mehr als 24 Stunden Laufzeit. Du brauchst noch mehr? Wenn du den Extrem-Energiesparmodus direkt nach dem Aufladen aktivierst, reicht der Akku bis zu 100 Stunden.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DSWFHTL2{{</world>}}

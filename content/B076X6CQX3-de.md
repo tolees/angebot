@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Glattleder
 - Absatzform: Schnalle
+- Innenmaterial: Glattleder
 - Sohle: PU
 - Obermaterial: Glattleder
 

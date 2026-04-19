@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Tipp: Verlieren Sie die Kappe nicht, sondern befestigen Sie sie einfach auf der Rückseite des Laufwerks!
-- 1 Farbe pro Kapazität
-- Verpackungsgewicht: 14.0 Gramm
 - Taschenformat: 2, 24 x 0, 75 x 0, 35 Zoll
+- Tipp: Verlieren Sie die Kappe nicht, sondern befestigen Sie sie einfach auf der Rückseite des Laufwerks!
+- Verpackungsgewicht: 14.0 Gramm
+- 1 Farbe pro Kapazität
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00CXN88HO{{</world>}}

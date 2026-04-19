@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochwertige CHERRY MX LOW PROFILE SPEED Schalter: Schlagfertiges, schnelles und direktes Tippgefühl mit linearer Schaltcharakteristik (ohne Klick) und mehr als 100 Mio. Betätigungen je Taste
-- Entwickelt für professionellen E-Sport: Super schneller Gaming-Mode (Latenz unter 1 ms!), höhenverstellbare Gummifüße, Full-N-Key-Rollover, Anti-Ghosting + WIN-Key Sperre
 - Kabellose, trendige 65-Prozent-Tastatur mit intelligenter Ladetechnik: Arbeite oder spiele problemlos weiter, während das kleine Keyboard geladen wird (Aufladbar über USB-C Kabel)
+- Entwickelt für professionellen E-Sport: Super schneller Gaming-Mode (Latenz unter 1 ms!), höhenverstellbare Gummifüße, Full-N-Key-Rollover, Anti-Ghosting + WIN-Key Sperre
+- Hochwertige CHERRY MX LOW PROFILE SPEED Schalter: Schlagfertiges, schnelles und direktes Tippgefühl mit linearer Schaltcharakteristik (ohne Klick) und mehr als 100 Mio. Betätigungen je Taste
 - Lebendige RGB-Hintergrundbeleuchtung mit über 16 Mio. Farben: Zahlreiche integrierte Farbspiele und Lichteffekte (Individuell programmierbar mit der CHERRY UTILITY Software)
 - Absolut flexible Triple-Mode-Connection: Verbindung per Bluetooth, 2.4 GHz Funk und Kabel - bediene mehrere Geräte gleichzeitig und wechsle per Tastendruck hin und her
 

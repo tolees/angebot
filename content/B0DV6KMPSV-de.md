@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das kompakte und leichte spritzwassergeschützte, frost und staubdichte Metallgehäuse ist IP53-zertifiziert und sorgt für Zuverlässigkeit bei jedem Wetter - optimal sowohl für urbane Abenteuer als auch für Naturerkundungen
-- Präzise Aufnahmen aus der Hand auch bei langen Verschlusszeiten - mit bis zu 7.5 Blendenstufen Kompensation und der weltweit Bildstabilisierungstechnologie
 - Genieße kreative Freiheit mit dem Creative Dial, das einstellbare Farb und Monochromprofile bietet, dem Color Creator und den Kunstfiltern
+- Präzise Aufnahmen aus der Hand auch bei langen Verschlusszeiten - mit bis zu 7.5 Blendenstufen Kompensation und der weltweit Bildstabilisierungstechnologie
 - Nimm ganz einfach kreative 4K-Videos mit Zeitlupen und Zeitrafferfunktionen, OM Cinema 1 and 2 Videoprofilen und 10-Bit OM-Log400 Farbprofilen auf
 - Mit der CP-Taste erhalten Sie direkten Zugriff, um Ihre Bilder mit kamerainternen computergestützten Funktionen wie High Res Shot, Live ND, Live GND, Focus Stacking, HDR und Mehrfachbelichtung zu verbessern
+- Das kompakte und leichte spritzwassergeschützte, frost und staubdichte Metallgehäuse ist IP53-zertifiziert und sorgt für Zuverlässigkeit bei jedem Wetter - optimal sowohl für urbane Abenteuer als auch für Naturerkundungen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DV6KMPSV{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Marke Jack & Jones steht für modische Kleidung unabhängig der Altersklasse. Dieser Sweater verkörpert hochwertige Verarbeitung und einen zeitgemäßen Stil.
 - Alltagstauglich und modern. Egal ob auf der Arbeit, in der Freizeit, beim Sport oder im Urlaub. Perfekt geeignet für die kalte Jahreszeit, warm und kuschelig im Winter und Herbst.
-- Der Artikel ist normal geschnitten und besitzt eine Regular Passform. Geeignet für Maschinenwäsche bis 40 Grad. Nicht trocknergeeignet.
 - Regular Fit Kapuzenpullover für Jungen und Männer. Mit Logo Block Print auf der Brust. Elastische Rippbündchen als Abschluss der Körperpartie und Ärmel. Kapuze mit justierbarer Kordel.
+- Die Marke Jack & Jones steht für modische Kleidung unabhängig der Altersklasse. Dieser Sweater verkörpert hochwertige Verarbeitung und einen zeitgemäßen Stil.
+- Der Artikel ist normal geschnitten und besitzt eine Regular Passform. Geeignet für Maschinenwäsche bis 40 Grad. Nicht trocknergeeignet.
 - Erhältlich in denn Größen S, M, L, XL, XXL und Plus Size Größen 3XL, 4XL, 5XL, 6XL, 7XL und 8XL. Dieser Pullover ist in den Farben Grün, Blau, Beige und Navy zu haben.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

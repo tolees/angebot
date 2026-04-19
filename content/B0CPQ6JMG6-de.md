@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Länge des Artikelpakets: 330 mm
-- Höhe des Artikelpakets: 125 mm
-- Gewicht des Artikels und des Pakets: 0.25 kg
 - Breite des Artikelpakets: 205 mm
+- Gewicht des Artikels und des Pakets: 0.25 kg
+- Höhe des Artikelpakets: 125 mm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CPQ6JMG6{{</world>}}

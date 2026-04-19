@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Kartenwerfer (den Kartenwerfer nicht auf das Gesicht oder die Augen richten) dreht die Karten automatisch von der milden auf die wilde Seite um (oder umgekehrt).
-- Spieler drücken die Taste auf dem Kartenwerfer, wenn sie Karten ziehen müssen.
-- Die beidseitig bedruckten Karten werden von der milden auf die wilde Seite umgedreht, wenn eine Flip-Karte ausgespielt wird.
 - Wenn mit der wilden Seite gespielt wird, werden deutlich mehr Karten aus dem Kartenwerfer herausschießen bei der milden Seite.
+- Spieler drücken die Taste auf dem Kartenwerfer, wenn sie Karten ziehen müssen.
 - Das für 2 bis 10 Spieler ab 7 Jahren konzipierte Kartenspiel ist ein tolles Geschenk für Fans von UNO Flip und UNO Extreme.
+- Die beidseitig bedruckten Karten werden von der milden auf die wilde Seite umgedreht, wenn eine Flip-Karte ausgespielt wird.
+- Der Kartenwerfer (den Kartenwerfer nicht auf das Gesicht oder die Augen richten) dreht die Karten automatisch von der milden auf die wilde Seite um (oder umgekehrt).
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CQP6PLV4{{</world>}}

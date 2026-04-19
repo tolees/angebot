@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Maße: 43 cm x 40 cm x 52,5 cm I Geeignet für Kinder ab drei Jahren I Benötigte Batterien: 8 x R03-AAA - Nicht im Lieferumfang enthalten
-- Anlasser und Scheinwerfer zeigen an, wenn sie kaputt sind und lassen sich schnell wieder richten
 - Der Motorblock kann auseinandergenommen, wieder aufgebaut und repariert werden
 - Technikbegeisterte Kinder lernen an der Station geschickt mit Werkzeug umzugehen und schulen ihre Koordination
 - Montage-Spielzeug mit 15 interaktiven, lehrreichen Spielfunktionen zum Abschrauben, Überprüfen, Reparieren und wieder Zusammensetzen
+- Anlasser und Scheinwerfer zeigen an, wenn sie kaputt sind und lassen sich schnell wieder richten
+- Maße: 43 cm x 40 cm x 52,5 cm I Geeignet für Kinder ab drei Jahren I Benötigte Batterien: 8 x R03-AAA - Nicht im Lieferumfang enthalten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B003E42GJC{{</world>}}

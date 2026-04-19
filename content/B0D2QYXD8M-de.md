@@ -30,11 +30,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Lieferung ohne Akku – Die Einhell Professional Akku-Heckenschere GP-CH 18/61 Li BL-Solo wird ohne Power X-Change Akku und ohne Ladegerät geliefert. Diese sind separat erhältlich.
 - PurePOWER Brushless – Der wartungsarme, kraftvolle Brushless-Motor sorgt für maximale Leistung bei längerer Laufzeit.
-- Anti-Blockier-System – Mit diesem Sicherheitssystem wird versucht, Blockaden zu lösen. Dabei öffnen und schließen sich die Zähne und der eingeklemmte Ast wird durchtrennt.
 - Power X-Change – Die Einhell Professional Akku-Heckenschere GP-CH 18/61 Li BL-Solo ist Teil der Power X-Change Familie, in der Akkus und Systemgeräte kombiniert werden können.
 - Sicher verstaut – Für einen sicheren Transport und eine geschützte Lagerung der Akku-Heckenschere sorgt der stabile Schutzköcher.
-- Hochwertige Messer – Saubere Schnitte gelingen dank der lasergeschnittenen, diamantgeschliffenen Messer mit 61 cm Schnittlänge und einem Zahnabstand von 26 mm.
 - Optimale Handhabung – Mit der 2,9 kg leichten Heckenschere werden dank drehbarem hinteren Handgriff und schmalem Frontgriff auch umfangreiche Heckenschnitte zum Kinderspiel.
+- Hochwertige Messer – Saubere Schnitte gelingen dank der lasergeschnittenen, diamantgeschliffenen Messer mit 61 cm Schnittlänge und einem Zahnabstand von 26 mm.
+- Anti-Blockier-System – Mit diesem Sicherheitssystem wird versucht, Blockaden zu lösen. Dabei öffnen und schließen sich die Zähne und der eingeklemmte Ast wird durchtrennt.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D2QYXD8M{{</world>}}

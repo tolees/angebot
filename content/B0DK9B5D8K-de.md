@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verbindung über WLAN – Der Luna-Controller verbindet sich per Cloud-Direct-Technologie direkt mit den Luna-Servern und ermöglicht so ein Spielerlebnis mit geringer Latenz.
-- Dieses Bundle besteht aus einem Fire TV Stick 4K Max und einem Luna-Controller – der Starter-Pack für Amazons Spiele-Streaming-Dienst Luna. (Prime- oder Luna-Abonnement erforderlich. Abonnements separat erhältlich.)
-- Abonniere Luna+ oder die Ubisoft- oder Jackbox-Spielebibliothek und erhalte Zugriff auf eine stetig wachsende Menge an Spielen aus allen Genres. (Abonnements separat erhältlich.)
-- Prime-Mitglieder können ohne zusätzliche Kosten Fortnite und eine monatlich wechselnde Spieleauswahl spielen.
-- Verbindung über Bluetooth – Der Luna-Controller kann auf kompatiblen Geräten als herkömmlicher schnurloser Controller genutzt werden.
 - Lade die Luna-App auf dein Fire TV-Gerät herunter und spiel deine Lieblingsspiele direkt in der Cloud. Vollkommen ohne Spielkonsole.
+- Verbindung über WLAN – Der Luna-Controller verbindet sich per Cloud-Direct-Technologie direkt mit den Luna-Servern und ermöglicht so ein Spielerlebnis mit geringer Latenz.
+- Verbindung über Bluetooth – Der Luna-Controller kann auf kompatiblen Geräten als herkömmlicher schnurloser Controller genutzt werden.
+- Prime-Mitglieder können ohne zusätzliche Kosten Fortnite und eine monatlich wechselnde Spieleauswahl spielen.
+- Abonniere Luna+ oder die Ubisoft- oder Jackbox-Spielebibliothek und erhalte Zugriff auf eine stetig wachsende Menge an Spielen aus allen Genres. (Abonnements separat erhältlich.)
+- Dieses Bundle besteht aus einem Fire TV Stick 4K Max und einem Luna-Controller – der Starter-Pack für Amazons Spiele-Streaming-Dienst Luna. (Prime- oder Luna-Abonnement erforderlich. Abonnements separat erhältlich.)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DK9B5D8K{{</world>}}

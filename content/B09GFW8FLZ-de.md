@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Moderne Flexibilität - Dank des kompakten Designs und der vollständigen Konnektivität über WLAN und Wi-Fi Direct können Sie diesen Drucker problemlos in Ihr Zuhause integrieren und über Handys, Tablets und Laptops drucken*.
-- Endlich drucken ohne Patronen - EcoTank ermöglicht komfortables Drucken zu Hause - Die großvolumigen Tintentanks ermöglichen ein unkompliziertes Nachfüllen - Da die Tintenflaschen über ein Schlüssel-Schloss-Prinzip funktionieren, kann nur die jeweils richtige Tinte eingefüllt werden.
+- Voller Funktionen - Dank der Farb-LCD-Anzeige mit 3,7 cm, des automatischen beidseitigen Drucks, des randlosen Fotodrucks und Druckgeschwindigkeiten von bis zu 10,5 Seiten pro Minute*, können Sie problemlos und schnell verschiedene Aufgaben erledigen.
+- * Siehe Fußnoten 1-15 auf der Epson EcoTank-Webseite.
+- Heat-Free-Technologie - Aufgrund unserer zukunftsorientierten Micro Piezo Heat-Free Technology sind Epson Tintenstrahldrucker weniger wartungsintensiv, was die Anzahl der Benutzereingriffe reduziert. Zudem profitieren Sie von einem stark reduziertem Stromverbrauch. Der Druckkopf ist ebenfalls vorinstalliert, sodass der Drucker problemlos eingerichtet werden kann.
 - Weiter sparen - Mit diesem sparsamen Drucker reduzieren Sie Ihre Tintenkosten um bis zu 90 %* - Im Lieferumfang enthalten ist eine zusätzliche Tintenflasche (Schwarz) für einen Tintenvorrat für bis zu 3 Jahren* - Ein Tintenflaschensatz reicht für den Druck von bis zu 14,000 Seiten in Schwarzweiß und 5,200 Seiten in Farbe* - Das entspricht der beeindruckenden Zahl von bis zu 72 Tintenpatronen!*
 - Epson Smart Panel-App - Mit dieser App können Sie Ihren Drucker über Ihr Smart-Gerät bedienen* - Sie können Dokumente und Fotos drucken, kopieren und scannen, Ihren Drucker einrichten und steuern, Fehler beheben und Ihrer Kreativität dank einer Vielzahl von Vorlagen freien Lauf lassen.
-- Heat-Free-Technologie - Aufgrund unserer zukunftsorientierten Micro Piezo Heat-Free Technology sind Epson Tintenstrahldrucker weniger wartungsintensiv, was die Anzahl der Benutzereingriffe reduziert. Zudem profitieren Sie von einem stark reduziertem Stromverbrauch. Der Druckkopf ist ebenfalls vorinstalliert, sodass der Drucker problemlos eingerichtet werden kann.
-- * Siehe Fußnoten 1-15 auf der Epson EcoTank-Webseite.
-- Voller Funktionen - Dank der Farb-LCD-Anzeige mit 3,7 cm, des automatischen beidseitigen Drucks, des randlosen Fotodrucks und Druckgeschwindigkeiten von bis zu 10,5 Seiten pro Minute*, können Sie problemlos und schnell verschiedene Aufgaben erledigen.
+- Endlich drucken ohne Patronen - EcoTank ermöglicht komfortables Drucken zu Hause - Die großvolumigen Tintentanks ermöglichen ein unkompliziertes Nachfüllen - Da die Tintenflaschen über ein Schlüssel-Schloss-Prinzip funktionieren, kann nur die jeweils richtige Tinte eingefüllt werden.
+- Moderne Flexibilität - Dank des kompakten Designs und der vollständigen Konnektivität über WLAN und Wi-Fi Direct können Sie diesen Drucker problemlos in Ihr Zuhause integrieren und über Handys, Tablets und Laptops drucken*.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09GFW8FLZ{{</world>}}

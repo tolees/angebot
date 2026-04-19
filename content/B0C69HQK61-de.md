@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Handliche, robuste und vielseitig einsetzbare Handlampe mit Ein/Aus Schalter sorgt für leistungsstarkes Licht an dunklen Orten dank hochwertiger COB LED
-- Die LED Arbeitsleuchte mit 200lm und einer Leuchtdauer von bis zu 12h verfügt über insgesamt fünf verschiedene Arbeitsmodi: 100% - 40% - 10% - rot - rot blinken
-- Akku LED Taschenlampe PL 200 AC mit integriertem Akku und 1x USB C Kabel - ideal für die Hemd- oder Jackentasche
 - Die wiederaufladbare Werkstattlampe mit integriertem Akku (Li-Pol-Akku 3,7V / 450mAh) eignet sich ideal für die Ausleuchtung engster Stellen, dank dem schmalen und handlichen Design
+- Akku LED Taschenlampe PL 200 AC mit integriertem Akku und 1x USB C Kabel - ideal für die Hemd- oder Jackentasche
+- Die LED Arbeitsleuchte mit 200lm und einer Leuchtdauer von bis zu 12h verfügt über insgesamt fünf verschiedene Arbeitsmodi: 100% - 40% - 10% - rot - rot blinken
 - Die Inspektionsleuchte mit COB LED und USB C-Port kann dank praktischem Clip z. B. an Taschen oder Gürtel angebracht werden, zudem lässt sie sich dank Magnet im Fuß an Metalloberflächen anbringen
 
 [🛒 Hier!!]({{< param buyurl >}})

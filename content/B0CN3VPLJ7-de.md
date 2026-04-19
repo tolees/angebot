@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Praktischer, durchgehender Reißverschluss, 2 Reißverschluss-Taschen für warme, sichere Hände
 - Verstellbarer Kordelzug am Saum für maximalen Tragekomfort, Elastische Bündchen für hervorragende Wärmespeicherung
+- Praktischer, durchgehender Reißverschluss, 2 Reißverschluss-Taschen für warme, sichere Hände
 - Lieferumfang: 1x Columbia Herren Kapuzenjacke, Powder Lite II, Farbe: Blau (Collegiate Navy), Größe: M, Art. 2086944
 - Besonders warmhaltend dank Omni-Heat mit wärmereflektierendem Futter, Thermarator-Isolierung für optimalen Schutz vor Wind und Wetter
 - Wasserabweisende Winterjacke für Herren, Ideal für kalte Wintertage in der Stadt, beim Wandern und bei anderen Outdoor-Aktivitäten, Moderne Passform

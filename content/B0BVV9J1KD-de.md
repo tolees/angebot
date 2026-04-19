@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Jeden Tag eine coole Herausforderung: Ob Glitzerpulver, Wäscheklammern oder Watte - hier staunen alle, was man damit machen kann!
-- Die ultimative Advents-Challenge: 24 lustige Experimente mit verblüffenden Aha-Effekten, speziell konzepiert für Kinder ab 8 Jahren. Naturwissenschaften ganz neu erleben – experimentiere wie Checker Tobi!
-- Obst mumifizieren, Wasser stapeln oder Eiswürfel mit Salz angeln: Das ausführliches Handbuch zeigt ganz genau, wie es geht und checkt natürlich auch, welche faszinierende Naturgesetze hinter den Versuchen stecken
-- Die spannenden Experimente zu Mechanik, Aerodynamik, Chemie, optischen Täuschungen, Natur und Umwelt fördern ganz nebenbei Konzentrationsfähigkeit, Feinmotorik, logisches Denken und das Erkennen von Zusammenhängen.
 - Plastik? Nö! Hier gibt’s 24 Papp-Boxen statt Plastik-Verpackungen und sorgfältig ausgewählte Inhalte vor allem aus Pappe, Holz und Papier. Das freut die Umwelt!
+- Die spannenden Experimente zu Mechanik, Aerodynamik, Chemie, optischen Täuschungen, Natur und Umwelt fördern ganz nebenbei Konzentrationsfähigkeit, Feinmotorik, logisches Denken und das Erkennen von Zusammenhängen.
+- Obst mumifizieren, Wasser stapeln oder Eiswürfel mit Salz angeln: Das ausführliches Handbuch zeigt ganz genau, wie es geht und checkt natürlich auch, welche faszinierende Naturgesetze hinter den Versuchen stecken
+- Die ultimative Advents-Challenge: 24 lustige Experimente mit verblüffenden Aha-Effekten, speziell konzepiert für Kinder ab 8 Jahren. Naturwissenschaften ganz neu erleben – experimentiere wie Checker Tobi!
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BVV9J1KD{{</world>}}

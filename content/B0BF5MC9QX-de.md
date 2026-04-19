@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langlebige Leistung: Eine Batterielebensdauer von mehr als 1 Jahr bietet langanhaltenden Komfort. Erhalten Sie Benachrichtigungen von der Tapo-App, wenn die Batterien schwach sind und gewechselt werden müssen. *Basierend auf unseren Tests mit 60 Triggern pro Tag, insgesamt 22.000 Triggern.[1 * CR2032-Batterie ist im Paket enthalten]
 - Sofortige Push-Benachrichtigungen: Erhalten Sie sofortige Benachrichtigungen auf Ihrem Telefon, wenn eine Tür oder ein Fenster unerwartet geöffnet wird. Der Hub kann eine Sirene ertönen lassen, um vor Gefahren zu warnen und Eindringlinge abzuschrecken.
-- Licht automatisch einschalten: Stellen Sie Ihren Smart Contact Sensor so ein, dass er das Licht einschaltet, wenn Sie Ihre Tür öffnen. Kann mit Tapo-Glühbirne, LED Streifen und WLAN Steckdose verwendet werden.
+- Langlebige Leistung: Eine Batterielebensdauer von mehr als 1 Jahr bietet langanhaltenden Komfort. Erhalten Sie Benachrichtigungen von der Tapo-App, wenn die Batterien schwach sind und gewechselt werden müssen. *Basierend auf unseren Tests mit 60 Triggern pro Tag, insgesamt 22.000 Triggern.[1 * CR2032-Batterie ist im Paket enthalten]
 - Hören Sie auf, sich zu fragen, ob Sie alle Ihre Fenster geschlossen haben, nachdem Sie das Haus verlassen haben. Überprüfen Sie Ihre Türen und Fenster auf einen Blick mit der Tapo-App. [Muss mit Tapo H100 Hub verwendet werden]
 - Tapo T110 verwendet dieselbe App wie andere Tapo-Geräte. Schaffen Sie einen sichereren, bequemeren und komfortableren Wohnraum für sich und Ihre Lieben
+- Licht automatisch einschalten: Stellen Sie Ihren Smart Contact Sensor so ein, dass er das Licht einschaltet, wenn Sie Ihre Tür öffnen. Kann mit Tapo-Glühbirne, LED Streifen und WLAN Steckdose verwendet werden.
 - Einfache Installation: Platzieren Sie es mit unserer werkzeuglosen Installation, wo immer Sie es brauchen. Der Abstand zwischen Sensor und Magnet (bis zu 15 mm) passt zu den meisten Türen, Fenstern und anderen Vorrichtungen.
 
 [🛒 Hier!!]({{< param buyurl >}})
