@@ -1,0 +1,40 @@
+---
+layout: post
+title: 'LEGO Ideas Dungeons & Dragons: Die Sage vom Roten Drachen Bauset für Erwachsene Dungeons and Dragons Geschenkideen für Fans Fantasy-Bauset kreative Aktivität 21348'
+date: 2026-03-16 13:50:28
+image: 'https://m.media-amazon.com/images/I/51iU-FIng7L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CY9XSQW6-de LEGO Ideas Dungeons & Dragons: Die Sage vom Roten Drachen...'
+sku: 'B0CY9XSQW6-de'
+tags: [ '🇩🇪', ]
+actualPrice: 305.95 EUR
+currency: EUR
+price: 305.95
+comparePrice: 359.99 EUR
+prodname: 'LEGO Ideas Dungeons & Dragons: Die Sage vom Roten Drachen Bauset für Erwachsene Dungeons and Dragons Geschenkideen für Fans Fantasy-Bauset kreative Aktivität 21348'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B0CY9XSQW6/?tag=tolees0ca-21'
+descuento: '15.01'
+average: '329.262000000001'
+---
+
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Baubares D&D Abenteuer: Suche nach magischen Items, entdecke Easter Eggs und hüte dich vor den Fallen und Zunderheuler dem Roten Drachen, während du die Taverne, den Turm und das Verlies erkundest
+- Erste Wahl der LEGO Fans: Dieses LEGO Set zum Sammeln gehört zu einer ganzen Reihe von LEGO Ideas Sets für Erwachsene, die von einem Fandesigner entworfen, von den LEGO Fans ausgewählt und dann von der LEGO Gruppe hergestellt werden
+- Geschenk für erwachsene Fans: Dungeons & Dragons: Die Sage vom Roten Drachen ist das allererste LEGO Modell aus Forgotten Realms. Mit diesem Set aus LEGO Steinen kannst du eigene Fantasy-Abenteuer darstellen
+- Nostalgische Geschenkidee: Dieses LEGO Ideas Set ist eine tolle Belohnung für dich selbst oder eine fantastische Geschenkidee für andere kreative Erwachsene, die sich genau wie du für DUNGEONS & DRAGONS Abenteuer begeistern
+- Zusammen mit Wizards of the Coast entwickelte Kampagne: Lade dir die spielbare Kampagne herunter, die in Zusammenarbeit mit den weltbekannten Wizards of the Coast eigens für dieses kreative Bauset entwickelt wurde
+- Geheimnisvolle Fabelwesen: LEGO Minifiguren, beispielsweise ein Elfenzauberer, eine Gnomenkämpferin, ein Zwergkleriker, ein Ork-Räuber und der Drachengeborene Alax Jadeschuppe sowie Monster wie ein Eulenbär und ein Betrachter laden zum Spielen ein
+- Gemeinsames Bauerlebnis: 4 Broschüren liegen bei, die neben einem Interview mit dem Fandesigner dieses Drachen-Sammelobjekts auch Bauanleitungen für unterschiedliche Teile des Sets enthalten, damit du das Set mit deiner D&D Gruppe bauen kannst
+
+[🛒 kauf es hier!!]({{< param buyurl >}})
+{{<world>}}B0CY9XSQW6{{</world>}}

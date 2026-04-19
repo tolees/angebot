@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Anker 240W USB C Kabel [2 Stück 1 8m] PD 3.1 Schnellladekabel USB C auf USB C Kabel USB C Ladekabel für iPhone 17 Pro Max/iPhone Air/16/15 Serie Samsung Galaxy S25/S24 MacBook Pro/Air iPad Pro'
+date: 2026-04-02 07:01:49
+image: 'https://m.media-amazon.com/images/I/3120XhuJrbL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FQHX3RLD-de Anker 240W USB C Kabel [2 Stück 1 8m] PD 3.1...'
+sku: 'B0FQHX3RLD-de'
+tags: [ '🇩🇪', ]
+actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
+comparePrice: 19.99 EUR
+prodname: 'Anker 240W USB C Kabel [2 Stück 1 8m] PD 3.1 Schnellladekabel USB C auf USB C Kabel USB C Ladekabel für iPhone 17 Pro Max/iPhone Air/16/15 Serie Samsung Galaxy S25/S24 MacBook Pro/Air iPad Pro'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B0FQHX3RLD/?tag=tolees0ca-21'
+descuento: '45.02'
+average: '10.99'
+---
+
+Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Schlanker, flacher Stecker: Der Stecker verfügt über ein 5,8mm flaches Profil und lädt dein Handy selbst mit Hülle problemlos auf
+- Flexibel und robust: Die Oberfläche des Kabels bietet eine angenehm weiche Haptik, die über 10.000 Biegungen standhält
+- Full-Speed Laden mit 240W: Lade dein MacBook Pro 16" (M3) auf 50% in nur 25 Minuten und dein iPad Pro 13" (M4) in nur 48 Minuten. Darüber hinaus ist dieses Kabel für eine Vielzahl anderer leistungsstarker Geräten geeignet
+- Schmutzabweisendes Kabel im Unibody-Design: Das stylische Unibody-Design wird durch eine schmutzabweisende Beschichtung ergänzt, die Verschmutzungen vorbeugt und für eine saubere Optik sorgt
+- Lieferumfang: Anker USB C auf USB C Kabel (1,8m, 240W, geflochten), Kurzanleitung, 24-monatige Garantie und unser freundlicher Kundenservice
+
+[🛒 Hier!!]({{< param buyurl >}})
+{{<world>}}B0FQHX3RLD{{</world>}}
