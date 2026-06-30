@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- QUALITÄT: Die Dremel Fräser sind sehr verschleißarm aufgrund der Härte des Wolfram Karbids und somit auch beispielsweise als Hartmetallfräser oder Holzfräser geeignet
-- TECHNISCHE DATEN: Schaftdurchmesser: 3,2 mm; Arbeitsdurchmesser: 3,2 mm; Höchstdrehzahl: 30000 1/min
 - Lieferumfang: Passt zu allen Dremel Multi-/Rotationswerkzeugen oder anderen Multi-/Rotationswerkzeugen mit 3,2 mm Schaftgröße.
+- TECHNISCHE DATEN: Schaftdurchmesser: 3,2 mm; Arbeitsdurchmesser: 3,2 mm; Höchstdrehzahl: 30000 1/min
 - ANWENDUNG: Das Dremel Fräserset ist für eine vielzahl an Materialen geeignet, wie gehärtetem Stahl, Edelstahl, Gusseisen, Nichteisenmetalle, gebrannten Ton, Hartholz und andere Hartmaterialien
+- QUALITÄT: Die Dremel Fräser sind sehr verschleißarm aufgrund der Härte des Wolfram Karbids und somit auch beispielsweise als Hartmetallfräser oder Holzfräser geeignet
 - MATERIAL: Die Dremel Fräser besitzten besonders scharfe Zähne für schnellen Fortschritt und hohen Materialabtrag
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

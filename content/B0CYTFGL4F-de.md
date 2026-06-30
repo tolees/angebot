@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reguläre Passform
-- Gummiaußensohle
-- Schnürsenkel
 - Cloudfoam Zwischensohle
-- Obermaterial aus Mesh
-- Textilfutter
+- Reguläre Passform
+- Schnürsenkel
 - Hergestellt mit mindestens 20 % recyceltem Material
+- Textilfutter
+- Gummiaußensohle
+- Obermaterial aus Mesh
 - TPU-Cage; Fersenkappe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

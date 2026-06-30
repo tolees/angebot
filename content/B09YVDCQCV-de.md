@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Offiziell lizenziertes Minecraft Produkt
-- Hergestellt aus recyceltem Kunststoff - besser für die Umwelt.
 - Ideal für Mittagessen und Snacks für Schule, Arbeit oder Kindergarten.
 - Hochwertige Materialien: Recycelte Plastikflaschen, Folie, EPE-Schaum und Polypropylen-Gurtband Griffe
+- Offiziell lizenziertes Minecraft Produkt
+- Hergestellt aus recyceltem Kunststoff - besser für die Umwelt.
 - Das perfekte Geschenk für Minecraft-Liebhaber oder für den Schulanfang.
 
 [🛒 Hier!!]({{< param buyurl >}})

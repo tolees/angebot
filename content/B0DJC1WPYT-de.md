@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Leder und Mischmaterial
 - Schnürverschluss
+- Obermaterial aus Leder und Mischmaterial
 - Gummi-Außensohle
 
 [🛒 Hier!!]({{< param buyurl >}})

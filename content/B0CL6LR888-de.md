@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kompakte GaN-Technologie: Der Power Adapter ist bis zu 40% kleiner und energieeffizienter als herkömmliche Netzteile; spart Stromkosten und passt perfekt in Reisetaschen und Rucksäcke
 - Drei Anschlüsse für maximale Flexibilität: Zwei USB-C-Ports und ein USB-A-Port ermöglichen gleichzeitiges Laden mehrerer Geräte – perfekt für Multitasking im Alltag.
-- Schnellladen dank PD 3.0, PPS und QC 4.0: Gleichzeitiges Laden von drei Geräten mit 65 Watt Gesamtleistung; 2xUSB-C und 1xUSB-A Anschluss für Smartphones, Tablets und Laptops ohne Geschwindigkeitsverlust.
 - Energieeffizient & umweltfreundlich: Durchschnittliche Effizienz von über 91 % und sehr geringer Stromverbrauch im Leerlauf. Qualitätsgeprüftes Intenso-Produkt mit EU-Stecker (100–240 V) – kompakt, langlebig und alltagstauglich.
+- Kompakte GaN-Technologie: Der Power Adapter ist bis zu 40% kleiner und energieeffizienter als herkömmliche Netzteile; spart Stromkosten und passt perfekt in Reisetaschen und Rucksäcke
 - Geprüfte Qualität aus Deutschland: In Deutschland getestet und nach höchsten Qualitätsstandards gefertigt – für maximale Sicherheit, Langlebigkeit und Kundenzufriedenheit.
+- Schnellladen dank PD 3.0, PPS und QC 4.0: Gleichzeitiges Laden von drei Geräten mit 65 Watt Gesamtleistung; 2xUSB-C und 1xUSB-A Anschluss für Smartphones, Tablets und Laptops ohne Geschwindigkeitsverlust.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CL6LR888{{</world>}}

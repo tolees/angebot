@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Brand: Hummel
+- Futter: Textil
 - Extras: default
 - Laufsohle: Gummi
 - Gattung: Sneaker
-- Futter: Textil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D5D4NFYZ{{</world>}}

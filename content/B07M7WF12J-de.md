@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- KONZIPIERT FÜR KINDERHÄNDE UND KINDLICHE FÄHIGKEITEN: Alle Bestandteile und Werkzeuge sind für Kinderhände und deren Fähigkeiten konzipiert; Sicherheit für Kinderhände und -finger durch abgerundete Ecken
 - 79-TEILIG, MEHR ALS 15 EXPERIMENTE UND KREATIONEN: Führe verrückte Experimente durch und baue Geräte wie einen Bagger, eine Bildertrommel, ein Fahrzeug mit Schwerkraftantrieb, ein rotierendes Licht, ein Windrad und vieles mehr; Die kleinen Forscher können ihrer Kreativität mit Hilfe der 79 Einzelteile freien Lauf lassen
-- EINFÜRHUNG IN DIE WELT DER PHYSIK: Die Werkbank führt Kinder in die Wissenschaften ein und eröffnet ihnen die Welt der Physik; Die Experimente lehren die kleinen Tüftler die grundlegenden physikalischen Prinzipien
 - WECKT DIE NEUGIERDE: Wie kann der Frosch zwischen den Tischen hin- und herspringen? Wie kommen die sich bewegenden Bilder in die Bildertrommel? Durch die kreativen Experimente wird die kindliche Neugierde geweckt
-- FÖRDERUNG DER STEAM/MINT-FÄHIGKEITEN: Die Tüftler Werkbank ist sehr gut geeignet, um das logische Denken von Kindern zu fördern sowie ein Verständnis für die STEAM/MINT-Prinzipien, also Mathematik, Informatik, Naturwissenschaften, Kunst und Technik zu schaffen
+- KONZIPIERT FÜR KINDERHÄNDE UND KINDLICHE FÄHIGKEITEN: Alle Bestandteile und Werkzeuge sind für Kinderhände und deren Fähigkeiten konzipiert; Sicherheit für Kinderhände und -finger durch abgerundete Ecken
 - KNOW-HOW-APP: Um Kindern den Einstieg zu erleichtern, hat Hape eine „Know-How-App“ mit Schritt-für-Schritt-Anleitungen und detaillierten Anweisungen entwickelt
+- EINFÜRHUNG IN DIE WELT DER PHYSIK: Die Werkbank führt Kinder in die Wissenschaften ein und eröffnet ihnen die Welt der Physik; Die Experimente lehren die kleinen Tüftler die grundlegenden physikalischen Prinzipien
+- FÖRDERUNG DER STEAM/MINT-FÄHIGKEITEN: Die Tüftler Werkbank ist sehr gut geeignet, um das logische Denken von Kindern zu fördern sowie ein Verständnis für die STEAM/MINT-Prinzipien, also Mathematik, Informatik, Naturwissenschaften, Kunst und Technik zu schaffen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07M7WF12J{{</world>}}

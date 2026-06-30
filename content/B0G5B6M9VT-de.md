@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Glutenfrei Ohne Knoblauch Basilikum aus nachhaltiger Landwirtschaft (mehr dazu auf Cartadelbasilico.com) Zart-milchiger Geschmack mit dezent süßer Note Cremige Textur
-- Die folgenden Informationen gelten für jede Einheit pro Packung
 - 100% italienisches Basilikum trifft auf den zart-milchigen Geschmack von Mozzarella di Bufala Campana DOP in einem cremigen Pesto mit dezent süßer Note. Verleihe deinen Rezepten einen unwiderstehlichen Geschmack mit zwei ikonischen Zutaten der italienischen Küche!
 - Barilla Pesto Mozzarella kannst du mit den verschiedensten Pasta-Formen kombinieren. Probiere es z.B. mit Barilla Linguine oder Barilla Tortiglioni Rigati. Bringe ganz einfach die köstliche Süße und Cremigkeit von Mozzarella di Bufala auf dein Gericht: Das Pesto einfach ohne Erhitzen mit der Pasta vermengen- fertig. Alle Barilla-Pesti eignen sich auch hervorragend zum Würzen von Brot, Pizza, Fleisch oder Fisch.
+- Die folgenden Informationen gelten für jede Einheit pro Packung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0G5B6M9VT{{</world>}}

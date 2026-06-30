@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mini-folienrasieraufsatz, detail-trimmer für ein präzises Styling (0, 2 mm)
-- 4 abwaschbare Aufsteckköpfe: breiter Trimmer, linearer Trimmer für Nasen- und ohrenhaare
-- Akkubetrieb, bis zu 40 Minuten Betriebszeit, Ladekontrollanzeige
 - 1 verstellbarer Aufsteckkamm (2-20 mm), 5 Aufsteckkämme (1, 5, 3, 6, 9, 12 mm)
 - Titanbeschichtete, selbstschärfende Klingen
+- Akkubetrieb, bis zu 40 Minuten Betriebszeit, Ladekontrollanzeige
+- 4 abwaschbare Aufsteckköpfe: breiter Trimmer, linearer Trimmer für Nasen- und ohrenhaare
+- Mini-folienrasieraufsatz, detail-trimmer für ein präzises Styling (0, 2 mm)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B013U9RSH0{{</world>}}

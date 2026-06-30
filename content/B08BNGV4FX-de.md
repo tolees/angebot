@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 4er Pack
-- Rollen: 90mm
 - Härte: 85A
+- Rollen: 90mm
+- 4er Pack
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08BNGV4FX{{</world>}}

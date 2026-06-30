@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- PLATINUM-ZERTIFIZIERTE ENERGIEEFFIZIENZ: Das Rebel P20 SFX ist mit einer Gesamteffizienz von mindestens 89 % (115 V) bzw. 91 % (230 V) sowie einem 5 VSB-Wirkungsgrad von 76 % vom unabhängigen Labor Cybenetics mit dem PlatinumZertifikat ausgezeichnet worden.
+- EINWANDFREIER BETRIEB: Für einen einwandfreien Betrieb werden beim Rebel P20 SFX ausschließlich japanische Kondensatoren sowie stabile LLC-Resonanzwandler- und DC/DC-Technologie eingese
 - KLEINE FORM, GROSSE LEISTUNG: Trotz kompaktem SFX-Formfaktor ist das Rebel P20 SFX mit einem 12V-2x6-Anschluss für den leistungsstarken Betrieb von modernen Highend-Grafikkarten ausgestattet.
 - MODULARE VERKABELUNG: Die dem Netzteil beiliegenden Kabel sind allesamt vollmodular gestaltet. So kommt nur zum Einsatz, was auch wirklich benötigt wird. Nicht genutzte Kabel können einfach in der praktischen Kabeltasche aufbewahrt werden.
 - ZERTIFIZIERTE LAUFRUHE: Im Rebel P20 SFX ist ein 92-mm-Lüfter verbaut, der eine zertifizierte Laufruhe bietet. Dank Zero-RPM-Modus kann zusätzlich die Lüfterrotation für einen fast geräuschlosen Betrieb bei mäßiger Last komplett ausgeschaltet werden, während der Fan-Delay-Modus den Lüfter für eine schonende Abkühlung bis zu 60 Sekunden nach dem Herunterfahren weiterlaufen lässt.
-- EINWANDFREIER BETRIEB: Für einen einwandfreien Betrieb werden beim Rebel P20 SFX ausschließlich japanische Kondensatoren sowie stabile LLC-Resonanzwandler- und DC/DC-Technologie eingese
-- PLATINUM-ZERTIFIZIERTE ENERGIEEFFIZIENZ: Das Rebel P20 SFX ist mit einer Gesamteffizienz von mindestens 89 % (115 V) bzw. 91 % (230 V) sowie einem 5 VSB-Wirkungsgrad von 76 % vom unabhängigen Labor Cybenetics mit dem PlatinumZertifikat ausgezeichnet worden.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CXN1Z6KD{{</world>}}

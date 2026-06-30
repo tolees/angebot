@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- INKLUSIVE BARISTA-KIT: Bestehend aus einem Edelstahl-Milchkännchen (350 ml), zwei einwandige Filtersiebe perfekt geeignet für die Zubereitung von 1 oder 2 Tassen, Düsenreinigungsnadel, Rohrbürste.
-- MILCHAUFSCHÄUMDÜSE: Perfekt für seidigen und glatten bis hin zu voluminösen und strukturierten Schaum für Ihre Flat Whites, Lattes und Cappuccinos.
-- AKTIVE TEMPERATURKONTROLLE: Diese Kaffeemaschine hält die Wassertemperatur während des Brühens konstant, für mehr Präzision und Konsistenz im Geschmack.
 - COLD BREW: Mit der EC9555 können Sie Cold Brew in weniger als 5 Minuten zubereiten. Das Wasser umgeht die Heizeinheit und erreicht die Brühkammer bei Umgebungstemperatur. Der Brühvorgang erfolgt mit niedrigem Druck, wobei der Kaffee tropfenweise extrahiert wird, ähnlich wie bei der klassischen Drip Extraktion. Zusätzlich gibt es das exklusive Espresso Cool Rezept.
+- MILCHAUFSCHÄUMDÜSE: Perfekt für seidigen und glatten bis hin zu voluminösen und strukturierten Schaum für Ihre Flat Whites, Lattes und Cappuccinos.
+- INKLUSIVE BARISTA-KIT: Bestehend aus einem Edelstahl-Milchkännchen (350 ml), zwei einwandige Filtersiebe perfekt geeignet für die Zubereitung von 1 oder 2 Tassen, Düsenreinigungsnadel, Rohrbürste.
+- AKTIVE TEMPERATURKONTROLLE: Diese Kaffeemaschine hält die Wassertemperatur während des Brühens konstant, für mehr Präzision und Konsistenz im Geschmack.
 - INDIVIDUELLE EINSTELLUNGEN: Dank der 3 Kaffeetemperaturen und des integrierten Mahlwerks mit 15 Mahlgradeinstellungen können Sie den Kaffee ganz nach Ihren persönlichen Vorlieben einstellen.
 
 [🛒 Hier!!]({{< param buyurl >}})

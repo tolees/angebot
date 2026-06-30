@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Den Bio-Früchtetee Maybe Baby entwickelte samova Gründerin Esin Rager gemeinsam mit ihrem ersten, damals dreijährigen Sohn Can, der die Gewichtung der Zutaten bestimmt hat
-- Aus kontrolliert biologischen Anbau
-- Das Ergebnis: eine leckere, koffeinfreie Komposition aus Obst und Gemüsen, die Kindern und Erwachsenen auch ungesüßt gut schmeckt – egal ob warm oder eiskalt oder als (alkoholfreier) Tee-Cocktail serviert; der von Natur aus süßliche Geschmack stammt von Zutaten wie Karotten, Süßholzwurzel und Sultaninen, die dunkelrote Farbe wird 100Prozent natürlich durch rote Bete erzeugt
 - Moderne Teekultur von samova, I was made for lovin’ you baby, you was made for lovin’ me. Ich bin so wild nach deinem Erdbeermund Nicht nur Süßholzraspler überzeugen mit dieser edlen Fruchtmischung
+- Das Ergebnis: eine leckere, koffeinfreie Komposition aus Obst und Gemüsen, die Kindern und Erwachsenen auch ungesüßt gut schmeckt – egal ob warm oder eiskalt oder als (alkoholfreier) Tee-Cocktail serviert; der von Natur aus süßliche Geschmack stammt von Zutaten wie Karotten, Süßholzwurzel und Sultaninen, die dunkelrote Farbe wird 100Prozent natürlich durch rote Bete erzeugt
+- Aus kontrolliert biologischen Anbau
 - Bio-Früchtetee mit Hibiskus, Apfel und Erdbeere
+- Den Bio-Früchtetee Maybe Baby entwickelte samova Gründerin Esin Rager gemeinsam mit ihrem ersten, damals dreijährigen Sohn Can, der die Gewichtung der Zutaten bestimmt hat
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B077J5HJWG{{</world>}}

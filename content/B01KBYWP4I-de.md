@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ANSCHLUSS AN VORHANDENE BASIS - Diese wird nicht mitgeliefert! Verbindung mit gängigen Routern mit DECT/CAT-iq Funktionalität, zb AVM FRITZ!Box, Speedport oder als Erweiterung Ihres Gigaset DECT-Basis Systems
-- HÖCHSTE FUNKTIONALITÄT - Brillante Soundqualität auch beim Freisprechen, Adressbuch für bis zu 400 Kontakte, PC Anschluss über Micro USB, individuelle Bildeinstellung & Klingeltoneinstellung
-- Sie haben Fragen zu diesem Produkt? Kontaktieren Sie den Gigaset Kundenservice unter 02871-912 912 (zum Festnetztarif Ihres Anbieters)
-- QUALITÄT MADE IN GERMANY - Design und Herstellung in Deutschland - die umweltfreundliche ECO DECT Technologie sorgt für einen reduzierten Energieverbrauch
 - LIEFERUMFANG - 1x Gigaset CL660HX Mobilteil, 1x Ladeschale, 1x Steckernetzteil, 1x Telefonanschlusskabel, 2x AAA NiMH Akku, 1x Akku-Deckel, 1x Anleitung
+- Sie haben Fragen zu diesem Produkt? Kontaktieren Sie den Gigaset Kundenservice unter 02871-912 912 (zum Festnetztarif Ihres Anbieters)
+- ANSCHLUSS AN VORHANDENE BASIS - Diese wird nicht mitgeliefert! Verbindung mit gängigen Routern mit DECT/CAT-iq Funktionalität, zb AVM FRITZ!Box, Speedport oder als Erweiterung Ihres Gigaset DECT-Basis Systems
 - AUSSERORDENTLICH SCHÖN - Das Gigaset CL660HX überzeugt durch modernes, schlankes Design und hochwertige Verarbeitung - optimaler Bedienkomfort dank großem, hochauflösendem Farbdisplay. Nur in Deutschland kompatibel - Mehr Informationen auf der Gigaset Homepage.
+- HÖCHSTE FUNKTIONALITÄT - Brillante Soundqualität auch beim Freisprechen, Adressbuch für bis zu 400 Kontakte, PC Anschluss über Micro USB, individuelle Bildeinstellung & Klingeltoneinstellung
+- QUALITÄT MADE IN GERMANY - Design und Herstellung in Deutschland - die umweltfreundliche ECO DECT Technologie sorgt für einen reduzierten Energieverbrauch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01KBYWP4I{{</world>}}

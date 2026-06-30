@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Weite: Weit (H), Verschluss: Ohne Verschluss
-- Die Extraweite bietet sehr breiten bis kräftigen Füßen eine optimale Passform und mehr Bewegungsfreiheit für die Zehen. Das hochwertige Naturprodukt Leder sorgt für ein natürliches Fußklima durch eine hohe Atmungsaktivität.
 - Absatztyp: Flach, Absatzhöhe: 3.3 cm
+- Die Extraweite bietet sehr breiten bis kräftigen Füßen eine optimale Passform und mehr Bewegungsfreiheit für die Zehen. Das hochwertige Naturprodukt Leder sorgt für ein natürliches Fußklima durch eine hohe Atmungsaktivität.
+- Weite: Weit (H), Verschluss: Ohne Verschluss
 - Produkttyp: Halbschuhe,Halbschuhe,Low-Top Sneaker,Herrenschuhe,0
 - Obermaterial: Glattleder, Innenmaterial: Synthetik, Laufsohle: PU-Sohle, Decksohle: Leder
 

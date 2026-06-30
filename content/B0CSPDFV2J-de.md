@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Niedrige Bundhöhe
 - Slim Fit
 - Hergestellt aus nachhaltigen Materialien
-- Niedrige Bundhöhe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CSPDFV2J{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sam macht sich – mit Gefährten – erneut auf die Reise, um die Menschheit zu retten.
 - Schritt für Schritt verändert der legendäre Spielemacher Hideo Kojima wieder mal die Welt.
+- Sam macht sich – mit Gefährten – erneut auf die Reise, um die Menschheit zu retten.
 - Brich auf zu einer inspirierenden Mission der menschlichen Kontakte jenseits der UCA.
 - Begleite sie in eine Welt mit übernatürlichen Feinden, Hindernissen und der quälenden Frage: Hätten wir uns verbinden sollen?
 

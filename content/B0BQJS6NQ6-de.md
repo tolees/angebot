@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Durch die zeitgleiche Absaugung bleibt nur eine geringe Restfeuchte, wodurch eine schnelle Trocknung der Textilien gewährleistet wird
-- Im Lieferumfang enthalten: Waschsauger, Waschdüse, Fugendüse, Teppichreiniger RM 519 (100 ml)
-- Durch die kompakte Bauweise und den Akku-Betrieb bestens für die Autoinnenreinigung oder die Reinigung von Polstergartenmöbeln geeignet
 - Sprüht die Reinigungslösung mit Druck in die Fasern der Textilien und saugt diese zusammen mit dem gelösten Schmutz wieder ab
+- Durch die kompakte Bauweise und den Akku-Betrieb bestens für die Autoinnenreinigung oder die Reinigung von Polstergartenmöbeln geeignet
+- Im Lieferumfang enthalten: Waschsauger, Waschdüse, Fugendüse, Teppichreiniger RM 519 (100 ml)
 - Akku-betriebener Waschsauger zur effektiven Reinigung von z.B. Polstern, Teppichen und Stoffbezügen. Akku und Ladegerät sind nicht im Lieferumfang enthalten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

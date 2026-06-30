@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Intelligentere Beleuchtung: Die Tasten dieser Tastatur mit Hintergrundbeleuchtung leuchten auf, wenn sich Ihre Hände der Umgebung nähern. Jetzt mit mehr Beleuchtungsanpassungen unter Logi Options+ (1)
-- Verbinden mit mehreren Apple-Geräten: Arbeiten Sie nahtlos auf bis zu 3 Geräten unter macOS, iPadOS, iOS über Bluetooth Low Energy (2)
-- Entwickelt für Mac: Mit einem Mac-Tastenlayout und passenden Apple-Oberflächen, Logi Options+-Funktionen für macOS (1) und USB-C-Aufladung fügt sich Logitech MX Keys S for Mac perfekt in Ihr Apple-Setup ein
-- Mehr Komfort, bessere Konzentration: Arbeiten Sie länger bequem dank des flachen Designs und optimalen Tastaturwinkels, der sich besser an Ihre Handgelenkshaltung anpasst
-- Der perfekte Partner - MX Master 3S for Mac: Pairen Sie jede kabellose Tastatur und Maus von MX for Mac mit Logi Options+ (1) und arbeiten Sie nahtlos und übertragen Sie Texte und Dateien zwischen 3 Apple-Computern
-- Flüssiges Tipperlebnis: Notebook-ähnliches Profil mit konkaven Tasten, die sich an Ihre Fingerspitzen anschmiegen – mit dieser kabellosen Bluetooth-Tastatur für Mac tippen Sie schnell, flüssig und präzise
 - Sich wiederholende Aufgaben automatisieren mit der Logitech-Tastatur: Mit der Logi Options+ App zeitsparende Smart Actions-Kurzbefehle erstellen und weitergeben, um mehrere Vorgänge mit einem Tastendruck auszuführen (1)
+- Der perfekte Partner - MX Master 3S for Mac: Pairen Sie jede kabellose Tastatur und Maus von MX for Mac mit Logi Options+ (1) und arbeiten Sie nahtlos und übertragen Sie Texte und Dateien zwischen 3 Apple-Computern
+- Entwickelt für Mac: Mit einem Mac-Tastenlayout und passenden Apple-Oberflächen, Logi Options+-Funktionen für macOS (1) und USB-C-Aufladung fügt sich Logitech MX Keys S for Mac perfekt in Ihr Apple-Setup ein
+- Intelligentere Beleuchtung: Die Tasten dieser Tastatur mit Hintergrundbeleuchtung leuchten auf, wenn sich Ihre Hände der Umgebung nähern. Jetzt mit mehr Beleuchtungsanpassungen unter Logi Options+ (1)
+- Flüssiges Tipperlebnis: Notebook-ähnliches Profil mit konkaven Tasten, die sich an Ihre Fingerspitzen anschmiegen – mit dieser kabellosen Bluetooth-Tastatur für Mac tippen Sie schnell, flüssig und präzise
+- Verbinden mit mehreren Apple-Geräten: Arbeiten Sie nahtlos auf bis zu 3 Geräten unter macOS, iPadOS, iOS über Bluetooth Low Energy (2)
+- Mehr Komfort, bessere Konzentration: Arbeiten Sie länger bequem dank des flachen Designs und optimalen Tastaturwinkels, der sich besser an Ihre Handgelenkshaltung anpasst
 - Mit recyceltem Kunststoff: Die Kunststoffteile der Logitech MX Keys S for Mac bestehen bei der Space Gray-Oberfläche zu 26 % und bei der Hellgrau-Oberfläche zu 11 % aus zertifiziertem Recycling-Kunststoff (5)
 
 [🛒 Hier!!]({{< param buyurl >}})

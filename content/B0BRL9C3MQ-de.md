@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gant-Logostickerei auf der Brust
 - Mit Rippenbündchen an Ärmeln und Saum
+- Gant-Logostickerei auf der Brust
 - Unser leichter Gant Classic Herren Rundhalspullover aus Baumwolle
 
 [🛒 Hier!!]({{< param buyurl >}})

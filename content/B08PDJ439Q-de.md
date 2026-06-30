@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Aus leichtem, atmungsaktivem Pikeegewebe
-- Wähle eine Nummer größer für einen lässigen Stil oder bleib bei deiner Größe für einen klassischen Look
 - Ein vielseitiges Poloshirt, das stilvoll, schick und alles andere als altbacken ist
+- Wähle eine Nummer größer für einen lässigen Stil oder bleib bei deiner Größe für einen klassischen Look
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08PDJ439Q{{</world>}}

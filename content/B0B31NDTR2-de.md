@@ -31,8 +31,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Textilfutter
 - Schnürsenkel
 - Abriebfeste Non Marking Gummiaußensohle
-- Obermaterial aus Synthetikleder
 - Reguläre Passform
+- Obermaterial aus Synthetikleder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B31NDTR2{{</world>}}

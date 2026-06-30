@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reguläre Breite
+- Obermaterial: Synthetik, Textil; Futter: Textil; Innensohle: Textil; Zwischensohle: EVA; Laufsohle: Gummi
 - Verschluss: Schnürsenkel
 - Abgerundeter Zehenbereich
 - Absatzart: Flach
-- Obermaterial: Synthetik, Textil; Futter: Textil; Innensohle: Textil; Zwischensohle: EVA; Laufsohle: Gummi
+- Reguläre Breite
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DJCFZZHX{{</world>}}

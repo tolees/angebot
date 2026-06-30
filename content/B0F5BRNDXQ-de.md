@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Denn am Ende kann nur eine Person gewinnen und zum wahren Helden der Geschichte werden.
-- 1-5 Spieler, ab 14+ Jahren, 45-90 Minuten Spielzeit je Partie, Autor: Lukas Wozniak, Spiel in Deutsch
-- Entdeckt die Geschichte, indem ihr clever eure Karten ausspielt und ein gut geplantes Kartentableau mit Symbolen und Effekten aufbaut.
 - Limitierte Deluxe Edition mit 13 Miniaturen. Im Kennerspiel The Witcher: Pfad des Schicksals schlüpft ihr in die Rollen der bekannten Charaktere aus dem Witcher-Universum und spielt die bekannten Geschichten nach.
+- 1-5 Spieler, ab 14+ Jahren, 45-90 Minuten Spielzeit je Partie, Autor: Lukas Wozniak, Spiel in Deutsch
 - Verwendet die Fähigkeiten eurer Charaktere, um euren Gegnern immer einen Schritt voraus zu sein.
+- Entdeckt die Geschichte, indem ihr clever eure Karten ausspielt und ein gut geplantes Kartentableau mit Symbolen und Effekten aufbaut.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0F5BRNDXQ{{</world>}}

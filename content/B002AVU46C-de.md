@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Aufhäng Haken
 - Plastiker Stab; nicht abnehmbar
 - Eine Geschwindigkeit
+- Mit Aufhäng Haken
 - Edelstahl Messer
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

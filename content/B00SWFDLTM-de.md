@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Kräftige Form
 - APLI
 - Langlebig
-- Kräftige Form
 - Qualität/Haltbarkeit
 - Bessere Materialien
 - Flexible Gestaltung

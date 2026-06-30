@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnelle Ergebnisse dank einer Schlagzahl von 0–3.200/min
-- Kompaktes Design mit 155 mm Kopflänge für die Arbeit in beengten Bereichen
-- Lieferumfang: Kartonschachtel
-- Syneon Technology steuert den Energieverbrauch für optimale Effizienz und längere Laufzeit
 - 130 Nm starkes Drehmoment für schwierige Projekte
+- Syneon Technology steuert den Energieverbrauch für optimale Effizienz und längere Laufzeit
+- Schnelle Ergebnisse dank einer Schlagzahl von 0–3.200/min
+- Lieferumfang: Kartonschachtel
+- Kompaktes Design mit 155 mm Kopflänge für die Arbeit in beengten Bereichen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08WCJVSRK{{</world>}}

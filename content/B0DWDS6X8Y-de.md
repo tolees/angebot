@@ -31,10 +31,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Details in Hülle und Fülle: Der Ständer des Wächterdrachen besteht aus einem Teich, einem schwebenden magischen Schwert, Laternen und einem Tor, um spannende Ninja-Geschichten darstellen zu können
 - Inklusive Poster: Dieses LEGO Bauset wird mit exklusiven Postern geliefert, die NINJAGO Fans lieben werden und dem Bauspaß eine zusätzliche Dimension verleihen
 - Inklusive 1 NINJAGO Minifigur: Das LEGO Set beinhaltet Meister Wu mit seinem Stab als Figur
-- Unzählige spannende Ninja-Spielzeuge: LEGO NINJAGO Sets lassen Kinder mit ihren Ninja-Helden in eine faszinierende Abenteuerwelt eintauchen
-- Beweglicher Drache: Ninja-Fans können den Kopf, die Arme und die Schuppen des Drachen in verschiedene Positionen bringen und die Figur dann im Regal oder auf dem Nachttisch ausstellen
 - Geschenk für NINJAGO Fans: Dieses Spielset bietet ein lohnendes Bauerlebnis und ist ein tolles Geschenk für Fans der Serie NINJAGO Legends Monstrosity, die allen ihre Begeisterung für die Ninja zeigen möchten
+- Unzählige spannende Ninja-Spielzeuge: LEGO NINJAGO Sets lassen Kinder mit ihren Ninja-Helden in eine faszinierende Abenteuerwelt eintauchen
 - NINJAGO Modell eines Drachen: Der Wächterdrache lässt ältere Fans und Teenager ihre LEGO NINJAGO Sammlung ergänzen
+- Beweglicher Drache: Ninja-Fans können den Kopf, die Arme und die Schuppen des Drachen in verschiedene Positionen bringen und die Figur dann im Regal oder auf dem Nachttisch ausstellen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DWDS6X8Y{{</world>}}

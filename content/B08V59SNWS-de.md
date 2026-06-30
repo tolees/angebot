@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Die JAMARA Anbaugeräte können problemlos an alle JAMARA RC Landmaschinen angekuppelt werden. Die Kupplung ist genormt und passt problemlos mit einem Klick. Der Elektro-Stecker wird mit dem Zugfahrzeug verbunden und schon steht die Fernsteuerung in Kontakt mit dem Anbaugerät
 - Der Garant ist ein hervorragendes Geschenk für Kinder ab 6 Jahre, die sich für Landwirtschaft und Traktoren begeistern. Ideal für Geburtstage, Weihnachten oder Ostern, bietet er stundenlangen Spielspaß
-- Bei allen JAMARA Anbaugeräten kann über die Fernsteuerung der Zugmaschine die jeweilige Funktion angesteuert werden. Mit einem Druck auf die Fernsteuerung beginnt der Fasswagen die eingefüllte Flüssigkeit durch die Schläuche auf den Boden zu spritzen
 - Das RC-Plug-System erlaubt, verschiedene JAMARA-Anbaugeräte anzuschließen. Das Anbaugerät an die Anhängerkupplung stecken, das Stromkabel mit der Zugmaschine verbinden, und schon kann die volle Funktionalität über die 2,4-GHz-Fernsteuerung genutzt werde
+- Bei allen JAMARA Anbaugeräten kann über die Fernsteuerung der Zugmaschine die jeweilige Funktion angesteuert werden. Mit einem Druck auf die Fernsteuerung beginnt der Fasswagen die eingefüllte Flüssigkeit durch die Schläuche auf den Boden zu spritzen
 - Durch die große Öffnung oben, kann der Tank mit ca. 450ml Flüssigkeit befüllt werden. Ganz einfach am Wasserhahn oder mit einem Messbecher. Nachdem dann die Schleppschlauchverteiler von Hand auf volle Arbeitsbreite ausgeklappt wurden, kann die Arbeit beginnen
 
 [🛒 Hier!!]({{< param buyurl >}})

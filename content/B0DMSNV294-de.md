@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- optional abtrennbares Bodenfach
 - 15,6" Laptopfach und Trolley-Aufsteckfunktion
 - Geräumiger, urbaner Stadtrucksack
+- optional abtrennbares Bodenfach
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DMSNV294{{</world>}}

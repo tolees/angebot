@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mediterrane Emotionen: Mischungen, die aus einem vom Meer umgebenen und von der Sonne geküssten Land stammen. Bei Caffè Mauro genügt eine Tasse Kaffee, um sich wie zu Hause zu fühlen. Ein langsamer Röstvorgang vermittelt den Geschmack eines aufrichtigen Rituals, das Teil unserer Lebensweise ist. Den Moment genießen und jeden hochwertigen Moment genießen.
-- Ausgewogen und vollmundig. Vollmundige und runde Mischung, die Schokoladennoten harmonieren gut mit der fruchtigen Säure.
-- Mittlere Röstung
 - Intensität: 8/10
 - Format: 1 Packung à 1 kg in einer geschützten Atmosphäre, um das intensive Aroma der Kaffeebohne zu bewahren
+- Mediterrane Emotionen: Mischungen, die aus einem vom Meer umgebenen und von der Sonne geküssten Land stammen. Bei Caffè Mauro genügt eine Tasse Kaffee, um sich wie zu Hause zu fühlen. Ein langsamer Röstvorgang vermittelt den Geschmack eines aufrichtigen Rituals, das Teil unserer Lebensweise ist. Den Moment genießen und jeden hochwertigen Moment genießen.
+- Mittlere Röstung
+- Ausgewogen und vollmundig. Vollmundige und runde Mischung, die Schokoladennoten harmonieren gut mit der fruchtigen Säure.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D6W2F1F8{{</world>}}

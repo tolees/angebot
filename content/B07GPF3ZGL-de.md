@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Streetwear.
-- Air-Cooled Memory Foam.
 - Lockere Passform.
+- Air-Cooled Memory Foam.
+- Streetwear.
 - Goga Mat-Fußrücken.
 
 [🛒 Hier!!]({{< param buyurl >}})

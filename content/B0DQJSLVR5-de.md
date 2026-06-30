@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Front-Artwork
-- Lockere Passform
 - Rundhalsausschnitt
-- Ripped cuffs on sleeves and hem
 - Langärmelig
+- Ripped cuffs on sleeves and hem
+- Lockere Passform
+- Front-Artwork
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DQJSLVR5{{</world>}}

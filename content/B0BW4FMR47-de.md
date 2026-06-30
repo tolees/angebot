@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- XXL FÜR DIE GANZE FAMILIE – Kochen Sie bis zu 6 Portionen auf einmal. Mit einem Fassungsvermögen von 1,4 kg im Korb und 7,2 l in der Pfanne können Sie mühelos Mahlzeiten in Familiengröße zubereiten.
-- ONE-TOUCH COOKING – Touchscreen mit 8 Voreinstellungen für gefrorene Snacks, frische Pommes frites, Fleisch, Fisch, Huhn, Backen, gegrilltes Gemüse und Warmhalten.
 - 16 ZUBEREITUNGSARTEN – Braten, Grillen, Backen, Eintopf und Pfannengerichte zubereiten, Auftauen, Aufwärmen, Trocknen, Toasten, Warmhalten, Dünsten, Fermentieren, Konfitieren und mehr.
+- ONE-TOUCH COOKING – Touchscreen mit 8 Voreinstellungen für gefrorene Snacks, frische Pommes frites, Fleisch, Fisch, Huhn, Backen, gegrilltes Gemüse und Warmhalten.
+- XXL FÜR DIE GANZE FAMILIE – Kochen Sie bis zu 6 Portionen auf einmal. Mit einem Fassungsvermögen von 1,4 kg im Korb und 7,2 l in der Pfanne können Sie mühelos Mahlzeiten in Familiengröße zubereiten.
 - PERSÖNLICHE REZEPTE - Entdecken Sie Hunderte von leckeren Rezepten in der HomeID-App – alle auf Ihre Vorlieben und Ihren Airfryer zugeschnitten. Von Experten überwacht für eine einfache, nahrhafte Küche, einschließlich veganer und vegetarischer Gerichte.
 - KNUSPRIG & ZART – Das einzigartige sternförmige Design der Rapid Air Technologie verwirbelt die Luft, so dass die Speisen außen knusprig und innen zart sind – mit wenig oder gar keinem zusätzlichen Öl.
 

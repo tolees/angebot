@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Interaktiver Dokumentarfilm: Umfangreiche Einblicke hinter die Kulissen erzählen die Geschichte der Franchise und enthalten exklusive neue Interviews mit den ursprünglichen MK-Entwicklern Ed Boon, John Tobias, Dan Forden, John Vogel und vielen weiteren
 - Mehrere ikonische Editionen: Erleben Sie die legendären Ursprünge von Mortal Kombat mit den ikonischen Arcade-Klassikern sowie den beliebten Heimversionen für Super NES und Sega Genesis. Tauchen Sie tiefer ein mit seltenen und von Fans bevorzugten Veröffentlichungen für Game Boy, Game Gear, Sega 32X, Game Boy Advance und mehr
 - Die vollständige Geschichte: Detaillierte Charakterbiografien und Zeitlinien zeichnen die epische Handlung von Earthrealm, Outworld und Edenia durch die Arcade-Ära hinweg nach
 - Keine Geheimnisse mehr: Auf Knopfdruck alle geheimen Charaktere freischalten, Spieleinstellungen ändern und versteckte Entwicklermenüs aufrufen – spielen Sie die Spiele ganz nach Ihren Vorstellungen
+- Interaktiver Dokumentarfilm: Umfangreiche Einblicke hinter die Kulissen erzählen die Geschichte der Franchise und enthalten exklusive neue Interviews mit den ursprünglichen MK-Entwicklern Ed Boon, John Tobias, Dan Forden, John Vogel und vielen weiteren
 - Online-Spiel: Bestreiten Sie Online-Kämpfe, optimiert durch Rollback-Netcode – entwickelt, um die Präzision jeder Attacke zu bewahren, selbst bei Spielern über große Entfernungen hinweg
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

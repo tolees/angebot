@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Packung die Größe: 13.1 L x 15.4 H x 14.6 W cm
-- Material: Metall
-- Enthaltene Komponenten: Leuchtmittel enthalten
 - Voltage: 230.0
+- Enthaltene Komponenten: Leuchtmittel enthalten
+- Material: Metall
 - Wattage: 40.0
+- Packung die Größe: 13.1 L x 15.4 H x 14.6 W cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B002MXHVE6{{</world>}}

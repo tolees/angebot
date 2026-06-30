@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nicht Wasserfest
-- Innenmaterial: Synthetik
 - Schuhweite: mittel
-- Material: Anderes Leder
-- Obermaterial: Leder
-- Verschluss: Gummi
-- Absatzhöhe: 3,5 cm
 - Absatzform: Flach
+- Material: Anderes Leder
 - Fit: Bedenken Sie, dass Geox-Schuhe eine bequeme Passform haben, daher empfehlen wir, eine halbe Größe zu wählen
+- Innenmaterial: Synthetik
+- Nicht Wasserfest
+- Obermaterial: Leder
+- Absatzhöhe: 3,5 cm
+- Verschluss: Gummi
 - Lining: Kalt gefüttert
 
 [🛒 Hier!!]({{< param buyurl >}})

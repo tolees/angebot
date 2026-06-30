@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Kunstleder, Innenmaterial: Textil, Laufsohle: RIRICON-Sohle, Decksohle: weiche Decksohle
 - Absatztyp: Flach, Absatzhöhe: 3 cm, Schafttyp: Kurzschaft, Schafthöhe: 7 cm
 - Weite: Normal (F 1/2), Verschluss: Schnürsenkel
 - Produkttyp: Kurzstiefel,Schnürschuhe,Bequemschuhe,Damenschuhe,Komfortschuhe,Halbschuhe,Schnürschuhe,Schnürer,bequem
+- Obermaterial: Kunstleder, Innenmaterial: Textil, Laufsohle: RIRICON-Sohle, Decksohle: weiche Decksohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08D4SKWDH{{</world>}}

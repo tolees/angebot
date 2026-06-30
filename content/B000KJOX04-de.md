@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Material in Profiqualität
 - Markendetails
+- Material in Profiqualität
 - Einfache Handhabung
 - Lieferumfang: 1 Stück
 

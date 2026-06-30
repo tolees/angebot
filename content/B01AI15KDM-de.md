@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Kinderjacke hat eine abnehmbare Kapuze und einen Kinnschutz. Die Regen-Latzhose kann dank der elastischen Träger und den Gummis am Fußende in der Länge verstellt werden
 - Das tolle 2-teilige Regen-Set besteht aus einer Regenjacke mit Reißverschluss und zusätzlicher Knopfleiste sowie einer in der Weite regulierbaren Latzhose. Für mehr Sicherheit bei Dunkelheit oder schlechtem Wetter sorgen die am Outdoor-Matschanzug angebrachten Reflektoren
-- Durch seitliche Druckknöpfe an der Taille ist die Matsch-Latzhose weitenregulierbar und wächst sozusagen mit dem Kind mit. Die abnehmbaren Fußstege verhindern zuverlässig das Hochrutschen der Hose. Dank der 5000 mm Wassersäule und der verschweißten Nähte ist der Regenanzug wind- und wasserdicht
-- Playshoes Regenbekleidung ist durch das Institut Hohenstein auf Hautfreundlichkeit, Warnwirkung, Brandverhalten, Sicherheit von Kordeln und Zugbändern sowie Wasserdichtigkeit geprüft und mit dem Label Geprüfte Kinderbekleidung ausgezeichnet - Prüf-Nr. 16.0.84150
 - Textiles Vertrauen - Oeko-Tex-Standard 100 Klasse 1 vom Institut Hohenstein auf Schadstoffe geprüft (Prüf-Nr. : 12.0.05235)
+- Playshoes Regenbekleidung ist durch das Institut Hohenstein auf Hautfreundlichkeit, Warnwirkung, Brandverhalten, Sicherheit von Kordeln und Zugbändern sowie Wasserdichtigkeit geprüft und mit dem Label Geprüfte Kinderbekleidung ausgezeichnet - Prüf-Nr. 16.0.84150
+- Durch seitliche Druckknöpfe an der Taille ist die Matsch-Latzhose weitenregulierbar und wächst sozusagen mit dem Kind mit. Die abnehmbaren Fußstege verhindern zuverlässig das Hochrutschen der Hose. Dank der 5000 mm Wassersäule und der verschweißten Nähte ist der Regenanzug wind- und wasserdicht
+- Die Kinderjacke hat eine abnehmbare Kapuze und einen Kinnschutz. Die Regen-Latzhose kann dank der elastischen Träger und den Gummis am Fußende in der Länge verstellt werden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01AI15KDM{{</world>}}

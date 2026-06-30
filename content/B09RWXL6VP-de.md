@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Regular Fit
-- Aus Baumwolle
-- Aufgesetzte Gesäßtaschen und Seitentaschen
 - Männer Jeans mit ausgestelltem Bein und dreieckigem Einsatz
+- Aufgesetzte Gesäßtaschen und Seitentaschen
+- Aus Baumwolle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09RWXL6VP{{</world>}}

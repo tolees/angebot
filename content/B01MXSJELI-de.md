@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Verschluss: Schnürung
-- Obermaterial: Synthetisch
 - Innenmaterial: Textil
 - Sohle: Gummi
+- Obermaterial: Synthetisch
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01MXSJELI{{</world>}}

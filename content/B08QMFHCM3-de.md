@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Verschluss: Gummi
+- Absatzform: Kein Absatz
 - Obermaterial: Leder
 - Innenmaterial: Leder
 - Schuhweite: Mittel
-- Verschluss: Gummi
-- Absatzform: Kein Absatz
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08QMFHCM3{{</world>}}

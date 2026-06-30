@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Material: Aluminium
 - Nicht dimmbar
+- Material: Aluminium
 - Technologie: Energiesparlampe
 - Grundfarbe: Schwarz
 

@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Teil der preisgekrönten Ingenio-Reihe: Gewinner des GOOD DESIGN Awards 2015 (Chicago Athenaeum Museum of Architecture and Design)
-- Spülmaschinengeeignet und langlebige Leistung
-- Hergestellt nach Tefal-Qualitätsstandards mit umfangreichen Labortests vor der Markteinführung
-- Leichte Reinigung dank abnehmbarer Teile
 - Robust und beständig: langlebige Leistung dank hochwertiger Materialien
 - Zwei Seiten zum feinen oder groben Reiben und Raspeln
+- Hergestellt nach Tefal-Qualitätsstandards mit umfangreichen Labortests vor der Markteinführung
+- Teil der preisgekrönten Ingenio-Reihe: Gewinner des GOOD DESIGN Awards 2015 (Chicago Athenaeum Museum of Architecture and Design)
+- Spülmaschinengeeignet und langlebige Leistung
+- Leichte Reinigung dank abnehmbarer Teile
 - Einfaches Entleeren: reiben, umdrehen und ausschütten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

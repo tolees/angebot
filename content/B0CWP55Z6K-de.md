@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Hohe Qualität und langlebig: Der DEKOPRO Bohrschrauber ist aus hochwertigem Stahl gefertigt, der korrosions- und rostbeständig ist. Der Mini Akkubohrer ist mit einem robusten Gummigriff für eine bessere Kontrolle überzogen.
-- Inhalt: Dieses Bohrmaschine Set enthält 1 x 20V Kabelloser Bohrer; 1 x 1,5AH Akku; 1 x Ladegerät; 10 x Bohrkopfformen (SL3-SL4-SL5-SL6-SL7-PHO-PH1-PH2-PH2); 1 x Magnetischer Bohrkopfformhalter (60 mm); 10 x Schraubendreherkappen; 6 x Spitze Bohrkopfformen; 4 x Nussenschlüssel; 1 x Bedienungsanleitung.
 - Praktischer Einsatz: Das professionelle Bohrmaschine Set enthält die praktischsten und fortschrittlichsten Designwerkzeuge für Wartung. Dieser Akku Bohrer ist sehr geeignet für die Dekoration, Möbelmontage, Bohren, Schneiden, Gartenarbeit, Büro oder die tägliche Wartung zu Hause. Die Werkzeuge werden sorgfältig in stabilen Boxen aufbewahrt, um sicher, sauber, ordentlich und leicht zu finden zu bleiben.
 - Wiederaufladbare Akkubatterie: Mit wiederaufladbarem Akku 1,5 Ah, Kabel C, DEKO Schrauber Set ist mit einem Ladekabel C-1,5 Ah ausgestattet. Sie können es an ein Universal-Ladegerät oder einen USB-Ausgang (5 VDC) anschließen, um das Werkzeug aufzuladen. Die Batterieanzeige befindet sich auf der Rückseite der Bohrmaschine und die Batterie ist voll, wenn die grüne Batterieanzeige stabil ist und nicht blinkt.
+- Inhalt: Dieses Bohrmaschine Set enthält 1 x 20V Kabelloser Bohrer; 1 x 1,5AH Akku; 1 x Ladegerät; 10 x Bohrkopfformen (SL3-SL4-SL5-SL6-SL7-PHO-PH1-PH2-PH2); 1 x Magnetischer Bohrkopfformhalter (60 mm); 10 x Schraubendreherkappen; 6 x Spitze Bohrkopfformen; 4 x Nussenschlüssel; 1 x Bedienungsanleitung.
 - 20V Professioneller Akkuschrauber mit LED: Der Akku-Bohrschrauber kann zum Bohren in Holz und Kunststoff sowie zum Anziehen und Lösen von Schrauben verwendet werden. Drücken Sie den Schalter, um die Drehzahl zu regulieren. Die maximale Leerlaufdrehzahl beträgt 1350 U/min.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

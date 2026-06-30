@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- leichte Reinigung
-- geeignet für alle Herdarten außer Induktion
-- hochwertiges doppelt gedrehtes Aluminium
 - Zubereitung: den kessel bis zum sicherheitsventil füllen, den filter mit gemahlenem kaffee füllen, die Moka-kanne schließen und auf die herdplatte stellen bis der Moka Express zu gluckern beginnt
 - Reinigungshinweis: die Bialetti Moka Express darf nur mit klarem wasser abgespült werden, geben sie sie nicht in die spülmaschine, da dies dem produkt und dem geschmack ihres kaffees schadet
 - Sicherheitsventil
 - Die originale Moka-Kanne: Moka Express ist der originale espressokocher mit der einzigartigen form, er bietet das erlebnis der echten italienischen art der zubereitung eines geschmackvollen kaffees
+- leichte Reinigung
 - Eine größe für jeden bedarf: das Moka Express fassungsvermögen ist in espresso-tassen gemessen, der kaffee kann in espresso-tassen oder in größeren behältern genossen werden
+- geeignet für alle Herdarten außer Induktion
+- hochwertiges doppelt gedrehtes Aluminium
 - Ergonomischer Griff
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

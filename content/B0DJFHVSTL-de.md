@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Colourblocking-Design
-- Feuchtigkeitsableitendes Material
-- Kängurutaschen an der Jacke; Seitentaschen an der Hose
-- Elastischer Bund mit Kordelzug
-- Regulär geschnitten; mittelhoher Bund
-- CLIMACOOL
 - 100 % Polyester (recycelt)
-- Durchgehender Reißverschluss; Stehkragen
+- Regulär geschnitten; mittelhoher Bund
 - Bündchen und Saum gerippt
+- Kängurutaschen an der Jacke; Seitentaschen an der Hose
+- Durchgehender Reißverschluss; Stehkragen
+- Feuchtigkeitsableitendes Material
+- Elastischer Bund mit Kordelzug
+- CLIMACOOL
+- Colourblocking-Design
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DJFHVSTL{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Edelstahlgehäuse
-- BPA-frei
-- 2200 Watt max.
 - Verdecktes Edelstahlheizelement
+- 2200 Watt max.
+- Edelstahlgehäuse
 - Füllmenge bis zu 1,5 Liter
+- BPA-frei
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B079D9HDHP{{</world>}}

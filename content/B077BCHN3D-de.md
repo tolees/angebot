@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Synthetik
-- Leichtgewicht
 - Absatzform: Flach
-- Absatzhöhe: 2 cm
-- Obermaterial: Synthetik
-- Schuhweite: Medium
-- Verschluss: Pull On
+- Leichtgewicht
 - Innenmaterial: Synthetik
+- Obermaterial: Synthetik
+- Sohle: Synthetik
+- Verschluss: Pull On
+- Absatzhöhe: 2 cm
+- Schuhweite: Medium
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B077BCHN3D{{</world>}}

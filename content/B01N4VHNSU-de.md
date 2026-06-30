@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100 ml Eau de Toilette
-- Duftnote: würzig-frisch
 - Herrenduft
 - Packung die Größe: 9.6 L x 20.0 H x 11.8 W (cm)
+- 100 ml Eau de Toilette
 - Marke Beauty-Produkte Joop
+- Duftnote: würzig-frisch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01N4VHNSU{{</world>}}

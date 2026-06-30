@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Präzise Hinderniserkennung: Dank TrueVision erkennt der Mähroboter E18 nicht nur Bäume, Möbel oder Pools, sondern auch Haustiere und kleine Wildtiere wie Igel zuverlässig. So bleibt dein Garten sicher, während der Mähvorgang reibungslos abläuft.
 - Keine Begrenzungskabel, kein RTK, keine Signalverluste: Die TrueVision-Technologie des E18 kartiert den Rasen völlig autonom – ganz ohne komplizierte Einrichtung. Präzise Kameras und smarte Algorithmen erkennen Kanten und Hindernisse für zuverlässige Navigation.
+- Präzise Hinderniserkennung: Dank TrueVision erkennt der Mähroboter E18 nicht nur Bäume, Möbel oder Pools, sondern auch Haustiere und kleine Wildtiere wie Igel zuverlässig. So bleibt dein Garten sicher, während der Mähvorgang reibungslos abläuft.
 - Intelligentes Zonenmanagement: Verwalte bis zu 20 Mähzonen bequem über die App! Der E18 meistert komplexes Gelände mühelos – egal, wie verwinkelt dein Garten ist. Multi-Zonen-Management mit No-Go-Bereichen und virtuellen Grenzen sorgt für eine vollständige Abdeckung.
 - Maximaler Komfort: Haustierfreundlich, diebstahlsicher und mit GPS+4G sowie Fernkamera ausgestattet – dieser Rasenroboter revolutioniert die Rasenpflege. Inklusive Garage für ganzjährigen Witterungsschutz, die auch bei wechselnden Bedingungen einen zuverlässigen Betrieb gewährleistet. Ideal für Technikbegeisterte, die eine einfache Lösung suchen.
 - Makelloses Mähergebnis: Smartes Parallelmähen und sauberes Kantenschneiden garantieren einen perfekt gepflegten Rasen. Dank intelligenter Flächenerkennung bleibt keine Stelle ungemäht. In der App kannst du die Kantenschneide-Abstände individuell einstellen – für echtes Null-Abstand-Trimmen. Die Schnitt­höhe lässt sich präzise von 25–75mm an verschiedene Rasentypen anpassen, für ein gleichmäßiges Ergebnis ohne Nacharbeit.

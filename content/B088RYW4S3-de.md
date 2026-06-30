@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sweatjacke in Unifarben mit Ziernaht auf der Brust und seitlichen Eingriffstaschen vorne
-- Langärmlig mit hohem Stehkragen
 - Passform: Regular Fit, Rückenlänge bei Größe L ca 73 cm
+- Langärmlig mit hohem Stehkragen
+- Sweatjacke in Unifarben mit Ziernaht auf der Brust und seitlichen Eingriffstaschen vorne
 - Aus weichem und elastischen Sweat-Stoff
 - Waschhinweis: Keine chemische Reinigung möglich / Trocknen im Trockner nicht möglich / Kein Bleichmittel erlaubt / Bei niedriger Temperatur bügeln (110° C) / Schonwaschgang bei max 40°C
 

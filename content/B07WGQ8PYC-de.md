@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Liefert eine Schlagenergie von 3,2 Joule und sorgt für schnellen Bohrfortschritt
 - Vibration Control für müheloses Arbeiten bei andauernden und zeitintensiven Anwendungen
-- Erhöhter Anwenderschutz durch KickBack Control
 - Lieferumfang:
+- Erhöhter Anwenderschutz durch KickBack Control
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07WGQ8PYC{{</world>}}

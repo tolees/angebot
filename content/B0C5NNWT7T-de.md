@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Gummi-Cupsohle
 - Textilfutter
-- Reguläre Passform
 - Obermaterial aus Synthetikleder
+- Reguläre Passform
 - Dämpfende Zwischensohle
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- SERVIERVORSCHLAG - Ein Genuss auf Eis oder gemixt mit Cola und einer Zitronenscheibe in einem Cuba Libre. Weitere Rezepte lassen sich unten auf der Seite finden
+- SÜDAMERIKANISCHER CHARME - Reichhaltig und golden erhielt dieser originale venezolanische gereifte Rum als Erster die Bezeichnung „añejo”oder „gereift”. Dreifach destilliert und in ehemaligen Bourbon-Fässern aus weißer Eiche gereift. Der Reifungsprozess des Pampero setzt neue Qualitätsmaßstäbe für venezolanischen Rum
 - GESCHENKIDEE - Ideal für entspannte Abende zusammen mit guten Freunden. Unser Pampero Añejo Especial Rum eignet sich perfekt zum gemeinsamen Genuss
 - AROMA PUR - Ein leicht cremiger und süßer Rum, leicht trocken. Mit einem Nachklang von süßer Vanille und Honigaromen
-- SÜDAMERIKANISCHER CHARME - Reichhaltig und golden erhielt dieser originale venezolanische gereifte Rum als Erster die Bezeichnung „añejo”oder „gereift”. Dreifach destilliert und in ehemaligen Bourbon-Fässern aus weißer Eiche gereift. Der Reifungsprozess des Pampero setzt neue Qualitätsmaßstäbe für venezolanischen Rum
-- SERVIERVORSCHLAG - Ein Genuss auf Eis oder gemixt mit Cola und einer Zitronenscheibe in einem Cuba Libre. Weitere Rezepte lassen sich unten auf der Seite finden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B009RUMT76{{</world>}}

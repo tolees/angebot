@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Informationen mitteilen: Smarttag unterstützt die Weitergabe von Objektinformationen an 5 iPhone, und ein iPhone unterstützt bis zu 32 Smarttag Verbindungen. Sie brauchen sich keine Sorgen mehr zu machen, dass Familie und Freunde die Gegenstände nicht finden können
 - Left-Behind Remind: Bluetooth Tracker zeigt automatisch eine Erinnerung auf Ihrem Handy an, wenn Sie sich in einer bestimmten Entfernung von dem Gegenstand befinden. Diese Entfernung hängt von den Umgebungsstörungen ab
+- Unterstützt nur iOS, iPad OS, MacOS Systeme
+- Informationen mitteilen: Smarttag unterstützt die Weitergabe von Objektinformationen an 5 iPhone, und ein iPhone unterstützt bis zu 32 Smarttag Verbindungen. Sie brauchen sich keine Sorgen mehr zu machen, dass Familie und Freunde die Gegenstände nicht finden können
 - Extra lauter Alarm & globale Ortung: Eingebauter Summer mit bis zu 100 dB; kann über „Find My“ oder Siri für Sie gefunden werden. Über das Find My-Netzwerk können Gegenstände weltweit geortet werden, solange sich iPhone in der Nähe befinden
 - Apple Find My Certified (nur iOS): keine Installation erforderlich, einfach mit der integrierten Find My verbinden. Mit der fortschrittlichen Verschlüsselung von Find My können Sie sicher sein, dass niemand, nicht einmal das iPhone oder UGREEN, in der Lage sein wird, Ihre Tag-Standorte einzusehen
 - Magnetisches kabelloses Laden: UGREEN FineTrack Slim unterstützt magnetisches kabelloses Laden und bietet mit einer einzigen vollständigen Ladung eine Akkulaufzeit von bis zu einem Jahr für sorgenfreien Gebrauch. Der verbleibende Akkustand kann über die App überwacht werden. (Kabelloses Ladegerät nicht im Lieferumfang enthalten)
-- Unterstützt nur iOS, iPad OS, MacOS Systeme
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0FH51HVDT{{</world>}}

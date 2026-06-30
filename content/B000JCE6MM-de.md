@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Steffi mit 3 Babys
-- Bett, Kinder- wagen, Hochstuhl, Babyschale und viel Zubehör
 - Steffi 29cm / Babys 7cm
+- Bett, Kinder- wagen, Hochstuhl, Babyschale und viel Zubehör
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000JCE6MM{{</world>}}

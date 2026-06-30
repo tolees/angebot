@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vollaushärtend mit maximaler Klebeverbindung
+- wasserfest
 - Wasserfester Holzleim für den Profigebrauch
 - Titebond II Premium 946 ml Holzkleber
-- wasserfest
+- Vollaushärtend mit maximaler Klebeverbindung
 - Für den Innen- und Außenbereich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

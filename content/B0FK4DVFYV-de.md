@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Auto-Tracking und 6X Zoom: Das PT-Weitwinkelobjektiv verfolgt das Ziel, während das Teleobjektiv heranzoomt, um auf Details zu fokussieren. Die Nahaufnahme liefert automatisch 2MP- oder 4K-Ansichten. Sie können zwischen drei verschiedenen Tracking-Modi wählen, um Ihren Anforderungen zu entsprechen.
-- Einfache Installation mit PoE: Dank der PoE-Technologie kann diese Überwachungskamera 4K-HD-Bilder in unerreichter Stabilität übertragen. Sie können die Kamera schnell und einfach mit nur einem Netzwerkkabel installieren.
-- Smarte Erkennung und Wiedergabe: Die Kamera kann Personen, Fahrzeuge und Haustiere erkennen und verfolgen. Sie können die gespeicherten Videos wiedergeben, sie nach Erkennungsmodi filtern und die Zeitleiste steuern, um das Wichtigste zu finden. Keine Abogebühr ist erforderlich. Home Assistant wird unterstützt.
-- Dual-Ansicht auf einem Screen: Sehen Sie genau, was in Ihrem Zuhause passiert – mit Dual-Ansicht auf einem Bildschirm. Das 8-mm-Teleobjektiv fängt Details in Nahaufnahme ein, während das 2,8-mm-Weitwinkelobjektiv einen Panoramablick ermöglicht.
 - Die Reolink TrackMix PoE Überwachungskamera ist vollständig kompatibel mit folgenden Reolink NVR: RLN8-410 (N7MB01/NVR_NNT3NA78P), RLN16-410 (N6MB01/NVR_NNT4NA716P) sowie RLN36 (N5MB01). Bitte aktualisieren Sie Ihren NVR auf die neueste offizielle Firmware, um alle Funktionen uneingeschränkt nutzen zu können.
+- Auto-Tracking und 6X Zoom: Das PT-Weitwinkelobjektiv verfolgt das Ziel, während das Teleobjektiv heranzoomt, um auf Details zu fokussieren. Die Nahaufnahme liefert automatisch 2MP- oder 4K-Ansichten. Sie können zwischen drei verschiedenen Tracking-Modi wählen, um Ihren Anforderungen zu entsprechen.
+- Smarte Erkennung und Wiedergabe: Die Kamera kann Personen, Fahrzeuge und Haustiere erkennen und verfolgen. Sie können die gespeicherten Videos wiedergeben, sie nach Erkennungsmodi filtern und die Zeitleiste steuern, um das Wichtigste zu finden. Keine Abogebühr ist erforderlich. Home Assistant wird unterstützt.
+- Einfache Installation mit PoE: Dank der PoE-Technologie kann diese Überwachungskamera 4K-HD-Bilder in unerreichter Stabilität übertragen. Sie können die Kamera schnell und einfach mit nur einem Netzwerkkabel installieren.
+- Dual-Ansicht auf einem Screen: Sehen Sie genau, was in Ihrem Zuhause passiert – mit Dual-Ansicht auf einem Bildschirm. Das 8-mm-Teleobjektiv fängt Details in Nahaufnahme ein, während das 2,8-mm-Weitwinkelobjektiv einen Panoramablick ermöglicht.
 - Sofortige Alarme: Sobald verdächtige Bewegungen erkannt werden, lösen sich Spotlights und Sirenen aus. Dann werden Push-/E-Mail-Benachrichtigungen an Ihr Gerät gesendet. Fühlen Sie sich jederzeit sicher.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

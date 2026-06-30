@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Das elektronische Korkenzieher-Soundmodul löst coole Sound- und Lichteffekte aus, wenn die MarBalls hindurchbewegt werden. Mit Kugel-Aufzug, um die MarBalls nach oben zu befördern
+- Interaktive Kugelbahnelemente und die unzähligen Wegführungen mit Kurven, Spiralen, Geheimgängen und Aufbaumöglichkeiten (farbbasierte Anleitungen inkl.) ermöglichen stets neue Bahnkonstruktionen
+- Die rasanten Murmelrennen können losgehen: Die interaktive Murmelbahn sorgt mit 99 Bauteilen, coolen Effekten und 10 MarBalls (Kugeln) für großen Spielspaß. Kompatibel mit allen Marble Rush Sets
 - Lieferumfang: 1 x VTech Marble Rush - Super Action Set L100 E, Deutsche Version, Alter: 4-12 Jahre, 2 x AA Demobatterien, Kompatibel mit allen Marble Rush Sets, Art. Nr.: 80-519404
 - Der Aufbau und das Spielen mit der Kugelbahn fördert die motorischen Fähigkeiten, die Kreativität, das räumliche Denken und das Verständnis von Ursache und Wirkung
-- Das elektronische Korkenzieher-Soundmodul löst coole Sound- und Lichteffekte aus, wenn die MarBalls hindurchbewegt werden. Mit Kugel-Aufzug, um die MarBalls nach oben zu befördern
-- Die rasanten Murmelrennen können losgehen: Die interaktive Murmelbahn sorgt mit 99 Bauteilen, coolen Effekten und 10 MarBalls (Kugeln) für großen Spielspaß. Kompatibel mit allen Marble Rush Sets
-- Interaktive Kugelbahnelemente und die unzähligen Wegführungen mit Kurven, Spiralen, Geheimgängen und Aufbaumöglichkeiten (farbbasierte Anleitungen inkl.) ermöglichen stets neue Bahnkonstruktionen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09W2RKG58{{</world>}}

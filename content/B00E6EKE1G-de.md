@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit praktischem Dosierdispenser, der dabei hilft, die richtige Menge der Lotion aufzutragen, um so eine bestmögliche Schutzwirkung vor UV-Strahlen zu erreichen
-- Beugt bei täglicher Anwendung nicht nur hellem Hautkrebs vor, sondern trägt aufgrund des sehr hohen UV-Schutzes zur Rückbildung bereits bestehender Aktinischer Keratosen bei
 - Spendet Feuchtigkeit, pflegt die Haut und ist für alle Hauttypen, auch für sensible Haut, geeignet, Actinica Lotion ist frei von Duftstoffen und PEG-Emulgatoren
-- Für alle Hautregionen geeignet, Kann auch unter Make-Up angewendet werden
 - Einziges Medizinprodukt mit klinischen Langzeitdaten zum Nachweis der Prävention verschiedener Formen des hellen beziehungsweise weißen Hautkrebses
+- Beugt bei täglicher Anwendung nicht nur hellem Hautkrebs vor, sondern trägt aufgrund des sehr hohen UV-Schutzes zur Rückbildung bereits bestehender Aktinischer Keratosen bei
+- Mit praktischem Dosierdispenser, der dabei hilft, die richtige Menge der Lotion aufzutragen, um so eine bestmögliche Schutzwirkung vor UV-Strahlen zu erreichen
+- Für alle Hautregionen geeignet, Kann auch unter Make-Up angewendet werden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00E6EKE1G{{</world>}}

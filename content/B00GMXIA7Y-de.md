@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Mehrere größen pom poms
 - Attraktive mischung aus farben
 - 78 pro pack
 - Perfekt zum basteln und scrapbooking
-- Mehrere größen pom poms
 - Geeignet für 3 +
 
 [🛒 Hier!!]({{< param buyurl >}})

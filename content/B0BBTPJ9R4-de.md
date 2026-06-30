@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Entdecke das Gefühl, in Hogwarts zu leben, während du Verbündete findest und gegen schwarze Zauberer kämpfst
 - Erlebe Hogwarts im 19. Jahrhundert. Dein Charakter ist ein Schüler, der den Schlüssel zu einem uralten Geheimnis besitzt
-- Entscheide letztlich über das Schicksal der Welt der Zauberei
 - Dein Vermächtnis ist das, was du daraus machst. Lebe das Ungeschriebene
+- Entscheide letztlich über das Schicksal der Welt der Zauberei
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BBTPJ9R4{{</world>}}

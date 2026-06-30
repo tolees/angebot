@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- schützt den Dieselpartikelfilter
 - gewährleistet optimale Verbrennung
 - Regenerationshilfe für Dieselpartikelfilter
-- schützt den Dieselpartikelfilter
 - reduziert den Rußausstoß
 - für Kurzstrecken- und Stadtfahrzeuge besonders geeignet
 

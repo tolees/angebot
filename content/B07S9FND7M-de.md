@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Basic Pullover in Unifarben mit tonaler Logo-Stickerei auf der Brust. Mit Rippbündchen am Saum.
 - Passform: Regular Fit, Rückenlänge bei Größe L ca. 70 cm
 - Aus atmungsaktiver und weicher Baumwolle
-- Basic Pullover in Unifarben mit tonaler Logo-Stickerei auf der Brust. Mit Rippbündchen am Saum.
 - Langärmlig mit V-Ausschnitt
 
 [🛒 Hier!!]({{< param buyurl >}})

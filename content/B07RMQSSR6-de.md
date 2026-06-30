@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Passform : Locker geschnitten
 - Einem angenehmen Tragegefühl und der weichen Haptik
+- Passform : Locker geschnitten
 - Hinten länger als vorn
 - Ärmel : Tief angesetzte Schulter
 

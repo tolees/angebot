@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- G-Star Label aus lederähnlichem Papiermaterial hinten
 - Das Model ist 1.88cmcm groß und trägt Größe 32/32(Brustumfang 102cm, Taillenumfang 80cm, Hüftumfang 0cm)
 - Hosenschlitz mit Reißverschluss
+- G-Star Label aus lederähnlichem Papiermaterial hinten
 - 5 Taschen
 - Bietet Tragekomfort
 

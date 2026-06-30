@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Reguläre Passform
+- Schnürsenkel
 - Gummiaußensohle
 - Textilfutter
-- Obermaterial aus Textil
 - Textilfutter
-- Schnürsenkel
+- Obermaterial aus Textil
 - Verstärkter Zehenbereich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

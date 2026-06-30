@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Kompakt & leicht für unterwegs】Mit nur 161 g und den Maßen 10,5 × 5 × 3,3 cm ist es leicht und handlich, passt problemlos in Tasche oder Rucksack, ohne Platz zu beanspruchen oder zu kratzen – der perfekte Begleiter auf Reisen und Geschäftsreisen.
-- 【45W Schnellladen mit ausziehbarem Kabel】Das Baseus Enercore Ladegerät ist mit einem 80 cm ausziehbaren USB-C-Kabel ausgestattet – einfach herausziehen und nutzen, nach Gebrauch sauber verstauen. Am Schreibtisch, Bett oder unterwegs sorgt es für Ordnung ohne Kabelsalat. Innerhalb von 30 Minuten lädt es ein Galaxy S25 Ultra etwa zu 74 % und ein iPhone 16 Pro zu 54 % auf.
 - 【2-in-1 Schnellladegerät】Ausgestattet mit zwei USB-C-Anschlüssen, jeweils mit einer maximalen Leistung von 45W, unterstützt es das gleichzeitige Schnellladen von zwei Geräten. Egal ob iPhone + iPad oder Galaxy-Smartphone + Tablet, es liefert beiden Geräten eine schnelle Stromversorgung. Verabschieden Sie sich ganz einfach vom Kabelchaos mehrerer Ladegeräte.
 - 【GaN6-Chip & Temperaturkontrolle】Moderne GaN-Technologie sorgt für schnelleres, kühleres Laden und schützt vor Überhitzung, Überspannung und Kurzschluss. Sicheres Laden mehrerer Geräte gleichzeitig ist garantiert.
 - 【Breite Kompatibilität】Kompatibel mit iPhone 16/15/14/13, iPad Pro/Air, MacBook Air/Pro, Galaxy S25/S24/S23/Note20, Pixel, Dell, Lenovo und weiteren gängigen Marken – ideal für Ihre gesamte Gerätewelt.
+- 【Kompakt & leicht für unterwegs】Mit nur 161 g und den Maßen 10,5 × 5 × 3,3 cm ist es leicht und handlich, passt problemlos in Tasche oder Rucksack, ohne Platz zu beanspruchen oder zu kratzen – der perfekte Begleiter auf Reisen und Geschäftsreisen.
+- 【45W Schnellladen mit ausziehbarem Kabel】Das Baseus Enercore Ladegerät ist mit einem 80 cm ausziehbaren USB-C-Kabel ausgestattet – einfach herausziehen und nutzen, nach Gebrauch sauber verstauen. Am Schreibtisch, Bett oder unterwegs sorgt es für Ordnung ohne Kabelsalat. Innerhalb von 30 Minuten lädt es ein Galaxy S25 Ultra etwa zu 74 % und ein iPhone 16 Pro zu 54 % auf.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FHKC4GTZ{{</world>}}

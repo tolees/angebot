@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zwei unterschiedliche Filterschwämme sowie Bioflächenelemente und Keramik sorgen für die mechanische und biologische Reinigung des Teichwassers
 - Ein leistungsstarkes Multitalent mit Filterfunktion und Wasserspiel geeignet für Teich bis 1,5 m³ und einer Wassersäule bis zu 0,9 m
-- Individuelle Regelung der Wassermenge und Fontänenhöhe
+- Zwei unterschiedliche Filterschwämme sowie Bioflächenelemente und Keramik sorgen für die mechanische und biologische Reinigung des Teichwassers
 - Praktische Clips ermöglichen ein schnelles Öffnen des Gehäuses wodurch die Filterelemente leicht gesäubert werden können
 - Im Lieferumfang sind 3 Fontänenaufsätze enthalten, welche individuelle Wasserspiele ermöglichen und so Ihren Teich abwechslungsreich gestalten
+- Individuelle Regelung der Wassermenge und Fontänenhöhe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07K1M8R6F{{</world>}}

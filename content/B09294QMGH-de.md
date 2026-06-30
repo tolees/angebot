@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Strengster Datenschutz: keine Eve-Cloud, keine Registrierung und kein Tracking. Lokale Prozesse und Kommunikation, ohne Bridge oder Cloud-Abhängigkeit.
 - Bestehende Leuchten in ein intelligentes Beleuchtungssystem verwandeln und per App, Siri oder am Schalter selbst ein- und ausschalten.
-- Zeitpläne auf Eve Light Switch speichern, um die Leuchten unabhängig vom iPhone und Heimnetz automatisch zu schalten. / Über Szenen zeitgleich weitere Apple HomeKit-fähige Geräte schalten, auch von unterwegs oder nach Anwesenheit – dank HomePod, HomePod mini oder Apple TV als Steuerzentrale.
+- Strengster Datenschutz: keine Eve-Cloud, keine Registrierung und kein Tracking. Lokale Prozesse und Kommunikation, ohne Bridge oder Cloud-Abhängigkeit.
 - Für Räume mit einfacher, Wechsel- oder Kreuzschaltung: Der Austausch eines Schalters innerhalb der Lichtschalterkombination reicht aus. / Inklusive 55er-Schalterplatte und -Rahmen / Eve Light Switch und die mitgelieferte Schalterplatte lassen sich bei Bedarf in einen vorhandenen 55er-Einzel- oder Mehrfachrahmen integrieren. / Passende Schalterplatten und Rahmen für andere Schalterprogramme lassen sich nachkaufen.
+- Zeitpläne auf Eve Light Switch speichern, um die Leuchten unabhängig vom iPhone und Heimnetz automatisch zu schalten. / Über Szenen zeitgleich weitere Apple HomeKit-fähige Geräte schalten, auch von unterwegs oder nach Anwesenheit – dank HomePod, HomePod mini oder Apple TV als Steuerzentrale.
 - Eve Light Switch erfordert ein iPhone oder iPad mit der neuesten Version von iOS/iPadOS
 - HomeKit-Technologie: herausragender Bedienkomfort und hohe Sicherheit / ohne Bridge oder Gateway / integriert sich automatisch in ein Thread-Netzwerk (unterstützt Bluetooth und Thread) und verbessert als Thread-Knotenpunkt Stabilität und Reichweite.
 

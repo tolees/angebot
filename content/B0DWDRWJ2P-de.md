@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fesselndes kreatives Erlebnis: Stecke durchsichtige LEGO Steine zusammen und erlebe ein farbenfrohes DIY Set mit natürlichem Glanz, das Erwachsene begeistert und inspiriert
 - Von LEGO Fans ausgewählt: Dieses Set gehört zur beliebten LEGO Ideas Reihe, die von einem Fandesigner entworfen und von der Community gewählt wurde - eine besondere Form der LEGO Deko
-- 3D Bauanleitung per App: Mit der LEGO Builder App kannst du dein Baumodell in 3D betrachten, den Fortschritt verfolgen und deine LEGO Modelle digital verwalten
-- Sechs LEGO Mineralien nachbauen: Bilde einen goldenen Pyrit, einen lilafarbenen Amethysten, einen rötlich rosafarbenen Rhodochrosit einen blauen Fluorit einen Wassermelonenturmalin und einen Mandarinenquarz mit diesem vielseitigen Kreativset
-- Einzigartige Wohnzimmerdeko: Feiere die Schönheit der Natur mit der LEGO Ideas Mineraliensammlung als kreatives Bastelset mit sechs farbenfrohen Mineralien und drei modularen LEGO Regal Elementen
 - Besonderes Geschenk für Sammler: Dieses Spielzeug für Erwachsene eignet sich für dich selbst oder als Präsent für Naturfreunde, Kunstliebhaber und Fans von LEGO für Erwachsene
+- 3D Bauanleitung per App: Mit der LEGO Builder App kannst du dein Baumodell in 3D betrachten, den Fortschritt verfolgen und deine LEGO Modelle digital verwalten
+- Einzigartige Wohnzimmerdeko: Feiere die Schönheit der Natur mit der LEGO Ideas Mineraliensammlung als kreatives Bastelset mit sechs farbenfrohen Mineralien und drei modularen LEGO Regal Elementen
+- Fesselndes kreatives Erlebnis: Stecke durchsichtige LEGO Steine zusammen und erlebe ein farbenfrohes DIY Set mit natürlichem Glanz, das Erwachsene begeistert und inspiriert
+- Sechs LEGO Mineralien nachbauen: Bilde einen goldenen Pyrit, einen lilafarbenen Amethysten, einen rötlich rosafarbenen Rhodochrosit einen blauen Fluorit einen Wassermelonenturmalin und einen Mandarinenquarz mit diesem vielseitigen Kreativset
 - Kunstvoll anpassbare Deko: Stell die drei baubaren Regalmodule zusammen oder separat einen Baukasten für wechselnde Anordnungen der Mineralien
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

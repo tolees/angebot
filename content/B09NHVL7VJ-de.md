@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Synthetikleder
-- Schnürsenkel
 - Reguläre Passform
-- Dämpfende Zwischensohle
 - Gepolsterter Schaft
+- Schnürsenkel
+- Dämpfende Zwischensohle
+- Obermaterial aus Synthetikleder
 - Textilfutter
 
 [🛒 Hier!!]({{< param buyurl >}})

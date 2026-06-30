@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kann im Urlaub, am Strand, beim Sport, auf der Arbeit oder in der Freizeit getragen werden. Aus hochwertiger Bio-Baumwolle hergestellt ist das Oberteil ein unverzichtbares Basic.
 - Tolles lang geschnittenes Kurzarm Regular Fit Basic Shirt von Jack & Jones im 3er-Set für Männer und Jungen mit fein gerippten Rundhalsausschnitt und abgerundetem Saum. Ideale Bekleidung zur Jeans, Shorts oder Chino.
-- Unser Model ist 180 cm groß und trägt Größe M. Maschinenwäsche bei 40 °C. Nicht bleichen. Trockner nicht verwenden.
+- Kann im Urlaub, am Strand, beim Sport, auf der Arbeit oder in der Freizeit getragen werden. Aus hochwertiger Bio-Baumwolle hergestellt ist das Oberteil ein unverzichtbares Basic.
 - Die erstklassige Qualität wird Sie begeistern und auch die vielseitigen Kombinationsmöglichkeiten machen dieses T-Shirt so beliebt.
 - Bestellbar in verschiedenen Farbkombinationen bestehend aus Schwarz, Weiß, Beige, Grün und Grau. Erhältlich in den Größen S, M, L, XL und in den Übergrößen 2XL und 3XL.
+- Unser Model ist 180 cm groß und trägt Größe M. Maschinenwäsche bei 40 °C. Nicht bleichen. Trockner nicht verwenden.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0GTZM58YN{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Invicta 8926 hat ein 40 millimeter Edelstahl gehäuse mit einem schwarzen Zifferblatt
 - Dieses Modell wird von einem präzisen Automatikuhr angetrieben
 - 2 Jahre Garantie
+- Das Invicta 8926 hat ein 40 millimeter Edelstahl gehäuse mit einem schwarzen Zifferblatt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001E96DHA{{</world>}}

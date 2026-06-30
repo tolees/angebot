@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zu den beweglichen Bauelementen gehören ein Dämonenkopf mit beweglichem Kiefer, eine funktionierende Falltür, die sich über der Monstergrube öffnet, eine wackelnde Hängebrücke, eine auseinanderbrechende Wand als Fluchtweg, ein abnehmbares Wolfskopf-Totem und ein beweglicher Schlangenkopf und -torso
 - Enthält hochwertige Vintage-Verpackung und MEGA-Überraschungen
 - Zu den 6 detailgetreuen, super beweglichen Mikro-Actionfiguren gehören Thunder Punch He-Man, Dragon Blaster Skeletor mit Drache und Screeech, Evil-Lyn, Trap Jaw, Webstor und Ram Man, mit Display-Ständern und austauschbaren Waffen wie dem Havoc-Stab, transparenten gelben und lilafarbenen Schwertern der Macht und dem Spinnenarmrucksack mit funktionsfähigem Seilgreifhaken
-- 60 cm breit (im geöffneten Zustand)
-- Kooperatives Bauerlebnis Snake Mountain ist zum gemeinsamen Zusammenbauen mit Freunden konzipiert, bietet aber auch eine spannende Herausforderung für einzelne Bastler
 - MEGA-Bauset mit realitätsgetreuem Design, filigranen Details und authentischen Dekorationen aus dem MOTU-Universum
 - Snake Mountain zum Selberbauen, der sich vollständig auf- und zuklappen lässt und viel Platz außen und innen zum Spielen und Ausstellen bietet (öffnet horizontal)
+- Kooperatives Bauerlebnis Snake Mountain ist zum gemeinsamen Zusammenbauen mit Freunden konzipiert, bietet aber auch eine spannende Herausforderung für einzelne Bastler
+- 60 cm breit (im geöffneten Zustand)
+- Zu den beweglichen Bauelementen gehören ein Dämonenkopf mit beweglichem Kiefer, eine funktionierende Falltür, die sich über der Monstergrube öffnet, eine wackelnde Hängebrücke, eine auseinanderbrechende Wand als Fluchtweg, ein abnehmbares Wolfskopf-Totem und ein beweglicher Schlangenkopf und -torso
 - Ram Man, Webstor und Screeech sind erstmals im MEGA-Sortiment verfügbar
 
 [🛒 Hier!!]({{< param buyurl >}})

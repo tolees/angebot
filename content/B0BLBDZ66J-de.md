@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Deutsche Verpackung. Deutsche Anleitung. Deutsch spielbar.
-- Zerstöre gigantische Maschinen und vernichte Mutanten mit deinen Fähigkeiten und fortschrittlichen Waffen.
-- Instinktiv geführte, spektakuläre und unerbittlich harte Kämpfe.
 - AT PEGI 18 UNCUT Edition. Kein USK Logo auf der Verpackung
+- Deutsche Verpackung. Deutsche Anleitung. Deutsch spielbar.
+- Instinktiv geführte, spektakuläre und unerbittlich harte Kämpfe.
+- Zerstöre gigantische Maschinen und vernichte Mutanten mit deinen Fähigkeiten und fortschrittlichen Waffen.
 - Eine gleichermaßen irrsinnige und grandiose utopische Welt.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

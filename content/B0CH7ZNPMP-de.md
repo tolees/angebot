@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- [𝐃𝐮𝐚𝐥𝐞 𝐋𝐚𝐝𝐞𝐨𝐩𝐭𝐢𝐨𝐧𝐞𝐧] Kompatibel mit Universal-USB-C für 3,5 Stunden voll aufgeladen und magnetische MCC für 5 Stunden, um vielseitige Ladeoptionen für verschiedene Bedürfnisse zu gewährleisten
 - [𝐕𝐞𝐫𝐛𝐞𝐬𝐬𝐞𝐫𝐭𝐞𝐫 𝐦𝐚𝐠𝐧𝐞𝐭𝐢𝐬𝐜𝐡𝐞𝐫 𝐇𝐞𝐜𝐤𝐬𝐜𝐡𝐚𝐥𝐭𝐞𝐫] Der neue Heckschalter unterscheidet deutlich zwischen leichtem und schwerem Druck
 - [𝐊𝐥𝐚𝐫𝐞 𝐋𝐞𝐢𝐬𝐭𝐮𝐧𝐠𝐬𝐚𝐧𝐳𝐞𝐢𝐠𝐞] Als Taschenlampe für den taktischen Einsatz verfügt die OLIGHT Warrior X 4 über eine Vibrationserinnerung bei niedrigem Batteriestand (weniger als 20%)
-- [𝐋𝐞𝐢𝐬𝐭𝐮𝐧𝐠𝐬𝐬𝐭𝐚𝐫𝐤𝐞 𝐓𝐚𝐬𝐜𝐡𝐞𝐧𝐥𝐚𝐦𝐩𝐞] OLIGHT Warrior X 4 bis zu 2600 Lumen; bis zu 630 Meter Reichweite; Spitzenlichtstärke: 99.310 Candela
 - [𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐞𝐫𝐛𝐚𝐫𝐞 𝐌𝐨𝐝𝐢] Freiheit, um einfach zwischen regulären Modus und taktischen Modus zu wählen, mit verschiedenen Erfahrungen mit dem Heckschalter
+- [𝐋𝐞𝐢𝐬𝐭𝐮𝐧𝐠𝐬𝐬𝐭𝐚𝐫𝐤𝐞 𝐓𝐚𝐬𝐜𝐡𝐞𝐧𝐥𝐚𝐦𝐩𝐞] OLIGHT Warrior X 4 bis zu 2600 Lumen; bis zu 630 Meter Reichweite; Spitzenlichtstärke: 99.310 Candela
+- [𝐃𝐮𝐚𝐥𝐞 𝐋𝐚𝐝𝐞𝐨𝐩𝐭𝐢𝐨𝐧𝐞𝐧] Kompatibel mit Universal-USB-C für 3,5 Stunden voll aufgeladen und magnetische MCC für 5 Stunden, um vielseitige Ladeoptionen für verschiedene Bedürfnisse zu gewährleisten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CH7ZNPMP{{</world>}}

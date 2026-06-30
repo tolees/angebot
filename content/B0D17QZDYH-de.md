@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obbermaterial: 90 % recyceltes Polyester - 10 % synthetisch (80 % TPU - 20 % PU)
-- Farbe: Weiß Natur
-- Better Linings,Recycled Synthetics
 - Laufsohle: 100% Gummi
+- Obbermaterial: 90 % recyceltes Polyester - 10 % synthetisch (80 % TPU - 20 % PU)
+- Better Linings,Recycled Synthetics
+- Farbe: Weiß Natur
 - Futter: 100 % recyceltes Polyester
 
 [🛒 Hier!!]({{< param buyurl >}})

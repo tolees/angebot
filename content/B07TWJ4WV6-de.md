@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Helles, buntes Neon-Farbschema
-- Gepolsterter Kragen und Zunge
 - Weiches Schuhfutter mit feuchtigkeitsableitenden Eigenschaften
+- Gepolsterter Kragen und Zunge
+- Helles, buntes Neon-Farbschema
 - Air Cooled Memory Foam gepolsterte Komfort-Einlegesohle
 - Modisches Schnürschuh-Design
 

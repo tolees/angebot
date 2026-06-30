@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- DVD
 - Deutsch, Japanisch
 - 95
 - Kitaro Kousaka
-- DVD
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07WZHL7G3{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Orcs Must Die! Deathtrap vereint chaotische Third-Person-Kämpfe mit teuflischer Fallenstrategie. Mit jedem Gefecht wird der Kriegsmagier stärker und bietet so endlosen Wiederspielwert. Schlage die Orkhorden allein oder mit bis zu 4 Spielern zurück.
+- Orcs Must Die! Deathtrap vereint chaotische Third-Person-Kämpfe mit Fallenstrategie. Erledige Orks allein oder mit bis zu 4 Spielern.
 - Finde deinen Platz unter den neuen Kriegsmagiern, alle mit einzigartigen Waffen, Fähigkeiten, Fallen und Persönlichkeiten ausgestattet.
+- Orcs Must Die! Deathtrap vereint chaotische Third-Person-Kämpfe mit teuflischer Fallenstrategie. Mit jedem Gefecht wird der Kriegsmagier stärker und bietet so endlosen Wiederspielwert. Schlage die Orkhorden allein oder mit bis zu 4 Spielern zurück.
 - Genieße epische Kämpfe – kein Run gleicht dem anderen.
 - Diese physische Version enthält ein liebevoll gestaltetes Artbooklet, einen Download-Code für den epischen Original-Soundtrack und den „Supporter Pack“-DLC, um dein Abenteuer gebührend zu starten.
-- Orcs Must Die! Deathtrap vereint chaotische Third-Person-Kämpfe mit Fallenstrategie. Erledige Orks allein oder mit bis zu 4 Spielern.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0F9Z281ZZ{{</world>}}

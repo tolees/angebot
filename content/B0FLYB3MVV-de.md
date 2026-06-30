@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DIE NEUESTE VERSION: Die Blink Outdoor 4-Kamera ist unsere kabellose intelligente Sicherheitskamera der 4. Generation, mit der du dein Zuhause drinnen und draußen direkt über die Blink-App auf deinem Smartphone überwachen kannst.
-- SEHEN, HÖREN UND SPRECHEN ÜBER DIE BLINK-APP: Live-Video in 1080p HD, mit Infrarot-Nachtsicht und Gegensprechfunktion mit klarem Audio.
-- ZWEI JAHRE BATTERIELAUFZEIT: Die Einrichtung dauert nur wenige Minuten und die mitgelieferten AA-Lithiumbatterien halten bis zu zwei Jahre. Der Batterie-Erweiterungspack (separat erhältlich) bietet bis zu vier Jahre Batterielaufzeit pro Kamera.
-- FORTSCHRITTLICHE BEWEGUNGSERFASSUNG: Mit der fortschrittlichen Dualzonen-Bewegungserfassung wirst du auf dem Smartphone schneller über Bewegungen informiert.
-- PERSONENERFASSUNG: Erhalte Benachrichtigungen, wenn durch Embedded Computer Vision (ECV) eine Person erfasst wird. Enthalten in einem optionalen Blink-Abonnement (separat erhältlich).
 - IMMER WISSEN, WAS VOR DER TÜR PASSIERT: Begrüße Gäste und behalte Paketlieferungen im Blick – Tag und Nacht; dank Kopf-bis-Fuß-Aufnahmen in HD und Infrarot-Nachtsicht. Mit der Blink-App kannst du über die Gegensprechfunktion Besucher hören und mit ihnen sprechen.
+- SEHEN, HÖREN UND SPRECHEN ÜBER DIE BLINK-APP: Live-Video in 1080p HD, mit Infrarot-Nachtsicht und Gegensprechfunktion mit klarem Audio.
+- DIE NEUESTE VERSION: Die Blink Outdoor 4-Kamera ist unsere kabellose intelligente Sicherheitskamera der 4. Generation, mit der du dein Zuhause drinnen und draußen direkt über die Blink-App auf deinem Smartphone überwachen kannst.
+- PERSONENERFASSUNG: Erhalte Benachrichtigungen, wenn durch Embedded Computer Vision (ECV) eine Person erfasst wird. Enthalten in einem optionalen Blink-Abonnement (separat erhältlich).
+- FORTSCHRITTLICHE BEWEGUNGSERFASSUNG: Mit der fortschrittlichen Dualzonen-Bewegungserfassung wirst du auf dem Smartphone schneller über Bewegungen informiert.
+- ZWEI JAHRE BATTERIELAUFZEIT: Die Einrichtung dauert nur wenige Minuten und die mitgelieferten AA-Lithiumbatterien halten bis zu zwei Jahre. Der Batterie-Erweiterungspack (separat erhältlich) bietet bis zu vier Jahre Batterielaufzeit pro Kamera.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0FLYB3MVV{{</world>}}

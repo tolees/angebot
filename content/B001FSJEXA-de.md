@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ist Montage erforderlich;nein
-- Herkunftsland: Italien
 - Ideal für alle Arten von Saucen
+- Ist Montage erforderlich;nein
 - Aus Hartweizengrieß
+- Herkunftsland: Italien
 - Die Form erinnert an Muscheln
 
 [🛒 Hier!!]({{< param buyurl >}})

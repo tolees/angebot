@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- klassische Passform
+- Rippbündchen an Ärmeln und Saum
 - gefütterte Kapuze
 - auffälliger Logo Print vorne
-- Rippbündchen an Ärmeln und Saum
-- klassische Passform
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CJL71NXW{{</world>}}

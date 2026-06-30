@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- [SKIN BARRIER SUPPORT] Strengthen your skins barrier with Panthenol and Ceramide, key ingredients in TIRTIR Milk Skin Toner. They work in harmony to lock in moisture, shield your skin from external aggressors, and soothe acne-prone or dry skin.
 - [YOUR SKIN’S NEW SECRET] Elevate your skincare routine with our Niacinamide-infused toner, designed to brighten, reduce dark spots, and ensure deep hydration for a luminous, even complexion. This must-have for skin prep creates a flawless base that looks radiant under makeup, making it an essential step for achieving a perfect glow.
 - [NATURE-ORIENTED RICE BRAN EXTRACTS] Enriched with Rice Bran Extracts and Chamomile Flower, TIRTIR Milk Toner calms irritation, revitalizes your skin, and promotes an even tone, leaving it glowing and refreshed without irritation.
+- [SKIN BARRIER SUPPORT] Strengthen your skins barrier with Panthenol and Ceramide, key ingredients in TIRTIR Milk Skin Toner. They work in harmony to lock in moisture, shield your skin from external aggressors, and soothe acne-prone or dry skin.
 - BEAUTY TIRTIR Toner ist tierversuchsfrei und wurde mit Sorgfalt hergestellt. Es ist FREI von Alkohol, Parabenen, Sulfaten und Duftstoffen. Dieses Grundnahrungsmittel TIRTIR Skincare ist sowohl für den Tag als auch für die Nacht geeignet und pflegt matte, trockene Haut und sorgt für einen strahlenden, glatten Teint. Verwenden Sie es zusammen mit der TIRTIR Foundation für einen kompletten Look.
 - [DEEP HYDRATION FOR GLASS SKIN] Unlock the secret to radiant, "glass skin" with TIRTIR Milk Skin Toner. This luxurious formula delivers intensive, soothing moisture to combat dryness and fatigue, leaving your skin softer, smoother, suppler, and healthier. Perfect for achieving a fresh, dewy complexion every day.
 

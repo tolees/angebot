@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Der R78 Lightwind ist direkt aus dem Puma-Archiv der 70er Jahre inspiriert und kommt in verschiedenen Farbvariationen für einen retro-inspirierten Schuh
 - Futter und Decksohle: Textil
 - Laufsohle: Sonstiges Material
-- Der R78 Lightwind ist direkt aus dem Puma-Archiv der 70er Jahre inspiriert und kommt in verschiedenen Farbvariationen für einen retro-inspirierten Schuh
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DJ9R8C8Y{{</world>}}

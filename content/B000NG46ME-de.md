@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Elementanzeigegewicht: 0.5
 - Zutaten: Ethyl Acetate, Butyl Acetate, Nitrocellulose, Propyl Acetate, Tosylamide/Formaldehyde Resin, Isopropyl Alcohol, Trimethyl Pentanyl Diisobutyrate, Triphenyl Phosphate, Ethyl Tosylamide, Camphor, Stearalkonium Bentonite, Diacetone Alcohol, Stearalkonium Hectorite, Benzophenone-1, Citric Acid, Dimethicone. Kann beinhalten/May contain/Peut contenir: Mica, Polyethylene Terephthalate, Calcium Sodium Borosilicate, Calcium Aluminum Borosilicate, Alumina, Silica, Hydrogenated Polyisobutene, Palmitic Acid, Diamond, Tin Oxide, Aluminum/Calcium/Sodium Silicate, Synthetic FluorphlogopiteCI 77120 (Barium Sulfate), CI 77163 (Bismuth Oxychloride), CI 77891 (Titanium Dioxide), CI 77491, CI 77499 (Iron Oxides), CI 77510 (Ferric Ferrocyanide), CI 19140 (Yellow 5), CI 15850 (Red 6, Red 7), CI 73360 (Red 30), CI 15880 (Red 34), CI 77000 (Aluminum Powder), CI 42090 (Blue 1), CI 47000 (Yellow 11), CI 60725 (Violet 2), CI 77007 (Ultramarines).
+- Elementanzeigegewicht: 0.5
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000NG46ME{{</world>}}

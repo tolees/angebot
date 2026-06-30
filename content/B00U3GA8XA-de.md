@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Jede Flügeltür wird mit einem anderen Schloss oder Riegel verschlossen
-- Stabiles Holzbrett mit Metallbeschlägen und Scharnieren; keine losen Teile
 - Kunstwerke unter Türen heben bekannte Orte und faszinierende Szenen hervor
 - Aktivitätsbrett aus Holz mit Türen zum Öffnen, Schließen und Erkunden
+- Jede Flügeltür wird mit einem anderen Schloss oder Riegel verschlossen
+- Stabiles Holzbrett mit Metallbeschlägen und Scharnieren; keine losen Teile
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00U3GA8XA{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Taktische Kämpfe
 - Erweiterte Version und Klassische Version
 - Mit vollständig vertonten Dialogen, wunderschön verbesserter Grafik und zahllosen Gameplay-Verbesserungen kehrt das Genre-definierende taktische RPG zurück, auf das man lange gewartet hat.
+- Taktische Kämpfe
 - Charakterentwicklung und -anpassung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

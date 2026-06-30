@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Klassische Jeanshose im Five-Pocket-Style mit seitlichen Eingriffstaschen & Taschen am Gesäß
-- Mit Stretch-Anteil für einen angenehmen Tragekomfort und mehr Bewegungsfreiheit
-- Passform: Josh Regular Slim Fit - mittlere Leibhöhe, schmales Bein, normale Beinöffnung. Beininnenlänge bei 30L ca. 76 cm, bei 32L ca. 81 cm, bei 34L ca. 86 cm, bei 36L ca. 91 cm
 - Waschhinweis: Keine chemische Reinigung möglich, Trocknen im Trockner nicht möglich, Kein Bleichmittel erlaubt, Bei niedriger Temperatur bügeln (110° C), Schonwaschgang bei max. 30°C
+- Klassische Jeanshose im Five-Pocket-Style mit seitlichen Eingriffstaschen & Taschen am Gesäß
+- Passform: Josh Regular Slim Fit - mittlere Leibhöhe, schmales Bein, normale Beinöffnung. Beininnenlänge bei 30L ca. 76 cm, bei 32L ca. 81 cm, bei 34L ca. 86 cm, bei 36L ca. 91 cm
 - Mit Gürtelschlaufen & Logo-Badge hinten am Bund
+- Mit Stretch-Anteil für einen angenehmen Tragekomfort und mehr Bewegungsfreiheit
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B075NTBH65{{</world>}}

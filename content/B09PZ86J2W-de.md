@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Flexible Traktions-Laufsohle
 - Schnürschuh aus synthetischem Durabuck-Obermaterial mit goldenen Akzenten
 - Synthetic Leather
-- Flexible Traktions-Laufsohle
 - Keilform mit 2,5 cm Höhe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

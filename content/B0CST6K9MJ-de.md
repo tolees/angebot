@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EINFACHE DOSIERUNG: 1 Teil Sirup + 19 Teile Wasser im Glas oder in der Flasche mischen Praktische Dosierkappe mit Linien für 0,5 L und 1 L Getränk
-- LIEFERUMFANG: 1x SodaStream SirupMaracuja ohne Zucker 440 ml
 - SODASTREAM CLASSICS: Entdecken Sie unseren SodaStream Maracuja ohne Zucker Sirup in neuer Größe und Verpackung
-- NEUE VERPACKUNG: Wir stellen ie Flasche (außer Verschluss und Etikett) auf 100 Prozent rPET (recycltes PET) um
+- LIEFERUMFANG: 1x SodaStream SirupMaracuja ohne Zucker 440 ml
 - NIE MEHR SCHLEPPEN: 1 Flasche Sirup ergibt bis zu 9 Liter Fertiggetränk - Kein Flaschenpfand - kein Leergut - weniger Plastikmüll (1 Flasche Sirup ersetzt bis zu 9 Pfandflaschen)
+- EINFACHE DOSIERUNG: 1 Teil Sirup + 19 Teile Wasser im Glas oder in der Flasche mischen Praktische Dosierkappe mit Linien für 0,5 L und 1 L Getränk
+- NEUE VERPACKUNG: Wir stellen ie Flasche (außer Verschluss und Etikett) auf 100 Prozent rPET (recycltes PET) um
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CST6K9MJ{{</world>}}

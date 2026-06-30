@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FARBANSICHT BEI DÄMMERLICHT – Umgebungslicht reicht aus, um alles im Blick und unter Kontrolle zu behalten. Die Außenkamera 2K+ liefert auch bei schwachem Licht noch Videos in Farbe, bevor sie auf Infrarot-Schwarzweiß umschaltet.
 - IMMER WISSEN, WAS VOR DER TÜR PASSIERT: Begrüße Gäste und behalte Paketlieferungen im Blick – Tag und Nacht; dank Kopf-bis-Fuß-Aufnahmen in HD und Infrarot-Nachtsicht. Mit der Blink-App kannst du über die Gegensprechfunktion Besucher hören und mit ihnen sprechen.
-- KRISTALLKLAR IN 2K – Mit einer schärferen Videoauflösung in 2K siehst du noch mehr von allem, was dir wichtig ist. Von dezenten Mustern bis hin zu definierten Kanten zeigen sich selbst bei schlechten Lichtverhältnissen ein hoher Detailreichtum und verbesserte Farben.
 - ENTDECKE DIE NEUESTE GENERATION – Die Blink Außenkamera 2K+ ist unsere kabellose, intelligente Sicherheitskamera der nächsten Generation, die mit gestochen scharfer 2K-Videoauflösung und Farbansicht bei Dämmerlicht ein verbessertes Video- und Audioerlebnis bietet.
 - ERLEBE DIE NEUSTE GENERATION: Die Videotürklingel ist unsere intelligente Sicherheitstürklingel der zweiten Generation. Sie ist als System inklusive Sync-Basismodul (für neue Kunden empfohlen) oder als Einzelgerät (nur Türklingel) für bestehende Kunden erhältlich.
+- KRISTALLKLAR IN 2K – Mit einer schärferen Videoauflösung in 2K siehst du noch mehr von allem, was dir wichtig ist. Von dezenten Mustern bis hin zu definierten Kanten zeigen sich selbst bei schlechten Lichtverhältnissen ein hoher Detailreichtum und verbesserte Farben.
+- FARBANSICHT BEI DÄMMERLICHT – Umgebungslicht reicht aus, um alles im Blick und unter Kontrolle zu behalten. Die Außenkamera 2K+ liefert auch bei schwachem Licht noch Videos in Farbe, bevor sie auf Infrarot-Schwarzweiß umschaltet.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0GPR6LFRN{{</world>}}

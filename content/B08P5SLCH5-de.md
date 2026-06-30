@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Obermaterial: Leder
 - Sohle: Gummi
 - Verschluss: Schnürsenkel
-- Obermaterial: Leder
 - Innenmaterial: Synthetik
 
 [🛒 Hier!!]({{< param buyurl >}})

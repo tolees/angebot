@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein funktionaler Trailrunning-Schuh mit recycelten Materialien für Kinder.
-- Fein verstellbares BOA Fit System
 - Einlegesohle mit Adifit Längenmessung für die Auswahl der richtigen Größe
 - Obermaterial aus Textil
+- Fein verstellbares BOA Fit System
+- Ein funktionaler Trailrunning-Schuh mit recycelten Materialien für Kinder.
 - OrthoLite Einlegesohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

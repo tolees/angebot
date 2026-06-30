@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 6 programmierbare Tasten & RGB-Beleuchtung: Passe Tastenfunktionen, Makros, DPI-Stufen und Beleuchtung per HyperX NGENUITY Software individuell an deinen Spielstil an
-- Kompatibel mit PC, Xbox Series X|S, PS5 & mehr: Vielseitig einsetzbar mit Dual-Wireless-Konnektivität – ideal für PC-Gaming oder Konsolenspiele auf Xbox oder PlayStation
-- Ultraleichte Gaming-Maus für präzises Gameplay: Mit nur 70 g Betriebsgewicht bietet die Pulsefire Haste 2 Core maximale Beweglichkeit und Kontrolle – ideal für schnelle FPS-Games und lange Sessions ohne Ermüdung
-- Hochpräziser HyperX Core Sensor mit 12000 DPI: Der eigens entwickelte Sensor ermöglicht punktgenaues Tracking, hohe Geschwindigkeit (bis zu 300 IPS) und bis zu 1000 Hz Polling-Rate – perfekt für anspruchsvolle Gamer
 - Kabellose Freiheit mit bis zu 100 Stunden Akkulaufzeit: Spiele kabellos über 2,4 GHz oder Bluetooth – mit nur einer AAA-Batterie erreichst du bis zu 100 Stunden Laufzeit für unterbrechungsfreies Gaming
+- Ultraleichte Gaming-Maus für präzises Gameplay: Mit nur 70 g Betriebsgewicht bietet die Pulsefire Haste 2 Core maximale Beweglichkeit und Kontrolle – ideal für schnelle FPS-Games und lange Sessions ohne Ermüdung
+- Kompatibel mit PC, Xbox Series X|S, PS5 & mehr: Vielseitig einsetzbar mit Dual-Wireless-Konnektivität – ideal für PC-Gaming oder Konsolenspiele auf Xbox oder PlayStation
+- 6 programmierbare Tasten & RGB-Beleuchtung: Passe Tastenfunktionen, Makros, DPI-Stufen und Beleuchtung per HyperX NGENUITY Software individuell an deinen Spielstil an
+- Hochpräziser HyperX Core Sensor mit 12000 DPI: Der eigens entwickelte Sensor ermöglicht punktgenaues Tracking, hohe Geschwindigkeit (bis zu 300 IPS) und bis zu 1000 Hz Polling-Rate – perfekt für anspruchsvolle Gamer
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D2BJTX1L{{</world>}}

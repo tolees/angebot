@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zusätzlicher Schutz vor Wind und Kälte durch hohen Kragen und Reißverschluss über die halbe Länge
-- Lieferumfang: 1x Columbia Herren Half Zip Fleecejacke, Klamath Range II, Ancient Fossil/Black, XL, Art. Nr.: 1352472
-- Funktionaler Charakter und Wärme in Verbindung mit anderen Columbia-Produkten
 - Besonders warm und kuschelig dank hochwertigem Fleece-Material
 - Besonders warm und kuschelig durch hochwertiges Fleecematerial, Omni-Shade-Technologie mit Sonnenschutzfaktor UPF 50
+- Funktionaler Charakter und Wärme in Verbindung mit anderen Columbia-Produkten
+- Lieferumfang: 1x Columbia Herren Half Zip Fleecejacke, Klamath Range II, Ancient Fossil/Black, XL, Art. Nr.: 1352472
+- Zusätzlicher Schutz vor Wind und Kälte durch hohen Kragen und Reißverschluss über die halbe Länge
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08QJPZZ6Q{{</world>}}

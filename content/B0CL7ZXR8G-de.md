@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hergestellt aus 100 Prozent Baumwolle, weich auf der Haut
-- Bequeme Passform für optimalen Tragekomfort
 - Ideal für den Sommer: Kurzarm Design
+- Bequeme Passform für optimalen Tragekomfort
+- Hergestellt aus 100 Prozent Baumwolle, weich auf der Haut
 - Rundhalsausschnitt für einen klassischen Look
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

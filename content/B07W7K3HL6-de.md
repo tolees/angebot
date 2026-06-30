@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kombinieren Sie zwei der weltbesten Kreativtools: Fordern Sie beim Kauf von MX Keys Mini für Mac Ihr kostenloses einmonatiges Adobe Creative Cloud-Abonnement an und werden Sie noch kreativer.
-- Kleine Größe, starke Leistung: Das Keyboard bietet ein präzises Layout mit einer minimalistischen Form - eine ergonomische und tragbare Tastatur, die überall mitgenommen werden kann
-- Wiederaufladbar über USB-C: Die MX Keys Mini Bluetooth-Tastatur kann bis zu 10 Tage mit einer vollen Ladung oder bis zu 5 Monate mit ausgeschalteter Hintergrundbeleuchtung genutzt werden (3)
-- Entwickelt für Mac: MX Keys Mini für Mac wurde für macOS, iPadOS(2) und iOS(2) konzipiert und bietet eine Tastatur mit einem Layout für Mac - für maximale Produktivität
-- Optimaler Tastenanschlag: Die Tastatur überzeugt durch Tasten, die den Fingerspitzen angepasst sind - mit Diktierfunktion für automatische Texteingabe, Mikrofonstummschaltung (1) und Emoji-Tasten
-- Mehrere Computer, ein Workflow: Die MX Keys Mini mit der MX Master 3 für Mac oder der MX Anywhere 3 für Mac verbinden und auf mehreren Computern oder Laptops in einem flüssigen Workflow (1) tippen
 - Multi-Mac-Konnektivität: Die kompakte MX Keys Mini Tastatur für Mac über Bluetooth Low Energy mit mehreren Mac-Computern und iPads verbinden und nahtlos zwischen ihnen umschalten
+- Wiederaufladbar über USB-C: Die MX Keys Mini Bluetooth-Tastatur kann bis zu 10 Tage mit einer vollen Ladung oder bis zu 5 Monate mit ausgeschalteter Hintergrundbeleuchtung genutzt werden (3)
 - Intelligente Beleuchtung: Die hintergrundbeleuchteten Tasten der Funktastatur leuchten auf, sobald sich die Hände annähern - dabei passt sich die Intensität automatisch den Lichtverhältnissen an
+- Optimaler Tastenanschlag: Die Tastatur überzeugt durch Tasten, die den Fingerspitzen angepasst sind - mit Diktierfunktion für automatische Texteingabe, Mikrofonstummschaltung (1) und Emoji-Tasten
+- Kleine Größe, starke Leistung: Das Keyboard bietet ein präzises Layout mit einer minimalistischen Form - eine ergonomische und tragbare Tastatur, die überall mitgenommen werden kann
+- Entwickelt für Mac: MX Keys Mini für Mac wurde für macOS, iPadOS(2) und iOS(2) konzipiert und bietet eine Tastatur mit einem Layout für Mac - für maximale Produktivität
+- Mehrere Computer, ein Workflow: Die MX Keys Mini mit der MX Master 3 für Mac oder der MX Anywhere 3 für Mac verbinden und auf mehreren Computern oder Laptops in einem flüssigen Workflow (1) tippen
+- Kombinieren Sie zwei der weltbesten Kreativtools: Fordern Sie beim Kauf von MX Keys Mini für Mac Ihr kostenloses einmonatiges Adobe Creative Cloud-Abonnement an und werden Sie noch kreativer.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07W7K3HL6{{</world>}}

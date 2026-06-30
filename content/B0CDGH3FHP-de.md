@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Privatsphäre-Schieber: Mit der integrierten Webcam-Abdeckung schützen Sie mühelos, zuverlässig und vollständig Ihre Privatsphäre, wenn Sie gerade kein Videogespräch führen
-- Integriertes Mikrofon: Über das integrierte Mikrofon verstehen Ihre Gesprächspartner Sie in Videoanrufen klar und deutlich
-- Automatischer Lichtausgleich: RightLight erhöht die Helligkeit um bis zu 50 %, reduziert Schatten und bringt Sie damit optimal zur Geltung – verglichen mit Logitech Webcams der vorherigen Generation(1)
 - Plug-and-Play-Komfort: Brio 100 funktioniert mit den meisten Videogesprächsplattformen, einschließlich Microsoft Teams, Zoom und Google Meet
-- Mit recyceltem Kunststoff: Die Brio 100 Full HD-Webcam besteht zu mindestens 34 % aus recyceltem Kunststoff(2)
 - Volle Klarheit: Dank der Full HD-Auflösung mit 1080p sind Sie in Videogesprächen klarer zu sehen.
+- Mit recyceltem Kunststoff: Die Brio 100 Full HD-Webcam besteht zu mindestens 34 % aus recyceltem Kunststoff(2)
+- Automatischer Lichtausgleich: RightLight erhöht die Helligkeit um bis zu 50 %, reduziert Schatten und bringt Sie damit optimal zur Geltung – verglichen mit Logitech Webcams der vorherigen Generation(1)
+- Privatsphäre-Schieber: Mit der integrierten Webcam-Abdeckung schützen Sie mühelos, zuverlässig und vollständig Ihre Privatsphäre, wenn Sie gerade kein Videogespräch führen
 - Farbe für Ihre Meetings: Bringen Sie bei der Arbeit zu Hause Ihre Persönlichkeit zum Ausdruck mit ansprechenden und eleganten Farben, genau passend zu Ihrer Einrichtung
+- Integriertes Mikrofon: Über das integrierte Mikrofon verstehen Ihre Gesprächspartner Sie in Videoanrufen klar und deutlich
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CDGH3FHP{{</world>}}

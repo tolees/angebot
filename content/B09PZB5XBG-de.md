@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inhalt: 2 x 50 g GOLDHASEN, 12 x LINDOR Milch, 12 x LINDOR Noisette, 12 x LINDOR Feinherb, 12 x LINDOR Weiß, 12 x LINDOR Dark 60%, 12 x LINDOR Caramel, 12 x LINDOR Salted Caramel, 12 x LINDOR Stracciatella
-- Verschenken oder genießen Sie zartschmelzende Genussmomente zur Osterzeit
 - Genießen Sie zartschmelzende LINDOR Kugeln in 8 Sorten sowie 2 Vollmilch Goldhasen
-- Auch zum Dekorieren oder befüllen von Osternestern geeignet
 - LINDOR eignet sich hervorragend als eindrucksvolles Schokoladen-Geschenk, das wunderbar mit den Liebsten geteilt oder auf der Ostersuche versteckt werden kann
 - 175 Jahre Schweizer Schokoladen-Expertise, die Basis unseres Schaffens: Seit 1845 verwöhnt Lindt Kundinnen & Kunden mit Qualitätsprodukten
+- Verschenken oder genießen Sie zartschmelzende Genussmomente zur Osterzeit
+- Inhalt: 2 x 50 g GOLDHASEN, 12 x LINDOR Milch, 12 x LINDOR Noisette, 12 x LINDOR Feinherb, 12 x LINDOR Weiß, 12 x LINDOR Dark 60%, 12 x LINDOR Caramel, 12 x LINDOR Salted Caramel, 12 x LINDOR Stracciatella
+- Auch zum Dekorieren oder befüllen von Osternestern geeignet
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09PZB5XBG{{</world>}}

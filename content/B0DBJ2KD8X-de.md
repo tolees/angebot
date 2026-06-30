@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Besonders empfehlenswert für hochwertige Mobiltelefone, Smartphones und Tablet-PCs
-- Lieferumfang: Intenso Premium microSDXC 3x 64 GB UHS-I Class 10 Speicherkarte inkl. SD-Adapter
 - Extreme Speed: Lesegeschwindigkeiten von bis zu 90 MB/S
 - Geschwindigkeitsklasse: Class 10, U1 (Garantierte Mindestgeschwindigkeit: 10 MB/s)
+- Lieferumfang: Intenso Premium microSDXC 3x 64 GB UHS-I Class 10 Speicherkarte inkl. SD-Adapter
 - Wasserfest, temperaturbeständig, stoßfest & röntgensicher
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

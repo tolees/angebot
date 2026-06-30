@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Reguläre Passform
+- Zwischen- und Außensohle aus EVA
 - Obermaterial aus Mesh
+- Textilfutter
 - Schnürsenkel und Klettverschluss
 - Besteht zu mindestens 20 % aus recycelten Materialien
-- Zwischen- und Außensohle aus EVA
-- Textilfutter
 - Textilfutter
 
 [🛒 Hier!!]({{< param buyurl >}})

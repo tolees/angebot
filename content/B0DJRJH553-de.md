@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- VIDEOBILDSTABILISIERUNG: Die Kamera verwendet Active I.S., um selbst die stärksten Verwacklungen auszugleichen; perfekt für die Aufnahme von Videos und Standbildern.
-- PRÄZISE STEUERUNG: Schnelle und einfache Anpassungen mit präzisem Fokus und Brennweitensteuerung bei diesem Zoomobjektiv
-- VIELSEITIGE BRENNWEITE: Nehmen Sie Landschaften, Schnappschüsse und Porträts mit dem einzigartigen Brennweitenbereich von 18-40 mm dieses Reiseobjektivs auf.
-- KOMPAKTES & ROBUSTES GEHÄUSE: Diese 6K/4K-Kamera verfügt über ein hochwertiges Gehäuse aus einer Magnesiumlegierung und eine spritzwasser- und staubfeste Konstruktion, um selbst den härtesten Umgebungen standzuhalten.
-- KOMPROMISSLOSE BILDQUALITÄT: Die S5M2NE verfügt über einen 24,2-MP-Vollformatsensor mit 14+ Blendenstufen Dynamikumfang und natürlichen Farben, selbst bei hohen ISO-Werten. Dual Native ISO ermöglicht Videoaufnahmen bei schwachem Licht mit minimalem Rauschen und einem 96 MP HighRes Modus.
 - VIDEO IN KINOQUALITÄT: Diese Vollformatkamera liefert unbegrenzte C4K 60p/50p 4:2:2 10-Bit-Aufnahmen und 6K 30p/25p 4:2:0 10-Bit-Aufnahmen für professionelle Videos sowie HFR- und S&Q-Unterstützung.
+- KOMPROMISSLOSE BILDQUALITÄT: Die S5M2NE verfügt über einen 24,2-MP-Vollformatsensor mit 14+ Blendenstufen Dynamikumfang und natürlichen Farben, selbst bei hohen ISO-Werten. Dual Native ISO ermöglicht Videoaufnahmen bei schwachem Licht mit minimalem Rauschen und einem 96 MP HighRes Modus.
+- KOMPAKTES & ROBUSTES GEHÄUSE: Diese 6K/4K-Kamera verfügt über ein hochwertiges Gehäuse aus einer Magnesiumlegierung und eine spritzwasser- und staubfeste Konstruktion, um selbst den härtesten Umgebungen standzuhalten.
+- PRÄZISE STEUERUNG: Schnelle und einfache Anpassungen mit präzisem Fokus und Brennweitensteuerung bei diesem Zoomobjektiv
+- VIDEOBILDSTABILISIERUNG: Die Kamera verwendet Active I.S., um selbst die stärksten Verwacklungen auszugleichen; perfekt für die Aufnahme von Videos und Standbildern.
+- VIELSEITIGE BRENNWEITE: Nehmen Sie Landschaften, Schnappschüsse und Porträts mit dem einzigartigen Brennweitenbereich von 18-40 mm dieses Reiseobjektivs auf.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DJRJH553{{</world>}}

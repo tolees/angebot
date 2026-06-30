@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 48H FEUCHTIGKEIT – Die Sonnenmilch stellt die Feuchtigkeit der Haut für 48h wieder her und sorgt für ein gesundes, weiches Hautgefühl ohne weiße Rückstände.
-- HAUT & UMWELT – Dem Ozean zuliebe ist die Formel ohne die umweltschädlichen UV-Filter Octinoxat, Oxybenzon & Octocrylen sowie frei von Mikroplastik** und Paraffinen.
 - EFFEKTIVER SCHUTZ – Die NIVEA Sonnencreme mit LSF 50+ bietet einen sofortigen UVA- sowie UVB-Schutz, der hilft, kurz- und langfristige UV-Schäden zu verhindern.
 - CITRACELL-PROTECT – Die Formel mit CitraCell-Protect-Technologie, Vitamin C & E sowie Hyaluron reduziert effektiv den oxidativen Stress auf zellulärer Ebene*.
+- 48H FEUCHTIGKEIT – Die Sonnenmilch stellt die Feuchtigkeit der Haut für 48h wieder her und sorgt für ein gesundes, weiches Hautgefühl ohne weiße Rückstände.
+- HAUT & UMWELT – Dem Ozean zuliebe ist die Formel ohne die umweltschädlichen UV-Filter Octinoxat, Oxybenzon & Octocrylen sowie frei von Mikroplastik** und Paraffinen.
 - LIEFERUMFANG & DETAILS – NIVEA SUN Schutz & Pflege Sonnenlotion LSF 50+, 200 ml, wasserfeste Sonnencreme für intensive Feuchtigkeit, schnell einziehend & ohne weiße Rückstände, Artikelnr. 85666
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Anwendung: Auftragen des Cleansers auf das feuchte Gesicht (außer Augen und Lippen), Sanftes Einmassieren, Abspülen mit klarem Wasser, Tägliche Anwendung empfohlen
 - Formel: Vegane und zu 94% biologisch abbaubare Formel mit BHA und Kohle natürlichen Ursprungs – ideal für zu Akne neigende Haut, Nachhaltiger Verpackung aus 100% recyceltem Plastik
-- Lieferumfang: Garnier Hautklar Carbon Cleanser, Anti-Mitesser Waschgel, 1x 250 ml
 - Ergebnis: Gemildeter Unreinheiten, Verfeinerte Poren und ein sofort gereinigt und mattiert wirkendes Hautbild, 24h-Anti-Glanz-Effekt
 - Waschgel für das Gesicht zur Milderung von Pickeln und Mitessern sowie zum Befreien der Haut von Talg, Verschmutzung und Make-up, Ideal für zu Akne neigende Haut
+- Lieferumfang: Garnier Hautklar Carbon Cleanser, Anti-Mitesser Waschgel, 1x 250 ml
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C78VFRP8{{</world>}}

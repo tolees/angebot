@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Puzzlemaße: 26,3 x 17,8 cm
 - Spieleranzahl: ab 1 Spieler
 - Empfohlenes Alter: ab 4 Jahren
+- Puzzlemaße: 26,3 x 17,8 cm
 - Kinderpuzzle, 3x48 Teile
 
 [🛒 Hier!!]({{< param buyurl >}})

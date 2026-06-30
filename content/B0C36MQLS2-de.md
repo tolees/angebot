@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Der Single Jerseystoff ist angenehm und weich auf der Haut
-- Aus komfortabler Baumwolle für ein angenehmes Tragegefühl
-- Mit klassischem Rundhalsausschnitt
 - Kurzarmshirt, perfekt für wärmere Tage oder als Layering-Basis
+- Mit klassischem Rundhalsausschnitt
+- Aus komfortabler Baumwolle für ein angenehmes Tragegefühl
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C36MQLS2{{</world>}}

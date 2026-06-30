@@ -29,12 +29,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Synthetik-Außensohle
+- Zwischen- und Außensohle aus EVA
 - Besteht zu mindestens 20 % aus recycelten Materialien
 - Der Größe entsprechend
 - Textilfutter
-- Obermaterial aus Mesh
 - Textilfutter
-- Zwischen- und Außensohle aus EVA
+- Obermaterial aus Mesh
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DHZMDBDM{{</world>}}

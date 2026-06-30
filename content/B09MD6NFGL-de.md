@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einteiliger Patronenfilter: Dank des einteiligen Patronenfilters kann der WD 2 Plus V-12/4/18/C sowohl nassen als auch trockenen Schmutz aufsaugen, ohne den Filter zwischendurch auszutauschen
-- Vielseitige Anwendung: Der Nass-/Trockensauger ist robust und vielseitig einsetzbar. Er lässt sich im Haus, in der Garage und Werkstatt, bei der Renovierung und für die Autoinnenreinigung verwenden
 - Praktische Ausstattung: Er verfügt über einen 12-l-Auffangbehälter aus Kunststoff, einen 1,8 Meter langen Saugschlauch und Aufbewahrungsmöglichkeiten für Zubehör, Kabel und den Schlauch
+- Vielseitige Anwendung: Der Nass-/Trockensauger ist robust und vielseitig einsetzbar. Er lässt sich im Haus, in der Garage und Werkstatt, bei der Renovierung und für die Autoinnenreinigung verwenden
+- Einteiliger Patronenfilter: Dank des einteiligen Patronenfilters kann der WD 2 Plus V-12/4/18/C sowohl nassen als auch trockenen Schmutz aufsaugen, ohne den Filter zwischendurch auszutauschen
 - Saugstarke Leistung: Der Nass-/Trockensauger saugt mit einer Leistung von 1000 W feinen und groben Schmutz restlos auf. Mit der Blasfunktion lässt sich loser Schmutz von Flächen blasen
 - Lieferumfang: Der Kärcher Nass-/Trockensauger WD 2 Plus V-12/4/18/C, ein Patronenfilter, ein Vliesfilterbeutel, eine Boden- sowie Fugendüse, der Saugschlauch und 2 Saugrohre sind enthalten
 

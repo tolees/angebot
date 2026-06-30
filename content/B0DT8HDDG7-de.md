@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eine Welt voller Möglichkeiten: Mit Spielfiguren, thematischen Räumen, Möbeln und Puppenhäusern (jeweils separat erhältlich) bauen Kinder ihre ganz eigene Gabby-Welt und entwickeln spielerisch ihre Vorstellungskraft
-- Inhalt: 6 Figuren, 5 Zubehörteile
-- Katz-tastisch zum Verschenken: Ob zum Geburtstag, zu Weihnachten oder einfach so – Gabby’s Dollhouse Spielzeug ist ein Highlight für kleine Puppenhaus-Fans ab 3 Jahren
-- Mit Überraschungsspielzeug: In der enthaltenen Puppenhaus-Lieferung versteckt sich ein geheimes Zubehörteil – einfach auspacken wie Gabby in der Serie und dann den QR-Code für eine digitale Überraschung scannen
-- Bewegliche Spielfiguren mit Zubehör: Gabby hat bewegliche Glieder, Panda Pfötchen trägt eine Tasche, Kuchi eine Mütze und Leopold eine Fliege – perfekt für interaktive Abenteuer
 - Magie aus dem Kinofilm: Das Cat-venture Crew Set enthält Gabby, Panda Pfötchen, Kitty Fee, Meerkätzchen, Kuchi-Katze und Leopold (EN: Chumsley) – alle Figuren sehen aus wie im Film und sind bereit für viele fantasievolle Geschichten
+- Bewegliche Spielfiguren mit Zubehör: Gabby hat bewegliche Glieder, Panda Pfötchen trägt eine Tasche, Kuchi eine Mütze und Leopold eine Fliege – perfekt für interaktive Abenteuer
+- Mit Überraschungsspielzeug: In der enthaltenen Puppenhaus-Lieferung versteckt sich ein geheimes Zubehörteil – einfach auspacken wie Gabby in der Serie und dann den QR-Code für eine digitale Überraschung scannen
+- Inhalt: 6 Figuren, 5 Zubehörteile
+- Eine Welt voller Möglichkeiten: Mit Spielfiguren, thematischen Räumen, Möbeln und Puppenhäusern (jeweils separat erhältlich) bauen Kinder ihre ganz eigene Gabby-Welt und entwickeln spielerisch ihre Vorstellungskraft
+- Katz-tastisch zum Verschenken: Ob zum Geburtstag, zu Weihnachten oder einfach so – Gabby’s Dollhouse Spielzeug ist ein Highlight für kleine Puppenhaus-Fans ab 3 Jahren
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DT8HDDG7{{</world>}}

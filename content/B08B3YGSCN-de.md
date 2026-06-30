@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lightweight
 - Durability
+- Lightweight
 - Cushioning and moisture manage
 
 [🛒 Hier!!]({{< param buyurl >}})

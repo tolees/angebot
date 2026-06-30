@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Textilfutter
 - Schnürsenkel
 - Obermaterial aus beschichtetem Leder
-- Textilfutter
 - Reguläre Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

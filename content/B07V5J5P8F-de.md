@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Größenhinweis: Fällt regulär aus
 - Haltungsverbessernd, Wasserabweisend und Rutschfest
+- Größenhinweis: Fällt regulär aus
 - Multifunktion für Alltag und nasses Wetter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

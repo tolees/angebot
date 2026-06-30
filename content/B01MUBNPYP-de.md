@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nicht kompatibel mit Nintendo Switch 2
 - Erleben Sie mit Mario ein gewaltiges, weltumspannendes 3D-Abenteuer und nutzen Sie seine unglaublichen neuen Fähigkeiten! Sammeln Sie Monde als Treibstoff für das Luftschiff und retten Sie Prinzessin Peach vor Bowser, der Heiratspläne schmiedet!
+- Nicht kompatibel mit Nintendo Switch 2
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01MUBNPYP{{</world>}}

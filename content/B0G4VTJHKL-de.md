@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bedienung per Fernsteuerung: Der Wohnzimmer-Stehlampe liegt eine magnetische Fernbedienung bei, die aus bis zu 15 m Entfernung funktioniert. Sie haftet direkt am Lampenständer und ist so immer griffbereit und ordentlich verstaut
-- Stabil & leicht aufzubauen: Der Metallsockel mit Anti-Rutsch-Pads sorgt für einen sicheren Stand der Lampe. Werkzeug wird nicht benötigt – einfach die Stangen zusammenschrauben, den Sockel befestigen und in 5 Minuten ist die Leuchte einsatzbereit
+- Hell und augenschonend: Die Standleuchte bietet eine maximale Leistung von 30W und einen Lichtstrom von 2800 Lumen. Das sanfte, gleichmäßige Licht hilft, die Augenbelastung bei langen Lese- oder Arbeitsphasen zu reduzieren
 - Verstellbarer Leuchtenkopf: Der Kopf dieser LED-Stehlampe lässt sich horizontal um 350° drehen und vertikal um 90° neigen. So kann er sowohl als Deckenfluter als auch als Leselampe eingesetzt werden – je nachdem, welche Beleuchtung Sie gerade brauchen
 - Individuelles Licht nach Bedarf: Stufenlos dimmbar von 10% bis 100%, Farbtemperatur von 2700K bis 6500K. 5 voreingestellte Modi ermöglichen es Ihnen, mit nur einem Tastendruck die passende Lichtstimmung für unterschiedliche Szenarien zu wählen
-- Hell und augenschonend: Die Standleuchte bietet eine maximale Leistung von 30W und einen Lichtstrom von 2800 Lumen. Das sanfte, gleichmäßige Licht hilft, die Augenbelastung bei langen Lese- oder Arbeitsphasen zu reduzieren
+- Stabil & leicht aufzubauen: Der Metallsockel mit Anti-Rutsch-Pads sorgt für einen sicheren Stand der Lampe. Werkzeug wird nicht benötigt – einfach die Stangen zusammenschrauben, den Sockel befestigen und in 5 Minuten ist die Leuchte einsatzbereit
+- Bedienung per Fernsteuerung: Der Wohnzimmer-Stehlampe liegt eine magnetische Fernbedienung bei, die aus bis zu 15 m Entfernung funktioniert. Sie haftet direkt am Lampenständer und ist so immer griffbereit und ordentlich verstaut
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0G4VTJHKL{{</world>}}

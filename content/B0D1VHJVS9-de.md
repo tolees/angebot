@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Robust und kompakt: Das 240W USB C Ladekabel überzeugt mit einer Lebensdauer von über 30000 Biegungen und Aluminiumgehäuse. Der Kabelbinder lässt sich einfach ordnen, somit können Sie ein ordentlicher Schreibtisch genießen.
-- Müloses Schnellladen mit 240W: Mit dem entsprechenden Ladegerät kann MacBook Air M3 in 35 Min. bis zu 88% geladen werden. Neben dem 240W Schnellladen, unterstützt das USB C Ladekabel auch 480 Mbps. Hinweis: Bildschirmübertragung und Dock mit DP-Alt Modus werden nicht unterstützt.
 - Schneller als je zu vor mit PD 3.1: UGREEN USB C auf USB C Kabel unterstützt Power Delivery 3.1 mit der maximalen Ladeleistung bis zu 240W (5A/48V). Es ist also abwärtskompatibel mit PD 3.0 und konzipiert für USB-C Gerät. Von Laptop bis zu Smartphone, ein 240W USB C Kabel ist genug. Hinweis: Die aktuelle Ladeleistung ist abhängig von dem Gerät und Netzteil.
-- Ein 240W USB-C Kabel für ALLES: MacBook Pro/Air (prioritär für 240W), iPhone 17/Air/16/15, Dell XPS, iPad Pro, Surface Pro, Galaxy S25 Ultra, Pixel, Switch-Konsole. Datenübertragung mit 480 MBit/s – aber keine Videoübertragung. Ideal für Hochleistungsgeräte und Autoreisen. Perfekt als USB-C zu USB-C Hybridlösung
+- Müloses Schnellladen mit 240W: Mit dem entsprechenden Ladegerät kann MacBook Air M3 in 35 Min. bis zu 88% geladen werden. Neben dem 240W Schnellladen, unterstützt das USB C Ladekabel auch 480 Mbps. Hinweis: Bildschirmübertragung und Dock mit DP-Alt Modus werden nicht unterstützt.
 - Sicher und zuverlässig: Mit eingebautem E-Marker Chip können die Ausgangsspannung und den Ausgangsstrom automatisch an Ihre unterschiedliche USB C Geräte anpassen und Ihre Geräte vor Beschädigungen beim Laden schützen werden.
+- Ein 240W USB-C Kabel für ALLES: MacBook Pro/Air (prioritär für 240W), iPhone 17/Air/16/15, Dell XPS, iPad Pro, Surface Pro, Galaxy S25 Ultra, Pixel, Switch-Konsole. Datenübertragung mit 480 MBit/s – aber keine Videoübertragung. Ideal für Hochleistungsgeräte und Autoreisen. Perfekt als USB-C zu USB-C Hybridlösung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D1VHJVS9{{</world>}}

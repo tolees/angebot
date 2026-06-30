@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MIT DEN OHREN VERSTECKEN SPIELEN: Einfach ein Ohr oder sogar beide nach unten klappen und auf den Kopf drücken, um sie wieder nach oben ploppen zu lassen und den Charakter zu enthüllen
-- AUF 3 ARTEN ÜBER 45 GERÄUSCHE AKTIVIEREN: Einfach auf den Mund drücken und schon erklingen süße Füttergeräusche. Durch Drücken des Herzjuwels ertönt die Musik. An der Kopfspitze lassen sich lustige Sätze in Furbisch aktivieren und ein- und ausschalten
-- MACHT MUSIK UND SPRICHT FURBISCH: Par-Tay ist ein Musikspielzeug, das fröhliche Weihnachtslieder spielt und lustige Sätze in der Furby-Sprache kommuniziert (spricht keine Menschensprache). Enthält 3 x A76 / LR44 Knopfzellenbatterien
 - PAR-TAY KLEINER FURBLETS-FREUND: Furblets sind kleine Furby-Spielzeuge und haben ihre eigenen musikalischen Vorlieben! Sie eignen sich prima als kleines Geschenk zum Nikolaus, als Belohnung oder für den Schreibtisch
+- MACHT MUSIK UND SPRICHT FURBISCH: Par-Tay ist ein Musikspielzeug, das fröhliche Weihnachtslieder spielt und lustige Sätze in der Furby-Sprache kommuniziert (spricht keine Menschensprache). Enthält 3 x A76 / LR44 Knopfzellenbatterien
+- AUF 3 ARTEN ÜBER 45 GERÄUSCHE AKTIVIEREN: Einfach auf den Mund drücken und schon erklingen süße Füttergeräusche. Durch Drücken des Herzjuwels ertönt die Musik. An der Kopfspitze lassen sich lustige Sätze in Furbisch aktivieren und ein- und ausschalten
+- MIT DEN OHREN VERSTECKEN SPIELEN: Einfach ein Ohr oder sogar beide nach unten klappen und auf den Kopf drücken, um sie wieder nach oben ploppen zu lassen und den Charakter zu enthüllen
 - SCHLÜSSELANHÄNGER FÜR UNTERWEGS: Das entzückende kleine Wesen ist 5 cm klein und kommt mit einem abnehmbaren Schlüsselanhänger für den Rucksack oder die Reisetasche. Ein tolles Plüschspielzeug für Mädchen und Jungen. Nur äußerlich reinigen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

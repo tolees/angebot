@@ -29,12 +29,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Inhalt: PRO X 60 kabellose Gaming-Tastatur, kabelloser LIGHTSPEED USB-Adapter, Lade- und Datenkabel USB-A auf USB-C (1,8 m), Logitech G Tastenkappen, Reise-Etui, Bedienungsanleitung
-- LIGHTSPEED Gaming: Spielen mit turniererprobter Zuverlässigkeit und Geschwindigkeit; kabellose Verbindung über LIGHTSPEED Adapter mit superschneller Signalrate (1 ms) oder Bluetooth; optionale USB-Verbindung
-- PRO X 60 LIGHTSPEED: Diese mechanische 60%-Gaming-Tastatur ohne Ziffernblock repräsentiert die nächste Generation professioneller kabelloser Tastaturen, gemeinsam mit E-Sport-Profis entwickelt für Topleistung und sichere Siege
-- Reise-Etui inbegriffen: Das mitgelieferte Reise-Etui schützt die mobile Tastatur auf dem Weg zu Veranstaltungen und Turnieren
-- Die Größe ist wichtig: Maximaler Freiraum ohne Abstriche bei der Leistung: Die kompakte mechanische TKL-Tastatur erlaubt mehr Platz für Mausbewegungen, damit Sie sich ganz auf den Sieg konzentrieren können
-- Optische Switches: Optische GX-Switches bieten eine schnellere Auslösung und keinerlei Debounce-Verzögerung; Sie können je nach Spielstil zwischen taktilen oder linearen Switches wählen
 - Personalisierung ist alles: Die KEYCONTROL-Technologie bietet professionelle Anpassung jeder einzelnen Taste sowie fünf spezielle Layer: Deine kleine Gaming-Tastatur wird zum unverzichtbaren Kontrollzentrum
+- Reise-Etui inbegriffen: Das mitgelieferte Reise-Etui schützt die mobile Tastatur auf dem Weg zu Veranstaltungen und Turnieren
+- Optische Switches: Optische GX-Switches bieten eine schnellere Auslösung und keinerlei Debounce-Verzögerung; Sie können je nach Spielstil zwischen taktilen oder linearen Switches wählen
+- Die Größe ist wichtig: Maximaler Freiraum ohne Abstriche bei der Leistung: Die kompakte mechanische TKL-Tastatur erlaubt mehr Platz für Mausbewegungen, damit Sie sich ganz auf den Sieg konzentrieren können
+- PRO X 60 LIGHTSPEED: Diese mechanische 60%-Gaming-Tastatur ohne Ziffernblock repräsentiert die nächste Generation professioneller kabelloser Tastaturen, gemeinsam mit E-Sport-Profis entwickelt für Topleistung und sichere Siege
+- LIGHTSPEED Gaming: Spielen mit turniererprobter Zuverlässigkeit und Geschwindigkeit; kabellose Verbindung über LIGHTSPEED Adapter mit superschneller Signalrate (1 ms) oder Bluetooth; optionale USB-Verbindung
 - Technik für Profi-Ansprüche: Spielmodus-Steuerung, Standard-Tastatur-Layouts mit 3P-Kompatibilität, Multimedia-Bedienelemente und Lautstärkeregler, Tasten mit anpassbarer LIGHTSYNC RGB-Beleuchtung über G HUB
 
 [🛒 Hier!!]({{< param buyurl >}})

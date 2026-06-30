@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- bis zu 3 mal längere Schreibleistung als herkömmliche Whiteboard Marker
 - problemlos auch Über-Kopf-Schreiben
-- langlebige und belastbare Spitze
 - frische Tinte und kräftige Farben durch Knopfdruck aktivierbar
+- langlebige und belastbare Spitze
+- bis zu 3 mal längere Schreibleistung als herkömmliche Whiteboard Marker
 - Whitebaord Marker mit innovativem Pumpsystem zur Tintenflussregulierung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

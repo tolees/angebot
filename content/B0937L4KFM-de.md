@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Kern: Taschenfederkern verleihen dieser Matratze unabhängige Schlafzonen.
 - Matratze Modell Medium, Höhe 30 cm (+/- 1 cm). Hergestellt in Spanien. Die Matratzen werden gerollt geliefert.
 - Seite: Horizontale Griffe an den Seiten.
-- Kern: Taschenfederkern verleihen dieser Matratze unabhängige Schlafzonen.
 - Oberseite: Stretch-Gewebe gepolstert mit hypoallergener Faser, 1 cm viskoelastisch, 2 cm Viscosoft und 4 cm hoher Widerstandsfähigkeit von 25 kg. Diese Kombination reduziert Druckpunkte passt sich den Konturen deines Körpers an. Rutschfestes Gewebe, um einen kontinuierlichen Luftdurchlass zu gewährleisten, die Matratze in einem optimalen Zustand zu halten, Feuchtigkeit zu vermeiden und die Atmungsaktivität zu fördern.
 - Unterseite: Gepolstert mit atmungsaktivem 3D-Gewebe mit 4 cm hoher Widerstandsfähigkeit und 1 cm hypoallergener Faser. Alle unsere Matratzen sind aus hypoallergenen, milbenabweisenden und antibakteriellen Stoffen hergestellt mit Oeko-Tex-Zertifikat. Oeko-Tex Standard 100.
 

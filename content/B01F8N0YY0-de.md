@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ZUM aromaschonenden Ernten, Abstreifen und Zerkleinern von Kräuter und zum Ernten von Obst und Gemüse
 - ABMESSUNGEN: 18,5 x 1,2 x 8,9 cm
+- MATERIAL: Edelstahl DIN 1.4034, gehärtet; Griffe: Polypropylen (PP)
 - DETAILS: die große Nut in der Klinge schneidet harte Stiele wie Rosmarin, die kleinen Abstreifer streifen die Blättchen von Thymian, Rosmarin etc. ab. Trennbaren Scherenblätter ermöglichen eine einfache und hygienische Reinigung.
 - PFLEGE: spülmaschinengeeignet; lebensmittelecht
-- MATERIAL: Edelstahl DIN 1.4034, gehärtet; Griffe: Polypropylen (PP)
+- ZUM aromaschonenden Ernten, Abstreifen und Zerkleinern von Kräuter und zum Ernten von Obst und Gemüse
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01F8N0YY0{{</world>}}

@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bündchen und Saum gerippt
-- Regulär geschnitten
+- Besteht zu mindestens 70 % aus recycelten und erneuerbaren Materialien
 - Überschnittene Schultern
 - 70 % Baumwolle / 30 % Polyester (recycelt)
-- Besteht zu mindestens 70 % aus recycelten und erneuerbaren Materialien
-- Rundhalsausschnitt
+- Regulär geschnitten
 - Hinten etwas kürzerer geschnitten
+- Bündchen und Saum gerippt
+- Rundhalsausschnitt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D197WBS3{{</world>}}

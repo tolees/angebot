@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stretch Denim für ganztägigen Komfort
 - Slim Fit
+- Stretch Denim für ganztägigen Komfort
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CB499X3W{{</world>}}

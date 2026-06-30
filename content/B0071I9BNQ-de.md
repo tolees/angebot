@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Robustheit
 - Flexible Gestaltung
 - Hochwertige Material
+- Robustheit
 - Langlebig
 
 [🛒 Hier!!]({{< param buyurl >}})

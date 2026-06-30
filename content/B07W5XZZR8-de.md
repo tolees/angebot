@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Angewinkelte Nähte an den Seiten ermöglichen uneingeschränkte Bewegungsfreiheit
-- Elastischer Bund mit Kordelzug
 - Standard Passform
+- Elastischer Bund mit Kordelzug
+- Angewinkelte Nähte an den Seiten ermöglichen uneingeschränkte Bewegungsfreiheit
 - Perfekte Atmungsaktivität
 - Dri-fit-technologie
 

@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Zylinderkopf für leichteres Versenken im Holz. Vollgewinde zur Aufnahme hoher Zug- und Druckkräfte. Optimale Kraftübertragung und sauberer Passsitz mit SPAX Bit T-STAR plus T30 mit Führungszapfen
+- Lieferumfang: 1 SPAX Box, 100 Stück Holzbauschraube T-STAR plus, Zylinderkopf, Vollgewinde, 4CUT, WIROX Oberfläche, Ød1= 6mm x Ls= 100mm, LgV= Gewinde bis Kopf, Ødk= 8, 4mm, Bit nicht enthalten
 - Ermüdungsfreies Arbeiten und längere Akku-Lebensdauer: Kein Vorbohren (holzabhängig). Leichteres Eindringen, Verringerung der Spaltwirkung durch 4CUT: Vier Kanten in der Schraubenspitze.
 - Einsatz: Ideal für die Anwendungsbereiche Holz-Glas-Fassaden und Holzbau. SPAX-exklusive WIROX-Oberfläche
 - Made in Germany: TÜV zertifiziert. Bauaufsichtlich zugelassen: Europäisch Technische Zulassung für Schrauben als Holzverbindungsmittel in tragenden Holzkonstruktionen (ETA-12/0114)
-- Lieferumfang: 1 SPAX Box, 100 Stück Holzbauschraube T-STAR plus, Zylinderkopf, Vollgewinde, 4CUT, WIROX Oberfläche, Ød1= 6mm x Ls= 100mm, LgV= Gewinde bis Kopf, Ødk= 8, 4mm, Bit nicht enthalten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07115SCRP{{</world>}}

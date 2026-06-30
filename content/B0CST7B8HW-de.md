@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnürbänder
 - Mit Innenfutter
+- Schnürbänder
 - Mit tonalem Logo an den Seiten und an den Fersenkappen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

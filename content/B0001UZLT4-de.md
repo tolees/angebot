@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Auch für Gastronomie geeignet dank handlicher Form, Ineinander stapelbar, Stoß- und schlagfeste Kanten
 - Spülmaschinenfest und mikrowellengeeignet, Hochwertige Qualität: Premium Porzellan Hergestellt in Deutschland
 - Runde Schale mit klassischem Relief für kleine Leckereien wie Suppen, Vorspeisen, Müslis oder Desserts, Eleganter Begleiter im Alltag
-- Auch für Gastronomie geeignet dank handlicher Form, Ineinander stapelbar, Stoß- und schlagfeste Kanten
 - Größe ideal für kleine Speisen, Kann beliebig gefüllt werden, Perfekt mit dem Cellini-Geschirr kombinierbar
 - Lieferumfang: 1x Villeroy & Boch Cellini Schale (750 ml), Material: Premium Porzellan, Farbe: Weiß
 

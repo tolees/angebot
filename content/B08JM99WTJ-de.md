@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Jeans für Herren in Standard der dänischen
 - Eine Regular-Fit-Hose mit schmaler, gerader Beinform
-- Jeans in schlichter Passform
+- Jeans für Herren in Standard der dänischen
 - Der Stretchanteil sorgt für eine tolle Passform
+- Jeans in schlichter Passform
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08JM99WTJ{{</world>}}

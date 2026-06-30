@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Staub- und spritzwassergeschützt gebaut, bietet maximalen Schutz und Zuverlässigkeit, egal bei welchem Wetter oder Einsatzort.
 - 17mm Festbrennweite (entspricht 34mm bei 35mm) ist optimal für Landschaftsaufnahmen, Porträts und vielseitige Motive im Alltag.
-- Lichtstarke Blende F1.8 ermöglicht kreative Kontrolle über Tiefenschärfe und beeindruckende Ergebnisse bei schwierigen Lichtverhältnissen.
 - Leistungsstarker, leiser MSC-Autofokus ermöglicht präzises und schnelles Fokussieren, perfekt für spontane Aufnahmen in jeder Situation.
 - Kompaktes, leichtes Gehäuse sorgt für höchsten Komfort auf Reisen und im täglichen Einsatz – ideal für Streetfotografie und Reportage.
-- Staub- und spritzwassergeschützt gebaut, bietet maximalen Schutz und Zuverlässigkeit, egal bei welchem Wetter oder Einsatzort.
+- Lichtstarke Blende F1.8 ermöglicht kreative Kontrolle über Tiefenschärfe und beeindruckende Ergebnisse bei schwierigen Lichtverhältnissen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DV97BG1G{{</world>}}

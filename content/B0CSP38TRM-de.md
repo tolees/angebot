@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Präzisionssensor: PixArt PAW3395 für 26.000 CPI, 650 IPS und 50G. Motion-Sync-Funktion für konstante Datenintervalle, perfektioniert Muskelgedächtnis.
-- Vielseitiges Claw-Grip-Design: Leicht mit etwas über 50 g. Inspiriert vom XM-Design für Claw-Grips, bietet Flexibilität für die Fingerplatzierung.
 - Unterbrechungsfreie Leistung: Keine Sorgen mehr über das Stromsparen mit dem Flex Cord 5.0-Kabel. Permanente Datenverbindung stellt sicher, dass die Maus immer für Höchstleistungen bereit ist.
 - RGB-Beleuchtung: Anpassbar mit 3 LED-Modi, Einzelfarboptionen und RGB-Farbzyklus. Betrieben vom STM32 Arm Cortex M4 MCU für nahtlose Leistung.
+- Vielseitiges Claw-Grip-Design: Leicht mit etwas über 50 g. Inspiriert vom XM-Design für Claw-Grips, bietet Flexibilität für die Fingerplatzierung.
 - Kailh GX Switches: Exklusive Switches für 80 Millionen Aktuationen, präziser Aktuationspunkt und ein klarer, definierter Klick für verbesserte Spielkontrolle.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

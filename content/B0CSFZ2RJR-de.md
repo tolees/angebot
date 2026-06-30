@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Troyerkragen mit Reißverschluss
 - camel active Markenlabel am Ärmel
 - Unser Model ist 188 cm groß und trägt Größe L
-- Feinstrick aus Baumwollmix
 - Strickmuster in Rippstruktur
+- Feinstrick aus Baumwollmix
+- Troyerkragen mit Reißverschluss
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CSFZ2RJR{{</world>}}

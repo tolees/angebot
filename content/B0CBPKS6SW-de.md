@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erlebe Abenteuer als einer der Vogelschar, oder der Bodenschar.
 - Niedliche Tiere nehmen dich mit in ihren verzauberten Wald
+- Erlebe Abenteuer als einer der Vogelschar, oder der Bodenschar.
 - Kampagnenwelt für die 5te Edition des weltgrößten Rollenspiels
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

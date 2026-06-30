@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die Helden werden an Bord epischer Abenteuer in Gallien, Italien, Griechenland, Ägypten und weiterer Länder gehen, erwartet von lustigen und dynamischen actionbasierten Schlachten, in denen du die Römer nach Belieben schlagen kannst
-- Werde der tapferste Gallier und stoße die römischen Invasoren und den Kaiser Cäsar vom Thron
 - Die Asterix & Obelix XXL: Collection enthält 3 Asterix & Obelix XXL-Videospiele für ein vollgepacktes Abenteuer deiner Lieblingsgallier!
-- Von Klein bis Groß kann jeder diese Spiele voller Wahnsinnskämpfe und unvergesslicher Ausflüge in die Welt von Asterix genießen.
 - Asterix & Obelix XXL 3: Der Kristall Hinkelstein hat sogar einen 2-Spieler-Koop-Modus
+- Werde der tapferste Gallier und stoße die römischen Invasoren und den Kaiser Cäsar vom Thron
+- Von Klein bis Groß kann jeder diese Spiele voller Wahnsinnskämpfe und unvergesslicher Ausflüge in die Welt von Asterix genießen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BYSC7PJV{{</world>}}

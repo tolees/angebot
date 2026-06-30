@@ -28,16 +28,16 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kreuzschraubendreher
-- Kettenfangdraht
 - Nippelspanner (Speichenspanner) G14 / 15
-- Schlitzschraubendreher
+- Perfekt zum Mitnehmen
 - Inbusschlüssel (Sechskantschlüssel) 2, 5 / 3 / 4 / 5 / 6 / 8
+- Kettennietdrücker
+- Kreuzschraubendreher
 - 2 x Reifenheber
 - Torx T25 (speziell für E-Bikes)
+- Kettenfangdraht
 - 15 teiliges Multifunktionswerkzeug extra für E-Bikes geeignet
-- Perfekt zum Mitnehmen
-- Kettennietdrücker
+- Schlitzschraubendreher
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0849FMT8X{{</world>}}

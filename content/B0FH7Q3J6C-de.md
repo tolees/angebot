@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- STAR WARS: OBI-WAN KENOBI: Diese Darth Vader Figur ist von der Live-Action-Serie auf Disney+ inspiriert und perfekt als Geschenk für Sammler und Fans ab 4 Jahren geeignet
-- PREMIUM DESIGN UND BEWEGLICHKEIT: Star Wars Fans können diese Figur (Skala 15 cm) in ihren eigenen Sammlungen ausstellen. Sie kommt im Premium-Look mit textilem Umhang in einer seriengetreuen Formgebung und beeindruckt mit mehreren Bewegungspunkten
 - ACCESSOIRE ZUR SERIE: Die Figur bringt das charakteristische Lichtschwert von Darth Vader mit, um sie im eigenen Regal in dynamischen Posen darzustellen
-- FENSTERSCHACHTEL-VERPACKUNG: Die Fensterschachtel mit elegantem Charakterdesign ist perfekt, um Star Wars Fandom im eigenen Regal zu zeigen
+- PREMIUM DESIGN UND BEWEGLICHKEIT: Star Wars Fans können diese Figur (Skala 15 cm) in ihren eigenen Sammlungen ausstellen. Sie kommt im Premium-Look mit textilem Umhang in einer seriengetreuen Formgebung und beeindruckt mit mehreren Bewegungspunkten
 - EINEM FRÜHEREN FREUND GEGENÜBERTRETEN: Als sich der Kampf zwischen Darth Vader und Obi-Wan Kenobi seinem Ende nähert, blickt Kenobi hinter die Maske seines ehemaligen Lehrlings und sieht, was aus Anakin Skywalker geworden ist
+- FENSTERSCHACHTEL-VERPACKUNG: Die Fensterschachtel mit elegantem Charakterdesign ist perfekt, um Star Wars Fandom im eigenen Regal zu zeigen
+- STAR WARS: OBI-WAN KENOBI: Diese Darth Vader Figur ist von der Live-Action-Serie auf Disney+ inspiriert und perfekt als Geschenk für Sammler und Fans ab 4 Jahren geeignet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FH7Q3J6C{{</world>}}

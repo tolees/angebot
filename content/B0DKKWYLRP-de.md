@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- „DU BIST MEINE EINZIGE HOFFNUNG“: Als Prinzessin Leia ihn um Hilfe bittet, begibt sich Jedi-Meister Obi-Wan Kenobi mit Luke Skywalker, R2-D2, C-3PO und den Piloten Han Solo und Chewbacca auf eine Reise nach Alderaan
-- VERPACKUNG IM KENNER STIL: Wie auch die originalen Vintage Spielzeuge aus den 1970ern und 1980ern präsentiert sich diese Figur mit Kenner Branding und Verpackungsdesign und verfügt über eine einzigartige VC Sammelnummer
-- KLASSISCHE, ZUM CHARAKTER PASSENDE ACCESSOIRES: Diese Ben (Obi-Wan) Kenobi Figur kommt mit seinem charakteristischen Lichtschwert mit einem unbeleuchteten Griff als Accessoire
 - PREMIUM-DESIGN UND DEKO: Star Wars Fans können diese Action-Figur (Skala 9,5 cm) in ihren eigenen Sammlungen präsentieren. Sie beeindruckt durch Deko und Design zum Film und wartet mit einem textilen Mantel auf
 - STAR WARS: EINE NEUE HOFFNUNG: Diese Ben (Obi-Wan) Kenobi Action-Figur (9,5 cm) ist von Episode IV aus der originalen Trilogie inspiriert und perfekt als Geschenk für Sammler und Fans ab 4 Jahren geeignet
 - MEHRERE BEWEGUNGSPUNKTE IN EINER SKALA VON 9,5 CM: Kopf, Arme und Beine der Action-Figur sind beweglich, sodass die Fans sie zum Ausstellen in dynamische Posen bringen können
 - ZUR ERWEITERUNG EINER SAMMLUNG: Es gibt noch mehr Vintage Collection Sammelfiguren aus dem Star Wars Franchise. (Jeweils separat erhältlich. Je nach Verfügbarkeit)
+- „DU BIST MEINE EINZIGE HOFFNUNG“: Als Prinzessin Leia ihn um Hilfe bittet, begibt sich Jedi-Meister Obi-Wan Kenobi mit Luke Skywalker, R2-D2, C-3PO und den Piloten Han Solo und Chewbacca auf eine Reise nach Alderaan
+- KLASSISCHE, ZUM CHARAKTER PASSENDE ACCESSOIRES: Diese Ben (Obi-Wan) Kenobi Figur kommt mit seinem charakteristischen Lichtschwert mit einem unbeleuchteten Griff als Accessoire
+- VERPACKUNG IM KENNER STIL: Wie auch die originalen Vintage Spielzeuge aus den 1970ern und 1980ern präsentiert sich diese Figur mit Kenner Branding und Verpackungsdesign und verfügt über eine einzigartige VC Sammelnummer
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DKKWYLRP{{</world>}}

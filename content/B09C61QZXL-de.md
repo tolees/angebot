@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lebensstil: Outdoor
 - Mode: Sneaker
 - Muster: Einfarbig
+- Lebensstil: Outdoor
 - Leder: smooth leather
 
 [🛒 Hier!!]({{< param buyurl >}})

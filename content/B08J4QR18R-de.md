@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 3 V Leistung und 225 mAh Kapazität; bietet zuverlässige Leistung
 - Jede Knopfzelle hat einen Durchmesser von 20 mm und eine Dicke von 2,5 mm.
-- Knopfzellenmodell eingraviert zur einfachen Identifizierung
 - 8 Jahre auslaufsichere Lagerung, ideal für Armbanduhren, Taschenrechner, Funkschlüssel, Apple-TV-Fernbedienungen und andere kleine elektronische Geräte
+- 3 V Leistung und 225 mAh Kapazität; bietet zuverlässige Leistung
+- Knopfzellenmodell eingraviert zur einfachen Identifizierung
 - 6 Stück Lithium-Knopfzellen Größe CR2032
 - Ersatz für BR2032, DL2032 und ECR2032
 

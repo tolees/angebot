@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Material: Chrom-Vanadium
-- Oberfläche: verchromt, poliert
 - Herkunftsland:- Deutschland
+- Material: Chrom-Vanadium
 - Für Außen Schrauben
+- Oberfläche: verchromt, poliert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001CA8JIM{{</world>}}

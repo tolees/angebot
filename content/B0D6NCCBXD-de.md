@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Breathable
 - Verschluss mit Schnürsenkeln und Reißverschluss
 - Herausnehmbare Innensohle
-- Breathable
 - Schnelles und einfaches Anziehen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

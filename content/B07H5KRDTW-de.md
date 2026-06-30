@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2-fach Teleskopauszug
-- Farbe: Edelstahl
 - Zubehör für Backöfen
+- Farbe: Edelstahl
+- 2-fach Teleskopauszug
 - Bitte prüfen Sie die Kompatibilität dieses Zubehörs mit Ihrem Bosch Großgerät auf der Bosch Homepage
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Locker geschnitten
-- Viertelreißverschluss
 - Gestricktes Gewebe
+- Viertelreißverschluss
+- Locker geschnitten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CXQVCF1K{{</world>}}

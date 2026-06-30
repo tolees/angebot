@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Selbstaufladung mit bis zu 90W für effizientes Wiederaufladen
-- Bis zu 120W Ausgangsleistung über integriertes Kabel
-- Intelligente Temperaturregelung Bleibt kühl für sicheren Gebrauch
 - Schlankes Design mit farbiger Akkustatusanzeige
 - Zwei Anschlüsse mit einer Gesamtausgangsleistung von bis zu 165W
+- Bis zu 120W Ausgangsleistung über integriertes Kabel
+- Intelligente Temperaturregelung Bleibt kühl für sicheren Gebrauch
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DMWSXRV1{{</world>}}

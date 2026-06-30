@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absolute Bewegungsfreiheit
 - Kurzarm
-- Hoher Tragekomfort
 - Normale Passform
+- Hoher Tragekomfort
+- Absolute Bewegungsfreiheit
 - Maximaler Komfort
 
 [🛒 Hier!!]({{< param buyurl >}})

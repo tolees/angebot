@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Remodellierende Gesichtscreme mit 3fach Effekt
-- Anti-Pollution: Schützt die Haut vor Umweltverschmutzung, dank Exo-P
-- Anti-Glykation: Verzögert die Bildung glykierter Reaktionsprodukte (A.G.E.), dank der Wirkung von Carnosin
 - Direkt auf die saubere und trockene Haut sowie das Dekolleté auftragen. Produkt vollständig einziehen lassen
+- Anti-Glykation: Verzögert die Bildung glykierter Reaktionsprodukte (A.G.E.), dank der Wirkung von Carnosin
+- Anti-Pollution: Schützt die Haut vor Umweltverschmutzung, dank Exo-P
+- Remodellierende Gesichtscreme mit 3fach Effekt
 - Remodellierung: Spendet Feuchtigkeit und remodelliert die Gesichtskonturen, dank vernetzter Hyaluronsäure und Syn-Hycan
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

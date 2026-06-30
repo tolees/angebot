@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit dem Einhell Akku-Lautsprecher TC-SR 18 Li BT - Solo gelingt eine einfache Verbindung zu allen Bluetooth-fähigen Geräten wie Smartphones oder Tablets.
-- Der Lautsprecher kann drahtlos, aber auch über einen AUX-Anschluss für den Anschluss von MP3-Playern oder Smartphones verbunden werden. Das intuitive Bedienfeld ermöglicht eine leichte Handhabung.
 - Die Lieferung erfolgt ohne Akku und Ladegerät, diese sind separat erhältlich, zum Beispiel als praktisches Starter-Set in verschiedenen Stärken.
-- Der Einhell Lautsprecher kann zudem mittels des USB-Anschlusses zum Laden von Smartphone, Tablet oder MP3-Player genutzt werden.
 - Als Mitglied der Power X-Change-Familie sind alle hochwertigen Lithium-Ionen-Akkus der Einhell Systemreihe mit dem Akku-Lautsprecher kombinierbar, diese sind separat erhältlich.
+- Mit dem Einhell Akku-Lautsprecher TC-SR 18 Li BT - Solo gelingt eine einfache Verbindung zu allen Bluetooth-fähigen Geräten wie Smartphones oder Tablets.
+- Der Einhell Lautsprecher kann zudem mittels des USB-Anschlusses zum Laden von Smartphone, Tablet oder MP3-Player genutzt werden.
+- Der Lautsprecher kann drahtlos, aber auch über einen AUX-Anschluss für den Anschluss von MP3-Playern oder Smartphones verbunden werden. Das intuitive Bedienfeld ermöglicht eine leichte Handhabung.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0873MRH9T{{</world>}}

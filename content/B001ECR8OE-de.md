@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - optimale Drehkraftübertragung
-- gehärtete Klinge
 - inklusive der gängigsten 1/4" Bits, Bithalter und Bit-Schraubendreher
 - mit Aufhängeloch
+- gehärtete Klinge
 - mit 2-Komponentengriff
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ablassventil ermöglicht effizientes Abfließen großer Wassermengen
-- Die Blasfunktion ist ideal zum Entfernen von Laub und Schmutz in schwer zugänglichen Bereichen
-- Bei Verwendung mit einem Elektrowerkzeug wird er automatisch ein- und ausgeschaltet
-- Lieferumfang: Papierfilterbeutel (2 609 256 F33);** Nachkauf nur im 5er-Set;Vorfilter (2 609 256 F41);Filter (2 609 256 F35);Haltegriff (2 609 256 F31);Fugendüse (2 609 256 F26);2 Saugrohre zu jeweils 0,5 m, Ø 35 mm (2 609 256 F27);Bodendüse (2 609 256 F21);Bürsteneinsatz (2 609 256 F22);Gummilippeneinsatz (2 609 256 F24);Schlauch 2,2 m, Ø 35 mm, antistatisch (2 609 256 F30);Universaladapter (2 609 256 F28);Karton
 - Hält den Werkstattbereich frei von Staub und Spänen und beseitigt auch nasse Verschmutzungen
+- Bei Verwendung mit einem Elektrowerkzeug wird er automatisch ein- und ausgeschaltet
+- Ablassventil ermöglicht effizientes Abfließen großer Wassermengen
+- Lieferumfang: Papierfilterbeutel (2 609 256 F33);** Nachkauf nur im 5er-Set;Vorfilter (2 609 256 F41);Filter (2 609 256 F35);Haltegriff (2 609 256 F31);Fugendüse (2 609 256 F26);2 Saugrohre zu jeweils 0,5 m, Ø 35 mm (2 609 256 F27);Bodendüse (2 609 256 F21);Bürsteneinsatz (2 609 256 F22);Gummilippeneinsatz (2 609 256 F24);Schlauch 2,2 m, Ø 35 mm, antistatisch (2 609 256 F30);Universaladapter (2 609 256 F28);Karton
+- Die Blasfunktion ist ideal zum Entfernen von Laub und Schmutz in schwer zugänglichen Bereichen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B06XTB2L21{{</world>}}

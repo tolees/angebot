@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Buntes Meerestier-Design
 - Inhalt: 1 Schlauchboot, 1 Reparaturflicken
+- Buntes Meerestier-Design
 - Strapazierfähiges PVC
 - Robuste Haltegriffe
 

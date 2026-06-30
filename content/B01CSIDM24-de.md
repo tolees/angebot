@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Designt von NeXtime. Das niederländisches Design mit internationaler Note hat im Laufe der Jahre einige der international anerkanntesten und preisgekröntesten Uhrendesigns geschaffen.
-- Mit sehr leisem Quarzuhrwerk, benötigte Batterien 1 x 1,5 V AA (nicht enthalten)
-- Große silberne Uhr mit großen Zahlen auf weißem Ziffernblatt sowie gut lesbaren schwarzen Stunden- und Minutenzeigern und rotem Sekundenzeiger
 - Die Maße der runden Wanduhr betragen ø 35 cm x 4,5 cm
+- Große silberne Uhr mit großen Zahlen auf weißem Ziffernblatt sowie gut lesbaren schwarzen Stunden- und Minutenzeigern und rotem Sekundenzeiger
 - Die klassische Bahnhofsuhr STATION von NeXtime passt mit ihrem Gehäuse aus Glas und Aluminium ideal in moderne Räume und Büros - und als Funkuhr zeigt sie immer die korrekte Zeit an.
+- Mit sehr leisem Quarzuhrwerk, benötigte Batterien 1 x 1,5 V AA (nicht enthalten)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01CSIDM24{{</world>}}

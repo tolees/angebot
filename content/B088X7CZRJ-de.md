@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Pullover
 - 100% Baumwolle,
+- Pullover
 - Unterstützt die Better Cotton Initiative
 - nachhaltig
 

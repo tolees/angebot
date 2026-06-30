@@ -29,13 +29,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Produkt 2: Kurze Ärmel
+- Produkt 1: Normale Passform
+- Produkt 1: Beinabschluss über dem Knie
+- Produkt 1: Elastischer Bund mit Zugband für individuellen Komfort
+- Produkt 2: PUMA Cat Logo in Brusthöhe rechts
+- Produkt 1: Seitentaschen
 - Produkt 2: Durch den Kauf von Baumwollprodukten von PUMA unterstützt du eine nachhaltige Baumwollproduktion. Erfahre mehr auf PUMA.COM/FOREVERBETTER
 - Produkt 2: Rundhalsausschnitt
-- Produkt 1: Normale Passform
-- Produkt 1: Elastischer Bund mit Zugband für individuellen Komfort
-- Produkt 1: Seitentaschen
-- Produkt 2: PUMA Cat Logo in Brusthöhe rechts
-- Produkt 1: Beinabschluss über dem Knie
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CCJV3VL1{{</world>}}

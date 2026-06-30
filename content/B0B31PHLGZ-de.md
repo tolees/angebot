@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnürsenkel
 - Reguläre Passform
+- Schnürsenkel
 - Synthetikfutter
 - Gummiaußensohle
 - Obermaterial aus Synthetikleder

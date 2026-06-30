@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Materialzusammensetzung: 100% Bio-Baumwolle
 - T-shirt
-- Standard Fit
+- Materialzusammensetzung: 100% Bio-Baumwolle
 - Kurzarm
+- Standard Fit
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C487RSP3{{</world>}}

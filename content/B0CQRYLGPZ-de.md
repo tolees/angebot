@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Sammelfigur | Fan & Funmerch | Muster: Uni
-- Das perfekte Merch für dein Zuhause!
 - Funko Pop! mit folgenden Eigenschaften:
-- Größe: Onesize || Material: langlebig
+- Das perfekte Merch für dein Zuhause!
 - Disney, Fan-Merch, Filme, Halloween, Horror, Jack Skellington
+- Größe: Onesize || Material: langlebig
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CQRYLGPZ{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Automatische Supervision: mehrmalige tägliche Funktionstests und Rückmeldung an die Smartvest Zentrale
+- Erweiterung der Smartvest zur Signalisierung im Innenbereich
 - optische Rückmeldung bei Inbetriebnahme und Funktion durch blaue LED; Hinweis: Nicht kompatibel mit Smartvest Pro
 - 5 Klingel/ Signaltöne (4 Klingeltöne, 1 Alarmton) individuell konfigurierbar (d.h. Zuordnung Sensor - Klingelton)
-- Erweiterung der Smartvest zur Signalisierung im Innenbereich
+- Automatische Supervision: mehrmalige tägliche Funktionstests und Rückmeldung an die Smartvest Zentrale
 - Lautstärke 3 stufig einstellbar, Auch zur Signalisierung im Alarmfall einsetzbar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

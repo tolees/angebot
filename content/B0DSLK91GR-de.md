@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erhält die 5 Dimensionen des Farbspektrums in der Haarfaser: Glanz, Lebendigkeit, Kontrast, Farbton, Leuchtkraft.
 - Nach der Haarwäsche mit dem Vitamino Color Spectrum Shampoo im nassen Haar verteilen. Nach 3-5 Min ausspülen.
+- Erhält die 5 Dimensionen des Farbspektrums in der Haarfaser: Glanz, Lebendigkeit, Kontrast, Farbton, Leuchtkraft.
 - Die Vitamino Color Spectrum Maske für Geschmeidigkeit & Kämmbarkeit ist mit Ferulasäure und Zitronensäure angereichert. Sie sorgt für bessere Kämmbarkeit, glänzenderes, kräftigeres und hydratisiertes Haar.
 
 [🛒 Hier!!]({{< param buyurl >}})

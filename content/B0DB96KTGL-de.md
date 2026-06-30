@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ohrumschließend 20 - 20000 Hz
-- Kabelgebunden Bluetooth 5.2 RF-Konnektivität
-- Mikrofon-Typ: Boom
 - Integrierte Batterie Lithium Polymer (LiPo)
+- Kabelgebunden Bluetooth 5.2 RF-Konnektivität
+- Ohrumschließend 20 - 20000 Hz
+- Mikrofon-Typ: Boom
 - Blau, Kupfer Gaming Kopfband Kopfhörer
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Retro-Design: Der von klassischen JBL Designs inspirierte Lautsprecher im Retro-Stil passt mit seinem Aluminiumrahmen, dem Kunstledergehäuse und dem Quadrex-Gitter in jedes Zuhause
 - JBL Stereo Sound: Der Authentic 200 Lautsprecher begeistert mit zwei 25-mm-Hochtönern und sorgt für ideale Songbalance, die jeden Raum mit klaren Klängen und tiefen Bässen erfüllt
-- Lieferumfang: 1 x JBL Authentics 200 Retro-Style-Lautsprecher in Schwarz / Mit Bluetooth und integriertem WiFi / Inkl. 1 x Netzkabel, 1 x Kurzanleitung, 1 x Sicherheitskarte
 - Das Hörerlebnis kann einfach mit den Bedienelementen für Lautstärke, Bässe und Höhen personalisiert werden / Durch Alexa und Google Assistant sowie die JBL One App können weitere Soundeinstellungen über die Stimme gemacht werden
 - Mit Google Home oder Alexa können mehrere Lautsprecher mit einer einzigen Wiedergabeliste verbunden werden / Der Lautsprecher kalibriert und optimiert bei jedem Einschalten automatisch die Audioleistung für jeden Standort
+- Lieferumfang: 1 x JBL Authentics 200 Retro-Style-Lautsprecher in Schwarz / Mit Bluetooth und integriertem WiFi / Inkl. 1 x Netzkabel, 1 x Kurzanleitung, 1 x Sicherheitskarte
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CCYWDQQ5{{</world>}}

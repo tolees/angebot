@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - OHNE UNERWÜNSCHTE ZUSÄTZE: Bei unseren Fischöl Omega 3 Kapseln verzichten wir auf unnötige Zusatzstoffe und Vitamin E
+- LEICHTE EINNAHME: Wir empfehlen, täglich 3 Kapseln mit ausreichend Flüssigkeit, vorzugsweise vor einer fetthaltigen Mahlzeit, zu verzehren
 - HERSTELLUNG: Die ESN Omega 3 Kapseln werden unter Einhaltung strengster Qualitätsvorgaben produziert
 - BENEFITS: ¹EPA und DHA tragen zur normalen Funktion des Herzens bei. Der positive Effekt tritt bei einer täglichen Aufnahme von 250 mg EPA und DHA ein. ²EPA und DHA tragen zur Aufrechterhaltung normaler Blut-Triglycerid-Werte bei. Der positive Effekt tritt bei einer täglichen Aufnahme von 2 g EPA und DHA ein. Die ergänzende tägliche Aufnahme von 5 g kombiniertem EPA und DHA sollte nicht überschritten werden ³DHA trägt zur Aufrechterhaltung normaler Gehirnfunktion und Sehkraft bei. Der positive Effekt tritt bei einer täglichen Aufnahme von 250 mg DHA ein
-- LEICHTE EINNAHME: Wir empfehlen, täglich 3 Kapseln mit ausreichend Flüssigkeit, vorzugsweise vor einer fetthaltigen Mahlzeit, zu verzehren
 - OMEGA 3 KAPSELN HOCHDOSIERT: Unsere hochdosierten Super Omega-3 Softgel Kapseln enthalten 2250 mg Omega 3 Fettsäuren pro Tagesportion. Unsere hochwertigen und hoch bioverfügbaren Omega 3 Fettsäuren beinhalten je Kapsel 400 mg EPA und 300 mg DHA
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

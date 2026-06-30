@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 256 GB max. RAM, DDR5, bis zu 9066 MHz, 4 Steckplätze
-- 1x HDMI, 2x TB4, 15x USB 3.2
 - ATX Mainboard, Sockel 1851, Intel Core Ultra Prozessoren (Serie 2)-RGB-Beleuchtung
-- Intel Z890 Chipsatz
+- 1x HDMI, 2x TB4, 15x USB 3.2
 - 1x PCIe 5.0, 2x PCIe 4.0, 4x SATA600, 4x M.2
+- Intel Z890 Chipsatz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DJN4RPGK{{</world>}}

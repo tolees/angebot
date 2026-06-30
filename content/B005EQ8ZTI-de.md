@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- kein Lampenwechsel erforderlich. Die verwendete LED-Beleuchtung besitzt eine Lebensdauer von ca. 50. 000 Stunden
-- helle, homogene Ausleuchtung durch SMD-LED und Kollimationsoptik
-- extrem leichte und bruchfeste Kunstofflinsen (PXM). In Verbindung mit der cera-tec-Hartbeschichtung verfügen sie über eine glasähliche Kratzfestigkeit.
 - Lieferumfang: Lupe, 3 aufsteckbare Farbfilter für am besten geeignete Farbtemperatur und Lichtstärke, Etui zum Aufstecken auf die Linse, 2x AA Demo-Batterien. Optional: Standfuß/Halterung mobase von Eschenbach Optik zum beidhändigen Lesen und Arbeiten.
 - Bis zu 10x längere Lebensdauer der Batterien als bei Verwendung eines herkömmlichen Leuchtmittels
+- helle, homogene Ausleuchtung durch SMD-LED und Kollimationsoptik
+- extrem leichte und bruchfeste Kunstofflinsen (PXM). In Verbindung mit der cera-tec-Hartbeschichtung verfügen sie über eine glasähliche Kratzfestigkeit.
+- kein Lampenwechsel erforderlich. Die verwendete LED-Beleuchtung besitzt eine Lebensdauer von ca. 50. 000 Stunden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B005EQ8ZTI{{</world>}}

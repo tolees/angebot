@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 【DToF-Navigation & PSD-Sensor】Verbesserte dToF-Laser-Navigation erstellt präzise 3-stufige Karten, PSD-Hindernisvermeidung erkennt Objekte und Kanten auch bei Dunkelheit, sturz- und kollisionsfrei, überwindet 2 cm Schwelle – für reibungslosen Lauf unter niedrigen Möbeln und um Hindernisse herum.
-- 【Doppelte Staubbehälteroptionen】Lefant M2 Pro Saugroboter mit 2,7 L Automatik-Absaugstation: wahlweise beutellos direkt in den staubdichten Eimer oder optional mit 2,5 l luftdichten Staubbeuteln (separat erhältlich) – 45 Tage keine Handarbeit, sparen Sie wiederkehrende Beutelkosten und entsorgen Staub kontaktlos.
-- 【Individuelle Reinigung per App】Lefant-App erlaubt geteilte/verschmolzene Räume, No-Go-Linien, Saugkraft & Timer pro Zone, wahlweise Spot- oder Randreinigung – kompatibel mit Alexa & Google Home für sprachgesteuerte Reinigungsbefehle von überall.
 - 【5500Pa Starke Saugleistung 】Bürstenloser Digital-Motor liefert 5500 Pa in 4 Modi, automatischer Teppich-Boost erhöht auf Max, HEPA-Filter H13 fängt Feinstaub und Allergene ein, nur 55 dB – entfernt Tierhaare, Krümel und Sand auf Hartböden und Kurzflor in einem Durchgang.
 - 【2-in-1-Saug- und Waschmaschinen】Integrierter elektrischer 300 ml Wassertank dosiert 3 Wasserstufen stufenlos, anhebbarer Mopp hebt bei Teppichen automatisch ab – saugt und wischt Hartböden in einem Arbeitsgang, hinterlässt streifenfreien Glanz und verhindert Teppichnässe.
+- 【Doppelte Staubbehälteroptionen】Lefant M2 Pro Saugroboter mit 2,7 L Automatik-Absaugstation: wahlweise beutellos direkt in den staubdichten Eimer oder optional mit 2,5 l luftdichten Staubbeuteln (separat erhältlich) – 45 Tage keine Handarbeit, sparen Sie wiederkehrende Beutelkosten und entsorgen Staub kontaktlos.
+- 【Individuelle Reinigung per App】Lefant-App erlaubt geteilte/verschmolzene Räume, No-Go-Linien, Saugkraft & Timer pro Zone, wahlweise Spot- oder Randreinigung – kompatibel mit Alexa & Google Home für sprachgesteuerte Reinigungsbefehle von überall.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FL7ZPS46{{</world>}}

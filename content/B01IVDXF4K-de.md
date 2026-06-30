@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Herdplatte und der Fonduetopf eignen sich dank der stufenlosen Temperaturregelung und den 1.400 Watt Leistung auch als Hot Pot zum Warmhalten von Speisen oder Saucen am Tisch
-- Für jede der 8 Edelstahl Fondue-Gabeln gibt es eine einzelne “Parkstation”/ Halterung im Deckel, damit sich diese nicht verhaken.Gabeln, Topf und Deckel sind spülmaschinengeeignet
 - Die gewünschte Temperaturstufe wird durch Drehen am Regler eingestellt. Während sich das Gerät erhitzt, leuchtet der LED-Ring rot. Sobald die Temperatur erreicht ist, leuchtet der LED-Ring weiß
 - Im Fonduetopf mit Spritzschutzring können Öl, Fleisch- und Gemüsebrühe erhitzt werden um Fleisch, Fisch und Gemüse zuzubereiten. Der Fonduetopf kann vorab auf dem Herd (auch Induktion) erhitzt werden
 - Inhalt: 1x Fondueset elektrisch aus Cromargan Edelstahl matt (19,5 x 8,8 x 31,5 cm, 1400W, Kabellänge 1m), mit 1,2l-Fonduetopf (min. 0,8l), 8x Fondue-Gabeln mit Farbmarkierung - Artikelnummer: 0415130011
+- Für jede der 8 Edelstahl Fondue-Gabeln gibt es eine einzelne “Parkstation”/ Halterung im Deckel, damit sich diese nicht verhaken.Gabeln, Topf und Deckel sind spülmaschinengeeignet
+- Die Herdplatte und der Fonduetopf eignen sich dank der stufenlosen Temperaturregelung und den 1.400 Watt Leistung auch als Hot Pot zum Warmhalten von Speisen oder Saucen am Tisch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01IVDXF4K{{</world>}}

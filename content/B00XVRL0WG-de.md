@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zwei Drehrichtungen für maximale Saftausbeute
-- Lieferumfang: 1x Russell Hobbs Classics 22760-56 Zitruspresse, 2x Presskegel, 1x Presskegel-Deckel, 1x Saftfänger
 - Oberfläche aus hochwertigem, gebürstetem Edelstahl mit Kunststoffapplikationen
-- Aufsatz beginnt automatisch zu rotieren, sobald Druck von oben ausgeübt wird
+- Lieferumfang: 1x Russell Hobbs Classics 22760-56 Zitruspresse, 2x Presskegel, 1x Presskegel-Deckel, 1x Saftfänger
+- Zwei Drehrichtungen für maximale Saftausbeute
 - Ausgusstülle mit Tropf-Stopp-Funktion in 13 cm Höhe
+- Aufsatz beginnt automatisch zu rotieren, sobald Druck von oben ausgeübt wird
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00XVRL0WG{{</world>}}

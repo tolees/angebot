@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe:Puma White
 - Feuchtigkeitsregulierend
+- Farbe:Puma White
 - Atmungsaktiv
 - Schnelltrocknend
 

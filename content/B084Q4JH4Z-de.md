@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BESONDERS GESUND: Sehr hoher Polyphenol-Gehalt (über 490mg/kg) & reich an ungesättigten Fettsäuren wie Omega-6 (Linolsäure). Säuregehalt 0,26%. Ohne Zusätze
 - NATIVES OLIVENÖL EXTRA 1. Güteklasse aus Spanien. Das sortenreine Fontclara Argudell wird auf der Finca der Familie Zanotelli in Katalonien aus handgepflückten grünen Oliven bei unter 24°C kalt extrahiert
-- TESTSIEGER: International preisgekrönt. Mehrfacher Gewinner. London Olive Oil Competition 2022 - Gold, Dubai Olive Oil Competition 2022 - Gold, Berlin Global Olive Oil 2022 - Silber
 - IM EINKLANG MIT DER NATUR: Nachhaltige Ernte von Hand schützt Vögel und Bäume. Obstbäume & Bienenstöcke sorgen für Biodiversität im Olivenhain. Unterirdische Bewässerung spart Ressourcen. Ohne Pestizide
+- TESTSIEGER: International preisgekrönt. Mehrfacher Gewinner. London Olive Oil Competition 2022 - Gold, Dubai Olive Oil Competition 2022 - Gold, Berlin Global Olive Oil 2022 - Silber
+- BESONDERS GESUND: Sehr hoher Polyphenol-Gehalt (über 490mg/kg) & reich an ungesättigten Fettsäuren wie Omega-6 (Linolsäure). Säuregehalt 0,26%. Ohne Zusätze
 - INTENSIV FRUCHTIGER GESCHMACK mit pflanzlich-frischen Noten & scharfem Abgang. Perfekt für Antipasti oder Gemüse, gegrilltes Fleisch, gebratenen Meeresfisch, Meeresfrüchte oder feine Pasta- und Reisgerichte. Temperaturbeständig bis 240°C
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

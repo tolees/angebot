@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Regenjacke mit Reißverschluß und zusätzlicher Knopfleiste
 - Mit Fleece warm gefüttert
 - Abnehmbare Kapuze an der Regenjacke
+- Regenjacke mit Reißverschluß und zusätzlicher Knopfleiste
 - Wind- und wasserdicht durch verschweißte Nähte
 
 [🛒 Hier!!]({{< param buyurl >}})

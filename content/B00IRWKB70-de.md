@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 2 Tassengrößen: Espresso (40 ml), langer Kaffee (110 ml); individuelle Tassenlänge
-- Energiesparmodus: Die Maschine schaltet nach 9 Minuten der Nichtbenutzung automatisch in den Standby-Modus
 - Reparierbarkeit 15 Jahre zum richtigen Preis: 15 Jahre Reparaturverpflichtung zum fairen Preis dank unseres Netzwerks von 6200 Werkstätten weltweit, um zum Umweltschutz und zur Reduzierung von Abfällen beizutragen
-- Automatische Abschaltung: nach 9 Minuten Nichtgebrauch
 - Eine Vielzahl von Kapseln: Mit vier Tassengrößen, vom Espresso bis zum Becher, müssen Sie nur noch Ihren Lieblings-Kaffee von Nespresso auswählen, ihn einlegen und mit einer einfachen Berührung Ihren Kaffee zubereiten
 - INKLUSIVE: eine Inissia Kaffeemaschine, Kapselsortiment Nespresso
+- Automatische Abschaltung: nach 9 Minuten Nichtgebrauch
+- Energiesparmodus: Die Maschine schaltet nach 9 Minuten der Nichtbenutzung automatisch in den Standby-Modus
 - SCHNELLES AUFHEIZEN 25 Sekunden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

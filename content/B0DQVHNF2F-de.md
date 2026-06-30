@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für 2-5 Spielerinnen und Spieler ab 10 Jahren.
-- Deutsche Ausgabe, German Version.
-- Charaktere aus Schloss und Dorf strategisch kombinieren und Kombo-Effekte auslösen.
-- Auf der Empfehlungsliste zum "Spiel des Jahres 2025".
 - Taktisches und schnelles Kartenspiel für Kenner: hoher Wiederspielreiz garantiert.
 - Liebevoll illustriertes, hochwertiges Spielmaterial mit vielen verschiedenen Charakteren.
+- Für 2-5 Spielerinnen und Spieler ab 10 Jahren.
+- Auf der Empfehlungsliste zum "Spiel des Jahres 2025".
+- Charaktere aus Schloss und Dorf strategisch kombinieren und Kombo-Effekte auslösen.
 - Gezielt Bewohner-Karten auswählen und extra Punkt-Effekte auslösen.
+- Deutsche Ausgabe, German Version.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DQVHNF2F{{</world>}}

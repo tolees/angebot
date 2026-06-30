@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Finish Geschirrreinigungs-Pulver entfernt Verschmutzungen sowie eingetrocknete Speisereste und hinterlässt eine angenehme Finish Frische
-- Phosphatfreie Geschirrreinigung: Das Pulver spült Schmutz problemlos weg, ohne dabei Rückstände im Geschirrspüler zu hinterlassen / Eine Packung reicht für bis zu 70 Spülgänge
 - Lieferumfang: 3x 3kg Finish Geschirrspülpulver / Entfernt Speisereste und Verschmutzungen / Mit Aktiv-Einweichstoffen für sauberes Geschirr
 - Für das optimale Spülergebnis wird empfohlen, zusätzlich das Finish Spezial-Salz sowie den Finish Klarspüler zu verwenden / Dosierkammer gemäß der Bedienungsanleitung der Spülmaschine befüllen
-- Das kraftvolle Reiniger-Pulver enthält Aktiv-Einwirkstoffe, denen selbst hartnäckige Verschmutzungen nicht standhalten können - für strahlend sauberes Geschirr und Glas
+- Phosphatfreie Geschirrreinigung: Das Pulver spült Schmutz problemlos weg, ohne dabei Rückstände im Geschirrspüler zu hinterlassen / Eine Packung reicht für bis zu 70 Spülgänge
 - GEMEINSAM GEGEN PLASTIK IM OZEAN: Mit jedem Kauf helfen Sie uns insgesamt 5 Millionen Plastikflaschen aus der Umwelt zu sammeln (Bei Verkauf durch Amazon/Sediva/Lamos4u 1 Flasche = 20g Plastikmüll)​
+- Das kraftvolle Reiniger-Pulver enthält Aktiv-Einwirkstoffe, denen selbst hartnäckige Verschmutzungen nicht standhalten können - für strahlend sauberes Geschirr und Glas
+- Das Finish Geschirrreinigungs-Pulver entfernt Verschmutzungen sowie eingetrocknete Speisereste und hinterlässt eine angenehme Finish Frische
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00Q8QHEAE{{</world>}}

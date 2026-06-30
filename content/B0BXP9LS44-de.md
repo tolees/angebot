@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Schlecki singt und spricht niedliche Sätze, die sie mit freudigem Schlecken, niedlichem Blinzeln und tollen Schleckgeräuschen untermalt
-- Kindersicheres Batteriefach, Abschaltautomatik und Lautstärkeregler
 - Fünf Spielmodi: Rollenspiel, Nachsprechen, Singen, Kümmern und Nickerchen
+- Kindersicheres Batteriefach, Abschaltautomatik und Lautstärkeregler
 - Flauschiges Kuschel-Hündchen, das zum Singen und Sprechen einlädt und sich mit Schlecken dafür bedankt, dass man sich gut um es kümmert
 - Das Drücken der leuchtenden Halsbandtaste löst tolle Sätze aus, mit denen Schlecki zum Rollenspiel animiert
 

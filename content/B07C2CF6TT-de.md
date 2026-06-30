@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - bequem
 - weich
+- elastisch
 - Pullover
 - Baumwolle
-- elastisch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07C2CF6TT{{</world>}}

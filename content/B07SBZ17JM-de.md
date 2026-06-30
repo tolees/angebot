@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichte Adibouncy EVA-Einlegesohle
-- Schnürsenkel
 - Reguläre Passform
+- Schnürsenkel
 - Obermaterial aus beschichtetem Leder
+- Leichte Adibouncy EVA-Einlegesohle
 - Gummiaußensohle; Textilfutter
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Reguläre Passform
+- Schnürsenkel
 - Gummi-Cupsohle
 - Obermaterial aus Synthetik- und Wildleder
 - Klassisches T-förmiges Overlay im Zehenbereich
-- Schnürsenkel
-- Reguläre Passform
 - Textilfutter
 
 [🛒 Hier!!]({{< param buyurl >}})

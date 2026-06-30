@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flexibility
-- Das Leder mithilfe unserer Schuhcreme pflegen. Eine dünne Schicht auftragen und fünf Minuten einwirken lassen
-- Für zusätzlichen Schutz unser wasserdichtes Nanopro-Spray auftragen. Dieses Produkt wird exklusiv in unseren Stores verkauft
-- Synthetik
-- Schnürung
-- Das Leder mithilfe unserer Reinigungs- und Pflegelotion säubern und mit Feuchtigkeit versorgen
 - Cushioning System
+- Das Leder mithilfe unserer Reinigungs- und Pflegelotion säubern und mit Feuchtigkeit versorgen
 - Das Leder mithilfe unseres Schutz- und Pflegesprays vor Schmutz und Nässe schützen
 - Das Leder mit einem Tuch polieren.Wenn Sie Ihre Schuhe gut pflegen dann kommen Sie mit Ihnen auch sehr weit
+- Flexibility
+- Für zusätzlichen Schutz unser wasserdichtes Nanopro-Spray auftragen. Dieses Produkt wird exklusiv in unseren Stores verkauft
+- Schnürung
+- Synthetik
+- Das Leder mithilfe unserer Schuhcreme pflegen. Eine dünne Schicht auftragen und fünf Minuten einwirken lassen
 - Leder
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Klassischer Camper Beetle Sneaker
-- Aus Leder mit elastischen Schnürsenkeln
 - Sportlicher Camper Sneaker
 - Die anatomische Passform mit einem charakteristischen Design
+- Aus Leder mit elastischen Schnürsenkeln
 - Die versiegelte Konstruktion des Beetle für Herren ist leicht und flexibel
 
 [🛒 Hier!!]({{< param buyurl >}})

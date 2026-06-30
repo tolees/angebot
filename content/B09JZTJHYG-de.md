@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Acht programmierbare Tasten: Kreieren Sie Ihr ideales Gaming-Setup mit Tastenneubelegung, benutzerdefinierten Makros und mehr
 - Ikonisches Aluminiumgehäuse: Das Gehäuse der M65 RGB ULTRA aus eloxiertem Aluminium garantiert Langlebigkeit in vertrautem Design
 - CORSAIR AXON Hyper-Processing-Technologie: Registriert und überträgt Ihre Bewegungen und Klicks mit einer Hyper-Polling-Rate von 8.000Hz bis zu achtmal schneller als konventionelle Gaming-Mäuse
-- Optischer CORSAIR MARKSMAN-Sensor mit 26.000dpi: Mit unglaublichen 26.000dpi und 650IPS-Tracking bei bis zu 50G Beschleunigung erfasst der MARKSMAN-Sensor präzise jede Mausbewegung und lässt sichbei Bedarf in Schritten von 1dpi anpassen.
 - Optische OMRON-Schalter: Die Schalter liefern eine hyperschnelle, hochpräzise Reaktion und halten jahrelangem, hartem Einsatz stand–mit garantierten 70Millionen Klicks.
-- Acht programmierbare Tasten: Kreieren Sie Ihr ideales Gaming-Setup mit Tastenneubelegung, benutzerdefinierten Makros und mehr
+- Optischer CORSAIR MARKSMAN-Sensor mit 26.000dpi: Mit unglaublichen 26.000dpi und 650IPS-Tracking bei bis zu 50G Beschleunigung erfasst der MARKSMAN-Sensor präzise jede Mausbewegung und lässt sichbei Bedarf in Schritten von 1dpi anpassen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09JZTJHYG{{</world>}}

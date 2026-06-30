@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Ergonomic Keyboard】The design of this mechanical gaming keyboard is based on ergonomics. Scientific stair-up keycaps design brings maximum comfort, keeping your hand in a most natural state to minimize hand fatigue after longtime use. Perfect for gamer, office worker, copywriter, typing teacher and editors.
-- 【Smooth Gaming Experience】Full keys anti-ghosting bring you more smooth gaming experience.Support 1000Hz polling rate, no latency, smooth game typing.
 - 【Schlichtes Design】T61se ist eine kompakte 61-Tasten-Mechanische Tastatur, bei der alle Funktionen über die "FN" Kombinationstaste ausgeführt werden, um alle Funktionen beizubehalten und gleichzeitig mehr Platz auf dem Schreibtisch freizugeben.
+- 【Ergonomic Keyboard】The design of this mechanical gaming keyboard is based on ergonomics. Scientific stair-up keycaps design brings maximum comfort, keeping your hand in a most natural state to minimize hand fatigue after longtime use. Perfect for gamer, office worker, copywriter, typing teacher and editors.
 - 【Mechanische Schalter】Es verwendet selbst entwickelte mechanische Schalter mit einer Lebensdauer von 60 Millionen Einzeltastenbetätigungen, sodass das Tastgefühl dauerhaft und ohne spürbare Veränderungen bleibt. T61se bietet die Wahl zwischen roten und blauen Schaltern, um unterschiedlichen Anforderungen gerecht zu werden. Die roten Schalter sind besonders geeignet für Büroarbeit und Spiele, während die blauen Schalter sich ideal für professionelle Textbearbeiter eignen.
+- 【Smooth Gaming Experience】Full keys anti-ghosting bring you more smooth gaming experience.Support 1000Hz polling rate, no latency, smooth game typing.
 - 【Aufrichtiger Service】Wir bieten jedem Kunden, der eine TMKB-Mechanische Tastatur kauft, eine einjährige Garantie. 🌹Wenn Sie Fragen zu unserem Produkt haben, kontaktieren Sie bitte unser Team (klicken Sie auf den Shop-Namen). Wir wünschen Ihnen ein angenehmes Einkaufserlebnis🌹
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatzart: Flach
 - Verschluss: Schnürsenkel
+- PUMA Branding-Details
+- Absatzart: Flach
+- EVA-Laufsohle
 - Abgerundeter Zehenbereich
 - Reguläre Breite
-- EVA-Laufsohle
-- PUMA Branding-Details
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DJC19BDK{{</world>}}

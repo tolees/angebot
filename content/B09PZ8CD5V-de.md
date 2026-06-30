@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flexible Traktionslaufsohle
 - Skechers-Logodetail
+- Flexible Traktionslaufsohle
 - closure : Pull On
 
 [🛒 Hier!!]({{< param buyurl >}})

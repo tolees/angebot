@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ZUM CHARAKTER PASSENDES ZUBEHÖR: Diese Klon Lieutenant Galle Figur kommt mit 3 Blastern als Accessoires und einem abnehmbaren Helm
-- FENSTERSCHACHTEL-VERPACKUNG: Die Verpackung mit elegantem Charakterdesign ist perfekt, um Star Wars Fandom im eigenen Regal zu zeigen
-- STAR WARS: DIE RACHE DER SITH: Diese Figur (Skala 15 cm) ist von Episode III der Prequel-Trilogie inspiriert und perfekt als Geschenk für Sammler und Fans ab 4 Jahren geeignet
-- PREMIUM-BEWEGLICHKEIT: Kopf, Arme und Beine dieser Action-Figur sind beweglich, sodass die Fans sie zum Ausstellen in dynamische Posen bringen können
-- EINE EIGENE SZENE ERSCHAFFEN: Mit weiteren Star Wars Figuren lassen sich die Szenen aus dem Kultfilm auf dem eigenen Regal nachstellen. (Jeweils separat erhältlich. Je nach Verfügbarkeit)
 - PREMIUM-DESIGN & DEKO: Fans können diese 15 cm große Figur in ihren Sammlungen präsentieren. Sie wartet mit Design und Deko auf, die auf dem Film basieren
+- EINE EIGENE SZENE ERSCHAFFEN: Mit weiteren Star Wars Figuren lassen sich die Szenen aus dem Kultfilm auf dem eigenen Regal nachstellen. (Jeweils separat erhältlich. Je nach Verfügbarkeit)
+- PREMIUM-BEWEGLICHKEIT: Kopf, Arme und Beine dieser Action-Figur sind beweglich, sodass die Fans sie zum Ausstellen in dynamische Posen bringen können
+- ZUM CHARAKTER PASSENDES ZUBEHÖR: Diese Klon Lieutenant Galle Figur kommt mit 3 Blastern als Accessoires und einem abnehmbaren Helm
+- STAR WARS: DIE RACHE DER SITH: Diese Figur (Skala 15 cm) ist von Episode III der Prequel-Trilogie inspiriert und perfekt als Geschenk für Sammler und Fans ab 4 Jahren geeignet
+- FENSTERSCHACHTEL-VERPACKUNG: Die Verpackung mit elegantem Charakterdesign ist perfekt, um Star Wars Fandom im eigenen Regal zu zeigen
 - IM DIENSTE DER GALAKTISCHEN REPUBLIK: Das 327. Sternenkorps wurde von Klon Commander Bly und Jedi-General Aaly Secura angeführt und diente der Großen Armee der Republik auf Welten wie Quell, Maridun und Felucia
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

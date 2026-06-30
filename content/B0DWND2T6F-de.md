@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Integriertes Deckelthermometer für präzise Temperaturkontrolle
 - Verbesserte Flavorizer Bars für intensives Grill-Aroma
 - 2 leistungsstarke Edelstahlbrenner für gleichmäßige Hitzeverteilung
-- Integriertes Deckelthermometer für präzise Temperaturkontrolle
 - Robuste Konstruktion mit langlebigem emailliertem Gussdeckel
 - Kompakter Gasgrill, ideal für kleinere Terrassen und Balkone
 

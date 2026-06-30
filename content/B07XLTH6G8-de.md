@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Farbintensiver Premium-Filzstift
-- Mit Wasser aquarellierbar
-- In vielen brillanten Farben erhältlich
 - Robuste Spitze (Strichstärke: 1 mm)
 - Hohe Farbbrillanz und Leuchtkraft
 - Bis zu 24 Stunden Austrocknungsschutz ohne Kappe
+- Mit Wasser aquarellierbar
+- In vielen brillanten Farben erhältlich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07XLTH6G8{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfache Handhabung
 - Geeignet für verschiedene Garten- und Rasenpflegeaufgaben
+- Einfache Handhabung
 - Hält verschiedenen Wetterbedingungen stand
 - Leicht zu reinigen
 - 2 separat regelbare Edelstahlbrenner für direktes und indirektes Grillen

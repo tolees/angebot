@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Piezo-Zündung für komfortable Zündung auf Knopfdruck
-- Einfache Reinigung: heruntertropfendes Fett wird beim Grillen in der Wasserschale aufgefangen und kann so nicht anhaften
 - Vielfältige Kochmöglichkeiten: Topfkreuz und emaillierte Grillroste enthalten
+- Piezo-Zündung für komfortable Zündung auf Knopfdruck
 - Campingaz flächendeckende Gasversorgung dank unseres weltweiten Händlernetzes in über 50 Ländern
+- Einfache Reinigung: heruntertropfendes Fett wird beim Grillen in der Wasserschale aufgefangen und kann so nicht anhaften
 - Starke Leistung: 2000 Watt
 
 [🛒 Hier!!]({{< param buyurl >}})

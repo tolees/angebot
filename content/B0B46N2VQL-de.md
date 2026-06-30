@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LIEFERUMFANG: Ortungsgerät D-tect 120, 4 AA-Batterien, Batterieadapter und Schutztasche
-- DUAL POWER SOURCE: Für mehr Flexibilität kann das Ortungsgerät mit 12 Volt Lithium-Ionen Akku oder über den Batterieadapter mit AA-Batterien genutzt werden
-- 3 DETEKTIONSEINSTELLUNGEN: Je nach Materialtyp stehen 3 Detektionseinstellungen zur Verfügung – Trockenbau, Beton oder Universal - wenn das Material unbekannt ist
 - SPOTMESSUNG: Liefert sofort Ergebnisse, selbst wenn nur wenig oder gar kein Platz zum Bewegen des Ortungsgeräts vorhanden ist
+- 3 DETEKTIONSEINSTELLUNGEN: Je nach Materialtyp stehen 3 Detektionseinstellungen zur Verfügung – Trockenbau, Beton oder Universal - wenn das Material unbekannt ist
+- LIEFERUMFANG: Ortungsgerät D-tect 120, 4 AA-Batterien, Batterieadapter und Schutztasche
 - PATENTIERTE BOSCH RADARTECHNOLOGIE: Zum Auffinden aller Arten von Objekten wie z.B. spannungsführenden Leitungen, wassergefüllten Kunststoffrohren sowie Eisen- und Nichteisenmetallen
+- DUAL POWER SOURCE: Für mehr Flexibilität kann das Ortungsgerät mit 12 Volt Lithium-Ionen Akku oder über den Batterieadapter mit AA-Batterien genutzt werden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B46N2VQL{{</world>}}

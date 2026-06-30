@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innermaterial:N/A
 - Sohle:Thermoplastisches Polyurethan
+- Innermaterial:N/A
 - Obermaterial: Leder
 - Verschluss:Reißverschluss
 - Absatzform:Kein Absatz

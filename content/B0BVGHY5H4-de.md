@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Shorts mit elastischem Bund
 - Zweiteiliges Set
 - T-Shirt mit kurzen Ärmeln
-- Shorts mit elastischem Bund
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BVGHY5H4{{</world>}}

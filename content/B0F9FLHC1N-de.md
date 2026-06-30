@@ -29,12 +29,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kompaktes Design – Der Akku-Schlagschrauber ist, verglichen mit ähnlich leistungsstarken Schlagschraubern, um rund 30 % kompakter konzipiert und so maximal flexibel einsetzbar.
-- Power X-Change – Der Einhell Professional Akku-Schlagschrauber TP-CI 18/250-C Li BL-Solo ist Teil der Power X-Change Familie, in der Akkus und Geräte flexibel kombiniert werden.
-- Lieferung ohne Akku – Der Einhell Professional Akku-Schlagschrauber TP-CI 18/250-C Li BL-Solo wird ohne Power X-Change Akku und ohne Ladegerät geliefert.
 - Bürstenloser Motor – Der wartungsarme und kraftvolle Brushless-Motor sorgt für maximale Leistung bei längerer Laufzeit im Vergleich zu herkömmlichen Bürstenmotoren.
-- Leistung – In drei Stufen können Drehzahl und Drehmoment bis max. 250 Nm angepasst werden. Mit Stufe 1 wird gefühlvoll gearbeitet, während Stufe 3 für ordentlich Kraft sorgt.
 - Optimale Ausleuchtung – Um auch in dunklen, unzugänglichen Bereichen arbeiten zu können, gewährt das integrierte LED-Licht stets einwandfreie Sicht und optimale Ausleuchtung.
+- Power X-Change – Der Einhell Professional Akku-Schlagschrauber TP-CI 18/250-C Li BL-Solo ist Teil der Power X-Change Familie, in der Akkus und Geräte flexibel kombiniert werden.
+- Leistung – In drei Stufen können Drehzahl und Drehmoment bis max. 250 Nm angepasst werden. Mit Stufe 1 wird gefühlvoll gearbeitet, während Stufe 3 für ordentlich Kraft sorgt.
 - Aufnahme – Der Akku-Schlagschrauber mit 1⁄4" Zoll Innensechskant-Aufnahme wird mit einem Gürtelclip zur schnellen Zwischenlagerung während der Arbeit geliefert.
+- Lieferung ohne Akku – Der Einhell Professional Akku-Schlagschrauber TP-CI 18/250-C Li BL-Solo wird ohne Power X-Change Akku und ohne Ladegerät geliefert.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0F9FLHC1N{{</world>}}

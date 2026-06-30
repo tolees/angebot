@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- MittlereTaille
 - 95 Prozent Polyester, 5 Prozent Elasthan
 - Fit: Skinny
-- MittlereTaille
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B089PYKYW5{{</world>}}

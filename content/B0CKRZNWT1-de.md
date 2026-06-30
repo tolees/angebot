@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sprengung: 9 mm (Rückfußhöhe 31 mm / Vorfußhöhe 22 mm)
-- Reguläre Passform
 - Schnürsenkel
-- Obermaterial aus Mesh
-- Adiwear Außensohle
-- Cloudfoam Zwischensohle
-- Textilfutter
 - OrthoLite Einlegesohle
+- Sprengung: 9 mm (Rückfußhöhe 31 mm / Vorfußhöhe 22 mm)
+- Textilfutter
+- Adiwear Außensohle
 - Gewicht: 245 g (Größe 38 2/3)
+- Cloudfoam Zwischensohle
+- Reguläre Passform
+- Obermaterial aus Mesh
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CKRZNWT1{{</world>}}

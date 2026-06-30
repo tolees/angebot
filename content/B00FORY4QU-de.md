@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- In Europa konzipiert und produziert - Getestet in Japan, Deutschland, Frankreich und in den USA
+- RADONWERTE IN BLICK BEHALTEN: einfacher, genauer und tragbarer Radonmessgerät für Innenräume. Ermitteln Sie, ob es in Ihrem Zuhause ein Problem gibt, sodass Sie Abhilfe schaffen können. Behalten Sie die Werte anschließend weiter im Auge und gewährleisten Sie damit die langfristige Sicherheit.
 - Keine Laborgebühren: Mit Ihrem Radonmessgerät haben Sie alles selbst in der Hand. Kein Versand an Labore, keine Gebühren und kein wochenlanges Warten auf Ergebnisse.
 - TRAGBARES GERÄT: Mit dem Messgerät lässt sich der Radonwert in verschiedenen Räumen Ihres Hauses messen. Der Betrieb erfolgt kabellos per AAA-Batterien mit einer Lebensdauer von bis zu zwei Jahren
-- Schnelle Ergebnisse: Innerhalb von 24 Stunden sehen Sie das erste Messergebnis Ihrer Radonbelastung.
 - Präzision: Misst die Werte über einen längeren Zeitraum hinweg und ermöglicht somit eine höhere Genauigkeit als herkömmliche Methoden
+- Schnelle Ergebnisse: Innerhalb von 24 Stunden sehen Sie das erste Messergebnis Ihrer Radonbelastung.
 - VON RADONEXPERTEN EMPFOHLEN: Im Corentium Home kommt dieselbe Sensortechnologie zum Einsatz, die Radonexperten verwenden und empfehlen.
-- RADONWERTE IN BLICK BEHALTEN: einfacher, genauer und tragbarer Radonmessgerät für Innenräume. Ermitteln Sie, ob es in Ihrem Zuhause ein Problem gibt, sodass Sie Abhilfe schaffen können. Behalten Sie die Werte anschließend weiter im Auge und gewährleisten Sie damit die langfristige Sicherheit.
+- In Europa konzipiert und produziert - Getestet in Japan, Deutschland, Frankreich und in den USA
 - Langfristig: Nach 7 Tagen, innerhalb von 10 % und nach 2 Monaten innerhalb von 5 % der tatsächlichen Radonkonzentration
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

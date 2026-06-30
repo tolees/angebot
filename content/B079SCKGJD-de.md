@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- nachfüllbar mit allen EnerGel Minen
 - Scheibfarbe Schwarz
 - Strichstärke 0,35 mm
+- nachfüllbar mit allen EnerGel Minen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B079SCKGJD{{</world>}}

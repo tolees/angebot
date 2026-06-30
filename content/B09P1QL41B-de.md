@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 70 % Baumwolle / 30 % recycelter Polyester (Fleece)
 - Gerippter Rundhalsausschnitt
+- 70 % Baumwolle / 30 % recycelter Polyester (Fleece)
 - Regulär geschnitten
 - Bündchen und Saum gerippt
 

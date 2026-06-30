@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Jederzeit zuverlässige Audioqualität - DJI Mic Mini verfügt über eine automatische Begrenzung der Lautstärke, wenn der Audioeingang zu hoch ist, um Übersteuerungen zu vermeiden und eine zuverlässige Audioqualität in jeder Umgebung zu gewährleisten
-- Detailreicher Sound - Mic Mini liefert hochwertiges Audio. Eine max. Übertragungsreichweite von 400 m [2] sorgt für stabile Aufnahmen, selbst in belebten Außenbereichen wie einer lebhaften Straße
 - Enthält zwei DJI Mic Mini Sender, einen Empfänger sowie weiteres Zubehör und ist damit für eine Vielzahl von Szenarien optimiert, wie z. B. Interviews, Livestreaming, Content‑Erstellung und mehr
-- DJI Ecosystem-Direktverbindung – Mit DJI OsmoAudio kann ein Sender ohne Empfänger direkt mit der Osmo Nano, der Osmo 360, dem Osmo Mobile 7P, der Osmo Action 5 Pro, der Osmo Action 4 oder der Osmo Pocket 3 verbunden werden und liefert dabei erstklassigen Klang
 - Länger aufnehmen - Ein Sender und ein Empfänger bieten eine maximale Betriebszeit von jeweils 10 Std. [5]. Genug Zeit für intensive Nutzungsszenarien wie Interviews
 - Klein, aber oho - Der DJI Mic Mini Sender ist klein und ultraleicht, er wiegt nur 10 g [1] und ist daher angenehm zu tragen, diskret und ästhetisch ansprechend vor der Kamera
+- Jederzeit zuverlässige Audioqualität - DJI Mic Mini verfügt über eine automatische Begrenzung der Lautstärke, wenn der Audioeingang zu hoch ist, um Übersteuerungen zu vermeiden und eine zuverlässige Audioqualität in jeder Umgebung zu gewährleisten
+- DJI Ecosystem-Direktverbindung – Mit DJI OsmoAudio kann ein Sender ohne Empfänger direkt mit der Osmo Nano, der Osmo 360, dem Osmo Mobile 7P, der Osmo Action 5 Pro, der Osmo Action 4 oder der Osmo Pocket 3 verbunden werden und liefert dabei erstklassigen Klang
+- Detailreicher Sound - Mic Mini liefert hochwertiges Audio. Eine max. Übertragungsreichweite von 400 m [2] sorgt für stabile Aufnahmen, selbst in belebten Außenbereichen wie einer lebhaften Straße
 - Starke Geräuschunterdrückung - Es stehen 2 Stufen der Geräuschunterdrückung zur Verfügung: Standard ist ideal für ruhige Innenräume, während Stark in lauten Umgebungen für eine klare Stimme sorgt. [8]
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

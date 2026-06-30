@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【GaN6 und Temperaturkontrolltechnologie】Unser GaN-Ladegerät nutzt GaN-Technologie, um bei niedriger Temperatur eine schnelle 67W-Ladung zu gewährleisten – in nur 30 Minuten bis zu 65 % aufgeladen. Darüber hinaus bietet dieses Ladegerät Schutz vor Überladung, Überhitzung und Kurzschluss für umfassende Sicherheit.
 - 【67W Kompaktes Ladegerät mit integriertem Kabel】Das Baseus 67W Ladegerät wurde auf integrierte, verstellbare, 80 cm lange einziehbare USB C Datenkabel aufgerüstet. Einfach leicht ziehen zum Nutzen, nach Gebrauch leicht verstauen. Ob am Schreibtisch, am Bett oder unterwegs – verabschieden Sie sich von Kabelsalat und Kabelgewirr.
 - 【3-in-1 Schnellladegerät】Dieses USB-C Netzteil ist mit drei Typ-C-Anschlüssen ausgestattet und unterstützt sowohl einen 67W-Einzelausgang als auch dreifaches Schnellladen. Mit nur einem Charger können Sie drei Geräte gleichzeitig mit voller Geschwindigkeit aufladen – reduzieren Sie die Anzahl Ihrer Ladegeräte und steigern Sie die Ladeeffizienz.
+- 【GaN6 und Temperaturkontrolltechnologie】Unser GaN-Ladegerät nutzt GaN-Technologie, um bei niedriger Temperatur eine schnelle 67W-Ladung zu gewährleisten – in nur 30 Minuten bis zu 65 % aufgeladen. Darüber hinaus bietet dieses Ladegerät Schutz vor Überladung, Überhitzung und Kurzschluss für umfassende Sicherheit.
 - 【Breite Kompatibilität】Mit diesem kompakten GaN-Ladegerät mit 3 Anschlüssen können Sie problemlos einen Laptop sowie mehrere mobile Geräte gleichzeitig schnell aufladen. Es unterstützt Geräte wie MacBook Pro/Air, iPhone 16/15/14/13, iPad Pro/Air, Samsung Galaxy S25/S24/S23/S22, Google Pixel, Dell XPS, HP, Lenovo Yoga, DJI und viele weitere.
 - 【Reisebegleiter – Kompakt und Tragbar】Das Baseus 67W USB-C Ladegerät bietet starke Leistung und ist kompatibel mit Smartphones, Tablets, Laptops und anderen USB-C-Geräten. Mit seinen kompakten Maßen von 10,5 × 5,6 × 3,6 cm und einem Gewicht von nur 182 g lässt es sich leicht transportieren und beschädigt Ihre Tasche nicht.
 

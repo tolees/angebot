@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Genieße einen kinoreifen Soundtrack mit neu interpretierten Musikstücken aus dem legendären Terminator 2: Judgment Day-Score sowie brandneuen Kompositionen.
-- Kämpfe gegen die ganze Macht von Cyberdyne und Skynets Arsenal, mit verschiedenen Gegnertypen und adrenalingeladenen Bosskämpfen.
-- Versuche, in jedem Level den höchsten Rang zu erreichen, um die Bestenliste zu dominieren und Arcade-Unsterblichkeit zu erlangen.
 - Die verschiedenen Spielmodi garantieren Abwechslung: Story-Modus, Arcade-Modus, Unendlich-Modus, Boss-Ansturm, Mutter der Zukunft und Leveltraining!
-- Schieße, schleiche und entkomme den Klingen des T-1000 in einer Vielzahl von Leveln und führe als John Connor in entscheidenden Missionen des Zukunftskriegs den Widerstand an.
-- Tauche ein in dieses klassisches Arcade-Erlebnis, eine Hommage an das Terminator-Universum mit authentischem Arcade-Gameplay, Musik und einer von Grund auf neu entwickelten Grafik.
+- Kämpfe gegen die ganze Macht von Cyberdyne und Skynets Arsenal, mit verschiedenen Gegnertypen und adrenalingeladenen Bosskämpfen.
 - Erlebe die Welt von Terminator 2: Judgment Day wie nie zuvor mit detaillierten 2D-Sprite-Grafiken deiner Lieblingscharaktere und -szenen.
+- Genieße einen kinoreifen Soundtrack mit neu interpretierten Musikstücken aus dem legendären Terminator 2: Judgment Day-Score sowie brandneuen Kompositionen.
+- Tauche ein in dieses klassisches Arcade-Erlebnis, eine Hommage an das Terminator-Universum mit authentischem Arcade-Gameplay, Musik und einer von Grund auf neu entwickelten Grafik.
+- Versuche, in jedem Level den höchsten Rang zu erreichen, um die Bestenliste zu dominieren und Arcade-Unsterblichkeit zu erlangen.
+- Schieße, schleiche und entkomme den Klingen des T-1000 in einer Vielzahl von Leveln und führe als John Connor in entscheidenden Missionen des Zukunftskriegs den Widerstand an.
 - Erlebe legendäre Momente und gehe neue Wege als Sarah, John und T-800 in einer Erzählung, die eine Mischung aus klassischen Terminator 2: Judgment Day-Szenen und brandneuen Terminator-Stories ist.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

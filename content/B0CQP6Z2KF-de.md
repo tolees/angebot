@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Toilette mit Spülfunktion
 - inkl. Toilette, Waschbecken, Badevorleger, Toilettenbürste, WC-Reiniger und einem Babysitz
+- Toilette mit Spülfunktion
 - Passend um alle Häuser der Sylvanian Families einzurichten
 - mit Babysitz, damit auch die kleinsten auf Toilette gehen können
 - Toilettenpapier mit Funktion

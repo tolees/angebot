@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nachhaltig: Gerät hergestellt aus 30% recyceltem Kunststoff, Verpackung aus 95% Recyclingpapier
-- Lieferumfang: Beutelstaubsauger mit umschaltbarer Rollendüse, Fugendüse, Polsterdüse, Hartbodendüse, Zubehör- Clip
 - Flexibler Zubehör-Clip: Zubehör immer griffbereit dank direkter Aufbewahrung an Handgriff oder Saugrohr
-- Wattage: 600.0 watts
 - 10 Jahre Motorgarantie: konstant hohe Leistung dank Bosch Motortechnologie „Made in Germany“ (Garantiebedingungen unter bosch-home.com)
+- Lieferumfang: Beutelstaubsauger mit umschaltbarer Rollendüse, Fugendüse, Polsterdüse, Hartbodendüse, Zubehör- Clip
+- Nachhaltig: Gerät hergestellt aus 30% recyceltem Kunststoff, Verpackung aus 95% Recyclingpapier
+- Wattage: 600.0 watts
 - Hygienefilter: für saubere und gefilterte Ausblasluft
 - Noise Level: 79.0 Decibels
 

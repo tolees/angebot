@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Gepolsterte Push-up Cups für eine unterstützende Passform
 - Bügelunterstützung für sicheren Halt
 - Verstellbare Schulterträger für eine individuelle Passform
-- Gepolsterte Push-up Cups für eine unterstützende Passform
 - Glatter Mikrofaserstoff
 - 1-er Pack für Damen
 

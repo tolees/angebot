@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- GroÃŸes 1,39-Zoll-AMOLED-Display mit Corning Gorilla Glass 3
-- Systemsprache EnglischVereinfachtes ChinesischSpanischRussischItalienischFranzösischDeutschPortugiesischUkrainischPolnischTürkischTschechischThailändischIndonesischGriechischVietnamesischRumänischNiederländischTraditionelles ChinesischKoreanischJapanisch
 - Hinweis Verwenden Sie nur das mitgelieferte Zubehör, um die Smartwatch aufzuladen. Der Akku sollte vor dem Gebrauch vollständig aufgeladen sein
+- Systemsprache EnglischVereinfachtes ChinesischSpanischRussischItalienischFranzösischDeutschPortugiesischUkrainischPolnischTürkischTschechischThailändischIndonesischGriechischVietnamesischRumänischNiederländischTraditionelles ChinesischKoreanischJapanisch
+- GroÃŸes 1,39-Zoll-AMOLED-Display mit Corning Gorilla Glass 3
 - Erhöhte Akkulaufzeit von 16 Tagen bei normalem Gebrauch und 22 Tagen im Batteriesparmodus
 - 2 Stunden Ladezeit
 

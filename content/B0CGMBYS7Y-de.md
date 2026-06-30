@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Intensität Plus: Wählen Sie Ihren Lieblingskaffee und nutzen Sie den Slider für den klassisch Langen, Intensiven oder reichhaltigen Espresso
 - Memo-Funktion: Genießen Sie Ihren eigenen Geschmack, indem Sie ein Rezept speichern, das auf die ideale Intensität und Lautstärke abgestimmt ist
+- Intensität Plus: Wählen Sie Ihren Lieblingskaffee und nutzen Sie den Slider für den klassisch Langen, Intensiven oder reichhaltigen Espresso
 - Direktstart und Abschaltung: Der Direktstart bereitet den Kaffee direkt nach dem Aufheizen zu und schaltet die Maschine nach Beendigung automatisch ab, um Energie zu sparen
 - Geringere Umweltbelastung: Weniger Energieverbrauch und mehr recycelte Materialien mit 37 % biobasiertem Kunststoff
 - Einfachheit auf einen Knopfdruck: Entwickelt um mit einem einzigen Knopfdruck eine oder zwei Tassen des köstlichen Senseo-Kaffees zuzubereiten

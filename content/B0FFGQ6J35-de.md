@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Enthält 2 Pro-Level-Back-Buttons, zusätzliche R4/L4-Bumper für schnelle Reaktionen, ein taktiles D-Pad, 3 benutzerdefinierte Profile und 2 Joystick-Kappen mit Kugelkopf. Vibrations- und Bewegungssteuerung (nur für Switch und Steam). Turbo-Funktion. Unterstützung der 8BitDo Ultimate Software V2.
-- TMR-Joysticks & Trigger-Modus-Schalter - Ausgestattet mit hochpräzisen TMR-Joysticks mit 12-Bit-ADC-Sampling-Chip. Einfaches Umschalten zwischen linearen Hall-Effekt-Triggern und nicht-linearen taktilen Triggern für optimale Kontrolle in verschiedenen Spielszenarien.
-- Austauschbare magnetische ABXY-Tasten - Einfacher Wechsel zwischen Switch- und Xbox-Layouts mit dem mitgelieferten Tastenzieher.
-- Multiplattform-Kompatibilität - Kompatibel mit Switch 1 & 2, Windows PC, Apple, SteamOS und Android-Geräten.
 - Integrierte Ladestation - Eine nahtlos integrierte Ladestation sorgt dafür, dass Ihr Controller immer aufgeladen und spielbereit ist. Verbindet sich automatisch wieder, wenn er aus der Dockingstation entfernt wird.
+- TMR-Joysticks & Trigger-Modus-Schalter - Ausgestattet mit hochpräzisen TMR-Joysticks mit 12-Bit-ADC-Sampling-Chip. Einfaches Umschalten zwischen linearen Hall-Effekt-Triggern und nicht-linearen taktilen Triggern für optimale Kontrolle in verschiedenen Spielszenarien.
+- Multiplattform-Kompatibilität - Kompatibel mit Switch 1 & 2, Windows PC, Apple, SteamOS und Android-Geräten.
+- Austauschbare magnetische ABXY-Tasten - Einfacher Wechsel zwischen Switch- und Xbox-Layouts mit dem mitgelieferten Tastenzieher.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0FFGQ6J35{{</world>}}

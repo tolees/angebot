@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lederdecksohle mit angenehmer Oberflächenstruktur
-- camel active Logopatch am Fersenband
 - Flexibler Einstieg durch seitliche Stretch-Einsätze
 - Glattleder-Obermaterial mit hoher Strapazierfähigkeit
+- camel active Logopatch am Fersenband
+- Lederdecksohle mit angenehmer Oberflächenstruktur
 - Rutschfeste TPR-Sohle mit griffigem Profil
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Umfangreiche Funktionen: Heb- und senkbarer Baggerarm, Vollfunktionsfähige Klappschaufel, Raupenketten aus Gummi
 - Lieferumfang: 1x siku 1798 Liebherr R9800 Mining-Bagger, Maßstab: 1:87, Material: Metall/Kunststoff, Abmessungen: 28,4 x 10,7 x 11,3 cm, Gewicht: 0,725 kg, Farbe: Weiß, Serie: SIKU SUPER
-- Originalgetreue Nachbildung eines Lieberr R9800 Mining-Bagger zum Spielen und Kombinieren mit weiteren SIKU Spielzeugen
-- Hohe Stabilität: Großteil des Spielzeugmodells aus Metall, Für Fliesen, Parkett oder auch Teppich geeignet
 - Ideal als Geschenk für kleine und große Baustellenliebhaber geeignet, Perfekte Ergänzung zu SIKU Spielwelten
+- Hohe Stabilität: Großteil des Spielzeugmodells aus Metall, Für Fliesen, Parkett oder auch Teppich geeignet
+- Originalgetreue Nachbildung eines Lieberr R9800 Mining-Bagger zum Spielen und Kombinieren mit weiteren SIKU Spielzeugen
+- Umfangreiche Funktionen: Heb- und senkbarer Baggerarm, Vollfunktionsfähige Klappschaufel, Raupenketten aus Gummi
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B06WP8WP77{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eaton
 - USV-Zubehör
+- Eaton
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00D13RFPQ{{</world>}}

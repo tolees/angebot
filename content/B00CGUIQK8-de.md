@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- und strahlende Haut
 - Für eine optimal gepflegte
 - zarte
-- und strahlende Haut
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00CGUIQK8{{</world>}}

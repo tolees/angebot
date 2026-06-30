@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schützende Handcreme für arbeitende und strapazierte Hände
 - Schützt u. a. vor Wasser, Seifen und Reinigungsmitteln
+- Schützende Handcreme für arbeitende und strapazierte Hände
 - Ohne Duftstoffe
 - Zieht schnell ein
 

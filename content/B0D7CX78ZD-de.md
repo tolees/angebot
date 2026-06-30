@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 4K UHD OLED: Die besten Kontraste und tiefsten OLED-Schwarztöne in 4K Auflösung
-- Dolby Vision IQ: Dolby Vision gehört zu den höchsten HDR Formaten. Es verstärkt die Fernseheinstellungen, sodass feinere Details selbst in dunklen Szenen sichtbar werden. Mit IQ berechnet der Fernseher die Helligkeit im Raum mit ein für ein atemberaubendes Filmerlebnis.
 - Dolby Atmos: Tauchen Sie mitten ins Geschehen ein und lassen sich von kraftvollem Sound umgeben. Mittels Dolby Atmos kann der Fernseher den Effekt simulieren, dass der Sound nicht nur von vorne und unten kommt, sondern auch von oben: für ein rundum perfektes Sounderlebnis.
+- Dolby Vision IQ: Dolby Vision gehört zu den höchsten HDR Formaten. Es verstärkt die Fernseheinstellungen, sodass feinere Details selbst in dunklen Szenen sichtbar werden. Mit IQ berechnet der Fernseher die Helligkeit im Raum mit ein für ein atemberaubendes Filmerlebnis.
 - Modernste HDR Technologie: Dolby Vision IQ, HDR10, HDR10+, HLG - ermöglicht einen extraweiten Farbraum, sodass Bilder mit hohem Dynamikumfang dargestellt werden. Für den Zuschauer werden so feinste Details in den Bildern sichtbar.
+- 4K UHD OLED: Die besten Kontraste und tiefsten OLED-Schwarztöne in 4K Auflösung
 - Game Mode Pro 120 Hz, AMD Freesync Premium & Game Bar: Für Gamer bietet der Game Mode Pro pures Spielvergnügen mit HDMI 2.1 Unterstützung (120Hz@4K). Mittels ALLM schaltet der Fernseher in Verbindung mit der Spielekonsole automatisch in den Game-Modus mit der geringsten Latenz. Freesync sorgt für eine dynamische Anpassung der Bildwiederholfrequenz an die Aktualisierungsrate von Videoinhalten für eine stromsparende und ruckelfreie Videowiedergabe.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

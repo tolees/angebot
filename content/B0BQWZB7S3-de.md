@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gebondete Zehennähte
-- Wadenlang
-- Sechs Paar pro Packung
 - Fußgewölbeunterstützung
+- Sechs Paar pro Packung
+- Wadenlang
+- Gebondete Zehennähte
 - 62 % Baumwolle / 36 % recycelter Polyester / 1 % Elastan / 1 % recyceltes Nylon
 
 [🛒 Hier!!]({{< param buyurl >}})

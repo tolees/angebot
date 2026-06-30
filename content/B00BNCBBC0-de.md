@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Doppeltes LED-Licht zum Anklippen
+- Kommt mit verstellbarem Schultergurt.
 - Geeignet für Notenständer, Rednerpulte und DJ-Kabinen
 - Passend für k&m 10065 und 10062 Notenständer
-- Kommt mit verstellbarem Schultergurt.
 - Platz für ein Namensschild vorhanden.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

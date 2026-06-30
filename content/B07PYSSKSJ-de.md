@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LCD-Display
 - Temperatur einstellbar 20 - 55°C
+- LCD-Display
+- Temperaturkontrollleuchte
 - Betriebskontrollleuchte
-- Timer 1 - 48 Stunden
 - Leichte Reinigung
 - 8 Glas Joghurtbecker mit Deckel à 180 ml
-- Temperaturkontrollleuchte
+- Timer 1 - 48 Stunden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07PYSSKSJ{{</world>}}

@@ -32,9 +32,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - Einfache Bedienung in kompaktem Design: Das extra große Sensor-Touch Bedienfeld sorgt für eine einfache Bedienung des Kaffeevollautomaten und das platzsparendes Design fügt sich optimal in jede Küche ein
 - Keine Brühgruppe aus Plastik: Metallbrühgruppe für lange Lebensdauer, optimale Wärmeleitung und vollautomatische Reinigung ohne Aufwand
 - Optimaler Geschmack: Genießen Sie 4 einzigartige Kaffeegetränke, wie Ristretto, Espresso und Long Coffee optimiert durch Barista Inside Technologie. Inklusive innovativer Filterkaffee-Funktion für höchste Qualität
+- Memo-Funktion: Passen Sie Menge und Stärke an und speichern Sie bis zu 2 Favoriten für einen schnellen und individuellen Start
 - Vollautomatische Reinigung: Dank des geschlossenen Brühsystems erfolgt die Reinigung mühelos mit einem Reinigungstab – ganz ohne Gefahr der Fehlbedienung
 - Samtig-cremiger Schaum: Bereiten Sie mit der Milchdüse samtig-cremigen Milchschaum zu
-- Memo-Funktion: Passen Sie Menge und Stärke an und speichern Sie bis zu 2 Favoriten für einen schnellen und individuellen Start
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CCP713Y7{{</world>}}

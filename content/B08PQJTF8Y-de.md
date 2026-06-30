@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bequem
-- Angenehmes Material
-- Elastischer Bund
 - 3er-Pack
+- Bequem
+- Elastischer Bund
+- Angenehmes Material
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08PQJTF8Y{{</world>}}

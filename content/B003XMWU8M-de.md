@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Elastische Qualität für volle Bewegungsfreiheit beim Training, Joggen, Wandern oder Skifahren; Sportliche Passform; Damenmodell mit tailliertem Schnitt für optimalen Sitz
-- Supersoftes, feuchtigkeitsregulierendes Stretchmaterial für hohen Tragekomfort
 - Ein leichtes Baselayer-/Midlayer-Shirt für kalte Tage
-- Leichtes, wärmendes Funktions-Rollkragenshirt für Sport und Outdoor-Aktivitäten
 - Stehkragen mit unterlegtem Kurz-Reißverschluss für angenehmes Tragegefühl
+- Leichtes, wärmendes Funktions-Rollkragenshirt für Sport und Outdoor-Aktivitäten
+- Supersoftes, feuchtigkeitsregulierendes Stretchmaterial für hohen Tragekomfort
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B003XMWU8M{{</world>}}

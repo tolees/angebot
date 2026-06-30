@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schutz für Blumen - Der Flowerguard aus stabilem Metall schützt Blumen, Zierpflanzen und andere empfindliche Objekte vor dem Akku-Rasentrimmer.
 - Lieferung ohne Akku - Der Akku-Rasentrimmer GE-CT 18/28 Li-Solo wird ohne Power X-Change Akku und Ladegerät geliefert. Diese sind separat zum Beispiel als praktisches Starter-Set erhältlich.
-- Leistung and Gewicht - Der 18V-Akku-Rasentrimmer erreicht eine Leerlaufdrehzahl von bis zu 19.500 Umdrehungen pro Minute. So lässt sich mit dem 2,3 kg leichten Gerät effektiv und ermüdungsarm arbeiten.
+- Schutz für Blumen - Der Flowerguard aus stabilem Metall schützt Blumen, Zierpflanzen und andere empfindliche Objekte vor dem Akku-Rasentrimmer.
 - Dreh- and neigbarer Motorkopf - Der Rasentrimmer ist ausgestattet mit einem 180° drehbaren und 3-fach neigbaren Motorkopf. So werden auch Rasenflächen an Kanten oder Engstellen einfach getrimmt.
-- Komfortable Handhabung - Mit Hilfe des verstellbaren Zusatzhandgriffs und des teleskopierbaren Führungsholms kann der Rasentrimmer individuell auf die eigene Körpergröße angepasst werden.
+- Leistung and Gewicht - Der 18V-Akku-Rasentrimmer erreicht eine Leerlaufdrehzahl von bis zu 19.500 Umdrehungen pro Minute. So lässt sich mit dem 2,3 kg leichten Gerät effektiv und ermüdungsarm arbeiten.
 - Power X-Change - Der Rasentrimmer GE-CT 18/28 Li-Solo ist Teil der Power X-Change Familie, in der Akkus, Ladegeräte und Systemgeräte flexibel miteinander kombiniert werden können.
 - Fadentechnologie - Mit der Fadenspule (Schnittbreite 28 cm) werden präzise Schnittergebnisse erzielt. Die vollautomatische Fadennachführung sorgt jederzeit für die optimale Fadenlänge.
+- Komfortable Handhabung - Mit Hilfe des verstellbaren Zusatzhandgriffs und des teleskopierbaren Führungsholms kann der Rasentrimmer individuell auf die eigene Körpergröße angepasst werden.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09NQHDV9M{{</world>}}

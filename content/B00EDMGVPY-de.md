@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Grauer Edelstahlgurt
 - Rundes Edelstahlgehäuse mit schwarzem Zifferblatt
 - 42 -mm -Gehäusegröße, 22 mm Bandbreite, Mineralkristall, Quarzbewegung, importiert
-- Grauer Edelstahlgurt
 - Wasserdicht bis zu 50 m: tragbar beim Schwimmen in flachem Wasser.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

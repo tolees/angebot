@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Blickfang: Silberne Metallecken verleihen dem Album einen Businessplaner-Stil und schützen vor Beschädigungen wie Knicken und Rissen
-- Klassisches Einsteck-Fotoalbum: Fein strukturiertes Kunstleder mit schwarzer Ziernaht für ein edles und dezentes Design
-- Schwarze Innenseiten: drei transparente Einstecktaschen pro Seite zum schnellen und einfachen Bestücken von innen für 300 Photos im Format 10 x 15 cm
-- Highlight: Einbandinnenseiten sind mit weichem Vlies veredelt für eine hochwertige Aufmachung und besondere Haptik
 - Lieferumfang: 1x Einsteckalbum "New York City"
+- Highlight: Einbandinnenseiten sind mit weichem Vlies veredelt für eine hochwertige Aufmachung und besondere Haptik
+- Klassisches Einsteck-Fotoalbum: Fein strukturiertes Kunstleder mit schwarzer Ziernaht für ein edles und dezentes Design
+- Blickfang: Silberne Metallecken verleihen dem Album einen Businessplaner-Stil und schützen vor Beschädigungen wie Knicken und Rissen
+- Schwarze Innenseiten: drei transparente Einstecktaschen pro Seite zum schnellen und einfachen Bestücken von innen für 300 Photos im Format 10 x 15 cm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00T7MB37Q{{</world>}}

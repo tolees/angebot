@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Die Regenhülle ist abnehmbar und kann im dafür vorgesehenen Fach verstaut werden.
+- Das Gewicht des Rucksacks wird gleichmäßig durch den flexiblen Delrin U-Rahmen verteilt.
 - Der Brustgurt mit Signalpfeife ist stufenlos justierbarer und lässt sich abnehmen.
 - Das Airstripes Rückensystem mit geringer Auflagefläche und luftdurchlässigem, schnell trocknendem Air Spacer Mesh sorgt zusammen mit den perforierten Schulterträgern und Hüftflossen für maximale Belüftung, ideale Lastverteilung, mehr Tragekomfort und kompakten Sitz auf Mehrtagestouren mit Klettersteig. Die flache Deckelkonstruktion bietet gute Kopffreiheit - auch mit Helm. Dank Fixierungen an den Schulterträgern sind die Karabiner des Klettersteigsets stets griffbereit. Zudem sind Ausrüstungsgegenstände durch den großen Reißverschluss-Frontzugang und die Seitentaschen schnell erreichbar.
-- Das Gewicht des Rucksacks wird gleichmäßig durch den flexiblen Delrin U-Rahmen verteilt.
-- Die Regenhülle ist abnehmbar und kann im dafür vorgesehenen Fach verstaut werden.
-- Dank der ergonomisch geformten, leichten Netz-Hüftflossen und -Schulterträger mit Karabiner-Fixierung für Klettersteigset hast du stets alles griffbereit.
 - Vorrichtung für Trinksystem (deuter Streamer 3.0 - nicht enthalten!)
+- Dank der ergonomisch geformten, leichten Netz-Hüftflossen und -Schulterträger mit Karabiner-Fixierung für Klettersteigset hast du stets alles griffbereit.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C86DP88V{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die nummerierten Kunststoff-Puzzleteile passen dank Easyclick Technology perfekt zusammen
-- Maße ca. 29,5 x 27,5 x 19 cm - Schwierigkeitsgrad 3/5
 - Inklusive LED-Leuchtmodul, welches das Bauwerk von innen erstrahlen lässt
 - 216 teils knickbare Kunststoff-Puzzleteile und passende Zubehörteile wachsen zu einem stabilen Bauwerk
+- Die nummerierten Kunststoff-Puzzleteile passen dank Easyclick Technology perfekt zusammen
 - Einfacher Aufbau mit bebilderter Anleitung garantiert Puzzlespaß für Einsteiger und Fortgeschrittene
+- Maße ca. 29,5 x 27,5 x 19 cm - Schwierigkeitsgrad 3/5
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B084DFY7HY{{</world>}}

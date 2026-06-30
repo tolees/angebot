@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - WEITERE SETS ENTDECKEN: Alle separat erhältlichen LEGO Sonic Sets bieten Kindern actionreiche Spielideen, mit denen sie eigene Geschichten rund um die Welt von Sonic gestalten können
-- SONIC SPIELZEUG FÜR RASANTE RENNEN: Mit dem LEGO Sonic Set schicken Kinder ab 8 Jahren ein Rennauto und einen Monstertruck auf die Piste und erleben fantasievollen Spielspaß mit zwei coolen Spielsachen
-- GESCHENK FÜR SONIC FANS: Dieses Bauset ist ein beliebtes Geschenk für Kinder, die Rennautos, Monstertrucks und LEGO Sonic Figuren lieben und sich spannende Rollenspiele ausdenken
-- SILVER UND KNUCKLES ALS MINIFIGUREN: Zum ersten Mal ist Silver the Hedgehog als LEGO Figur enthalten, dazu Knuckles, zwei Chaos Emeralds, eine Startampel sowie Zubehör für kreative Modellbau Abenteuer
 - INTERAKTIVES BAUERLEBNIS MIT APP: Mit der LEGO Builder App wird das LEGO Set digital zum Leben erweckt, Kinder können Bauanleitungen in 3D verfolgen, Modelle drehen, speichern und den Fortschritt festhalten
+- SONIC SPIELZEUG FÜR RASANTE RENNEN: Mit dem LEGO Sonic Set schicken Kinder ab 8 Jahren ein Rennauto und einen Monstertruck auf die Piste und erleben fantasievollen Spielspaß mit zwei coolen Spielsachen
+- SILVER UND KNUCKLES ALS MINIFIGUREN: Zum ersten Mal ist Silver the Hedgehog als LEGO Figur enthalten, dazu Knuckles, zwei Chaos Emeralds, eine Startampel sowie Zubehör für kreative Modellbau Abenteuer
+- GESCHENK FÜR SONIC FANS: Dieses Bauset ist ein beliebtes Geschenk für Kinder, die Rennautos, Monstertrucks und LEGO Sonic Figuren lieben und sich spannende Rollenspiele ausdenken
 - MODELLBAU MIT ZUBEHÖR UND FUNKTIONEN: Kinder bauen ihr Kinderspielzeug mit Werkzeug und Werkzeugkasten selbst zusammen und schicken Silvers Flitzer gegen Knuckles’ Monstertruck ins nächste Rennen
 - ACTION AUS SONIC RACING: CROSSWORLDS: Das Spielset zum beliebten Videospiel Sonic Racing: CrossWorlds enthält ein rotes LEGO Monstertruck-Modell und ein schnittiges weißes Rennauto mit stylischen Heckflossen
 

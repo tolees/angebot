@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verstärkter Zehenbereich
-- Textilfutter
-- Gummiaußensohle
 - Besteht zu mindestens 20 % aus recycelten Materialien
 - Obermaterial aus Leder
 - Textilfutter
+- Textilfutter
+- Verstärkter Zehenbereich
 - Reguläre Passform
+- Gummiaußensohle
 - Schnürsenkel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

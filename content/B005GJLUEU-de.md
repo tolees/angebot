@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LED-LEUCHTMITTEL VERWENDBAR - Setze eine energiesparende Glühbirne in diese Leuchte ein, denn damit tust Du nicht nur der Umwelt etwas Gutes, sondern sparst auch Strom
-- EIN- UND AUSSCHALTEN LEICHT GEMACHT - Am Leuchtenkopf dieser Leuchte ist ein praktischer Druckschalter für das bequeme Ein- und Ausschalten verbaut.
-- Durch Gelenke in Höhe und Neigung einstellbar
-- SCHWENKBARER KOPF - Optimal für größere oder verwinkelte Räume ist der schwenkbare Kopf dieser Leuchte. Stelle den Ausleuchtungsbereich ganz flexibel ein, so dass keine dunklen Ecken entstehen.
 - Beleuchtung passend für jede Wohnung
+- EIN- UND AUSSCHALTEN LEICHT GEMACHT - Am Leuchtenkopf dieser Leuchte ist ein praktischer Druckschalter für das bequeme Ein- und Ausschalten verbaut.
+- SCHWENKBARER KOPF - Optimal für größere oder verwinkelte Räume ist der schwenkbare Kopf dieser Leuchte. Stelle den Ausleuchtungsbereich ganz flexibel ein, so dass keine dunklen Ecken entstehen.
+- LED-LEUCHTMITTEL VERWENDBAR - Setze eine energiesparende Glühbirne in diese Leuchte ein, denn damit tust Du nicht nur der Umwelt etwas Gutes, sondern sparst auch Strom
+- Durch Gelenke in Höhe und Neigung einstellbar
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B005GJLUEU{{</world>}}

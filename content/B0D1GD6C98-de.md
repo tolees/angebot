@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eingang und Ausgang: HDMI 2.1 (TMDS) x 2 (bis zu 100 Hz)|DP 1.4 x 2 (bis zu 165 Hz) | Audio | Keine Lautsprecher
-- 34 Zoll Curved 1500R WQHD (3440 x 1440) 165 Hz Fast VA Ultrawide Gaming-Monitor. （keine eingebauten Lautsprecher)
-- Ergonomischer Ständer: Neigung -5°~15°(+/-2°)丨VESA-kompatibel (75 x 75 mm) Erfordert M4*10mm-Schrauben| 178° weiter Betrachtungswinkel | PIP/PBP
 - Bildschirmfarben: sRGB 125 % | 300 Nits | 8 Bit丨DCI-P3 95 %丨HDR
+- Ergonomischer Ständer: Neigung -5°~15°(+/-2°)丨VESA-kompatibel (75 x 75 mm) Erfordert M4*10mm-Schrauben| 178° weiter Betrachtungswinkel | PIP/PBP
+- 34 Zoll Curved 1500R WQHD (3440 x 1440) 165 Hz Fast VA Ultrawide Gaming-Monitor. （keine eingebauten Lautsprecher)
+- Eingang und Ausgang: HDMI 2.1 (TMDS) x 2 (bis zu 100 Hz)|DP 1.4 x 2 (bis zu 165 Hz) | Audio | Keine Lautsprecher
 - Leistung: 165 Hz Bildwiederholrate | MPRT 1 ms Reaktionszeit丨 AMD FreeSync | Blaulichtreduzierung | Flimmerfrei
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Monitorarm inbegriffen: Kompatibel mit Monitoren mit VESA-Halterung in den Größen 75 × 75 mm oder 100 × 100 mm mit einem Gewicht von bis zu 12,5 kg
-- Massive Birken-Oberfläche: Genießen Sie die angenehm zu berührende Tischplatte. Die massive, umweltfreundliche Birken-Oberfläche ist in wunderbaren Birkenton gebeizt und genauso dauerhaft wie schön
+- Höhenverstellbar mit zwei Elektromotoren: Einfache Drucktastenverstellung mit Steuerung über eine LCD-Anzeige und Speichervoreinstellungen, damit Sie auf Ihrer bevorzugten Höhe sitzen oder stehen können – dabei leise genug, dass man ihn mitten in einer Telefonkonferenz verstellen kann, ohne dass es jemand bemerkt
 - CORSAIR RapidRoute-Kabelwanne: Verbergen Sie Ihre Kabel in einer Wanne, die genügend Raum bietet, um alle Steckdosenleisten aufzunehmen und jede Menge Platz für Kabelbinder bietet
 - Modulares T-Kanal-Schienensystem: Räumen Sie Ihren Arbeitsplatz mit unserem modularen System mit einer universellen Standard-Aluminium-T-Kanal-Querstange in Größe 3060, Seitenschienen und einer aufsatzmontierten Schiene auf, das Kompatibilität mit Hunderten nachgekaufter Zusatz- und Zubehörteile bietet. Mit seinem durchdachten Design, bei dem zukünftige Erweiterungen berücksichtigt wurden, kann der CORSAIR PLATFORM:4-Schreibtisch mit Ihnen wachsen
-- Höhenverstellbar mit zwei Elektromotoren: Einfache Drucktastenverstellung mit Steuerung über eine LCD-Anzeige und Speichervoreinstellungen, damit Sie auf Ihrer bevorzugten Höhe sitzen oder stehen können – dabei leise genug, dass man ihn mitten in einer Telefonkonferenz verstellen kann, ohne dass es jemand bemerkt
+- Massive Birken-Oberfläche: Genießen Sie die angenehm zu berührende Tischplatte. Die massive, umweltfreundliche Birken-Oberfläche ist in wunderbaren Birkenton gebeizt und genauso dauerhaft wie schön
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DN2QSQKS{{</world>}}

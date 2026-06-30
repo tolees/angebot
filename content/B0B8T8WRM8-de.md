@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Umweltfreundliche Verpackung! Für unser Sortiment an Trockenfutter verwenden wir Papierverpackungen und unsere Nassfutterdosen und -schälchen sind vollständig recycelbar.
-- Geeignet für Kätzchen, kastriert oder unkastriert, alle Rassen und Größen.
+- Natürliches Trockenfutter für Kätzchen, vollgepackt mit frischer Ente und frischem Hühnchen. Kein übermäßig verarbeitetes oder getrocknetes Fleisch.
 - Natürliche Quelle für hochwertiges und mageres Protein, das die Immungesundheit, starke Knochen und Muskeln unterstützt, sowie Omega-3 für seidenweiches Fell.
 - Freunde halten zusammen – Wir spenden, um dem weltweiten Leid von Hunden und Katzen ein Ende zu bereiten.
 - Getreidefrei, perfekt für empfindliche Bäuchlein mit Präbiotika für einen gesunden Darm.
-- Natürliches Trockenfutter für Kätzchen, vollgepackt mit frischer Ente und frischem Hühnchen. Kein übermäßig verarbeitetes oder getrocknetes Fleisch.
+- Geeignet für Kätzchen, kastriert oder unkastriert, alle Rassen und Größen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B8T8WRM8{{</world>}}

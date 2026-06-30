@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der hochwertige, ovale Stoffschirm in Grau verleiht Ihren Räumen eine gemütliche Atmosphäre, ob Wohnzimmer, Schlafzimmer, Esszimmer, Flur oder Küche
-- Abmessungen: Höhe: max 110 cm, Länge: 100 cm, Breite: 28 cm
-- Kein Leuchtmittel im Lieferumfang enthalten; Das Leuchtmittel ist unter EGLO 110053 separat erhältlich; Geeignet für jedes Leuchtmittel mit E27 Sockel, maximale Wattage pro Fassung 60 W; Dimmbar je nach verwendetem Leuchtmittel
 - Der moderne Materialmix aus edlem Stahl in Nickel matt sowie dem grauen Schirm, sorgt für einen klassischen, gemütlichen und gleichzeitig modernen Look
+- Abmessungen: Höhe: max 110 cm, Länge: 100 cm, Breite: 28 cm
+- Der hochwertige, ovale Stoffschirm in Grau verleiht Ihren Räumen eine gemütliche Atmosphäre, ob Wohnzimmer, Schlafzimmer, Esszimmer, Flur oder Küche
+- Kein Leuchtmittel im Lieferumfang enthalten; Das Leuchtmittel ist unter EGLO 110053 separat erhältlich; Geeignet für jedes Leuchtmittel mit E27 Sockel, maximale Wattage pro Fassung 60 W; Dimmbar je nach verwendetem Leuchtmittel
 - Mit dieser Hängelampe wird Ihr Esstisch ausreichend ausgeleuchtet; Kombinieren Sie diese Wohnzimmerlampe mit weiteren Leuchten aus der Serie Pasteri wie z.B. Stehlampe, Tischlampe, Wandlampe und Deckenlampe
 
 [🛒 Hier!!]({{< param buyurl >}})

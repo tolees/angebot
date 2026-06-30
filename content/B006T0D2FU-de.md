@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Der Mikrobagger ist aus hochwertigen Kunststoffen wie zum Beispiel ABS hergestellt. Erhältlich ist er im Maßstab 1:16
+- Der JCB Mikrobagger 8010 CTS überzeugt mit seiner detailgetreuen Ausstattung
+- Durch die leicht laufende Kette wird ein spielerisches Manövrieren ermöglicht
 - Das Fahrgerät ist durch den Sitzplatz mit Haltebügel und die angepassten Instrumente zur Steuerung perfekt auf die Figuren der bruder Bworld - Serie abgestimmt
 - Der Baggeraufsatz auf dem Drehkranz ist um 360° schwenkbar
-- Der Mikrobagger ist aus hochwertigen Kunststoffen wie zum Beispiel ABS hergestellt. Erhältlich ist er im Maßstab 1:16
-- Durch die leicht laufende Kette wird ein spielerisches Manövrieren ermöglicht
-- Der JCB Mikrobagger 8010 CTS überzeugt mit seiner detailgetreuen Ausstattung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B006T0D2FU{{</world>}}

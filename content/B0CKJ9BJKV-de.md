@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichtes Mesh-Obermaterial mit einer GRIPCONTROL PRO Schicht für optimale Ballkontrolle mit einem PWRTAPE Stützrahmen
 - Hohes Slip on Design
+- Leichtes Mesh-Obermaterial mit einer GRIPCONTROL PRO Schicht für optimale Ballkontrolle mit einem PWRTAPE Stützrahmen
 - PUMA Branding Details
 - Normale bis schmale Passform
 

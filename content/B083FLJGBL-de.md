@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Höhe des Artikelpakets: 130 mm
-- Breite des Artikelpakets: 195 mm
-- Länge des Artikelpakets: 340 mm
 - Gewicht des Artikels und des Pakets: 0.26 kg
+- Höhe des Artikelpakets: 130 mm
+- Länge des Artikelpakets: 340 mm
+- Breite des Artikelpakets: 195 mm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B083FLJGBL{{</world>}}

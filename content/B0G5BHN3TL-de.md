@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- · Lieferumfang: Power-Nuss-Mix 1 x 125 g, vegan, vegetarisch - ohne Zusatz von Aromen und Farbstoffen - für langanhaltenden Genuss unter Schutzatmosphäre verpackt
-- Die folgenden Informationen gelten für jede Einheit pro Packung
-- · Familienunternehmen mit Tradition: In jeder Seeberger-Packung steckt das Beste aus der Natur, über 180 Jahre Erfahrung und Genuss in bester Qualität. Natürlicher Snacken mit Seeberger
 - · Knackiger Proteinprotz: Deine tägliche Handvoll Nüsse mit pflanzlichen Proteinen und Vitamin E
+- Die folgenden Informationen gelten für jede Einheit pro Packung
+- · Lieferumfang: Power-Nuss-Mix 1 x 125 g, vegan, vegetarisch - ohne Zusatz von Aromen und Farbstoffen - für langanhaltenden Genuss unter Schutzatmosphäre verpackt
 - · Geballte Power: Aromatisch im Geschmack und kraftvoll im Biss – der Power Nuss-Mix vereint knackige Walnusskerne, blanchierte Mandeln, Cashewkerne und naturbelassene Mandeln
+- · Familienunternehmen mit Tradition: In jeder Seeberger-Packung steckt das Beste aus der Natur, über 180 Jahre Erfahrung und Genuss in bester Qualität. Natürlicher Snacken mit Seeberger
 - · Mix mit Herz: Inspiriert von Thomas Müllers Nuss-Lieblingen überzeugt die Mischung als Quelle für Protein und Vitamin E. Ob für unterwegs oder als Begleiter durch den Tag – dieser Mix steht für natürlichen Genuss in seiner besten Form.
 
 [🛒 Hier!!]({{< param buyurl >}})

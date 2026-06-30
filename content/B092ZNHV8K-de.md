@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: Zusatzhandgriff;Tiefenanschlag;Tragekoffer
-- 1,7 kg leicht, kompakt und ergonomisch für eine bequeme Handhabung
 - Zweihülsiges Schnellspannbohrfutter für schnellen und einfachen Bohrerwechsel
+- 1,7 kg leicht, kompakt und ergonomisch für eine bequeme Handhabung
 - Electronic Speed Control ermöglicht die Anpassung der Drehzahl über den Gasgebeschalter
+- Lieferumfang: Zusatzhandgriff;Tiefenanschlag;Tragekoffer
 - Müheloses Bohren in Mauerwerk bis zu 12 mm und Holz bis zu 25 mm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

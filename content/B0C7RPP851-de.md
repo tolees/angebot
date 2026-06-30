@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Briefe auf Pergament schreiben wie Harry Potter und ein eigenes Buch binden
 - Mit Original Hogwarts-Wappen und kinderfreundlicher Siegelmasse zum Versiegeln von Schriftstücken
-- Ein perfektes Geschenk für Harry Potter-Fans und Bastelbegeisterte
-- Mit dem Papierschöpfrahmen selbst Papiere schöpfen und anschließend gestalten
-- Mit der KOSMOS AllesKönnerKiste bastelnd in die magische Welt von Harry Potter eintauchen
 - Zauberhafte DIY-Projekte für Kinder ab 8 Jahren
 - Fantastische Bastelideen aus der Wizarding World: Tom Riddles Tagebuch, Heuler und viele weitere Kreativprojekte
+- Mit dem Papierschöpfrahmen selbst Papiere schöpfen und anschließend gestalten
+- Ein perfektes Geschenk für Harry Potter-Fans und Bastelbegeisterte
+- Briefe auf Pergament schreiben wie Harry Potter und ein eigenes Buch binden
+- Mit der KOSMOS AllesKönnerKiste bastelnd in die magische Welt von Harry Potter eintauchen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C7RPP851{{</world>}}

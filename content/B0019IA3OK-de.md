@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Stoßschutz aus gegossenem Thermal Plastic Rubber (TPR) entspricht dem Stoßschutzstandard EN 13594.
 - Nylontragschlaufen für die Aufbewahrung.
 - Die Verstärkung der inneren Fingerspitzen unterstützt eine extreme Abriebfestigkeit.
+- Der Stoßschutz aus gegossenem Thermal Plastic Rubber (TPR) entspricht dem Stoßschutzstandard EN 13594.
 - Der Thermal-Plastic-Rubber(TPR)-Abschluss sorgt für einen sicheren Sitz am Handgelenk.
 - Das 0,8 mm dicke touchscreen-fähige Kunstleder bietet die perfekte Mischung aus Fingerfertigkeit und Haltbarkeit.
 

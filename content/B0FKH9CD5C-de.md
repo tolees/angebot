@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BEWEGUNGSSENSOR – Mit Hue MotionAware können Sie Ihr smart Lighting so programmieren, dass sie sich bei erkannten Bewegungen automatisch einschalten. Dazu benötigen Sie lediglich drei Hue Geräte, separate Bewegungssensoren sind nicht erforderlich.
 - DATENSCHUTZ – Schützen Sie Ihre Daten und Privatsphäre mit erweiterten Sicherheitskontrollen und nutzen Sie das neue Zigbee Trust Center, um unbefugten Zugriff zu verhindern.
-- MEHR KAPAZITÄT – Integrieren Sie alle Hue Geräte in der neuen Hue Bridge und fügen Sie noch mehr hinzu, dank eingebautem Support für 150+ Leuchten und 50+ Zubehörteile sowie 8 GB eMMC-Flash-Speicher, der Kapazität für weitere Funktionen einer smarten Lichtplanung bietet
 - MEHR SPEICHER – Mit 8 GB DDR4 SDRAM für die Zukunft gerüstet, bietet der Smart Home Controller schnellere Datenübertragungen und mehr Kapazität zum Speichern von bis zu 500 personalisierten Szenen und weiteren Automatisierungen für zusätzlichen Komfort
+- MEHR KAPAZITÄT – Integrieren Sie alle Hue Geräte in der neuen Hue Bridge und fügen Sie noch mehr hinzu, dank eingebautem Support für 150+ Leuchten und 50+ Zubehörteile sowie 8 GB eMMC-Flash-Speicher, der Kapazität für weitere Funktionen einer smarten Lichtplanung bietet
+- BEWEGUNGSSENSOR – Mit Hue MotionAware können Sie Ihr smart Lighting so programmieren, dass sie sich bei erkannten Bewegungen automatisch einschalten. Dazu benötigen Sie lediglich drei Hue Geräte, separate Bewegungssensoren sind nicht erforderlich.
 - SCHNELLER – Der neue Hue Chip Pro der Schaltzentrale verfügt über eine ultraschnelle Verarbeitungsgeschwindigkeit von 1,7 GHz und einem Quad-Core-Cortex-A35-CPU für superschnelle Reaktionszeiten und die Fähigkeit, komplexe Algorithmen und KI-gestützte Funktionen auszuführen.
 
 [🛒 Hier!!]({{< param buyurl >}})

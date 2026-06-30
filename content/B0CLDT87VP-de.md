@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideal für einen lässigen Look
 - HERGESTELLT MIT RECYCELTEM POLYESTER Dieses Produkt wurde mit recyceltem Polyester hergestellt; Recyceltes Polyester bewahrt natürliche Ressourcen und reduziert die Menge an Abfall
+- Ideal für einen lässigen Look
 - Steppweste für Herren der dänischen Marke
 - Kunstfaser-Daunenwattierung für ein leichtes Tragegefühl und Wärme
 

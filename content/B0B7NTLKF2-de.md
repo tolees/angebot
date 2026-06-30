@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Differenzialbremsen – Die gefederten Bremspedale ermöglichen präzise Bremskontrolle auf der Landebahn oder Lenkunterstützung, wenn die Pedale abwechselnd gedrückt werden
 - Stabile Befestigungsmöglichkeiten – Eine robuste Metallkonstruktion mit Gummiauflagen mit Noppen für Teppichböden an der Unterseite bildet eine stabile Auflagefläche auf einer Vielzahl von Oberflächen und verfügt über vorgebohrte Schraublöcher zur permanenten Integration in vorhandene Cockpit-Einrichtungen
-- Stufenlose Seitenruder-Achse – Die durchgehende, selbst zurückfallende Achse ermöglicht flüssige Vorwärts- und Rückwärts-Bewegungen für präzise Richtungssteuerung. Reibungslose lineare Kugellager gewährleisten die stufenlose und exakte Bedienung. Zwei austauschbare Federsätze für die Hauptruder-Achse sorgen für zusätzliche Anpassbarkeit für das perfekte Bediengefühl
-- Präzise, langlebige Achsen – Die kontaktlosen Hall-Effekt-Sensoren liefern auf allen Achsen hochauflösende 10-Bit-Achsendaten und verfügen über eine längere
 - Einstellbare Fußpedal-Breite – Die Pedalbreite lässt sich einstellen für verschiedenste Nutzer und Flugzeugtypen. Und wenn sie nicht verwendet wird, ist die anpassbare Standfläche eine praktische Aufbewahrungsmöglichkeit
+- Präzise, langlebige Achsen – Die kontaktlosen Hall-Effekt-Sensoren liefern auf allen Achsen hochauflösende 10-Bit-Achsendaten und verfügen über eine längere
+- Stufenlose Seitenruder-Achse – Die durchgehende, selbst zurückfallende Achse ermöglicht flüssige Vorwärts- und Rückwärts-Bewegungen für präzise Richtungssteuerung. Reibungslose lineare Kugellager gewährleisten die stufenlose und exakte Bedienung. Zwei austauschbare Federsätze für die Hauptruder-Achse sorgen für zusätzliche Anpassbarkeit für das perfekte Bediengefühl
+- Differenzialbremsen – Die gefederten Bremspedale ermöglichen präzise Bremskontrolle auf der Landebahn oder Lenkunterstützung, wenn die Pedale abwechselnd gedrückt werden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B7NTLKF2{{</world>}}

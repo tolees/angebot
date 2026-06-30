@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flexible Gestaltung
-- EAN 4042146431627
 - Ecl@ss-Nr. 21040803
+- EAN 4042146431627
+- Flexible Gestaltung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00EOQWPIQ{{</world>}}

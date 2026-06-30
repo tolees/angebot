@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leistungsstarke Pumpe: Die flachsaugende Tauchpumpe SP 17.000 Flat Level Sensor bewältigt bis zu 17.000 Liter Wasser pro Stunde und ist ideal für größere Wassermengen wie Pools oder Überschwemmungen
+- Wischtrockenes Ergebnis: Die Pumpe kommt dank der einklappbaren Standfüße auf eine Restwasserhöhe von 1 mm – egal, ob sie im Automatik- oder im Dauerbetrieb arbeitet
 - Lieferumfang: Zum Set gehören die Kärcher SP 17.000 Flat Level Sensor flachsaugende Tauchpumpe, ein abnehmbarer Edelstahl-Vorfilter und ein Quick Connect-Schlauchanschluss mit Rückschlagventil
 - Einfache Umstellung: An der Oberseite des Edelstahlgehäuses befindet sich ein Schalter, mit dem ganz leicht zwischen Dauer- und Automatikbetrieb gewechselt werden kann
 - Stufenlos verstellbarer Level Sensor: Die Tauchpumpe startet sofort bei Wasserkontakt und stoppt nach 15-sekündiger Nachlaufzeit, wenn der gewünschte Wasserstand erreicht ist
-- Wischtrockenes Ergebnis: Die Pumpe kommt dank der einklappbaren Standfüße auf eine Restwasserhöhe von 1 mm – egal, ob sie im Automatik- oder im Dauerbetrieb arbeitet
+- Leistungsstarke Pumpe: Die flachsaugende Tauchpumpe SP 17.000 Flat Level Sensor bewältigt bis zu 17.000 Liter Wasser pro Stunde und ist ideal für größere Wassermengen wie Pools oder Überschwemmungen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BXY7PXSY{{</world>}}

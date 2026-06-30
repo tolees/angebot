@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- THERMOBLOCK-HEIZSYSTEM: Bereiten Sie Espresso mit immer genau der richtigen Temperatur zu – in nur 40 Sekunden ist die Kaffeemaschine betriebsbereit, um für unvergesslichen Kaffee-Genuss zu sorgen
 - EINSTELLBARES CAPPUCCINO-SYSTEM: Die regulierbare Milchschaumdüse ermöglicht müheloses Zubereiten von cremigem Milchschaum für einen perfekten Cappuccino oder Caffè Latte
 - SCHMALES DESIGN: Die Espressomaschine ist lediglich 15 cm breit und passt mit ihrem kompakten Design im Matt-Look nicht nur perfekt in jede Küche, sondern sieht auch besonders elegant aus
 - FLEXIBLER SIEBTRÄGERHALTER: Mit Einsätzen für 1 oder 2 Tassen sowie Kaffeepads können Sie immer Ihre liebste Kaffeemischung oder Ihr bevorzugtes Pad genießen
+- THERMOBLOCK-HEIZSYSTEM: Bereiten Sie Espresso mit immer genau der richtigen Temperatur zu – in nur 40 Sekunden ist die Kaffeemaschine betriebsbereit, um für unvergesslichen Kaffee-Genuss zu sorgen
 - PRAKTISCHE FEATURES: Mit einem Druck von 15 bar wird ein aromatischer Espresso mit nussfarbener Crema gebrüht, wobei die höhenverstellbare Tassenabstellfläche für Gläser bis 12 cm ausreicht
 
 [🛒 Hier!!]({{< param buyurl >}})

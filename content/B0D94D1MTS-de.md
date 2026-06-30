@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lädt einfach alles – Pixel Smartphones, die Pixel Buds, das Pixel Tablet und sogar deinen Laptop.
-- Der Adapter hat eine maximale Leistung von 45 W. Damit können Pixel-Geräte schnell und effizient geladen werden.
 - Das 45-W-USB-C-Ladegerät besteht zu mindestens 47 % aus recyceltem Kunststoff.
+- Der Adapter hat eine maximale Leistung von 45 W. Damit können Pixel-Geräte schnell und effizient geladen werden.
 - Kompatible Pixel-Geräte werden schnell und effizient geladen.
 
 [🛒 Hier!!]({{< param buyurl >}})

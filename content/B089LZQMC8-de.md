@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Normaler Schnitt: Das Herren-Langarm-Wandershirt mit 1/2 Reißverschluss ist im Regular Fit gehalten. Es bietet Bewegungsfreiheit und Komfort
 - Wärmend: Midlayer aus innovativem 3D Air Tech Fleece – das Herren-Wandershirt speichert Körperwärme zuverlässig und schützt bei Outdoor-Aktivitäten im Winter
-- Bewegungsfreiheit: Ergonomische Passform für dynamische Bewegungen beim Wandern, Wintersport oder Spaziergang – flexibles Langarmshirt für Outdoor Sportarten
 - Pflege und Qualität: Maschinenwäsche 40°C, niedrige Bügeltemperatur; Trockner niedrig. In der Schweiz entwickelt mit Odlo-Lagentechnologie, die seit 80 Jahren Maßstäbe setzt
+- Bewegungsfreiheit: Ergonomische Passform für dynamische Bewegungen beim Wandern, Wintersport oder Spaziergang – flexibles Langarmshirt für Outdoor Sportarten
+- Normaler Schnitt: Das Herren-Langarm-Wandershirt mit 1/2 Reißverschluss ist im Regular Fit gehalten. Es bietet Bewegungsfreiheit und Komfort
 - Weich: Der Odlo Fleecepullover überzeugt mit weichem Mikrofleece, angerauter Innenseite und einem besonders komfortablen Hautgefühl
 - Material: 100% recyceltes Polyester – nachhaltiges Wandershirt, das Wärme, Atmungsaktivität und Strapazierfähigkeit vereint
 

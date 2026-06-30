@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100 % Polyester (recycelt)
+- Jacke und Hose: Taschen auf der Vorderseite
 - Regulär geschnitten; Hose mit mittelhohem Bund
 - Durchgehender Reißverschluss und Stehkragen
-- Jacke und Hose: Taschen auf der Vorderseite
+- 100 % Polyester (recycelt)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CZPN6S2P{{</world>}}

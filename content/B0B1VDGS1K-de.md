@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 50 MP Triple-Kamera
+- Ausdauernder Akku
 - Das Galaxy M13 verbindet weiche, abgerundete Ecken mit einem schnörkellosen Kamera-Design
 - 16,72 cm / 6,6-Zoll Infinity-V Display
-- Ausdauernder Akku
-- 50 MP Triple-Kamera
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B1VDGS1K{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ballonärmel, weicher Griff, Saum mit Rippbündchen
-- Lange Ärmel mit Rippbündchen
 - Lockere Passform, endet oberhalb des Knies
+- Lange Ärmel mit Rippbündchen
+- Ballonärmel, weicher Griff, Saum mit Rippbündchen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B6VYFZTK{{</world>}}

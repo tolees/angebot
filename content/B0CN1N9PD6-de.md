@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BACK-CONNECT - Das MAG PANO M100R PZ WHITE ist mit Micro-ATX-, Mini-ITX- und Micro-ATX Back-Connect Mainboard kompatibel
-- KÜHLUNGSSYSTEM - Das MAG PANO M100R PZ WHITE wird mit 4 vorinstallierten 120-mm-ARGB-Lüftern an der Seite und Rückseite geliefert
-- INSTA-LIGHT I/O BLENDE - Die I/O BLENDE beinhaltet einen Power- und LED-Schalter, Mikrofon-/Audioanschlüsse, 1x USB 3.2 Generation 2x2 Typ-C (20Gbps) & USB 3.2 Generation 1 Typ-A (5Gbps)
-- WERKZEUGFREIE STAUBFILTER - Werkzeugfreie Staubfilter an der Oberseite und magnetische Staubfilter an der Unterseite halten das Gehäuse sauber.
 - EINFACHE MONTAGE - Die mitgelieferte GPU-Halterung verhindert das Durchhängen schwerer Grafikkarten. 33 mm Kabeldurchlass und Klettbänder für einfaches Kabelmanagement.
+- WERKZEUGFREIE STAUBFILTER - Werkzeugfreie Staubfilter an der Oberseite und magnetische Staubfilter an der Unterseite halten das Gehäuse sauber.
+- KÜHLUNGSSYSTEM - Das MAG PANO M100R PZ WHITE wird mit 4 vorinstallierten 120-mm-ARGB-Lüftern an der Seite und Rückseite geliefert
+- BACK-CONNECT - Das MAG PANO M100R PZ WHITE ist mit Micro-ATX-, Mini-ITX- und Micro-ATX Back-Connect Mainboard kompatibel
+- INSTA-LIGHT I/O BLENDE - Die I/O BLENDE beinhaltet einen Power- und LED-Schalter, Mikrofon-/Audioanschlüsse, 1x USB 3.2 Generation 2x2 Typ-C (20Gbps) & USB 3.2 Generation 1 Typ-A (5Gbps)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CN1N9PD6{{</world>}}

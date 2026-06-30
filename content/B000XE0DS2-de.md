@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Feminin und romantisch - Ganz Frau sein und sich ihre Gefühle eingestehen, das zeichnet die Trägerin dieses zarten Damendufts aus. Ideal für tagsüber und abends, ebenso für besondere Anlässe. Eleganz und Leichtigkeit dieses Dufts werden durch das Design des Flakons in dezenten Farben perfekt in Szene gesetzt.
-- Fragrance aus 20 cm Entfernung auf die Haut warmer Körperstellen sprühen. Durch den enthaltenen Anteil an Parfümöl bietet Anaïs Anaïs EdT ein langanhaltendes Dufterlebnis, das dennoch leicht und dezent wirkt. Das Damen Parfum lässt sich hervorragend mit dem gleichnamigen Deo kombinieren.
 - Eine sinnliche Duftkreation für Träumerinnen. Pudrige Nuancen werden von Rosen und Lilien flankiert und ruhen auf einer Moschus-Basis, die verführerisch wirkt und dem Duft Tiefe verleiht.
+- Fragrance aus 20 cm Entfernung auf die Haut warmer Körperstellen sprühen. Durch den enthaltenen Anteil an Parfümöl bietet Anaïs Anaïs EdT ein langanhaltendes Dufterlebnis, das dennoch leicht und dezent wirkt. Das Damen Parfum lässt sich hervorragend mit dem gleichnamigen Deo kombinieren.
+- Feminin und romantisch - Ganz Frau sein und sich ihre Gefühle eingestehen, das zeichnet die Trägerin dieses zarten Damendufts aus. Ideal für tagsüber und abends, ebenso für besondere Anlässe. Eleganz und Leichtigkeit dieses Dufts werden durch das Design des Flakons in dezenten Farben perfekt in Szene gesetzt.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000XE0DS2{{</world>}}

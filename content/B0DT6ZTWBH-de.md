@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 📐 1 PACKUNG FÜR [80 / 350 / 600] m² – STREUWAGENTAUGLICH: 25–35 g/m² gleichmäßig ausbringen, wässern – fertig. Ideal für Rasen ab dem ersten Auftauen bis Mai. Nährstoffe werden schonend freigesetzt – kein Stress durch Überdüngung.
+- 🌱 100% BIO & OHNE CHEMIE – SICHER FÜR KINDER & HAUSTIERE: Unser Frühjahrsdünger basiert auf 100% pflanzlichen Inhaltsstoffen (Mais, Getreide) ohne synthetische Chemikalien – sofort nach dem Wässern unbedenklich für spielende Kinder und Tiere. Für einen gesunden Boden ohne Salzstress.
 - 💪 SICHTBARES ERGEBNIS IN 3–4 WOCHEN – 80% ORGANISCHE SUBSTANZ: Dank 80% organischer Substanz stärkt unsere Formel Wurzeln und Bodenleben nachhaltig. Stickstoff (N 7%) wird langsam freigesetzt – kein Verbrennen, kein Überdüngen, dauerhaft sattgrüner Rasen.
 - 🌍 SCHÜTZT BODEN & GRUNDWASSER – DEZENTER NATURGERUCH, KAUM STAUB: Unser Krümelgranulat ist staubarm und hat einen dezenten Naturgeruch der sich schnell legt. Nährstoffe werden natürlich freigesetzt – kein Nitrateinwasch ins Grundwasser, kein Salzstress.
-- 🌱 100% BIO & OHNE CHEMIE – SICHER FÜR KINDER & HAUSTIERE: Unser Frühjahrsdünger basiert auf 100% pflanzlichen Inhaltsstoffen (Mais, Getreide) ohne synthetische Chemikalien – sofort nach dem Wässern unbedenklich für spielende Kinder und Tiere. Für einen gesunden Boden ohne Salzstress.
 - 🇩🇪 TESTSIEGER MADE IN GERMANY – NPK 7+2,5+1: [Testquelle eintragen]. Entwickelt in Deutschland. Mit optimiertem NPK-Verhältnis 7+2,5+1 für Stickstoff, Phosphat und Kalium – perfekt für die Frühjahrsversorgung.
-- 📐 1 PACKUNG FÜR [80 / 350 / 600] m² – STREUWAGENTAUGLICH: 25–35 g/m² gleichmäßig ausbringen, wässern – fertig. Ideal für Rasen ab dem ersten Auftauen bis Mai. Nährstoffe werden schonend freigesetzt – kein Stress durch Überdüngung.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DT6ZTWBH{{</world>}}

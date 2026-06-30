@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideal als Geschenk
-- Funko
-- Hält intensivem Spiel stand
-- Hergestellt aus ungiftigen, kinderfreundlichen Materialien
 - Schauen Sie sich jetzt die anderen FNAF-Figuren von Funko an! Sammeln Sie alle!
+- Hergestellt aus ungiftigen, kinderfreundlichen Materialien
+- Hält intensivem Spiel stand
 - Funko 59684 Actionfigur: Five Nights at Freddys S7- Radioactive Foxy (GW), zur stilisierten Actionfigur von Funko!
+- Funko
+- Ideal als Geschenk
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C4YMS7ZS{{</world>}}

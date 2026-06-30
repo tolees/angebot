@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthülle die Geschichte einer trauernden Mutter, die verzweifelt versucht ihren toten Sohn zurückzubringen
-- Inklusiv Soundtrack
-- Stelle Karten her und besiege die Geister, die in den mystischen Ländern lauern
 - Bereise die Geisterwelt in Death Howl, einem soulslike Deck-Builder
+- Inklusiv Soundtrack
+- Enthülle die Geschichte einer trauernden Mutter, die verzweifelt versucht ihren toten Sohn zurückzubringen
+- Stelle Karten her und besiege die Geister, die in den mystischen Ländern lauern
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0G66F2CR7{{</world>}}

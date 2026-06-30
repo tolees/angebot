@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Pflegehinweis: Waschmaschinen geeignet
 - Verschluss: Reißerschluss und Knopf
 - Jeans, Hose, lang
+- Pflegehinweis: Waschmaschinen geeignet
 - Zusammensetzung: 99 Prozent Cotton 1 Prozent Elastane
 - Passform: Regular Tapered
 

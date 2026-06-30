@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reaktion auf Musik: Sehen Sie Ihren Lichtern dank der eingebauten Geräuschreaktivität beim Tanzen zu oder aktivieren Sie den Orchestrator in der Desktop App, um eine noch bessere Synchronisierung Ihrer Lichter zu erzielen.
-- Screen Mirror-Funktion: Synchronisieren Sie in Echtzeit Ihre Lichter mit den Farben Ihrer Lieblingsfilme oder -videospiele. Das ist mit der Nanoleaf Desktop App oder über Sync+ mit Nanoleaf 4D möglich.
-- Quadrate: Besonders große Lichtpanels mit dezenter Beleuchtung, die von einer Quadratseite zur anderen reicht.
 - Entwerfen Sie Ihre eigenen Regale im Pixel-Art-Style: Die schicken quadratischen Paneele mit einheitlicher Beleuchtung geben Ihnen kreativen Spielraum für minimalistische oder ausgefallene Installationen."
 - Benutzerdefinierte Farben & Bewegungsanimationen: Erstellen Sie mit mehr als 16 Mio. Farben Ihre eigenen Farbpaletten und animierten Lichtszenen, die die Farbe wechseln, oder wählen Sie aus Tausenden von Lichtszenen aus der Community aus. Mit unserer Mal-Option im Szenenersteller können Sie genau bestimmen, wo jede Farbe im Layout angezeigt wird!
+- Quadrate: Besonders große Lichtpanels mit dezenter Beleuchtung, die von einer Quadratseite zur anderen reicht.
+- Screen Mirror-Funktion: Synchronisieren Sie in Echtzeit Ihre Lichter mit den Farben Ihrer Lieblingsfilme oder -videospiele. Das ist mit der Nanoleaf Desktop App oder über Sync+ mit Nanoleaf 4D möglich.
+- Reaktion auf Musik: Sehen Sie Ihren Lichtern dank der eingebauten Geräuschreaktivität beim Tanzen zu oder aktivieren Sie den Orchestrator in der Desktop App, um eine noch bessere Synchronisierung Ihrer Lichter zu erzielen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DJR8KNRX{{</world>}}

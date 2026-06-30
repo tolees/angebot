@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Technische Daten - Der kompakte Haltearm für Atera Strada DL 3 sowie Strada Sport 3 ist aus Aluminium und Kunststoff gefertigt. Die Länge misst 46,7 cm
-- Atera - KFZ-Kompetenz seit 1963: Wir fertigen Trägersysteme, die für höchste Ansprüche, Innovation und Ästhetik stehen. Premiumqualität aus Leutkirch für den Transport von Bike, Ski und Snowboard
-- Ausführung - Ein Rahmenhalter zur einfachen Sicherung des 1. Rades (Fahrtrichtung des Autos) eines Strada Heckträgers. Der Zusatzhalter fixiert ein Bike schnell und sicher in der richtigen Position
-- Kompatibilität - Die zweckdienliche Halte-Unterstützung ist silber-schwarz. Für Rahmendurchmesser 25-80 mm geeignet. Bitte die Typenschild-Teilenummer Ihres Fahrradträgers prüfen, siehe Tabelle unten
 - Lieferumfang - Rahmenhalter mit Spannratsche, Abstandsrohr, Befestigung und Halterung für Stützbügel. Halter sind nach erstmaliger Befestigung nicht mehr abnehmbar. Ohne Schloss, optional erhältlich
+- Atera - KFZ-Kompetenz seit 1963: Wir fertigen Trägersysteme, die für höchste Ansprüche, Innovation und Ästhetik stehen. Premiumqualität aus Leutkirch für den Transport von Bike, Ski und Snowboard
+- Kompatibilität - Die zweckdienliche Halte-Unterstützung ist silber-schwarz. Für Rahmendurchmesser 25-80 mm geeignet. Bitte die Typenschild-Teilenummer Ihres Fahrradträgers prüfen, siehe Tabelle unten
+- Technische Daten - Der kompakte Haltearm für Atera Strada DL 3 sowie Strada Sport 3 ist aus Aluminium und Kunststoff gefertigt. Die Länge misst 46,7 cm
+- Ausführung - Ein Rahmenhalter zur einfachen Sicherung des 1. Rades (Fahrtrichtung des Autos) eines Strada Heckträgers. Der Zusatzhalter fixiert ein Bike schnell und sicher in der richtigen Position
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0068M5FAY{{</world>}}

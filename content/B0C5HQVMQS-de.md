@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SO SCHMECKT JEDER KILOMETER SEIT 1996 für viele Profi -Athleten aus den Sportarten Laufen, Radfahren und Triathlon, die mit unserem veganen Power Gel an den Start gehen
-- VOLLE ENERGIE steckt bei uns in jedem Paket dank 12 Gel Beutel pro Multiflavour-Box. Noch dazu liefern wir eine INNOVATIVE VERPACKUNG. Leicht zu öffnen und verhindert zusätzlichen Abfall durch „Trash Chain“
-- GIBT VOLLE POWER mit der Kohlenhydratmischung, die ein 2:1 Verhältnis aus Glukose- und Fruktose-Quellen enthält und so optimal Energie bei hoher Belastung liefert. Die Geschmacksrichtungen Green Apple und Mango Passionfruit 50 mg Koffein/Portion
 - MIT SICHERHEIT GENIESSEN ist unser Versprechen, denn alle unsere Produkte stehen auf der Kölner Liste, sind also auf verbotene Substanzen getestet
+- GIBT VOLLE POWER mit der Kohlenhydratmischung, die ein 2:1 Verhältnis aus Glukose- und Fruktose-Quellen enthält und so optimal Energie bei hoher Belastung liefert. Die Geschmacksrichtungen Green Apple und Mango Passionfruit 50 mg Koffein/Portion
 - WIR EMPFEHLEN im Rahmen einer gesunden Ernährung nach Bedarf 1-2 Energie Gel(e) in regelmäßigen Abständen während des Sports mit Wasser zu genießen
+- VOLLE ENERGIE steckt bei uns in jedem Paket dank 12 Gel Beutel pro Multiflavour-Box. Noch dazu liefern wir eine INNOVATIVE VERPACKUNG. Leicht zu öffnen und verhindert zusätzlichen Abfall durch „Trash Chain“
+- SO SCHMECKT JEDER KILOMETER SEIT 1996 für viele Profi -Athleten aus den Sportarten Laufen, Radfahren und Triathlon, die mit unserem veganen Power Gel an den Start gehen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C5HQVMQS{{</world>}}

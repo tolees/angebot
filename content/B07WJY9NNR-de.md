@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Praktische Lenkertasche: Sie lässt sich dank KLICKfix mit wenigen Handgriffen am Lenker befestigen und bietet allem Platz, was auf der nächsten E-Bike-Tour dabei sein muss
-- Klimaneutral: Die Emissionen aus Materialien, Herstellungsprozess und Versand wurden ganzheitlich ermittelt und systematisch reduziert. Aktuell nicht vermeidbare Emissionen wurden vollständig über die unabhängige Non-Profit-Organisation „myclimate“ kompensiert
 - Bietet viel Stauraum: Das große Hauptfach bietet viel Raum für Accessoires, der gepolsterte Trinkflaschenhalter ist problemlos während der Tour zugänglich
 - Besonders praktisch: das Touchscreen-kompatible Smartphonefach, mit dem die Geräte während der Fahrt bedient werden können
-- Green Shape-Label: Das VAUDE Green Shape-Label steht für ein umweltfreundliches, funktionelles Produkt aus nachhaltigen Materialien
+- Praktische Lenkertasche: Sie lässt sich dank KLICKfix mit wenigen Handgriffen am Lenker befestigen und bietet allem Platz, was auf der nächsten E-Bike-Tour dabei sein muss
 - Geräumige Lenkertasche speziell für E-Bikes: Touchscreen-kompatibles Smartphonefach
+- Green Shape-Label: Das VAUDE Green Shape-Label steht für ein umweltfreundliches, funktionelles Produkt aus nachhaltigen Materialien
+- Klimaneutral: Die Emissionen aus Materialien, Herstellungsprozess und Versand wurden ganzheitlich ermittelt und systematisch reduziert. Aktuell nicht vermeidbare Emissionen wurden vollständig über die unabhängige Non-Profit-Organisation „myclimate“ kompensiert
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07WJY9NNR{{</world>}}

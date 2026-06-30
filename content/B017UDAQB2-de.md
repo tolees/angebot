@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Besten Tragekomfort
-- Fußbett: Kork/Kautschuk
 - Moderne Pantolette
+- Fußbett: Kork/Kautschuk
 - Dämpfungsaktive EVA-Laufsohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

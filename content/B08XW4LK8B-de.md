@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SICHERER ZUGANG ZUM GANZEN RUCKSACK: Einfach den Rucksack abnehmen, hinlegen und den Zugang über die Rückenplatte öffnen! Eine Griffschlaufe erleichtert das Bewegen des Rucksacks in dieser Position.
-- ALLES GEORDNET: Vorderes Fach mit Ordnungstaschen für Kleinteile, wie Smartphone, Kabel, Notebook usw. Herausnehmbarer gepolsterter Beutel im oberen Teil für Kabel und Ladegeräte.
 - OBJEKTIVE SIND SCHNELL ZUR HAND: Neuer seitlicher Zugang als weitere Zugriffsöffnung für schnelle Objektivwechsel.
-- SCHUTZ VOR DEN ELEMENTEN: Verbesserte Reißverschlüsse, stoßfestes Material aus geformtem EVA und PU-Beschichtung an der Frontseite sorgen für extreme Langlebigkeit und Schutz vor den Elementen.
+- ALLES GEORDNET: Vorderes Fach mit Ordnungstaschen für Kleinteile, wie Smartphone, Kabel, Notebook usw. Herausnehmbarer gepolsterter Beutel im oberen Teil für Kabel und Ladegeräte.
 - ANPASSBARE STAUFÄCHER: Neu ausgelegte Fachteiler eröffnen Staumöglichkeiten für vielfältige Ausrüstungskombinationen und fotofremdes Zubehör nebst Reisestativ, 10-Zoll-Tablet und 13-Zoll-Laptop.
+- SCHUTZ VOR DEN ELEMENTEN: Verbesserte Reißverschlüsse, stoßfestes Material aus geformtem EVA und PU-Beschichtung an der Frontseite sorgen für extreme Langlebigkeit und Schutz vor den Elementen.
+- SICHERER ZUGANG ZUM GANZEN RUCKSACK: Einfach den Rucksack abnehmen, hinlegen und den Zugang über die Rückenplatte öffnen! Eine Griffschlaufe erleichtert das Bewegen des Rucksacks in dieser Position.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08XW4LK8B{{</world>}}

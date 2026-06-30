@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nennstrom 40A
-- Mechanische Lebensdauer 20000 Zyklen, Elektrische Lebensdauer 15000 Zyklen
 - Einfache Montage auf DIN-Schiene
 - Bemessungsstrom 40 A, Erdschlussempfindlichkeit 30 mA
+- Mechanische Lebensdauer 20000 Zyklen, Elektrische Lebensdauer 15000 Zyklen
+- Nennstrom 40A
 - Betriebstemperatur von minus 25 bis plus 60 Grad Celsius, Schutzart IP20/IP40
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

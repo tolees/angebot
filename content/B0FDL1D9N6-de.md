@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nachtmodus für besonders leisen Betrieb während des Schlafs
 - 3-in-1 Klimagerät: Kühlung, Ventilation, Entfeuchtung
+- Nachtmodus für besonders leisen Betrieb während des Schlafs
 - Integrierte Kondensatverdunstung
 - Speziell für den Einsatz in Wohnwagen und Wohnmobilen konzipiert
 - Umweltfreundliches Kältemittel R290

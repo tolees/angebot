@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Spiel bietet eine verzweigte Erzählung mit nachwirkenden Entscheidungen – deine Entscheidungen formen Szenen subtil und führen zu unterschiedlichen Enden.
 - Diese physische Edition enthält einen Bandcamp-Code, der den Soundtrack des Spiels freischaltet, sowie ein digitales Artbook, das dich hinter die Kulissen führt - von frühen Konzepten und Skizzen bis hin zu den finalen Assets im Spiel.
 - Goodnight Universe ist ein narratives Einzelspieler-Abenteuer, in dem du Isaac spielst – ein sechs Monate altes Baby, das geheimnisvolle übersinnliche Kräfte entwickelt.
 - Das Spiel enthält einen Gutschein im Keycard-Format und keine Softwarekarte; eine Internetverbindung und Nintendo-Account sind erforderlich, um den Code einzulösen
 - Goodnight Universe ist der Gewinner des Tribeca Games Awards 2024.
+- Das Spiel bietet eine verzweigte Erzählung mit nachwirkenden Entscheidungen – deine Entscheidungen formen Szenen subtil und führen zu unterschiedlichen Enden.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FXMV28QF{{</world>}}

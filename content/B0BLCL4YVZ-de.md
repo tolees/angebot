@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Puma Branding-Details auf Zunge, Ferse und Obermaterial
 - Gummilaufsohle
 - Puma Formstrip an der Seite
-- Puma Branding-Details auf Zunge, Ferse und Obermaterial
 - Geschichtete Zwischensohle aus Gummi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Mehrfachsteckdose mit zwei beleuchteten Sicherheitsschaltern zum Ein- und Ausschalten (zweipolig)
 - 10er Schutzkontakt-Steckdosenleiste mit 2m Kabellänge H05VV-F 3G1,5 und erhöhtem Berührungsschutz
-- Mehrfachstecker mit praktischen Befestigungsösen zur Wandmontage und Kabel Clip zum Befestigen des Kabels
 - Steckdosenleiste mit 10 Steckdosen (2x 5-fach schaltbare Steckdosen) in praktischer 45°-Anordnung für eine platzsparende Steckeranordnung
+- Mehrfachstecker mit praktischen Befestigungsösen zur Wandmontage und Kabel Clip zum Befestigen des Kabels
 - Der Kabelausgang der Steckerleiste ist variabel auf beiden Seiten möglich
 
 [🛒 Hier!!]({{< param buyurl >}})

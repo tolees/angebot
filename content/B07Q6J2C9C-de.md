@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Feuchtigkeitsspendende Lippenpflege: Der leichte, feuchtigkeitsspendende Lippenbalsam glättet sofort und bereitet die Lippen perfekt auf das Lippen-Make-up vor. Für weiche, zarte Lippen.
-- Lipide, Sheabutter und Ceramide pflegen die Lippen intensiv und polstern sie mit Feuchtigkeit auf.
 - Für unterwegs oder als Lippenmaske: Spendet den Lippen sofort Feuchtigkeit und ist vielseitig einsetzbar: als 5-Minuten-Lippenmaske vor dem Lippenstift oder über Nacht als nährende Pflege.
 - Dermatologische Expertise: Unsere Hautprodukte sind allergiegetestet und 100 % parfumfrei.
+- Lipide, Sheabutter und Ceramide pflegen die Lippen intensiv und polstern sie mit Feuchtigkeit auf.
 - Auf wissenschaftlicher Basis: Als eine von Dermatologen geprägte Marke beginnt Cliniques Bekenntnis zu Sicherheit mit der Hautpflegewissenschaft. Deshalb entwickeln wir Produkte für alle Hauttypen, Hauttöne und Hautprobleme - Alles für Deine Haut.
 
 [🛒 Hier!!]({{< param buyurl >}})

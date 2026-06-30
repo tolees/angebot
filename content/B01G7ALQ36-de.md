@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Packung die Größe: 9.4 L x 22.4 H x 18.6 W (cm)
 - Klassischer Sneaker von Kangaroos
 - Weiches Warmfutter für tollen Komfort
-- Packung die Größe: 9.4 L x 22.4 H x 18.6 W (cm)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01G7ALQ36{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 4 große Bein-Cargotaschen
-- authentischer used-look
 - weitenverstellbarer beinsaum durch kordelzug
 - extrabreiter Tunnelzug
+- authentischer used-look
+- 4 große Bein-Cargotaschen
 - verdeckter Knopfleistenverschluss
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Laden in der Tasche】Dank des Ladeloch-Designs muss die Switch 2 tasche zum Laden nicht geöffnet werden. Sie brauchen sich keine Sorgen über versehentliche Kratzer, Staub und Wasser zu machen, wenn Sie draußen aufladen. (Bitte beachten: Ladekabel, Konsole und Joypad sind nicht im Lieferumfang enthalten.)
-- 【Kompatibilität】Perfekt kompatibel mit Nintendo Switch 2 & Switch OLED 2021 & Switch 2017 Konsole. Das mitgelieferte Pad hält die OLED/Original Konsole sicher an ihrem Platz. Adapter und Joypad Aufbewahrungsteil passen auch für die Switch 1-Version.
 - 【22 Kartenschlitze & 2 Netztaschen】Sie brauchen kein weiteres Spielkartenetui, 22 Steckplätze bieten ausreichend Platz für Ihre Switch-Spielkarten. Mit 2 praktischen Netztaschen können Sie Ihre Kopfhörer, Kabel und anderes kleines Switch-Zubehör leicht organisieren.
+- 【Kompatibilität】Perfekt kompatibel mit Nintendo Switch 2 & Switch OLED 2021 & Switch 2017 Konsole. Das mitgelieferte Pad hält die OLED/Original Konsole sicher an ihrem Platz. Adapter und Joypad Aufbewahrungsteil passen auch für die Switch 1-Version.
+- 【Laden in der Tasche】Dank des Ladeloch-Designs muss die Switch 2 tasche zum Laden nicht geöffnet werden. Sie brauchen sich keine Sorgen über versehentliche Kratzer, Staub und Wasser zu machen, wenn Sie draußen aufladen. (Bitte beachten: Ladekabel, Konsole und Joypad sind nicht im Lieferumfang enthalten.)
 - 【Aufbewahrung von Adapter und Joypad】Verstauen Sie das meiste Switch 2-Zubehör wie AC Adapter, Joypad, Kabel usw. in der dafür vorgesehenen Vertiefung. Die Switch 2 Tragetasche bietet reichlich Platz für Reisende zu speichern.
 - 【Voller Schutz】Mit umlaufenden Airbag, harter EVA hülle und weichem Samtfutter schützt die Tragetasche die Switch-Konsole , Joy-pad, Adapter und Zubehör vor Stürzen, Stößen und Wasser.
 

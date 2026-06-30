@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - STRETCH-DENIM: Gefertigt aus robustem Denim aus 94 % Baumwolle, 5 % Polyester und 1 % Elasthan. Das Material ist strapazierfähig, formstabil und gewinnt mit dem Tragen an Charakter.
 - AUTHENTISCHES DENIM-DESIGN: Die 501 Original Jeans für Herren repräsentiert den authentischen Levis Stil. Mit klassischem Five-Pocket-Design und charakteristischer Knopfleiste verbindet sie funktionale Details mit einem Design, das seit Generationen Bestand hat.
-- STRAIGHT FIT & MID RISE: Die Jeans sitzt auf Taillenhöhe und ist an Gesäß und Oberschenkeln gerade geschnitten.
 - LEVIS: Seit 1873 steht Levis für Originalität, Handwerk und langlebige Qualität. Die Marke verbindet Tradition mit Fortschritt. Das Levis Tab variiert im Design – alle Produkte mit Tab sind original, unabhängig von Schriftzug oder Farbe.
+- STRAIGHT FIT & MID RISE: Die Jeans sitzt auf Taillenhöhe und ist an Gesäß und Oberschenkeln gerade geschnitten.
 - EINFACH ZU KOMBINIEREN: Lässt sich einfach kombinieren – mit T-Shirt und Sneakern, Hemd oder Strick. Die klassische 501 Original Herrenjeans passt zu unterschiedlichen Styles und trägt sich im Alltag genauso wie zu besonderen Anlässen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- AN ALLES GEDACHT: Neben einer weich gepolsterten Federabdeckung, enthält das Set außerdem ein verstärktes Sicherheitsnetz mit einer Eingangsöffnung sowie verbautem Doppelverschluss-System. Außerdem erhalten Sie einen Federspanner zur erleichterten Montage und eine Einstiegsleiter dazu.
 - VIELSEITIGER SPIELSPAß: Das Trampolin Komplettset der Marke Monzana begeistert Klein und Groß! Wir machen keine halben Sachen, denn unser Trampolin wird direkt mit Sicherheitsnetz, Leiter, Randabdeckung uvm. geliefert!
+- AN ALLES GEDACHT: Neben einer weich gepolsterten Federabdeckung, enthält das Set außerdem ein verstärktes Sicherheitsnetz mit einer Eingangsöffnung sowie verbautem Doppelverschluss-System. Außerdem erhalten Sie einen Federspanner zur erleichterten Montage und eine Einstiegsleiter dazu.
 - GUTES TRAINING: Das Trampolin bereitet Klein wie Groß, Jung wie Alt ein Sprungvergnügen der ganz besonderen Art. Koordination und Beweglichkeit, Körperbeherrschung und das Halten der eigenen Körperspannung werden beim Springen auf dem Trampolin trainiert und verfeinert.
 - SICHERES SPIELEN: Sicherheit und Spielspaß gehen bei uns Hand in Hand! Der Springspaß wird durch ein verstärktes Sicherheitsnetz gewährleistet. Unser Trampolin wurde zudem vom TÜV SÜD GS auf Qualität und Sicherheit geprüft.
 - PERFEKTE AUSWAHL: Geeignet für Trampoline mit 305 cm Durchmesser und 8 Stangen. Die Stangen passen jeweils zum Durchmesser - umso optimale und komfortable Sicherheit und Stabilität des Sicherheitsnetzes zu gewährleisten.

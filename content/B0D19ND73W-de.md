@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kängurutasche
+- Regulär geschnitten
+- Überschnittene Schultern
 - Bündchen und Saum gerippt
 - Besteht zu mindestens 70 % aus recycelten und erneuerbaren Materialien
-- Hinten etwas kürzerer geschnitten
-- Regulär geschnitten
-- 55 % Baumwolle / 36 % Polyester (recycelt) / 9 % Viskose
-- Überschnittene Schultern
 - Kapuze mit weitenregulierbarem Kordelzug
+- Kängurutasche
+- Hinten etwas kürzerer geschnitten
+- 55 % Baumwolle / 36 % Polyester (recycelt) / 9 % Viskose
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D19ND73W{{</world>}}

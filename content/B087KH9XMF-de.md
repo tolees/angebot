@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leicht löslich und perfekt im Geschmack: Das EAAs Pulver einfach in Wasser auflösen und ca. 20 Sekunden schütteln - der fruchtige Geschmack entschädigt alle Anstrengung beim Training
-- Zur Bestform auflaufen: Alle 8 essentiellen plus die semi-essentielle Aminosäure Histidin und alle 3 BCAAs
-- Dank zuckerfreier Rezeptur werden unnötige Kalorien vermieden / Das Pulver holt, in Kombination mit hartem Training, das Maximum aus jedem heraus
 - Kurzverkettete Aminosäure sorgen für eine schnelle Resorption - so kann das reine EAAs Pulver direkt vor, während oder kurz nach dem Training eingenommen werden für direkte Wirkung
+- Leicht löslich und perfekt im Geschmack: Das EAAs Pulver einfach in Wasser auflösen und ca. 20 Sekunden schütteln - der fruchtige Geschmack entschädigt alle Anstrengung beim Training
+- Dank zuckerfreier Rezeptur werden unnötige Kalorien vermieden / Das Pulver holt, in Kombination mit hartem Training, das Maximum aus jedem heraus
+- Zur Bestform auflaufen: Alle 8 essentiellen plus die semi-essentielle Aminosäure Histidin und alle 3 BCAAs
 - Lieferumfang: 1 x 500 g IronMaxx 100% EAAs + Energy Zero Wild Berries / Reines EAA-Aminosäuren-Pulver
 
 [🛒 Hier!!]({{< param buyurl >}})

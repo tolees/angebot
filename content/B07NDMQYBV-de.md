@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Schmale Taille
-- Tief sitzend
 - Eng anliegend vom Oberschenkel bis zum Saum
+- Tief sitzend
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07NDMQYBV{{</world>}}

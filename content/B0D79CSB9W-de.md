@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Futter: 63% Schweinsleder - 37% Stoff (100% recyceltes Polyester)
-- Obbermaterial: 75 % recyceltes Polyester - 25 % synthetisch (80 % TPU - 20 % PU)
-- Laufsohle: 100% vulkanisiertes Gummi
 - Farbe: Pastellgrau
+- Laufsohle: 100% vulkanisiertes Gummi
+- Obbermaterial: 75 % recyceltes Polyester - 25 % synthetisch (80 % TPU - 20 % PU)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D79CSB9W{{</world>}}

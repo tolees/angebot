@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Coin pocket in right front pocket; Two reinforced back pockets
 - Triple stitched main seams; Stronger sewn-on-seam belt loops
 - SLIM FIT, TAPERED LEG; Rugged Flex Denim; Rugged Flex - Eases movement
-- Carhartt label sewn on pocket
+- Coin pocket in right front pocket; Two reinforced back pockets
 - Sits slightly below the waist; Long Trousers; Two front pockets
+- Carhartt label sewn on pocket
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01MYC00T0{{</world>}}

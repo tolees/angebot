@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Beau is Afraid Uhd Blu-Ray [Import]
 - LEONINE
 - PHYSICAL_MOVIE
+- Beau is Afraid Uhd Blu-Ray [Import]
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C3QLHVV5{{</world>}}

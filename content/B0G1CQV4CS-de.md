@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EU STANDARD: Das Material sorgt für eine besonders gute Hautverträglichkeit. Die Strümpfe sind reißfest und laden zum Kuscheln ein.
-- EXTRA FLAUSCHIG: Als Hüttensocken zur Weihnachtszeit oder als Haussocken an einem gemütlichen Kaminabend. Die Strümpfe können bei fröstelnden Füßen auch als Bettsocken getragen werden. Die Herrensocken sind super weich, atmungsaktiv und höchst bequem.
 - QUALITÄT: Das offiziell lizenzierte Star Wars Merchandise Produkt besteht aus Polyacryl & Polyester - 30° Maschinenwäsche.
+- EU STANDARD: Das Material sorgt für eine besonders gute Hautverträglichkeit. Die Strümpfe sind reißfest und laden zum Kuscheln ein.
 - STAR WARS HÜTTENSOCKEN: Die flauschigen Strick Wintersocken mit Sherpa Futter für Herren sind besonders weich und bequem. Die gefütterten Thermosocken halten die Füße warm und schützen im Winter vor Erkältungen.
+- EXTRA FLAUSCHIG: Als Hüttensocken zur Weihnachtszeit oder als Haussocken an einem gemütlichen Kaminabend. Die Strümpfe können bei fröstelnden Füßen auch als Bettsocken getragen werden. Die Herrensocken sind super weich, atmungsaktiv und höchst bequem.
 - DESIGN: Die Herrensocken bestehen aus weichem Material. Coole Farben sorgen für ein harmonsiches Erscheinungsbild, zusammen mit den kleinen Motiven. Das schöne, dezente Design zaubert nicht nur den Fans von Star Wars ein Lächeln ins Gesicht.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- robustes Gestell aus Stahl mit schwarzer Lackierung
-- Abmessungen Außen: B 22,5 x T 10,5 x H 5 cm
 - Abmessungen Innen: B 20,5 x T 7,5 x H 5 cm
 - zwei starke Magnete sorgen für sicheren Halt
+- robustes Gestell aus Stahl mit schwarzer Lackierung
+- Abmessungen Außen: B 22,5 x T 10,5 x H 5 cm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B082XS9VNY{{</world>}}

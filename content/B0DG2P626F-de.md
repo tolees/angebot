@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - LIEFERUMFANG & DETAILS – NIVEA Repair & Care Body Lotion für sehr trockene Haut, 400 ml, mit 3-fach Effekt für 72h intensive Feuchtigkeit, Artikelnr. 88184
-- NICHT -fettend – Nach jeder Anwendung sorgt die schnell einziehende Körperlotion für gesund aussehende Haut. Die Hautverträglichkeit ist dermatologisch bestätigt.
-- REPAIR & CARE – Die NIVEA Repair & Care Body Hautpflege pflegt sehr trockene und raue Haut mit 3-fach Effekt: repariert, schützt und pflegt.
 - VERBESSERTE FORMEL – Die verbesserte Formel mit einem Komplex aus 10% Glycerin, Provitamin B5 und Niacinamid lindert Spannungsgefühle und Juckreiz sofort.
 - INTENSIVE FEUCHTIGKEIT – Die NIVEA Body Lotion stärkt die Hautbarriere, schützt langanhaltend vor dem Austrocknen und spendet 72h intensive Feuchtigkeit.
+- REPAIR & CARE – Die NIVEA Repair & Care Body Hautpflege pflegt sehr trockene und raue Haut mit 3-fach Effekt: repariert, schützt und pflegt.
+- NICHT -fettend – Nach jeder Anwendung sorgt die schnell einziehende Körperlotion für gesund aussehende Haut. Die Hautverträglichkeit ist dermatologisch bestätigt.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DG2P626F{{</world>}}

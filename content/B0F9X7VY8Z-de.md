@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- GERMAN QUALITY & OHNE TIERVERSUCHE – Herstellung durch ein mittelständisches deutsches Familienunternehmen mit eigenem Lebensmittellabor
-- MIT WERTVOLLEN FETTSÄUREN – sorgen für gesunde Haut und schönes, glänzendes Fell, L-Carnitin & Taurin sind zudem enthalten für die Herzfunktion
 - REZEPTUR MIT LAMM & OHNE MAIS – extra große, schmackhafte XL-Kroketten gegen Schlingen mit feinem Lammfleisch ( 77 % tierisches Protein am Gesamtprotein ) und ohne die Zugabe von Mais, damit gut verträglich
-- REDUZIERTER EIWEISSGEHALT – ideal für ausgewachsene, mittlere und große Hunde größerer Rassen zur Entlastung der Organe
 - KONTROLLIERTE & HOCHWERTIGE ZUTATEN – ohne den Zusatz von Weizen, Soja und Zucker sowie künstlichen Farb- und Aromastoffen
+- MIT WERTVOLLEN FETTSÄUREN – sorgen für gesunde Haut und schönes, glänzendes Fell, L-Carnitin & Taurin sind zudem enthalten für die Herzfunktion
+- GERMAN QUALITY & OHNE TIERVERSUCHE – Herstellung durch ein mittelständisches deutsches Familienunternehmen mit eigenem Lebensmittellabor
+- REDUZIERTER EIWEISSGEHALT – ideal für ausgewachsene, mittlere und große Hunde größerer Rassen zur Entlastung der Organe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0F9X7VY8Z{{</world>}}

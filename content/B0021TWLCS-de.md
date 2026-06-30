@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Insgesamt 1200 Blatt pro Packung.
+- Wiederverwendbar
 - Jeder Block enthält 100 Blatt
 - 12 Stück selbstklebende Notizbücher
-- Wiederverwendbar
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0021TWLCS{{</world>}}

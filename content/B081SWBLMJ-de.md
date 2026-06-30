@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wow-Effekt: Rabenschwarze Farbpigmente heben die Augen optisch hervor
-- Ultimativer Falsche-Wimpern-Effekt
 - Maximale Länge und Volumen
-- Liquid Lash Formel umhüllt und verdichtet die Wimpern bis in die Spitzen - ohne verklumpen
 - Aufgefächerte Wimpern für einen ausdrucksstarken Augenaufschlag
+- Liquid Lash Formel umhüllt und verdichtet die Wimpern bis in die Spitzen - ohne verklumpen
+- Ultimativer Falsche-Wimpern-Effekt
+- Wow-Effekt: Rabenschwarze Farbpigmente heben die Augen optisch hervor
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B081SWBLMJ{{</world>}}

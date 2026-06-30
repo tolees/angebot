@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- STAR WARS GESCHENKE FÜR KINDER: Es gibt noch mehr Star Wars Figuren, die von Charakteren wie Darth Vader und einem Sturmtruppler inspiriert sind, zum Sammeln und Verschenken für Jungen und Mädchen ab 4 Jahren. (Separat erhältlich. Je nach Verfügbarkeit)
-- 5 BEWEGUNGSPUNKTE: Das Star Wars Spielzeug verfügt über bewegliche Arme, Beine und Hals und steht von alleine, sodass Kinder tolle Action-Posen kreieren können
 - ACCESSOIRES FÜR DIE ACTION-FIGUR: Die Star Wars Action-Figur kommt mit einem grünen Lichtschwert und einem Stock, der sich einfach an der Hand des Yoda Spielzeugs befestigen lässt. Ebenfalls enthalten ist eine abnehmbare Schlange für seinen Hals
+- 5 BEWEGUNGSPUNKTE: Das Star Wars Spielzeug verfügt über bewegliche Arme, Beine und Hals und steht von alleine, sodass Kinder tolle Action-Posen kreieren können
 - ACTION-FIGUR IN EINER SKALA VON 30 CM: Diese für Kinder geeignete Yoda Action-Figur ist innerhalb einer 30cm-Figurenskala 17,5 cm groß und zeigt ein vom Charakter inspiriertes Design
 - MEISTER YODA: Der kleine, aber überaus weise und mächtige Jedi-Meister Yoda bildete mehr als 800 Jahre lang Jedi-Ritter aus
+- STAR WARS GESCHENKE FÜR KINDER: Es gibt noch mehr Star Wars Figuren, die von Charakteren wie Darth Vader und einem Sturmtruppler inspiriert sind, zum Sammeln und Verschenken für Jungen und Mädchen ab 4 Jahren. (Separat erhältlich. Je nach Verfügbarkeit)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0F8P65FRW{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- gefertigt aus gehärtetem Stahl
-- Innensechskant: 1, 5/ 2/ 3/ 4/ 5 mm
 - Schraubendreher #2 Phillips
+- Innensechskant: 1, 5/ 2/ 3/ 4/ 5 mm
+- gefertigt aus gehärtetem Stahl
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B017EIX3CM{{</world>}}

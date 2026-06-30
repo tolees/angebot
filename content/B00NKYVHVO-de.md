@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Aus weichem & pflegeleichtem Single-Jersey-Stoff aus Baumwolle
 - Passform: Regular Fit, Rückenlänge bei Größe L ca. 74 cm
 - Kurzärmlig mit V-Ausschnitt
-- Aus weichem & pflegeleichtem Single-Jersey-Stoff aus Baumwolle
 - Basic T-Shirt in Unifarben im praktischen Doppelpack/2-er Pack: zwei T-Shirts mit V-Ausschnitt in der gleichen Farbe pro Packung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

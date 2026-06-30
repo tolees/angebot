@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Verstellbare Manschette mit Druckknöpfen
-- Verstellbare Kapuze
-- Gedrucktes HH-Logo
-- YKK-VISLON
 - HELLY TECH-SCHUTZ
+- YKK-VISLON
+- Gedrucktes HH-Logo
+- Verstellbare Kapuze
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BKLRMNFC{{</world>}}

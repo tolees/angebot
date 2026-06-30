@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Miniatur ist originalverpackt und ca. 15cm groß.
 - Aus Funkos beliebter POP!-Reihe kommt diese coole Vinyl-Figur. Sie ist ca. 15 cm groß und wird in einer Fensterbox geliefert.
+- Die Miniatur ist originalverpackt und ca. 15cm groß.
 - Eine Funko Pop Miniatur zum Sammeln.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wir bieten nur die hochwertigsten Materialien
 - Klassischer Stil – reguläre Passform
+- Wir bieten nur die hochwertigsten Materialien
 - Dies ist ein langlebiges Kleidungsstück, das Sie für die kommenden Jahreszeiten genießen werden
 - Dieser Klassiker ist in einer Vielzahl von Größen erhältlich
 

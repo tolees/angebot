@@ -31,10 +31,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - WAGNER DIY App: Smarte Tipps direkt aufs Smartphone – für eine leichtere Anwendung und noch bessere Ergebnisse.
 - Innovative Düsentechnologie - weich auslaufender Sprühstrahl für eine perfekte Deckkraft bei Überlappung der Bahnen
 - 9 m langer, sehr flexibler Farbschlauch für einen großen Aktionsradius
-- Für mittlere bis sehr große Projekte und häufiger Verwendung Für wasser- und lösemittelhaltige Materialien wie Dispersions- und Latexfarben, Lacke und Lasuren, Acrylfarben, Holzschutzmittel, Beizen, Grundierungen, Haftgrund, Pflanzenschutzmittel, Desinfektionsmittel, Öle, u.v.m. (nicht für brennbare Materialien)
-- High Efficiency Airless-Technologie mit reduziertem Spritzdruck für maximale Kontrolle, längere Lebensdauer und bis zu 55% weniger Sprühnebel
-- Direktansaugung aus dem Farbeimer - kein Um- und Nachfüllen mehr nötig
 - Praktischer Tragegriff ermöglicht einfachen Wechsel des Arbeitsortes
+- High Efficiency Airless-Technologie mit reduziertem Spritzdruck für maximale Kontrolle, längere Lebensdauer und bis zu 55% weniger Sprühnebel
+- Für mittlere bis sehr große Projekte und häufiger Verwendung Für wasser- und lösemittelhaltige Materialien wie Dispersions- und Latexfarben, Lacke und Lasuren, Acrylfarben, Holzschutzmittel, Beizen, Grundierungen, Haftgrund, Pflanzenschutzmittel, Desinfektionsmittel, Öle, u.v.m. (nicht für brennbare Materialien)
+- Direktansaugung aus dem Farbeimer - kein Um- und Nachfüllen mehr nötig
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B073K3TC1P{{</world>}}

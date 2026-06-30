@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spieldauer: 60-120
 - Ab 8 Jahre
+- Spieldauer: 60-120
 - Spieleranzahl: 1-4
 
 [🛒 Hier!!]({{< param buyurl >}})

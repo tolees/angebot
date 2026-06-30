@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BLAZBLUE Characterpalette [X-File] (14 Charaktere) Hibiki, Ragna, Noel, Λ-No.11, Es, Rachel, Taokaka, Jin, Kokonoe, Hakumen, Mai, Hazama, Bullet, Naoto (Dieses Set enthält keine Paletten für zukünftige Charaktere. Gegebenenfalls müssen diese separat gekauft werden.)
 - BlazBlue Entropy Effect X – Standard Edition, Zwei Charakterpaletten-Sets
-- BLAZBLUE ENTROPY EFFECT X – Complete Original Soundtrack (5 Sets mit insgesamt 91 Songs) ACE-OST MIND TRAINING, ACE-OST PHENOMENON, ACE-OST MIND TRAINING II, ACE-OST OTHERWORLD VOICE, BLAZBLUE ENTROPY EFFECT X – OST Infinity Edition
 - Die physische Deluxe-Edition enthält den gesamten Inhalt auf der Disc/im Spielmodul:
+- BLAZBLUE Characterpalette [X-File] (14 Charaktere) Hibiki, Ragna, Noel, Λ-No.11, Es, Rachel, Taokaka, Jin, Kokonoe, Hakumen, Mai, Hazama, Bullet, Naoto (Dieses Set enthält keine Paletten für zukünftige Charaktere. Gegebenenfalls müssen diese separat gekauft werden.)
 - BLAZBLUE Characterpalette [Die andere Seite] (14 Charaktere) Hibiki, Ragna, Noel, Λ-No.11, Es, Rachel, Taokaka, Jin, Kokonoe, Hakumen, Mai, Hazama, Bullet, Naoto (Dieses Set erhält zusätzliche Paletten, wenn in zukünftigen Updates weitere Charaktere ergänzt werden.)
+- BLAZBLUE ENTROPY EFFECT X – Complete Original Soundtrack (5 Sets mit insgesamt 91 Songs) ACE-OST MIND TRAINING, ACE-OST PHENOMENON, ACE-OST MIND TRAINING II, ACE-OST OTHERWORLD VOICE, BLAZBLUE ENTROPY EFFECT X – OST Infinity Edition
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0G25TDSJR{{</world>}}

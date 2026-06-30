@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Confidential
-- Geheim
 - Confidential
+- Geheim
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07G3RKS79{{</world>}}
