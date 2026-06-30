@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Xiaomi 165W Power Bank 10000mAh Super Schnellladung|3 USB-C Ports for Multi-Device Charging Power 120W PD3.0|Kompatibel mit Laptop for iPhone 16 MacBook Xiaomi Samsung Pixel 9 and More'
+date: 2026-05-01 13:57:21
+image: 'https://m.media-amazon.com/images/I/21oh9jFjqjL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DMWSXRV1-de Xiaomi 165W Power Bank 10000mAh Super Schnellladung|3...'
+sku: 'B0DMWSXRV1-de'
+tags: [ '🇩🇪', ]
+actualPrice: 41.5 EUR
+currency: EUR
+price: 41.5
+comparePrice: 49.99 EUR
+prodname: 'Xiaomi 165W Power Bank 10000mAh Super Schnellladung|3 USB-C Ports for Multi-Device Charging Power 120W PD3.0|Kompatibel mit Laptop for iPhone 16 MacBook Xiaomi Samsung Pixel 9 and More'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B0DMWSXRV1/?tag=tolees0ca-21'
+descuento: '16.98'
+average: '40.1275'
+---
+
+Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Selbstaufladung mit bis zu 90W für effizientes Wiederaufladen
+- Bis zu 120W Ausgangsleistung über integriertes Kabel
+- Intelligente Temperaturregelung Bleibt kühl für sicheren Gebrauch
+- Schlankes Design mit farbiger Akkustatusanzeige
+- Zwei Anschlüsse mit einer Gesamtausgangsleistung von bis zu 165W
+
+[🛒 Hier!!]({{< param buyurl >}})
+{{<world>}}B0DMWSXRV1{{</world>}}

@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'PUMA Herren Varion Ii Indoor Court Shoe Puma Black Cool Light Gray Yellow Blaze Gum 40.5 EU'
+date: 2026-06-07 04:40:57
+image: 'https://m.media-amazon.com/images/I/31uavwtM0rL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0BLHQMLHY-de PUMA Herren Varion Ii Indoor Court Shoe Puma Black Cool...'
+sku: 'B0BLHQMLHY-de'
+tags: [ '🇩🇪', ]
+actualPrice: 33.36 EUR
+currency: EUR
+price: 33.36
+comparePrice: 59.95 EUR
+prodname: 'PUMA Herren Varion Ii Indoor Court Shoe Puma Black Cool Light Gray Yellow Blaze Gum 40.5 EU'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B0BLHQMLHY/?tag=tolees0ca-21'
+descuento: '44.35'
+average: '32.7924999999999'
+---
+
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Variofoam-Zwischensohle
+- Stabilitätsrahmen für seitliche und mediale Unterstützung
+- SOFTFOAM+-Einlegesohle für Halt und Komfort
+- SoftFoam+: PUMAs Komfort-Einlegesohle für sofortiges Einsteigen und lang anhaltenden Komfort, die bei jedem Schritt Ihres Tages für weiche Dämpfung sorgt
+- Das Variomesh-Obermaterial sorgt für Atmungsaktivität und Komfort
+
+[🛒 kauf es hier!!]({{< param buyurl >}})
+{{<world>}}B0BLHQMLHY{{</world>}}
