@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Weiße Etiketten zum Selbstbeschriften
-- Etikettengröße: 53 x 82 mm
 - Klebertyp: Dauerhaft
+- Etikettengröße: 53 x 82 mm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B007ORJ1F2{{</world>}}

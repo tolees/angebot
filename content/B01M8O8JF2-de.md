@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rubber outsole
 - hummel branding
+- Rubber outsole
 - Real suede
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -30,10 +30,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Schlankes und kompaktes Design für eine Vielzahl von Anwendungen
 - Multivolt (12/24 V), 10 W, IP 6K9K, IP 6K8, ECE-R10, UKCA, RCM, Kabellänge 500 mm (offene Kabelenden)
-- Lampenart: LED - Anzahl der LEDs: 52 - Leistungsaufnahme: 10W
 - ECE-geprüft - Schutzart: IP69K/IP67/IP68
-- Umschaltbar von weißem (1.000 Lumen) auf gelbes Licht (900 Lumen)
 - Für die Wandmontage an der Fahrzeugkarosserie, z. B. im Eingangsbereich von Wohnmobilen
+- Lampenart: LED - Anzahl der LEDs: 52 - Leistungsaufnahme: 10W
+- Umschaltbar von weißem (1.000 Lumen) auf gelbes Licht (900 Lumen)
 - Homogene und weiträumige Lichtverteilung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

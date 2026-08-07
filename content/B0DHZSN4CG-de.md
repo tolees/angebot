@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Textilfutter
-- Synthetik-Obermaterial
 - Schnürverschluss
-- E
-- Gummiaußensohle
 - Regulär geschnitten
+- Gummiaußensohle
+- Synthetik-Obermaterial
+- E
+- Textilfutter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DHZSN4CG{{</world>}}

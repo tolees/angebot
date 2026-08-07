@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Deutsch, Japanisch
 - BRD
-- Junichi Sato; Kunihiko Ikuhara
+- Deutsch, Japanisch
 - 1075
+- Junichi Sato; Kunihiko Ikuhara
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B088VVPL81{{</world>}}

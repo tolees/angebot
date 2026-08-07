@@ -28,16 +28,16 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inklusive Osmo Pocket 3 Startset und Osmo Pocket 3 Akkugriff. Filme zusätzliche eineinhalb Stunden in 1080p/24 fps.
-- Äußerst stabiles Filmmaterial - Verwackelte Videos sind passé! Die fortschrittliche mechanische 3-Achsen-Stabilisierung von Osmo Pocket 3 bietet hervorragende Stabilität. Genieße ruhige Aufnahmen beim Tanzen, Verfolgen von Haustieren oder Wandern.
-- Mühelose Bildeinstellung - Mit dem großen 2-Zoll-Touchscreen der Osmo Pocket 3, der sich sowohl für horizontale als auch vertikale Aufnahmen drehen lässt, lassen sich ideale Bildkompositionen erstellen.
-- Erstelle fesselnde Vlogen mit ActiveTrack 6.0 - Bleibe mühelos im Fokus, wenn du unterwegs aufnimmst. Stelle die Osmo Pocket 3 auf ein Stativ und springe, tanze oder drehe dich, aber bleibe im Bild.
 - Kompakt und praktisch - Verpasse keinen Moment mit der unglaublich tragbaren und langlebigen Gimbal-Kamera im Taschenformat. Nimm große und kleine Abenteuer in Angriff – von Reisen ins Ausland bis hin zu Familienfeiern.
-- Schnelle und präzise Fokussierung - Die Osmo Pocket 3 stellt auf das Motiv ein und sorgt für scharfe, klare Aufnahmen. Egal, ob du actionreiche Szenen oder Standbilder filmst – er sorgt dafür, dass jedes Detail eingefangen wird.
-- Erweiterte Farbkorrektur - Mit D-Log M und 10-Bit-Farbtiefe kannst du mühelos bis zu einer Milliarde Farben aufnehmen und in der Postproduktion atemberaubende visuelle Effekte erzielen. Ideal für die Aufnahme von Sonnenaufgängen und Sonnenuntergängen.
-- DJI OsmoAudio - Pocket 3 kann direkt mit zwei DJI Mic 2/Mic Mini Sendern verbunden werden und sorgt so für eine hohe Audioqualität bei Vlogs, Interviews und Livestreams - das vereinfacht deine Ausrüstung und Ihren Workflow
-- Fesselnder Ton - Die Stereoaufnahme fängt hochwertigen Ton ein und unterstreicht deine Videos mit kristallklarem Audio. Von aufregenden Abenteuern bis hin zu kostbaren Momenten – diese Kompaktkamera erweckt deine Erinnerungen zum Leben.
+- Erstelle fesselnde Vlogen mit ActiveTrack 6.0 - Bleibe mühelos im Fokus, wenn du unterwegs aufnimmst. Stelle die Osmo Pocket 3 auf ein Stativ und springe, tanze oder drehe dich, aber bleibe im Bild.
 - Beeindruckende Aufnahmen - Die Osmo Pocket 3 verfügt über einen 1-Zoll-CMOS-Sensor und nimmt in 4K-Auflösung mit beeindruckenden 120 fps auf. So lassen sich atemberaubende Nachtansichten und Sonnenuntergänge mit verbesserter Klarheit festhalten.
+- Inklusive Osmo Pocket 3 Startset und Osmo Pocket 3 Akkugriff. Filme zusätzliche eineinhalb Stunden in 1080p/24 fps.
+- Erweiterte Farbkorrektur - Mit D-Log M und 10-Bit-Farbtiefe kannst du mühelos bis zu einer Milliarde Farben aufnehmen und in der Postproduktion atemberaubende visuelle Effekte erzielen. Ideal für die Aufnahme von Sonnenaufgängen und Sonnenuntergängen.
+- Mühelose Bildeinstellung - Mit dem großen 2-Zoll-Touchscreen der Osmo Pocket 3, der sich sowohl für horizontale als auch vertikale Aufnahmen drehen lässt, lassen sich ideale Bildkompositionen erstellen.
+- DJI OsmoAudio - Pocket 3 kann direkt mit zwei DJI Mic 2/Mic Mini Sendern verbunden werden und sorgt so für eine hohe Audioqualität bei Vlogs, Interviews und Livestreams - das vereinfacht deine Ausrüstung und Ihren Workflow
+- Schnelle und präzise Fokussierung - Die Osmo Pocket 3 stellt auf das Motiv ein und sorgt für scharfe, klare Aufnahmen. Egal, ob du actionreiche Szenen oder Standbilder filmst – er sorgt dafür, dass jedes Detail eingefangen wird.
+- Fesselnder Ton - Die Stereoaufnahme fängt hochwertigen Ton ein und unterstreicht deine Videos mit kristallklarem Audio. Von aufregenden Abenteuern bis hin zu kostbaren Momenten – diese Kompaktkamera erweckt deine Erinnerungen zum Leben.
+- Äußerst stabiles Filmmaterial - Verwackelte Videos sind passé! Die fortschrittliche mechanische 3-Achsen-Stabilisierung von Osmo Pocket 3 bietet hervorragende Stabilität. Genieße ruhige Aufnahmen beim Tanzen, Verfolgen von Haustieren oder Wandern.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CLTVWWBX{{</world>}}

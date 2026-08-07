@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Futter: 63% Schweinsleder - 37% Stoff (100% recyceltes Polyester)
+- Obbermaterial: 52% recyceltes PET 48 % Rindsleder
 - Laufsohle: 100% vulkanisiertes Gummi
 - Farbe: Schwarz
-- Obbermaterial: 52% recyceltes PET 48 % Rindsleder
 - Recycled Synthetics
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Charakter: TEMPERAMENT - geschmeidig, würzig, fruchtig! Ein ausdrucksvoller Tempranillo mit ausgeprägten Brombeeraromen.
+- Passt zu: Leichter Fisch
 - Geschmack: Rote Beeren
 - Herkunft: Spanien > Kastilien-La Mancha > Castilla
-- Passt zu: Leichter Fisch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01EVBFA0S{{</world>}}

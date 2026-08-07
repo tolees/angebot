@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Selbstklebend
 - Im praktischen Pappspender
 - Lösungsmittelfrei
-- Selbstklebend
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000WKKIDM{{</world>}}

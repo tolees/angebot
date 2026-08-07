@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kunstwerke unter Türen heben bekannte Orte und faszinierende Szenen hervor
+- Jede Flügeltür wird mit einem anderen Schloss oder Riegel verschlossen
 - Aktivitätsbrett aus Holz mit Türen zum Öffnen, Schließen und Erkunden
 - Stabiles Holzbrett mit Metallbeschlägen und Scharnieren; keine losen Teile
-- Jede Flügeltür wird mit einem anderen Schloss oder Riegel verschlossen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00U3GA8XA{{</world>}}

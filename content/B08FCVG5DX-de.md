@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Unkomplizierte Navigation durch die Apps deiner Xbox One oder Xbox Series x|s
-- kompatibel mit Xbox One und Series xis
 - unkomplizierte Lautstärkeregelung, einfaches ein- und ausschalten und vieles mehr
+- kompatibel mit Xbox One und Series xis
 - Tasten mit bewegungsgesteuerter Hintergrundbeleuchtung
 
 [🛒 Hier!!]({{< param buyurl >}})

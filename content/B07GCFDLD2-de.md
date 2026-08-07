@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 75% Polyester 10% Textil (65% Nylon - 35% Polyurethan) 10% Synthetisch (70% Polyurethan - 30% Polyester) 5% Synthetisch
-- Futter:
 - Obermaterial: Leder (Rindsleder)
-- Farbe: Schwarz
 - Laufsohle/Eigenschaften: EVA-Laufsohle für geringes Gewicht
+- 75% Polyester 10% Textil (65% Nylon - 35% Polyurethan) 10% Synthetisch (70% Polyurethan - 30% Polyester) 5% Synthetisch
+- Farbe: Schwarz
+- Futter:
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07GCFDLD2{{</world>}}

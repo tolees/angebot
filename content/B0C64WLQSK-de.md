@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Zero RPM-Modus: Eliminiert Lüftergeräusche bei niedrigen Lasten komplett durch Unterstützung von Zero RPM-PWM-Signalen.
 - iCUE LINK-System-Hub und Brückenkonnektoren inbegriffen: Verketten Sie Ihre Lüfter ohne Kabel mithilfe der inbegriffenen Brückenkonnektoren, und verbinden Sie sie mit nur einem Kabel nahtlos mit dem iCUE LINK-System-Hub.
-- Geräuscharmer Betrieb mit Magnetschwebelager: Das Magnetschwebelager von CORSAIR bietet die Leistung von ML-Lüftertechnologie und reduziert Reibung bei niedrigen Lüftergeschwindigkeiten noch weiter.
 - Cool bleiben: Erreicht werden leistungsstarke, PWM-gesteuerte Lüftergeschwindigkeiten ab 480 bis zu 2.400 U/min, damit sich Ihre Lüfter nicht schneller drehen als nötig. Hinzu kommt ein Luftdurchsatz von bis zu 107,21 m³/h mit 3,8 mm-H2O statischem Druck.
 - Exklusiver Time Warp-Beleuchtungsmodus: Ausgestattet mit 34 RGB-LEDs, verteilt über zwei separate Beleuchtungszonen auf jeder Seite, und unterstützt durch iCUE LINK für exklusive Beleuchtungsmodi wie den Time Warp-Stroboskop-Modus.
+- Geräuscharmer Betrieb mit Magnetschwebelager: Das Magnetschwebelager von CORSAIR bietet die Leistung von ML-Lüftertechnologie und reduziert Reibung bei niedrigen Lüftergeschwindigkeiten noch weiter.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C64WLQSK{{</world>}}

@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kopfnoten: Zitrusfrüchte, exotische Früchte, aromatisch, italienische Bergamotte, schwarze Johannisbeere und Minze
-- Basisnoten: Holziger Gourmand, Ambra, Moschus, Zedernholz, Cappuccino-Akkord und Ambra-Note
 - Herznoten: Aquatische und blumige Frische, würzig, Wassermelone, zarte blumige Noten und Kardamom
-- Frischer Wasserduft mit reizvollen Noten aus Zedernholz und Cappuccino. Ein verführerisches und besonderes Geschenk für einen spontanen und echten Mann, der mit seinem natürlichen Charme verführt
 - Originalparfüm von Banderas Perfumes
+- Basisnoten: Holziger Gourmand, Ambra, Moschus, Zedernholz, Cappuccino-Akkord und Ambra-Note
+- Frischer Wasserduft mit reizvollen Noten aus Zedernholz und Cappuccino. Ein verführerisches und besonderes Geschenk für einen spontanen und echten Mann, der mit seinem natürlichen Charme verführt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B006VGMS8E{{</world>}}

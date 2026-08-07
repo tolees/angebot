@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Transportbox enthalten
 - Piezo-Zündung für komfortable Zündung auf Knopfdruck
 - Patentiertes Easy Clic Plus System für einfaches und sicheres Anschließen von Campingaz Ventilkartuschen
-- Transportbox enthalten
 - Stopgaz System: eingebaute Sicherheitsvorkehrung, die den Gasfluss stoppt, wenn keine Flamme brennt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

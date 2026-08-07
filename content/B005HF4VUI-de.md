@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Artikelbezeichnung: Zettelkasten Trend
-- Verwendung für Papiergrößen: 90x90mm
 - Gefüllt: Ja
-- Breite: 100 mm
 - max. Anzahl der Blätter: 800 Stück
+- Breite: 100 mm
+- Verwendung für Papiergrößen: 90x90mm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B005HF4VUI{{</world>}}

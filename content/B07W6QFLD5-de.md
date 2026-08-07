@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Herausnehmbarer Vorratsbehälter für Kaffeebohnen mit einem Fassungsvermögen von 250g, einstellbare Mahlmenge von 2-10 Tassen
 - Mahlt die gewünschte Menge an Kaffeebohnen und transportiert den gemahlenen Kaffee in den Filterträger, brüht auch bereits gemahlenen Kaffee
-- Glas-Kaffeemaschine mit integriertem konischen Kegelmahlwerk, hochwertige Glaskanne mit Scharnierdeckel und Füllmengenmarkierung für bis zu 10 Tassen (1, 25l)
-- Digitales Bedienelement mit programmierbarem Timer, Brühstärkeneinstellung und Uhrzeit, 3-stufige Mahlgradeinstellung: grob, medium, fein
+- Herausnehmbarer Vorratsbehälter für Kaffeebohnen mit einem Fassungsvermögen von 250g, einstellbare Mahlmenge von 2-10 Tassen
 - Außenliegende Wasserstandsanzeige mit Füllmengenmarkierung, automatische Abschaltung, Tropf-Stopp bei Kannenentnahme, Selbstreinigungsfunktion
+- Digitales Bedienelement mit programmierbarem Timer, Brühstärkeneinstellung und Uhrzeit, 3-stufige Mahlgradeinstellung: grob, medium, fein
+- Glas-Kaffeemaschine mit integriertem konischen Kegelmahlwerk, hochwertige Glaskanne mit Scharnierdeckel und Füllmengenmarkierung für bis zu 10 Tassen (1, 25l)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07W6QFLD5{{</world>}}

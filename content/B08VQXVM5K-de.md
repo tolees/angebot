@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Ein-/Ausschalten angeschlossener Geräte mit der Wiser Home App
-- Zeitplanung, Automatisierungen und Momente können aktiviert werden
-- Kompatibel mit Amazon Alexa, Google Assistant und Matter über Wiser Hub
 - Erfasst den Stromverbrauch angeschlossener Geräte
 - Zur Integration in Ihr Wiser Smart Home System
+- Kompatibel mit Amazon Alexa, Google Assistant und Matter über Wiser Hub
+- Zeitplanung, Automatisierungen und Momente können aktiviert werden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08VQXVM5K{{</world>}}

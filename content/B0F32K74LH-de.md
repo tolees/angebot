@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Horrified: D&D ist ein innovatives Brettspiel mit verschiedenen Schwierigkeitsgraden. Die Skalierbarkeit der Partien bietet damit bei jedem Spiel eine neue spannende Herausforderung.
-- Abwechslungsreiches und kooperatives Spiel für Erwachsene und Kinder ab 10 Jahren: Horrified: D&D eignet sich sowohl als Familienspiel für gemütliche Spielenachmittage zu Hause oder als Gesellschaftsspiel für den lustigen Spieleabend mit Freunden
-- DAS Gesellschaftsspiel für alle Gruselfans und Fantasy-Fans ab 10 Jahren in höchster Ravensburger Spiele Qualität. Eignet sich auch ideal als Geschenk zum Geburtstag oder Weihnachten
-- Horrified: D&D bietet hochwertiges Spielmaterial und detaillierte D&D-Figuren, die auch bemalt werden können. 45- 60 Minuten Spielzeit. Für 1-5 Horrified-Fans und alle die es danach sein werden! Seid ihr bereit, die Welt der Monster zu betreten?
 - Die gefährlichen D&D-Monster erfordern verschiedene Strategien und Taktiken, um besiegt zu werden. Und das geht nur gemeinsam! Das schafft immer wieder ein neues, immersives und atmosphärisches Erlebnis.
+- Horrified: D&D bietet hochwertiges Spielmaterial und detaillierte D&D-Figuren, die auch bemalt werden können. 45- 60 Minuten Spielzeit. Für 1-5 Horrified-Fans und alle die es danach sein werden! Seid ihr bereit, die Welt der Monster zu betreten?
+- DAS Gesellschaftsspiel für alle Gruselfans und Fantasy-Fans ab 10 Jahren in höchster Ravensburger Spiele Qualität. Eignet sich auch ideal als Geschenk zum Geburtstag oder Weihnachten
+- Abwechslungsreiches und kooperatives Spiel für Erwachsene und Kinder ab 10 Jahren: Horrified: D&D eignet sich sowohl als Familienspiel für gemütliche Spielenachmittage zu Hause oder als Gesellschaftsspiel für den lustigen Spieleabend mit Freunden
+- Horrified: D&D ist ein innovatives Brettspiel mit verschiedenen Schwierigkeitsgraden. Die Skalierbarkeit der Partien bietet damit bei jedem Spiel eine neue spannende Herausforderung.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0F32K74LH{{</world>}}

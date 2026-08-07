@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hohe Effizienz: Mit einer Leistung von 550 W und einem Druck von 0.7 bar befördert die Pumpe bis zu 15.000 Liter Wasser in der Stunde. Die Schmutzpartikelgröße kann im Schmutzwasserbetrieb hierbei bis zu 35 mm betragen
-- Hochwertige Verarbeitung: Dank hochwertiger Materialien ist die Tauchpumpe besonders robust. Für eine hohe Langlebigkeit verfügt die Motorwelle über eine Keramikbeschichtung mit dreifacher Abdichtung
 - Lieferumfang beinhaltet: 1x Gardena Klar-/Schmutzwasser-Tauchpumpe 15000
-- Einfache Verbindung: Mit nur einem Klick lassen sich Schläuche mit einem Durchmesser von 25 mm (1 Zoll), 32 mm (1 1/4 Zoll) und 38 mm (1 1/2 Zoll) einfach anschließen
 - Innovative 2in1-Funktion: Egal ob zum Entwässern einer Baugrube oder zum Abpumpen des heimischen Pools. Per Umschaltmechanismus am Tragegriff kann die Pumpe auf Schmutz- oder Klarwasserbetrieb umgestellt werden – Hände und Kleidung kommen hierbei mit dem Wasser nicht in Berührung
+- Einfache Verbindung: Mit nur einem Klick lassen sich Schläuche mit einem Durchmesser von 25 mm (1 Zoll), 32 mm (1 1/4 Zoll) und 38 mm (1 1/2 Zoll) einfach anschließen
+- Hochwertige Verarbeitung: Dank hochwertiger Materialien ist die Tauchpumpe besonders robust. Für eine hohe Langlebigkeit verfügt die Motorwelle über eine Keramikbeschichtung mit dreifacher Abdichtung
+- Hohe Effizienz: Mit einer Leistung von 550 W und einem Druck von 0.7 bar befördert die Pumpe bis zu 15.000 Liter Wasser in der Stunde. Die Schmutzpartikelgröße kann im Schmutzwasserbetrieb hierbei bis zu 35 mm betragen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08LNQFK86{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnürbänder
-- HB_Season_collection_AMZ: S26_SU
-- Mit Innenfutter
-- Verpackung: Box
 - Display_Text: Sneakers aus Leder mit Gummisohlen
+- Verpackung: Box
+- Mit Innenfutter
+- HB_Season_collection_AMZ: S26_SU
+- Schnürbänder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C31HBKTN{{</world>}}

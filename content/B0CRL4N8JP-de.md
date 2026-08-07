@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innen ist diese Jacke durchgehend gefüttert und wattiert
-- Mit abnehmbarer Kapuze
 - Schräge Seitentaschen mit Reißverschluss
 - GANT-Badge aus Silikon auf der Brust
+- Mit abnehmbarer Kapuze
+- Innen ist diese Jacke durchgehend gefüttert und wattiert
 - Windschutz-Bündchen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

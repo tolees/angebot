@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Samtig weich und robust.
-- Mehr als 30 Stunden Akkulaufzeit und Schnellladefunktion.
 - Lass dir von Gemini mit deiner To-do-Liste helfen und dir so den Alltag erleichtern.
 - Bearbeite deine Fotos mit nur ein paarmal tippen. Entferne Objekte, ändere Hintergründe und vieles mehr – direkt in Fotos.
 - Kein Mobilfunk oder WLAN? Rufe den Rettungsdienst über Satellit, um Hilfe zu holen, und teile deinen Standort mit deinen Notfallkontakten.
+- Mehr als 30 Stunden Akkulaufzeit und Schnellladefunktion.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0GGCDV1Q1{{</world>}}

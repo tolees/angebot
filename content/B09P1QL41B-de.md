@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 70 % Baumwolle / 30 % recycelter Polyester (Fleece)
-- Bündchen und Saum gerippt
-- Regulär geschnitten
 - Gerippter Rundhalsausschnitt
+- Bündchen und Saum gerippt
+- 70 % Baumwolle / 30 % recycelter Polyester (Fleece)
+- Regulär geschnitten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09P1QL41B{{</world>}}

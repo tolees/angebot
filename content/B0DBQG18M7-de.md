@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lichtechte, wassfeste Ölpastellkreiden, anlösbar mit Terpentin
-- Für Mischtechniken, zum Schattieren und Kolorieren
 - Feine Ölpastellkreiden in 38 brillanten Farben, 6 Metallic-Farben und 6 Neon-Farben
 - Die weiche, samtige Textur lässt sich leicht mit dem Finger auftragen und verblenden
+- Lichtechte, wassfeste Ölpastellkreiden, anlösbar mit Terpentin
+- Für Mischtechniken, zum Schattieren und Kolorieren
 - Mit Papiermanschette für saubere Hände
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - erhältlich in 5 Farben und 14 Formaten (die quadratischen Formate sind mit einem Schrägschnittpassepartout ausgestattet)
+- Überlegene Qualität
 - Aluminiumrahmen mit 1 cm breitem quadratischen Profil und einer matt gebürsteter Oberfläche
 - mit zusätzlichen Aufhängeösen und bis Format 13x18cm sind die Rahmen mit einem Aufsteller ausgestattet
-- Überlegene Qualität
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B005KJE6CO{{</world>}}

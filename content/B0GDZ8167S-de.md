@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Solid State LiDAR und Vision Dual Fusion: Hochauflösendes Solid State LiDAR gepaart mit optischen Sensoren an Bord für stabile, satellitenfreie Navigation. Zuverlässig Tag und Nacht durch 3D-Erkennung.
-- Geländereifen für Leistung bei bis zu 45 % Neigung: Bewältigt Steillagen mit geländegängigen Reifen und elektronischer Stabilitätskontrolle. 100-W-Motor und 6-Messerklingenscheiben schneiden stark und beständig dichtes oder rasch wachsendes Gras.
-- Einfach Absetzen und mähen & Sprachsteuerung: Auspacken und Mähen. Ohne Begrenzungsdrähte oder Antennen. Automatisches Kartieren mit nur einem Tipp, freihändiges Mähen via Alexa oder Google Home.
-- Präzise KI-gestütztes VisionFence und GeoSketch: Erkennt 200+ Hindernistypen akkurat auf 1 cm. Bearbeiten Sie per App bis zu 20 Mähzonen auf einer realistischen, interaktiven Karte. Kantenmodus erlaubt präzisere Schnitte an Kanten und Grenzen.
 - Im Lieferumfang enthalten sind der i208 LiDAR Mähroboter und die Garage M. Diese beiden Pakete werden separat versandt.
+- Einfach Absetzen und mähen & Sprachsteuerung: Auspacken und Mähen. Ohne Begrenzungsdrähte oder Antennen. Automatisches Kartieren mit nur einem Tipp, freihändiges Mähen via Alexa oder Google Home.
+- Geländereifen für Leistung bei bis zu 45 % Neigung: Bewältigt Steillagen mit geländegängigen Reifen und elektronischer Stabilitätskontrolle. 100-W-Motor und 6-Messerklingenscheiben schneiden stark und beständig dichtes oder rasch wachsendes Gras.
+- Solid State LiDAR und Vision Dual Fusion: Hochauflösendes Solid State LiDAR gepaart mit optischen Sensoren an Bord für stabile, satellitenfreie Navigation. Zuverlässig Tag und Nacht durch 3D-Erkennung.
 - Kontrolle durch smarte Sicherheit und fortschrittliche App: Bietet Alarme per GPS, Geo-Fence, Anhebeerkennung und Apple „Wo ist?“ für smarten Schutz. Kehrt bei Extremwetter selbst zur Station zurück; mit dem Zeichen-Tool der App entwerfen Sie Mähmuster nach Ihrem Geschmack.
+- Präzise KI-gestütztes VisionFence und GeoSketch: Erkennt 200+ Hindernistypen akkurat auf 1 cm. Bearbeiten Sie per App bis zu 20 Mähzonen auf einer realistischen, interaktiven Karte. Kantenmodus erlaubt präzisere Schnitte an Kanten und Grenzen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0GDZ8167S{{</world>}}

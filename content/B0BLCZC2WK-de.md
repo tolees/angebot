@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Absatzart: flach
 - Verschluss: Schnürsenkel
 - Material der Sohle: Gummi
-- Absatzart: flach
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BLCZC2WK{{</world>}}

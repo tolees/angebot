@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aus strapazierfähigem und UV-stabilisiertem Polyester Gewebe
 - Klettband 50028 (nicht im Lieferumfang enthalten) zur Montage benötigt
-- Extra großes Fliegengitter für den optimalen Insekten- und Mückenschutz
 - Die Farbe des Netz sorgt für eine optimale Durchsicht, da es vom Auge nicht wahrgenommen wird
+- Extra großes Fliegengitter für den optimalen Insekten- und Mückenschutz
+- Aus strapazierfähigem und UV-stabilisiertem Polyester Gewebe
 - Durch den individuellen Zuschnitt, lässt sich das Netz pass-genau im Innenrahmen vom Fenster anbringen, oder z. B. die Regentonne vor unerwünschten Mitbewohnern wie Mückenlarven schützen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EASY FIT
-- Unsere Schuhe sind aus sorgfältig ausgewählten, hochwertigen Materialien gefertigt
-- Unser Nanopro Imprägnierspray sorgt für zusätzlichen Nässeschutz. Dieses Produkt ist ausschließlich für den Verkauf in unseren Einzelhandelsstandorten bestimmt
 - CUSHIONING
 - LIGHTWEIGHT
 - Die Verwendung der richtigen Schuhpflegeprodukte sorgt für hohen Schutz und Langlebigkeit dieser Produkte
-- RECYCLED
 - FLEXIBLE
+- Unsere Schuhe sind aus sorgfältig ausgewählten, hochwertigen Materialien gefertigt
+- EASY FIT
+- RECYCLED
+- Unser Nanopro Imprägnierspray sorgt für zusätzlichen Nässeschutz. Dieses Produkt ist ausschließlich für den Verkauf in unseren Einzelhandelsstandorten bestimmt
 - In Eleganter Optik Look
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

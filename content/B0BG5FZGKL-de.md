@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Normale Passform
-- Gerippte Abschlüsse am Saum und an den Ärmelbündchen
 - Grafische Gant-Stickerei auf der Brust
+- Gerippte Abschlüsse am Saum und an den Ärmelbündchen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BG5FZGKL{{</world>}}

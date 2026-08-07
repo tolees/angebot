@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnellladegerät: Der 5.0 Ah Akku ist bereits nach 35 Minuten einsatzbereit (zu 80 % geladen)
-- Kompatibel seit 2008: Alle unsere Akkus passen innerhalb der jeweiligen Voltklasse in die neuen und die bereits vorhandenen Bosch Professional Werkzeuge.
 - Einzigartiges COOLPACK-Design für längere Lebensdauer des Akkus: Spezielles Wärmeleitgehäuse zur Reduzierung der innerhalb des Akkus entstehenden Wärme
+- Kompatibel seit 2008: Alle unsere Akkus passen innerhalb der jeweiligen Voltklasse in die neuen und die bereits vorhandenen Bosch Professional Werkzeuge.
 - Lieferumfang: GBA 18V 5.0Ah Akku, Schnellladegerät GAL 1880 CV
+- Schnellladegerät: Der 5.0 Ah Akku ist bereits nach 35 Minuten einsatzbereit (zu 80 % geladen)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B013WB43WY{{</world>}}

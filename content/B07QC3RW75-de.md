@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Montageart: Standard-Einbauspüle
-- Material: Quartzkomposit
 - Lieferumfang: Kompositspüle, Pflegeanleitung; Zubehör beiliegend: Exzenterbedienung, Ablaufgarnitur, Siebkorbventil, Montageset
+- Material: Quartzkomposit
 - Spüle links oder rechts einbaubar
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Funktionsparka mit abzippbarer Kapuze und Teddyfleece
 - 10.000 mm Wassersäule, verschweißte Nähte, 100% wasserdicht
+- Funktionsparka mit abzippbarer Kapuze und Teddyfleece
 - Taillenregulierung, 2-Wege-Reißverschluss
-- atmungsaktiv (3.000 g/m²/24 h), PFC-frei
 - Taschen mit Reißverschlüssen, praktische Handytasche
+- atmungsaktiv (3.000 g/m²/24 h), PFC-frei
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0952DGVP8{{</world>}}

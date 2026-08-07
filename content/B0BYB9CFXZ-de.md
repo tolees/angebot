@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Modell 9Twenty: gebogener Schirm, unstrukturierte Krone, Strapback-Verschluss
 - Besonderheit: Stick des Teamlogos vorne, Loop-Label mit Teamlogo hinten am Verschluss
 - Stylische Cap der Seattle Mariners von New Era
+- Modell 9Twenty: gebogener Schirm, unstrukturierte Krone, Strapback-Verschluss
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BYB9CFXZ{{</world>}}

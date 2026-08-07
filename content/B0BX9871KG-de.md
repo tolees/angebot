@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kompakt und praktisch: Die flache Mini-Tastatur ohne Nummernblock eignet sich ideal für mobiles Arbeiten und häufige Arbeitsplatzwechsel (inkl. Transporttasche aus recyceltem Kunststoff)
-- Präzise CHERRY SX-Scherenmechanik: Flache Tasten sowie besonders angenehmes und geräuscharmes Tippen sorgen für ein ideales Betätigungsgefühl und hohen Schreibkomfort
-- Ästhetisches Statement: Minimalistisches Design mit rot hinterlegten Tasten* macht die Minitastatur zum Hingucker in jedem Arbeitsumfeld (* Tastatur ist nicht hintergrundbeleuchtet)
 - Wiederaufladbar: Abnehmbares USB-A auf USB-C Kabel für Datenübertragung sowie Ladevorgang (Keyboard ist auch während des Betriebs aufladbar, Akku hält mehrere Wochen)
+- Präzise CHERRY SX-Scherenmechanik: Flache Tasten sowie besonders angenehmes und geräuscharmes Tippen sorgen für ein ideales Betätigungsgefühl und hohen Schreibkomfort
 - Kabellose Multi-Device-Tastatur mit 4 Übertragungskanälen für bis zur 4 Endgeräte: Zwei Bluetooth-Kanäle, ein 2,4 GHz Funk- und ein Kabelkanal (LEDs zeigen gewählte Verbindung an)
+- Ästhetisches Statement: Minimalistisches Design mit rot hinterlegten Tasten* macht die Minitastatur zum Hingucker in jedem Arbeitsumfeld (* Tastatur ist nicht hintergrundbeleuchtet)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BX9871KG{{</world>}}

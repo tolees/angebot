@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produkttyp: Halbschuhe,Halbschuhe,Low-Top Sneaker,Herrenschuhe,0
+- Weite: Normal (G 1/2), Verschluss: Schnürsenkel
 - Obermaterial: Kunstleder, Innenmaterial: Synthetik, Laufsohle: TR-Sohle, Decksohle: Leder
 - Absatztyp: Flach, Absatzhöhe: 2.5 cm
-- Weite: Normal (G 1/2), Verschluss: Schnürsenkel
+- Produkttyp: Halbschuhe,Halbschuhe,Low-Top Sneaker,Herrenschuhe,0
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07DY13NYF{{</world>}}

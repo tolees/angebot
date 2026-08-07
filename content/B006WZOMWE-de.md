@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aufprallschutz: Der Aufprallschutz aus geformtem thermoplastischem Gummi (TPR) erfüllt die Aufprallnorm EN 13594.
-- Die D3O-gepolsterte Handinnenfläche absorbiert hohe Schlagenergie durch die Handfläche und baut sie ab.
 - Vollständiger TPR-Stoßschutz, der dem Stoßschutzstandard EN 13594 entspricht.
 - Maschinenwaschbar: Wir empfehlen, unsere Kunstlederhandschuhe mit Haushaltswaschmittel und warmem Wasser zu waschen und an der Luft zu trocknen, um die langfristige Leistung zu erhalten.
+- Die D3O-gepolsterte Handinnenfläche absorbiert hohe Schlagenergie durch die Handfläche und baut sie ab.
 - Das atmungsaktive TrekDry hält Hände angenehm kühl.
+- Aufprallschutz: Der Aufprallschutz aus geformtem thermoplastischem Gummi (TPR) erfüllt die Aufprallnorm EN 13594.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B006WZOMWE{{</world>}}

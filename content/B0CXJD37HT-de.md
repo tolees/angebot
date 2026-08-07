@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- STRATEGIESPIEL MIT GEHEIMEN ROLLEN: Bei diesem kooperativen Spiel rund um Verrat und Täuschung nehmen die Spieler geheime Rollen an: Abenteurer, die zusammenarbeiten, um den einzig wahren Fluch zu besiegen − und ein Verräter, der sie sabotiert
+- ERSCHRECKENDE, FESSELNDE ERZÄHLUNG: Die Spieler treffen auf Flüche wie dem Pestdoktor und den Bestien des Waldes sowie größere und kleinere Omen, die in diesem eigenständigen Spiel Angst und Schrecken verbreiten
+- HORRORMÄSSIGES KARTENSPIEL: Betrayal Die verlorenen Seelen ist ein furchteinflößendes, an Tarot angelehntes Kartenspiel mit einer gruseligen Geschichte und schaurigen Bildern und Charakteren. Für 3 − 5 Spieler, ab 12 Jahren
 - MEHR ALS 90 PREMIUM-KARTEN IM TAROT-STIL: Karten in der Größe von Tarotkarten − inklusive 11 Foilkarten − mit gespenstischen, farbigen Illustrationen von Flüchen, Omen, alptraumhaften Gestalten und mächtigen Objekten
 - KANN SCHNELL ERLERNT UND GESPIELT WERDEN: Dieses strategische Kartenspiel ist leicht erlernbar und bietet ein vereinfachtes Spielprinzip für Neueinsteiger sowie Varianten für erfahrene Spieler. Einfach loslegen und in ca. 20 Minuten durchspielen
-- STRATEGIESPIEL MIT GEHEIMEN ROLLEN: Bei diesem kooperativen Spiel rund um Verrat und Täuschung nehmen die Spieler geheime Rollen an: Abenteurer, die zusammenarbeiten, um den einzig wahren Fluch zu besiegen − und ein Verräter, der sie sabotiert
-- HORRORMÄSSIGES KARTENSPIEL: Betrayal Die verlorenen Seelen ist ein furchteinflößendes, an Tarot angelehntes Kartenspiel mit einer gruseligen Geschichte und schaurigen Bildern und Charakteren. Für 3 − 5 Spieler, ab 12 Jahren
-- ERSCHRECKENDE, FESSELNDE ERZÄHLUNG: Die Spieler treffen auf Flüche wie dem Pestdoktor und den Bestien des Waldes sowie größere und kleinere Omen, die in diesem eigenständigen Spiel Angst und Schrecken verbreiten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CXJD37HT{{</world>}}

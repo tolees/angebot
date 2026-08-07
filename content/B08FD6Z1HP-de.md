@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Warmweißes Licht: Die dimmbare LED Beleuchtung mit einer Farbtemperatur von 2200 - 2700 Kelvin sorgt für eine besondere Wohlfühl-Atmosphäre in Küche, Wohn- oder Esszimmer
 - Lange Lebensdauer: Dank innovativer Technologie bietet das Leuchtmittel von Philips eine außergewöhnlich lange Lebensdauer von bis zu 15 Jahren oder 15.000 Stunden
-- Stufenlos dimmbar: Dank stufenloser Dimmbarkeit erzeugt der GU10 Spot von Philips einen wärmer werdenden Lichteffekt in den gemütlichen Tönen traditioneller Lampen
 - Mit EyeComfort: Dank des EyeComfort Siegels von Philips LED bietet der Spot komfortables Licht, das die Augen schont – für die richtige Beleuchtung in jeder Situation
-- Mit EyeComfort: Dank des EyeComfort Siegels von Philips LED bietet der Spot komfortables Licht, das die Augen schont – für die richtige Beleuchtung in jeder Situation
-- Warmweißes Licht: Die dimmbare LED Beleuchtung mit einer Farbtemperatur von 2200 - 2700 Kelvin sorgt für eine besondere Wohlfühl-Atmosphäre in Küche, Wohn- oder Esszimmer
 - Stufenlos dimmbar: Dank stufenloser Dimmbarkeit erzeugt der GU10 Spot von Philips einen wärmer werdenden Lichteffekt in den gemütlichen Tönen traditioneller Lampen
-- Warmweißes Licht: Die dimmbare LED Beleuchtung mit einer Farbtemperatur von 2200 - 2700 Kelvin sorgt für eine besondere Wohlfühl-Atmosphäre in Küche, Wohn- oder Esszimmer
 - Energiesparend und zuverlässig: Im Vergleich zu herkömmlichen Leuchtmitteln spart die Philips LED Lampe 90% Energie bei einer optimalen Lichtleistung
+- Stufenlos dimmbar: Dank stufenloser Dimmbarkeit erzeugt der GU10 Spot von Philips einen wärmer werdenden Lichteffekt in den gemütlichen Tönen traditioneller Lampen
+- Mit EyeComfort: Dank des EyeComfort Siegels von Philips LED bietet der Spot komfortables Licht, das die Augen schont – für die richtige Beleuchtung in jeder Situation
 - Lange Lebensdauer: Dank innovativer Technologie bietet das Leuchtmittel von Philips eine außergewöhnlich lange Lebensdauer von bis zu 15 Jahren oder 15.000 Stunden
+- Warmweißes Licht: Die dimmbare LED Beleuchtung mit einer Farbtemperatur von 2200 - 2700 Kelvin sorgt für eine besondere Wohlfühl-Atmosphäre in Küche, Wohn- oder Esszimmer
 - Energiesparend und zuverlässig: Im Vergleich zu herkömmlichen Leuchtmitteln spart die Philips LED Lampe 90% Energie bei einer optimalen Lichtleistung
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Optimale Handhabung - Die Oberfräse ist mit Ø8 mm und Ø6 mm Spannzangen zur Verwendung verschiedener Fräser ausgestattet, die per Spindelarretierung einfach gewechselt werden können.
-- Ausstattung - Die Fräse wird mit Parallelanschlag, Zirkelspitze, Führungsrolle und Werkzeug geliefert. Sie ist zudem ausgestattet mit einem Späneschild, LED-Licht und Absaugadapter.
-- PurePOWER Brushless - Der wartungsarme und kraftvolle Brushless-Motor sorgt für maximale Leistung bei längerer Laufzeit im Vergleich zu herkömmlichen Kohlebürstenmotoren.
-- Lieferung ohne Akku - Die Einhell Akku-Oberfräse TP-RO 18 Li BL-Solo wird ohne Power X-Change Akku und Ladegerät geliefert. Diese sind separat erhältlich.
 - Power X-Change - Die Akku-Oberfräse TP-RO 18 Li BL-Solo ist Teil der Einhell Power X-Change Familie, in der Akkus, Ladegeräte und Systemgeräte kombiniert werden können.
+- PurePOWER Brushless - Der wartungsarme und kraftvolle Brushless-Motor sorgt für maximale Leistung bei längerer Laufzeit im Vergleich zu herkömmlichen Kohlebürstenmotoren.
 - Flexibler Einsatz - Dank Drehzahl-Elektronik lässt sich die Motorleistung an das jeweilige Holz anpassen. Der Plastikschutz an der Basisplatte schützt das Werkstück vor Kratzern.
+- Ausstattung - Die Fräse wird mit Parallelanschlag, Zirkelspitze, Führungsrolle und Werkzeug geliefert. Sie ist zudem ausgestattet mit einem Späneschild, LED-Licht und Absaugadapter.
+- Lieferung ohne Akku - Die Einhell Akku-Oberfräse TP-RO 18 Li BL-Solo wird ohne Power X-Change Akku und Ladegerät geliefert. Diese sind separat erhältlich.
 - Präzise Frästiefen - Mit Hilfe des mehrstufigen Revolveranschlags, der Doppelrohrführung & des stufenlos einstellbaren Tiefenanschlags lässt sich die Frästiefe exakt bestimmen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

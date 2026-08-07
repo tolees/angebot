@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- UMMANTELTER GRIFF: Fass ihn an jeder beliebigen Stelle an damit du bequem schneiden kannst und jede Hecke aus einem bequemen Winkel angehen kannst
-- DREHBARER HINTERER GRIFF: Der Griff ist drehbar, so dass du die Heckenschere Ideal auf deine Bedürfnisse anpassen kannst und ohne verrenken Ober- und Seiten von Hecken schneiden kannst
-- Lieferumfang: 1 x WORX WX284E.9 Akku-Heckenschere, 1 x Klingenscheide
-- 60 CM LANGE SCHNEIDKLINGE MIT 27MM ZAHNABSTAND: Dank der langen Schneidklinge bist du in der Lage auch die Spitze der Büsche oder Bäume zu schneiden
 - LEICHT UND KOMPAKT: Das kompakte und leichte Design erleichtert dem Benutzer das Tragen und die Bedienung. Die Heckenschere WG284E.9 wiegt mit angeschlossenem Akku 4,3 kg
 - DOPPELT GEGENLÄUFIG ARBEITENDE KLINGEN: Die doppelt gegenläufig arbeitenden Klingen sorgen für einen doppelt so sauberen, doppelt so kraftvollen und doppelt so schnellen Schnitt
+- Lieferumfang: 1 x WORX WX284E.9 Akku-Heckenschere, 1 x Klingenscheide
+- DREHBARER HINTERER GRIFF: Der Griff ist drehbar, so dass du die Heckenschere Ideal auf deine Bedürfnisse anpassen kannst und ohne verrenken Ober- und Seiten von Hecken schneiden kannst
+- UMMANTELTER GRIFF: Fass ihn an jeder beliebigen Stelle an damit du bequem schneiden kannst und jede Hecke aus einem bequemen Winkel angehen kannst
+- 60 CM LANGE SCHNEIDKLINGE MIT 27MM ZAHNABSTAND: Dank der langen Schneidklinge bist du in der Lage auch die Spitze der Büsche oder Bäume zu schneiden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07H6Z4D7G{{</world>}}

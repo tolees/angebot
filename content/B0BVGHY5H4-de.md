@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- T-Shirt mit kurzen Ärmeln
 - Shorts mit elastischem Bund
+- T-Shirt mit kurzen Ärmeln
 - Zweiteiliges Set
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

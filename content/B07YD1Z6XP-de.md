@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Ergänzend zu der Schranke bietet Jamara die passenden Verkehrsschilder im 5-Teiligen Set an (Art. Nr. 460257 Set A und 460293 Set B) oder einen Blitzer (Art. Nr. 461850)
 - Stufenlos mechanisch kann der Schrankenwärter die Schranke von der waagerechten in die horizontale Stellung bringen und damit den Spielverkehr regeln
 - Der Dreiradverkehr im Wohnzimmer muss geregelt werden? Kein Problem im Handumdrehen ist die Schranke mit dem stabilen Standfuß aufgebaut und dem Einsatz steht nichts im Wege. Der Schlagbaum mit seiner typischen rot-weißen Farbe fällt sofort auf
-- Ergänzend zu der Schranke bietet Jamara die passenden Verkehrsschilder im 5-Teiligen Set an (Art. Nr. 460257 Set A und 460293 Set B) oder einen Blitzer (Art. Nr. 461850)
 - Gestalten Sie mit Ihrem Kind das Straßensystem nach, um ihm die Komplexität des Straßenverkehres Aktiv beizubringen
 - Hier kommt Spielspaß und Verkehrserziehung zusammen, also Start frei für das Rennen mit dem Rutschauto, dem Laufrad-Race im heimischen Vorgarten oder einfach mal nur so um das Kinderzimmer abzusperren
 

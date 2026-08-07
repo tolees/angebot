@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- RUHIGE PRODUKTIVITÄT – Es gibt nichts schlimmeres als Mitarbeitende, die laute Tippgeräusche machen. Deswegen sind diese Tastatur und Maus mit leisen (Maus-)Tasten ausgestattet
 - UNFÄLLE PASSIEREN – Ein schwerer Morgen und dann schütten Sie auch noch Kaffee auf die Tastatur. Keine Sorge, Ymo II ist spritzwassergeschützt, damit Ihnen kleine Unfälle nicht den Tag verderben
-- VÖLLIG UNGEBUNDEN – Ymo II ist kabellos und hat nur einen einzigen USB-Empfänger, der für Tastatur und Maus eine Funkreichweite von 10 m bietet. Maximale Bewegungsfreiheit daheim oder im Büro
 - MEISTERN SIE DIE MAUS – Klicken Sie sich mit der kompakten, beidhändig bedienbaren Maus den Weg zu einem produktiven Arbeitstag, dank der Geschwindigkeitswahltaste (800-1600 dpi) individuell anpassbar
 - 5-JAHRES-GARANTIE – Genießen Sie sorgenfreie Nutzung mit unserer 5-Jahres-Garantie. Dank unserer langlebigen Konstruktion und Qualität können Sie Ihre Produkte mit zusätzlichem Seelenfrieden genießen
+- VÖLLIG UNGEBUNDEN – Ymo II ist kabellos und hat nur einen einzigen USB-Empfänger, der für Tastatur und Maus eine Funkreichweite von 10 m bietet. Maximale Bewegungsfreiheit daheim oder im Büro
 - DIE KÖNIGIN DER TASTATUREN – Schwebende flache Tasten, ein originalgroßes QWERTZ-Layout und ein einstellbarer Winkel für bequemes Tippen, Ymo II ist aus gutem Grund die Königin der Tastaturen!
+- RUHIGE PRODUKTIVITÄT – Es gibt nichts schlimmeres als Mitarbeitende, die laute Tippgeräusche machen. Deswegen sind diese Tastatur und Maus mit leisen (Maus-)Tasten ausgestattet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CPM1TB52{{</world>}}

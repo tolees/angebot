@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - David (Rugged)
-- POP! Vinylfigur
 - Alien Covenant
+- POP! Vinylfigur
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B072DXTH3J{{</world>}}

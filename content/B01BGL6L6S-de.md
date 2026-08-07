@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Easy to carry, you can put it on a keychain
-- Very samll, very light
 - Upgraded high quality material, very strong
+- Easy to carry, you can put it on a keychain
 - Up to 120 decibel
+- Very samll, very light
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01BGL6L6S{{</world>}}

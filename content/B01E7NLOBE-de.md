@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LED Licht - für die Videoaufzeichnung oder bei schwacher Beleuchtung
 - Kabellose Aufnahmemöglichkeit - 4 Kanäle, 3 Gruppen
-- Bis zu 90° schwenkbar - Indirektes Blitzen für natürliche Aufnahmen mit weicher Ausleuchtung
-- Blitzgerät
 - Betriebstemperatur : 0 - 40 °C
+- LED Licht - für die Videoaufzeichnung oder bei schwacher Beleuchtung
+- Blitzgerät
+- Bis zu 90° schwenkbar - Indirektes Blitzen für natürliche Aufnahmen mit weicher Ausleuchtung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01E7NLOBE{{</world>}}

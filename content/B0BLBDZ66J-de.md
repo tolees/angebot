@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eine gleichermaßen irrsinnige und grandiose utopische Welt.
-- Deutsche Verpackung. Deutsche Anleitung. Deutsch spielbar.
-- Zerstöre gigantische Maschinen und vernichte Mutanten mit deinen Fähigkeiten und fortschrittlichen Waffen.
 - Instinktiv geführte, spektakuläre und unerbittlich harte Kämpfe.
+- Deutsche Verpackung. Deutsche Anleitung. Deutsch spielbar.
 - AT PEGI 18 UNCUT Edition. Kein USK Logo auf der Verpackung
+- Zerstöre gigantische Maschinen und vernichte Mutanten mit deinen Fähigkeiten und fortschrittlichen Waffen.
+- Eine gleichermaßen irrsinnige und grandiose utopische Welt.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BLBDZ66J{{</world>}}

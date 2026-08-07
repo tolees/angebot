@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Normale bis schmale Passform
 - Leichte, dünne TPU-Außensohle mit Stollen
 - GripControl-Beschichtung für die entscheidende Kontrolle über den Ball
+- Normale bis schmale Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D1YHS4T8{{</world>}}

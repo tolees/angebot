@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die Box mit praktischem Tragegriff enthält hochwertige und griffige Werkzeuge, die optimal an Kinderhände angepasst sind
-- Dazu gehören Hammer, Säge und Rollgabenschlüssel ebenso wie Nägel, Latten, Schrauben und Muttern
-- Besonders Highlight ist der Bosch Akkuschrauber mit rotierendem, auswechselbarem Bohrer/Schrauber und realistischen Sound- und Lichteffekten
 - Maße: 31 cm x 16,5 cm x 12,5 cm I Geeignet für Kinder ab drei Jahren I Benötigte Batterien: 3 x R6-AA - Nicht im Liegerumfang enthalten
+- Besonders Highlight ist der Bosch Akkuschrauber mit rotierendem, auswechselbarem Bohrer/Schrauber und realistischen Sound- und Lichteffekten
+- Dazu gehören Hammer, Säge und Rollgabenschlüssel ebenso wie Nägel, Latten, Schrauben und Muttern
 - Mit dem Werkzeugset schulen die kleinen Handwerker/-innen ihre Motorik, Kreativität und Fantasie und lernen sicher mit Werkzeug umzugehen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

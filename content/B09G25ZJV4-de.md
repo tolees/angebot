@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kraftvolle Notenkombination
 - Langanhaltender Duft
+- Kraftvolle Notenkombination
 - Einzigartiges Dufterlebnis
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Konisch geschnittene Tasche für 1 bis 3 Handwerkzeuge
 - Werkzeugtasche aus strapazierfähigem Polyestergewebe, mit Gürtelschlaufe
 - Ideal geformt für gewinkelte Elektrikerschere 95 05 20 SB
-- Mit Stifthalter
-- Konisch geschnittene Tasche für 1 bis 3 Handwerkzeuge
 - Passend auch für Universalmesser KNIPEX CutiX oder ähnlich schlanke Werkzeuge wie Elektro-Installationszange, KNIPEX TwinGrip Frontgreifzange, etc.
+- Mit Stifthalter
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BFJK9CDQ{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- einfarbige Herren Unterhosen im 3er Pack
 - Herren Unterhose mit einem breiten, elastischen Bund
+- einfarbige Herren Unterhosen im 3er Pack
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00WWPEJV2{{</world>}}

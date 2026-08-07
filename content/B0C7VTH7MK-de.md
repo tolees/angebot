@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Artikelnummer 168898C00-54
 - PANDORA Ring
+- Artikelnummer 168898C00-54
 - ANEL PANDORA, PRATA 925 Marke PANDORA
 
 [🛒 Hier!!]({{< param buyurl >}})

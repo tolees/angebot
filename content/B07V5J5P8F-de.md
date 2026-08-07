@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Haltungsverbessernd, Wasserabweisend und Rutschfest
-- Multifunktion für Alltag und nasses Wetter
 - Größenhinweis: Fällt regulär aus
+- Multifunktion für Alltag und nasses Wetter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07V5J5P8F{{</world>}}

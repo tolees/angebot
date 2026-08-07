@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kampagnenwelt für die 5te Edition des weltgrößten Rollenspiels
 - Niedliche Tiere nehmen dich mit in ihren verzauberten Wald
+- Kampagnenwelt für die 5te Edition des weltgrößten Rollenspiels
 - Erlebe Abenteuer als einer der Vogelschar, oder der Bodenschar.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

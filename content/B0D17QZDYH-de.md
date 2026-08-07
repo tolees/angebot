@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Laufsohle: 100% Gummi
-- Futter: 100 % recyceltes Polyester
-- Farbe: Weiß Natur
 - Obbermaterial: 90 % recyceltes Polyester - 10 % synthetisch (80 % TPU - 20 % PU)
+- Laufsohle: 100% Gummi
+- Farbe: Weiß Natur
+- Futter: 100 % recyceltes Polyester
 - Better Linings,Recycled Synthetics
 
 [🛒 Hier!!]({{< param buyurl >}})

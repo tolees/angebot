@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2 Hüfttaschen
-- schnelltrocknend, atmungsaktiv
 - Jack Wolfskin Logo
+- schnelltrocknend, atmungsaktiv
 - leichte Fleece-Jacke
 - bequemer Tragekomfort
+- 2 Hüfttaschen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C6Y1Q6XR{{</world>}}

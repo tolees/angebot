@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Paspeltaschen
-- Der Stretchanteil sorgt für guten Tragekomfort
 - Gut für einen lässigen Look
+- Der Stretchanteil sorgt für guten Tragekomfort
+- Paspeltaschen
 - Low Rise, schmale Oberschenkel, Beinenden
 - Mit konischer Beinform
 

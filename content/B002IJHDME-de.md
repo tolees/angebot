@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stromquellentyp: handbetrieben
 - Doppel-Vorteilspack
-- Effizient gegen fetthaltigen Schmutz und Flecken
-- Zitronenförmiger Mopkopf für bessere Erreichbarkeit der Ecken
-- Ersatzmop für SuperMocio Systeme
-- Mit Easy Click System für leichteres Auswechseln des Ersatzkopfes
 - mit Vliesstoff-Fasern für die Aufnahme von kleinsten Schmutzpartikeln
+- Mit Easy Click System für leichteres Auswechseln des Ersatzkopfes
+- Effizient gegen fetthaltigen Schmutz und Flecken
+- Ersatzmop für SuperMocio Systeme
+- Zitronenförmiger Mopkopf für bessere Erreichbarkeit der Ecken
+- Stromquellentyp: handbetrieben
 - mit 30% Mikrofaser für besonders starke Saugfähigkeit
 - Zusammensetzung: 50% Viskose, 30% PES Microfaser, 20 %Polypropylene
 

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- [Entwickelt für Kameraschutz]: Die Vollflächen-Schutzhülle mit maßgenauer Objektivaussparung gewährleistet maximalen Kameraschutz ohne Beeinträchtigung der Abbildungsqualität. Der 0,8 mm erhöhte Rand schützt die Handy Kameralinsen vor Kratzern
 - [Ltimative Sturzsicherheit]: Dieses Case für iPhone 11 aus stoßabsorbierendem TPU mit 4-Schicht-System und 360° Airbag reduziert Sturzschäden effektiv
 - [Ultradünnes Transluzentes Design]: Die mattierte Oberfläche bietet seidiges Gleitgefühl mit verbesserter Griffigkeit und reduziert deutlich sichtbare Fingerabdrücke. Das nur 1,27 mm dünne Ultraflachprofil bewahrt das elegante Design des Handy
-- [Entwickelt für Kameraschutz]: Die Vollflächen-Schutzhülle mit maßgenauer Objektivaussparung gewährleistet maximalen Kameraschutz ohne Beeinträchtigung der Abbildungsqualität. Der 0,8 mm erhöhte Rand schützt die Handy Kameralinsen vor Kratzern
 - [Kompatibilität & Professioneller Support]: Dieses TOCOL case nur für iPhone 11 6,1-Zoll. Bei Problemen einfach melden! Keine Sorge, wir bieten Ihnen umfassende Unterstützung und gewährleisten, dass Sie bei Bedarf rechtzeitig Reparatur oder Ersatz erhalten
 - [Eingebetteter Magnetring]: Magnetcase für iPhone 11 mit eingebettetem Magnetring, löst sich nie. 18N-Hohehaltekraft für alle Magnet-Zubehör. Hält selbst bei starken Bodenunebenheiten stabil im Autohalter
 

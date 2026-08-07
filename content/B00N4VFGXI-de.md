@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Optimale Anpassung an Kopfumfang und Kopfform durch das uvex 3D IAS 3.0 System inkl. Höhenverstellung
 - Aerodynamisches Belüftungs-Design mit 19 Lüftungskanälen
-- Hochwertige Helmpolster aus strukturiertem Material zur besseren Belüftung - herausnehmbar und waschbar
 - Das FAS-Gurtband lässt sich leicht und stufenlos exakt an die eigene Kopfform anpassen
 - Zusätzlicher Schutz des unteren Helmbereichs durch eine zweite PC-Schale
+- Hochwertige Helmpolster aus strukturiertem Material zur besseren Belüftung - herausnehmbar und waschbar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00N4VFGXI{{</world>}}

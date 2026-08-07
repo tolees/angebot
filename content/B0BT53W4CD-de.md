@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - löste zusammen mit Sailor Moon den Anime-Boom in Deutschland aus
+- der Ursprung der Dragonball-Saga
+- bekannt aus der langjährigen TV-Ausstrahlung auf RTL II
 - Evergreen-Manga bei Carlsen (bislang über 7 Mio verkaufte Bände)
 - Anime-Serie inkl. aller Ableger sowie Filme und Merch ebenfalls bei Crunchyroll erhältlich
-- bekannt aus der langjährigen TV-Ausstrahlung auf RTL II
-- der Ursprung der Dragonball-Saga
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BT53W4CD{{</world>}}

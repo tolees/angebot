@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang Amazon Edition: EasyAquatak 120, Hochdruckpistole, Terrassenreiniger 250, Waschbürste, Lanze, 5 m Hochdruckschlauch, Verstellbare Flachstrahldüse, Rotordüse, Hochdruck-Reinigungsmitteldüse, 450 ml, Wasserfilter
-- Kraftvolles Reinigen rund ums Haus: Der Strahlreiniger liefert 330 Liter Wasser pro Stunde dank leistungsstarkem 1500-Watt-Motor und 120 bar Druck
-- Vielseitige Reinigungsmöglichkeiten: Von hartnäckigem Schmutz bis zu alltäglichen Reinigungsaufgaben, da das Gerät mit einem großen Zubehörprogramm kompatibel ist
 - Die Easy Gartengeräte von Bosch – handliche Helfer für alle kleinen Projekte
+- Lieferumfang Amazon Edition: EasyAquatak 120, Hochdruckpistole, Terrassenreiniger 250, Waschbürste, Lanze, 5 m Hochdruckschlauch, Verstellbare Flachstrahldüse, Rotordüse, Hochdruck-Reinigungsmitteldüse, 450 ml, Wasserfilter
+- Vielseitige Reinigungsmöglichkeiten: Von hartnäckigem Schmutz bis zu alltäglichen Reinigungsaufgaben, da das Gerät mit einem großen Zubehörprogramm kompatibel ist
+- Kraftvolles Reinigen rund ums Haus: Der Strahlreiniger liefert 330 Liter Wasser pro Stunde dank leistungsstarkem 1500-Watt-Motor und 120 bar Druck
 - Platzsparend: Äußerst kompakte Aufbewahrung mit Schlauchbefestigung am Gerät
 - Einstellbare Reinigungsintensität: Sprüh- und Reinigungsintensität können effektiv an jede Aufgabe angepasst werden – von sanftem Abbrausen bis zum Entfernen von hartnäckigem Schmutz
 

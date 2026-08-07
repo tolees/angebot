@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Leistungsstark und präzise: Verfolgen Sie die Richtung, als ob Sie dank eines präzise reagierenden Sensors mit bis zu 26.000 DPI mit 650 IPS und maximaler 50G-Beschleunigung einen starken sechsten Sinn hätten.
-- Rutschfester Griff: Ein dedizierter Daumenkanal und haptische Griffzonen sorgen dafür, dass Sie die Kontrolle behalten. Ideal für Handgriffspiele wie RTS, RPG, MMO.
 - Asymmetrische Form: Das auf der rechten Hand ausgerichtete Design bietet rutschfeste Handunterstützung bei intensiven Kämpfen und langwierigen Aufgaben.
+- Rutschfester Griff: Ein dedizierter Daumenkanal und haptische Griffzonen sorgen dafür, dass Sie die Kontrolle behalten. Ideal für Handgriffspiele wie RTS, RPG, MMO.
 - Erlebe deine Gamingmarathons noch intensiver – mit den AlienFX-RGB-Beleuchtungszonen, die über das Alienware Command Center bis zu 16,8 Millionen Farben bieten.
 - Verbindungen ohne Kompromisse: Erleben Sie verzögerungsfreies, kabelgebundenes Gaming mit 1.000-Hz-Abfrage auf dem 2,4-GHz-USB-C-WLAN-Dongle und maximieren Sie den Signalempfang Ihrer Maus mit dem mitgelieferten Dongle-Extender.
 

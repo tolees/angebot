@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Verlängerung Funksignal-Reichweite: Zigbee Dimmer ermöglicht die Anbindung von Bosch Smart Home Geräten mit größerem räumlichem Abstand zum Controller (z.B. Keller)
+- Lieferumfang: 1x Dimmer, 1x Installationsanleitung (11 Sprachen)
+- Dimmer für LED Lampen: präzises Dimmen der Helligkeit für dimmbare LEDs von 5-120W, Halogen- und Glühlampen von 10-200W
+- Einfache Bedienung: Dimmschalter steuerbar direkt am angeschlossenen Taster, per Sprache (Amazon Alexa, Google Assistant, Siri), über individuelle Szenarien, Automationen, Zeitprogramme oder via App
 - Flexible Installation: Aktor Einbau hinter bestehendem Taster, in Verteilerdose oder für den Außenbereich mit wetterfesten Installationsdosen (z.B.IP66) vorgesehen
 - Maximaler Mehrwert im System: Zur Integration in das Bosch Smart Home System ist ein Bosch Smart Home Controller erforderlich
-- Lieferumfang: 1x Dimmer, 1x Installationsanleitung (11 Sprachen)
-- Einfache Bedienung: Dimmschalter steuerbar direkt am angeschlossenen Taster, per Sprache (Amazon Alexa, Google Assistant, Siri), über individuelle Szenarien, Automationen, Zeitprogramme oder via App
-- Verlängerung Funksignal-Reichweite: Zigbee Dimmer ermöglicht die Anbindung von Bosch Smart Home Geräten mit größerem räumlichem Abstand zum Controller (z.B. Keller)
-- Dimmer für LED Lampen: präzises Dimmen der Helligkeit für dimmbare LEDs von 5-120W, Halogen- und Glühlampen von 10-200W
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CCDLSTZF{{</world>}}

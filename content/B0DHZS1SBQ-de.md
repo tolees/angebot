@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Obermaterial aus Textil und Leder
+- Reguläre Passform
+- Textilfutter
 - Gummiaußensohle
 - Schnürsenkel
-- Textilfutter
-- Reguläre Passform
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DHZS1SBQ{{</world>}}

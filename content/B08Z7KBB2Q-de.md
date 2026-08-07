@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Individuell abgestimmte 40mm Treiber: Ausgestattet mit individuell abgestimmten 40-mm-Treibern sorgt das Razer Opus X für ein ausgewogenes Sound-Erlebnis mit klaren Höhen und Mitten und einem tiefen, satten Bass
 - Verbindung mit niedriger Latenz (60 MS): Der Gaming-Modus verbessert die kabellose Performance des Headsets beim Gaming oder beim Ansehen von Videos auf Bluetooth-Geräten und sorgt für beste Unterhaltung ohne störende Unterbrechungen
 - Integrierte Mikrofone: Mit internen Mikrofonen für Sprache sorgt das Razer Opus X bei Telefonkonferenzen und Gruppen-Chats dafür, dass alle perfekt zu verstehen sind —und die eigene Stimme mit perfekter Sprachqualität übermittelt wird
-- Individuell abgestimmte 40mm Treiber: Ausgestattet mit individuell abgestimmten 40-mm-Treibern sorgt das Razer Opus X für ein ausgewogenes Sound-Erlebnis mit klaren Höhen und Mitten und einem tiefen, satten Bass
 - Aktive Rauschunterdrückung (ANC): Abrocken zu den angesagtesten Beats, Filme ansehen oder Gaming genießen – die Aktive Rauschunterdrückung erkennt und beseitigt alle störenden Geräusche in der Umgebung
 - Bluetooth 5.0: Dank einer größeren Bandbreite und Reichweite sowie einem niedrigeren Energieverbrauch bietet Bluetooth 5.0 eine zuverlässige kabellose Verbindung, deren Energie-Effizienz die Akku-Laufzeit verlängert
 

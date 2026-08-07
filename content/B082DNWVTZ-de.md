@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bio: umweltschonende Produktion, gesicherte Qualität und reines gewissen. Natürliche Rohstoffe und Verarbeitung entlang der ganzen wertschöpfungskette
 - Alnatura: engagiert sich täglich dafür, dass mehr Lebensmittel aus biologischem Landbau Ihren Weg von den BIO-Höfen zu den Kunden finden
+- Bio: umweltschonende Produktion, gesicherte Qualität und reines gewissen. Natürliche Rohstoffe und Verarbeitung entlang der ganzen wertschöpfungskette
 - Tipp für Geniesser: aromatisch-nussige bio-flocken aus Buchweizen – glutenfrei und vielseitig zu verwenden: in Müslis und Süßspeisen, aber auch in pikanten Gerichten wie Suppen und Bratlingen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

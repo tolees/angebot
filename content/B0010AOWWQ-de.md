@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produktabmessungen: 38x26x34cm
-- Inhalt: 1 Stück
 - Farbe: schwarz
+- Inhalt: 1 Stück
 - Marke: KlickFix
+- Produktabmessungen: 38x26x34cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0010AOWWQ{{</world>}}

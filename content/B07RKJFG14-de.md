@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SICHER: Rutschfester Griff aus hochwertigem Aluminium
-- LEISTUNG: Pumpleistung bis zu 5, 5 Bar / 80 PSI
 - PRAKTISCH: Minipumpe inkl. Flickzeug im Griff: 2 Reifenheber, 3 selbstklebende Schnellflicken, 1 Aufrauer (ohne Vulkanisierlösung: leichte Handhabung, kein Schmutz)
 - SAUBER: Pumpe enthält eine Abdeckklappe gegen Schmutz
+- LEISTUNG: Pumpleistung bis zu 5, 5 Bar / 80 PSI
 - VIELSEITIG: Doppelkopf für alle gängigen Ventile: Dunlop, Auto, Sclaverand
+- SICHER: Rutschfester Griff aus hochwertigem Aluminium
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07RKJFG14{{</world>}}

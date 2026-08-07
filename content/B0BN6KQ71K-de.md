@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Nicht wasserfest
-- Schuhweite: Normale
 - Absatzform: Kein Absatz
+- Schuhweite: Normale
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BN6KQ71K{{</world>}}

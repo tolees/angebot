@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lieferumfang: 3x Smarte WLAN-Steckdose, 3x QR-Einrichtungscode zum Aufkleben, 1x Schnellstartanleitung
-- Leistungsstarke und platzsparende smarte Steckdose: einfache Installation mit QR Code, ohne Gateway, kompakte Bauform mit viel Power, für alle Geräte bis zu 3680 Watt geeignet wie z.B. leistungsintensive Strahler, Wachstumslampen
-- Steuerbare, schaltbare Steckdose: Zeitsteuerung von Lichterkette, Stehlampe, Fernseher etc. zu beliebigen Zeiten und Intervallen, appgesteuerter Zugriff auch von unterwegs oder per Sprachbefehl, ideal zum Stromsparen
-- Smarthome ganz einfach: ideal, um Wohnung oder Haus intelligent nachzurüsten oder auch für Menschen mit körperlichen Beeinträchtigungen, mit Hama Home App um beliebig viele Hama Smart Home Produkte erweiterbar
 - Intelligente Steckdose mit Smart-Home-Standard Matter: herstellerübergreifend in jede matterkompatible App einbinden, z.B, Apple Home, Google Home, Samsung SmartThings, Amazon Alexa, Home Assistant, Smart Life
+- Steuerbare, schaltbare Steckdose: Zeitsteuerung von Lichterkette, Stehlampe, Fernseher etc. zu beliebigen Zeiten und Intervallen, appgesteuerter Zugriff auch von unterwegs oder per Sprachbefehl, ideal zum Stromsparen
+- Leistungsstarke und platzsparende smarte Steckdose: einfache Installation mit QR Code, ohne Gateway, kompakte Bauform mit viel Power, für alle Geräte bis zu 3680 Watt geeignet wie z.B. leistungsintensive Strahler, Wachstumslampen
+- Smarthome ganz einfach: ideal, um Wohnung oder Haus intelligent nachzurüsten oder auch für Menschen mit körperlichen Beeinträchtigungen, mit Hama Home App um beliebig viele Hama Smart Home Produkte erweiterbar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DGLMVFYH{{</world>}}

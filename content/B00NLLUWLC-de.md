@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stil: Steppjacke
 - Steppjacke
+- Stil: Steppjacke
 - Stil: Steppjacke
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

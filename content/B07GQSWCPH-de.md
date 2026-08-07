@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leistungsstark und energiesparend: ：4 x 2W LED, maximale Lichtleistung von 600 Lumen. Stromversorgung durch 4 Batterien (nicht im Lieferumfang enthalten)
 - Lieferumfang: 1 x Außenleuchte mit Sensor & 12 Monate Garantie ohne Probleme & freundlicher Kundenservice & E-Mail-Antwort innerhalb von 24 Stunden
 - Einfache Installation：Kabellos, können Sie es überall anbringen, wo Sie möchten. Installationshöhe 2 ~ 3 m; Erkennungsabstand: 5 ~ 8m, die tatsächlichen Daten können sich von einer anderen Umgebung unterscheiden
 - Für alle Winkel geeignet: Die Sicherheitswandleuchte ist in einem Bereich von 360 Grad nach links und rechts und 120 Grad nach oben und unten einstellbar, um den am besten geeigneten Winkel für jede Umgebungen zu finden
+- Leistungsstark und energiesparend: ：4 x 2W LED, maximale Lichtleistung von 600 Lumen. Stromversorgung durch 4 Batterien (nicht im Lieferumfang enthalten)
 - Aktiverte Bewegungssensor: Intelligentes Lichtsteuerungssystem verfügt über einen reaktionsschnellen Bewegungssensor, der nur im Dunkel funktioniert. Es wird automatisch nach 20 Sekunden ausgeschaltet, wenn keine Bewegung erkannt wird
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langlebig
-- Flexible Gestaltung
-- Hält kühl und bequem
 - Bourjois Little Round Pot Oogschaduw - 16 Mauve La La!
 - Bringt Ihnen einen zusätzlichen Komfort
+- Flexible Gestaltung
+- Hält kühl und bequem
+- Langlebig
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B082XS1ZZ4{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nährstoffreich und besonders gut bekömmlich
 - Körner werden geschält und gedämpft
 - Beste Demeter-Qualität
+- Nährstoffreich und besonders gut bekömmlich
 - Bio-Qualität (Demeter)
 - Nussige Note
 

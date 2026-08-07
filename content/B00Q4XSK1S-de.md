@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- TRU-Infrared Grillsystem - gleichmäßige Hitze, bis zu 50% saftigeres Grillgut, bis zu 30% sparsamer im Verbrauch
+- Edelstahl Grillroste - Hohe Qualität und leicht zu reinigen
 - Surefire Elektronische Zündung - Anzünden aller Brenner per Knopfdruck - ganz ohne offene Flamme
 - Angetrieben durch eine Gaskartusche / Schraub-Ventilkartusche (7/16" EU); Tragbarer Einweg-Flüssig-Propan-Zylinder (separat erhältlich)
-- Edelstahl Grillroste - Hohe Qualität und leicht zu reinigen
-- TRU-Infrared Grillsystem - gleichmäßige Hitze, bis zu 50% saftigeres Grillgut, bis zu 30% sparsamer im Verbrauch
 - Edelstahl Brenner - starke, langlebige Brenner, die für die Ewigkeit gebaut wurden
 - Deckelthermometer - Kontrolle der Grilltemperatur leicht gemacht
 

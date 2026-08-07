@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'eufy Security eufyCam 2C überwachungskamera aussen 180Tage Akku HD 1080p IP67 wetterfest Nachtsicht Kompatibel mit HomeKit und Solar Panel überwachungskamera aussen set2+1 Gebührenfreie Nutzung'
-date: 2026-07-08 19:25:18
+title: 'eufyCam 2C Überwachungskamera Außen kompatibel mit HomeKit und Solarpanel'
+date: 2026-08-07 18:51:22
 image: 'https://m.media-amazon.com/images/I/21-RcBI1+oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07W4MY7HL-de eufy Security eufyCam 2C überwachungskamera aussen 180Tage...'
+slug: 'B07W4MY7HL-de eufyCam 2C Überwachungskamera Außen kompatibel mit HomeKit...'
 sku: 'B07W4MY7HL-de'
 tags: [ '🇩🇪', ]
 actualPrice: 135.0 EUR
 currency: EUR
 price: 135.0
 comparePrice: 169.99 EUR
-prodname: 'eufy Security eufyCam 2C überwachungskamera aussen 180Tage Akku HD 1080p IP67 wetterfest Nachtsicht Kompatibel mit HomeKit und Solar Panel überwachungskamera aussen set2+1 Gebührenfreie Nutzung'
+prodname: 'eufyCam 2C Überwachungskamera Außen kompatibel mit HomeKit und Solarpanel'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W4MY7HL/?tag=tolees0ca-21'
 descuento: '20.58'
-average: '151.780000000001'
+average: '149.682500000001'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - TAG UND NACHT: Unsere fortschrittliche Nachtsicht-Technologie garantiert, dass Ihr Zuhause tagsüber und vor allem nachts umfassend geschützt ist.
-- 180 TAGE AKKULAUFZEIT: Ihre Überwachungskamera aussen dient Ihnen nach einem Aufladen ein halbes Jahr lang.
 - FULL HD QUALITÄT: 1080p Auflösung stellt sicher, dass jede Aufnahme kristallklar aufgezeichnet wird. Das 135° Weitwinkelobjektiv garantiert eine glasklare Panoramaansicht - von der Garage bis zur Haustüre ist alles mit dabei. (HomeBase speichert alle Aufnahmen lokal und ohne Abonnement nutzbar.
+- 180 TAGE AKKULAUFZEIT: Ihre Überwachungskamera aussen dient Ihnen nach einem Aufladen ein halbes Jahr lang.
 - PERSONENERKENNUNG: Die eufyCam 2C erkennt Vögel, Hunde und Blätter im Wind und reduziert Fehlalarme deutlich, damit Sie nur im richtigen Moment alarmiert werden.
 - WETTERFEST: Dank der IP67-Wasserschutzklasse hält Ihre eufyCam 2C Überwachungskamera aussen so gut wie alles aus, Sommerhitze, Regen und sogar den deutschen Winter.
 

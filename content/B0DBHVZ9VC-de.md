@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Smartphone der Marke. Xiaomi
-- Maße: 18 x 4 x 8,5 cm
 - Wenn Sie Qualität zum besten Preis wollen, suchen Sie nicht weiter
 - Farbe: mehrfarbig
+- Maße: 18 x 4 x 8,5 cm
 - Referenz: S9198148
 
 [🛒 Hier!!]({{< param buyurl >}})

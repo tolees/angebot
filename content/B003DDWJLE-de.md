@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- verschiedene Formen und Größen
 - Feder-, Stern-, Haltescheiben
+- verschiedene Formen und Größen
 - im Sortimentskasten
 
 [🛒 Hier!!]({{< param buyurl >}})

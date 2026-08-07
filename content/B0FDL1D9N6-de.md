@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 3-in-1 Klimagerät: Kühlung, Ventilation, Entfeuchtung
-- Nachtmodus für besonders leisen Betrieb während des Schlafs
 - Integrierte Kondensatverdunstung
 - Umweltfreundliches Kältemittel R290
+- 3-in-1 Klimagerät: Kühlung, Ventilation, Entfeuchtung
+- Nachtmodus für besonders leisen Betrieb während des Schlafs
 - Speziell für den Einsatz in Wohnwagen und Wohnmobilen konzipiert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

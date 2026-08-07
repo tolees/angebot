@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Schnürsenkel und Klettverschluss
-- Mittlere Kragenhöhe
-- Synthetisches Obermaterial
 - PUMA Formstrip an der Innen- und Außenseite
+- Synthetisches Obermaterial
+- Mittlere Kragenhöhe
 - Obermaterial aus weichem Synthetik mit perforierten Details
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

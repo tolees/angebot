@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Glutenfrei, hoher Ballaststoffgehalt, ohne künstlichen Farb-, Aroma- oder Konservierungsstoffe, Koscher
-- Lieferumfang: BE-KIND Dark Chocolate Nuts & Sea Salt Snack-Riegel, 12 x 40g
-- Voller Geschmack, Keine Geheimnisse: Schokoriegel mit Mandeln als Hauptzutat und einem Nussanteil von 60 %, Außerdem mit Erdnüssen und Soja, Kann Milch und Spuren anderer Nüsse enthalten
 - Nährwertangaben: 209 Kalorien, 5,2 g Ballaststoffe, 9,6 g Kohlenhydrate, 6,8 g Eiweiß (pro 40 g Riegel)
+- Lieferumfang: BE-KIND Dark Chocolate Nuts & Sea Salt Snack-Riegel, 12 x 40g
+- Glutenfrei, hoher Ballaststoffgehalt, ohne künstlichen Farb-, Aroma- oder Konservierungsstoffe, Koscher
 - BE-KIND Dark Chocolate Nuts & Sea Salt Snack-Riegel: Köstliche dunkle Schokolade, knackige Nüsse und Salz für ein süßes und salziges Geschmackserlebnis. Perfekt für zu Hause, bei der Arbeit, im Fitnessstudio, in der Lunchbox oder für unterwegs
+- Voller Geschmack, Keine Geheimnisse: Schokoriegel mit Mandeln als Hauptzutat und einem Nussanteil von 60 %, Außerdem mit Erdnüssen und Soja, Kann Milch und Spuren anderer Nüsse enthalten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B086DVDWXT{{</world>}}

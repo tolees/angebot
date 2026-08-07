@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MATERIAL: Extrem sicheres Bügelschloss mit spezial gehärtetem U-Bügel. Kunststoffummantelter 16 mm dicker Bügel aus Stahl
 - SCHLÜSSEL: Zwei Schlüssel, davon ein Schlüssel mit Beleuchtung (Batterie im Lieferumfang enthalten 1 x CR1220)
-- SICHER: Extrem sicheres Bügelschloss, welches durch das Institut VdS (Vertrauen durch Sicherheit) als Zweiradschloss anerkannt wurde. Dieses Schloss wurde extremsten Prüfungen bzgl. der Aufbruchsicherheit erfolgreich unterzogen
 - SCHLOSSKÖRPER: Massiver Schlosskörper mit hochsicherem Spezialschließzylinder
+- MATERIAL: Extrem sicheres Bügelschloss mit spezial gehärtetem U-Bügel. Kunststoffummantelter 16 mm dicker Bügel aus Stahl
+- SICHER: Extrem sicheres Bügelschloss, welches durch das Institut VdS (Vertrauen durch Sicherheit) als Zweiradschloss anerkannt wurde. Dieses Schloss wurde extremsten Prüfungen bzgl. der Aufbruchsicherheit erfolgreich unterzogen
 - GRÖSSE: Länge: 19,5 cm, Ø: 16 mm, Bügelinnenmaß: 195 x 105 mm
 
 [🛒 Hier!!]({{< param buyurl >}})

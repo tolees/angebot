@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatzform: Kein Absatz
 - Innenmaterial: Synthetik
+- Absatzform: Kein Absatz
 - Sohle: Gummi
 
 [🛒 Hier!!]({{< param buyurl >}})

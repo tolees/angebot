@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Teste deine Reaktionen, Schnelligkeit ist der Schlüssel
+- Ab 8 Jahren
 - Füge ein weiteres Pack hinzu und 4 weitere Spieler können mitspielen
 - 2-4 Spieler
 - Ligretto ist schnell, macht Spaß und ist leicht zu erlernen
-- Ab 8 Jahren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B004TLFSAI{{</world>}}

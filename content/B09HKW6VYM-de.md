@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Grundfarbe: Schwarz
-- Material: Aluminium
 - Nicht dimmbar
 - Technologie: Energiesparlampe
+- Grundfarbe: Schwarz
+- Material: Aluminium
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09HKW6VYM{{</world>}}

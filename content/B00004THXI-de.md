@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lebendige Farben - mit den außergewöhnlichen, qualitativ sehr hochwertigen Aquarellfarben verleihen Sie Ihrem Kunstwerk noch mehr Lebhaftigkeit
-- Hochwertige Künstlerpigmente - für diese feinen Aquarellfarben werden hochwertige Pigmente in hoher Konzentration nach bewährten Rezepten eingesetzt
-- Großes Farbsortiment – die Wasserfarben für Einsteiger, Fortgeschrittene und Künstler in über 40 verschiedenen Farbtönen
 - Erstklassige Farbeigenschaften - die einzelnen Farbtöne sind perfekt untereinander mischbar und bieten eine große Nuancenvielfalt
 - Exzellente Leuchtkraft - die brillanten, transparenten und intensiven Aquarellfarben zeichnen sich durch eine hohe Farbstärke aus
+- Großes Farbsortiment – die Wasserfarben für Einsteiger, Fortgeschrittene und Künstler in über 40 verschiedenen Farbtönen
+- Hochwertige Künstlerpigmente - für diese feinen Aquarellfarben werden hochwertige Pigmente in hoher Konzentration nach bewährten Rezepten eingesetzt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00004THXI{{</world>}}

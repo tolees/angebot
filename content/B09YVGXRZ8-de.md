@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Conditioner
 - Einfache Anwendung
 - Pflegt und schützt die Haut
+- Conditioner
 - Dermatologisch getestet
 - Langanhaltende Wirkung
 

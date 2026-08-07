@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das gestickte Futura-Logo auf der Brust sorgt für einen unverkennbaren Nike Look
-- Das Nike T-Shirt sorgt mit einer klassischen Passform für ein vertrautes Tragegefühl
 - Die Silhouette mit klassischer T-Shirt-Passform liegt relaxt am Body und an der Hüfte
+- Das Nike T-Shirt sorgt mit einer klassischen Passform für ein vertrautes Tragegefühl
+- Das gestickte Futura-Logo auf der Brust sorgt für einen unverkennbaren Nike Look
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07WC7NFXR{{</world>}}

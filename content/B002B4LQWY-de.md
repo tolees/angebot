@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LSA Auflegewerkzeug - Einsetzbar für Auf- und Unterputzdosen
-- Kinderleichte Netzwerkverdrahtung
-- Standard nach EIA/TIA 568 B - für Netzwerk, DSL und ISDN
-- Abschneiden überstehender Kabelenden
 - Mit selbstschneidenden Kontakten
+- LSA Auflegewerkzeug - Einsetzbar für Auf- und Unterputzdosen
+- Abschneiden überstehender Kabelenden
+- Standard nach EIA/TIA 568 B - für Netzwerk, DSL und ISDN
+- Kinderleichte Netzwerkverdrahtung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B002B4LQWY{{</world>}}

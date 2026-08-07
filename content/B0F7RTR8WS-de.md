@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Verbesserungen der Barrierefreiheit — Neue Sprachausgaben und Sprachen sowie ein noch einfacherer Modus, der das Spiel noch familienfreundlicher macht.
+- Neue Musik von David Wise — Der legendäre Komponist kehrt zurück, um die Musik für Welt 8 mit einem exklusiven neuen Track zu komponieren.
+- Neue Welt & Modi — Erkunde die exklusive Neue Welt 8 mit frischen Herausforderungen, versteckten Schätzen und weiteren Überraschungen, die darauf warten, entdeckt zu werden. Durchlaufe den einfachen, normalen und einen brandneuen schweren Modus, um deine Fähigkeiten herauszufordern, und bringe ein Souls-ähnliches Erlebnis in das Plattform-Genre mit Herausforderungsmodifikatoren.
 - Verbesserte Grafiken & Performance — Erlebe Nikoderiko wie nie zuvor mit verbesserten Grafiken, optimierten Animationen und optimierter Leistung auf allen Plattformen.
 - Nahtloser Übergang — Aktualisiere einfach auf den Director’s Cut und behalte alle Spielstände und Fortschritte (ohne zusätzliche Kosten, wenn du das Originalspiel besitzt), und fordere dich selbst mit neuen Trophäen und Erfolgen heraus, die du verdienen kannst.
-- Neue Welt & Modi — Erkunde die exklusive Neue Welt 8 mit frischen Herausforderungen, versteckten Schätzen und weiteren Überraschungen, die darauf warten, entdeckt zu werden. Durchlaufe den einfachen, normalen und einen brandneuen schweren Modus, um deine Fähigkeiten herauszufordern, und bringe ein Souls-ähnliches Erlebnis in das Plattform-Genre mit Herausforderungsmodifikatoren.
-- Neue Musik von David Wise — Der legendäre Komponist kehrt zurück, um die Musik für Welt 8 mit einem exklusiven neuen Track zu komponieren.
-- Verbesserungen der Barrierefreiheit — Neue Sprachausgaben und Sprachen sowie ein noch einfacherer Modus, der das Spiel noch familienfreundlicher macht.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0F7RTR8WS{{</world>}}

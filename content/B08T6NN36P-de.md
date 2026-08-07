@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kragenfutter aus Stoff
-- Gestanzte EVA-Zwischensohle und -Einlegesohle
-- Obermaterial aus Leder
 - Laufsohle aus Gummi
+- Gestanzte EVA-Zwischensohle und -Einlegesohle
+- Kragenfutter aus Stoff
+- Obermaterial aus Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08T6NN36P{{</world>}}

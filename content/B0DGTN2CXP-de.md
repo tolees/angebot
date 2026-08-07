@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hält verschiedenen Wetterbedingungen stand
-- Einfache Handhabung
 - Geeignet für verschiedene Garten- und Rasenpflegeaufgaben
+- Einfache Handhabung
+- Hält verschiedenen Wetterbedingungen stand
 - 2 separat regelbare Edelstahlbrenner für direktes und indirektes Grillen
 - Leicht zu reinigen
 

@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - LIEFERUMFANG: 8,3 mm Kamerakopf (150 cm)
+- KAMERAKOPF: Der 1,5 m Kamerakopf ermöglicht die Inspektion von tiefer liegenden Objekten.
 - "AUTOUP" & „UP INDICATION“-FUNKTION: Unterstützt die Orientierungsfunktion "AutoUp" und "Up Indication"
 - INSPEKTION AN ENGEN STELLEN: Der 8,3 mm kleine Kamerakopf ermöglicht leichten Zugang zu engen Stellen.
 - KOMPATIBEL MIT: Inspektionskamera GIC 12V-5-27 C und GIC 12V-4-23 C
-- KAMERAKOPF: Der 1,5 m Kamerakopf ermöglicht die Inspektion von tiefer liegenden Objekten.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CVHHSBBW{{</world>}}

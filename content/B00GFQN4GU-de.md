@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Bitte prüfen Sie die Kompatibilität mit Ihrem Gerät anhand der Modellnummer (Format: x xxx xxx xxx)
+- Die Modellnummer finden Sie auf dem Typenschild Ihres Elektrowerkzeugs
+- Externe Absaugvorrichtung
 - Eine vollständige Liste der kompatiblen Modelle finden Sie in der Produktbeschreibung
 - Universalschlauchmuffe zum Anschluss von 19-mm-Entstaubungsschläuchen an Bosch Staubsauger
-- Die Modellnummer finden Sie auf dem Typenschild Ihres Elektrowerkzeugs
-- Bitte prüfen Sie die Kompatibilität mit Ihrem Gerät anhand der Modellnummer (Format: x xxx xxx xxx)
-- Externe Absaugvorrichtung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00GFQN4GU{{</world>}}

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Feuchtigkeitsregulierende Omni-WICK Technologie
+- Schweißaktivierter Kühlungseffekt Omni-FREEZE ZERO für mehr Frische
 - Ideal für Outdoor-Aktivitäten, Geeignet für jede Jahreszeit
 - Kurzarm-Shirt für Herren
-- Schweißaktivierter Kühlungseffekt Omni-FREEZE ZERO für mehr Frische
 - Lieferumfang: 1 x Columbia Kurzarm-Shirt für Herren, Zero Rules, Schwarz, L, 1533313
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

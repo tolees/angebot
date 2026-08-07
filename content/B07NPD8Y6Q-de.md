@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flexible Traktions-Laufsohle aus Gummi
-- Leichte, flexible, stoßdämpfende Zwischensohle
 - Weiches, flaches Mesh-Obermaterial mit Bungee-Schnürung vorne
+- Leichte, flexible, stoßdämpfende Zwischensohle
+- Flexible Traktions-Laufsohle aus Gummi
 - Sportliches Sneaker-Design zum Hineinschlüpfen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

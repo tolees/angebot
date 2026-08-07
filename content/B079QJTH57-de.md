@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Mesh-Details vermitteln ein Gefühl von Leichtigkeit
 - Kombination aus Synthetik und Stoff
 - Fersenhalt
-- Mesh-Details vermitteln ein Gefühl von Leichtigkeit
 - Elastischer Innenärmel und sockenähnliche Konstruktion
 
 [🛒 Hier!!]({{< param buyurl >}})

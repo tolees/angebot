@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Gehäusedicke 10,1 mm / Durchmesser des Gehäuses: 45 mm
 - Wasserabweisend bis 5 bar Sie kann beim Duschen oder Schwimmen getragen werden, jedoch nicht beim Tauchen.
-- Blaues Sonnenstrahlen-Zifferblatt
 - Quarz-Chronographwerk
+- Blaues Sonnenstrahlen-Zifferblatt
 - Zweifarbiges Edelstahl un Nelkengold-Gliederarmband mit IP-Beschichtung
 
 [🛒 Hier!!]({{< param buyurl >}})

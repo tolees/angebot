@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Komfortable Steuerung direkt am Gerät über den Taster, über die Homematic IP App, per Homematic IP Fernbedienung oder Funk-Wandtaster möglich.
+- Für den Betrieb ist eine Zentraler oder der Homematic IP Access Point 2 in Verbindung mit der App (Cloud-Service) notwendig
 - Schaltet angeschlossene Verbraucher wie z. B. Deckenleuchten und misst deren ohmsche Lasten. Einsatz in Kreuz- und Wechselschaltungen möglich.
 - Kompakte Bauform ermöglicht den Einbau in Standard-Unterputzdosen.
-- Für den Betrieb ist eine Zentraler oder der Homematic IP Access Point 2 in Verbindung mit der App (Cloud-Service) notwendig
+- Komfortable Steuerung direkt am Gerät über den Taster, über die Homematic IP App, per Homematic IP Fernbedienung oder Funk-Wandtaster möglich.
 - Mit entsprechendem Adapter in die gängigsten Designs führender Schalter-Hersteller integrierbar: Busch-Jaeger, Gira, Merten, Berker, Jung, Düwi, Kopp.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Atmungsaktiv
-- Feuchtigkeitsregulierend
 - Farbe:Puma White
+- Feuchtigkeitsregulierend
+- Atmungsaktiv
 - Schnelltrocknend
 
 [🛒 Hier!!]({{< param buyurl >}})

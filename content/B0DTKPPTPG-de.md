@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erweiterbar mit an der Oberseite montierter Lochwand und Schienensystem: Fügen Sie eine an der Oberseite montierte Lochwand (separat erhältlich) hinzu, um noch mehr Befestigungsmöglichkeiten für Ihr Zubehör zu haben. Wird mit einer eigenen Steckdosenleiste sowie Adaptern zur Befestigung von Elgato Multi-Mount- und Key Light-Produkten und anderem Lochwandzubehör geliefert
 - Aufbewahrungsfach in der Schreibtischplatte mit USB-Anschluss: Ein praktisches Fach mit einem integrierten Kabelmanagementsystem, das zum leichten Verlegen und Verbergen Ihrer Gerätekabel konzipiert wurde. Bewahren Sie Ihre kleinen Gegenstände sicher auf und laden Sie Ihre Geräte über die vielseitigen Ladeanschlüsse für USB Typ-A und Typ-C, welche alle praktisch unter einer leicht zugänglichen Abdeckung liegen, die geschlossen bündig abschließt
 - CORSAIR RapidRoute-Kabelwanne: Verbergen Sie Ihre Kabel in einer Wanne, die genügend Raum bietet, um alle Steckdosenleisten aufzunehmen und jede Menge Platz für Kabelbinder bietet
-- Monitorarm inbegriffen: Kompatibel mit Monitoren mit VESA-Halterung in den Größen 75 × 75 mm oder 100 × 100 mm mit einem Gewicht von bis zu 12,5 kg
 - Modulares T-Kanal-Schienensystem: Räumen Sie Ihren Arbeitsplatz mit unserem modularen System mit einer universellen Standard-Aluminium-T-Kanal-Querstange in Größe 3060, Seitenschienen und einer aufsatzmontierten Schiene auf, das Kompatibilität mit Hunderten nachgekaufter Zusatz- und Zubehörteile bietet. Mit seinem durchdachten Design, bei dem zukünftige Erweiterungen berücksichtigt wurden, kann der CORSAIR PLATFORM:4-Schreibtisch mit Ihnen wachsen
+- Erweiterbar mit an der Oberseite montierter Lochwand und Schienensystem: Fügen Sie eine an der Oberseite montierte Lochwand (separat erhältlich) hinzu, um noch mehr Befestigungsmöglichkeiten für Ihr Zubehör zu haben. Wird mit einer eigenen Steckdosenleiste sowie Adaptern zur Befestigung von Elgato Multi-Mount- und Key Light-Produkten und anderem Lochwandzubehör geliefert
+- Monitorarm inbegriffen: Kompatibel mit Monitoren mit VESA-Halterung in den Größen 75 × 75 mm oder 100 × 100 mm mit einem Gewicht von bis zu 12,5 kg
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DTKPPTPG{{</world>}}

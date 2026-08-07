@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- reduziert den Rußausstoß
 - gewährleistet optimale Verbrennung
 - schützt den Dieselpartikelfilter
-- für Kurzstrecken- und Stadtfahrzeuge besonders geeignet
 - Regenerationshilfe für Dieselpartikelfilter
-- reduziert den Rußausstoß
+- für Kurzstrecken- und Stadtfahrzeuge besonders geeignet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B009KIEMX4{{</world>}}

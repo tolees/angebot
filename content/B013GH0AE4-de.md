@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 9 farbige Aufsteckkämme für eine einfache Längeneinstellung (1,5-25 mm), Netzbetrieb
+- Schere, Kamm, Reinigungsbürste und Nackenhaarbürste inklusive
 - Qualitativ hochwertige, selbstschärfende Edelstahlklingen, 0,5 mm Präzisionsklinge
 - Klingeneinstellhebel für ein exaktes Einstellen der Schneidklinge
-- Schere, Kamm, Reinigungsbürste und Nackenhaarbürste inklusive
 - 2 Aufsteckkämme zum einfachen Schneiden der Seiten, Gummierter Griff
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

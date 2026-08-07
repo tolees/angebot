@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Für Ihre Kaffeekaiser
 - Dallmayr Spitzenqualität in der aromageschützten Kapsel
 - Markenzeichen eines Unternehmens das nicht in Verbindung steht mit: Alois Dallmayr Kaffee OHG
-- Für Ihre Kaffeekaiser
 - Bedenkenloser genuss Ihres Kaffees
 - Für Ihre Nespresso Maschine
 

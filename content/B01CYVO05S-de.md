@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zusätzlich haben die Rahmen Ösen zum Aufhängen für Bilder im Hoch- und Querformat
 - Bis Format 20x30 cm sind die Rahmen mit einem Aufsteller ausgestattet
+- Zusätzlich haben die Rahmen Ösen zum Aufhängen für Bilder im Hoch- und Querformat
 - Aufgrund der erhöhten Bruchgefahr (Glas) werden die Rahmen professionell verpackt, damit diese optimal vor Beschädigungen während des Transportes geschützt werden.
 - Das Bild dient nur zu Darstellungszwecken. Bitte beziehen Sie sich auf den Titel für die Größe
 - Die Bilderrahmen Grado haben ein 2,8 cm breites Profil aus Holz mit einer gerillten Oberfläche

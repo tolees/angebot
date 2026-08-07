@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Offizielles Ford-Lizenzprodukt: transparentes Funktionsmodell des Motorblocks aus dem Jahr 1965, dem Maßstab 1:4 entsprechend, ca. 26,5 x 19,4 x 27 cm groß - erleben Sie den Motor des Pony Cars
 - Exklusives Zubehör: ausführliche Anleitung und umfassendes, exklusives Handbuch mit vielen spannenden Infos zu Geschichte und Technik, Podest mit beschriftetem Label zum Aufstellen
 - Liebevolle Details: transparenter Motorblock für einen spannenden Blick ins Innere - Kurbelwelle, Kolben und Zylinder bewegen sich detailgetreu, LEDs simulieren die Zündfunken in den Zylindern
+- Offizielles Ford-Lizenzprodukt: transparentes Funktionsmodell des Motorblocks aus dem Jahr 1965, dem Maßstab 1:4 entsprechend, ca. 26,5 x 19,4 x 27 cm groß - erleben Sie den Motor des Pony Cars
 - Beeindruckende Effekte: integriertes Soundmodul mit Original-Motorsound lässt das Motorenmodell auf Knopfdruck lebendig werden, detailreiche Gestaltung mit herausnehmbarem Ölmessstab und beweglichen Elementen
 - Originalgetreues Funktionsmodell: der hochwertige Bausatz mit 200 Komponenten aus Kunststoff zum Schrauben und Stecken sorgt für ein angenehmes Modellbauerlebnis – Montage in ca. 3 Stunden, ganz ohne Kleben
 

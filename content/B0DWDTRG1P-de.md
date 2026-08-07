@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Modell mit Akku: Der Akku wird per USB-C-Kabel (nicht enthalten) aufgeladen; so bleibt das LEGO Spielzeugauto jederzeit einsatzbereit
-- Faszinierende Details und Funktionen: Das Automodell kann vorwärts und rückwärts fahren; die leuchtenden Scheinwerfer sorgen für besondere Effekte bei Dunkelheit
-- Geschenk für Autofans: Dieses Bauset ist eine schöne Geschenkidee für Kinder ab 10 Jahren; besonders für alle, die ferngesteuerte Spielzeugautos mögen
-- Faszinierendes Bauerlebnis: Die LEGO Builder App unterstützt beim Bauen; Kinder können Sets speichern, den Baufortschritt verfolgen und 3D-Modelle vergrößern und drehen
+- MINT-Bauspielzeug für Kinder: Der LEGO Technic Lamborghini Revuelto Supersportwagen ist ein spannendes Projekt für Jungen und Mädchen ab 10 Jahren; ein ferngesteuertes Auto zum Bauen und Spielen
 - Ferngesteuerter Lamborghini: Dieses Lamborghini Spielzeugauto wird per CONTROL+ App gesteuert; Kinder können lenken, Lichter ein- und ausschalten und Fahrdaten in Echtzeit abrufen
 - Einführung in die Welt der Technik: LEGO Technic Bausets zeigen mechanische Abläufe und Bewegungen auf anschauliche Weise; so entdecken Kinder spielerisch technische Zusammenhänge
-- MINT-Bauspielzeug für Kinder: Der LEGO Technic Lamborghini Revuelto Supersportwagen ist ein spannendes Projekt für Jungen und Mädchen ab 10 Jahren; ein ferngesteuertes Auto zum Bauen und Spielen
+- Faszinierende Details und Funktionen: Das Automodell kann vorwärts und rückwärts fahren; die leuchtenden Scheinwerfer sorgen für besondere Effekte bei Dunkelheit
+- Faszinierendes Bauerlebnis: Die LEGO Builder App unterstützt beim Bauen; Kinder können Sets speichern, den Baufortschritt verfolgen und 3D-Modelle vergrößern und drehen
+- Modell mit Akku: Der Akku wird per USB-C-Kabel (nicht enthalten) aufgeladen; so bleibt das LEGO Spielzeugauto jederzeit einsatzbereit
+- Geschenk für Autofans: Dieses Bauset ist eine schöne Geschenkidee für Kinder ab 10 Jahren; besonders für alle, die ferngesteuerte Spielzeugautos mögen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DWDTRG1P{{</world>}}

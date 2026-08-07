@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthält bewegliche kleine Puppen (ca. 9 cm) von Arielle, Tiana, Belle, Jasmin und Rapunzel. Die Puppen tragen abnehmbare Röcke oder Hosen mit unverkennbarem Freundschaftsmuster.
-- Außerdem enthält das Set fünf Freundefiguren, die einer Prinzessin zugeordnet sind: Fabius (Arielle), Ray (Tiana), Chip (Belle), Rajah (Jasmin) und Pascal (Rapunzel)!
 - Ein perfektes Geschenk für Kinder, um damit Geschichten aus ihren Lieblingsfilmen von Disney nachzuspielen oder sich eigene magische Geschichten auszudenken!
+- Außerdem enthält das Set fünf Freundefiguren, die einer Prinzessin zugeordnet sind: Fabius (Arielle), Ray (Tiana), Chip (Belle), Rajah (Jasmin) und Pascal (Rapunzel)!
+- Enthält bewegliche kleine Puppen (ca. 9 cm) von Arielle, Tiana, Belle, Jasmin und Rapunzel. Die Puppen tragen abnehmbare Röcke oder Hosen mit unverkennbarem Freundschaftsmuster.
 - Das niedliche Set aus 5 kleinen Disney Princess-Puppen und 5 Freundefiguren inspiriert zu tollen Geschichten im Disney-Stil!
 - Fans können alle kleinen Disney Princess-Puppen und -Spielsets sammeln und noch mehr Abenteuer erleben! Alle Artikel separat erhältlich.
 

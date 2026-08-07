@@ -31,8 +31,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - Unter Schutzatmosphäre verpackt
 - Kleine Kinder können an Nüssen ersticken
 - Aufgrund des Herstellungsverfahrens nicht für andere Nuss- und Erdnuss-Allergiker geeignet
-- Kann vereinzelt Schalenteile enthalten
 - Hoher Ballaststoffgehalt
+- Kann vereinzelt Schalenteile enthalten
 - Für vegetarische und vegane Ernährung geeignet
 - Die folgenden Informationen gelten für jede Einheit pro Packung
 

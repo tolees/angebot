@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- I-SIZE R129 ZERTIFIZIERT: Die Kindersitzerhöhung entspricht dem neuesten europäischen Sicherheitsstandard ECE R129 i-Size und ist für Kinder mit einer Körpergröße von 125–150 cm (ca. 6–12 Jahre) zugelassen – für maximale Sicherheit auf jeder Fahrt.
-- WASCHBARER BEZUG & PFLEGELEICHT: Der Bezug lässt sich leicht abnehmen und reinigen – für dauerhaft hygienische Nutzung und frisches Aussehen der Sitzerhöhung.
-- BREITE, KOMFORTABLE SITZFLÄCHE: Extra breiter Sitz mit weicher EPE-Schaumpolsterung sorgt für hohen Sitzkomfort – auch auf längeren Fahrten. Ideal für wachsende Kinder im Alltag und auf Reisen.
-- ERGONOMISCHE ARMLEHNEN & GURTFÜHRUNG: Die integrierten Armlehnen erhöhen den Komfort und halten den Sicherheitsgurt in der richtigen Position – für eine sichere und angenehme Sitzhaltung.
 - LEICHT & UNIVERSELL EINSETZBAR: Der Einbau erfolgt einfach mit dem 3-Punkt-Autogurt und passt in nahezu jedes Fahrzeug. Das geringe Eigengewicht erleichtert den schnellen Wechsel zwischen verschiedenen Autos.
+- I-SIZE R129 ZERTIFIZIERT: Die Kindersitzerhöhung entspricht dem neuesten europäischen Sicherheitsstandard ECE R129 i-Size und ist für Kinder mit einer Körpergröße von 125–150 cm (ca. 6–12 Jahre) zugelassen – für maximale Sicherheit auf jeder Fahrt.
+- BREITE, KOMFORTABLE SITZFLÄCHE: Extra breiter Sitz mit weicher EPE-Schaumpolsterung sorgt für hohen Sitzkomfort – auch auf längeren Fahrten. Ideal für wachsende Kinder im Alltag und auf Reisen.
+- WASCHBARER BEZUG & PFLEGELEICHT: Der Bezug lässt sich leicht abnehmen und reinigen – für dauerhaft hygienische Nutzung und frisches Aussehen der Sitzerhöhung.
+- ERGONOMISCHE ARMLEHNEN & GURTFÜHRUNG: Die integrierten Armlehnen erhöhen den Komfort und halten den Sicherheitsgurt in der richtigen Position – für eine sichere und angenehme Sitzhaltung.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D672VZD3{{</world>}}

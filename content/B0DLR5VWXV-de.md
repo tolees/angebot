@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Brusttaschen mit Klettverschluss
 - Innenliegende Schlaufe für Schließfach
+- Brusttaschen mit Klettverschluss
 - Verstellbarer Saum mit Kordelzug
 - Eingrifftaschen mit Druckknopfverschluss.
 

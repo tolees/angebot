@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Abriebfeste Gummiaußensohle
-- Obermaterial und Zunge aus Synthetik mit Synthetiküberzügen
 - Flache Laufsilhouette
 - EVA-Zwischensohle
+- Abriebfeste Gummiaußensohle
+- Obermaterial und Zunge aus Synthetik mit Synthetiküberzügen
 - Mesh-Futter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

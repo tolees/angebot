@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MAXIMALE SICHERHEIT: Kein Aufhebeln möglich durch die schwenkbaren Glieder des Fahrradschlosses; schnelles Verriegeln per Druckknopf
-- ZERTIFIZIERT: Silver Sold Secure, Secured by Design (SBD) polizeilich zugelassen
 - LANGLEBIGES DESIGN: Das Fahrradschloss hat eine gehärtete, laminierte Stahlkonstruktion mit neun gehärteten Drehgliedern, die praktisch nicht durchgeschnitten werden können.
 - SCHLOSSANWENDUNG: Für den Innen- und Außenbereich; die Manschetten eignen sich am besten für E-Roller und Fahrräder, z.B. an Parkuhren und Zaunpfosten
+- MAXIMALE SICHERHEIT: Kein Aufhebeln möglich durch die schwenkbaren Glieder des Fahrradschlosses; schnelles Verriegeln per Druckknopf
 - ABMESSUNGEN: 7,6 cm Durchmesser & 55 cm Länge; Gewicht: 1,6 kg; passt in kleine Taschen und Rucksäcke
+- ZERTIFIZIERT: Silver Sold Secure, Secured by Design (SBD) polizeilich zugelassen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000XRQ8UG{{</world>}}

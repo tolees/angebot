@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Laufsohle: 80 % vulkanisiertes Gummi - 20 % recyceltes Gummi
-- Better Leather,Better Outsoles
 - Futter: 87 % Schweinsleder 10 % Stoff (84% recyceltes Polyester - 16% Latex) 3 % Schweinsleder
 - Obbermaterial: 85 % Kuhleder 15 % Stoff (84% recyceltes Polyester - 16% Latex)
+- Better Leather,Better Outsoles
 - Farbe: Dunkelgrau
+- Laufsohle: 80 % vulkanisiertes Gummi - 20 % recyceltes Gummi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CRBLHFDC{{</world>}}

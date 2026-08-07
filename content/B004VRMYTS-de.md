@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marke: BGS Do it yourself
 - Beste Qualität
-- Modellnummer: 93-1
 - Original BGS Parallel-Abzieher, 2-armig | 50 - 140 mm
+- Marke: BGS Do it yourself
+- Modellnummer: 93-1
 - Hochwertige Produkte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

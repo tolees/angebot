@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- HARRY POTTER GESCHENK FÜR JUNGEN UND MÄDCHEN: Dieses LEGO Modell ist ein zauberhaftes Geburtstagsgeschenk für Teenager und Fans ab 12 Jahren
-- LEGO HARRY POTTER SPIELZEUG AB 12 JAHREN: Hogwarts Hauswappen lässt dich eine magische Hommage an die Häuser Gryffindor, Hufflepuff, Ravenclaw und Slytherin erschaffen
+- MODELLBAU ZUM AUSSTELLEN: Stell das Wappen auf dem Ständer aus und befestige das Banner mit dem Hogwarts Motto, um eine spektakuläre DIY Deko zu erschaffen
 - BASTELSET MIT AUTHENTISCHEN DETAILS: Baue das Wappen mit detailreichen LEGO Nachbildungen der Wappentiere von Gryffindor, Slytherin, Hufflepuff und Ravenclaw
 - VERSTECKTE GEHEIMNISSE: In Geheimfächern des Bausets verbergen sich Gryffindors Schwert, Hufflepuffs Trinkpokal, Ravenclaws Diadem und Slytherins Medaillon, mit Platz für weitere Objekte
 - MAGISCHE HARRY POTTER FANARTIKEL ZUM SAMMELN: Die separat erhältlichen LEGO Sets lassen Fans legendäre Szenen nachspielen, eigene Geschichten darstellen und die detailreichen Modelle ausstellen
+- LEGO HARRY POTTER SPIELZEUG AB 12 JAHREN: Hogwarts Hauswappen lässt dich eine magische Hommage an die Häuser Gryffindor, Hufflepuff, Ravenclaw und Slytherin erschaffen
+- HARRY POTTER GESCHENK FÜR JUNGEN UND MÄDCHEN: Dieses LEGO Modell ist ein zauberhaftes Geburtstagsgeschenk für Teenager und Fans ab 12 Jahren
 - DIGITALE ANLEITUNGEN: Mit der LEGO Builder App 3D Modelle drehen, zoomen, Fortschritt ansehen und speichern für ein interaktives Bauerlebnis
-- MODELLBAU ZUM AUSSTELLEN: Stell das Wappen auf dem Ständer aus und befestige das Banner mit dem Hogwarts Motto, um eine spektakuläre DIY Deko zu erschaffen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FPXDT4CG{{</world>}}

@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - BV6855
-- Nike Herren Shorts Dry Park III, Black/White, L, BV6855-010
 - Zubehör
+- Nike Herren Shorts Dry Park III, Black/White, L, BV6855-010
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07W6YJ9CB{{</world>}}

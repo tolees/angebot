@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Min. Aufladung: Über 300 Stunden mit AA-Batterie oder unbegrenzte Batterielaufzeit mit POWERPLAY, sodass du dich auf das Spiel konzentrieren kannst, nicht auf die Batterielebensdauer
+- Max. Kontrolle: Bis zu 6 programmierbare Tasten für individuelles Gameplay und benutzerdefinierte Tastenkombinationen
+- Was ist in der Box? G309 LIGHTSPEED Maus, LIGHTSPEED Empfänger, Verlängerungskabel für Empfänger, Batterie vom Typ AA, Griffstreifen, Bedienungsanleitung
 - Max. Geschwindigkeit: Optisch-mechanische LIGHTFORCE-Schalter mit optischer Geschwindigkeit, mechanischem Gefühl und optimierter Gaming-Leistung
 - Max. Präzision: Der HERO 25K-Sensor dieser kabellosen Gaming-Maus führt eine präzise Abtastung im Submikrometerbereich ohne Glättung für präzises kabelloses Gaming
 - Min. Gewicht: Logitech G309 LIGHTSPEED ist eine leichte Gaming-Maus, die mit der mitgelieferten AA-Batterie nur 86 g oder mit dem kabellosen POWERPLAY-Ladesystem 68 g (batterielos) wiegt
-- Max. Kontrolle: Bis zu 6 programmierbare Tasten für individuelles Gameplay und benutzerdefinierte Tastenkombinationen
-- Was ist in der Box? G309 LIGHTSPEED Maus, LIGHTSPEED Empfänger, Verlängerungskabel für Empfänger, Batterie vom Typ AA, Griffstreifen, Bedienungsanleitung
 - Max. Wiedergabezeit: Wechsle mit dieser kabellosen Gaming-Maus zwischen der robusten, aber dennoch latenzarmen LIGHTSPEED-Funk- und Bluetooth-Konnektivität für absolute kabellose Flexibilität
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stapelhöhe/Aero-Sitz-Drop: Niedrig werden und fliegen – das integrierte Design von Speedplay Aero verringert den Luftwiderstand weiter, indem die Systemstapelhöhe reduziert wird, sodass Sie Ihren Sattel senken und Ihre aerodynamische Position maximieren können.
 - 3-Achsen-Verstellbarkeit – individuelle Passform. Spitzenleistung: Speedplay ist das einzige Pedalsystem, das unabhängige Vorwärts-, Links-Rechts- und Schwimmer-Einstellbarkeit bietet, um die Passform zu optimieren und die Leistung durch bessere Biomechanik zu verbessern.
+- Stapelhöhe/Aero-Sitz-Drop: Niedrig werden und fliegen – das integrierte Design von Speedplay Aero verringert den Luftwiderstand weiter, indem die Systemstapelhöhe reduziert wird, sodass Sie Ihren Sattel senken und Ihre aerodynamische Position maximieren können.
 - Aerodynamisches Pedalsystem – Das stromlinienförmige Speedplay Aero trotzt Wind, steigert die Geschwindigkeit und erzielt Ergebnisse.
 - Aero-Profil, freie Geschwindigkeit: Der Speedplay Aero mit Noppen lässt sich nahtlos in die aerodynamische Stollen integrieren, um ein stromlinienförmiges Profil zu schaffen, das dem Wind trotzt und Ihr Training mit erhöhter Fahrradgeschwindigkeit belohnt.
 

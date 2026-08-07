@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Baumwolle
+- elastisch
 - Pullover
 - bequem
-- Baumwolle
 - weich
-- elastisch
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07CG3QSWQ{{</world>}}

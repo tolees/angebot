@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marke: Disney Baby
 - Produkttyp: Physischer Film
+- Marke: Disney Baby
 - Shang Chi And The Legend Of The Ten Rings
 
 [🛒 Hier!!]({{< param buyurl >}})

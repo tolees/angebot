@@ -31,8 +31,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - Nachfüllmine u.a. für Pentel Produkte BL57, BL77, BL107, BL407 und BL117
 - die besonders weich schreibende Gel-Tinte trocknet schnell und überzeugt mit ihrem unvergleichbar leichtem Schreibgefühl
 - Lieferumfang: 12 Minen, einzeln verpackt
-- ausgestattet mit einer Metallspitze in 0,35mm Strichstärke und Schreibfarbe orange
 - Pentel Nachfüllmine Standard für EnerGel-Tintenroller mit 0,35mm Strichstärke (Strichstärke entspricht Kugelspitze 0.7mm (wie auf der Verpackung angegeben))
+- ausgestattet mit einer Metallspitze in 0,35mm Strichstärke und Schreibfarbe orange
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00E3XXIFE{{</world>}}

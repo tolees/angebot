@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfachen Clip-Installation auf beliebiger Ebene - Bringe die Teleskopschienen mit wenigen Handgriffen auf der gewünschten Einschubebene an den bereits im Backofen vorhandenen Einhängegittern an und genieße den Komfort
+- Einhängegitter und Rost nicht im Lieferumfang enthalten
+- Produktmaße H x B x T (cm): 4,2 x 38,3 x 1,4
 - Im Lieferumfang - 3 Paar FlexiRunners Vollauszüge für drei Ebenen; Anzubringen an vorhandenen Einhängegittern im Backofen; Geeignet für AEG Dampfbacköfen der Serien 8000-9000
 - Bleche einfach und sicher herausziehen - Ziehe das Blech bequem vollständig heraus und verfeinere dein Gericht, ohne das Blech festhalten zu müssen; Der Sicherheitsstopp verhindert, dass das Blech nach vorne kippt oder herausrutscht
-- Produktmaße H x B x T (cm): 4,2 x 38,3 x 1,4
-- Einhängegitter und Rost nicht im Lieferumfang enthalten
+- Einfachen Clip-Installation auf beliebiger Ebene - Bringe die Teleskopschienen mit wenigen Handgriffen auf der gewünschten Einschubebene an den bereits im Backofen vorhandenen Einhängegittern an und genieße den Komfort
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B005GXAE4I{{</world>}}

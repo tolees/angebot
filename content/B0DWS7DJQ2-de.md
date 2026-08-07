@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BEEINDRUCKT AUF HELLEN & DUNKLEN OBERFLÄCHEN: Hinterlässt auf Metall, Holz, Keramik, Glas, Stein, Leinwand und mehr einen guten Eindruck
-- Enthält 6 wasserbasierte Malstifte in Grün-Tinte
-- KOMBINIEREN OHNE DURCHDRINGEN: Verleiht Ihren Arbeiten Tiefe mit Farben, die wunderschön miteinander kombinieren werden können, ohne zu verwischen
-- KEIN SCHÜTTELN MEHR: Kräftiges, lackartiges Finish, ohne lästiges Grundieren – einfach Deckel ab und los geht‘s (am Besten bewahren Sie die Marker horizontal auf)
 - LACKARTIGE TINTE: Kreative Marker in verschiedenen leuchtenden Farben, die nicht durch das Papier dringen
+- KEIN SCHÜTTELN MEHR: Kräftiges, lackartiges Finish, ohne lästiges Grundieren – einfach Deckel ab und los geht‘s (am Besten bewahren Sie die Marker horizontal auf)
+- Enthält 6 wasserbasierte Malstifte in Grün-Tinte
+- BEEINDRUCKT AUF HELLEN & DUNKLEN OBERFLÄCHEN: Hinterlässt auf Metall, Holz, Keramik, Glas, Stein, Leinwand und mehr einen guten Eindruck
+- KOMBINIEREN OHNE DURCHDRINGEN: Verleiht Ihren Arbeiten Tiefe mit Farben, die wunderschön miteinander kombinieren werden können, ohne zu verwischen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DWS7DJQ2{{</world>}}

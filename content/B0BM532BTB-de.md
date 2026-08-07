@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leder: Smooth Leather
 - 14.0157480172 inches
+- Leder: Smooth Leather
 - Verschluss: Thermoplastisches Polyurethan
 - FlexibleFlexible
 

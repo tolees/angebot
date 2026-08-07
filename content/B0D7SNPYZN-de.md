@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- extra Brusttasche
-- praktische Knopfleiste und Stehkragen
 - leichter und super bequemer Pullover
 - aus kuschelig weichem Fleece
 - schmale Stretch-Bündchen an Ärmeln und Kragen
+- extra Brusttasche
+- praktische Knopfleiste und Stehkragen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D7SNPYZN{{</world>}}

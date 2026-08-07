@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Vielseitige Ablage: Der 2U Fachboden bietet Platz für Geräte wie Router, Modems, AV-Zubehör, Mini-PCs, NUCs, KVM-Switches, Netzteile und NAS, die keine eigene Befestigungsmöglichkeit im 19-Zoll-Format haben
+- Robust und belastbar: Der 19-Zoll Regalboden ist aus hochwertigem Stahlblech gefertigt und unterstützt eine Traglast von bis zu 25 kg – im Lieferumfang sind Schrauben, Käfigmuttern und Unterlegscheiben enthalten
+- Präzise Maße: Die äußeren Abmessungen des gesamten Fachbodens betragen 88,5 x 482 x 352 mm (HxBxT) – der Rackboden passt in DIGITUS 19-Zoll Netzwerkschränke ab einer Tiefe von 450 mm
 - Einfache Montage: Der Serverboden wird an den 19"-Profilschienen des Netzwerkschranks befestigt und benötigt nur zwei Höheneinheit (2 HE)
 - Optimierte Belüftung: Die Perforation des 19-Zoll Fachbodens ermöglicht eine ungehinderte Luftzirkulation im Serverschrank und trägt so zur Kühlung der Geräte bei
-- Präzise Maße: Die äußeren Abmessungen des gesamten Fachbodens betragen 88,5 x 482 x 352 mm (HxBxT) – der Rackboden passt in DIGITUS 19-Zoll Netzwerkschränke ab einer Tiefe von 450 mm
-- Robust und belastbar: Der 19-Zoll Regalboden ist aus hochwertigem Stahlblech gefertigt und unterstützt eine Traglast von bis zu 25 kg – im Lieferumfang sind Schrauben, Käfigmuttern und Unterlegscheiben enthalten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B002RIHZZQ{{</world>}}

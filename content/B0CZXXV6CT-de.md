@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kängurutaschen
-- Bündchen und Saum gerippt
-- Elastischer Bund mit Kordelzug
-- Regulär geschnitten; mittelhoher Bund
-- Durchgehender Reißverschluss; Kapuze
 - 70 % Baumwolle / 30 % Polyester (recycelt)
 - Besteht zu mindestens 70 % aus recycelten und erneuerbaren Materialien
 - Seitentaschen
+- Kängurutaschen
+- Elastischer Bund mit Kordelzug
+- Regulär geschnitten; mittelhoher Bund
+- Durchgehender Reißverschluss; Kapuze
+- Bündchen und Saum gerippt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CZXXV6CT{{</world>}}

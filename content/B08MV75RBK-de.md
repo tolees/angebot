@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Materialzusammensetzung: 95% Baumwolle, 5% Elasthan
-- Bio-Baumwolle
 - Einfarbig
+- Materialzusammensetzung: 95% Baumwolle, 5% Elasthan
 - Trunks
+- Bio-Baumwolle
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08MV75RBK{{</world>}}

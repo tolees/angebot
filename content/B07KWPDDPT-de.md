@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Passform: Slim Fit - niedrige Bundhöhe, schmales Bein, schmale Beinöffnung | Unser Model ist 188 cm groß und trägt Größe 31/326
-- Beininnenlänge bei Größe 32/30 ca. 76 cm|Beininnenlänge bei Größe 32/32 ca. 81 cm|Beininnenlänge bei Größe 32/34 ca. 85 cm|Beininnenlänge bei Größe 32/36 ca. 90 cm
-- Waschhinwes: 40°C Buntwäsche | Nicht chemisch reinigen | Nicht auf Verzierung bügeln | Nicht im Trockner trocknen | Nicht bleichen | Von links waschen und bügeln | Gürtel vor dem Waschen entfernen | Bügeln bei niedriger Temperatur | Mit ähnlichen Farben waschen
 - Artikel fällt eher etwas kleiner aus - wenn du zwischen zwei Größen schwankst, empfehlen wir dir die größere Größe
+- Waschhinwes: 40°C Buntwäsche | Nicht chemisch reinigen | Nicht auf Verzierung bügeln | Nicht im Trockner trocknen | Nicht bleichen | Von links waschen und bügeln | Gürtel vor dem Waschen entfernen | Bügeln bei niedriger Temperatur | Mit ähnlichen Farben waschen
+- Beininnenlänge bei Größe 32/30 ca. 76 cm|Beininnenlänge bei Größe 32/32 ca. 81 cm|Beininnenlänge bei Größe 32/34 ca. 85 cm|Beininnenlänge bei Größe 32/36 ca. 90 cm
+- Passform: Slim Fit - niedrige Bundhöhe, schmales Bein, schmale Beinöffnung | Unser Model ist 188 cm groß und trägt Größe 31/326
 - Klassische Chinohose mit zusätzlichem Gürtel aus PU-Leder. Mit seitlichen Eingriffstaschen und Paspeltaschen am Gesäß. Aus einem pflegeleichten Baumwollstoff mit leichtem Stretch-Anteil.
 
 [🛒 Hier!!]({{< param buyurl >}})

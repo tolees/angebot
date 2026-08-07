@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 4,3 ZOLL IPS DISPLAY FÜR KLARE DETAILDARSTELLUNG: Das hochwertige IPS-Display liefert scharfe Bilder mit lebendigen Farben und hoher Blickwinkelstabilität. Perfekt für komfortables Arbeiten, Beobachtungen und Analysen ohne zusätzliches externes Display;
-- EINSTELLBARE LEDS FÜR OPTIMALE BELEUCHTUNG: Die integrierte LED-Beleuchtung sorgt auch bei schwachen Lichtverhältnissen für eine klare Sicht auf kleinste Details. Die Helligkeit kann flexibel angepasst werden und eignet sich für unterschiedlichste Objekte und Oberflächen;
 - TRAGBARES DIGITALMIKROSKOP MIT AKKU & HALTERUNG: Der integrierte 1800mAh Akku ermöglicht bis zu 5 Stunden kabellosen Betrieb. Die stabile Halterung und der verstellbare Winkel sorgen für flexible Nutzung zuhause, in der Schule, Werkstatt oder bei Reparaturarbeiten.
+- EINSTELLBARE LEDS FÜR OPTIMALE BELEUCHTUNG: Die integrierte LED-Beleuchtung sorgt auch bei schwachen Lichtverhältnissen für eine klare Sicht auf kleinste Details. Die Helligkeit kann flexibel angepasst werden und eignet sich für unterschiedlichste Objekte und Oberflächen;
+- 4,3 ZOLL IPS DISPLAY FÜR KLARE DETAILDARSTELLUNG: Das hochwertige IPS-Display liefert scharfe Bilder mit lebendigen Farben und hoher Blickwinkelstabilität. Perfekt für komfortables Arbeiten, Beobachtungen und Analysen ohne zusätzliches externes Display;
 - MIKROSKOP DIGITAL MIT 50X VERGRÖSSERUNG: Das Technaxx TX-277 Mikroskop Digital ermöglicht detailreiche Nahaufnahmen mit bis zu 50-facher Vergrößerung. Ideal für Münzen, Schmuck, Elektronik, Pflanzen, Insekten, Textilien und viele weitere Anwendungen im Hobby- oder Arbeitsbereich;
 - FOTO- & VIDEOAUFNAHME MIT PC- & MICROSD-UNTERSTÜTZUNG: Erstellen Sie Bilder und Videos Ihrer Beobachtungen direkt mit dem Digitalmikroskop. Dateien können bequem auf einer MicroSD-Karte gespeichert oder per USB-Verbindung auf dem PC angezeigt und analysiert werden;
 

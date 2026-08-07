@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Sohle: Synthetisch
+- Oberteile: Synthetisch
 - Fersenhöhe: 2.5cm
 - Befestigung: Reißverschluss
-- Oberteile: Synthetisch
-- Sohle: Synthetisch
 - Futter: Textil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

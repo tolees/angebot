@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mit diesem Reis kannst Du leckere und zugleich schnelle Mahlzeiten kreieren.
-- Express Reis entdecken: In vielen weiteren Sorten erhältlich - Ungewürzte Reissorten wie Basmati oder gewürzte Reissorten wie Mediterran, Griechisch, Mexikanisch.
-- Lieferumfang: 6 x 220g Packung
 - Zubereitung: Bens Original Express Reis kann einfach und bequem in 2 Minuten in der Mikrowelle oder mit Wasser in 3 Minuten in der Pfanne erhitzt werden.
+- Lieferumfang: 6 x 220g Packung
+- Express Reis entdecken: In vielen weiteren Sorten erhältlich - Ungewürzte Reissorten wie Basmati oder gewürzte Reissorten wie Mediterran, Griechisch, Mexikanisch.
 - Bens Original Qualität: Locker leichter Basmati trifft auf aromatischen Jasmin-Reis - Die ideale Kombination als leckere Beilage zu fast jedem Gericht. Ohne künstliche Konservierungs-, Farb- und Aromastoffe.
 
 [🛒 Hier!!]({{< param buyurl >}})

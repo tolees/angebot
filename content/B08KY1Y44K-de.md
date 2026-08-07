@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Passform : Lang geschnitten
-- Klassisches schlichtes T-Shirt
-- Ärmel : Kurzarm
 - Hals : Rundhals
+- Ärmel : Kurzarm
+- Klassisches schlichtes T-Shirt
+- Passform : Lang geschnitten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08KY1Y44K{{</world>}}

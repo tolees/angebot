@@ -29,14 +29,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Cloudfoam Zwischensohle
-- Adiwear Außensohle
-- OrthoLite Einlegesohle
-- Schnürsenkel
-- Obermaterial aus Mesh
 - Gewicht: 304 g (Größe 42 2/3)
+- Obermaterial aus Mesh
+- Adiwear Außensohle
+- Sprengung: 10 mm (Rückfußhöhe 33 mm / Vorfußhöhe 23 mm)
 - Reguläre Passform
 - Textilfutter
-- Sprengung: 10 mm (Rückfußhöhe 33 mm / Vorfußhöhe 23 mm)
+- Schnürsenkel
+- OrthoLite Einlegesohle
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CKS1CXKH{{</world>}}

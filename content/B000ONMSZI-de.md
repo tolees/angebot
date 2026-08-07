@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- mit Transformator
 - Lautstärke 80 dB
+- mit Transformator
 - weiß
 - Zweiklang Gong
 

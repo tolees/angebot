@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Halbhoher Schaft
-- Perforiertes Schuhblatt
 - Obermaterial aus Leder und recyceltem Material
+- Perforiertes Schuhblatt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09L5JLSF8{{</world>}}

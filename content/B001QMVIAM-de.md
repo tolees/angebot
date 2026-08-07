@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für alle Maschinen mit Rundschaftbohreraufnahme
-- Holzspiralbohrer-Set zum professionellen bearbeiten von Weich- und Hartholz
 - Bohrer-Ø 4/5/6/8/10 mm
-- Besondere Spiralform verhindert Verklemmen und sorgt für rasche Spanabfuhr
 - Bohrer mit CBN-geschliffener M-Spitze, Zweischneider, zylindrisch, zweispiralig
+- Besondere Spiralform verhindert Verklemmen und sorgt für rasche Spanabfuhr
+- Holzspiralbohrer-Set zum professionellen bearbeiten von Weich- und Hartholz
+- Für alle Maschinen mit Rundschaftbohreraufnahme
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B001QMVIAM{{</world>}}

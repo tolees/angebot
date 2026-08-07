@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ermittelt die Temperatur und Luftfeuchtigkeit in Innenräumen und zeigt diese auf einem übersichtlichen LC-Display an.
 - Integration in 55er-Einfach- oder Mehrfachrahmen anderer Hersteller (Berker, ELSO, Gira, Merten, JUNG) möglich.
-- Lässt sich, dank Funk-Kommunikation und Batterieversorgung, flexibel platzieren und ohne großen Aufwand montieren – benötigtes Montagematerial und Batterien werden mitgeliefert.
-- Für den Betrieb ist eine Zentraler oder der Homematic IP Access Point 2 in Verbindung mit der App (Cloud-Service) notwendig
 - Regelt zusammen mit einem oder mehreren Homematic IP Heizkörperthermostaten oder Homematic IP Fußbodenheizungsaktoren die Raumtemperatur.
+- Ermittelt die Temperatur und Luftfeuchtigkeit in Innenräumen und zeigt diese auf einem übersichtlichen LC-Display an.
+- Für den Betrieb ist eine Zentraler oder der Homematic IP Access Point 2 in Verbindung mit der App (Cloud-Service) notwendig
+- Lässt sich, dank Funk-Kommunikation und Batterieversorgung, flexibel platzieren und ohne großen Aufwand montieren – benötigtes Montagematerial und Batterien werden mitgeliefert.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D8JNHQ41{{</world>}}

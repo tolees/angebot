@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - DETAILS & HIGHLIGHTS: Leicht elastischer Feinstrick, gerippter V-Neck, Melange Optik, aufgestickte Ellbogenpatches, Leder-Logopatches vorne und hinten am Abschlussbund, gerippte Ärmelbündchen sowie Abschlussbund
-- NACHHALTIGKEIT: Die verantwortungsvolle Nutzung von natürlichen Ressourcen liegt uns am Herzen! Daher arbeiten wir mit recycelten Versand- und Verpackungsmaterialien und produzieren die meisten unserer Styles unter den Bedingungen der BETTER COTTON INITIATIVE, die sich weltweit für nachhaltig produzierte Baumwolle einsetzt.
+- PASSFORM: Regular Fit - unser Model ist 1,82m groß und trägt die Größe M. Trägst du für gewöhnlich eine Größe M? Dann ist diese auch von uns ideal für dich!
 - Dieser moderne Herrenpullover von BLEND aus hochwertiger Baumwollmischung ist super angenehm zu tragen.
 - Als cooler Strickpulli in der Freizeit im Casual-Look oder als klassicher Feinstrickpullover im Büro für einen smarten Auftritt im Business - dieser modische Pulli ist ein praktisches und immer gut kombinierbares Basic für deinen Kleiderschrank! So muss der perfekte Strickpullover sein!
-- PASSFORM: Regular Fit - unser Model ist 1,82m groß und trägt die Größe M. Trägst du für gewöhnlich eine Größe M? Dann ist diese auch von uns ideal für dich!
+- NACHHALTIGKEIT: Die verantwortungsvolle Nutzung von natürlichen Ressourcen liegt uns am Herzen! Daher arbeiten wir mit recycelten Versand- und Verpackungsmaterialien und produzieren die meisten unserer Styles unter den Bedingungen der BETTER COTTON INITIATIVE, die sich weltweit für nachhaltig produzierte Baumwolle einsetzt.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B06WVS1BTW{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Süß und fruchtig. Mischung mit angenehm süßem Aroma, verstärkt durch die erlesenen Arabica-Bohnen.
 - Mediterrane Emotionen: Mischungen, die aus einem vom Meer umgebenen und von der Sonne geküssten Land stammen. Bei Caffè Mauro genügt eine Tasse Kaffee, um sich wie zu Hause zu fühlen. Ein langsamer Röstvorgang vermittelt den Geschmack eines aufrichtigen Rituals, das Teil unserer Lebensweise ist. Den Moment genießen und jeden hochwertigen Moment genießen.
 - Format: 1 Packung à 1 kg in einer geschützten Atmosphäre, um das intensive Aroma der Kaffeebohne zu bewahren
-- Süß und fruchtig. Mischung mit angenehm süßem Aroma, verstärkt durch die erlesenen Arabica-Bohnen.
-- Mittlere Röstung 100% Arabica
 - Intensität: 5/10
+- Mittlere Röstung 100% Arabica
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D6W6G1RG{{</world>}}

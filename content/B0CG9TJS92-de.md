@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die extra breite XB Mine verfügt über die Strichstärke 0.5 mm
 - Sie ist auswechselbar und hat eine blaue dokumentenechte Tinte
 - Im Set sind zwei Kugelschreiber Poly Ball mit einer rutschfesten Soft Touch Oberfläche enthalten
-- Durch die ergonomische Dreieckform wird auch Vielschreibern ein ermüdungsfreies Schreiben ermöglicht
 - Der Schaft und der Clip des Druckkugelschreibers bestehen aus 100% recyceltem Kunststoff
+- Die extra breite XB Mine verfügt über die Strichstärke 0.5 mm
+- Durch die ergonomische Dreieckform wird auch Vielschreibern ein ermüdungsfreies Schreiben ermöglicht
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CG9TJS92{{</world>}}

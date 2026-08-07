@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- OrthoLite-Einlegesohle.
+- Sehr abriebfeste Gummi-Außensohle.
 - Absatzform: Kein Absatz
 - Mesh upper
 - Obermaterial: Synthetik
-- Sehr abriebfeste Gummi-Außensohle.
-- OrthoLite-Einlegesohle.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BGC1S1QF{{</world>}}

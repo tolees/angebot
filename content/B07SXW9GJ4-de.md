@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - High resolution 2.75" full color display
+- Officially licensed title
+- Removeable joystick
 - 3.5 mm headphone port to connect your headphones
 - Powered by either 4 AA batteries (not included) or by a USB-C cable (not included)
-- Removeable joystick
-- Officially licensed title
 - Built-in speaker with volume control
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Zwei offene Seitentaschen
 - Urban Rucksack für Ihren täglichen Gebrauch
-- Hauptfach und Fronttasche mit Reißverschluss
-- Maße: 29 x 24,5 x 15cm
 - Innenfutter mit Tasche, um Ihre Sachen zu organisieren
+- Maße: 29 x 24,5 x 15cm
+- Hauptfach und Fronttasche mit Reißverschluss
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DP5B68XV{{</world>}}

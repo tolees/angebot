@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Spannende Handlung: Prinzessin Sakura verliert ihre Erinnerungen, die als Federn in verschiedene Dimensionen verstreut werden, und Shaolan muss einen Pakt mit der Hexe Yuuko eingehen, um ihr Leben zu retten
+- Dimensionsreisen: Shaolan und seine Begleiter reisen durch verschiedene Welten und Dimensionen, um die verlorenen Erinnerungsfedern von Prinzessin Sakura zu sammeln und ihr Leben zu bewahren
+- Beliebte CLAMP-Serie: Die Erfolgsserie des bekannten Zeichnerinnenteams CLAMP (X, Chobits, Magic Knight Rayearth, Cardcaptor Sakura) vereint die beliebtesten Charaktere des großen CLAMP-Universums mit einer abenteuerlichen und romantischen Story
+- Komplette Gesamtausgabe: Bundle enthält Vol.1-2 der Tsubasa Chronicle Serie auf Blu-ray in hochwertiger Qualität
 - Genre-Mix: Eine fesselnde Kombination aus Fantasy, Abenteuer und Romance, die Spannung und emotionale Tiefe garantiert
 - Auszeichnung: Animania Awards 2006 – Most wanted Award
-- Komplette Gesamtausgabe: Bundle enthält Vol.1-2 der Tsubasa Chronicle Serie auf Blu-ray in hochwertiger Qualität
-- Beliebte CLAMP-Serie: Die Erfolgsserie des bekannten Zeichnerinnenteams CLAMP (X, Chobits, Magic Knight Rayearth, Cardcaptor Sakura) vereint die beliebtesten Charaktere des großen CLAMP-Universums mit einer abenteuerlichen und romantischen Story
-- Dimensionsreisen: Shaolan und seine Begleiter reisen durch verschiedene Welten und Dimensionen, um die verlorenen Erinnerungsfedern von Prinzessin Sakura zu sammeln und ihr Leben zu bewahren
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D9K5NL5F{{</world>}}

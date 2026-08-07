@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Modern & vielseitig: Die CUSTOS Kollektion vereint klare Linien und fügt sich in Ihr Zuhause ein. In Kombination mit anderen Möbeln der Serie entsteht ein harmonisches Gesamtbild
-- SCHWEBEN WIE VON ZAUBERHAND: Befestigen Sie diese Regale an der Wand, stellen Sie Ihre Bilderrahmen auf die Ablagen und lassen Sie sie wie von Zauberhand schweben! Die erhöhte Vorderkante verhindert, das Gegenstände herunterfallen
-- APPLAUS FÜR DIESES MULTITALENT: Durch diese Regale in elegantem Vintagebraun verwandeln Sie leere Wände in Präsentationswunder. Sie bieten zudem viel Stauraum für Bücher im Kinderzimmer, Gewürzgläser in der Küche oder Bilderrahmen im Arbeitszimmer
 - WAS SIE BEKOMMEN: 3 Wandregale (Länge je 38 cm) mit erhöhter Vorderkante sowie verschiedenartiges Befestigungszubehör, welches sich jeweils für massive Wände oder Trockenbauwände mit Holzverstärkungen eignet
+- SCHWEBEN WIE VON ZAUBERHAND: Befestigen Sie diese Regale an der Wand, stellen Sie Ihre Bilderrahmen auf die Ablagen und lassen Sie sie wie von Zauberhand schweben! Die erhöhte Vorderkante verhindert, das Gegenstände herunterfallen
+- Modern & vielseitig: Die CUSTOS Kollektion vereint klare Linien und fügt sich in Ihr Zuhause ein. In Kombination mit anderen Möbeln der Serie entsteht ein harmonisches Gesamtbild
+- APPLAUS FÜR DIESES MULTITALENT: Durch diese Regale in elegantem Vintagebraun verwandeln Sie leere Wände in Präsentationswunder. Sie bieten zudem viel Stauraum für Bücher im Kinderzimmer, Gewürzgläser in der Küche oder Bilderrahmen im Arbeitszimmer
 - KINDERLEICHTE MONTAGE: Sie müssen diese Regale nur mithilfe der beiliegenden Schrauben an der Wand anbringen. Sodann können Sie Kleinigkeiten platzsparend verstauen oder Ihre Schätze stilvoll präsentieren
 - FÜR EINE LANGE GEBRAUCHSDAUER: Aus hochwertigen Spanplatten der Klasse E1 gefertigt, sind diese Schweberegale robust und strapazierfähig - jedes Regal kann Gewichte bis 10 kg aushalten
 

@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lange Ärmel, verstellbarer Riegel – Knöpfe
-- Verdeckte Brusttasche – seitlicher Eingriff
-- Gefüttert, Innentasche, Hängeschlaufe
-- Eingrifftaschen mit breiter Paspel – Druckknopfverschluss
 - Hoher Kragen, gerippter Innenkragen – Druckknöpfe
+- Verdeckte Brusttasche – seitlicher Eingriff
+- Eingrifftaschen mit breiter Paspel – Druckknopfverschluss
+- Gefüttert, Innentasche, Hängeschlaufe
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BRYLV21R{{</world>}}

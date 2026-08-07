@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Hohe Auflösung 4K@60Hz】UGREEN HDMI 2.0 4K Switch Splitter unterstützt 4K@60Hz, 2K@120Hz und 1080P ultrahohe Bildauflösung, Sie können klarere und flüssigere Bilder genießen (Hinweis: Um 4K@60Hz zu erreichen, wird empfohlen, 1M oder kürzeres HDMI 2.0 Kabel zu verwenden).
 - 【Breite Kompatibilität】 UGREEN 2 in 1 out und 1 in 2 out HDMI Splitter Switch ist mit den meisten Geräten mit HDMI Anschlüssen kompatibel, wie PS5/4/PS4 Pro, Xbox One/Xbox 360, Blu-ray Player, TNT Decoder, TV Sticks, TV Boxen, DVD Player, HDTVs, Computer, Bildschirme, Monitore, Projektoren und andere Geräte.
-- 【HDMI 2.0 & 18Gbps Bandbreite】 UGREEN HDMI 2.0 Switch ist kompatibel mit HDMI 2.1/2.0/1.4. Der HDMI Switch bietet eine Bandbreite von bis zu 18Gbit/s für die Videoübertragung (Einzelkanalbandbreite 6Gbit/s) und unterstützt außerdem die Funktionen HDR, 3D, CEC, HDCP und DTS Sound.
 - 【Einstecken und Loslegen】 UGREEN Bidirektionaler HDMI 2.0 Switch Splitter ist Plug and Play, keine externe Stromversorgung und Treiber erforderlich, Ein Klick Umschaltung, Vermeidung von häufigem Ein und Ausstecken von HDMI Kabeln. Hinweis: Im Lieferumfang ist kein HDMI-Kabel enthalten; dieses müssen Sie selbst besorgen.
 - 【Bidirektionaler HDMI Switch 2.0】 UGREEN HDMI Switch 2.0 unterstützt den Anschluss von 2 HDMI Quellen an 1 HDMI Display. Er kann auch als HDMI Splitter verwendet werden, um 1 HDMI Quelle an 2 Monitore anzuschließen (In diesem Modus können nicht beide Bildschirme gleichzeitig angezeigt werden).
+- 【Hohe Auflösung 4K@60Hz】UGREEN HDMI 2.0 4K Switch Splitter unterstützt 4K@60Hz, 2K@120Hz und 1080P ultrahohe Bildauflösung, Sie können klarere und flüssigere Bilder genießen (Hinweis: Um 4K@60Hz zu erreichen, wird empfohlen, 1M oder kürzeres HDMI 2.0 Kabel zu verwenden).
+- 【HDMI 2.0 & 18Gbps Bandbreite】 UGREEN HDMI 2.0 Switch ist kompatibel mit HDMI 2.1/2.0/1.4. Der HDMI Switch bietet eine Bandbreite von bis zu 18Gbit/s für die Videoübertragung (Einzelkanalbandbreite 6Gbit/s) und unterstützt außerdem die Funktionen HDR, 3D, CEC, HDCP und DTS Sound.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07H7JCCKM{{</world>}}

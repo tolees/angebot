@@ -28,18 +28,18 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Extra langes Kabel, 3 Meter
+- Mit universellem Staubabsaugungsadapter
+- 3 meter extra langes Kabel
+- Ergonomische Bauweise mit Softgrip für optimalen Arbeitskomfort
+- HINWEIS- Weitere Informationen finden Sie in den Produktleitfäden und Dokumenten.
+- Mit universellem Staubabsaugungsadapter
 - Mit Laser fürhrung für genaues Arbeiten
 - Ergonomische Bauweise mit Softgrip für optimalen Arbeitskomfort
-- 3 meter extra langes Kabel
-- HINWEIS- Weitere Informationen finden Sie in den Produktleitfäden und Dokumenten.
 - Ergonomische Bauweise mit Softgrip für optimalen Arbeitskomfort
-- Mit universellem Staubabsaugungsadapter
-- Mit universellem Staubabsaugungsadapter
-- Ergonomische Bauweise mit Softgrip für optimalen Arbeitskomfort
+- Hinweise zur optimalen Nutzung Zeichnen Sie Linien, um die Richtung zu definieren, in die die Trennscheiben geführt werden sollen. Halten Sie die Maschine mit beiden Händen fest. Stellen Sie die Schlitzbreite ein. Stellen Sie den Tiefenanschlag ein. Stellen Sie die Maschine mit den Rädern an die Wand. Stellen Sie sicher, dass die Trennscheiben mit den gezeichneten Linien an der Wand ausgerichtet sind. Stellen Sie die Schlitztiefe ein. Schalten Sie die Maschine ein. Warten Sie, bis die Maschine die volle Geschwindigkeit erreicht hat
 - Mit Laser fürhrung für genaues Arbeiten
 - 1650W - 6000 U/min- 2x 150mm Diamantscheiben - Schnittbreite - 8 - 30mm (6 positionen), Schnitttiefe - 8 - 40mm (8 positionen)
-- Extra langes Kabel, 3 Meter
-- Hinweise zur optimalen Nutzung Zeichnen Sie Linien, um die Richtung zu definieren, in die die Trennscheiben geführt werden sollen. Halten Sie die Maschine mit beiden Händen fest. Stellen Sie die Schlitzbreite ein. Stellen Sie den Tiefenanschlag ein. Stellen Sie die Maschine mit den Rädern an die Wand. Stellen Sie sicher, dass die Trennscheiben mit den gezeichneten Linien an der Wand ausgerichtet sind. Stellen Sie die Schlitztiefe ein. Schalten Sie die Maschine ein. Warten Sie, bis die Maschine die volle Geschwindigkeit erreicht hat
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00AKCAINC{{</world>}}

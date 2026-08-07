@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Regular Fit
 - 3/4-Ärmel mit Aufschlagriegel
 - Elastischer und pflegeleichter Materialmix
+- Regular Fit
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09Z6NJK59{{</world>}}

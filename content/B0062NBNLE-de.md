@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gesamtlänge: ca. 6,4 m (davon ca. 1,5 m Zuleitung)
 - Lichterkette ist für Innen und Außen
+- Gesamtlänge: ca. 6,4 m (davon ca. 1,5 m Zuleitung)
 - Mit Transformator
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

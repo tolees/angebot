@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Nutze dein riesiges Ninja-Arsenal, darunter das große Katana Oborozuki, Kunai, Ninjutsu-Künste und Ninpo, um deine Gegner zu bezwingen
+- Wage dich durch mehr als ein Dutzend einzigartiger und optisch beeindruckender Stufen, von Militärbasen bis hin zu einer sengenden Wüste
 - Spiele als der legendäre Shinobi Joe Musashi, Meister der Ninja-Künste
 - Entfessle grenzenlose Kombos mit einzigartigen Kampfaktionen, sammle Amulette für verbesserte Fähigkeiten und entdecke Ningi-Werkzeuge
-- Wage dich durch mehr als ein Dutzend einzigartiger und optisch beeindruckender Stufen, von Militärbasen bis hin zu einer sengenden Wüste
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FBK4WDWF{{</world>}}

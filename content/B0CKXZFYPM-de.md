@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Schnürsenkel
-- Reguläre Passform
-- Obermaterial aus Leder
-- Verstärkter Zehenbereich
 - Textilfutter
+- Obermaterial aus Leder
+- Reguläre Passform
+- Verstärkter Zehenbereich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CKXZFYPM{{</world>}}

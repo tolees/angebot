@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- großer Drehteller
 - Präzise elektronische Steuerung in 5-Sekunden-Schritten
-- Programme: Defrost (Auftauen) - Manuell
 - Kratzfester Keramik-Emaille-Innenraum - besonders leicht zu reinigen
+- Programme: Defrost (Auftauen) - Manuell
+- großer Drehteller
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07RHSNK3M{{</world>}}

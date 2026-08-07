@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- KOMBINIERBAR - Mit allen Zubehörteilen aus der Plug & Shine Serie kombinierbar
 - Bei diesem Produkt handelt es sich um ein umgebendes Produkt. Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können. Dieses Produkt enthaelt eine Lichtquelle der Energieeffizienzklasse G
-- LICHTWIRKUNG - Das 24V-Lichtobjekt setzt dekorative Lichteffekte im Garten
+- KOMBINIERBAR - Mit allen Zubehörteilen aus der Plug & Shine Serie kombinierbar
 - ZUBEHÖR - Mit Erdspieß zur Fixierung im Boden
 - FARBTEMPERATUR - 3000 Kelvin: warmweißes Licht, neutraler als Glühlampenlicht, universell einsetzbar
+- LICHTWIRKUNG - Das 24V-Lichtobjekt setzt dekorative Lichteffekte im Garten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07BZFX1VZ{{</world>}}

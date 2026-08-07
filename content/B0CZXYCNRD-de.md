@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100 % Baumwolle
-- Regulär geschnitten
 - Leicht überschnittene Schultern
+- Regulär geschnitten
 - Gerippter Rundhalsausschnitt
+- 100 % Baumwolle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CZXYCNRD{{</world>}}

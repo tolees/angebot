@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- max. datentransferrate: lesen (65 mb/s), schreiben (95 mb/s)
 - Konnektivitäts technologie: verkabelt
-- systemvoraussetzung: microsoft windows 7/8/8.1/10, mac os
 - lieferumfang: intenso memory case 500 gb externe festplatte (6,35 cm (2,5 zoll) 5400 u/min, 8 mb cache, usb 3.0) schwarz
 - sofort startklar ohne installation (plug und play), superspeed usb anschluss 3.0 (abwärtskompatibel zu usb 2.0), stromversorgung über usb anschluss
+- max. datentransferrate: lesen (65 mb/s), schreiben (95 mb/s)
+- systemvoraussetzung: microsoft windows 7/8/8.1/10, mac os
 - externe festplatte im extra flachen gehäuse; mit fat32 und led anzeige; gewicht 165 g
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

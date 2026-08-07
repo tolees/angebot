@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Details zur Puma-Marke
 - Weichschaum plus Einlegesohle
+- Details zur Puma-Marke
 - Niedriger Kofferraum
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gewicht: 460 Gramm (Größe GB 8,5)
-- LIGHTMOTION EVA-Zwischensohle
-- Gummiaußensohle aus Continental
 - Zwischensohlen-Drop: 10 mm (Ferse: 32 mm / Vorfuß: 22 mm)
-- Reguläre Passform
-- Schnürsenkel
+- Gewicht: 460 Gramm (Größe GB 8,5)
 - Textilfutter
+- Schnürsenkel
 - Obermaterial aus Ripstop mit Overlays
+- LIGHTMOTION EVA-Zwischensohle
+- Reguläre Passform
+- Gummiaußensohle aus Continental
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DHVVKH6N{{</world>}}

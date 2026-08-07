@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bei Qwixx gibt es keine lange Wartezeiten. Jeder Würfelwurf wird von allen genutzt!
-- Für das luxuriösere Würfelvergnügen gibt es QWIXX DELUXE, mit vier Filzstiften und vier abwischbaren Tableaus für unbegrenzt viele Partien!
-- Inhalt: 4 Tableus, 4 Stifte, 6 Würfel, 1 Spielanleitung
 - Erlebe jetzt das neue und kompakte EXTRA-Format vom NSV!
+- Für das luxuriösere Würfelvergnügen gibt es QWIXX DELUXE, mit vier Filzstiften und vier abwischbaren Tableaus für unbegrenzt viele Partien!
+- Bei Qwixx gibt es keine lange Wartezeiten. Jeder Würfelwurf wird von allen genutzt!
 - Je mehr Zahlen ihr ankreuzt, umso mehr Punkte erhaltet ihr. Qwixx ist einfach, in zwei Minuten erklärt und spannend bis zum Schluss!
+- Inhalt: 4 Tableus, 4 Stifte, 6 Würfel, 1 Spielanleitung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0GMKB1V68{{</world>}}

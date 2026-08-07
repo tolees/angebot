@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Body Lotion spendet 48 Stunden Feuchtigkeit und einen angenehmen Duft
-- Formel Bronzing Lotion mit Coenzym Q10
 - Lotion für trockene Haut
+- Die Body Lotion spendet 48 Stunden Feuchtigkeit und einen angenehmen Duft
 - Hautverträglichkeit dermatologisch bestätigt
+- Formel Bronzing Lotion mit Coenzym Q10
 - Straffungslotion verbessert die Elastizität der Haut bereits in 10 Tagen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

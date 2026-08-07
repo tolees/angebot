@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bee Cool
 - Waterbased print
 - Regular fit
+- Bee Cool
 - Adjustability
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Chat and interact with other townfolks and listen to their personal stories.
-- Throwback to the 90s! Let us take you to Indonesia in the late 90s.
-- The Special Edition includes: Premium Collectors box, Full Game (PS4, PS5 or Switch), Mini Booklet “A Space for the Unbound Tales”, “Admiral” Keychain, OST Download Card, Artbook (250 pages) filled with exclusive pieces from director and artist Dimas Novan, OST Disc, Blooming Flower Brooch and Exclusive Art Print
-- Explore rural Indonesia and enjoy its relaxing atmosphere with a hint of supernatural events.
 - LANGUAGES*: English, Spanish, French, German, Portuguese, Russian, Turkish, Japanese, Chinsese, Korean.
+- Throwback to the 90s! Let us take you to Indonesia in the late 90s.
+- Explore rural Indonesia and enjoy its relaxing atmosphere with a hint of supernatural events.
+- Chat and interact with other townfolks and listen to their personal stories.
+- The Special Edition includes: Premium Collectors box, Full Game (PS4, PS5 or Switch), Mini Booklet “A Space for the Unbound Tales”, “Admiral” Keychain, OST Download Card, Artbook (250 pages) filled with exclusive pieces from director and artist Dimas Novan, OST Disc, Blooming Flower Brooch and Exclusive Art Print
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CS3FL8HK{{</world>}}

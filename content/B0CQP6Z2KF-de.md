@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Passend um alle Häuser der Sylvanian Families einzurichten
-- Toilettenpapier mit Funktion
 - inkl. Toilette, Waschbecken, Badevorleger, Toilettenbürste, WC-Reiniger und einem Babysitz
+- Toilettenpapier mit Funktion
+- Passend um alle Häuser der Sylvanian Families einzurichten
 - Toilette mit Spülfunktion
 - mit Babysitz, damit auch die kleinsten auf Toilette gehen können
 

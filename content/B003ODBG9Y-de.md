@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- sofortiger Kühleffekt
 - für alle Sportarten
 - Kältespray, Eisspray
+- sofortiger Kühleffekt
 - verschafft sofortige Linderung, Schmerzlinderung
 - handlich klein
 

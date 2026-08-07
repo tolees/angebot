@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- KRAFT: Rote Linsen voller Nährstoffe
 - BIOQUALITÄT: Pflanzlich und vielseitig
+- KRAFT: Rote Linsen voller Nährstoffe
 - SCHNELL: In wenigen Minuten zubereitet
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- weitenregulierbar
 - 6 Bahnen Schnitt
+- weitenregulierbar
 - funktionelles, feuchtigkeitabsorbierendes Innenband
 
 [🛒 Hier!!]({{< param buyurl >}})

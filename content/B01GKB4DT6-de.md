@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Hochwertige Materialien: Philips LED Leuchten bestehen aus qualitativ hochwertigen Materialien, die sich perfekt in Ihr Zuhause integrieren ​
-- Geringerer Energieverbrauch: Philips LED Leuchten sparen im Vergleich zu herkömmlichen Lichtquellen Energie ein​
 - Bei diesem Produkt handelt es sich um ein umgebendes Produkt. Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können. Dieses Produkt enthaelt eine Lichtquelle der Energieeffizienzklasse F.
+- Geringerer Energieverbrauch: Philips LED Leuchten sparen im Vergleich zu herkömmlichen Lichtquellen Energie ein​
 - Schwenkbarer Lampenkopf: Sie können den Leuchtenkopf einfach in die gewünschte Richtung drehen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

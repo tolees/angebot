@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Inklusive - Filter, Hartschalenkoffer, Softcase, Reinigungstuch In der Tat
-- 16 Coating Layer - Anti-Kratz / Anti-Öl / Hydrophobe Beschichtungen
 - Fused Quartz Glass Element - löst bis zu 100MP Sensoren auf
 - Perfekte Farbneutralität - Neuer Beschichtungsprozess für Nullpunktverschiebung
 - Messingrahmen - Glattes Gewinde und erhöhte Haltbarkeit
+- 16 Coating Layer - Anti-Kratz / Anti-Öl / Hydrophobe Beschichtungen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07KWF3KT8{{</world>}}

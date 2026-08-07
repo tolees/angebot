@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 512GB interner Speicher für grenzenlosen Platz
-- Brillantes 6,36-Zoll OLED-Display mit 120Hz Bildwiederholrate
-- Hochwertige 50MP Leica-Triple-Kamera für beeindruckende Bilder
 - Schnelles 90W Laden und 50W kabelloses Laden für unterbrechungsfreie Nutzung
+- Hochwertige 50MP Leica-Triple-Kamera für beeindruckende Bilder
+- Brillantes 6,36-Zoll OLED-Display mit 120Hz Bildwiederholrate
+- 512GB interner Speicher für grenzenlosen Platz
 - Snapdragon 8 Gen 3 Prozessor für maximale Leistung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

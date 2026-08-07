@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Offiziell lizenziert von Nintendo
-- Acht RGB-Zonen mit vier voreingestellten Modi für unendlich viele Beleuchtungskombinationen
-- Kabellose Verbindung mit einer Reichweite von 9 Metern, damit du bequem von der Couch aus spielen kannst
-- Eingebauter, wiederaufladbarer 2100mAh-Akku mit bis zu 40 Stunden Spielzeit mit einer einzigen Ladung
 - Passe dein Spielerlebnis mit zwei programmierbaren Rücktasten individuell an
+- Eingebauter, wiederaufladbarer 2100mAh-Akku mit bis zu 40 Stunden Spielzeit mit einer einzigen Ladung
+- Acht RGB-Zonen mit vier voreingestellten Modi für unendlich viele Beleuchtungskombinationen
+- Offiziell lizenziert von Nintendo
+- Kabellose Verbindung mit einer Reichweite von 9 Metern, damit du bequem von der Couch aus spielen kannst
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CBNMQ4DL{{</world>}}

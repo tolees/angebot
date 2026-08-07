@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kälteschutz
-- Grosszügige pflege für ihre Lippen
 - Samtweiche Hände
+- Kälteschutz
 - Wunderwaffe für angegriffene Haut
+- Grosszügige pflege für ihre Lippen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01GD2HRB8{{</world>}}

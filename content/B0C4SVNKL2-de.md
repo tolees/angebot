@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Marke: Capelight (Alive)
-- Produkttyp: PHYSIKISCHE FILM
 - Bloodsport - Eine Wahre Geschichte - Stahl limitiert
+- Produkttyp: PHYSIKISCHE FILM
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C4SVNKL2{{</world>}}

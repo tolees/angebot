@@ -29,14 +29,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Ab 14 Jahren
+- 1-5 Spieler
+- Autoren: Nathan Hajek und Grace Holdinghaus
 - In dieser Erweiterung erwarten euch 3 weitere mächtige Schurken wie Fürst Angon, Hexenkönig von Angmar und Eadris. Zudem erhaltet ihr weitere Gegenstände, die euch im Kampf weiterhelfen
+- Eure Zusammenarbeit ist in diesem strategischen Kennerspiel von groÃŸer Bedeutung. Ihr bekämpft mächtige Feinde, findet verloren geglaubte Schätze sowie vergessenes Wissen und entwickelt euch weiter
+- Spiel in Deutsch
 - Zum Spielen dieser Erweiterung benötigt ihr das Grundspiel Der Herr der Ringe: Reise durch Mittelerde und die Erweiterung Schatten des Krieges, sowie die kostenlose App
 - In diesem kooperativen Dungeon Crawler taucht ihr ein in die epische Fantasywelt von Der Herr der Ringe. Ihr seid eine Gruppe von Helden, die sich auf eine gefährliche Reise begibt
 - 60 Minuten Spielzeit je Partie
-- Autoren: Nathan Hajek und Grace Holdinghaus
-- Eure Zusammenarbeit ist in diesem strategischen Kennerspiel von groÃŸer Bedeutung. Ihr bekämpft mächtige Feinde, findet verloren geglaubte Schätze sowie vergessenes Wissen und entwickelt euch weiter
-- Spiel in Deutsch
-- 1-5 Spieler
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BBW6683C{{</world>}}

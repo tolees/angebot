@@ -28,16 +28,16 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Streamlined detailing and silhouette for added versatility
-- LEVIS KLASSISCHES DESIGN: A versatile polo thats stylish, put-together and anything but stuffyCrafted from a lightweight, breathable piquéDesinged to wick away moisture to keep you coolSize up for an effortlessly casual style or stay true to size for a classic lookFinished with a subtle logo at the chest
-- The king of easy tops: the polo
-- Crafted from a lightweight, breathable piqué
-- Desinged to wick away moisture to keep you cool
-- Size up for an effortlessly casual style or stay true to size for a classic look
 - Abgeschlossen mit a subtle logo at the chest
+- Crafted from a lightweight, breathable piqué
 - MATERIAL: 100% COTTON
-- STRETCH: 0% OHNE STRETCH - Erwarten Sie anfangs eine sehr enge Passform. Wird sich mit der Zeit lockern, aber nicht zurückdehnen. Perfekt für ein klassisches, steifes Denim-Gefühl.
+- Desinged to wick away moisture to keep you cool
 - LEVIS ROTES TAB: Es gibt verschiedene Variationen unseres bekannten roten Tabs. Einige zeigen LEVIS, andere Levis, manche zeigen die Marke gar nicht. Bei Sondereditionen ändern wir manchmal sogar die Farbe.
+- Streamlined detailing and silhouette for added versatility
+- The king of easy tops: the polo
+- LEVIS KLASSISCHES DESIGN: A versatile polo thats stylish, put-together and anything but stuffyCrafted from a lightweight, breathable piquéDesinged to wick away moisture to keep you coolSize up for an effortlessly casual style or stay true to size for a classic lookFinished with a subtle logo at the chest
+- STRETCH: 0% OHNE STRETCH - Erwarten Sie anfangs eine sehr enge Passform. Wird sich mit der Zeit lockern, aber nicht zurückdehnen. Perfekt für ein klassisches, steifes Denim-Gefühl.
+- Size up for an effortlessly casual style or stay true to size for a classic look
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08PDJ2SHK{{</world>}}

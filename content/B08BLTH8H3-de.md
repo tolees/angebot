@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nicht Wasserfest
-- Obermaterial: Synthetik
-- Absatzform: Plateauabsatz
 - Verschluss: Schnürung
-- Innenmaterial: Fabric
+- Absatzform: Plateauabsatz
 - Sohle: Fabric
+- Obermaterial: Synthetik
+- Innenmaterial: Fabric
+- Nicht Wasserfest
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08BLTH8H3{{</world>}}

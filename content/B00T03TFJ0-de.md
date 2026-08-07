@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Regt die Fantasie an ​
 - Zusammenstöße in drei verschiedenen Crash-Zonen ​
-- Dieses Spitzengeschwindigkeitsset bietet direkt coole Crash-Action
+- Regt die Fantasie an ​
 - Lässt sich mit anderen Hot-Wheels-Tracksets verbinden ​
+- Dieses Spitzengeschwindigkeitsset bietet direkt coole Crash-Action
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00T03TFJ0{{</world>}}

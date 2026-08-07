@@ -28,16 +28,16 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatzhöhe: 2.5 centimeters
-- Absatzform: Flat
 - 20 centimeters
-- Obermaterial: Smooth Leather
-- Fit: Bedenken Sie, dass Geox-Schuhe eine bequeme Passform haben, daher empfehlen wir, eine halbe Größe zu wählen
-- 10 centimeters
-- not_water_resistant
-- Verschluss: Lace-up
+- Absatzhöhe: 2.5 centimeters
 - Sohle: Rubber
 - Innenmaterial: Canvas
+- 10 centimeters
+- not_water_resistant
+- Obermaterial: Smooth Leather
+- Fit: Bedenken Sie, dass Geox-Schuhe eine bequeme Passform haben, daher empfehlen wir, eine halbe Größe zu wählen
+- Absatzform: Flat
+- Verschluss: Lace-up
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01N6U3XDA{{</world>}}

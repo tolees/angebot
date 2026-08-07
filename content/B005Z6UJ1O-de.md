@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geruch: Zitrusnoten mit Andeutungen von Karamell und Rosinen
-- Abgang: lang anhaltend mit einer Süße gefolgt von Würze
-- Region: Speyside
 - Farbe: Gold
+- Region: Speyside
+- Abgang: lang anhaltend mit einer Süße gefolgt von Würze
+- Geruch: Zitrusnoten mit Andeutungen von Karamell und Rosinen
 - Geschmack: süßlich weich mit einem Hauch Malz und Würze
 
 [🛒 Hier!!]({{< param buyurl >}})

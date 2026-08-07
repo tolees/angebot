@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Streifenfrei - Die einteilige Gummilippe und das optimale Zusammenspiel der 28 cm langen Saugdüse und der Abziehlippe ermöglichen streifenfreie Ergebnisse.
 - Zubehör - Als Zubehör werden eine Sprühflasche (300 ml) und ein Mikrofasertuch mitgeliefert. Separat erhältlich sind ein Teleskopstangenset und ein Düsenset.
-- Aufbewahrung - Der 100 ml Schmutzwassertank lässt sich zur Reinigung komplett aus dem Gerät entfernen. Eine Wandhalterung zur Aufbewahrung des Fensterreinigers wird mitgeliefert.
+- Streifenfrei - Die einteilige Gummilippe und das optimale Zusammenspiel der 28 cm langen Saugdüse und der Abziehlippe ermöglichen streifenfreie Ergebnisse.
+- Lieferung ohne Akku - Der Einhell Akku-Fensterreiniger BRILLIANTO wird ohne Power X-Change Akkus und ohne Ladegerät geliefert. Diese sind separat erhältlich.
 - Power X-Change - Der Einhell Akku-Fensterreiniger BRILLIANTO ist Teil der Power X-Change Familie, in der Akkus, Ladegeräte und Geräte flexibel kombiniert werden.
 - Unbegrenzte Laufzeit - Dank des Power X-Change Wechselakkusystems kann mit dem Fenstersauger nicht nur völlig kabellos, sondern auch unbegrenzt lange gearbeitet werden.
-- Lieferung ohne Akku - Der Einhell Akku-Fensterreiniger BRILLIANTO wird ohne Power X-Change Akkus und ohne Ladegerät geliefert. Diese sind separat erhältlich.
 - Handhabung - Der leichte, kompakte und handliche Fenstersauger liegt dank Softgrip angenehm in der Hand. Er verfügt zudem über eine Dauerlauffunktion.
+- Aufbewahrung - Der 100 ml Schmutzwassertank lässt sich zur Reinigung komplett aus dem Gerät entfernen. Eine Wandhalterung zur Aufbewahrung des Fensterreinigers wird mitgeliefert.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C65PJPFQ{{</world>}}

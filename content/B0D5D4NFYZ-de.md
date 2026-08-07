@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Quarter Chevrons
-- TPR outsole
 - Padded tongue
+- TPR outsole
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D5D4NFYZ{{</world>}}

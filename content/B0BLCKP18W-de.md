@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Puma Branding-Details auf Zunge, Ferse und Obermaterial
 - Gummilaufsohle
-- Geschichtete Zwischensohle aus Gummi
 - Puma Formstrip an der Seite
+- Geschichtete Zwischensohle aus Gummi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BLCKP18W{{</world>}}

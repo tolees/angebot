@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Verfügbar in den Größen XS-S (58 bis 71 cm), M-XXL (67 bis 95 cm) und XXXL (82 bis 140 cm)
 - Durch sein weiches Textilmaterial, die rutschhemmenden Silikonpunkte und die sichere Schnalle ist dieser Gurt sehr angenehm zu tragen und verrutscht selbst während intensiver Trainings nicht.
 - Die zusätzlichen Elektroden am Gurt zur Verringerung von Störungen machen ihn besonders empfänglich für die elektrischen Signale deines Herzens.
-- Verfügbar in den Größen XS-S (58 bis 71 cm), M-XXL (67 bis 95 cm) und XXXL (82 bis 140 cm)
 - Der Polar Pro Gurt funktioniert mit allen Polar Herzfrequenzsensoren (H9, H10).
 - Dadurch sind eine besonders hohe Präzision bei der Herzfrequenzmessung und die Beseitigung von Störungen sichergestellt.
 - Kompatible Produkte: Polar H9, H10

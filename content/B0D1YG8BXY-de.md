@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ULTRA 5 PRO FG/AG Jr
 - FastTrax Stollen werden mit abgerundeten Stollen an den Seiten kombiniert und bieten optimale Traktion
+- ULTRA 5 PRO FG/AG Jr
 - PWRTAPE Stützrahmen bietet gezielte obere Verstärkung für Halt und Strapazierfähigkeit
 - Normale bis schmale Passform
 

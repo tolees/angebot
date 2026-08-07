@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Einsatzgebiete: Für den Einsatz in legiertem und unlegiertem Stahl, Gussstahl, Gusseisen, Sintereisen, Nichteisenmetalle, Metallblech und Kunststoff bestens geeignet
 - Präzise Arbeit: Aktives Schneiden bei geringer Anpresskraft und perfekte Zentrierung durch Split-Point Bohrspitze
 - Extrem Robust: Die Herstellung aus massivem Metall führt zu einem extrem robusten Körper des Impact Control HSS Spiralbohrers
-- Einsatzgebiete: Für den Einsatz in legiertem und unlegiertem Stahl, Gussstahl, Gusseisen, Sintereisen, Nichteisenmetalle, Metallblech und Kunststoff bestens geeignet
 - Kompatibilität: Passend für alle Schlagbohrmaschinen, Bohrschrauber und Bohrständer mit Sechskantschaftaufnahme
 - Hohe Langlebigkeit: Präzisionsgeschliffene Spiralnut für reduzierten Verschleiß beim Bohren. Die Verwendung von zum Biespiel Öl als Kühlmittel, verlängert zusätzlich die Lebensdauer des Spiralbohrers
 

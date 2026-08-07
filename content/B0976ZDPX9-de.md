@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- BIS ZU 3X MEHR PFLEGE*: Entdecke die beste Pflege, die wir je hatten, mit unserer kompletten Reapir Arganöl Kollektion; *Bei der Anwendung von Shampoo & Pflegespülung oder Shampoo & Haarmaske im Vergleich zu einem Shampoo ohne Pflegestoffe
+- REPARATUR & REGENERATION: Das Shampoo für strapazierte Haare pflegt Haarschäden intensiv und stellt die natürliche Schönheit deiner Haare wieder her
 - VERBESSERT DEINE STIMMUNG: Entfliehe dem Alltag mit dem exotischen Duft, der dich nachweislich* mit neuer Energie versorgt *mittels multimodaler Forschung
 - RECYCELBARE VERPACKUNG: Unsere Shampooflaschen sind recycelbar und bestehen aus recyceltem Plastik (ausser Etiketten, Farbstoffe & Kappe)
-- REPARATUR & REGENERATION: Das Shampoo für strapazierte Haare pflegt Haarschäden intensiv und stellt die natürliche Schönheit deiner Haare wieder her
-- BIS ZU 3X MEHR PFLEGE*: Entdecke die beste Pflege, die wir je hatten, mit unserer kompletten Reapir Arganöl Kollektion; *Bei der Anwendung von Shampoo & Pflegespülung oder Shampoo & Haarmaske im Vergleich zu einem Shampoo ohne Pflegestoffe
 - REGENERIERENDE HAARREINIGUNG: Genieße den reichhaltigen, herrlichen Schaum des Arganöl Shampoos und gönne deinen Harren eine erholsame Reinigung
 - 96% NATÜRLICHEN URSPRUNGS*: Angereichert mit wertvollem Arganöl, das von Pflanzenexperten der Royal Botanic Gardens, Kew, zertifiziert wurde. Vegan & ohne Silikone *Bezieht sich auf die Inhaltsstoffe der Formel
 

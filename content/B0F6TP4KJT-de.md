@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- WEITERE FEATURES: 50 Sekunden Aufheizzeit; automatischer Schlafmodus nach 60 Min ohne Verwendung; 2 Jahre Herstellergarantie; 2,7 m langes Kabel
-- OHNE EXTREME HITZESCHÄDEN: Die PTC-Heiztechnologie mit zwei Sensoren sorgt dafür, dass die optimale Stylingtemperatur über drei Stäbe konstant gehalten wird.
 - PROFESSIONELLE ERGEBNISSE: Glamouröse und gleichmäßige Wellen mit 2x weniger Frizz und 30 % mehr Glanz in nur 3 Sekunden.
 - GHD WAVE: ghd’s erster professioneller triple barrel waver mit drei 32mm Stäben – für lang anhaltende und lockere Beach Waves
+- WEITERE FEATURES: 50 Sekunden Aufheizzeit; automatischer Schlafmodus nach 60 Min ohne Verwendung; 2 Jahre Herstellergarantie; 2,7 m langes Kabel
+- OHNE EXTREME HITZESCHÄDEN: Die PTC-Heiztechnologie mit zwei Sensoren sorgt dafür, dass die optimale Stylingtemperatur über drei Stäbe konstant gehalten wird.
 - SICHERHEITSFEATURES: Die Cool-Tip Spitze ermöglicht sicheren stabilen Halt in den den Händen während des Stylings. Der Sicherheitsständer ermöglicht ein sicheres Ablegen auf Oberflächen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

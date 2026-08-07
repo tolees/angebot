@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Upgrade mit vollen Kapazitäten bis zu 4096GB²
 - Kompakter M.2 2280-Formfaktor
 - PCIe 4.0 NVMe High-Performance
-- Upgrade mit vollen Kapazitäten bis zu 4096GB²
 - Low Profile Graphen-Aluminium-Kühlkörper
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Omni-Shield advanced repellency.
 - Zippered hand pockets.
-- Elastic cuffs.
 - 100% recycled polyester Thermarator insulation.
+- Elastic cuffs.
 - Chin guard.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

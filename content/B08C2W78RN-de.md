@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - besonders bequeme Stretch-Qualität mit 70% Baumwolle (davon 10% nachhaltig produzierte Bio-Baumwolle) und 2% Elasthan
-- Slim-Fit Jeans im Low-Rise, Tapered-Beinschnitt (etwas mehr Weite am Oberschenkel und Knie)
 - klassischer 5-Pocket Style, Nähte in Farbe der Waschung, Gürtelschlaufen
+- Slim-Fit Jeans im Low-Rise, Tapered-Beinschnitt (etwas mehr Weite am Oberschenkel und Knie)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08C2W78RN{{</world>}}

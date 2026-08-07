@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- UNTERSTÜTZUNG DER BETTER COTTON INITIATIVE Wir sind stolzes Mitglied der „Better Cotton Initiative“. Indem sie unsere aus Baumwolle hergestellten Produkte kaufen, unterstützen sie eine nachhaltigeren Anbau von Baumwolle. Die Baumwolle stammt aus einem System der Massenbilanz.
 - 100% Baumwolle
-- Maschinenwäsche
 - T-Shirt für Jungen der dänischen Marke JACK&JONES JUNIOR
+- UNTERSTÜTZUNG DER BETTER COTTON INITIATIVE Wir sind stolzes Mitglied der „Better Cotton Initiative“. Indem sie unsere aus Baumwolle hergestellten Produkte kaufen, unterstützen sie eine nachhaltigeren Anbau von Baumwolle. Die Baumwolle stammt aus einem System der Massenbilanz.
+- Maschinenwäsche
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09BVXKXVH{{</world>}}

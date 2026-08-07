@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Passform: Regular Fit - gerader Schnitt | Unser Model ist 188 cm groß und trägt Größe M
 - Waschhinwes: 40°C Buntwäsche | Nicht chemisch reinigen | Nicht auf Verzierung bügeln | Nicht im Trockner trocknen | Nicht bleichen | Bügeln bei mäßiger Temperatur | Mit ähnlichen Farben waschen | Von links waschen und bügeln | Nass in Form ziehen
 - Ideal zu folgenden Anlässen: Freizeit, Alltag, Sport, Urlaub, Strand, Homeoffice, Wochenende, Frühling, Sommer
-- kurzärmlig & mit Rundhalsausschnitt
+- Passform: Regular Fit - gerader Schnitt | Unser Model ist 188 cm groß und trägt Größe M
 - Basic T-Shirt in Unifarben im praktischen Doppelpack. Aus einem Single-Jersey-Stoff aus Baumwolle
+- kurzärmlig & mit Rundhalsausschnitt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00KGWMWH6{{</world>}}

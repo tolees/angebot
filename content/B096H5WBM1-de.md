@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Glattleder ist strapazierfähig und langlebig
 - Robuste Gummi-Außensohle für optimale Traktion
+- Obermaterial aus Glattleder ist strapazierfähig und langlebig
 - Gepolsterte Schaumstoff-Einlegesohle
 - Dämpfende Schaumstoff-Zwischensohle
 

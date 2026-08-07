@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anwendung: Tragen Sie den Eyeliner vom inneren zum äußeren Augenwinkel entlang der Wimpern auf. Nach jedem Gebrauch wieder gut verschließen und waagerecht lagern, um ein schnelles Austrocknen des Eyeliners zu vermeiden.
-- Filigrane Spitze für präzise Lidstriche: Mit diesem tiefschwarzen Flüssig-Eyeliner lassen sich klare, ebenmäßige Lidstriche ziehen, die jede Augenform gekonnt hervorheben - für eine schnelle Linienführung am Auge.
-- Schnelltrocknend & langanhaltend: Die hochpigmentierte und parabenfreie Textur bietet eine starke Deckkraft, ist zudem schnelltrocknend, langhaftend und hinterlässt ein seidig-mattes Finish.
 - Perfekt für Anfänger: Der praktische Eyeliner ist selbst für Ungeübte mühelos in der Anwendung und liegt durch die ergonomische Grifffläche hervorragend und sicher in der Hand.
+- Anwendung: Tragen Sie den Eyeliner vom inneren zum äußeren Augenwinkel entlang der Wimpern auf. Nach jedem Gebrauch wieder gut verschließen und waagerecht lagern, um ein schnelles Austrocknen des Eyeliners zu vermeiden.
+- Schnelltrocknend & langanhaltend: Die hochpigmentierte und parabenfreie Textur bietet eine starke Deckkraft, ist zudem schnelltrocknend, langhaftend und hinterlässt ein seidig-mattes Finish.
+- Filigrane Spitze für präzise Lidstriche: Mit diesem tiefschwarzen Flüssig-Eyeliner lassen sich klare, ebenmäßige Lidstriche ziehen, die jede Augenform gekonnt hervorheben - für eine schnelle Linienführung am Auge.
 - Lieferumfang: 1 x 1 ml ARTDECO Sensitive Fine Liner in der Farbe Nr. 1 - schwarz / Eyeliner schwarz / vegan / Parfümfrei / Parabenfrei
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

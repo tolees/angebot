@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - ✅ Mit nur 20cm Packmaß passt der Makroschlitten in jeden Foto-Rucksack und ist so, auf jedem Ausflug, griffbereit und einsetzbar und ermöglicht somit überall die etwas andere Perspektive für das Foto.
-- ✅ Durch die Arca-Swiss kompatible Hauptplatte lässt sich jede Kamera problemlos auf dem Schlitten montieren. Durch die Millimeter genaue Verstellung ist der Makro-Schlitten ideal geeignet für Foto-Stacking.
-- ✅ Der Rollei Makroschlitten verfügt über 4 abschraubbare Füße und kann auf jedes Stativ mit 1/4" Schraube montiert werden. Ob auf dem Stativ oder direkt auf den Füßen vor dem Objekt der Makroschlitten ist absolut flexibel einsetzbar.
 - ✅ Besonders leichter, präziser Videoschlitten mit millimetergenauer Präzision. (14mm Hub pro Umdrehung). Mit einer Schienenlänge von 18,8 cm und 360° schwenkbarer Hauptplatte ideal für Makroaufnahmen von kleinen Objekten.
+- ✅ Der Rollei Makroschlitten verfügt über 4 abschraubbare Füße und kann auf jedes Stativ mit 1/4" Schraube montiert werden. Ob auf dem Stativ oder direkt auf den Füßen vor dem Objekt der Makroschlitten ist absolut flexibel einsetzbar.
 - ✅ Lieferumfang: 1 x Makroschlitten, 4 x Füße (abnehmbar) 1 x Schnellmontageplatte
+- ✅ Durch die Arca-Swiss kompatible Hauptplatte lässt sich jede Kamera problemlos auf dem Schlitten montieren. Durch die Millimeter genaue Verstellung ist der Makro-Schlitten ideal geeignet für Foto-Stacking.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09T3NVK5L{{</world>}}

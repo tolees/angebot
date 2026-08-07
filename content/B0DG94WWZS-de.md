@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bewahrt das hauteigene Mikrobiom
-- Bewahrt die Feuchtigkeit der Haut
-- Rezeptur ohne Mikroplastik
 - Das Badeerlebnis durchwärmt den ganzen Körper und ist wohltuend für Rücken, Nacken und Schulter
+- Bewahrt die Feuchtigkeit der Haut
+- Bewahrt das hauteigene Mikrobiom
+- Rezeptur ohne Mikroplastik
 - Mit wertvollem Extrakt der Teufelskralle und natürlichen ätherischem Cajeputöl
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

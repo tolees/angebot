@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dominante Aromen von Zuckerrohr und vergorenen Bananen.
 - Leichter Abgang mit perfekt ausbalancierten Noten.
+- Dominante Aromen von Zuckerrohr und vergorenen Bananen.
 - Im Geschmack finden sich diese Aromen ebenfalls wieder.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

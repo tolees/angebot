@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- torrance black
 - Leather, textile, tpr
 - Quiksilver Shoes torrance black Leather, textile, tpr
-- torrance black
 - Quiksilver Shoes
 
 [🛒 Hier!!]({{< param buyurl >}})

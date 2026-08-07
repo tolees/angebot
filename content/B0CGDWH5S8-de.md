@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gemeinsam Beweise sichten, Rätsel lösen und Orte erkunden
-- Ein story-basiertes, immersives Krimi-Spielerlebnis mit Twist: Einmal Ganove sein
 - Interaktive Website, Google und digitale Features nutzen, um den Fall zu lösen
+- Ein weiterer Titel der Brettspiel-Reihe Masters of Crime
+- Ein story-basiertes, immersives Krimi-Spielerlebnis mit Twist: Einmal Ganove sein
+- Gemeinsam Beweise sichten, Rätsel lösen und Orte erkunden
+- Für 1-6 Spielerinnen und Spieler ab 14 Jahren
+- Kooperativ Entscheidungen treffen und den weiteren Verlauf der Geschichte beeinflussen
 - Exklusiv nur bei Amazon erhältlich
 - Den Fall im karibischen Paradies lösen, um das eigene Drogenkartell zu schützen
-- Kooperativ Entscheidungen treffen und den weiteren Verlauf der Geschichte beeinflussen
-- Für 1-6 Spielerinnen und Spieler ab 14 Jahren
-- Ein weiterer Titel der Brettspiel-Reihe Masters of Crime
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CGDWH5S8{{</world>}}

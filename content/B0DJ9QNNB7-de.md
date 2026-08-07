@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Synthetische Zwischensohle
 - Gummi-Außensohle
 - Obermaterial aus Leder
+- Synthetische Zwischensohle
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DJ9QNNB7{{</world>}}

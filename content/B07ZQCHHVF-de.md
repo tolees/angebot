@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Angenehm leichter Tragekomfort; schnell trocknendes Material
-- EVA-Außensohle
-- Sehen Sie sich die Größentabelle unten an
 - Slip-On-Design
+- EVA-Außensohle
+- Angenehm leichter Tragekomfort; schnell trocknendes Material
+- Sehen Sie sich die Größentabelle unten an
 - Einteiliger, vorgeformter EVA-Riemen
 - Weiches Cloudfoam Fußbett
 

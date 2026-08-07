@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Das TÜV-geprüfte Komplettbett beinhaltet ein umbaubares Babybett, Bettwäsche und eine antiallergische Matratze (70 x 140 cm), sowie einen Himmel
-- Das Kinderbett wurde nach aktueller Sicherheitsnorm EN 716–1+2:2017 in Deutschland entwickelt. Alle verwendete Materialien kommen aus nachhaltigen Quellen und sind schadstoffgeprüft
 - Die Liegefläche des Babybettchens ist 3-fach höhenverstellbar und damit rückenfreundlich für die Eltern. Das Bettchen beinhaltet 3 herausnehmbare Schlupfsprossen für den leichten Ausstieg älterer Kleinkinder
+- Das Kinderbett wurde nach aktueller Sicherheitsnorm EN 716–1+2:2017 in Deutschland entwickelt. Alle verwendete Materialien kommen aus nachhaltigen Quellen und sind schadstoffgeprüft
 - Das Babybett lässt sich ohne weiteres Zubehör zu einem Junior-Kinderbett umbauen und garantiert dadurch eine lange Verwendung. (Max.gewicht 35kg)
 - Das roba Kombi-Kinderbett Little Stars 70x140cm, ist eine ideale, preiswertige Lösung für Babys Erstausstattung
 

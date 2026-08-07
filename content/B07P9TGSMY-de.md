@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Betrieb Traktor mit 3 x AAA-Batterien, Einfache Steuerung: Steuerung aller Funktionen per App oder Gaming Controller per App, Nutzung von mehreren Traktoren mit der App möglich
-- Umfangreiche Funktionen: Vollfunktionsfähiger Frontlader, 1 Antriebs- und 4 Servomotoren, Verschiedene Geschwindigkeitsstufen, Steuerbare Kupplung für Anhänger, 14 LED-Leuchten, austauschbare Anbaugeräte wie z. B. Palettengabel
 - Hohe Stabilität: Gabel und Großteil der Karosserie aus Metall, Reifen aus weichem Gummi, Für Fliesen, Parkett oder auch Teppich geeignet, Höchstes Maß an Sicherheit durch automatische Abschaltung (Rutschkupplung)
-- Detailgetreuer, ferngesteuerter Traktor der Marke Fendt zum Spielen und Spaß haben für Groß und Klein, Steuerung per App via Bluetooth oder Gaming-Controller (SIKU CONTROL-APP erforderlich)
+- Umfangreiche Funktionen: Vollfunktionsfähiger Frontlader, 1 Antriebs- und 4 Servomotoren, Verschiedene Geschwindigkeitsstufen, Steuerbare Kupplung für Anhänger, 14 LED-Leuchten, austauschbare Anbaugeräte wie z. B. Palettengabel
 - Lieferumfang: 1x siku 6793 Fendt 933 Vario Traktor ohne Fernsteuermodul, Anbauteile und Zubehör, Material: Metall/Kunststoff, Maßstab: 1:32, Abmessungen: 24,5 x 9 x 12,1 cm, Gewicht: 0,57 kg, Ohne Batterien, Farbe: Grün, Serie: SIKU CONTROL
+- Betrieb Traktor mit 3 x AAA-Batterien, Einfache Steuerung: Steuerung aller Funktionen per App oder Gaming Controller per App, Nutzung von mehreren Traktoren mit der App möglich
+- Detailgetreuer, ferngesteuerter Traktor der Marke Fendt zum Spielen und Spaß haben für Groß und Klein, Steuerung per App via Bluetooth oder Gaming-Controller (SIKU CONTROL-APP erforderlich)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07P9TGSMY{{</world>}}

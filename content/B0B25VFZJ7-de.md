@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- KOMPATIBEL: Dieses Canon Objektiv liefert eine außergewöhnlich detaillierte Bildqualität mit jeder Canon EOS R Systemkamera – entwickelt für EOS R-System APS-C-Kameras.
-- CANON OBJEKTIV: Erfassen Sie die Welt mit einem kompakten, leichten Tele-Zoom – fortschrittliche Bildstabilisierung & vielseitiger 18-150mm-Bereich – ideal für Alltag & Video.
-- FOTOGRAFIE: Erfassen Sie Motive aus der Nähe und Ferne mit Power und Flexibilität dank des 18-150mm-Bereichs. Holen Sie entfernte Motive und wichtige Momente näher heran.
-- PRAKTISCH & TRAGBAR: Perfekt für Reisen und den Alltag – dank der kompakten Größe können Sie es den ganzen Tag an der Kamera lassen oder bequem in Ihrer Tasche verstauen.
 - VLOGGING-OBJEKTIV: Canon Objektiv bietet kreative Kontrolle & einen 4,5-Stufen-Bildstabilisator für gestochen scharfe Fotos und flüssige Videos.
+- KOMPATIBEL: Dieses Canon Objektiv liefert eine außergewöhnlich detaillierte Bildqualität mit jeder Canon EOS R Systemkamera – entwickelt für EOS R-System APS-C-Kameras.
+- PRAKTISCH & TRAGBAR: Perfekt für Reisen und den Alltag – dank der kompakten Größe können Sie es den ganzen Tag an der Kamera lassen oder bequem in Ihrer Tasche verstauen.
+- FOTOGRAFIE: Erfassen Sie Motive aus der Nähe und Ferne mit Power und Flexibilität dank des 18-150mm-Bereichs. Holen Sie entfernte Motive und wichtige Momente näher heran.
+- CANON OBJEKTIV: Erfassen Sie die Welt mit einem kompakten, leichten Tele-Zoom – fortschrittliche Bildstabilisierung & vielseitiger 18-150mm-Bereich – ideal für Alltag & Video.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B25VFZJ7{{</world>}}

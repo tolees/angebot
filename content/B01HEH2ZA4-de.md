@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Gummi
-- Sohle: 1
 - Obermaterial: Leder - Wildleder
-- Innenmaterial: Synthetik
+- Sohle: 1
 - Absatzform: Flach
+- Innenmaterial: Synthetik
+- Verschluss: Gummi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01HEH2ZA4{{</world>}}

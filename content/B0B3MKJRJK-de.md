@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Stoßdämpfende, flexible Zwischensohle
-- Flexible Traktions-Laufsohle
 - Gepolsterte Komfort-Einlegesohle
+- Flexible Traktions-Laufsohle
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B3MKJRJK{{</world>}}

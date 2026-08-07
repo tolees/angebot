@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hohes Slip on Design
 - PUMA Branding Details
+- Hohes Slip on Design
 - Normale bis schmale Passform
 - Leichtes Mesh-Obermaterial mit einer GRIPCONTROL PRO Schicht für optimale Ballkontrolle mit einem PWRTAPE Stützrahmen
 

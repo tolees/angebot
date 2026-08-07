@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Gepolsterte Komfort-Einlegesohle aus Memory-Schaum
-- Maschinenwaschbar
 - Leichte, flexible, stoßdämpfende Zwischensohle
+- Maschinenwaschbar
 - Weiches, flaches Mesh-Strick-Obermaterial mit Bungee-Schnürung vorne
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flexible Gestaltung
 - EAN 4042146431627
+- Flexible Gestaltung
 - Ecl@ss-Nr. 21040803
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - FÜR INNEN & AUßEN GEEIGNET: Unkomplizierte Pflanzenpflege das ganze Jahr über. Pflanzgefäß mit Bewässerungssystem und Bodenschraube für den Ablauf von überschüssigem Regenwasser.
-- MIT BEWÄSSERUNGSSYSTEM: Das im Pflanzgefäß integrierte Original LECHUZA-Bewässerungssystem versorgt Pflanzen zuverlässig mit der richtigen Menge an Wasser. Mit praktischem Wasserstandsanzeiger für die volle Gießkontrolle.
-- ROBUSTE FLECHTOPTIK: Die Oberfläche täuschend echter Flechtoptik bringt rustikal, charmanten Landhaus-Flair in den Garten, auf die Terrasse und auf den Balkon. In verschiedenen Farben und Größen erhältlich. Robust, pflegeleicht und langlebig.
 - MADE IN GERMANY: Hochwertiger, UV- und witterungsbeständiger Kunststoff, zu 100% recycelbar, langlebig und bruchsicher.
+- ROBUSTE FLECHTOPTIK: Die Oberfläche täuschend echter Flechtoptik bringt rustikal, charmanten Landhaus-Flair in den Garten, auf die Terrasse und auf den Balkon. In verschiedenen Farben und Größen erhältlich. Robust, pflegeleicht und langlebig.
+- MIT BEWÄSSERUNGSSYSTEM: Das im Pflanzgefäß integrierte Original LECHUZA-Bewässerungssystem versorgt Pflanzen zuverlässig mit der richtigen Menge an Wasser. Mit praktischem Wasserstandsanzeiger für die volle Gießkontrolle.
 - ALL-IN-ONE: 1x Pflanzgefäß CUBICO Cottage, inkl. Bewässerungssystem, Pflanzsubstrat LECHUZA-PON als Drainageschicht und wechselbarem Pflanzeinsatz mit versenkbaren Griffen und Wasserstandsanzeiger. Material: Kunststoff Maße: 39,5 x 39,5 x 75,5 cm Wasserspeicher: 7,5 l Pflanzvolumen: 31 l Pflanzeinsatz: 34,5 x 34,5 cm
 
 [🛒 Hier!!]({{< param buyurl >}})

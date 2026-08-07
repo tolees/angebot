@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Durable, weather-resistant 3-layer WINDSTOPPER fabric technology with PFC-free ePE membrane by GORE-TEX LABS
-- Face fabric and backing made from 100% recycled polyester
 - Hood with reinforced peak
+- Face fabric and backing made from 100% recycled polyester
 - 1-point adjustable hood
 - Backing with open 3D structure for optimal moisture-wicking and greater breathability
+- Durable, weather-resistant 3-layer WINDSTOPPER fabric technology with PFC-free ePE membrane by GORE-TEX LABS
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DYK82K42{{</world>}}

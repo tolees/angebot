@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Schnürsenkel
 - Gummi-Cupsohle
 - Obermaterial aus Synthetikleder
-- Schnürsenkel
 - Mesh-Futter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

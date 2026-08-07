@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ABISOLIERWERKZEUG – Die Zange verfügt über einen verstellbaren Längenanschlag (5 - 12 mm) und setzt Leitungen auf Maß ab. Der integrierte Seitenschneider schneidet Kabel (Cu/Al) bis zu einem Durchmesser von 2 mm.
-- INDIVIDUELLER GEBRAUCH – Fungiert als Abisolierer Stromkabel / Wire Stripper / Kabelzange / Abmantelzange / Seitenschneider Tool / Abisolierzange in Handwerk / Industrie / Haushalt / als Elektrikerwerkzeug.
 - DETAILS – Die automatische Abisolierzange für das schnelle und präzise Abisolieren aller gängigen flexiblen und massiven Leiter von 0,2 bis 6,0 mm². Die Zange ist robust / leichtgängig / platzsparend / hat auswechselbare Klingen / ein Abtastsystem, das sich auf Leiterquerschnitt einstellt.
 - ENTMANTELER - Die ergonomisch geformte Kabelzange liegt gut in der Hand / ermöglicht ermüdungsfreies Arbeiten / gleichmäßiges Abisolieren flexibler und massiver Kabel ohne Beschädigung der inneren Leiter.
 - WEICON – 100 % German Quality – Die automatische Abisolierzange wird vollständig in Deutschland hergestellt. Die Zange ist TÜV geprüft in puncto Arbeitssicherheit. Die Klingen bestehen aus hochwertigem Messerstahl aus Solingen – ein langlebiges, erstklassiges Werkzeug.
+- INDIVIDUELLER GEBRAUCH – Fungiert als Abisolierer Stromkabel / Wire Stripper / Kabelzange / Abmantelzange / Seitenschneider Tool / Abisolierzange in Handwerk / Industrie / Haushalt / als Elektrikerwerkzeug.
+- ABISOLIERWERKZEUG – Die Zange verfügt über einen verstellbaren Längenanschlag (5 - 12 mm) und setzt Leitungen auf Maß ab. Der integrierte Seitenschneider schneidet Kabel (Cu/Al) bis zu einem Durchmesser von 2 mm.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B001NUMVHQ{{</world>}}

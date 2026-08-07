@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial : Leder
 - Schuhweite : Medium
+- Obermaterial : Leder
 - Wasserbeständigkeitsgrad : Nicht Wasserfest
 - Absatzform : Kein Absatz
 

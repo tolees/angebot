@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Perforierte Zehenkappe und Verstärkte Zehenkappe
-- Logo Print an der Zunge
 - Luxcomfort Einlegesohle
-- Schaft und Zunge gepolstert
 - EVA Zwischensohle
+- Logo Print an der Zunge
+- Schaft und Zunge gepolstert
 - Logo an Ferse und Markenfenster
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

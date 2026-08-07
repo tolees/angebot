@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ONLBELLA LIFE LS DETAIL O-NECK CC KNT
 - Mit einem leichten und weichen Stoff
 - Angenehmes Tragekomfort
+- ONLBELLA LIFE LS DETAIL O-NECK CC KNT
 - Klassischer und Eleganten Look
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

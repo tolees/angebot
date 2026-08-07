@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gerippter Rundhalsausschnitt
 - 100% Baumwolle
+- Gerippter Rundhalsausschnitt
 - Reguläre Passform
 
 [🛒 Hier!!]({{< param buyurl >}})

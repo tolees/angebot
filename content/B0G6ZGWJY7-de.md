@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Unglaublich dünn und robust: Unterwasserschutz gemäß IP68 und IP69, Widerstandsfähigkeit gemäß Militär-Standard, kratzfestes Corning Gorilla Glass 7i und mehr – darauf ist Verlass
-- Lebensechte Bilder von jedem Objektiv aus: Die drei 50-MP-Objektive, die Leistung von moto ai und Pantone Validated-Farben und -Hauttöne sorgen für atemberaubende Ergebnisse bei jeder Aufnahme
 - Großer Akku in einem ultraflachen Design: Der langlebige 4800-mAh-Silizium-Kohlenstoff-Akku versorgt Sie auf Ihren täglichen Abenteuertouren mit Energie – ohne Kompromisse beim schlanken Profil zu machen
+- Lebensechte Bilder von jedem Objektiv aus: Die drei 50-MP-Objektive, die Leistung von moto ai und Pantone Validated-Farben und -Hauttöne sorgen für atemberaubende Ergebnisse bei jeder Aufnahme
+- Erleben Sie die Leistung des ultraflüssigen Snapdragon 7 der 4. Generation und holen Sie sich bis zu 512 GB Speicherplatz für Ihre Kreationen
 - Unglaublich flaches Design: Glänzt durch seinen Look und der Haptik dank unverwechselbarem Finish und Pantone-Farben in einem ultradünnen Rahmen aus Flugzeugaluminium
 - Auf einem immersiven 6,7-Zoll-Super- HD-Display (1220p, 1,5K) mit 4500 Nits Spitzenhelligkeit wird Ihr Entertainment lebendig
-- Erleben Sie die Leistung des ultraflüssigen Snapdragon 7 der 4. Generation und holen Sie sich bis zu 512 GB Speicherplatz für Ihre Kreationen
+- Unglaublich dünn und robust: Unterwasserschutz gemäß IP68 und IP69, Widerstandsfähigkeit gemäß Militär-Standard, kratzfestes Corning Gorilla Glass 7i und mehr – darauf ist Verlass
 - Optimiert jede Interaktion mit moto ai: Gestalten Sie Ihren Alltag einfacher und intuitiver – vom brillianten Foto bis zum Organisieren Ihrer Benachrichtigungen
 
 [🛒 Hier!!]({{< param buyurl >}})

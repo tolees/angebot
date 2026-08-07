@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- optimale Drehkraftübertragung
+- mit Aufhängeloch
 - mit 2-Komponentengriff
+- optimale Drehkraftübertragung
 - inklusive der gängigsten 1/4" Bits, Bithalter und Bit-Schraubendreher
 - gehärtete Klinge
-- mit Aufhängeloch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001ECR8OE{{</world>}}

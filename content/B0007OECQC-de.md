@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ergonomische Dreikantform: Die Buntstifte liegen dank ihrer dreieckigen Form optimal in der Hand – für Kinder, Schüler und kreatives Arbeiten im Alltag
 - Bruchgeschützte Mine: Die Spezialverleimung sorgt für extra Stabilität – verhindert lästiges Abbrechen der Mine beim Anspitzen oder Fallenlassen
+- Ergonomische Dreikantform: Die Buntstifte liegen dank ihrer dreieckigen Form optimal in der Hand – für Kinder, Schüler und kreatives Arbeiten im Alltag
 - Praktisches 12er Kartonetui: Enthält 12 Farbstifte – in einem Karton Etui verpackt, optimal für Schule, Kindergarten oder zuhause
 - Leuchtende Farben und weicher Abrieb: Die Malstifte überzeugen durch intensive, leuchtkräftige Farben und einen angenehm weichen Farbabstrich – für lebendige Zeichnungen und Malspaß pur
 - Nachhaltige Qualität: Hergestellt aus Holz aus zertifizierter, nachhaltiger Forstwirtschaft und mit umweltfreundlicher Lackierung auf Wasserbasis – verantwortungsvolles Malen mit gutem Gefühl

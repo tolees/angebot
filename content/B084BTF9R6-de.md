@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Feuchtigkeitscreme für das Gesicht
 - Lang anhaltende Feuchtigkeitsversorgung
+- Feuchtigkeitscreme für das Gesicht
 - Leichte Textur
 - Mit schützender und pflegender Wirkung
 

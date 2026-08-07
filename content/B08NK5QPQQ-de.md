@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schlitz am Rücken
 - Lässig weit geschnitten
-- Knopfleiste vorn - Zwei Schulterriegel
 - Extralanger Trenchcoat von ONLY
+- Schlitz am Rücken
+- Knopfleiste vorn - Zwei Schulterriegel
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08NK5QPQQ{{</world>}}

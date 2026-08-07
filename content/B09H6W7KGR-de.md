@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 70 % Baumwolle / 30 % recycelter Polyester (Fleece)
-- Bündchen und Saum gerippt
 - Regulär geschnitten
-- Kängurutasche
+- Bündchen und Saum gerippt
 - Kapuze mit weitenregulierbarem Kordelzug
+- Kängurutasche
+- 70 % Baumwolle / 30 % recycelter Polyester (Fleece)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09H6W7KGR{{</world>}}

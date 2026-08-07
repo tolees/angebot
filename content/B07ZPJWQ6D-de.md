@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Full-HD Rücksichtkamera (1980 x 1080 Pixel); 2 Megapixel CMOS Sensor; 161° Weitwinkel Objektiv - 180° drehbar
-- Scheibenklebehalterung zur unauffälligen Montage
 - USB-Verbindungskabel (Länge 8 m) zur Verbindung mit der Kenwood DRV-A501W
+- Scheibenklebehalterung zur unauffälligen Montage
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07ZPJWQ6D{{</world>}}

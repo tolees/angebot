@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Integrierte Klinge zum Abschneiden von Datenkabeln
-- Universelles Abisolierwerkzeug für Koaxialkabel RG 59, RG 6, RG 7, RG 11
-- Für die Abisolierung von Außenmantel, Abschirmung und Isolation in einem Arbeitsgang
 - Justierbare Abisolierklinge für Datenkabel
+- Für die Abisolierung von Außenmantel, Abschirmung und Isolation in einem Arbeitsgang
+- Universelles Abisolierwerkzeug für Koaxialkabel RG 59, RG 6, RG 7, RG 11
 - Zwei Abisolierklingen zum Abschneiden und Abmanteln von Telefon-Flachbandkabeln (4P/6P/8P) in einem Arbeitsgang
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

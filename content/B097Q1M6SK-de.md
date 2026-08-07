@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Volumenerweiterung durch Roll-Top Verschluss
 - Verstaubare Hüftflossen für legeres Tragen
+- Volumenerweiterung durch Roll-Top Verschluss
 - Wasserdicht
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

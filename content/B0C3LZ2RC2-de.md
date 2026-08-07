@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- HOCHKONZENTRIERT: Dank der hochkonzentrierten Formel ergibt ein Squeezie etwa 8 Liter Fertiggetränk – super ergiebig
-- REDESIGN: Wir befinden uns gerade inmitten eines Redesign, daher kann es sein, dass einzelne Geschmäcker vom Design variieren können
-- FÜR UNTERWEGS: Dank dem praktischen und kleinen Format kannst unseren Zerup einfach in deine Hosentasche packen und überall mit hinnehmen
 - STRENG GEPRÜFT: Unsere Zerup wird mit besten Rohstoffen und nach höchsten Qualitätsstandards in Deutschland hergestellt
+- FÜR UNTERWEGS: Dank dem praktischen und kleinen Format kannst unseren Zerup einfach in deine Hosentasche packen und überall mit hinnehmen
+- OHNE ZUCKER: Unser Zerup ist mit Süßungsmitteln gesüßt, dadurch ist er zuckerfrei und enthält so gut wie keine Kalorien
 - LECKER & FRUCHTIG: Pink Grapefruit, Apple Cranberry, Peach – ganz egal in welcher Sorte, unser Zerup überzeugt mit fruchtig frischem Geschmack
 - FÜR ALLE: Unser Zerup ist perfekt für alle, die Fruchtsäfte oder Limonaden lieben, aber im Alltag auf Zucker und unnötige Kalorien verzichten möchten
-- OHNE ZUCKER: Unser Zerup ist mit Süßungsmitteln gesüßt, dadurch ist er zuckerfrei und enthält so gut wie keine Kalorien
+- REDESIGN: Wir befinden uns gerade inmitten eines Redesign, daher kann es sein, dass einzelne Geschmäcker vom Design variieren können
+- HOCHKONZENTRIERT: Dank der hochkonzentrierten Formel ergibt ein Squeezie etwa 8 Liter Fertiggetränk – super ergiebig
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C3LZ2RC2{{</world>}}

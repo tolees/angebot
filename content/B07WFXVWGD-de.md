@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Empfohlenes Alter: ab 8 Jahren
-- Packung die Größe: 4.0 L x 28.0 H x 19.0 W (cm)
 - Spieleranzahl: ab 1 Spieler
+- Packung die Größe: 4.0 L x 28.0 H x 19.0 W (cm)
 - 200 Teile Kinderpuzzle inkl. Feenstab
 
 [🛒 Hier!!]({{< param buyurl >}})

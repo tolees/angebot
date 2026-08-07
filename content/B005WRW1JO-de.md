@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Schonend entkoffeiniert für unbeschwerten Genuss zu jeder Tageszeit
 - Spezialveredelt und vollendet durch die Dallmayr Vollaromaröstung
+- 100 % Arabica – ausgewählte Hochlandkaffees für feinen Kaffeegenuss
+- Ca. 15 Tassen Dallmayr prodomo entcoffeiniert entsprechen dem Koffeingehalt von 1 Tasse Dallmayr prodomo
 - Ideal für alle, die auf Koffein verzichten und nicht auf Genuss verzichten möchten
 - Ideal für Handfilter, Filterkaffeemaschine und French Press
-- 100 % Arabica – ausgewählte Hochlandkaffees für feinen Kaffeegenuss
-- Schonend entkoffeiniert für unbeschwerten Genuss zu jeder Tageszeit
-- Auch am Abend die perfekte Wahl
 - Harmonischer, ausgewogener Geschmack mit vollem Aroma
-- Ca. 15 Tassen Dallmayr prodomo entcoffeiniert entsprechen dem Koffeingehalt von 1 Tasse Dallmayr prodomo
+- Auch am Abend die perfekte Wahl
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B005WRW1JO{{</world>}}

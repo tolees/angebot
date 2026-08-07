@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Obermaterial: Glattleder
-- Innenmaterial: Glattleder
-- Absatzform: Schnalle
 - Sohle: PU
+- Absatzform: Schnalle
+- Innenmaterial: Glattleder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B076X6CQX3{{</world>}}

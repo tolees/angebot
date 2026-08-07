@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - extrabreiter Tunnelzug
-- verdeckter Knopfleistenverschluss
 - weitenverstellbarer beinsaum durch kordelzug
 - 4 große Bein-Cargotaschen
+- verdeckter Knopfleistenverschluss
 - authentischer used-look
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

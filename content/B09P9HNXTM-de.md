@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Set mit 10 Bausteinen für das Baby zum Stapeln, Sortieren und Durchstecken
 - Kindgerechter Griff zum Mitnehmen für unterwegs
+- Set mit 10 Bausteinen für das Baby zum Stapeln, Sortieren und Durchstecken
 - Für Babys ab 6 Monaten
 - Führt Babys an Farben, Zahlen und Formen heran
 - Alle Bausteine lassen sich leicht im Eimer verstauen

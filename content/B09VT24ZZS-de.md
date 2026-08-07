@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Synthetikfutter
-- Reguläre Passform
 - Schnürsenkel
+- Reguläre Passform
+- Synthetikfutter
 - Obermaterial aus Synthetikleder
 - Gummiaußensohle
 

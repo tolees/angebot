@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- VERLÄNGERTE HALTBARKEIT: Durch den Einsatz unseres innovativen Kühlakkus COLD bleiben Waren wie kühlbedürftiges Fleisch und Fisch oder portionierbares Speiseeis in einem Temperaturbereich -9°C bis -3°C länger frisch.
 - MODELL "COLD": Material: HDPE, Farbe: Blau, Temperaturbereich: -9°C bis -3°C, Größe: 32,5 x 26,5 x 2,35 cm, Gewicht: 1,36 kg, spülmaschinentauglich, nachhaltig dank weniger Material im Vergleich zur Materialstärke von Standdardakkus
 - OPTIMALE TEMPERATURKONTROLLE: Die siebenteilige ThermoCell Reihe besticht mit Gastro Kühlakkus, welche Lebensmittel zuverlässig auf der gewünschten kalten Temperatur halten, während unsere Wärmeakkus dafür sorgen, dass Speisen warm und servierfähig bleiben.
-- VERLÄNGERTE HALTBARKEIT: Durch den Einsatz unseres innovativen Kühlakkus COLD bleiben Waren wie kühlbedürftiges Fleisch und Fisch oder portionierbares Speiseeis in einem Temperaturbereich -9°C bis -3°C länger frisch.
 - SCHNELL GELADEN: Die geringe Gesamtstärke der ThermoCell Akkus erlaubt eine um 35% kürzere Ladezeit gegenüber herkömmlichen Akkus und reduziert den Energieverbrauch spürbar gegenüber elektrischen Kühl- und Wärmesystemen.
 - NACHHALTIGKEIT: Unsere Kühlakkus sind wiederverwendbar und tragen somit zur Reduzierung von Einwegplastik und Abfall bei, während die Produkte oder Speisen mit der richtigen Temperatur ans Ziel ankommen.
 

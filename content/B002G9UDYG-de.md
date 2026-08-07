@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fold-up cuff
 - Carhartt label on front
 - Rib knit
+- Fold-up cuff
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B002G9UDYG{{</world>}}

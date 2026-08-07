@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Material: Hochwertiges Porzellan für Langlebigkeit und Schönheit.
 - Größe: 9 cm Höhe, perfekt für die meisten Weihnachtsbäume und Dekorationsideen.
 - Qualität: Handgefertigt mit hoher Präzision und Liebe zum Detail, charakteristisch für Villeroy & Boch.
-- Material: Hochwertiges Porzellan für Langlebigkeit und Schönheit.
 - Verwendung: Geeignet zur Dekoration von Weihnachtsbäumen, als Tischschmuck oder als Geschenk.
 - Design: Nostalgisches Schaukelpferd-Motiv mit traditionellen Weihnachtsfarben und feinen Details.
 

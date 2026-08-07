@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - PUMA Logo auf der Zunge
-- Reguläre Breite
 - Gedrucktes PUMA Branding
 - PUMA Formstrip an den seitlichen Seiten
+- Reguläre Breite
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D2KKKDC6{{</world>}}

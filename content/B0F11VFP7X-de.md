@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - L 19,7 cm B 7,6 cm H 12,7 cm
-- Glänzende goldfarbene Beschläge
 - Verfügt über 2 Fächer, 1 Reißverschlusstasche und 3 Kartenfächer
+- Glänzende goldfarbene Beschläge
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0F11VFP7X{{</world>}}

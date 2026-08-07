@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dual-Host Bluetooth Konnektivität & 1x AA Batterie für eine Nutzungszeit von 12 Monaten
-- DPI Adjustment (2400, 1600, 800) und 2-Way Scrolling mit Silent Button
-- Lieferumfang: Maus, USB, 1xAA Batterie, Quick Start Guide, Garantieschein
-- Silent Wireless Maus mit Blue Optical Sensor geeignet auf nahezu jeder Glasoberfläche
 - Herstellergarantie: 12 Monate. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt.
+- DPI Adjustment (2400, 1600, 800) und 2-Way Scrolling mit Silent Button
+- Silent Wireless Maus mit Blue Optical Sensor geeignet auf nahezu jeder Glasoberfläche
+- Lieferumfang: Maus, USB, 1xAA Batterie, Quick Start Guide, Garantieschein
+- Dual-Host Bluetooth Konnektivität & 1x AA Batterie für eine Nutzungszeit von 12 Monaten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08LW31NQ6{{</world>}}

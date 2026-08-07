@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die Ken-Puppe besitzt 8 Bewegungspunkte für dynamische Posen und kann dadurch besonders gut in Szene gesetzt werden.
-- Diese Blumen heißen die Lebenden und die Toten willkommen und zieren die Weste und Hosenbeine als metallisch goldenen Saum. Auch an dem Ärmelaufschlag seines Hemdes blühen farbenfrohe Studentenblumen.
-- Die Barbie Día De Muertos Kollektion ehrt diesen Feiertag durch eine kuratierte Auswahl von Outfits, die die Kultur, die Rituale und die Symbole hervorheben, die oft während dieses Gedenktags verwendet werden.
+- Als Inspiration für den Anzug dieser Ken-Puppe dient die bunte Cempasúchil-Blume (oder Studentenblume), mit der in der traditionellen mexikanischen Kultur Altare und Gräber von geliebten Menschen geschmückt werden.
 - Der Look von Ken wird durch ein cremefarbenes Hemd, eine seidig glänzende Schleife und einen Sombrero unterstrichen. Sein Gesicht ziert ganz traditionell ein einzigartiges Calavera-Design und auf seinen Händen sind Skelettknochen aufgemalt.
 - Die „Día De Muertos“ Ken-Puppe 2025 befindet sich in einer Verpackung mit farbenfrohen Studentenblumen, die sich perfekt zum Präsentieren und Verschenken eignet. Möge er ein freudiger Teil der Festlichkeiten zum Gedenken an geliebte Menschen werden!
-- Als Inspiration für den Anzug dieser Ken-Puppe dient die bunte Cempasúchil-Blume (oder Studentenblume), mit der in der traditionellen mexikanischen Kultur Altare und Gräber von geliebten Menschen geschmückt werden.
+- Die Barbie Día De Muertos Kollektion ehrt diesen Feiertag durch eine kuratierte Auswahl von Outfits, die die Kultur, die Rituale und die Symbole hervorheben, die oft während dieses Gedenktags verwendet werden.
+- Diese Blumen heißen die Lebenden und die Toten willkommen und zieren die Weste und Hosenbeine als metallisch goldenen Saum. Auch an dem Ärmelaufschlag seines Hemdes blühen farbenfrohe Studentenblumen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DMWDS9PJ{{</world>}}

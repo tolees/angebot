@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schmaler Deckel - weniger Plastik
-- vegan* *Dem Produkt wurden keine tierischen Bestandteile zugesetzt.
 - Granatapfel & Kakao
-- Bewahrt die Feuchtigkeit der Haut
+- vegan* *Dem Produkt wurden keine tierischen Bestandteile zugesetzt.
 - 98% biologisch abbaubare Inhaltsstoffe (gem. OECD oder äquivalenten Methoden)
+- Schmaler Deckel - weniger Plastik
+- Bewahrt die Feuchtigkeit der Haut
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BGXD8ZDP{{</world>}}

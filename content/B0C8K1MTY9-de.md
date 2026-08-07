@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: 80% Gummi - 20% recycelter Gummi
 - Farbe: Schwarz
-- Obermaterial: 95 % Rindsleder 5 % Textil (84 % recyceltes PET - 16 % Latex)
+- Sohle: 80% Gummi - 20% recycelter Gummi
 - Better Leather
+- Obermaterial: 95 % Rindsleder 5 % Textil (84 % recyceltes PET - 16 % Latex)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C8K1MTY9{{</world>}}

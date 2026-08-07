@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ohne künstliche Geschmacksverstärker, künstliche Aromen oder künstliche Farbstoffe
 - Würzig-fruchtige Geschmack der Paprika
 - Die folgenden Informationen gelten für jede Einheit pro Packung
+- Ohne künstliche Geschmacksverstärker, künstliche Aromen oder künstliche Farbstoffe
 - Natürlich gebackene Ofen Chips
 - Mit reinem Sonnenblumenöl
 - Geeignet für Vegetarier

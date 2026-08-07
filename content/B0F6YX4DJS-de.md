@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Verfügbar in 11 vollständig synchronisierten Sprachen mit zusätzlichen Untertiteloptionen für 14 weitere Sprachen
-- Meistere ein vielfältiges Waffenarsenal einschließlich Doppelkatanas, Odachi und Kusarigama in dynamischen Kampfsequenzen
-- Vollständig optimiert für PS5 mit haptischem Feedback, adaptiven Triggern, 3D-Audio und blitzschnellen Ladezeiten
 - Erkunde atemberaubende Landschaften rund um den Berg Yōtei mit verschneiten Gipfeln, Wildblumenfeldern und endlosen Grasebenen
 - Ein episches Action-Adventure im feudalen Japan, 300 Jahre nach Ghost of Tsushima, mit der einsamen Kriegerin Atsu auf ihrem Weg zur Vergeltung
+- Meistere ein vielfältiges Waffenarsenal einschließlich Doppelkatanas, Odachi und Kusarigama in dynamischen Kampfsequenzen
+- Vollständig optimiert für PS5 mit haptischem Feedback, adaptiven Triggern, 3D-Audio und blitzschnellen Ladezeiten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0F6YX4DJS{{</world>}}

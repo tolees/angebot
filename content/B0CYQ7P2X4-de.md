@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus beschichtetem Leder
-- Reguläre Passform
-- Textilfutter
 - Schnürsenkel
+- Obermaterial aus beschichtetem Leder
+- Textilfutter
+- Reguläre Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CYQ7P2X4{{</world>}}

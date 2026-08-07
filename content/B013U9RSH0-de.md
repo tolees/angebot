@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Akkubetrieb, bis zu 40 Minuten Betriebszeit, Ladekontrollanzeige
-- 1 verstellbarer Aufsteckkamm (2-20 mm), 5 Aufsteckkämme (1, 5, 3, 6, 9, 12 mm)
-- Mini-folienrasieraufsatz, detail-trimmer für ein präzises Styling (0, 2 mm)
 - 4 abwaschbare Aufsteckköpfe: breiter Trimmer, linearer Trimmer für Nasen- und ohrenhaare
 - Titanbeschichtete, selbstschärfende Klingen
+- Mini-folienrasieraufsatz, detail-trimmer für ein präzises Styling (0, 2 mm)
+- 1 verstellbarer Aufsteckkamm (2-20 mm), 5 Aufsteckkämme (1, 5, 3, 6, 9, 12 mm)
+- Akkubetrieb, bis zu 40 Minuten Betriebszeit, Ladekontrollanzeige
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B013U9RSH0{{</world>}}

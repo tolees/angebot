@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Active Noise Cancelling (ANC) blockiert externe Geräusche, um dir einen absoluten Fokus zu geben. Im Transparenzmodus kannst du deine Umgebung wahrnehmen, wenn du möchtest.
+- Bis zu 30 Stunden Akkulaufzeit mit dem Ladecase und bis zu 7 Stunden je In‑Ear Kopfhörer mit einer Ladung. Bei niedrigem Akkustand bekommst du mit Fast Fuel durch schnelles 5-minütiges Laden bis zu 1 Stunde Wiedergabezeit.
+- Schnellladefunktion. Unterstützt Schnellladefunktion bis zu 60 Watt und Datenübertragung mit USB 2.0-Geschwindigkeit.
 - Extrem langlebig. Dank eines gewebten, verwicklungsfreien Designs, das verstärkt ist, um Ausfransen zu verhindern.
 - Kompatibles Ladegerät für USB-C-Geräte. Einschließlich aller kompatiblen Apple und Android Produkte, Apple CarPlay und Android Auto.
-- Bis zu 30 Stunden Akkulaufzeit mit dem Ladecase und bis zu 7 Stunden je In‑Ear Kopfhörer mit einer Ladung. Bei niedrigem Akkustand bekommst du mit Fast Fuel durch schnelles 5-minütiges Laden bis zu 1 Stunde Wiedergabezeit.
 - High-Performance In-Ear Kopfhörer zum Trainieren mit universell sicher sitzenden Ohrbügeln, die sich leicht in dein Ohr klemmen lassen, für außergewöhnliche Stabilität und ganztägigen Komfort. Die maßgeschneiderte Akustikplattform liefert einen kraftvollen, ausgewogenen Beats Sound im gesamten Audiospektrum.
-- IPX4 Schweiß- und Wasserbeständigkeit für intensives Training bei Regen, Hitze oder Schnee. Das Ladecase ist 17 % kleiner als sein Vorgänger. Das Case ist ebenfalls schweiß- und wasserabweisend und hat ein IPX4-Zertifikat.
+- Active Noise Cancelling (ANC) blockiert externe Geräusche, um dir einen absoluten Fokus zu geben. Im Transparenzmodus kannst du deine Umgebung wahrnehmen, wenn du möchtest.
 - Lieferumfang: USB-C auf USB-C-Kabel. USB-C Netzadapter nicht enthalten.
-- Schnellladefunktion. Unterstützt Schnellladefunktion bis zu 60 Watt und Datenübertragung mit USB 2.0-Geschwindigkeit.
+- IPX4 Schweiß- und Wasserbeständigkeit für intensives Training bei Regen, Hitze oder Schnee. Das Ladecase ist 17 % kleiner als sein Vorgänger. Das Case ist ebenfalls schweiß- und wasserabweisend und hat ein IPX4-Zertifikat.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0FRG27XXX{{</world>}}

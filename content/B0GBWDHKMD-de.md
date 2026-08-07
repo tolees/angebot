@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Verstärkte Kugelenden minimieren ein Verrutschen und Brechen der einfachen Saiten.
+- Die proprietäre Nanobehandlung von Ernie Ball weist Öle ab, widersteht Korrosion und hält Ihren Ton länger lebendig
 - Hergestellt in den USA.
 - Ultrahochfester Stahlkerndraht und glatte Saiten
 - Die folgenden Informationen gelten für jede Einheit pro Packung
-- Die proprietäre Nanobehandlung von Ernie Ball weist Öle ab, widersteht Korrosion und hält Ihren Ton länger lebendig
-- Verstärkte Kugelenden minimieren ein Verrutschen und Brechen der einfachen Saiten.
 - Legendärer Slinky-Ton und Spielgefühl, gepaart mit ultimativer Stärke für lange Haltbarkeit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

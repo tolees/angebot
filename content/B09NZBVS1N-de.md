@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MEGA-Bauset mit realitätsgetreuem Design, filigranen Details und authentischen Dekorationen aus dem MOTU-Universum
+- Ram Man, Webstor und Screeech sind erstmals im MEGA-Sortiment verfügbar
+- Snake Mountain zum Selberbauen, der sich vollständig auf- und zuklappen lässt und viel Platz außen und innen zum Spielen und Ausstellen bietet (öffnet horizontal)
 - 60 cm breit (im geöffneten Zustand)
 - Enthält hochwertige Vintage-Verpackung und MEGA-Überraschungen
-- Snake Mountain zum Selberbauen, der sich vollständig auf- und zuklappen lässt und viel Platz außen und innen zum Spielen und Ausstellen bietet (öffnet horizontal)
-- Ram Man, Webstor und Screeech sind erstmals im MEGA-Sortiment verfügbar
-- Zu den beweglichen Bauelementen gehören ein Dämonenkopf mit beweglichem Kiefer, eine funktionierende Falltür, die sich über der Monstergrube öffnet, eine wackelnde Hängebrücke, eine auseinanderbrechende Wand als Fluchtweg, ein abnehmbares Wolfskopf-Totem und ein beweglicher Schlangenkopf und -torso
-- Zu den 6 detailgetreuen, super beweglichen Mikro-Actionfiguren gehören Thunder Punch He-Man, Dragon Blaster Skeletor mit Drache und Screeech, Evil-Lyn, Trap Jaw, Webstor und Ram Man, mit Display-Ständern und austauschbaren Waffen wie dem Havoc-Stab, transparenten gelben und lilafarbenen Schwertern der Macht und dem Spinnenarmrucksack mit funktionsfähigem Seilgreifhaken
 - Kooperatives Bauerlebnis Snake Mountain ist zum gemeinsamen Zusammenbauen mit Freunden konzipiert, bietet aber auch eine spannende Herausforderung für einzelne Bastler
+- Zu den 6 detailgetreuen, super beweglichen Mikro-Actionfiguren gehören Thunder Punch He-Man, Dragon Blaster Skeletor mit Drache und Screeech, Evil-Lyn, Trap Jaw, Webstor und Ram Man, mit Display-Ständern und austauschbaren Waffen wie dem Havoc-Stab, transparenten gelben und lilafarbenen Schwertern der Macht und dem Spinnenarmrucksack mit funktionsfähigem Seilgreifhaken
+- Zu den beweglichen Bauelementen gehören ein Dämonenkopf mit beweglichem Kiefer, eine funktionierende Falltür, die sich über der Monstergrube öffnet, eine wackelnde Hängebrücke, eine auseinanderbrechende Wand als Fluchtweg, ein abnehmbares Wolfskopf-Totem und ein beweglicher Schlangenkopf und -torso
+- MEGA-Bauset mit realitätsgetreuem Design, filigranen Details und authentischen Dekorationen aus dem MOTU-Universum
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09NZBVS1N{{</world>}}

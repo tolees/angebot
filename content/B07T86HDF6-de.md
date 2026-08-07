@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Alkoholgehalt: 4.6%
 - Fass für die Zapfanlage
-- Das Gastronomie Erlebnis für zu Hause
 - Volumen: 8000.0 milliliter
+- Das Gastronomie Erlebnis für zu Hause
 - Frisch gezapft und eiskalt genießen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

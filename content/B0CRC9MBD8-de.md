@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obbermaterial: 100 % Rindsleder
-- Futter: 65 % Stoff (65 % Wolle - 35 % recyceltes Polyester), 35 % Schweinsleder
 - Laufsohle: 100% Gummi
-- Farbe: Schwarz
+- Futter: 65 % Stoff (65 % Wolle - 35 % recyceltes Polyester), 35 % Schweinsleder
+- Obbermaterial: 100 % Rindsleder
 - Better Leather,Better Linings
+- Farbe: Schwarz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CRC9MBD8{{</world>}}

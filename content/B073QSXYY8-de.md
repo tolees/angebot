@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfacher Austausch von Standardglühlampen, echter Ersatz für eine 100-W-Glühbirne (Außenanwendungen nur in geeigneten Leuchten)
 - Warmweißes Licht für Wohlbehagen und Entspannung in Wohn-, Schlaf-, und Kinderzimmern
+- Energieverbrauch 13 kWh/1000h bei 1521 lm
+- Einfacher Austausch von Standardglühlampen, echter Ersatz für eine 100-W-Glühbirne (Außenanwendungen nur in geeigneten Leuchten)
 - Sofort volles Licht, keine Aufwärmzeit
 - Lange Lebensdauer – bis zu 15000 Stunden und bis zu 100000 Schaltzyklen
-- Energieverbrauch 13 kWh/1000h bei 1521 lm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B073QSXYY8{{</world>}}

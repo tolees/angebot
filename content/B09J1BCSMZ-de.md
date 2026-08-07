@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Individuelle Glückszahlen für mehr Spannung
 - Qwixx Würfelspiel mit achtseitigen Würfel
 - Qwixx, nominiert zum Spiel des Jahres 2013
-- Individuelle Glückszahlen für mehr Spannung
-- Internationale Version mit einer Anleitung in 9 Sprachen
 - Teil der großen Qwixx-Familie
+- Internationale Version mit einer Anleitung in 9 Sprachen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09J1BCSMZ{{</world>}}

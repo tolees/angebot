@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Basketballschuhe
 - Dämpfung
+- Basketballschuhe
 - Retro-Stil
 
 [🛒 Hier!!]({{< param buyurl >}})

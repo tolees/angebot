@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mehr als 30 Stunden Akkulaufzeit und Schnellladefunktion.
 - Höre nur das, was du hören möchtest. Die aktive Geräuschunterdrückung mit Silent Seal 1.5 filtert Außengeräusche heraus. Oder wechsle in den Transparenzmodus, um die Welt um dich herum zu hören.
+- Mehr als 30 Stunden Akkulaufzeit und Schnellladefunktion.
 - Kristallklarer Sound. Der dynamische 11-mm-Lautsprechertreiber sorgt für glasklares Audio. Und mit dem 5-Band-Equalizer kannst du die Lautstärke anpassen.
 - Bearbeite deine Fotos mit nur ein paarmal tippen. Entferne Objekte, ändere Hintergründe und vieles mehr – direkt in Fotos.
 

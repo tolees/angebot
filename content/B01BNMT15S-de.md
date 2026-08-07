@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hergestellt im Vereinigten Staaten
 - Reinigungsschaum
+- Hergestellt im Vereinigten Staaten
 - Clinique
 - Extra gentle - Cleansing foam
 

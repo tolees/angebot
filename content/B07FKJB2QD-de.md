@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Standardpassform für ein unkompliziertes, relaxtes Tragegefühl
 - Klassisches, aufgesticktes Logo auf der linken Brust
 - Hochwertige Baumwolle ist angenehm und weich auf der Haut
+- Standardpassform für ein unkompliziertes, relaxtes Tragegefühl
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07FKJB2QD{{</world>}}

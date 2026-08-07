@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Frisch & sauber: Kissenbezug einfach abnehmbar und bei 60°C waschbar
 - Festes Liegegefühl: Das Schlafkissen folgt der natürlichen Krümmung des Nackens und bietet hervorragende Nackenunterstützung
+- Frisch & sauber: Kissenbezug einfach abnehmbar und bei 60°C waschbar
 - Eingewöhnungszeit: Anfänglich kann das Kissen sehr fest oder steif wirken - Das TEMPUR Material reagiert auf Körper- sowie Raumtemperatur und passt sich langsam individuell Ihren Bedürfnissen an und garantiert ein bequemes Liegegefühl
 - Ergonomisches Design: Unterstützt bei der korrekten anatomischen Liegeposition
 - Komfort & Unterstützung: Ergonomisches Nackenkissen für Seiten- und Rückenschläfer

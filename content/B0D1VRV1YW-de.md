@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einfache Anpassung: Mit der My Coffee Choice-Funktion können Sie die Kaffeespezialitäten ganz nach Ihrem Geschmack zubereiten: Wählen Sie Ihre bevorzugte Kaffeestärke, Größe und Milchschaummenge.
+- Einfache Kaffeeauswahl: Dank des modernen Touchscreen-Displays mit farbigen Symbolen können Sie Ihre Lieblingsgetränke ganz einfach auswählen.
+- Aquaclean-Filter: Wenn Sie den Filter nach Aufforderung der Maschine wechseln, entkalken Sie die Maschine erst nach bis zu 5000 Tassen (2) und genießen Sie Kaffee mit klarem, gereinigtem Wasser.
 - SilentBrew: Leise Zubereitung von aromatischem Kaffee mit unserer branchenführenden SilentBrew-Technologie
 - Langlebiges Keramikmahlwerk: Holen Sie mit unserem strapazierfähigen Keramikmahlwerk den vollen Kaffeegeschmack. Das langlebige Keramikmahlwerk kann 12-stufig von fein bis grob eingestellt werden.
-- Aquaclean-Filter: Wenn Sie den Filter nach Aufforderung der Maschine wechseln, entkalken Sie die Maschine erst nach bis zu 5000 Tassen (2) und genießen Sie Kaffee mit klarem, gereinigtem Wasser.
-- Einfache Kaffeeauswahl: Dank des modernen Touchscreen-Displays mit farbigen Symbolen können Sie Ihre Lieblingsgetränke ganz einfach auswählen.
 - Seidig-weicher Milchschaum: LatteGo bereitet automatisch sanften Milchschaum für einen Milchkaffee mit verschiedenen Milchsorten zu. LatteGo, unser am schnellsten zu reinigendes Milchsystem: 2 Teile, keine Schläuche.
 
 [🛒 Hier!!]({{< param buyurl >}})

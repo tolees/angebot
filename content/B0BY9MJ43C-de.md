@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EINFACH AUSMESSEN - Um zu wissen, welche Halterung die Richtige für Sie ist, vergleichen Sie bitte die Länge der Aufständerung - die Seite des Panels sollte max. so lang sein wie unsere 114 cm PV Modul Halterung.
-- LIEFERUMFANG - Unser Montageset für Solarmodule enthält 2 x 2 Montagedreiecke, Schrauben & eine Montageanleitung auf Deutsch - Sie benötigen 1 Paar Halterungen zur Installation eines Solarpanels!
 - AVOLTIK - Von der Photovoltaik Inselanlage bis hin zur Balkonkraftwerk Halterung - Wir bieten innovative & nachhaltige Lösungen in Top-Qualität sowie einen kundennahen Service.
+- EINFACH AUSMESSEN - Um zu wissen, welche Halterung die Richtige für Sie ist, vergleichen Sie bitte die Länge der Aufständerung - die Seite des Panels sollte max. so lang sein wie unsere 114 cm PV Modul Halterung.
 - LEICHTE MONTAGE - Installieren Sie Ihre Solarmodule horizontal oder vertikal, mit einem verstellbaren Neigungswinkel von 0⁰ - 90⁰ - dank dem Montageset kann die Halterung schnell & sicher angebracht werden.
+- LIEFERUMFANG - Unser Montageset für Solarmodule enthält 2 x 2 Montagedreiecke, Schrauben & eine Montageanleitung auf Deutsch - Sie benötigen 1 Paar Halterungen zur Installation eines Solarpanels!
 - IDEAL FÜR VIELE SOLARMODULE, egal ob monokristallin oder polykristallin, ist unsere stabile sowie korrosions-, witterungs & druckbeständige Aufständerung aus hochwertigem & leichtem Aluminium.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Schnürsenkel
 - Verstärkter Zehenbereich
 - Obermaterial aus Leder
-- Schnürsenkel
 - Textilfutter
 - Reguläre Passform
 

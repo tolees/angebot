@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Elektret-Kondensator Stereo-Mikrofon mit 3,5 mm Audio-Klinkenanschluss
+- 100 Hz bis 10 kHz Frequenzbereich
 - Windschutz
 - Stromversorgung durch kompatible Canon-Kameras
+- Elektret-Kondensator Stereo-Mikrofon mit 3,5 mm Audio-Klinkenanschluss
 - Blitzschuhhalterung mit Sicherungsring
-- 100 Hz bis 10 kHz Frequenzbereich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07ZL2SMRT{{</world>}}

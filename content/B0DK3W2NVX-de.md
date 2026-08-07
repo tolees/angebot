@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die folgenden Informationen gelten für jede Einheit pro Packung
-- 以下の情報は単品あたりの情報です。
 - Besondere Merkmale: Ganze Bohnen für ein frisches und intensives Aroma; Ideal für Siebträgermaschinen und Kaffeevollautomaten geeignet
-- Intensität: Mittelkräftige Intensität (6/10), ideal für Café Crema
 - Geschmack: Aromatisch, nussig und mit einer erfrischenden Zitrusnote
+- 以下の情報は単品あたりの情報です。
 - Herkunft: Sorgfältig ausgewählte Kaffeebohnen aus den besten Anbaugebieten
 - Nachhaltigkeit: Unterstützt nachhaltige Anbaumethoden und die Reduzierung von Verpackungsmaterial durch das Common Grounds Projekt
+- Intensität: Mittelkräftige Intensität (6/10), ideal für Café Crema
+- Die folgenden Informationen gelten für jede Einheit pro Packung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DK3W2NVX{{</world>}}

@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Inhalt: 1x Crepe Maker (34,5 x 33 x 8,5 cm, 1600 W, Kabellänge 1m) mit abnehmbare, antihaftbeschichtete Crepes Platte (Ø 33 cm), 1x Crepes-Wender, 1x Teigverteiler - Artikelnummer: 0415120011
-- Leichte Reinigung der Platte, des Wender und des Teigverteiler in der Spülmaschine. Fett- oder sonstige Rückstände einfach auf der noch handwarmen Platte mit einem Tuch entfernen
+- Einfache Zubereitung dank 6 variablen Hitzestufen und großer antihaftbeschichteten Platte (Ø 33 cm). Kein Zerkratzen durch die mitgelieferten Crêpes-Wender und Teigverteiler
 - Sichere Nutzung durch eine LED-Kontrollleuchte am Temperaturregler (rot = Aufheizen, weiß = Bereit) und rutschfesten Standfüßen. Der Überflussrand der Platte verhindert ein Überlaufen des Teiges
 - Ein Crepemaker für süße oder herzhafte Crêpes, Pfannenkuchen, Pancakes oder auch Galettes - ganz nach Ihrem Geschmack mit individuellem Bräunungsgrad
-- Einfache Zubereitung dank 6 variablen Hitzestufen und großer antihaftbeschichteten Platte (Ø 33 cm). Kein Zerkratzen durch die mitgelieferten Crêpes-Wender und Teigverteiler
+- Leichte Reinigung der Platte, des Wender und des Teigverteiler in der Spülmaschine. Fett- oder sonstige Rückstände einfach auf der noch handwarmen Platte mit einem Tuch entfernen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07GSYLYSM{{</world>}}

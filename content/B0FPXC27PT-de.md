@@ -32,9 +32,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - GESCHENKIDEE FÜR KINDER: Das Konstruktionsspielzeug ist eine schöne Überraschung oder ein Geburtstagsgeschenk für Jungen und Mädchen, die Flugzeugspielzeug und LEGO Sets lieben
 - FASZINIERENDES BAUERLEBNIS: Die LEGO Builder App bietet mit ihren 3D-Bauanleitungen ein intuitives Bauabenteuer. Kinder können Sets speichern, beim Bauen 3D Modelle vergrößern und drehen
 - FÜR ROLLENSPIELE: Das Bauset enthält jede Menge Zubehör wie Koffer, Bordkarten, Kartenmaterial, ein Croissant und weitere Kleinteile, mit denen realitätsnahe Spielsituationen nachgestellt werden können
+- MEHR SPASS IN LEGO CITY: Das Flughafen-Set lässt sich mit weiteren separat erhältlichen LEGO City Sets kombinieren und erweitert so das Spielerlebnis um viele weitere spannende Geschichten
 - FLUGHAFEN SPIELSET FÜR KINDER AB 8 JAHREN: Dieses LEGO City Set bringt Kinder ab 8 Jahren mit einem Flughafenterminal, einem großen Passagierflugzeug und neun Minifiguren mitten ins Geschehen eines Flughafens
 - ALLES IN EINEM MODELLBAU: Mit dem Bauset lassen sich ein Spielzeugflughafen, ein Flugzeug, eine Fluggastbrücke, ein Schlepper sowie Figuren wie Pilot, Crew und Passagiere ganz einfach zusammensetzen
-- MEHR SPASS IN LEGO CITY: Das Flughafen-Set lässt sich mit weiteren separat erhältlichen LEGO City Sets kombinieren und erweitert so das Spielerlebnis um viele weitere spannende Geschichten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0FPXC27PT{{</world>}}

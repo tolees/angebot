@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfache Reinigung: Spülmaschinengeeignete, abnehmbare Antihaftplatten und Saftauffangschale
-- Unendliche Inspiration: Im Lieferumfang ist ein Rezeptheft enthalten, weitere Rezeptideen lassen sich in der kostenlosen My Tefal App aufrufen
-- Auf den Punkt genau gegrillte Steaks, ganz ohne Rätseln: Die intelligente Technologie misst das Grillgut auf den Millimeter genau und liefert jedes Mal exakt den gewünschten Garzustand
-- Intuitive Bedienung: Das Display mit präzisem Countdown führt zuverlässig durch den Grillvorgang und zeigt jederzeit an welche Garstufe erreicht ist – ob blutig, medium oder durchgebraten​
 - Die ultimative Steakhouse-Kruste: Grillboost-Funktion für innen saftige, außen knusprige Ergebnisse mit professionellen Grillstreifen und authentischem Geschmack​
+- Unendliche Inspiration: Im Lieferumfang ist ein Rezeptheft enthalten, weitere Rezeptideen lassen sich in der kostenlosen My Tefal App aufrufen
+- Intuitive Bedienung: Das Display mit präzisem Countdown führt zuverlässig durch den Grillvorgang und zeigt jederzeit an welche Garstufe erreicht ist – ob blutig, medium oder durchgebraten​
+- Einfache Reinigung: Spülmaschinengeeignete, abnehmbare Antihaftplatten und Saftauffangschale
+- Auf den Punkt genau gegrillte Steaks, ganz ohne Rätseln: Die intelligente Technologie misst das Grillgut auf den Millimeter genau und liefert jedes Mal exakt den gewünschten Garzustand
 - 16 voreingestellte Programme: Knusprige Paninis, zarten Lachs oder scharf angebratene Auberginen ganz einfach auf Knopfdruck optimal zubereiten – für bis zu 4 Personen
 - Gesundes Grillen leicht gemacht: Abgeneigte Platten lassen überschüssiges Fett abfließen – für Grillaromen ohne verbranntes Fett​
 

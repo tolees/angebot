@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Dermatologische Expertise: Allergiegetestet. 100 % parfumfrei. Dermatologisch getestet. Sicher für empfindliche Haut.
 - Präzise in der Anwendung: Das praktische Stick-Format erleichtert das gezielte Auftragen, polstert feine, trockene Linien auf und verbessert die Hauttextur.
-- Auf wissenschaftlicher Basis: Als eine von Dermatologen geprägte Marke beginnt Cliniques Bekenntnis zu Sicherheit mit der Hautpflegewissenschaft. Deshalb entwickeln wir Produkte für alle Hauttypen, Hauttöne und Hautprobleme - Alles für Deine Haut.
-- Für jünger aussehende Haut: Sanfte AM/PM-Retinoidpflege hilft, hartnäckige Linien sichtbar zu verbessern – darunter Stirnfalten, Zornesfalten („11er“-Linien), Krähenfüße, vertikale Linien um die Lippen und Lachfalten.
 - Smart Clinical Repair Formel: Mit 1 % Retinoid und Hyaluronsäure. Unterstützt die natürliche Zellerneuerung der Haut, reduziert das Erscheinungsbild von Falten und spendet zugleich beruhigende Feuchtigkeit, um feine, trockene Linien zu glätten.
+- Für jünger aussehende Haut: Sanfte AM/PM-Retinoidpflege hilft, hartnäckige Linien sichtbar zu verbessern – darunter Stirnfalten, Zornesfalten („11er“-Linien), Krähenfüße, vertikale Linien um die Lippen und Lachfalten.
+- Auf wissenschaftlicher Basis: Als eine von Dermatologen geprägte Marke beginnt Cliniques Bekenntnis zu Sicherheit mit der Hautpflegewissenschaft. Deshalb entwickeln wir Produkte für alle Hauttypen, Hauttöne und Hautprobleme - Alles für Deine Haut.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DBL9JCF8{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langärmlig mit V-Ausschnitt
 - Passform: Regular Fit, Rückenlänge bei Größe L ca. 70 cm
 - Basic Pullover in Unifarben mit tonaler Logo-Stickerei auf der Brust. Mit Rippbündchen am Saum.
+- Langärmlig mit V-Ausschnitt
 - Aus atmungsaktiver und weicher Baumwolle
 
 [🛒 Hier!!]({{< param buyurl >}})

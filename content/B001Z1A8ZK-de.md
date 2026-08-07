@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aufgrund der Schutzart IP43 ist diese Leuchte gegen Spritzwasser geschützt
-- Diese Wandleuchte bringt einen schönen Flair an Ihre Außenwand
-- Moderne Wandleuchte aus schwarz/silber lackiertem Aluminium und Gals in Bleikristalloptik
-- Diese hochwertige Außenleuchte ist auch an Ihrer Fassade ein Hingucker
 - Wandleuchte im modernen Design für den Außenbereich
+- Aufgrund der Schutzart IP43 ist diese Leuchte gegen Spritzwasser geschützt
+- Moderne Wandleuchte aus schwarz/silber lackiertem Aluminium und Gals in Bleikristalloptik
+- Diese Wandleuchte bringt einen schönen Flair an Ihre Außenwand
+- Diese hochwertige Außenleuchte ist auch an Ihrer Fassade ein Hingucker
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001Z1A8ZK{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2 bis 2 Pumpstöße in die Handfläche geben und auf das feuchte oder trockene Haar auftragen. Das Huile Originale kann auch mit der Masque Elixir Ultime kombiniert werden, um trockenes, dickes und geschädigtes Haar noch intensiver zu pflegen.
-- Es nährt das Haar, ohne es zu beschweren, schützt vor Oxidation und Hitze und veredelt es mit Glanz und Geschmeidigkeit.
 - Das Elixir Ultime Huile Originale ist unser ikonisches Haaröl, das trockenes Haar pflegt und veredelt. Seine Formel vereint vier wertvolle Pflanzenöle: Marulaöl, Arganöl, Maisöl und Kamelienöl mit nährenden, pflegenden und regenerierenden Eigenschaften für ultimativen Glanz und Geschmeidigkeit.
+- Es nährt das Haar, ohne es zu beschweren, schützt vor Oxidation und Hitze und veredelt es mit Glanz und Geschmeidigkeit.
+- 2 bis 2 Pumpstöße in die Handfläche geben und auf das feuchte oder trockene Haar auftragen. Das Huile Originale kann auch mit der Masque Elixir Ultime kombiniert werden, um trockenes, dickes und geschädigtes Haar noch intensiver zu pflegen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CY3G2BH2{{</world>}}

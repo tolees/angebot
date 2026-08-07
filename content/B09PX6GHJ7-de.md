@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sichere Montage mit stabilem Klemmsystem
 - Kompatibel mit Playstation 5, Playstation 4 und PC
+- Sichere Montage mit stabilem Klemmsystem
 - Offiziell lizenziert von Sony
-- 270 Grad Lenkradius mit einstellbaren Output-Optionen
 - Maßstabsgetreues Lenkrad und Fußpedale, optimiert für ein authentisches Rennerlebnis
+- 270 Grad Lenkradius mit einstellbaren Output-Optionen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09PX6GHJ7{{</world>}}

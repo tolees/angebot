@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Die bewegliche Modepuppe trägt ihr typisches Outfit aus dem Film mit abnehmbaren Schuhen und einem Diadem.
 - Diese Disney Prinzessin-Puppe hat kämmbares Haar für unendlich langen Frisierspaß!
-- Es besteht aus einem Glitzeroberteil und einem abnehmbaren Rock mit einem Muster, das in der Geschichte von Cinderella eine Rolle spielt.
 - Diese von der Zeichentrickfigur des beliebten Disney-Films inspirierte Cinderella-Puppe kann es kaum erwarten, ihre Träume zu leben!
+- Es besteht aus einem Glitzeroberteil und einem abnehmbaren Rock mit einem Muster, das in der Geschichte von Cinderella eine Rolle spielt.
 - Ein perfektes Geschenk für Kinder, um damit Geschichten aus ihren Lieblingsfilmen nachzuspielen oder sich eigene Abenteuer auszudenken.
 - Fans können alle Disney Prinzessin-Modepuppen sammeln und das ultimative Abenteuer erleben! Alle Artikel separat erhältlich.
 

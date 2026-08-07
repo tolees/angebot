@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 5-stufige Anzeige des Ladezustand eines 12V Akkus
-- Konzipiert für Überwachung eines Akkus im geschlossenen, aktiven Stromkreis
-- Ermöglicht leichte Kontrolle und verhindert Tiefenentladung
-- Kemo Batteriewächter M188 12V DC
 - Prüft ob Akku in Ordnung ist und Ladespannung vom Ladegerät annimmt
+- Kemo Batteriewächter M188 12V DC
+- Ermöglicht leichte Kontrolle und verhindert Tiefenentladung
+- Konzipiert für Überwachung eines Akkus im geschlossenen, aktiven Stromkreis
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00FB9IZ2A{{</world>}}

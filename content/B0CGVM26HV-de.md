@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schlüpfe in die Rolle des Angriffstrupp und absolviere eine Vielzahl abwechslungsreicher Einsätze
-- Deine taktischen Entscheidungen beeinflussen den weiteren Einsatzverlauf
-- Jeder Einsatz wird ausgewertet, so dass du dich ständig verbessern kannst
 - Spiele in der Ego-Perspektive, verwalte dein Inventar und interagiere mit den Charakteren im Spiel
+- Jeder Einsatz wird ausgewertet, so dass du dich ständig verbessern kannst
+- Schlüpfe in die Rolle des Angriffstrupp und absolviere eine Vielzahl abwechslungsreicher Einsätze
 - Erkunde den Einsatzort, entscheide dich für das taktische Vorgehen und arbeite den Einsatz ab
+- Deine taktischen Entscheidungen beeinflussen den weiteren Einsatzverlauf
 - Nutze Gerätschaften wie Rauchvorhang, Halligan-Tool, Drehleiter oder verschiedene Löschmittel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

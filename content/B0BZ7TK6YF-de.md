@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bounce Zwischensohle
 - Eine Nummer größer kaufen
+- Bounce Zwischensohle
 - Zweilagiges Obermaterial aus Mesh
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

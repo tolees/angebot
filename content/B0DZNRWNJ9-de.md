@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bürstenloser Motor – Der wartungsarme, kraftvolle Brushless-Motor sorgt für hohe Leistung bei längerer Laufzeit. Nach Registrierung gelten 10 Jahre Garantie auf den Motor.
-- Hochwertige Messer – Saubere Schnitte gelingen dank der lasergeschnittenen, diamantgeschliffenen Messer mit 50 cm Schnittlänge und einem Zahnabstand von 20 mm.
+- Lieferung ohne Akku – Die Einhell Professional Akku-Heckenschere GP-CH 18/50 Li BL-Solo wird ohne Power X-Change Akku und ohne Ladegerät geliefert. Diese sind separat erhältlich.
 - Anti-Blockier-System – Mit diesem Sicherheitssystem wird versucht, Blockaden zu lösen. Dabei öffnen und schließen sich die Zähne und der eingeklemmte Ast wird durchtrennt.
 - Power X-Change – Die Einhell Professional Akku-Heckenschere GP-CH 18/50 Li BL-Solo ist Teil der Power X-Change Familie, in der Akkus und Systemgeräte kombiniert werden können.
+- Bürstenloser Motor – Der wartungsarme, kraftvolle Brushless-Motor sorgt für hohe Leistung bei längerer Laufzeit. Nach Registrierung gelten 10 Jahre Garantie auf den Motor.
 - Optimale Handhabung – Mit der 2,6 kg leichten Heckenschere werden dank schmalem Frontgriff und Mikroschalter auch umfangreiche Heckenschnitte zum Kinderspiel.
 - Schnittgeschwindigkeit – der ECO-Modus reduziert die Leistung zugunsten einer längeren Akkulaufzeit, während der MAX POWER-Modus eine Geschwindigkeit von bis zu 3060 Schnitten pro Minute erzeugt.
-- Lieferung ohne Akku – Die Einhell Professional Akku-Heckenschere GP-CH 18/50 Li BL-Solo wird ohne Power X-Change Akku und ohne Ladegerät geliefert. Diese sind separat erhältlich.
+- Hochwertige Messer – Saubere Schnitte gelingen dank der lasergeschnittenen, diamantgeschliffenen Messer mit 50 cm Schnittlänge und einem Zahnabstand von 20 mm.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DZNRWNJ9{{</world>}}

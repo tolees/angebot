@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Pflegeleichter Materialmix mit Viskose für ein angenehmes Tragegefühl
 - Hoch geschlossen
 - Gerippte Strickbündchen
+- Pflegeleichter Materialmix mit Viskose für ein angenehmes Tragegefühl
 - Normale Passform
 
 [🛒 Hier!!]({{< param buyurl >}})

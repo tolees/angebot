@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SICHERHEIT - Das Beleuchtungsset ist Akku betrieben, sowie StVZO zugelassen und sorgt für optimale Ausleuchtung, zur Erhöhung der Sicherheit des Fahrers im Straßenverkehr
-- TECHNIK - Das Fahrradlicht ist nach IPX 4 Standard spritzwassergeschützt. Die Montage ist dank Silikon-Halterung problemlos ohne Fahrrad Werkzeug möglich
 - LIEFERUMFANG - Im Beleuchtungsst wird das Frontlicht inkl. Micro-USB Kabel, das INFINITY Rücklicht und ein Silikonband zur Befestigung geliefert. Gewicht Frontlicht 105g (inkl. Halterung), Rücklicht 28g (inkl. Halterung)
-- BRENNDAUER - Die Fahrradlampen sind extrem sparsam. Das Vorderlicht sorgt mit drei Beleuchtungsmodi für 4-10h, das Fahrrad Rücklicht für 16h optimale Beleuchtung
 - LEISTUNG - Das Fahrrad Zubehör Set besteht aus dem SIGMA Fahrradlicht AURA 60 mit starker LED-Technologie und 70 m Leuchtweite vorne und dem Rücklicht INFINITY mit 500 m Sichtbarkeit hinten. Die Lichter funktionieren ganz ohne Dynamo und sind StVZO zugelassen
+- TECHNIK - Das Fahrradlicht ist nach IPX 4 Standard spritzwassergeschützt. Die Montage ist dank Silikon-Halterung problemlos ohne Fahrrad Werkzeug möglich
+- SICHERHEIT - Das Beleuchtungsset ist Akku betrieben, sowie StVZO zugelassen und sorgt für optimale Ausleuchtung, zur Erhöhung der Sicherheit des Fahrers im Straßenverkehr
+- BRENNDAUER - Die Fahrradlampen sind extrem sparsam. Das Vorderlicht sorgt mit drei Beleuchtungsmodi für 4-10h, das Fahrrad Rücklicht für 16h optimale Beleuchtung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08JH4P9YM{{</world>}}

@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reguläre Passform
-- Textilfutter
-- Gewicht: 278 g (Größe 38 2/3)
+- Sprengung: 6 mm (Rückfußhöhe 34 mm / Vorfußhöhe 28 mm)
 - Obermaterial aus Textil
 - Cloudfoam Zwischensohle
-- Sprengung: 6 mm (Rückfußhöhe 34 mm / Vorfußhöhe 28 mm)
+- Gewicht: 278 g (Größe 38 2/3)
 - Schnürsenkel
 - TPU-Außensohle
+- Reguläre Passform
+- Textilfutter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CKXSGTL6{{</world>}}

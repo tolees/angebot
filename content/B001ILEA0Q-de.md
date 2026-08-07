@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- warm geschmiedet
-- Doppel-Maulschlüssel SW 6x7 - 8x9 - 10x11 - 12x13 - 14x15 - 16x17 - 18x19 - 20x22 mm
-- in Tetron-Rolltasche
-- verchromt, Köpfe glanzpoliert
-- DIN 3110
 - gefertigt aus Chrom-Vanadium-Stahl
+- warm geschmiedet
+- in Tetron-Rolltasche
+- DIN 3110
+- Doppel-Maulschlüssel SW 6x7 - 8x9 - 10x11 - 12x13 - 14x15 - 16x17 - 18x19 - 20x22 mm
+- verchromt, Köpfe glanzpoliert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001ILEA0Q{{</world>}}

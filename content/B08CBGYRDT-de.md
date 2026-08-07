@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Stromstärke max. 10A
-- Buchse IEC 60320 Typ C14 zu Stecker IEC 60320 Typ C13
 - 90° links/rechts gewinkelte Version 3-polige Belegung
+- Buchse IEC 60320 Typ C14 zu Stecker IEC 60320 Typ C13
 - Farbe: schwarz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

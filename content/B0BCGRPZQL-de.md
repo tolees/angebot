@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Schnürsenkel
 - Obermaterial aus Synthetikleder
-- Gummi-Cupsohle
 - Reguläre Passform
+- Gummi-Cupsohle
 - Synthetikfutter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

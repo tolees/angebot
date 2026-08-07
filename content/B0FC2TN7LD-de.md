@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eine epische Geschichte über Verbindungen
 - Strategische, rundenbasierte Kämpfe
+- Eine epische Geschichte über Verbindungen
 - Abenteuer zwischen Raum und Zeit
 
 [🛒 Hier!!]({{< param buyurl >}})

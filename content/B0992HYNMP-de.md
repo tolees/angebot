@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- nicht_water_resistant
-- Zehenkappentyp: Runde Spitze
 - Polyurethan ist eine langlebige, synthetische Alternative zu Leder. Es ist leicht und pflegeleicht.
+- Zehenkappentyp: Runde Spitze
 - Futter: Polyester-Mesh-Futter für einen undurchsichtigen Look
+- nicht_water_resistant
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0992HYNMP{{</world>}}

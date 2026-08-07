@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- PurePOWER Brushless - Der wartungsarme und kraftvolle Brushless-Motor sorgt für maximale Leistung bei längerer Laufzeit im Vergleich zu herkömmlichen Kohlebürstenmotoren.
+- Der Highwheeler ist mit rasenschonenden, großflächigen Rädern ausgestattet. Ermüdungsfreies Arbeiten gewährt der ergonomisch geformte Griffbereich.
 - Mit dem Einhell Power X-Twincharger sind die Akkus im Nu aufgeladen. Das Power X-Change System-Schnellladegerät ist im Lieferumfang enthalten.
 - Der Einhell Akku-Rasenmäher RASARRO 36/38 arbeitet sich kraftvoll und kabellos durchs Grün - in jedem Winkel des Gartens. Empfohlen wird der RASARRO für Rasenflächen bis 450 m².
-- Der teleskopierbare, höhenverstellbare Führungsholm lässt sich individuell an den Nutzer anpassen. Der Holm ist klappbar für ein praktisches Verstauen des Rasenmähers.
 - Dabei lässt sich die 6-stufige zentrale Schnitthöhenverstellung von 25 bis 75 Millimeter bei einer Schnittbreite von 38 Zentimeter an die individuellen Gestaltungswünsche anpassen.
-- PurePOWER Brushless - Der wartungsarme und kraftvolle Brushless-Motor sorgt für maximale Leistung bei längerer Laufzeit im Vergleich zu herkömmlichen Kohlebürstenmotoren.
+- Der teleskopierbare, höhenverstellbare Führungsholm lässt sich individuell an den Nutzer anpassen. Der Holm ist klappbar für ein praktisches Verstauen des Rasenmähers.
 - Die passenden Power X-Change-Akkus zum Betrieb des RASARRO sind in der Lieferung inklusive. Die hochwertigen Lithium-Ionen Power X-Change-Akkus sind in allen Einhell-Geräten verwendbar.
-- Der Highwheeler ist mit rasenschonenden, großflächigen Rädern ausgestattet. Ermüdungsfreies Arbeiten gewährt der ergonomisch geformte Griffbereich.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07L1KM4Q2{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Schnürsenkel
-- Obermaterial: Smooth Leder
 - Innenmaterial: Leder
+- Obermaterial: Smooth Leder
+- Verschluss: Schnürsenkel
 - Sohle: Synthetik
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Täglicher Gebrauch
 - Flexible Gestaltung
+- Täglicher Gebrauch
 - Ideale Qualität
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

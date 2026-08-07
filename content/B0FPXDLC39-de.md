@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO NINJAGO 2in1 Jays Transformationsflitzer - Ninja Truck mit 5 Minifiguren inkl. Kai und NYA sowie Shuriken und Schwertern - Kreatives Geschenk für Jungen ab 8 Jahren und Fans - 71856'
-date: 2026-08-03 22:20:55
+date: 2026-08-07 10:22:49
 image: 'https://m.media-amazon.com/images/I/51hwiApRAaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXDLC39-de LEGO NINJAGO 2in1 Jays Transformationsflitzer - Ninja...'
 sku: 'B0FPXDLC39-de'
 tags: [ '🇩🇪', ]
-actualPrice: 31.99 EUR
+actualPrice: 32.99 EUR
 currency: EUR
-price: 31.99
+price: 32.99
 comparePrice: 49.99 EUR
 prodname: 'LEGO NINJAGO 2in1 Jays Transformationsflitzer - Ninja Truck mit 5 Minifiguren inkl. Kai und NYA sowie Shuriken und Schwertern - Kreatives Geschenk für Jungen ab 8 Jahren und Fans - 71856'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDLC39/?tag=tolees0ca-21'
-descuento: '36.01'
-average: '32.1305494505496'
+descuento: '34.01'
+average: '32.1667368421054'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MODELLBAU MIT NINJAGO FLITZER: Mit Jays Transformationsflitzer bauen Kinder ab 8 Jahren ein LEGO Set, das die rasante Action aus NINJAGO Aufstieg der Drachen zum Leben erweckt
+- FÜNF MINIFIGUREN FÜR ABENTEUER: Das Spielset enthält Jay, Nya, Drachen-Kai, ein Erdmonster und den Loyalistenanführer, für dynamische Rollenspiele mit LEGO Ninjago Figuren
+- FASZINIERENDES BAUERLEBNIS: Die LEGO Builder App nimmt Kinder auf ein intuitives Bauabenteuer mit; In der App können sie Sets speichern, beim Bauen ein 3D-Modell vergrößern und drehen
 - LEGO NINJAGO SPIELSETS: Das breite Spektrum an Spielsets lässt Kinder in eine Fantasy-Welt eintauchen, in der sie besonders fantasievoll mit ihren Ninja Helden spielen können
 - SPIELZEUGAUTO MIT DOPPELFUNKTION: Durch Umklappen der Front wird der Rennwagen zum Drachenflitzer mit goldenem Drachenkopf, Klauen und drehenden Wurfsternen
-- GESCHENKIDEE FÜR KINDER: Ob zum Geburtstag oder als Überraschung für zwischendurch, dieser Flitzer bereitet jedem eine Freude, die aufregende LEGO Bauprojekte und spannende Spielaction lieben
-- FÜNF MINIFIGUREN FÜR ABENTEUER: Das Spielset enthält Jay, Nya, Drachen-Kai, ein Erdmonster und den Loyalistenanführer, für dynamische Rollenspiele mit LEGO Ninjago Figuren
 - ACTIONSPIELZEUG MIT SHOOTER: Der abnehmbare Shooter mit zwei Pfeilen lässt sich flexibel einsetzen und sorgt in Kombination mit dem kleinen Nebenmodell für fantasievolle Duelle
-- FASZINIERENDES BAUERLEBNIS: Die LEGO Builder App nimmt Kinder auf ein intuitives Bauabenteuer mit; In der App können sie Sets speichern, beim Bauen ein 3D-Modell vergrößern und drehen
+- MODELLBAU MIT NINJAGO FLITZER: Mit Jays Transformationsflitzer bauen Kinder ab 8 Jahren ein LEGO Set, das die rasante Action aus NINJAGO Aufstieg der Drachen zum Leben erweckt
+- GESCHENKIDEE FÜR KINDER: Ob zum Geburtstag oder als Überraschung für zwischendurch, dieser Flitzer bereitet jedem eine Freude, die aufregende LEGO Bauprojekte und spannende Spielaction lieben
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0FPXDLC39{{</world>}}

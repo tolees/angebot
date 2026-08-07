@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - [Kompakte Bauform] - Dank der kompakten Bauform (130 x 270 x 130 mm) lässt sich die Steckdosen-Säule problemlos auf dem Rasen oder der Terrasse befestigen. Das klassische Design aus hochwertigem Edelstahl fügt sich unauffällig in Ihren Außenbereich ein und sorgt für eine stilvolle Optik.
+- [Anschluss erfolgt über 230 V Anschlussdose] - Der Anschluss der Energiesäule erfolgt über einen spritzwassergeschützten Kabelverbinder, der im Inneren der Außensteckdose versenkt wird. Dadurch ist eine schnelle und sichere Installation der Zuleitung vor Feuchtigkeit geschützt.
 - [Schutzart IP44] - Die Steckdosensäule POLLY ist speziell für den Einsatz im Freien konzipiert. Das robuste Edelstahlgehäuse sichert die Gartensteckdose vor Spritzwasser und sorgt so für optimalen Schutz vor den Wettereinflüssen der verschiedenen Jahreszeiten.
 - [Stilvolle Stromverteilung im Garten] - Die Garten-Steckdosen-Säule verfügt über 2 Steckdosen mit Klappdeckeln und bietet eine ansprechende Möglichkeit zur praktischen Stromverteilung im Außenbereich. Ob für den Betrieb einer Lichterkette, des Rasenmähers, der Heckenschere oder des Elektrogrills – die Energie-Säule ermöglicht eine optimale Nutzung Ihres Gartens.
-- [Anschluss erfolgt über 230 V Anschlussdose] - Der Anschluss der Energiesäule erfolgt über einen spritzwassergeschützten Kabelverbinder, der im Inneren der Außensteckdose versenkt wird. Dadurch ist eine schnelle und sichere Installation der Zuleitung vor Feuchtigkeit geschützt.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07HRN85P9{{</world>}}
