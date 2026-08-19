@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'adidas Herren Hoops 3.0 Low Classic Vintage Shoes Cloud White/Legend Ink/Vivid Red 42 EU'
+date: 2026-08-03 18:52:56
+image: 'https://m.media-amazon.com/images/I/21yuqgD5UJL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09NL3TLDB-de adidas Herren Hoops 3.0 Low Classic Vintage Shoes Cloud...'
+sku: 'B09NL3TLDB-de'
+tags: [ '🇩🇪', ]
+actualPrice: 48.99 EUR
+currency: EUR
+price: 48.99
+comparePrice: 65.0 EUR
+prodname: 'adidas Herren Hoops 3.0 Low Classic Vintage Shoes Cloud White/Legend Ink/Vivid Red 42 EU'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B09NL3TLDB/?tag=tolees0ca-21'
+descuento: '24.63'
+average: '46.4961904761905'
+---
+
+Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Obermaterial aus Synthetikleder
+- Textilfutter
+- Reguläre Passform
+- Bequemes Tragegefühl dank optimaler Dämpfung
+- EVA-Einlegesohle
+- Schnürsenkel
+
+[🛒 Hier!!]({{< param buyurl >}})
+{{<world>}}B09NL3TLDB{{</world>}}

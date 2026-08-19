@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Krups Smart n Light Wasserkocher 5 Temperaturen 1 7 Liter Fassungsvermögen Innenleben aus Edelstahl Doppelwandig Schwarz BW801810'
+date: 2026-07-25 01:53:11
+image: 'https://m.media-amazon.com/images/I/31o7c0feNoL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08GCNYJ24-de Krups Smart n Light Wasserkocher 5 Temperaturen 1 7 Liter...'
+sku: 'B08GCNYJ24-de'
+tags: [ '🇩🇪', ]
+actualPrice: 49.89 EUR
+currency: EUR
+price: 49.89
+comparePrice: 59.99 EUR
+prodname: 'Krups Smart n Light Wasserkocher 5 Temperaturen 1 7 Liter Fassungsvermögen Innenleben aus Edelstahl Doppelwandig Schwarz BW801810'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B08GCNYJ24/?tag=tolees0ca-21'
+descuento: '16.84'
+average: '44.5316666666667'
+---
+
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Verbesserte Sicherheitsfunktionen, einschließlich Safe-Touch-Oberfläche, damit das Äußere des Wasserkochers kalt bleibt, und automatischer Abschaltfunktion
+- Großes digitales Display mit fortschrittlicher Technologie im Gehäuse integriert, zeigt die tatsächliche Wassertemperatur im Gerät an
+- 30-Minuten-Warmhaltefunktion, um Wasser für längere Zeit auf der idealen Temperatur zu halten
+- 5 vielseitige Temperatureinstellungen (40 °C/70 °C/80 °C/90 °C/100 °C) mit intuitiver elektronischer Temperaturauswahl
+- Innenseite aus nahtlosem Edelstahl für eine mühelose Reinigung
+- Bringen Sie Wasser mit der praktischen 100 °C-Einstellung mit nur einem Knopfdruck zum Kochen
+
+[🛒 kauf es hier!!]({{< param buyurl >}})
+{{<world>}}B08GCNYJ24{{</world>}}

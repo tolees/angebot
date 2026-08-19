@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'JUMMICO Höhenverstellbarer Schreibtisch mit USB-Ladeanschluss Schreibtisch Höhenverstellbar Elektrisch 120 x 60 cm Steh-Sitz Tisch Stehpult Verstellbarer Computertisch Standing Desk Weiß'
+date: 2026-08-04 17:10:41
+image: 'https://m.media-amazon.com/images/I/41QajZnKiHL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0BMG8XJ4W-de JUMMICO Höhenverstellbarer Schreibtisch mit USB-...'
+sku: 'B0BMG8XJ4W-de'
+tags: [ '🇩🇪', ]
+actualPrice: 61.81 EUR
+currency: EUR
+price: 61.81
+comparePrice: 89.99 EUR
+prodname: 'JUMMICO Höhenverstellbarer Schreibtisch mit USB-Ladeanschluss Schreibtisch Höhenverstellbar Elektrisch 120 x 60 cm Steh-Sitz Tisch Stehpult Verstellbarer Computertisch Standing Desk Weiß'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B0BMG8XJ4W/?tag=tolees0ca-21'
+descuento: '31.31'
+average: '70.354'
+---
+
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Stabile Konstruktion: Der höhenverstellbare JUMMICO-Stehtisch wird von einem robusten Metallrahmen mit breiten T-förmigen Beinen, die als eine der stabilsten Stützen gelten, getragen. Der Stahlrahmen in Industriequalität ermöglicht in Kombination mit dem massiven Laminat eine Tragfähigkeit von bis zu 60 kg. Die Stabilität des Tischrahmens und die Haltbarkeit des Motors wurden über 10.000 Mal getestet, um sicherzustellen, dass Sie ein hochwertiges Produkt erhalten, das lange hält
+- Gesundes Arbeiten im Büro: Das stundenlange Sitzen können zu Rücken- und Nackenproblemen führen. Mit dem JUMMICO-Stehschreibtisch können Sie nach Bedarf zwischen Sitzen und Stehen hin- und herwechseln, ist stufenlos höhenverstellbar zwischen 73 und 118 cm. Sagen Sie "Auf Nimmerwiedersehen!" zu Müdigkeit aufgrund einer schlechten Sitzhaltung oder tauben Beinen. Auch für Kinder und Jugendliche zum täglichen Lernen geeignet
+- Sorgenfrei-Garantie: Jeder Tisch und jedes Stehpult von JUMMICO wird mit einer bebilderten Anleitung ausgeliefert und ist sehr einfach zu montieren. Bitte beachten Sie, dass die Tischplatte nicht aus einem, sondern aus 3 Einzelteilen zusammengesetzt wird
+- Elektrische Höhenverstellung: Das JUMMICO-Stehpult lässt sich per Knopfdruck einfach in der Höhe verstellen, so dass Menschen mit unterschiedlicher Körpergröße es in verschiedenen Szenarien nutzen können. Die 1/2 Memory-Taste ist so konzipiert, dass sie sich schnell und präzise auf die voreingestellte Komforthöhe einstellen lässt. Das Motorsystem ist außerdem mit einer Antikollisionsfunktion, einem Überhitzungsschutz und einem USB-Ladeanschluss ausgestattet
+- Durchdachtes Design: Der im Lieferumfang des JUMMICO Stehpults enthaltene Kabelknotenpunkt sorgt dafür, dass alle Kabel an einem Ort bleiben und ein Kabelsalat vermieden wird. 1 Haken zum Aufhängen von Kopfhörern oder Taschen sind im Lieferumfang enthalten. Der höhenverstellbare Schreibtisch verbraucht im Standby-Modus sehr wenig Energie. Sehr niedriger Geräuschpegel (weniger als 55 dB) ohne störende Geräusche
+
+[🛒 kauf es hier!!]({{< param buyurl >}})
+{{<world>}}B0BMG8XJ4W{{</world>}}

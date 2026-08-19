@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Einhell Heißklebepistole TC-GG 30'
+date: 2026-07-27 05:59:49
+image: 'https://m.media-amazon.com/images/I/41mnE0YxnuL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B01MQQVK0F-de Einhell Heißklebepistole TC-GG 30'
+sku: 'B01MQQVK0F-de'
+tags: [ '🇩🇪', ]
+actualPrice: 9.86 EUR
+currency: EUR
+price: 9.86
+comparePrice: 12.95 EUR
+prodname: 'Einhell Heißklebepistole TC-GG 30'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B01MQQVK0F/?tag=tolees0ca-21'
+descuento: '23.86'
+average: '9.86'
+---
+
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Inklusive Standarddüse, Flachdüse, Verlängerungsdüse und drei Heißklebestiften.
+- Mechanischer Vorschub und Klebestift-Führung mit Sichtfenster für präzises Auftragen.
+- Der verlässliche und schnelle Helfer in der Werkstatt, der Bastelstube und im Haushalt: Für Bastelarbeiten und kleinere Reparaturen.
+- Aufstellbügel für den sicheren Stand.
+- Komfortables Arbeiten mit dem ergonomischen Handgriff.
+
+[🛒 kauf es hier!!]({{< param buyurl >}})
+{{<world>}}B01MQQVK0F{{</world>}}

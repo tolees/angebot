@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'TOM TAILOR Herren Crewneck T-Shirt im Doppelpack 29999 - Black M'
+date: 2026-07-19 14:33:40
+image: 'https://m.media-amazon.com/images/I/21kWMh9ohAL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00KGWMJU6-de TOM TAILOR Herren Crewneck T-Shirt im Doppelpack 29999 -...'
+sku: 'B00KGWMJU6-de'
+tags: [ '🇩🇪', ]
+actualPrice: 13.46 EUR
+currency: EUR
+price: 13.46
+comparePrice: 19.99 EUR
+prodname: 'TOM TAILOR Herren Crewneck T-Shirt im Doppelpack 29999 - Black M'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B00KGWMJU6/?tag=tolees0ca-21'
+descuento: '32.67'
+average: '15.1466666666667'
+---
+
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- kurzärmlig & mit Rundhalsausschnitt
+- Passform: Regular Fit - gerader Schnitt | Unser Model ist 188 cm groß und trägt Größe M
+- Basic T-Shirt in Unifarben im praktischen Doppelpack. Aus einem Single-Jersey-Stoff aus Baumwolle
+- Ideal zu folgenden Anlässen: Freizeit, Alltag, Sport, Urlaub, Strand, Homeoffice, Wochenende, Frühling, Sommer
+- Waschhinwes: 40°C Buntwäsche | Nicht chemisch reinigen | Nicht auf Verzierung bügeln | Nicht im Trockner trocknen | Nicht bleichen | Bügeln bei mäßiger Temperatur | Mit ähnlichen Farben waschen | Von links waschen und bügeln | Nass in Form ziehen
+
+[🛒 kauf es hier!!]({{< param buyurl >}})
+{{<world>}}B00KGWMJU6{{</world>}}
