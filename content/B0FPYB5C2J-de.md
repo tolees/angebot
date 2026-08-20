@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LEGO SMART STAR WARS MINIFIGUR: Erwecke SMART Wicket den Ewok mit einem SMART Brick (nicht enthalten) zum Leben und erlebe ein reaktionsstarkes Spiel, bei dem er auf Bewegungen und Situationen reagiert
-- INTERAKTIVES STAR WARS SPIELZEUG: Dieses LEGO SMART Play kompatible Set beinhaltet einen AT-ST mit SMART Tag, aufklappbarem Dach und Shooter sowie ein Speeder Bike mit SMART Tag, eine SMART Wicket Minifigur sowie AT-ST und Scout Trooper Minifiguren
-- STAR WARS GESCHENK FÜR KINDER: Begeistere einen Fan mit diesem interaktiven Bauspielzeug, ein galaktisches Geburtstagsgeschenk für Jungen und Mädchen ab 8 Jahren sowie für jugendliche und erwachsene Sammler
-- DIE GALAXIS SPIELT MIT: Wird ein LEGO SMART Brick (nicht enthalten) mit dem SMART Tag am AT-ST oder am Speeder Bike verbunden, reagiert er auf Bewegungen und Farben mit Triebwerksgeräuschen, AT-ST-Schritten und Laserschüssen
-- BILDSCHIRMFREIE SPIELZEIT: Erlebe mit Freunden und Familie ikonische Szenen neu: Schlüpfe in die Rolle von Wicket, der dem Scout Trooper heimlich das Speeder Bike stiehlt und den AT-ST mit der Piloten Minifigur darin bekämpft
 - SO AKTIVIERST DU DEIN SET: Ein LEGO SMART Brick aus den All-in-1-Sets 75421, 75423 oder 75427 (separat erhältlich) wird benötigt, um die immersiven Spielfunktionen zu aktivieren (bitte beachte: Der SMART Brick ist nicht als Einzelprodukt erhältlich)
 - DIGITALE ANLEITUNGEN: Die LEGO Builder App begleitet dein Kind auf ein intuitives Bauerlebnis, bei dem es mittels 3D-Anleitungen hineinzoomen und Modelle drehen sowie den Fortschritt speichern und verfolgen kann
+- DIE GALAXIS SPIELT MIT: Wird ein LEGO SMART Brick (nicht enthalten) mit dem SMART Tag am AT-ST oder am Speeder Bike verbunden, reagiert er auf Bewegungen und Farben mit Triebwerksgeräuschen, AT-ST-Schritten und Laserschüssen
+- BILDSCHIRMFREIE SPIELZEIT: Erlebe mit Freunden und Familie ikonische Szenen neu: Schlüpfe in die Rolle von Wicket, der dem Scout Trooper heimlich das Speeder Bike stiehlt und den AT-ST mit der Piloten Minifigur darin bekämpft
+- LEGO SMART STAR WARS MINIFIGUR: Erwecke SMART Wicket den Ewok mit einem SMART Brick (nicht enthalten) zum Leben und erlebe ein reaktionsstarkes Spiel, bei dem er auf Bewegungen und Situationen reagiert
+- STAR WARS GESCHENK FÜR KINDER: Begeistere einen Fan mit diesem interaktiven Bauspielzeug, ein galaktisches Geburtstagsgeschenk für Jungen und Mädchen ab 8 Jahren sowie für jugendliche und erwachsene Sammler
+- INTERAKTIVES STAR WARS SPIELZEUG: Dieses LEGO SMART Play kompatible Set beinhaltet einen AT-ST mit SMART Tag, aufklappbarem Dach und Shooter sowie ein Speeder Bike mit SMART Tag, eine SMART Wicket Minifigur sowie AT-ST und Scout Trooper Minifiguren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FPYB5C2J{{</world>}}

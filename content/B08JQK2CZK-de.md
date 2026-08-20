@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- OSRAM TYREinflate200: Die tragbare, analoge, elektrische Luftpumpe ist der optimale Begleiter für unterwegs, bei Pannen oder einem Reifendruckverlust
-- Ebenso geeignet als Fahrradpumpe, sowie zum Befüllen von Bällen und anderen aufblasbaren Gegenständen
-- 50 mm große, analoge Druckanzeige mit klarer Bereichsanzeige
-- Pumpt einen Reifen in bis zu 4,5 Minuten wieder vollständig auf (basierend auf dem Aufpumpen eines 13-Zoll-Reifens ohne Luft auf 2,41 bar)
 - 3m Netzkabel mit 12V Sicherungs-Stecker mit Stromzufuhr durch den Zigarettenanzünder im Fahrzeug
+- OSRAM TYREinflate200: Die tragbare, analoge, elektrische Luftpumpe ist der optimale Begleiter für unterwegs, bei Pannen oder einem Reifendruckverlust
+- 50 mm große, analoge Druckanzeige mit klarer Bereichsanzeige
+- Ebenso geeignet als Fahrradpumpe, sowie zum Befüllen von Bällen und anderen aufblasbaren Gegenständen
+- Pumpt einen Reifen in bis zu 4,5 Minuten wieder vollständig auf (basierend auf dem Aufpumpen eines 13-Zoll-Reifens ohne Luft auf 2,41 bar)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08JQK2CZK{{</world>}}

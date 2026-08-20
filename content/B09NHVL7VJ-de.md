@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gepolsterter Schaft
 - Textilfutter
-- Dämpfende Zwischensohle
 - Reguläre Passform
+- Dämpfende Zwischensohle
+- Gepolsterter Schaft
 - Obermaterial aus Synthetikleder
 - Schnürsenkel
 

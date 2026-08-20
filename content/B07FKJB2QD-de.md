@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochwertige Baumwolle ist angenehm und weich auf der Haut
 - Klassisches, aufgesticktes Logo auf der linken Brust
+- Hochwertige Baumwolle ist angenehm und weich auf der Haut
 - Standardpassform für ein unkompliziertes, relaxtes Tragegefühl
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial mit einem Recycling-Anteil von mindestens 50 %
 - Abriebfester Vorfußbereich aus TPU
-- Bounce Zwischensohle
+- Obermaterial mit einem Recycling-Anteil von mindestens 50 %
+- Abriebfeste Non Marking Gummiaußensohle
 - Schnürsenkel
 - Zweilagiges Obermaterial aus Mesh
 - Reguläre Passform
-- Abriebfeste Non Marking Gummiaußensohle
+- Bounce Zwischensohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DHVXWZHD{{</world>}}

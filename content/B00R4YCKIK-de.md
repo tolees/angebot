@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einheitsgröße; kann direkt auf dem Kopf oder über den meisten Helmen getragen werden
 - Durchmesser: 15,2 - 17,8 cm, dehnbar auf bis zu 30,5 cm
-- Wasserfester Kopfgurt, der für alle Arten von GoPro Kameras geeignet ist
+- Einheitsgröße; kann direkt auf dem Kopf oder über den meisten Helmen getragen werden
 - Die ideale Lösung für händefreie Filmaufnahmen aus dem eigenen Blickwinkel
+- Wasserfester Kopfgurt, der für alle Arten von GoPro Kameras geeignet ist
 - Verstellbare Polyester mit rutschfesten Gummieinsätzen; Polycarbonat-Schnallen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

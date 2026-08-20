@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einzigartiges Kampfsystem - Tauche ein in das einzigartige Gameplay von Code Vein II, in dem du Gegnern ihr Blut entziehen musst, um verschiedene Fähigkeiten einzusetzen. Mit dem neuen Build-System kannst du deine Waffen und Skills völlig frei anpassen, um deinen eigenen Kampfstil zu entwickeln.
-- Eine Reise durch die Zeit - Deine Suche nach Hinweisen, wie sich der drohende Weltuntergang vielleicht noch aufhalten lässt, führt dich sowohl durch die Gegenwart als auch durch die Vergangenheit. Ändere das Schicksal wichtiger Wiedergänger in der Vergangenheit und entdecke so verlorene Geschichten und verborgene Wahrheiten deiner Welt.
-- Mächtige Partner - Erforsche die Welt mit Partnern und Verbündeten deiner Wahl, die sowohl an deiner Seite kämpfen als auch deine Fähigkeiten verstärken können. Jeder Partner und jede Partnerin verfügt über einzigartige Fähigkeiten und tief reichende Verbindungen, die deine Reise durch die Zeit nachhaltig prägen.
 - Intensive und fesselnde Kämpfe - Stürz dich mit mächtigen Fähigkeiten in mitreißende Schlachten, in denen Technik genauso wichtig ist wie Taktik. Erkenne blitzschnell die Manöver des Feindes, pass deine Angriffe an und meistere all deine Optionen, um die gnadenlosen Schrecken zu besiegen.
+- Mächtige Partner - Erforsche die Welt mit Partnern und Verbündeten deiner Wahl, die sowohl an deiner Seite kämpfen als auch deine Fähigkeiten verstärken können. Jeder Partner und jede Partnerin verfügt über einzigartige Fähigkeiten und tief reichende Verbindungen, die deine Reise durch die Zeit nachhaltig prägen.
+- Einzigartiges Kampfsystem - Tauche ein in das einzigartige Gameplay von Code Vein II, in dem du Gegnern ihr Blut entziehen musst, um verschiedene Fähigkeiten einzusetzen. Mit dem neuen Build-System kannst du deine Waffen und Skills völlig frei anpassen, um deinen eigenen Kampfstil zu entwickeln.
 - Ein episches Abenteuer erwartet dich, in dem du mit den Partnern deiner Wahl eine postapokalyptische Welt erkundet, hitzige Schlachten gegen mächtige Gegner schlägst und eine fesselnde Geschichte aufdeckst, die sogar die Grenzen der Zeit überschreitet.
+- Eine Reise durch die Zeit - Deine Suche nach Hinweisen, wie sich der drohende Weltuntergang vielleicht noch aufhalten lässt, führt dich sowohl durch die Gegenwart als auch durch die Vergangenheit. Ändere das Schicksal wichtiger Wiedergänger in der Vergangenheit und entdecke so verlorene Geschichten und verborgene Wahrheiten deiner Welt.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FSL9VYL6{{</world>}}

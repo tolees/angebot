@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100% Baumwolle
-- Farbe: Ohne
 - Dimension : 240 X 220 Cm
+- Farbe: Ohne
+- 100% Baumwolle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00JC44AL0{{</world>}}

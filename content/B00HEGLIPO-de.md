@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eine Luftkammer
-- Colchoneta klappbar INTEX in Form eines Motorrads
-- Misst 177 x 77 cm
-- Rot-Weiß-Design mit MotoGP-Sportgrafiken
-- Griff zum Festklemmen
-- Belastbarkeit 40 kg
-- Breiter Boden für Stabilität im Wasser
 - Strapazierfähiges Vinylmaterial mit einer Dicke von 0,25 mm
+- Misst 177 x 77 cm
+- Colchoneta klappbar INTEX in Form eines Motorrads
+- Griff zum Festklemmen
+- Rot-Weiß-Design mit MotoGP-Sportgrafiken
+- Breiter Boden für Stabilität im Wasser
+- Eine Luftkammer
+- Belastbarkeit 40 kg
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00HEGLIPO{{</world>}}

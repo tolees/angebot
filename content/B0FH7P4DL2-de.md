@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DIE DUNKELTRUPPLER AUSSPIONIEREN: In der klassischen Legends Story nahm der furchtlose Söldner Kyle Katarn den Auftrag der Rebellenallianz an, die Pläne des Todessterns zu stehlen
 - STAR WARS: DARK FORCES: Diese Kyle Katarn Action-Figur ist von dem klassischen Videospiel „Dunkle Mächte“ aus den 1990ern inspiriert und ein großartiges Geschenk für Sammler und Fans ab 4 Jahren
-- ACCESSOIRES ZUM VIDEOSPIEL: Die Figur bringt ein Lichtschwert mit blauer Klinge und Schwingeffekt sowie einen Blaster als Accessoires mit
 - PREMIUM DESIGN UND BEWEGLICHKEIT: Star Wars Fans können diese Figur (Skala 15 cm) in ihren eigenen Sammlungen ausstellen. Sie kommt im Premium-Look mit einer charaktergetreuen Formgebung und beeindruckt mit mehreren Bewegungspunkten
+- ACCESSOIRES ZUM VIDEOSPIEL: Die Figur bringt ein Lichtschwert mit blauer Klinge und Schwingeffekt sowie einen Blaster als Accessoires mit
+- DIE DUNKELTRUPPLER AUSSPIONIEREN: In der klassischen Legends Story nahm der furchtlose Söldner Kyle Katarn den Auftrag der Rebellenallianz an, die Pläne des Todessterns zu stehlen
 - FENSTERSCHACHTEL-VERPACKUNG: Die Fensterschachtel mit elegantem Charakterdesign ist perfekt, um Star Wars Fandom im eigenen Regal zu zeigen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

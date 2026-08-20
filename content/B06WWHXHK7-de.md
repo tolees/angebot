@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Modernes und architektonisches Design
-- IP44 Wetterfest: Speziell für feuchte Umgebungen im Freien entwickelt
 - Hochwertiges, sofort helles warmweiÃŸes Licht
+- IP44 Wetterfest: Speziell für feuchte Umgebungen im Freien entwickelt
 - International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 
 [🛒 Hier!!]({{< param buyurl >}})

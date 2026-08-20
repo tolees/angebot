@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Personalisierung mit austauschbaren Tastenschaltern: Ausgestattet mit schnellen CHERRY MX SPEED-Tastenschaltern, die Sie mühelos durch jede MX-kompatiblen 3-Pin-Schaltern austauschen können.
-- Drei Verbindungsmöglichkeiten: Leistungsstarke kabellose Konnektivität via superschneller Sub-1-ms-SLIPSTREAM WIRELESS, latenzarmem Bluetooth oder USB-Kabel mit CORSAIR AXON 8.000-Hz-Hyper-Polling.
-- Ihr Erlebnis: Eine leistungsstarke kabellose Gaming-Tastatur mit kompaktem Formfaktor von 60 % lässt sich mit austauschbaren MX-Schaltern und einem 360°-RGB-LightEdge individuell anpassen.
-- Formfaktor von 60 % und Aluminiumrahmen: Ein kompakter Miniatur-Formfaktor ermöglicht Gaming auf kleinstem Raum zu Hause oder unterwegs mit einem robusten Aluminiumrahmen.
 - Information zum Tastatur-Layout Bitte beachten Sie die Hinweise im Titel und den Produktinformationen zur Tastatur-Version. In der Regel erhalten Sie unabhängig von abweichenden Abbildungen das deutschsprachige QWERTZ-Layout, sofern die weiteren Angaben nicht davon abweichen.
 - Lange Akkulaufzeit: Bis zu 32 Stunden kabellose Akkulaufzeit mit strahlender RGB-Hintergrundbeleuchtung – oder genießen Sie bis zu 200 Stunden bei ausgeschalteter Hintergrundbeleuchtung.
+- Drei Verbindungsmöglichkeiten: Leistungsstarke kabellose Konnektivität via superschneller Sub-1-ms-SLIPSTREAM WIRELESS, latenzarmem Bluetooth oder USB-Kabel mit CORSAIR AXON 8.000-Hz-Hyper-Polling.
+- Formfaktor von 60 % und Aluminiumrahmen: Ein kompakter Miniatur-Formfaktor ermöglicht Gaming auf kleinstem Raum zu Hause oder unterwegs mit einem robusten Aluminiumrahmen.
+- Personalisierung mit austauschbaren Tastenschaltern: Ausgestattet mit schnellen CHERRY MX SPEED-Tastenschaltern, die Sie mühelos durch jede MX-kompatiblen 3-Pin-Schaltern austauschen können.
+- Ihr Erlebnis: Eine leistungsstarke kabellose Gaming-Tastatur mit kompaktem Formfaktor von 60 % lässt sich mit austauschbaren MX-Schaltern und einem 360°-RGB-LightEdge individuell anpassen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B64L8SH9{{</world>}}

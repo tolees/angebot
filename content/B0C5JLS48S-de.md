@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Mit einem leichten und weichen Stoff
 - Klassischer und Eleganten Look
-- Angenehmes Tragekomfort
 - ONLBELLA LIFE LS DETAIL O-NECK CC KNT
+- Angenehmes Tragekomfort
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C5JLS48S{{</world>}}

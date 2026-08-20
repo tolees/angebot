@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Langanhaltender Duft
 - Einzigartiges Dufterlebnis
 - Kraftvolle Notenkombination
-- Langanhaltender Duft
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09G25ZJV4{{</world>}}

@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Schnürsenkel
-- Obermaterial aus beschichtetem Leder
-- Reguläre Passform
 - Gummiaußensohle; Textilfutter
+- Obermaterial aus beschichtetem Leder
 - Leichte Adibouncy EVA-Einlegesohle
+- Reguläre Passform
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07SBZ17JM{{</world>}}

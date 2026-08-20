@@ -32,8 +32,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - Ideal für behaarte Körperstellen, insbesondere Arme, Beine und Kopfhaut
 - Dermatologisch getestet; Ölfrei - ISDIN engagiert sich für Projekte zur Regeneration der Meere und Ozeane
 - Eine halbe Stunde vor der Sonnenexposition großzügig auf die Haut auftragen
-- Kann auch auf nasse Haut aufgetragen werden
 - Ultraleicht, unsichtbar und erfrischend - Extra wasserfest und schweißbeständig
+- Kann auch auf nasse Haut aufgetragen werden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00ID51M5Q{{</world>}}

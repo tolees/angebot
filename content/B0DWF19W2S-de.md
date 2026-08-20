@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- VIEL ZUBEHÖR; VIELE SPIELOPTIONEN: Ein Kajak mit Paddeln, 2 Helme und eine Schwimmweste, ein Skateboard, Inlineskates, 2 Stühle und eine Kühlbox mit Snacks und einem Hundeleckerli laden zum Spielen ein
 - LEGO FANARTIKEL VON FRIENDS SERIE: Weitere Ideen und Abenteuer warten in der Serie LEGO Friends: Das nächste Kapitel auf alle kreativen Baumeister, die Sets lassen sich kombinieren
+- 2 LEGO MINI FIGUREN & HUND: Mädchen und Jungen können mit dem kreativem Spielzeug und mit den Liann, Aliya Minifiguren und dem LEGO Hund Aira entstehen fantasievolle Rollenspiele rund um Freundschaft und Natur
 - AUTO MIT ANHÄNGER: Das LEGO Auto und der Anhänger bieten viel Stauraum für Ausrüstung, Snacks und Zubehör, sogar der Hund hat seinen eigenen Platz
 - GESCHENK FÜR KINDER: Dieses Lernspielzeug ist auch ein beliebtes Geschenk für Mädchen und Jungen und sorgt für kreative Stunden, ob zum Geburtstag, als Mitbringsel oder einfach so
-- 2 LEGO MINI FIGUREN & HUND: Mädchen und Jungen können mit dem kreativem Spielzeug und mit den Liann, Aliya Minifiguren und dem LEGO Hund Aira entstehen fantasievolle Rollenspiele rund um Freundschaft und Natur
-- VIEL ZUBEHÖR; VIELE SPIELOPTIONEN: Ein Kajak mit Paddeln, 2 Helme und eine Schwimmweste, ein Skateboard, Inlineskates, 2 Stühle und eine Kühlbox mit Snacks und einem Hundeleckerli laden zum Spielen ein
 - SPIELSET FÜR ABENTEUER & CAMPING: Das LEGO Friends Abenteuertrip mit Freunden Set lädt Kinder ab 6 Jahren zu spannenden Camping-Geschichten mit vielen Spielmöglichkeiten ein
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

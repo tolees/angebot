@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FARBTEMPERATUR - 2700Kelvin: warmweißes Licht wie von der Glühlampe gewohnt, gemütliches Licht zum Entspannen
-- REFLEKTOR - Reflektorlampen sorgen für gerichtetes Licht wo es gebraucht wird
 - SYSTEMFARBEN - Die RAL-Materialfarben passen zum Paulmann URail-System
-- SPARSAM - LED Technik spart bis zu 80% Strom gegenüber herkömmlichen Glühlampen
 - MARKENHERSTELLER - Paulmann macht Licht aus Leidenschaft, und das seit 40 Jahren
+- FARBTEMPERATUR - 2700Kelvin: warmweißes Licht wie von der Glühlampe gewohnt, gemütliches Licht zum Entspannen
+- SPARSAM - LED Technik spart bis zu 80% Strom gegenüber herkömmlichen Glühlampen
+- REFLEKTOR - Reflektorlampen sorgen für gerichtetes Licht wo es gebraucht wird
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B086KHPDXZ{{</world>}}

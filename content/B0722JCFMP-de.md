@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einsatz: Zum Verbinden von Holzelementen. SPAX-exklusive WIROX-Oberfläche
-- Ermüdungsfreies Arbeiten und längere Akku-Lebensdauer: Kein Vorbohren (holzabhängig). Leichteres Eindringen, Verringerung der Spaltwirkung durch 4CUT: Vier Kanten in der Schraubenspitze.
-- Als MULTI-Kopf ausgeprägter Senkkopf für bündiges Versenken und komfortables Verarbeiten, fräst im Holz, bremst auf Metall. Optimale Kraftübertragung und sauberer Passsitz mit SPAX Bit T-STAR plus T40
 - Lieferumfang: 1 SPAX Box, 50 Stück Holzbauschraube, T-STAR plus, Senkkopf, Teilgewinde, 4CUT, WIROX Oberfläche, Ød1= 8mm x Ls= 100mm, LgT= 57mm, Ødk= 15, 1mm, Bit nicht enthalten
+- Ermüdungsfreies Arbeiten und längere Akku-Lebensdauer: Kein Vorbohren (holzabhängig). Leichteres Eindringen, Verringerung der Spaltwirkung durch 4CUT: Vier Kanten in der Schraubenspitze.
+- Einsatz: Zum Verbinden von Holzelementen. SPAX-exklusive WIROX-Oberfläche
+- Als MULTI-Kopf ausgeprägter Senkkopf für bündiges Versenken und komfortables Verarbeiten, fräst im Holz, bremst auf Metall. Optimale Kraftübertragung und sauberer Passsitz mit SPAX Bit T-STAR plus T40
 - Made in Germany: TÜV zertifiziert. Bauaufsichtlich zugelassen: Europäisch Technische Zulassung für Schrauben als Holzverbindungsmittel in tragenden Holzkonstruktionen (ETA-12/0114)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

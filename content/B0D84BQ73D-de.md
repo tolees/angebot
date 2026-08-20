@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Glutenfrei. Ohne künstliche Geschmacksverstärker, künstliche Farbstoffe. Mit reinem Sonnenblumenöl
 - Hauchdünn geschnitten und extra knusprige Kartoffelchips
+- Glutenfrei. Ohne künstliche Geschmacksverstärker, künstliche Farbstoffe. Mit reinem Sonnenblumenöl
 - Oft kopiert, nie erreicht: Der einzigartige Geschmack der ungarischen Paprika
 
 [🛒 Hier!!]({{< param buyurl >}})

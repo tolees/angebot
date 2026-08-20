@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vielseitig: Mit diesem Aufbewahrungsregal können Sie jeden Raum – ob Wohnzimmer, Esszimmer oder Schlafzimmer – aufwerten. Es ist ideal, um Pflanzen zu präsentieren, Bücher aufzubewahren oder Lieblingssammlung zu präsentieren – Sie entscheiden!
 - Geräumig & verstellbar: Mit der Größe von 24 x 40 x 93 cm verfügt dieses Regal über 3 offene Fächer, die reichlich Stauraum bieten. Die Ablagen sind um 6 cm in 5 Höhen verstellbar, sodass sich Ihre Gegenstände in verschiedenen Größen unterbringen lassen
 - Robust, stabil, sicher: Aus 15 mm dicken E1-Spanplatten gefertigt, ist dieser Ständer kratzresistent und robust und trägt bis zu 10 kg pro Fach. Der Kippschutz hilft, dieses Standregal an der Wand zu befestigen, um die Stabilität und Sicherheit zu erhöhen
+- Vielseitig: Mit diesem Aufbewahrungsregal können Sie jeden Raum – ob Wohnzimmer, Esszimmer oder Schlafzimmer – aufwerten. Es ist ideal, um Pflanzen zu präsentieren, Bücher aufzubewahren oder Lieblingssammlung zu präsentieren – Sie entscheiden!
 - Einfache Montage: Dieses Standregal wird mit einer klaren Anleitung und gekennzeichneten Teilen geliefert, so lässt es sich im Handumdrehen zusammenbauen
 - Modern & vielseitig: Die CUSTOS Kollektion vereint klare Linien und fügt sich in Ihr Zuhause ein. In Kombination mit anderen Möbeln der Serie entsteht ein harmonisches Gesamtbild
 

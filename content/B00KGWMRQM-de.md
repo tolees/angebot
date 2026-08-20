@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- kurzärmlig & mit Rundhalsausschnitt
+- Waschhinwes: 40°C Buntwäsche | Nicht chemisch reinigen | Nicht auf Verzierung bügeln | Nicht im Trockner trocknen | Nicht bleichen | Bügeln bei mäßiger Temperatur | Mit ähnlichen Farben waschen | Von links waschen und bügeln | Nass in Form ziehen
 - Passform: Regular Fit - gerader Schnitt | Unser Model ist 188 cm groß und trägt Größe M
 - Basic T-Shirt in Unifarben im praktischen Doppelpack. Aus einem Single-Jersey-Stoff aus Baumwolle
-- Waschhinwes: 40°C Buntwäsche | Nicht chemisch reinigen | Nicht auf Verzierung bügeln | Nicht im Trockner trocknen | Nicht bleichen | Bügeln bei mäßiger Temperatur | Mit ähnlichen Farben waschen | Von links waschen und bügeln | Nass in Form ziehen
-- kurzärmlig & mit Rundhalsausschnitt
 - Ideal zu folgenden Anlässen: Freizeit, Alltag, Sport, Urlaub, Strand, Homeoffice, Wochenende, Frühling, Sommer
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

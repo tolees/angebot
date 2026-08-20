@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innovative Teppicherkennung: Der Saugroboter erkennt Teppiche automatisch und steigert die Saugleistung für optimale Reinigung; Er speichert Teppich Bereiche in der App und meidet diese im Wischmodus
-- Saugen und Wischen: Der Kärcher Saugroboter RCV 5 reinigt Hartböden und Teppiche besonders gründlich; Bei festsitzendem Schmutz auf harten Böden kommt die praktische Wischfunktion zum Einsatz
 - Lieferumfang: Das Set enthält den Kärcher Saugroboter RCV 5, eine Ladestation, separate Behälter für Staub und Frischwasser, 2 Seitenbürsten, 2 Filter, 2 Mikrofaser-Reinigungstücher
 - Steuerung via App: Die Kärcher Home Robots App speichert Raumkarten, Verbotszonen und Zeitplan fest; Mit dem Update im Januar 2024 wurden die Internet Konnektivität und Hinderniserkennung verbessert
+- Innovative Teppicherkennung: Der Saugroboter erkennt Teppiche automatisch und steigert die Saugleistung für optimale Reinigung; Er speichert Teppich Bereiche in der App und meidet diese im Wischmodus
+- Saugen und Wischen: Der Kärcher Saugroboter RCV 5 reinigt Hartböden und Teppiche besonders gründlich; Bei festsitzendem Schmutz auf harten Böden kommt die praktische Wischfunktion zum Einsatz
 - Optimale Hinderniserkennung: Mithilfe der LiDAR-Lasersensoren, Dual-Laser-System, Kamera und künstlicher Intelligenz erkennt der RCV 5 alle Hindernisse – egal, ob Schuhe, Waage oder Kabel
 
 [🛒 Hier!!]({{< param buyurl >}})

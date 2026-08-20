@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FREIES SPIELEN – schleich Spielfiguren fördern freies Spielen und unterstützen Kreativität, Lösungsfindung und Selbstvertrauen. Viele Eltern bestätigen, dass sie die Fantasie ihrer Kinder anregen!
-- DINOSAURS – Werde mit deinem Kind zum Paläontologen und begib dich mit den Colby-Brüdern Maxx, Luis und Flynn auf aufregende Abenteuer in die prähistorische Welt der Dinos. Die nächste Expedition wartet!
 - GESCHICHTEN OHNE GRENZEN – Mit schleich Figuren entdecken Kinder detailgetreue, langlebige Spielwelten. Hohe Qualität und Nachhaltigkeit sorgen für jahrelangen Spielspaß und treue Begleiter.
 - ABENTEUER SCHENKEN – Ein furchteinflößender Gigantosaurus, ein mächtiger Spinosaurus oder ein friedlicher Triceratops – entdeckt die Welt der schleich Dinos! Perfekt als Geschenk für kleine Dinofans!
 - LIEBE ZUM DETAIL – Die Dino Figuren von schleich beeindrucken durch ihre Detailtreue und sind ein Highlight für jede Sammlung! Die Schleich-Dinosaurier bieten riesigen Spielspaß für Kinder ab 3 Jahren!
+- DINOSAURS – Werde mit deinem Kind zum Paläontologen und begib dich mit den Colby-Brüdern Maxx, Luis und Flynn auf aufregende Abenteuer in die prähistorische Welt der Dinos. Die nächste Expedition wartet!
+- FREIES SPIELEN – schleich Spielfiguren fördern freies Spielen und unterstützen Kreativität, Lösungsfindung und Selbstvertrauen. Viele Eltern bestätigen, dass sie die Fantasie ihrer Kinder anregen!
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B074VFLXM3{{</world>}}

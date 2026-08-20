@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Energiebooster im Alltag
-- Langlebig
 - Verantwortungsvolle Inhaltsstoffe
+- Langlebig
+- Energiebooster im Alltag
 - Bringt Ihnen einen zusätzlichen Komfort
 
 [🛒 Hier!!]({{< param buyurl >}})

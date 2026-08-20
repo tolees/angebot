@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PRAKTISCH: Minipumpe inkl. Flickzeug im Griff: 2 Reifenheber, 3 selbstklebende Schnellflicken, 1 Aufrauer (ohne Vulkanisierlösung: leichte Handhabung, kein Schmutz)
-- SICHER: Rutschfester Griff aus hochwertigem Aluminium
-- SAUBER: Pumpe enthält eine Abdeckklappe gegen Schmutz
 - VIELSEITIG: Doppelkopf für alle gängigen Ventile: Dunlop, Auto, Sclaverand
 - LEISTUNG: Pumpleistung bis zu 5, 5 Bar / 80 PSI
+- SAUBER: Pumpe enthält eine Abdeckklappe gegen Schmutz
+- PRAKTISCH: Minipumpe inkl. Flickzeug im Griff: 2 Reifenheber, 3 selbstklebende Schnellflicken, 1 Aufrauer (ohne Vulkanisierlösung: leichte Handhabung, kein Schmutz)
+- SICHER: Rutschfester Griff aus hochwertigem Aluminium
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07RKJFG14{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Rahmen ist zusätzlich mit Aufhängeösen für hoch- und querformatige Bilder ausgestattet
 - Der Holzrahmen Home ist zusätzlich mit einem echten Schrägschnitt-Passepartout ausgestattet und verleiht dem Bild entsprechend eine besondere Wirkung
+- Der Rahmen ist zusätzlich mit Aufhängeösen für hoch- und querformatige Bilder ausgestattet
 - Modernes Blockprofil mit 29 mm Breite mit einer säherauhen Oberfläche, die dadurch besonders natürlich wirkt
 
 [🛒 Hier!!]({{< param buyurl >}})

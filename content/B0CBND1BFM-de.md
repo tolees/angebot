@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Jjebradley Sweat Zip Hood Noos Pls - Plus Size'
-date: 2026-07-18 07:16:16
-image: 'https://m.media-amazon.com/images/I/31H4pqStHnL._SL500_._SL400_.jpg'
+date: 2026-08-18 16:25:36
+image: 'https://m.media-amazon.com/images/I/31ZJ4deJx9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0CBND1BFM-de Jjebradley Sweat Zip Hood Noos Pls - Plus Size'
 sku: 'B0CBND1BFM-de'
 tags: [ '🇩🇪', ]
-actualPrice: 23.99 EUR
+actualPrice: 23.36 EUR
 currency: EUR
-price: 23.99
+price: 23.36
 comparePrice: 39.99 EUR
 prodname: 'Jjebradley Sweat Zip Hood Noos Pls - Plus Size'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0CBND1BFM/?tag=tolees0ca-21'
-descuento: '40.01'
-average: '24.96'
+descuento: '41.59'
+average: '24.56'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

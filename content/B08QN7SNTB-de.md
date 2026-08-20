@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mit nachhaltiger Bio-Baumwolle und Elastan-Anteil für mehr Stretch
-- Gestreiftes Langarmshirt mit kleiner Herz-Stickerei auf der Brust
 - 3/4-Arm mit U-Boot-Ausschnitt
 - Passform: Regular Fit, Rückenlänge bei Größe M ca. 63 cm
+- Gestreiftes Langarmshirt mit kleiner Herz-Stickerei auf der Brust
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08QN7SNTB{{</world>}}

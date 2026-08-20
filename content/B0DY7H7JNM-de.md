@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Durchmessertoleranz +/- 0.02mm
 - Umweltschutz, Hergestellt aus Stärke-Rohstoffen, die aus nachwachsenden Pflanzenressourcen stammen
-- Druck Temperatur: 190-220℃;
-- 1kg Spool 1.75mm Filament PLA in der Vakuumverpackung
 - Keine Verunreinigungen, Kein verstopft
+- Durchmessertoleranz +/- 0.02mm
+- 1kg Spool 1.75mm Filament PLA in der Vakuumverpackung
+- Druck Temperatur: 190-220℃;
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DY7H7JNM{{</world>}}

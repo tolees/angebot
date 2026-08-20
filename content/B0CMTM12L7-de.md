@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Waterbased print
 - Elastic waistband
-- Regular fit
+- Waterbased print
 - Kann groß ausfallen – es wird empfohlen, eine Größe kleiner zu wählen.
+- Regular fit
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CMTM12L7{{</world>}}

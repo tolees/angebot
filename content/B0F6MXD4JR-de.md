@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthaltene Spiele: Oddworld: NewnTasty, Oddworld: Munchs Oddysee, Oddworld: StrangersWrath und Oddworld: Soulstorm
 - Erkunde riesige, cineastische Levels und 2.9D-Umgebungen voller atemberaubender Grafik Suche nach Vorräten, stelle Waffen her, bewaffne deine Anhänger, löse Rätsel und geleite alle 1 000 Anhänger von Abe sicher in die Freiheit.
 - Begleite Abe auf seiner epischen Suche nach Freiheit und entdecke unvergessliche Welten.
+- Enthaltene Spiele: Oddworld: NewnTasty, Oddworld: Munchs Oddysee, Oddworld: StrangersWrath und Oddworld: Soulstorm
 - Tauche ein in die legendäre und dystopische Welt von Oddworld in dieser fantastischen 4-Spiele-Kollektion für Nintendo Switch, inklusive des neuesten Teils: Oddworld: Soulstorm.
 - Nutze Spezialkräfte, coole Power-Ups und andere besondere Fähigkeiten, um die letzten Gabbiteggs auf Oddworld zurückzuerobern, die in einer Dose Gabbiar verpackt wurden.
 

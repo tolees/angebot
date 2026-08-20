@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EXTRA-LARGE KAPAZITÄT: Kochen Sie bis zu 8 Portionen. Jede Schublade fasst bis zu 1,4 kg Pommes oder 2 kg Huhn. Kochen Sie bis zu 75% schneller als Lüfteröfen* (*Getestet mit Fischsticks und Wurst, einschließlich Vorheizen)
 - Exklusiv von Amazon – Diese 6-in-1 Dual Zone Luftfritteuse verfügt über elegante Kupferakzente und enthält ein Paar Silikonzangen. 6 Kochfunktionen: maximale Knusprigkeit, Luftfrittieren, Braten, Backen, Aufwärmen, Dehydratisieren
+- EXTRA-LARGE KAPAZITÄT: Kochen Sie bis zu 8 Portionen. Jede Schublade fasst bis zu 1,4 kg Pommes oder 2 kg Huhn. Kochen Sie bis zu 75% schneller als Lüfteröfen* (*Getestet mit Fischsticks und Wurst, einschließlich Vorheizen)
 - 2 ubhängige Kochzonen: Kochen Sie 2 Lebensmittel auf 2 Arten, beide gleichzeitig fertig. Schnelle und vollständige Mahlzeiten ohne Öl. Luftbraten - bis zu 75% weniger Fett* (*Getestet gegen handgeschnittene Pommes)
 - SCHNELLES KOCHEN - kocht bis zu 75% schneller als mit Lüfteröfen*. EINFACHE REINIGUNG: Abnehmbare antihaftbeschichtete und spülmaschinenfeste Teile. (*Getestet mit Fisch und Wurst, inklusive Vorheizen)
 

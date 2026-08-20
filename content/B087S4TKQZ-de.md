@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Vielseitige Designserie: Das Leitz Cosy Sortiment verbindet Wohnkomfort und Stil mit Premium-Qualität, Ideal für ein produktives Arbeitsumfeld und zur stilvollen Einrichtung des Büros oder Home Office
-- Beste Organisation: 80 Blatt (160 Seiten) kariert 100 g/m² Papier in hochwertiger Qualität für ein angenehmes Schreibgefühl, FSC zertifiziert; Innentasche am Rückdeckel & Lesezeichenband aus Textil
-- Lieferumfang: 1 x Leitz großes kariertes Notizbuch, ca. B5 Format (zwischen A5 und A4), Maße (BxHxT): 164 x 13 x 252mm, Farbe: Warmes Gelb, Cosy-Sortiment, Kartonverpackung, 44820019
 - Stabiles Hardcover: Soft-Touch, laminierter und kratzfester Einband mit starkem Gummibandverschluss zum festen Zusammenhalten der Seiten; Ideal für den Transport in Handtaschen und Laptoptaschen
+- Lieferumfang: 1 x Leitz großes kariertes Notizbuch, ca. B5 Format (zwischen A5 und A4), Maße (BxHxT): 164 x 13 x 252mm, Farbe: Warmes Gelb, Cosy-Sortiment, Kartonverpackung, 44820019
 - Hochwertiges Notizbuch: Handlich, leicht, Sonderformat um mit Tablet, iPad zusammen getragen zu werden, für unterwegs, Zuhause, im Büro für Notizen, Skizzen, als Journal, Tagebuch, Zeichenbuch
+- Beste Organisation: 80 Blatt (160 Seiten) kariert 100 g/m² Papier in hochwertiger Qualität für ein angenehmes Schreibgefühl, FSC zertifiziert; Innentasche am Rückdeckel & Lesezeichenband aus Textil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B087S4TKQZ{{</world>}}

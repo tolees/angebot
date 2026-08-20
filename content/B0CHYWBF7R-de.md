@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Über das LED-Display sind bis zu 40 Mahlgrade einstellbar und ermöglichen das Kaffeemahlen für die unterschiedlichsten Kaffeespezialitäten – ob für Espresso, Filterkaffee, Mokka oder Cold Brew
 - Das Herzstück der Kaffeemühle ermöglicht von sehr feinen bis zu sehr groben Mahlergebnissen jederzeit den gewünschten Mahlgrad für eine Vielzahl an Kaffeespezialitäten
 - Inhalt: 1x Espressomühle aus Cromargan Edelstahl matt, (12 x 31 x 30cm, 150 W, Kabellänge 1,1m), 1x Mahlwerk, 1x Kaffeemehlbehälter (150g Kaffeemehl), 1x Kaffeebohnenbehälter (180g) - Artikelnummer: 0417080011
-- Konisches Mahlwerk aus hochwertigem Edelstahl, antistatischer Kaffeemehlbehälter aus BPA-freiem Tritan, Gehäuse aus hochwertigem, strapazierfähigem, mattiertem Cromargan
 - Formgebung und Größe wurden speziell an das Design der WMF Lumero Siebträgermaschine angepasst – für ein harmonisches Duo in jeder Küche
-- Über das LED-Display sind bis zu 40 Mahlgrade einstellbar und ermöglichen das Kaffeemahlen für die unterschiedlichsten Kaffeespezialitäten – ob für Espresso, Filterkaffee, Mokka oder Cold Brew
+- Konisches Mahlwerk aus hochwertigem Edelstahl, antistatischer Kaffeemehlbehälter aus BPA-freiem Tritan, Gehäuse aus hochwertigem, strapazierfähigem, mattiertem Cromargan
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CHYWBF7R{{</world>}}

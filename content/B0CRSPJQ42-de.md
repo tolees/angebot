@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Am besten eisgekühlt serviert: Der fruchtig-spritzige Geschmack entfaltet sich optimal kalt. Eine erfrischende Pause für jeden Moment
 - Praktische 0,33 l Dosen im 24er-Pack: Perfekt zum Teilen oder als Vorrat. Genießen Sie Ihre kleine Erfrischung unterwegs oder zu Hause
-- Teil der beliebten Fanta-Familie: Entdecken Sie das spritzige Erlebnis von Fanta Orange ohne Zucker – ein Klassiker neu interpretiert
 - Trinke Fanta, lebe bunter: Erlebe den prickelnden Orangengeschmack ohne Zucker und mit wenig Kalorien – perfekt für den bewussten Genuss
 - Ideal für die ganze Familie: Diese erfrischende Limonade bringt spritzige Momente in Ihren Alltag, ob beim Picknick oder der Grillparty
+- Teil der beliebten Fanta-Familie: Entdecken Sie das spritzige Erlebnis von Fanta Orange ohne Zucker – ein Klassiker neu interpretiert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CRSPJQ42{{</world>}}

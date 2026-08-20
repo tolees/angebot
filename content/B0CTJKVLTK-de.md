@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- fixierte Kapuze, abnehmbares Kunstfell
-- Verschluss: Reißverschluss, Druckknöpfe
 - Passform: Regular Fit
+- fixierte Kapuze, abnehmbares Kunstfell
 - Pattentasche
+- Verschluss: Reißverschluss, Druckknöpfe
 - lange Ärmel
 - Futter: Taftfutter
 

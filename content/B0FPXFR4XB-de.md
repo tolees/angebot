@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- KREATIVES SPIELSET: Dieses Bastelset bietet Kindern ein lohnendes Bauprojekt und lädt zu kreativem Spielen ein; faszinierende Funktionen sorgen für viele Fantasy-Abenteuer
+- SORTIMENT ENTDECKEN: Die separat erhältlichen Harry Potter Sets lassen junge Hexen, Zauberer und Muggel Szenen nachspielen und eigene Geschichten darstellen
 - INTERAKTIVES BAUERLEBNIS: Die LEGO Builder App lässt Kinder selbstständig bauen und 3D Modelle vergrößern und drehen sowie ihre Sets speichern; die digitale Bauanleitung zeigt auch den Fortschritt des Modells
 - SPIELZEUG FÜR KINDER AB 12 JAHREN: Schloss Hogwarts: Kräuterkunde-Pflanzen lässt dich drei magische Pflanzen erschaffen und bringt die Zauberwelt direkt nach Hause; dieses LEGO Harry Potter Modell wird zu einer verspielten Deko für echte Fans
-- 3 LEGO PFLANZEN: Zieh die Alraune aus dem Topf und bewege ihren Mund, als würde sie schreien; dreh an den Rädern, um die Fangzähnigen Geranien zubeißen zu lassen und die Mimbulus Mimbeltonia pulsieren zu lassen
 - ANPASSBARE HARRY POTTER DEKO: Stell zwei der Pflanzen auf den Tisch mit Schublade und ergänze die dekorative Ranke sowie die Ohrenschützer; so entsteht ein besonderer Hingucker
 - GESCHENK FÜR HARRY POTTER FANS: Dieses Bauspielzeug ist ein beliebtes Geschenk für Jungen, Mädchen und Fans ab 12 Jahren
-- SORTIMENT ENTDECKEN: Die separat erhältlichen Harry Potter Sets lassen junge Hexen, Zauberer und Muggel Szenen nachspielen und eigene Geschichten darstellen
-- KREATIVES SPIELSET: Dieses Bastelset bietet Kindern ein lohnendes Bauprojekt und lädt zu kreativem Spielen ein; faszinierende Funktionen sorgen für viele Fantasy-Abenteuer
+- 3 LEGO PFLANZEN: Zieh die Alraune aus dem Topf und bewege ihren Mund, als würde sie schreien; dreh an den Rädern, um die Fangzähnigen Geranien zubeißen zu lassen und die Mimbulus Mimbeltonia pulsieren zu lassen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FPXFR4XB{{</world>}}

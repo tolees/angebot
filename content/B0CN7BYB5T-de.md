@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Lieferumfang: 1x Columbia Jungen-Kapuzenjacke, Powder Lite II, Farbe: Blau (Mountain Blue, Collegiate Navy), Größe: L, Art. 2090023
 - Durchgehender Reißverschluss, Zusätzlicher Schutz durch Reißverschluss-Taschen für warme und geschützte Hände, Kinnschutz, Verstellbare Sturmkapuze
-- Besonders warmhaltend dank Omni-Heat mit wärmereflektierendem Futter, Thermarator-Isolierung für optimalen Schutz vor Wind und Wetter
 - Wasserabweisende Winterjacke für Jungen, ideal für alle Outdoor-Aktivitäten, Leicht und bequem
 - Verstellbarer Kordelzug am Saum für perfekten Tragekomfort, Reguläre Passform
+- Besonders warmhaltend dank Omni-Heat mit wärmereflektierendem Futter, Thermarator-Isolierung für optimalen Schutz vor Wind und Wetter
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CN7BYB5T{{</world>}}

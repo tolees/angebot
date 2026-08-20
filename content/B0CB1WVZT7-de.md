@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Mittelhoher Bund
+- 5 Taschen – nach innen versetzte Münztasche
 - Gewebtes G-Star Originals Label hinten am Bund
 - Hosenschlitz mit Knopfverschluss
 - Gerade geschnittenes Bein
-- 5 Taschen – nach innen versetzte Münztasche
-- Mittelhoher Bund
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CB1WVZT7{{</world>}}

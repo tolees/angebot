@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LIEFERUMFANG - EOS R8 Kamera, Tragegurt, Akkuladegerät LC-E17E, Akku, Netzkabel.
-- KOMPATIBEL MIT RF-OBJEKTIVEN: Einschließlich RF 100-400mm, RF 45mm und RF 16-28mm – ideal für Wildlife-, Porträt- und Landschaftsfotografie – entdecke mehr im Canon Brand Store
 - LEICHT & KOMPAKT - Durch das Gewicht von nur ca. 461 g (mit Speicherkarte und Akku) ist die Canon EOS R8 die bisher leichteste Vollformat Kamera des EOS R Systems.
 - DEEP LEARNING - Die spiegellose Kamera bietet optimale Unterstützung bei kreativen Aufgabenstellungen. Der Deep-Learning-Algorithmus erkennt Menschen, Tiere und Fahrzeuge, um schnell auf Motive zu fokussieren und den Fokus präzise nachzuführen, wenn sie sich bewegen.
+- KOMPATIBEL MIT RF-OBJEKTIVEN: Einschließlich RF 100-400mm, RF 45mm und RF 16-28mm – ideal für Wildlife-, Porträt- und Landschaftsfotografie – entdecke mehr im Canon Brand Store
 - DYNAMIK FESTHALTEN - Mit einer Aufnahmezeit von bis zu zwei Stunden, eignet sich die EOS R8 ideal für Vlogs, Reisen, Reportagen oder Aufnahmen von Veranstaltungen. Mit dem Panorama- & Schwenk-Assistent, lassen sich zudem Aufnahmen aus jedem beliebigen Winkel machen.
+- LIEFERUMFANG - EOS R8 Kamera, Tragegurt, Akkuladegerät LC-E17E, Akku, Netzkabel.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DPLG3Z6B{{</world>}}

@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gepolsterter Schaft
-- Reguläre Passform
 - Dämpfende Zwischensohle
 - Textilfutter
-- Obermaterial aus Synthetikleder
+- Gepolsterter Schaft
 - Schnürsenkel
+- Obermaterial aus Synthetikleder
+- Reguläre Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09NL4CDZK{{</world>}}

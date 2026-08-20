@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: schwarz
-- 90° links/rechts gewinkelte Version 3-polige Belegung
 - Stromstärke max. 10A
 - Buchse IEC 60320 Typ C14 zu Stecker IEC 60320 Typ C13
+- Farbe: schwarz
+- 90° links/rechts gewinkelte Version 3-polige Belegung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08CBGYRDT{{</world>}}

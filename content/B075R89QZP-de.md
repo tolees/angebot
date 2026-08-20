@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Modell: c13t04d100
 - Epson c13t04d100 markenkompatibilität: epson
-- Einfach zu bedienen
+- Modell: c13t04d100
 - Gerätekompatibilität: multifonctionel
+- Mae: 15,2 x 11,8 x 7 cm
+- Einfach zu bedienen
 - Schwarz
 - Kompatibilität: workforce wf-2865dwf - workforce wf-2860dwf - expression home xp-5105 - ecotank et-4750 -
-- Mae: 15,2 x 11,8 x 7 cm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B075R89QZP{{</world>}}

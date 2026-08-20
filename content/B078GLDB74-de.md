@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die elektronische Drehzahlregulierung sorgt für den punktgenauen Einsatz der Leistung des Akku-Rasentrimmers, der mit bis zu 9.000 Umdrehungen pro Minute arbeitet.
-- Power X-Change: Ein Akku für alle! Alle System-Akkus der System-Reihe können bei allen PXC-Geräten genutzt werden. Die Lieferung erfolgt ohne Akku und ohne Ladegerät.
 - Der "Split Schaft" sorgt für einen einfachen Transport und eine platzsparende Aufbewahrung. Zusätzlich ist eine praktische Wandhalterung in der Lieferung inklusive.
-- Für die einfache Handhabung und ein ermüdungsfreies Arbeiten ist der Einhell-Rasentrimmer zusätzlich zum abgewinkelten Führungsholm sowie dem verstellbaren Zusatzhandgriff mit Softgrip.
-- Ein "Flowerguard" (Blumenschutz) schützt empfindliche Blumen und Zierpflanzen vor den scharfen Schnitten der Fäden.
 - Als wahres Leichtgewicht ist der Rasentrimmer agil und durch den abgewinkelten Führungsholm aus leichtem Aluminium und einen verstellbaren Zusatzhandgriff mit Schnellverschluss.
 - Der Einzelfadenschnitt mit 2 Millimeter-Faden sorgt für eine scharfe Kante bis zu 30 Zentimeter in der Breite. Einfach nachzuziehen ist der Faden durch die praktische Fadenspule mit Tippautomatik.
+- Ein "Flowerguard" (Blumenschutz) schützt empfindliche Blumen und Zierpflanzen vor den scharfen Schnitten der Fäden.
+- Die elektronische Drehzahlregulierung sorgt für den punktgenauen Einsatz der Leistung des Akku-Rasentrimmers, der mit bis zu 9.000 Umdrehungen pro Minute arbeitet.
+- Power X-Change: Ein Akku für alle! Alle System-Akkus der System-Reihe können bei allen PXC-Geräten genutzt werden. Die Lieferung erfolgt ohne Akku und ohne Ladegerät.
+- Für die einfache Handhabung und ein ermüdungsfreies Arbeiten ist der Einhell-Rasentrimmer zusätzlich zum abgewinkelten Führungsholm sowie dem verstellbaren Zusatzhandgriff mit Softgrip.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B078GLDB74{{</world>}}

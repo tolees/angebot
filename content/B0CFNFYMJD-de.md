@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das digitale Ultra-Weitwinkelobjektiv mit Sichtfeldoptionen bis zu 177° bei beeindruckenden 4K60 liefert die weitesten Aufnahmen, die mit einer HERO Kamera möglich sind.
-- Wasserdicht bis 5 m bei Anbringung an deiner GoPro
 - Im Lieferumfang enthalten: Max Lens Mod 2.0 für die HERO12, Schutzkappen, Reinigungstuch
-- Max HyperSmooth bietet unerschütterliche Videostabilisierung in allen Videomodi.
 - Die für alle digitalen Objektive verfügbare Horizontsperre hält deine Aufnahmen gerade, selbst wenn sich die Kamera beim Filmen um volle 360° dreht.
+- Max HyperSmooth bietet unerschütterliche Videostabilisierung in allen Videomodi.
+- Wasserdicht bis 5 m bei Anbringung an deiner GoPro
+- Das digitale Ultra-Weitwinkelobjektiv mit Sichtfeldoptionen bis zu 177° bei beeindruckenden 4K60 liefert die weitesten Aufnahmen, die mit einer HERO Kamera möglich sind.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CFNFYMJD{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnürverschluss
 - Besteht zu mindestens 20 % aus recycelten Materialien
 - Obermaterial aus Wildleder
 - Textilfutter
+- Schnürverschluss
 - Reguläre Passform
 - Gummi-Cupsohle
 

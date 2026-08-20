@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eine Squier Debut Series Precision Bass Gitarre - eine perfekte Anfängergitarre für Kinder und Erwachsene.
-- Der Squier Debut Series Precision Bass verfügt über einen Split-Coil-Tonabnehmer mit Lautstärke- und Tonregler, der für druckvolle P-Bass-Töne sorgt, und die Mechaniken mit offenem Getriebe im Vintage-Stil ermöglichen ein sanftes und präzises Stimmen.
 - 2-jährige eingeschränkte Garantie: Fender-Gitarren werden mit unübertroffener Qualität gebaut, bis zur letzten Schraube - deshalb gewährt Fender für diesen Fender-Bass eine Garantie von zwei (2) Jahren ab dem ursprünglichen Kaufdatum, frei von Material- und Verarbeitungsfehlern.
-- Das Griffbrett aus Lorbeerholz und das ikonische schlanke "C"-förmige Halsprofil ermöglichen ein weiches und komfortables Spielgefühl, während die verchromte Hardware eine stabile Struktur mit edler Optik bietet.
 - Entworfen von Fender in Kalifornien und ein Symbol des Rock & Roll, ist die Debut Collection Precision Bass der perfekte Begleiter, um Ihre musikalische Reise zu beginnen.
+- Eine Squier Debut Series Precision Bass Gitarre - eine perfekte Anfängergitarre für Kinder und Erwachsene.
+- Das Griffbrett aus Lorbeerholz und das ikonische schlanke "C"-förmige Halsprofil ermöglichen ein weiches und komfortables Spielgefühl, während die verchromte Hardware eine stabile Struktur mit edler Optik bietet.
+- Der Squier Debut Series Precision Bass verfügt über einen Split-Coil-Tonabnehmer mit Lautstärke- und Tonregler, der für druckvolle P-Bass-Töne sorgt, und die Mechaniken mit offenem Getriebe im Vintage-Stil ermöglichen ein sanftes und präzises Stimmen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CSLMDCLY{{</world>}}

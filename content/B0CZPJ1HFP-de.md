@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - PLATZ SPAREN AUF IHRER KÜCHENARBEITSFLÄCHE: 30% schlanker (im Vergleich zu AF400). Air Fryer mit extra-großer Kapazität von 9,5L für bis zu 8 Personen. Kochen Sie bis zu 55 % schneller als Umluftöfen (getestet an Fischstäbchen und Würstchen)
 - 6 FUNKTIONEN: Max Crisp, Heißluft-Frittieren​, Braten, Backen, Aufwärmen, Dörren​. Bis zu 75 % weniger Fett* bei Verwendung der Air Fry-Funktion (*Getestet an tiefgefrorenen, handgeschnittenen Pommes frites). SYNC-, MATCH-Funktionen mit 2 Schubladen
-- ENTHÄLT: Ninja Double Stack 9,5L Heißluftfritteuse (EU-Stecker), 2x 4,75L Schubladen, 2x Antihaft-Crisper-Platten, 2x Roste. Spülmaschinenfeste Teile. Abmessungen: H 38,5cm x B 28cm x T 47cm. Gewicht: 10,3 kg. Farbe: Grau
 - AUF 4 EBENEN GLEICHZEITIG KOCHEN: Die Heißluftfritteuse enthält 2 Schubladen UND 2 Mahlgitter, um auf 4 Ebenen kochen zu können und die doppelte Menge an Essen zuzubereiten. Hintere Lüfter gewährleisten, dass das Essen auf allen Ebenen gleichmäßig gegart und knusprig wird
+- ENTHÄLT: Ninja Double Stack 9,5L Heißluftfritteuse (EU-Stecker), 2x 4,75L Schubladen, 2x Antihaft-Crisper-Platten, 2x Roste. Spülmaschinenfeste Teile. Abmessungen: H 38,5cm x B 28cm x T 47cm. Gewicht: 10,3 kg. Farbe: Grau
 - ENERGIEEFFIZIENT: Kochen Sie mit bis zu 55 % weniger Energie als in einem Backofen* (*Tests und Berechnungen basieren auf der empfohlenen Garzeit für Würstchen unter Verwendung der Airfry-Funktion im Vergleich zu konventionellen Öfen)
 
 [🛒 Hier!!]({{< param buyurl >}})

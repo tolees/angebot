@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Ein Schuh mit optimaler Stoßdämpfung, die vor Stößen und Schlägen schützt
 - Leichter Einstieg für einmaligen Tragekomfort
-- Herausnehmbare Innensohle
 - Antibakterielle Innensohle
 - Leichter Schuh für mehr Bewegungsfreiheit
+- Herausnehmbare Innensohle
 - Die patentierten Geox-Systeme garantieren die Atmungsaktivität der Sohle und sorgen für Wohlbefinden des Fußes
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

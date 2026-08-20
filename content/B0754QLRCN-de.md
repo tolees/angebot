@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- IP-Schutz: IP68 - geschützt gegen dauerhaftes Untertauchen
-- 24V-Verbindungskabel
 - kombinierbar mit allen Leuchten und Zubehörteilen aus der Plug&Shine Serie
+- 24V-Verbindungskabel
+- IP-Schutz: IP68 - geschützt gegen dauerhaftes Untertauchen
 - ober- und unterirdisch verlegbar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

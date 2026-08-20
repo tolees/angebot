@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Hergestellt aus recycelten Inhaltsstoffen
 - Eingrifftaschen mit Reißverschluss
 - Stretcheinfassung an Bündchen und Saum.
-- Hergestellt aus recycelten Inhaltsstoffen
 - Stretcheinfassung am Kragen
 
 [🛒 Hier!!]({{< param buyurl >}})

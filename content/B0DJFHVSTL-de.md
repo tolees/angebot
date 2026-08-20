@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Feuchtigkeitsableitendes Material
 - Regulär geschnitten; mittelhoher Bund
 - Oberteil: Hauptmaterial: 100% Polyester(100% Recycelt) / Oberteil: Rib Einsatz: 100% Polyester(100% Recycelt) / Unterteil: Hauptmaterial: 100% Polyester(100% Recycelt)
+- Feuchtigkeitsableitendes Material
 - Durchgehender Reißverschluss; Stehkragen
 - CLIMACOOL
 

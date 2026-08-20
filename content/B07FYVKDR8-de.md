@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Empfohlenes Alter: ab 12 n
-- Spieleranzahl: ab 1 Spieler
-- 1000 Teile
 - SCHMIDT SPIELE Premium-Puzzles – mit Qualität, die Sie greifen können
+- 1000 Teile
+- Spieleranzahl: ab 1 Spieler
+- Empfohlenes Alter: ab 12 n
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07FYVKDR8{{</world>}}

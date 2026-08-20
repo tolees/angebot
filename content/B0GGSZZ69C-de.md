@@ -30,11 +30,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - BAUBARES SPIELZEUGSCHLOSS: Duell im Schloss Drumm ist ein LEGO Set zur Netflix-Realverfilmung und sorgt mit actionreichen Szenen im Schloss für spannenden Spielspaß
 - FASZINIERENDES KREATIVES ERLEBNIS: Die 3D-Bauanleitungen in der LEGO Builder App ermöglichen ein intuitives Bauabenteuer, bei dem Kinder Sets speichern, Modelle vergrößern und drehen und ihren Fortschritt verfolgen
-- SPIELZEUG FÜR ROLLENSPIELE: Klapp die Mauern auf und erweitere die Festung, erkunde das Erdgeschoss mit Flusspferdkamin, Choppers Labor im 1. Obergeschoss sowie Namis Bett und den Thronsaal im 2. Obergeschoss
 - 6 LEGO MINIFIGUREN: In der mehrstöckigen Festung tümmeln sich vertraute ONE PIECE Charaktere: Monkey D. Ruffy, Nami, Sanji, Vivi, Tony Tony Chopper und der tyrannische König Wapol mit seinen gefährlichen Körperteilen
 - MODELLBAU MIT ZUBEHÖR: Piratenflagge, Banner und Lampen schmücken das Schloss, dazu kommen Ausrüstung für Wapols Teufelsfruchtverwandlung, Choppers Labor, Küchenutensilien und vier versteckte Geheimakten
-- LEGO ONE PIECE SAMMLERSTÜCKE: Kinder können mit den Charakteren und Schauplätzen aus der Netflix-Serie packende Abenteuer nachspielen
 - ONE PIECE GESCHENK FÜR KINDER: Dieser Strohhutpiraten Fanartikel ist ein beliebtes Geschenk für Mädchen, Jungen und Fans der Netflix-Realverfilmung ab 9 Jahren
+- SPIELZEUG FÜR ROLLENSPIELE: Klapp die Mauern auf und erweitere die Festung, erkunde das Erdgeschoss mit Flusspferdkamin, Choppers Labor im 1. Obergeschoss sowie Namis Bett und den Thronsaal im 2. Obergeschoss
+- LEGO ONE PIECE SAMMLERSTÜCKE: Kinder können mit den Charakteren und Schauplätzen aus der Netflix-Serie packende Abenteuer nachspielen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0GGSZZ69C{{</world>}}

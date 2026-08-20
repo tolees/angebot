@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- WAS DU BEKOMMST: Anker MagGo Powerbank (10K), USB-C auf USB-C Kabel (0,6m), Bedienungsanleitung, 24-monatige Garantie und unseren freundlichen Kundenservice.
-- QI2-ZERTIFIZIERTES LADEN: Genieße kabelloses Laden mit 15W Leistung, abgesichert durch die Qi2-Zertifizierung für schnelles, zuverlässiges und effizientes Aufladen.
 - DOPPELTE LADEGESCHWINDIGKEIT: Erlebe 15W schnelles Wireless-Charging und lade deine Geräte doppelt so schnell*. Dein iPhone 15 Pro erreicht in nur 44 Minuten 50% Akkustand.
+- QI2-ZERTIFIZIERTES LADEN: Genieße kabelloses Laden mit 15W Leistung, abgesichert durch die Qi2-Zertifizierung für schnelles, zuverlässiges und effizientes Aufladen.
+- WAS DU BEKOMMST: Anker MagGo Powerbank (10K), USB-C auf USB-C Kabel (0,6m), Bedienungsanleitung, 24-monatige Garantie und unseren freundlichen Kundenservice.
 - INFORMATIVES SMART-DISPLAY: Behalte den Ladevorgang deines Geräts immer im Blick. Vom Akkustand bis zur verbleibenden Ladezeit – das übersichtliche Display hält dich stets auf dem Laufenden.
 - KRAFTPAKET MIT STANDFUNKTION: Die leistungsstarke 10.000mAh Powerbank lädt dein iPhone 15 Pro bis zu 1,8 Mal auf. Dank des eingebauten Ständers kannst du Videos bequem streamen und genießt dabei stets eine optimale Betrachtung.
 

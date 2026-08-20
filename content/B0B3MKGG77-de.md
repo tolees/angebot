@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kultiges Skechers DLites Design
 - Skechers Logo-Detail
+- Kultiges Skechers DLites Design
 - Komfort
 
 [🛒 Hier!!]({{< param buyurl >}})

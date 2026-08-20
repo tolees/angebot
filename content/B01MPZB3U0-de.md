@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Marke: Warner Bros.
 - PHYSISCHE FOLIE
 - Produkttyp : Physische Folie
-- Marke: Warner Bros.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01MPZB3U0{{</world>}}

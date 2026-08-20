@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnürsenkel
-- Reguläre Passform
 - Textilfutter
 - Synthetik-Obermaterial
+- Reguläre Passform
+- Schnürsenkel
 - Gummiaußensohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

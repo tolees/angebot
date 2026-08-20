@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sieht einfach perfekt aus
 - Superweicher Jersey
+- Sieht einfach perfekt aus
 - Eines der kultigsten Logos überhaupt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

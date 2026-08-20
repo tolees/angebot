@@ -29,13 +29,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - ERWEITERE DEIN SYSTEM UM EINEN CHIME (3. Gen.): Mit dem lauteren und klareren Chime (3. Gen.) hörst du das charakteristische Klingelsignal von Ring überall in deinem Zuhause. Stecke den Chime einfach in eine Standardsteckdose und verbinde ihn im Handumdrehen per WLAN oder Bluetooth.
-- RETINAL 2K MIT BIS ZU 6-FACHEM, OPTIMIERTEM ZOOM: Von der Weitwinkelansicht bis zur Nahaufnahme – jedes Detail bleibt gestochen scharf.
+- KLINGEL-BENACHRICHTIGUNGEN ÜBERALL IN DEINEM ZUHAUSE: Kombiniere die Battery Video Doorbell (2. Gen.) in Grau gesprenkelt, Mokka matt oder Weiß gesprenkelt mit einem Chime (3. Gen.) in Weiß, um im Haus benachrichtigt zu werden, sobald jemand klingelt oder eine Bewegung erfasst wird.
+- IMMER WISSEN, WER DA IST: Dank Live-Video und Gegensprechfunktion kannst du Besucher an deiner Tür in Echtzeit sehen, hören und mit ihnen sprechen.
 - KRISTALLKLARE BENACHRICHTIGUNGEN IN ECHTZEIT: Dank des verbesserten Lautsprechers deines Chime hörst du Benachrichtigungen überall in deinem Zuhause lauter und klarer.
 - ALEXA-VERBINDUNG: Höre dir benutzerdefinierte Benachrichtigungen über einen Echo Dot an, starte Videos per Echo Show oder nutze die Sprachsteuerung mit ausgewählten Alexa-fähigen Geräten.
-- KLINGEL-BENACHRICHTIGUNGEN ÜBERALL IN DEINEM ZUHAUSE: Kombiniere die Battery Video Doorbell (2. Gen.) in Grau gesprenkelt, Mokka matt oder Weiß gesprenkelt mit einem Chime (3. Gen.) in Weiß, um im Haus benachrichtigt zu werden, sobald jemand klingelt oder eine Bewegung erfasst wird.
-- MEHR SEHEN, WISSEN UND SCHÜTZEN: Mit einem Ring-Abonnement (separat erhältlich) holst du noch mehr aus deinen Geräten heraus. Speichere deine Videos bis zu 180 Tage lang, schau sie dir jederzeit wieder an, erhalte Benachrichtigungen, sobald Personen erfasst werden und vieles mehr.
 - EINFACHES AUFLADEN: Löse die Battery Video Doorbell (2. Gen.) mit dem enthaltenen Ablösewerkzeug von der Wand und lade den integrierten Akku über USB-C auf.
-- IMMER WISSEN, WER DA IST: Dank Live-Video und Gegensprechfunktion kannst du Besucher an deiner Tür in Echtzeit sehen, hören und mit ihnen sprechen.
+- RETINAL 2K MIT BIS ZU 6-FACHEM, OPTIMIERTEM ZOOM: Von der Weitwinkelansicht bis zur Nahaufnahme – jedes Detail bleibt gestochen scharf.
+- MEHR SEHEN, WISSEN UND SCHÜTZEN: Mit einem Ring-Abonnement (separat erhältlich) holst du noch mehr aus deinen Geräten heraus. Speichere deine Videos bis zu 180 Tage lang, schau sie dir jederzeit wieder an, erhalte Benachrichtigungen, sobald Personen erfasst werden und vieles mehr.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0GPY5269B{{</world>}}

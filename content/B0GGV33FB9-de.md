@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- GESCHENKIDEE FÜR SCIENCE-FICTION FANS: Dieses Set ist ein tolles Geburtstags Geschenk für erwachsene Fans, die den Filmklassiker aus den 1980er-Jahren lieben und E.T. Merch sammeln
-- NACH HAUSE TELEFONIEREN MIT STIL: E.T. the Extra-Terrestrial ist ein LEGO Ideas Bauset für Erwachsene, mit dem du einen der beliebtesten Aliens in der Geschichte der Science-Fiction-Filme nachbilden kannst
-- AUSSERIRDISCHE DETAILS: Die bewegliche E.T.-Figur fängt die Falten und den Gesichtsausdruck des liebenswerten Charakters ein und enthält einen LEGO Leuchtstein sowie einem Topf mit künstlichen Blumen
 - IKONISCHE POSEN: Neige und drehe den Kopf der E.T. Figur, öffne seinen Mund, stelle Arme und Handgelenke ein & strecke seinen Zeigefinger aus, um seinen Wunsch zu symbolisieren "nach Hause zu telefonieren"
 - 3D-BAUANLEITUNGEN: Lade dir die LEGO Builder App herunter und speichere Sets, vergrößere 3D-Modelle und drehe und verfolge, wie weit du mit deinem Modell schon bist, mit den enthaltenen 3D-Bauanleitungen
+- AUSSERIRDISCHE DETAILS: Die bewegliche E.T.-Figur fängt die Falten und den Gesichtsausdruck des liebenswerten Charakters ein und enthält einen LEGO Leuchtstein sowie einem Topf mit künstlichen Blumen
 - VON LEGO FANS AUSGEWÄHLT: Dieses Bauset gehört zu einer ganzen Reihe von LEGO Ideas Modellen für Erwachsene, die von einem Fandesigner entworfen, von den LEGO Fans ausgewählt und dann von der LEGO Gruppe hergestellt wurden
 - UNVERGESSLICHE MOMENTE AUSSTELLEN: Drück den Schalter am Rücken, um E.T.s Herz mit dem Leuchtstein leuchten zu lassen und stelle E.T. mit Blumen in der Hand als Deko im Regal oder auf dem Schreibtisch aus
+- GESCHENKIDEE FÜR SCIENCE-FICTION FANS: Dieses Set ist ein tolles Geburtstags Geschenk für erwachsene Fans, die den Filmklassiker aus den 1980er-Jahren lieben und E.T. Merch sammeln
+- NACH HAUSE TELEFONIEREN MIT STIL: E.T. the Extra-Terrestrial ist ein LEGO Ideas Bauset für Erwachsene, mit dem du einen der beliebtesten Aliens in der Geschichte der Science-Fiction-Filme nachbilden kannst
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0GGV33FB9{{</world>}}

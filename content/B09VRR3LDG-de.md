@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Printed chevrons and logo
 - BEECOOL technology
 - Interlock fabric
-- Printed chevrons and logo
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09VRR3LDG{{</world>}}

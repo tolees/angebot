@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Klinge besteht aus der Legierung X 50 Cr Mo V15; Jede einzelne Komponente hat eine spezielle Aufgabe: Chrom (Verschleißfestigkeits), Molybdän (Korrosionsbeständigkeit), Kohlenstoff (Festigkeit)
-- 56 Grad Rockwell (HRC) ist der ideale Kompromiss aus langer Schitthaltigkeit und einem einfachen Nachschärfen; Wer sein Messer viel benutzt, wird mit dieser Balance sehr zufrieden sein
-- Der Griff aus Polyoxymethylen (POM) bietet eine hohe Arbeitsfestigkeit sowie eine extreme Härte bei einer vergleichsweisen geringen Temperaturempfindlichkeit bis ca. 110 Grad Celsius; Auch besitzt dieser eine gute chemische Beständigkeit
-- Die glatte Schneide sorgt für einen glatten, sauberen Schnitt ohne zu zerfasern; Messer mit glatter Schneide werden zum Schneiden von hartem und weichem Schneidgut eingesetzt
 - Das Kochmesser gehört zu den Klassikern in der Küche und wird eingesetzt um Fleisch, Fisch und Gemüse zu schneiden; Mit dem Messer ist das Schneiden, Hacken oder Wiegen möglich
+- Die Klinge besteht aus der Legierung X 50 Cr Mo V15; Jede einzelne Komponente hat eine spezielle Aufgabe: Chrom (Verschleißfestigkeits), Molybdän (Korrosionsbeständigkeit), Kohlenstoff (Festigkeit)
+- Der Griff aus Polyoxymethylen (POM) bietet eine hohe Arbeitsfestigkeit sowie eine extreme Härte bei einer vergleichsweisen geringen Temperaturempfindlichkeit bis ca. 110 Grad Celsius; Auch besitzt dieser eine gute chemische Beständigkeit
+- 56 Grad Rockwell (HRC) ist der ideale Kompromiss aus langer Schitthaltigkeit und einem einfachen Nachschärfen; Wer sein Messer viel benutzt, wird mit dieser Balance sehr zufrieden sein
+- Die glatte Schneide sorgt für einen glatten, sauberen Schnitt ohne zu zerfasern; Messer mit glatter Schneide werden zum Schneiden von hartem und weichem Schneidgut eingesetzt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00JDKSW94{{</world>}}

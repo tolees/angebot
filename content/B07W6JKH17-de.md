@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Haben Sie Zweifel? Sehen Sie sich die Liste der kompatiblen Geräte in der Bildergalerie an
-- Lepsze granie: Przenieś swoją symulację wyścigów na wyższy poziom dzięki akcesoriom Driving Force, takim jak drążek zmiany biegów Driving Force Shifter lub uchwyty na biurko i sprzęt
 - Sie profitieren von einer leistungsstarken und zuverlässigen Verbindung über eine Strecke von bis zu 10 m, nahezu ohne Verzögerungen oder Ausfälle
+- Lepsze granie: Przenieś swoją symulację wyścigów na wyższy poziom dzięki akcesoriom Driving Force, takim jak drążek zmiany biegów Driving Force Shifter lub uchwyty na biurko i sprzęt
 - Der winzige Empfänger kann problemlos dauerhaft in Ihrem Notebook eingesteckt bleiben, selbst wenn Sie es transportieren
+- Haben Sie Zweifel? Sehen Sie sich die Liste der kompatiblen Geräte in der Bildergalerie an
 - Części plastikowe w G92 Driving Force zawierają 52% certyfikowanego postkonsumenckiego plastiku pochodzącego z recyklingu*
 - Verbinden Sie bis zu 6 kompatible Tastaturen und Mäuse mit einem Computer, ohne mehrere USB-Empfänger verwenden zu müssen
 

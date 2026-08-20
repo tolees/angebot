@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LIEFERUMFANG: Anker 523 Ladegerät (Nano 3, 47W), Bedienungsanleitung, 18-monatige Garantie und unser freundlicher Kundenservice (Kabel nicht im Lieferumfang enthalten).
-- VERBESSERTE SICHERHEIT MIT ACTIVESHIELD 2.0: Die innovative Anker-Technologie schützt deine Geräte, indem sie die Temperatur über 3 Millionen Mal pro Tag intelligent überwacht - doppelt so oft wie ActiveShield 1.0.
 - KOMPAKT UND LEISTUNGSSTARK: Mit einer Gesamtleistung von 47W kannst du 2 Geräte mit einem Ladegerät aufladen, das kaum größer ist als ein 20W-Ladegerät.
+- VERBESSERTE SICHERHEIT MIT ACTIVESHIELD 2.0: Die innovative Anker-Technologie schützt deine Geräte, indem sie die Temperatur über 3 Millionen Mal pro Tag intelligent überwacht - doppelt so oft wie ActiveShield 1.0.
 - LADE 2 GERÄTE GLEICHZEITIG: Mit 27W und 20W Leistung an den beiden USB-C-Anschlüssen kannst du dein iPhone und dein iPad gleichzeitig aufladen.
 - SCHNELLLADEN MIT 45W: Nutze einen der beiden USB-C-Anschlüsse, um ein MacBook Air oder ein anderes USB-C-Notebook dank 45W Leistung mit hoher Geschwindigkeit aufzuladen.
+- LIEFERUMFANG: Anker 523 Ladegerät (Nano 3, 47W), Bedienungsanleitung, 18-monatige Garantie und unser freundlicher Kundenservice (Kabel nicht im Lieferumfang enthalten).
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BDKSW8GC{{</world>}}

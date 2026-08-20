@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Feethit Turnschuhe Damen Leichtgewichts Atmungsaktiv Sportschuhe Sneaker Weiß 39
-- Farbe: Weiß
 - Marke: Feethit
 - Größe: 39 EU
+- Farbe: Weiß
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09BHW4WRY{{</world>}}

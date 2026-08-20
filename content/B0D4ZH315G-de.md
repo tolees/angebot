@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Helles Licht: Bis zu 1150 Lumen mit der 170mm Leuchte oder 700 Lumen mit der 90mm Version. Unabhängig davon, wofür Sie sich entscheiden, ist Ihre Philips Hue Slim Einbauleuchte hell genug, um Ihren Raum zu erhellen, kann aber auch gedimmt werden, damit Sie die Atmosphäre in Ihrem Zuhause anpassen können.
+- Schlankes Profil: Die Philips Hue Slim Einbauleuchte hat ein unglaublich dünnes Profil, das es Ihnen ermöglicht, die Leuchte überall zu platzieren, wo Sie möchten.
 - Breiter Abstrahlwinkel: Dank des breiten Abstrahlwinkels können Sie jede beliebige Weißschattierung oder Lichtfarbe verwenden, um einen noch größeren Bereich Ihrer Wohnung mit weniger Lampen zu beleuchten.
 - Perfekt für Zwischendecken: Die Leuchte wird von stabilen Clips gehalten und lässt sich so noch einfacher installieren. Bringen Sie Farbe in Räume mit Zwischendecken, z. B. in ein Schlafzimmer im Keller, ein Wohnzimmer oder ein Badezimmer.
-- Schlankes Profil: Die Philips Hue Slim Einbauleuchte hat ein unglaublich dünnes Profil, das es Ihnen ermöglicht, die Leuchte überall zu platzieren, wo Sie möchten.
+- Helles Licht: Bis zu 1150 Lumen mit der 170mm Leuchte oder 700 Lumen mit der 90mm Version. Unabhängig davon, wofür Sie sich entscheiden, ist Ihre Philips Hue Slim Einbauleuchte hell genug, um Ihren Raum zu erhellen, kann aber auch gedimmt werden, damit Sie die Atmosphäre in Ihrem Zuhause anpassen können.
 - Bei diesem Produkt handelt es sich um ein umgebendes Produkt. Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können. Dieses Produkt enthält eine Lichtquelle der Energieeffizienzklasse E.
 
 [🛒 Hier!!]({{< param buyurl >}})

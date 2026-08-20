@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schwingt euch hinters Steuer eures Lieblingsgefährts
 - Rettet die Welt mit geballter Feuerkraft, Granaten, Spezialfertigkeiten und freaking Katanas
 - Steuert die Commandos, schließt euch mit Freunden zusammen und verbannt den Schlickgott und seine Horden
+- Schwingt euch hinters Steuer eures Lieblingsgefährts
 - Wählt die Klasse, die am besten zu eurem Spielstil passt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

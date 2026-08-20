@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Metallspitze mit 0,35mm Strich
-- Schnell trocknende, weich-fließende Liquid Gel-Tinte
 - Schlankes Gehäuse mit Kappe
 - Einwegmodell
 - Gummierte Griffzone für optimalen Halt
+- Metallspitze mit 0,35mm Strich
+- Schnell trocknende, weich-fließende Liquid Gel-Tinte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B004W5YS4S{{</world>}}

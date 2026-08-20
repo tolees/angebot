@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Singe zu den offiziellen Musikvideos für ein authentisches Erlebnis
 - Bis zu 4 Spieler - perfekt für Partys und Familienfeiern
 - 4 aufregende Spielmodi für Einzelspieler und Gruppen
+- Singe zu den offiziellen Musikvideos für ein authentisches Erlebnis
 - Verwende dein Smartphone als Mikrofon mit der kostenlosen Begleit-App
 
 [🛒 Hier!!]({{< param buyurl >}})

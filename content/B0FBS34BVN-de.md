@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verkürzte Schläuche sorgen für einen sauberen, ästhetischen Look
 - Vormontierte, Daisy-Chain-ARGB-Lüfter mit Front- und Seitenbeleuchtung
+- Verkürzte Schläuche sorgen für einen sauberen, ästhetischen Look
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FBS34BVN{{</world>}}

@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Multifunktional – Dank des pneumatischen Schlagwerks lässt sich in hartes Material bohren, mit der fein dosierbaren Drehzahl-Elektronik aber auch präzise schrauben.
-- Präzise Bohrtiefe – Per Tiefenanschlag kann genau festgelegt werden, wie tief die Löcher gebohrt werden sollen. Der Bohrhammer ist mit einer SDS-Plus Aufnahme ausgestattet.
 - Power X-Change – Der Akku-Bohrhammer TE-HD 18/20 Li-Solo ist Teil der Einhell Power X-Change Familie, in der Akkus, Ladegeräte und Systemgeräte flexibel kombiniert werden können.
 - 4 Funktionen, 1 Gerät – Der Akku-Bohrhammer TE-HD 18/20 Li vereint vier Funktionen in einem Gerät: Er kann bohren, hammerbohren und meißeln mit und ohne Fixierung.
-- Komfort – Dank Softgrip-Flächen und Zusatzhandgriff liegt der Akku-Bohrhammer sicher in der Hand und ein integriertes LED-Licht verschafft gute Sicht auf den Arbeitsbereich.
-- Leistung – Mit 1,8 Joule Schlagkraft kann der Bohrhammer Bohrlöcher mit einem Durchmesser bis 30 mm in Holz, 20 mm in Beton und 13 mm in Metall bohren.
+- Präzise Bohrtiefe – Per Tiefenanschlag kann genau festgelegt werden, wie tief die Löcher gebohrt werden sollen. Der Bohrhammer ist mit einer SDS-Plus Aufnahme ausgestattet.
 - Lieferung ohne Akku – Der Akku-Bohrhammer TE-HD 18/20 Li-Solo wird ohne Power X-Change Akku und ohne Ladegerät geliefert. Diese sind separat erhältlich.
+- Multifunktional – Dank des pneumatischen Schlagwerks lässt sich in hartes Material bohren, mit der fein dosierbaren Drehzahl-Elektronik aber auch präzise schrauben.
+- Leistung – Mit 1,8 Joule Schlagkraft kann der Bohrhammer Bohrlöcher mit einem Durchmesser bis 30 mm in Holz, 20 mm in Beton und 13 mm in Metall bohren.
+- Komfort – Dank Softgrip-Flächen und Zusatzhandgriff liegt der Akku-Bohrhammer sicher in der Hand und ein integriertes LED-Licht verschafft gute Sicht auf den Arbeitsbereich.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CG96C1QP{{</world>}}

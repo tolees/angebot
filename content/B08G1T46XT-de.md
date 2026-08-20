@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit der fein dosierbaren Drehzahl-Elektronik zum gefühlvollen Arbeiten wird die Kraft im Zaum gehalten. Für den besten Blick auf den Arbeitsbereich ist der Bohrhammer mit einem LED-Licht ausgerüstet.
-- Mit der TWIN-PACK Technologie wird der Bohrhammer von zwei 18 Volt PXC-Akkus betrieben, das bedeutet: mehr Power für widrige Materialien.
-- Der HEROCCO ist ausgestattet mit einer universal SDS-plus-Werkzeugaufnahme mit Halbautomatik. Der robuste, stufenlos einstellbare Bohrtiefenanschlag ist aus massivem Metall gefertigt.
 - Die Handhabung wird durch den schwingungsgedämpften Handgriff erleichtert, der ein vibrationsarmes Arbeiten gewährt. Zudem ist der Bohrhammer mit einem Zusatzhandgriff ausgestattet.
-- Zum Betrieb sind zwei 18 Volt Power X-Change Akkus nötig, für beste Ergebnisse werden 3,0 Ah-Akkus oder größer empfohlen. Die Lieferung erfolgt im Transport- und Aufbewahrungskoffer.
-- Als Mitglied der Power X-Change-Familie von Einhell können alle hochwertigen Lithium-Ionen-Akkus der Serie mit dem HEROCCO kombiniert werden.
+- Der HEROCCO ist ausgestattet mit einer universal SDS-plus-Werkzeugaufnahme mit Halbautomatik. Der robuste, stufenlos einstellbare Bohrtiefenanschlag ist aus massivem Metall gefertigt.
+- Mit der fein dosierbaren Drehzahl-Elektronik zum gefühlvollen Arbeiten wird die Kraft im Zaum gehalten. Für den besten Blick auf den Arbeitsbereich ist der Bohrhammer mit einem LED-Licht ausgerüstet.
 - Der Einhell Akku-Bohrhammer HEROCCO 36/28 ist ein starker Helfer für die Baustelle, der 3,2 Joule Kraft und eine hohe Bohrleistung mit der kabellosen Freiheit eines Akku-Gerätes vereint.
+- Als Mitglied der Power X-Change-Familie von Einhell können alle hochwertigen Lithium-Ionen-Akkus der Serie mit dem HEROCCO kombiniert werden.
+- Zum Betrieb sind zwei 18 Volt Power X-Change Akkus nötig, für beste Ergebnisse werden 3,0 Ah-Akkus oder größer empfohlen. Die Lieferung erfolgt im Transport- und Aufbewahrungskoffer.
+- Mit der TWIN-PACK Technologie wird der Bohrhammer von zwei 18 Volt PXC-Akkus betrieben, das bedeutet: mehr Power für widrige Materialien.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08G1T46XT{{</world>}}

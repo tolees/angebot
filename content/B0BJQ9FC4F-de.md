@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnell trocknende, ultrapigmentierte Gel-Tinte mit fließendem und glattem Schreiben
-- 100 % plastikfrei. Umweltfreundlich
-- 18 lebendige und hellste Farben in 4 verschiedenen Kombinationen erhältlich.
-- Einzigartiger und innovativer Büroklammer, der auf mehrere Halterungen passt.
 - 0,7 mm Spitze. Mittlerer Strich
+- Einzigartiger und innovativer Büroklammer, der auf mehrere Halterungen passt.
+- 100 % plastikfrei. Umweltfreundlich
+- Schnell trocknende, ultrapigmentierte Gel-Tinte mit fließendem und glattem Schreiben
+- 18 lebendige und hellste Farben in 4 verschiedenen Kombinationen erhältlich.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BJQ9FC4F{{</world>}}

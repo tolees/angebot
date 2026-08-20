@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Über 100 Fichtenbalken (100 x 100 mm) ablängen mit nur einer Akkuladung
+- Lieferumfang: GSA 18 V-LI, Karton
+- AMPShare: Akkus und Ladegeräte sind vollständig mit dem Bosch Professional 18V System sowie mit vielen anderen Werkzeugen der Marken aus der Akku-Partnerschaft AMPShare kompatibel.
 - Electronic Motor Protection (EMP) schützt den Motor vor Überlastung und sorgt für lange Lebensdauer
 - Leichte Handhabung: Einfacher und schneller Sägeblattwechsel durch SDS-Mechanismus
-- Lieferumfang: GSA 18 V-LI, Karton
-- Über 100 Fichtenbalken (100 x 100 mm) ablängen mit nur einer Akkuladung
-- AMPShare: Akkus und Ladegeräte sind vollständig mit dem Bosch Professional 18V System sowie mit vielen anderen Werkzeugen der Marken aus der Akku-Partnerschaft AMPShare kompatibel.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B001IBMO3Q{{</world>}}

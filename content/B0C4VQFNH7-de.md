@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Größe: 12,8 x 10,8 x 4,7 cm
 - Der legendäre Jedi -Meister funkelt mit 570 fachmännisch gefertigten braunen und klaren Kristallfacetten und hält ein Blau- und Graulack -Metall -Lichtschwerter
 - Machen Sie eine Reise zur Star Wars Galaxy mit diesem hochkollektablen Obi-Wan Kenobi-Design
-- Größe: 12,8 x 10,8 x 4,7 cm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C4VQFNH7{{</world>}}

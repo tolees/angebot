@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- manuelle Entriegelung des Garagentorantriebs
-- von innen und außen bedienbar
 - keine Auswirkung auf die Einbruchsicherheit
-- ideales Zubehör für die Schellenberg Garagentorantriebe
+- manuelle Entriegelung des Garagentorantriebs
 - ideal für Garagen ohne separaten Zugang
+- von innen und außen bedienbar
+- ideales Zubehör für die Schellenberg Garagentorantriebe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001MJ6Y2Q{{</world>}}

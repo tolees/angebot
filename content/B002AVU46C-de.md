@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Plastiker Stab; nicht abnehmbar
+- Edelstahl Messer
 - Eine Geschwindigkeit
 - Mit Aufhäng Haken
-- Edelstahl Messer
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B002AVU46C{{</world>}}

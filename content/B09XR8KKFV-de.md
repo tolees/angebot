@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Auch lässt er sich gut weiterverarbeiten: eingeweicht und vermahlen als Brotaufstrich sowie Dessert- und Smoothiezutat
 - Der etwas kleinteiligere Cashewbruch ist besonders beliebt im Müsli, geröstet über Currygerichten oder zum Backen
+- Auch lässt er sich gut weiterverarbeiten: eingeweicht und vermahlen als Brotaufstrich sowie Dessert- und Smoothiezutat
 - Cashewkerne bestechen mit ihrer knackig-feinen Konsistenz und dem dezent süßlichen Aroma
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

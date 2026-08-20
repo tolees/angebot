@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- TOLL FÜR FAMILIEN UND AVATAR-FANS: Für 2-4 Spieler ab 10 Jahren, mit einer Spielzeit von 45-60 Minuten. Ideal für Familien, Avatar-Fans und alle, die kooperative Deck-Building-Kartenspiele mit einer Mischung aus Strategie und Erzählung lieben.
-- ERINNERN SCHAFFEN: Ob du dich mit anderen durch deine Liebe zu Avatar verbindest oder jemanden Neues in die Geschichte einführst, dieses kooperative Kartenspiel bringt Menschen zusammen für Lachen, Strategie und unvergessliche Momente mit Familie und Freunden.
-- KOOPERATIVES UND DECK-BUILDING SPIEL: Arbeitet zusammen, um Ziele zu erfüllen, Feinde zu besiegen und durch die Vier Nationen zu reisen. Perfekt für Familien-Spieleabende oder Treffen mit Freunden!
 - ENDBARER INHALT: Halte das Spiel frisch und spannend mit 7 freischaltbaren Boxen, die neue Karten, stärkere Gegner und sich entwickelnde Ziele bieten. Baue dein Deck strategisch auf und passe dich an, während das Spiel fortschreitet.
+- ERINNERN SCHAFFEN: Ob du dich mit anderen durch deine Liebe zu Avatar verbindest oder jemanden Neues in die Geschichte einführst, dieses kooperative Kartenspiel bringt Menschen zusammen für Lachen, Strategie und unvergessliche Momente mit Familie und Freunden.
+- TOLL FÜR FAMILIEN UND AVATAR-FANS: Für 2-4 Spieler ab 10 Jahren, mit einer Spielzeit von 45-60 Minuten. Ideal für Familien, Avatar-Fans und alle, die kooperative Deck-Building-Kartenspiele mit einer Mischung aus Strategie und Erzählung lieben.
+- KOOPERATIVES UND DECK-BUILDING SPIEL: Arbeitet zusammen, um Ziele zu erfüllen, Feinde zu besiegen und durch die Vier Nationen zu reisen. Perfekt für Familien-Spieleabende oder Treffen mit Freunden!
 - REISE DURCH DIE VIER NATIONEN: Reise durch die Wasserstämme, das Erdkönigreich, die Feuernation und die Luftnomaden. Jede Sitzung fordert dich heraus, mit deinem Deck zu strategisieren, Hindernisse zu überwinden und Aangs Bestimmung zu erfüllen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Logo auf Brust und Ärmel
-- Jacke mit Stehkragen und Kapuze
 - Gepolsterte Vorderseite
+- Jacke mit Stehkragen und Kapuze
+- Logo auf Brust und Ärmel
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B31LTRCJ{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatz: Block ca. 6 cm
 - Decksohle: wärmendes Fleece-Futter
+- Absatz: Block ca. 6 cm
 - Verschluss: Reißverschluss
 - Innenmaterial: wärmendes Fleece-Futter
 - Obermaterial: Lederimitat

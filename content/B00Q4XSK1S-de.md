@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Edelstahl Grillroste - Hohe Qualität und leicht zu reinigen
+- Deckelthermometer - Kontrolle der Grilltemperatur leicht gemacht
 - Edelstahl Brenner - starke, langlebige Brenner, die für die Ewigkeit gebaut wurden
 - Surefire Elektronische Zündung - Anzünden aller Brenner per Knopfdruck - ganz ohne offene Flamme
-- TRU-Infrared Grillsystem - gleichmäßige Hitze, bis zu 50% saftigeres Grillgut, bis zu 30% sparsamer im Verbrauch
-- Deckelthermometer - Kontrolle der Grilltemperatur leicht gemacht
+- Edelstahl Grillroste - Hohe Qualität und leicht zu reinigen
 - Angetrieben durch eine Gaskartusche / Schraub-Ventilkartusche (7/16" EU); Tragbarer Einweg-Flüssig-Propan-Zylinder (separat erhältlich)
+- TRU-Infrared Grillsystem - gleichmäßige Hitze, bis zu 50% saftigeres Grillgut, bis zu 30% sparsamer im Verbrauch
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00Q4XSK1S{{</world>}}

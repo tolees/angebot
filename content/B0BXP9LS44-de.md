@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Kindersicheres Batteriefach, Abschaltautomatik und Lautstärkeregler
 - Fünf Spielmodi: Rollenspiel, Nachsprechen, Singen, Kümmern und Nickerchen
-- Das Drücken der leuchtenden Halsbandtaste löst tolle Sätze aus, mit denen Schlecki zum Rollenspiel animiert
-- Flauschiges Kuschel-Hündchen, das zum Singen und Sprechen einlädt und sich mit Schlecken dafür bedankt, dass man sich gut um es kümmert
 - Schlecki singt und spricht niedliche Sätze, die sie mit freudigem Schlecken, niedlichem Blinzeln und tollen Schleckgeräuschen untermalt
+- Flauschiges Kuschel-Hündchen, das zum Singen und Sprechen einlädt und sich mit Schlecken dafür bedankt, dass man sich gut um es kümmert
+- Das Drücken der leuchtenden Halsbandtaste löst tolle Sätze aus, mit denen Schlecki zum Rollenspiel animiert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BXP9LS44{{</world>}}

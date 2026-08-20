@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Innovatives Puzzle-Konzept für Puzzle-Einsteiger und Rätsel-Fortgeschrittene: Größere Teile und Schwierigkeitslevel der Rätsel 5/5
-- Ravensburger Puzzle meets Exit Room: Puzzeln - Rätseln - Lösen
 - Spannendes Motiv auf dem es viel zu entdecken gibt umflochten von einer mysteriösen Geschichte
-- Beim Ravensburger EXIT Puzzle "Im Gewächshaus" mit 368 Teilen passieren mysteriöse Dinge. Kannst du der Gärtnerin helfen, das Gemüse zu retten?
+- Ravensburger Puzzle meets Exit Room: Puzzeln - Rätseln - Lösen
 - Detailreiches Puzzle-Motiv mit 368 Teilen in Ravensburger Qualität, mit Anleitung und Lösungsumschlag
+- Beim Ravensburger EXIT Puzzle "Im Gewächshaus" mit 368 Teilen passieren mysteriöse Dinge. Kannst du der Gärtnerin helfen, das Gemüse zu retten?
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B084DH8DTZ{{</world>}}

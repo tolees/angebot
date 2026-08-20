@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- BEWEGLICHE FIGUR: Lasse Schiggy auf dem „ferngesteuerten“ Buggy lossausen und und höre, wie viel Spaß das Pokémon auf der wilden Fahrt hat
+- DYNAMISCHES BAUSPIELZEUG: Trainer-Buggyabenteuer mit Schiggy (72156) ist ein LEGO SMART Play kompatibles Set, das Kinder auf eine wilde Pokémon Fahrt schickt
+- SO AKTIVIERST DU DEIN SET: Mit einem LEGO SMART Brick aus einem All-in-1 Set (separat erhältlich) aktivierst du faszinierende Spielfunktionen. SMART Bricks sind nicht als eigenständiges Produkt erhältlich
+- GESCHENKIDEE FÜR GAMER UND GAMERINNEN: Dieses LEGO Set ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Kinder und Pokémon-Fans ab 7 Jahren, die Videospiele, Sammlerstücke und Sammelbilder mögen
 - POKÉMON-REAKTIONEN: SMART Tags in Schiggy und im Buggy aktivieren SMART Bricks (nicht enthalten), die die Pokémon bei interaktiven Rollenspielen mit Licht- und Soundeffekten aufeinander reagieren lassen
 - FANTASIEVOLLE ABENTEUER: Das Fahrzeug hat eine Knicklenkung, ein Staufach für Wasserelemente und 2 Wasser-Shooter, damit Schiggy und der Trainer oder der Trainerin die Flammen am Grill mit dem Veggie-Burger löschen können
-- SO AKTIVIERST DU DEIN SET: Mit einem LEGO SMART Brick aus einem All-in-1 Set (separat erhältlich) aktivierst du faszinierende Spielfunktionen. SMART Bricks sind nicht als eigenständiges Produkt erhältlich
 - SPIELSPASS OHNE BILDSCHIRM: Kinder können gemeinsam auf fantasievolle Abenteuer mit dem Pokémon gehen
-- GESCHENKIDEE FÜR GAMER UND GAMERINNEN: Dieses LEGO Set ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Kinder und Pokémon-Fans ab 7 Jahren, die Videospiele, Sammlerstücke und Sammelbilder mögen
-- DYNAMISCHES BAUSPIELZEUG: Trainer-Buggyabenteuer mit Schiggy (72156) ist ein LEGO SMART Play kompatibles Set, das Kinder auf eine wilde Pokémon Fahrt schickt
-- BEWEGLICHE FIGUR: Lasse Schiggy auf dem „ferngesteuerten“ Buggy lossausen und und höre, wie viel Spaß das Pokémon auf der wilden Fahrt hat
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0GK7RPT8C{{</world>}}

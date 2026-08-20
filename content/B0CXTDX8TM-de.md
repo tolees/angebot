@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 🎮 Die manuell verstellbaren Kopf- und Lendenwirbelpolster bieten idealen Halt und Sitzkomfort.
 - 🎮 Stuhl ergonomisch, Stufenlos höhenverstellbar, Rückenlehne verstellbar bis max. 135° und Wippfunktion für eine optimale Sitzhaltung
 - 🎮 Chefsessel in sportlicher Racer Optik mit Armlehnen und Kissen inklusive
 - 🎮 Nachfolgemodell vom Robas Lund DXRacer 2 mit verbesserten Funktionen
-- 🎮 Die manuell verstellbaren Kopf- und Lendenwirbelpolster bieten idealen Halt und Sitzkomfort.
 - 🎮 Armlehnen sind höhenverstellbar, Gaslift ist TÜV getestet, Sitzhöhe stufenlos verstellbar von 42-52 cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Unterstützt die Better Cotton Initiative
 - 87% Baumwolle, 13% Polyester,
+- Unterstützt die Better Cotton Initiative
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B095Z1TLTL{{</world>}}

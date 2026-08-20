@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mit Koffer, Tasche und weiterem Reisezubehör
+- Für Kinder ab 3 Jahren geeignet
 - Kopf, Arme und Beine sind beweglich
 - Mit Schneehasen Mutter Figur
-- Für Kinder ab 3 Jahren geeignet
 - Circa 8 cm groß
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

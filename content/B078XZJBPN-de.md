@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - [9 Sisalstämme] Katzen lieben es, zu kratzen. Mit einem Kratzbereich auf jeder Ebene können sie nach Herzenslust kratzen und Ihr Sofa bleibt vor ungestümen Krallen verschont
-- [Einfache Montage] Mit Universalschrauben, simpler Struktur und mitgeliefertem Schraubenschlüssel kann dieser Katzenbaum von nur einer Person zusammengebaut werden
-- [Ideal für Haushalte mit mehreren Katzen] Mit einer Aussichtsplattform mit gepolsterten Rändern, einem Korb und einer Kuschelhöhle bietet dieser Kratzbaum mehrere gemütliche Plätze für Ihre pelzigen Freunde zum Beobachten und Entspannen
-- [Kratzbrett unten] Dieser Kratzbaum ist mit einem Sisalkratzbrett auf der Bodenplatte ausgestattet, das Ihren Fellknäueln einen Bereich zum Kratzen, Ausruhen und Herumrollen bietet
 - [Ein Plüschball und ein Sisalseil] Ein hängender Plüschball mit Glöckchen und ein Sisalseil wecken den natürlichen Kratzinstinkt Ihrer Fellnasen. Das Glöckchen sorgt für extra Spaß, außerdem steht Ihnen ein Ersatz-Plüschball ohne Glöckchen zur Verfügung
+- [Einfache Montage] Mit Universalschrauben, simpler Struktur und mitgeliefertem Schraubenschlüssel kann dieser Katzenbaum von nur einer Person zusammengebaut werden
+- [Kratzbrett unten] Dieser Kratzbaum ist mit einem Sisalkratzbrett auf der Bodenplatte ausgestattet, das Ihren Fellknäueln einen Bereich zum Kratzen, Ausruhen und Herumrollen bietet
+- [Ideal für Haushalte mit mehreren Katzen] Mit einer Aussichtsplattform mit gepolsterten Rändern, einem Korb und einer Kuschelhöhle bietet dieser Kratzbaum mehrere gemütliche Plätze für Ihre pelzigen Freunde zum Beobachten und Entspannen
 - [Leicht zu reinigen] Haare, Schmutz und Krümel... keine Sorge. Mit einer Fusselrolle oder einem Staubsauger lassen sie sich leicht reinigen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

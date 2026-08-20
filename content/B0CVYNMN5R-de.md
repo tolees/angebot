@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Tief angesetzte Schulter,
+- Locker geschnitten
 - 3/4 Arm
 - Rundhals
-- Locker geschnitten
-- Tief angesetzte Schulter,
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CVYNMN5R{{</world>}}

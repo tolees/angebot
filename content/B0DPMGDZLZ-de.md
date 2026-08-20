@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hall-Effekt-Präzision & Haltbarkeit: Ultrapräzise Steuerung mit 5-Millionen-Zyklen-langlebigen Sticks und reibungsmindernden Gleitringen für geschmeidige Bewegungen.
-- Pro-Grade 1000Hz: Dominieren Sie Wettkämpfe mit nahezu verzögerungsfreiem Spiel über Wireless-Dongle oder USB-Kabel – 1ms Reaktion für PC, Switch/Switch 2 und Mobile Gaming. Wake-up-Funktion wird für die Switch 2 NICHT unterstützt.
 - Smarte Ladestation & 24h Spielzeit: 1000mAh-Akku lädt automatisch auf der Dockstation – einfach greifen, spielen und zurücklegen. Kein Kabelsalat!
 - Dual-Mode-Trigger für jedes Spiel: Wechseln Sie zwischen analogem Vollweg-Trigger (Rennspiele) und Kurzhub-Hair-Trigger (Ego-Shooter) per Schieber.
+- Pro-Grade 1000Hz: Dominieren Sie Wettkämpfe mit nahezu verzögerungsfreiem Spiel über Wireless-Dongle oder USB-Kabel – 1ms Reaktion für PC, Switch/Switch 2 und Mobile Gaming. Wake-up-Funktion wird für die Switch 2 NICHT unterstützt.
+- Hall-Effekt-Präzision & Haltbarkeit: Ultrapräzise Steuerung mit 5-Millionen-Zyklen-langlebigen Sticks und reibungsmindernden Gleitringen für geschmeidige Bewegungen.
 - Individuelles Design & Beleuchtung: Tauschen Sie Snap-On-Cover (separat erhältlich) und programmieren Sie RGB-LEDs per Shortcuts oder Software – perfekt für Streams oder Ihr Gaming-Setup.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

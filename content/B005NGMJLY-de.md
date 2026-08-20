@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EFFEKTIV - Der Trockenbrennstoff für Outdoor Kocher hat eine Brenndauer von ca. 12 Min. und bringt 500 ml in ca. 7 Min. zum Kochen. Ideal für jede Camping Ausrüstung.
-- FÜR UNTERWEGS - Die Würfel sind extrem leicht sowie kompakt und nehmen kaum Platz im Gepäck ein. Bis auf die 4 g-Tabletten sind die Trockenbrennstoff-Größen wasserdicht verpackt.
-- SICHER - Die in Deutschland hergestellten Anzündwürfel verbrennen auch in höheren Lagen und bei Minusgraden fast rückstandsfrei und produzieren weder Funken noch sichtbaren Rauch.
 - FUNKTIONAL - Die Trockenbrennstofftabletten eignen sich nicht nur als Camping Zubehör, sondern mit ihrem hohem Brennwert auch als Kaminanzünder oder im Outdoor Bereich als Grillanzünder.
+- SICHER - Die in Deutschland hergestellten Anzündwürfel verbrennen auch in höheren Lagen und bei Minusgraden fast rückstandsfrei und produzieren weder Funken noch sichtbaren Rauch.
+- FÜR UNTERWEGS - Die Würfel sind extrem leicht sowie kompakt und nehmen kaum Platz im Gepäck ein. Bis auf die 4 g-Tabletten sind die Trockenbrennstoff-Größen wasserdicht verpackt.
+- EFFEKTIV - Der Trockenbrennstoff für Outdoor Kocher hat eine Brenndauer von ca. 12 Min. und bringt 500 ml in ca. 7 Min. zum Kochen. Ideal für jede Camping Ausrüstung.
 - ESBIT - Wir stehen seit unserer Gründung für qualitativ hochwertige Produkte im Camping und Outdoor Bereich. Neben den Trockenbrennstoff-Tabletten bieten wir passende Camping Kocher und Kochgeschirr an.
 
 [🛒 Hier!!]({{< param buyurl >}})

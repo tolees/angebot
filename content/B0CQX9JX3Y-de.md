@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- OPTIMALE PASSFORM: Die zeitlosen Kurzarmshirts aus weicher, atmungsaktiver Baumwolle sind in minimalistischem Design gehalten und schmiegen sich locker an den Körper an.
-- MATERIAL & PFLEGE: Die T-Shirts bestehen aus 95% Baumwolle und 5% Elastan. Sie können in der Maschine gewaschen werden.
 - SCHLICHT & LÄSSIG: Die Basic Shirts zeichnen sich durch ihren angenehmen Baumwoll-Stretch-Komfort aus und sind für deinen Lounge-Look, als Pyjamaoberteil oder Unterhemd bestens geeignet. Die Tommy Hilfiger Flag auf dem Saum macht den Look komplett.
+- OPTIMALE PASSFORM: Die zeitlosen Kurzarmshirts aus weicher, atmungsaktiver Baumwolle sind in minimalistischem Design gehalten und schmiegen sich locker an den Körper an.
 - PREMIUM DESIGN: Der schlichte Style der Oberteile legt den Grundstein für jedes Outfit. Außerdem eignet sich das Dreierset auch perfekt als Geschenk.
+- MATERIAL & PFLEGE: Die T-Shirts bestehen aus 95% Baumwolle und 5% Elastan. Sie können in der Maschine gewaschen werden.
 - BEWÄHRTE QUALITÄT: Seit 1985 überzeugt die Designer-Marke weltweit durch ihre Qualität und Leichtigkeit mit vielfältigen Styles in den bekannten Farben Dunkelblau, Weiß und Rot.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Star Wars The Clone Wars Republic Juggernaut 75413 813 Teile'
-date: 2026-08-11 22:51:04
+title: 'LEGO Star Wars: The Clone Wars Republikanischer Juggernaut - Spielzeug mit Transportfahrzeug - Bauset mit Lichtschwert - Kreatives Spielzeug für Kinder und Erwachsene Fans - 75413'
+date: 2026-08-19 10:31:05
 image: 'https://m.media-amazon.com/images/I/51kJEhMB2OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DWDQ4YGR-de LEGO Star Wars The Clone Wars Republic Juggernaut 75413...'
+slug: 'B0DWDQ4YGR-de LEGO Star Wars: The Clone Wars Republikanischer Juggernaut...'
 sku: 'B0DWDQ4YGR-de'
 tags: [ '🇩🇪', ]
-actualPrice: 101.89 EUR
+actualPrice: 89.99 EUR
 currency: EUR
-price: 101.89
+price: 89.99
 comparePrice: 149.99 EUR
-prodname: 'LEGO Star Wars The Clone Wars Republic Juggernaut 75413 813 Teile'
+prodname: 'LEGO Star Wars: The Clone Wars Republikanischer Juggernaut - Spielzeug mit Transportfahrzeug - Bauset mit Lichtschwert - Kreatives Spielzeug für Kinder und Erwachsene Fans - 75413'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0DWDQ4YGR/?tag=tolees0ca-21'
-descuento: '32.07'
-average: '107.529230769231'
+descuento: '40.00'
+average: '106.276428571429'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,14 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für Action gebaut – Kippe das 10-rädrige Fahrzeug zum Lenken und platziere LEGO-Minifiguren in den vorderen und hinteren Cockpits, auf dem höhenverstellbaren Beobachtungsposten und im Turm mit Schussfunktion
-- Star Wars Geschenk für Kinder – Verschenke dieses hochwertige LEGO Star Wars Set an kreative Jungen, Mädchen und alle Star Wars: The Clone Wars-Fans ab 9 Jahren
-- 5 LEGO Star Wars Minifiguren – Ki-Adi-Mundi mit Lichtschwert, Commander Bacara mit Blaster und 3 Galaktische Marines mit Blastern, plus 3 Kampfdroiden-LEGO-Figuren mit Blastern
-- Maße – Das LEGO Star Wars Fahrzeug in diesem 813-teiligen Bausatz ist über 16 cm hoch, 31 cm lang und 13 cm breit
-- Bauspielzeug für alle Altersgruppen – LEGO Star Wars Sammelsets (separat erhältlich) ermöglichen Kindern und erwachsenen Star Wars-Fans, klassische Szenen nachzustellen, Geschichten zu erfinden oder die Modelle einfach auszustellen
-- Hilfreiche Unterstützung – Die LEGO Builder App begleitet Kinder auf einem intuitiven Bauspaß, bei dem sie ein digitales 3D-Modell ihres Bauwerks drehen können und vieles mehr
-- Einfacher Zugang – Klappe die Seiten herunter und entferne die Oberseite des Hauptabteils, um das detaillierte Innere mit Waffenregalen und Sitzen für Commander Bacara und seine Galaktischen Marines zu erreichen
-- Baubares Transportfahrzeug-Spielzeug für Kinder – Kippen und lenken für Star Wars: The Clone Wars-Kampfaction mit diesem detaillierten LEGO-Steinmodell eines Republic Juggernauts
+- Modellbau für LEGO Fans: Separat erhältliche LEGO Star Wars Sets lassen Kinder und erwachsene Star Wars Fans klassische Szenen nachspielen, neue Geschichten darstellen oder die gebauten Modelle einfach nur ausstellen
+- Authentisches LEGO Lichtschwert Duell für Star Wars Figuren: Baue deine eigene Szene mit LEGO Minifiguren und stürz dich ins Gefecht
+- Star Wars Geschenk für Kinder: Dieses hochwertige LEGO Star Wars Set ist ein großartiges Geschenk für Jungen, Mädchen und alle Fans von Star Wars: The Clone Wars ab 9 Jahren
+- Fantastisches Spielzeug für Kinder: Mit den baubaren Droiden macht das Abenteuer im Kinderzimmer richtig Spaß; es fördert zusätzlich logisches Denken
+- Spielzeug aus LEGO Star Wars: Erlebe The Clone Wars mit dem baubaren Juggernaut als detailreiches LEGO Bauset; kreatives Spielset zum Bauen für alle Fans der Filmreihe
+- Nützlicher Helfer: Die LEGO Builder App nimmt Kinder auf ein intuitives Bauabenteuer mit; In der App kann man beim Bauen beispielsweise 3D-Ansichten der Modelle vergrößern und drehen
+- Star Wars Geschenk für Kinder: Mit diesem Set Spiel für Kinder können Mädchen und Jungen große Abenteuer erleben und Filmszenen nachspielen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DWDQ4YGR{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- einfarbige, dünne Herren Bomberjacke
 - Plus Size Jacke mit einem Reißverschluss und Seitentaschen
+- einfarbige, dünne Herren Bomberjacke
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08HJZPLPN{{</world>}}

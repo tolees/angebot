@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- *ESE dm 44 und *ESE sind vom EASY SERVING ESPRESSO-Konsortium eingetragene Marken. Die Produktion dieser Pads erfolgt autonom und ist weder direkt noch indirekt mit dem EASY SERVING ESPRESSO verbunden
-- FORMAT: 150 Kaffeepads
+- Die 44 mm großen ESE-Filterpapierpads von Caffè Borbone sind zu 100 % mit allen Maschinen kompatibel, die das Easy Serving Espresso-System verwenden. Treffen Sie die richtige Wahl für eine bessere Welt: Entscheiden Sie sich für ein 100 % umweltfreundliches Produkt!
 - DEK-KAFFEEMISCHUNG: Dies ist die ideale Mischung für alle, die entkoffeinierten Espresso bevorzugen. Im Mund ausgeprägt und ohne auf den für sehr guten Kaffee typischen Geschmack und die Cremigkeit zu verzichten. Dank der Caffè Borbone-Technologie behält diese Mischung alle Eigenschaften eines hervorragenden neapolitanischen Kaffees bei
 - AROMA: Eine raffinierte und anhaltende Kaffemischung, die sich präsentiert mit: Körper: 8,2 – Intensität: 8,5 – Persistenz: 8,5 – Süße: 8,5 – Säure: 4
-- Die 44 mm großen ESE-Filterpapierpads von Caffè Borbone sind zu 100 % mit allen Maschinen kompatibel, die das Easy Serving Espresso-System verwenden. Treffen Sie die richtige Wahl für eine bessere Welt: Entscheiden Sie sich für ein 100 % umweltfreundliches Produkt!
+- *ESE dm 44 und *ESE sind vom EASY SERVING ESPRESSO-Konsortium eingetragene Marken. Die Produktion dieser Pads erfolgt autonom und ist weder direkt noch indirekt mit dem EASY SERVING ESPRESSO verbunden
+- FORMAT: 150 Kaffeepads
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01F549LFK{{</world>}}

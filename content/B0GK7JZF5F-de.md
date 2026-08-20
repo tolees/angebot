@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SPIELSPASS OHNE BILDSCHIRM: Kinder können sich gemeinsam in spannende Abenteuer stürzen und jede Menge Spielspaß mit dem feurigen Glumanda und dem kampflustigen Kleinstein erleben
-- SPIELZEUG FÜR JEDE MENGE SPIELSPASS: Glumandas und Kleinsteins Höhlenduell (72157) ist ein LEGO SMART Play kompatibles Set, das Kinder Felsen werfen und zertrümmern lässt
 - POKÉMON-REAKTIONEN: SMART Tags in den beiden Pokémon aktivieren SMART Bricks (nicht enthalten), die die Pokémon bei interaktiven Rollenspielen mit Licht- und Soundeffekten aufeinander reagieren lassen
-- POKÉMON GESCHENKIDEE: Dieses Spielset zum Sammeln ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Kinder ab 6 Jahren und lässt Fans aufregende Duelle nachspielen
 - SO AKTIVIERST DU DEIN SET: Mit einem LEGO SMART Brick aus einem All-in-1 Set (separat erhältlich) aktivierst du faszinierende Spielfunktionen. SMART Bricks sind nicht als eigenständiges Produkt erhältlich
-- 2 FIGUREN: Erkunde mit Glumanda eine Höhle und entdecke Kleinstein, der herumwirbelt, mit Felsen wirft und Scheiben schleudert. Bei diesem Showdown reagieren die beiden Figuren mit SMART Play Sound- und Lichteffekten
+- SPIELZEUG FÜR JEDE MENGE SPIELSPASS: Glumandas und Kleinsteins Höhlenduell (72157) ist ein LEGO SMART Play kompatibles Set, das Kinder Felsen werfen und zertrümmern lässt
+- POKÉMON GESCHENKIDEE: Dieses Spielset zum Sammeln ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Kinder ab 6 Jahren und lässt Fans aufregende Duelle nachspielen
+- SPIELSPASS OHNE BILDSCHIRM: Kinder können sich gemeinsam in spannende Abenteuer stürzen und jede Menge Spielspaß mit dem feurigen Glumanda und dem kampflustigen Kleinstein erleben
 - FANTASIEVOLLES ABENTEUER: Begib dich als Pokémon Trainer oder Trainerin auf dein erstes Abenteuer. Spalte Felsen auf der Suche nach dem verborgenen Kristall und weiche einem Angriff von Kleinstein aus
+- 2 FIGUREN: Erkunde mit Glumanda eine Höhle und entdecke Kleinstein, der herumwirbelt, mit Felsen wirft und Scheiben schleudert. Bei diesem Showdown reagieren die beiden Figuren mit SMART Play Sound- und Lichteffekten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0GK7JZF5F{{</world>}}

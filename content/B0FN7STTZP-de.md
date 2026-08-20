@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Durchgangsladung: Halte deine Geräte jederzeit mit Strom versorgt, während die Prime Powerbank nahtlos wieder aufgeladen wird – ohne Unterbrechung.
-- Ladefortschritt sichtbar gemacht: Lege deine Prime Powerbank ab und erlebe dynamische Lichteffekte, die während des sofortigen Ladevorgangs aktiviert werden.
-- Im Lieferumfang: Anker Prime Ladebasis (150W, 3 Ports), Netzkabel, Willkommensguide, 24 Monate Garantie und unser freundlicher Kundenservice.
-- 150W Maximalgeschwindigkeit für Prime Power: Lade eine 26250mAh Prime Powerbank mit maximaler Geschwindigkeit über den 150W-Eingang und erreiche in nur 21 Minuten 50% Akkuladung.
-- Vier Geräte gleichzeitig laden: Versorge bis zu vier Geräte gleichzeitig – über den USB-C1 Port (max. 140W), USB-C2 Port (max. 100W), USB-A Port (max. 22,5W) und den Pogo-Pin (max. 150W). Bei gleichzeitiger Nutzung liefert die Ladebasis insgesamt bis zu 150W.
 - prime Ladebasis 150W Schnellladung Ladestation 3 Ports Multi-Port Powerbank Ladegerät Dockingstation MacBook Pro MacBook Air iPhone 17 iPhone 16 iPhone 15 iPhone 14 USB-C Ladegerät USB-C 140W USB-C 100W USB-A 22.5W Durchgangsladung 4 Geräte gleichzeitig Mehrfach Ladegerät Universal Ladegerät Netzteil Schnellladestation Laptop Ladegerät Handy Ladegerät Pogo-Pin Ladestation 26250mAh Powerbank Zubehör Charging Station Desktop Charger Multi Device Charger
+- Ladefortschritt sichtbar gemacht: Lege deine Prime Powerbank ab und erlebe dynamische Lichteffekte, die während des sofortigen Ladevorgangs aktiviert werden.
+- 150W Maximalgeschwindigkeit für Prime Power: Lade eine 26250mAh Prime Powerbank mit maximaler Geschwindigkeit über den 150W-Eingang und erreiche in nur 21 Minuten 50% Akkuladung.
+- Im Lieferumfang: Anker Prime Ladebasis (150W, 3 Ports), Netzkabel, Willkommensguide, 24 Monate Garantie und unser freundlicher Kundenservice.
+- Vier Geräte gleichzeitig laden: Versorge bis zu vier Geräte gleichzeitig – über den USB-C1 Port (max. 140W), USB-C2 Port (max. 100W), USB-A Port (max. 22,5W) und den Pogo-Pin (max. 150W). Bei gleichzeitiger Nutzung liefert die Ladebasis insgesamt bis zu 150W.
+- Durchgangsladung: Halte deine Geräte jederzeit mit Strom versorgt, während die Prime Powerbank nahtlos wieder aufgeladen wird – ohne Unterbrechung.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0FN7STTZP{{</world>}}

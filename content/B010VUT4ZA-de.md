@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - hochleistungs Gehäuselüfter
-- 140x140x25
 - Geräuschpegel: 22.1 dBA (mit LNC)
+- 140x140x25
 - leuchtend gelbe LED
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

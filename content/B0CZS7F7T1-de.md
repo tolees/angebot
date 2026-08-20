@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Außenseite: 100 % Polyester (recycelt); Innenseite: 100 % thermoplastisches Elastomer
 - Maße: 26 cm x 65 cm x 33 cm
 - Volumen: 65,5 l
 - Seitliche Reißverschlusstaschen und Reißverschlusstaschen an den Enden
-- Außenseite: 100 % Polyester (recycelt); Innenseite: 100 % thermoplastisches Elastomer
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CZS7F7T1{{</world>}}

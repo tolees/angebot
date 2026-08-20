@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Arm- und Saumabschluss verstellbar
 - Im Kragen verstaubare, verstellbare Kapuze
+- Arm- und Saumabschluss verstellbar
 - Zwei Außentaschen mit Reißverschluss
 - 1-Wege Front Reißverschluss
 

@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 6 LEGO MINIFIGUREN FÜR VIEL SPIELSPASS: Mit Maya, Ray, Nya, Schmied Kai, Meister Wu und dem Elementarmeister der Erde bietet das Spielset eine starke Auswahl beliebter Figuren, die Fans sammeln und ausstellen können
 - LEGO SET ZUM JUBILÄUM: Das Set 15-jähriges Jubiläum: Vier-Waffen-Schmiede lässt NINJAGO Fans ab 14 Jahren den ersten ikonischen Schauplatz aus der Pilotfolge der TV-Serie originalgetreu nachbauen
-- KOMBINIERBARE LEGO NINJAGO SETS: Das breite Spektrum an Bausets lässt Kinder in eine Fantasy-Welt eintauchen, in der sie besonders fantasievoll mit ihren Ninja Helden spielen können
-- MODELLBAU MIT VERSTECKTEN DETAILS: Die Rückseite der detailreichen LEGO Schmiede lässt sich aufklappen und gibt den Blick auf ein Schlafzimmer und die Werkstatt
-- GESCHENK FÜR JUNGEN UND MÄDCHEN: Dieses nostalgische Ninjago Spielset bietet ein actionreiches Spielerlebnis und ist ein beliebtes Kinder Geschenk zum Ausstellen für alte und neue Ninjago Fans
 - FASZINIERENDES BAUERLEBNIS: Die LEGO Builder App nimmt Kinder auf ein intuitives Bauabenteuer mit; In der App können sie Sets speichern, beim Bauen ein 3D-Modell vergrößern und drehen
+- MODELLBAU MIT VERSTECKTEN DETAILS: Die Rückseite der detailreichen LEGO Schmiede lässt sich aufklappen und gibt den Blick auf ein Schlafzimmer und die Werkstatt
+- KOMBINIERBARE LEGO NINJAGO SETS: Das breite Spektrum an Bausets lässt Kinder in eine Fantasy-Welt eintauchen, in der sie besonders fantasievoll mit ihren Ninja Helden spielen können
 - KINDERSPIELZEUG MIT GEHEIMEN FUNKTIONEN: Das Ninjago Set enthält besondere Features wie versteckte Aufkleber unter Helm und Haube sowie ein herausdrückbares Schild, das eine Karte mit goldenen Waffen enthüllt
+- GESCHENK FÜR JUNGEN UND MÄDCHEN: Dieses nostalgische Ninjago Spielset bietet ein actionreiches Spielerlebnis und ist ein beliebtes Kinder Geschenk zum Ausstellen für alte und neue Ninjago Fans
+- 6 LEGO MINIFIGUREN FÜR VIEL SPIELSPASS: Mit Maya, Ray, Nya, Schmied Kai, Meister Wu und dem Elementarmeister der Erde bietet das Spielset eine starke Auswahl beliebter Figuren, die Fans sammeln und ausstellen können
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FPXCSQ6V{{</world>}}

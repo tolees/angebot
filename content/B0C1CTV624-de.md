@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das TOSLINK-Kabel ist geeignet für Geräte mit TOSLINK-Schnittstelle (OPT In/OPT Out oder SPDIF In/SPDIF Out). TOSLINK-Stecker auf TOSLINK-Stecker (F05-Anschluss)
-- 36 Monate KabelDirekt-Garantie: Zuverlässig vom deutschen Kabelspezialisten seit 2010 – Ihre unentgeltlichen gesetzlichen Gewährleistungsrechte bleiben hiervon unberührt. Die vollständigen Garantiebedingungen sind über einen Link „Garantie“ weiter unten in den Sicherheitsdokumenten abrufbar
 - Eine zusätzliche Schutzkappe, die fest mit dem Kabel verbunden ist, schützt die Lichtwellenleiter bei Nichtgebrauch
-- Ideal für die digitale Audio-Übertragung zwischen Fernseher, Spielekonsole (PS3/PS4 Pro/Xbox One), DVD/Blu-ray oder TV-Streaming-Box mit einer Soundbar, einem Verstärker/Amp oder einer Stereoanlage/HiFi-System, D/A-Wandler etc.
+- 36 Monate KabelDirekt-Garantie: Zuverlässig vom deutschen Kabelspezialisten seit 2010 – Ihre unentgeltlichen gesetzlichen Gewährleistungsrechte bleiben hiervon unberührt. Die vollständigen Garantiebedingungen sind über einen Link „Garantie“ weiter unten in den Sicherheitsdokumenten abrufbar
+- Das TOSLINK-Kabel ist geeignet für Geräte mit TOSLINK-Schnittstelle (OPT In/OPT Out oder SPDIF In/SPDIF Out). TOSLINK-Stecker auf TOSLINK-Stecker (F05-Anschluss)
 - Das optische Audiokabel mit Lichtwellenleiter (LWL, "Glasfaser") ist vollständig immun gegen elektrische Störsignale durch seine metallfreie, flexible PVC-Leitung. Mehrstufige Tests stellen höchste Produktqualität im Fertigungsprozess sicher
+- Ideal für die digitale Audio-Übertragung zwischen Fernseher, Spielekonsole (PS3/PS4 Pro/Xbox One), DVD/Blu-ray oder TV-Streaming-Box mit einer Soundbar, einem Verstärker/Amp oder einer Stereoanlage/HiFi-System, D/A-Wandler etc.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C1CTV624{{</world>}}

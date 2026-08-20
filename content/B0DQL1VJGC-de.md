@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Generationsprägend: Wegweisend und prägend für eine ganze Generation von Anime-Fans
-- TV-Bekanntheit: Bekannt aus den Fernsehausstrahlungen auf RTL II, Tele 5, Animax, VIVA und ProSieben MAXX
-- Manga-Adaption: Adaption des erfolgreichsten Mangas aller Zeiten von Eiichiro Oda
-- Anime-Klassiker: Ein zeitloser Anime-Klassiker, der in keiner Sammlung fehlen darf
-- Hochwertige Blu-ray: Genieße die sechste Box der TV-Serie in brillanter Blu-ray-Qualität
 - Streaming-Erfolg: Einer der Bestseller im Crunchyroll-Programm mit großer Fangemeinde
+- Anime-Klassiker: Ein zeitloser Anime-Klassiker, der in keiner Sammlung fehlen darf
+- Manga-Adaption: Adaption des erfolgreichsten Mangas aller Zeiten von Eiichiro Oda
+- TV-Bekanntheit: Bekannt aus den Fernsehausstrahlungen auf RTL II, Tele 5, Animax, VIVA und ProSieben MAXX
 - Skypia-Arc: Enthält die spannenden Abenteuer der Strohhut-Bande auf der Himmels-Insel Skypia in 10.000 Meter Höhe
+- Hochwertige Blu-ray: Genieße die sechste Box der TV-Serie in brillanter Blu-ray-Qualität
+- Generationsprägend: Wegweisend und prägend für eine ganze Generation von Anime-Fans
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DQL1VJGC{{</world>}}

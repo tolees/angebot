@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rechtliche Hinweise: Bei 12/24 V-Fahrzeugen müssen Zusatzscheinwerfer paarweise verbaut werden. Genaue Bedingungen unter osram.de/am-garantie
-- Kompakt und robust: Bruchsichere Polycarbonat-Linse für hohe Beanspruchung
-- Spot Beam für verbesserte Fernfeldausleuchtung: Bis zu 190 Meter Ausleuchtung
 - OSRAM LEDriving Zusatzscheinwerfer Lightbar SX180-SP: ECE konformer, langlebiger und robuster LED-Zusatzscheinwerfer für die Straße mit 6.000 Kelvin, 1.300 Lumen, 6 OSRAM LEDs
+- Rechtliche Hinweise: Bei 12/24 V-Fahrzeugen müssen Zusatzscheinwerfer paarweise verbaut werden. Genaue Bedingungen unter osram.de/am-garantie
+- Spot Beam für verbesserte Fernfeldausleuchtung: Bis zu 190 Meter Ausleuchtung
+- Kompakt und robust: Bruchsichere Polycarbonat-Linse für hohe Beanspruchung
 - Umgebungstemperatur: -30°C bis 60°C! Integriertes Treiber- und Wärmemanagementsystem für eine erhöhte Lebensdauer
 
 [🛒 Hier!!]({{< param buyurl >}})

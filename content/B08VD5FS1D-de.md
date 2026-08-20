@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Nachfüllfunktion: Nehmen Sie den abnehmbaren Milchbehälterdeckel ab und füllen Sie den Behälter auf. Einfach und bequem
 - One-Touch-Milchsystem: Latissima One ist mit einem einfachen Einzelportions-Milchsystem ausgestattet, das die Zubereitung von köstlichen Kaffee- und Milchgetränken auf Knopfdruck ermöglicht
 - 2 Kaffees zur Auswahl: Die perfekte Tasse Espresso und Lungo
-- Nachfüllfunktion: Nehmen Sie den abnehmbaren Milchbehälterdeckel ab und füllen Sie den Behälter auf. Einfach und bequem
 - Kompaktes Design: Kompakte Größe, die überall Platz findet
 - 3 Milchrezepte: Kreieren Sie Espresso Macchiato, Cappuccino und Latte Macchiato
 

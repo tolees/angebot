@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Finde geheime Relikte, geheime Techniken, geheime Rätsel und ... Kurz gesagt: Es gibt einfach eine ganze Menge Geheimniss!
-- Erkunde eine feindselige und tief verwobene Welt aus schattigen Wäldern, weitläufigen Ruinen und labyrinthartigen Katakomben.
-- Entdecke verborgene Schätze, die dir weiterhelfen.
 - Sammle die fehlenden Handbuchseiten voll mit Hinweisen und farbenfrohen Illustrationen.
 - Kämpfe gegen mächtige Bosse tief unter der Erde, hoch über den Wolken und an noch seltsameren Orten.
+- Entdecke verborgene Schätze, die dir weiterhelfen.
+- Erkunde eine feindselige und tief verwobene Welt aus schattigen Wäldern, weitläufigen Ruinen und labyrinthartigen Katakomben.
+- Finde geheime Relikte, geheime Techniken, geheime Rätsel und ... Kurz gesagt: Es gibt einfach eine ganze Menge Geheimniss!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BXSLJ9M8{{</world>}}

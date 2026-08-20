@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PRÄZISIONSTRIMMER: Entwickelt für schwer erreichbare Stellen
 - 1 ERSATZKLINGE = 20 RASUREN bei 3 Rasuren pro Woche
+- PRÄZISIONSTRIMMER: Entwickelt für schwer erreichbare Stellen
 - 5 SCHARFE KLINGEN: für eine gründliche, langanhaltende Rasur
 - PASST AUF ALLE: Gillette Proglide, Proshield und Fusion5 Rasierern
 - GLEITSTREIFEN: für sanfterers gleiten

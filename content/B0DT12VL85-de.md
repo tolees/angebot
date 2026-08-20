@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schwierigkeitsgrad Level 5/5; enthält 108 nummerierte Kunststoff-Puzzleteile + viele Zubehörteile + Anleitung + Infotafel, Verpackung kann abweichen
 - Detailgetreue Nachbildung des realen Vorbildes als faszinierendes 3D Puzzle Modell
-- Beeindruckendes Modell mit Deko-Wert! Mit den Maßen 6,50 cm x 25,10 cm x 12,40 cm (HxBxL) zieht ihr zusammengebauter Iconics: Lamborghini Huracán EVO alle Blicke auf sich
-- Einzigartiges, dreidimensionales Modellbau- und Puzzle-Erlebnis mit hohem Deko-Wert
 - Ravensburger Qualität: Entwickelt und hergestellt im Herzen Europas nach höchsten Qualitätsstandards
+- Einzigartiges, dreidimensionales Modellbau- und Puzzle-Erlebnis mit hohem Deko-Wert
+- Schwierigkeitsgrad Level 5/5; enthält 108 nummerierte Kunststoff-Puzzleteile + viele Zubehörteile + Anleitung + Infotafel, Verpackung kann abweichen
+- Beeindruckendes Modell mit Deko-Wert! Mit den Maßen 6,50 cm x 25,10 cm x 12,40 cm (HxBxL) zieht ihr zusammengebauter Iconics: Lamborghini Huracán EVO alle Blicke auf sich
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DT12VL85{{</world>}}

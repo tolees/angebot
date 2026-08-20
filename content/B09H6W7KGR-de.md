@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Regulär geschnitten
+- Kapuze mit weitenregulierbarem Kordelzug
 - Kängurutasche
 - Bündchen und Saum gerippt
 - 70 % Baumwolle / 30 % recycelter Polyester (Fleece)
-- Kapuze mit weitenregulierbarem Kordelzug
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09H6W7KGR{{</world>}}

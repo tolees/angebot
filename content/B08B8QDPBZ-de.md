@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Don Papa, auch Papa Isio genannt, gilt als einer der wenigen bekannten Helden der Philippinischen Revolution. Doch bevor er für die Unabhängigkeit seiner Heimat eintrat, war er ein einfacher Arbeiter auf einer Zuckerrohrplantage
-- Don Papa Baroko zählt schon jetzt zu den beliebtesten Premium Spirituosen in Deutschland, die pur, aber auch in verschiedenen Cocktails Verwendung finden kann
-- Nach der Destillation aus der Melasse, die auch als “schwarzes Gold” bekannt ist, reift der Don Papa Baroko mehrere Jahre in Ex-Bourbonfässern aus amerikanischer Weißeiche an den Ausläufern des Vulkans Mount Kanlaon, bevor die Destillate für ein reiches und weiches Finish zu einem Blend vermählt werden
-- Der so entstandene Blend verkörpert den ursprünglichen Charakter von Don Papa – er stellt im Aroma eine wahre Explosion an Zitrusfrüchten und Vanille dar und gibt sich am Gaumen körperreich mit Noten von kandierteDer so entstandene Blend verkörpert den ursprünglichen Charakter von Don Papa – er stellt im Aroma eine wahre Explosion an Zitrusfrüchten und Vanille dar und gibt sich am Gaumen körperreich mit Noten von kandierten Tropenfrüchten und Honig
 - Don Papa Baroko ist dem klassischen Don Papa 7 nachempfunden, welcher seit 2022 nun etwas trockener im Geschmack ist
+- Don Papa, auch Papa Isio genannt, gilt als einer der wenigen bekannten Helden der Philippinischen Revolution. Doch bevor er für die Unabhängigkeit seiner Heimat eintrat, war er ein einfacher Arbeiter auf einer Zuckerrohrplantage
+- Der so entstandene Blend verkörpert den ursprünglichen Charakter von Don Papa – er stellt im Aroma eine wahre Explosion an Zitrusfrüchten und Vanille dar und gibt sich am Gaumen körperreich mit Noten von kandierteDer so entstandene Blend verkörpert den ursprünglichen Charakter von Don Papa – er stellt im Aroma eine wahre Explosion an Zitrusfrüchten und Vanille dar und gibt sich am Gaumen körperreich mit Noten von kandierten Tropenfrüchten und Honig
+- Nach der Destillation aus der Melasse, die auch als “schwarzes Gold” bekannt ist, reift der Don Papa Baroko mehrere Jahre in Ex-Bourbonfässern aus amerikanischer Weißeiche an den Ausläufern des Vulkans Mount Kanlaon, bevor die Destillate für ein reiches und weiches Finish zu einem Blend vermählt werden
+- Don Papa Baroko zählt schon jetzt zu den beliebtesten Premium Spirituosen in Deutschland, die pur, aber auch in verschiedenen Cocktails Verwendung finden kann
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08B8QDPBZ{{</world>}}

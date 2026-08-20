@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vielseitige Anwendung: Nutzen Sie die Bohrführung für Flächen-, T- und Eckverbindungen ab 12mm Brettstärke. Gehrungsverbindungen sind ebenfalls möglich.
-- hohe Qualität „Made in Europe“
 - Umfangreiches Set: Enthalten sind Bohrschablone, Stufenbohrer, Holzdübel, Holzschrauben in verschiedenen Größen und mehr, alles im praktischen Koffer.
-- Unsichtbare Bohrlöcher verschließen: Mit den Holzdübeln schließen Sie Bohrlöcher nahezu unsichtbar. Optimal für versteckte Taschenbohrungen.
-- Flexibles Verbinden: Erstellen Sie mit der Bohrlehre einfach schräge Löcher. Die Innensechsrund-Schrauben ermöglichen eine stabile Holzverbindung.
+- Vielseitige Anwendung: Nutzen Sie die Bohrführung für Flächen-, T- und Eckverbindungen ab 12mm Brettstärke. Gehrungsverbindungen sind ebenfalls möglich.
 - Robuste Holzverschraubung: Der wolfcraft Jig ermöglicht verdeckte Verschraubungen mit hohem Drehmoment, reduziert den Schrauben- und Bitverschleiß.
+- Unsichtbare Bohrlöcher verschließen: Mit den Holzdübeln schließen Sie Bohrlöcher nahezu unsichtbar. Optimal für versteckte Taschenbohrungen.
+- hohe Qualität „Made in Europe“
+- Flexibles Verbinden: Erstellen Sie mit der Bohrlehre einfach schräge Löcher. Die Innensechsrund-Schrauben ermöglichen eine stabile Holzverbindung.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07CT2XTVG{{</world>}}

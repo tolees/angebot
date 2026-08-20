@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Strickbündchen an Ärmel- und Bundabschluss
-- aufgesetzte Brusttasche mit Klettverschluss und Stift-Tasche
 - hochschließender, dicker Kragen mit Reißverschluss
-- elastisches Strick-Material
 - Strickbündchen an Ärmel- und Bundabschluss
+- Strickbündchen an Ärmel- und Bundabschluss
+- elastisches Strick-Material
+- aufgesetzte Brusttasche mit Klettverschluss und Stift-Tasche
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08CXS673S{{</world>}}

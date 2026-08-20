@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Skechers luftgekühlte Memory-Schaum gepolsterte Komfort-Innensohle
 - Stretch-Fit-Design für sockenähnlichen Komfort
+- Skechers luftgekühlte Memory-Schaum gepolsterte Komfort-Innensohle
 - Exklusives Fersenkissen hält Ihren Fuß sicher an Ort und Stelle
 - Skechers Hands Free Slip-Ins für eine einfache Passform
 

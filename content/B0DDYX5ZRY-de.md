@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sub 4 ist mit allen Sonos Heimkino-Lautsprechern außer Playbar und Playbase kompatibel
 - Sub 4 ist nicht kompatibel mit Play:1, Play:3, Play:5 (Gen 2), Connect:Amp, SYMFONISK Bookshelf (Gen 1) oder SYMFONISK Tischlampe (Gen 1); Alle Sub-Produkte sind nicht kompatibel mit Move-Produkten, Roam-Produkten, ZP80, ZP90, Connect oder Connect:Amp (Gen 1)
 - Verbinde den Sub 4 mit der Sonos Arc Ultra, Arc oder Beam und transformiere dein HeimkinoErlebnis
+- Sub 4 ist mit allen Sonos Heimkino-Lautsprechern außer Playbar und Playbase kompatibel
 - Der Sub 4 verbindet sich über WLAN zuverlässig mit deiner Sonos Soundbar oder deinem Speaker, sodass du ihn flexibel platzieren kannst. Du kannst ihn sowohl senkrecht aufstellen als auch flach hinlegen und unter deinem Sofa verstecken
 
 [🛒 Hier!!]({{< param buyurl >}})

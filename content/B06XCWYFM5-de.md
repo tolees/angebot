@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- KEINE LEUCHTMITTEL INBEGRIFFEN - Wir empfehlen die Verwendung von Philips LED-Leuchtmitteln, für eine hochwertige und lang anhaltende Lichtleistung.
-- 2 JAHRE GARANTIE - Philips bietet standardmäßig eine 2-Jahres-Garantie für diese Lampe.
-- SCHAFFEN SIE EINE STYLISCHE UND KREATIVE ATMOSPHÄRE - Diese Wandleuchte für den Außenbereich wurde nach den neuesten Trends und Lifestyles entworfen, um sich mühelos in Ihren Außenbereich einzufügen und das Ambiente zu schaffen, das Sie sich immer gewünscht haben.
 - DESIGNED FÜR ALLE WETTERBEDINGUNGEN - getestet auf Korrosions- und Rostbeständigkeit bei starkem Regen, feuchtem Wetter, starker Sonneneinstrahlung und UV-Bestrahlung sowie extremen Temperaturen mit Schutzart IP44 (Schutz gegen Staub und Spritzwasser)
+- SCHAFFEN SIE EINE STYLISCHE UND KREATIVE ATMOSPHÄRE - Diese Wandleuchte für den Außenbereich wurde nach den neuesten Trends und Lifestyles entworfen, um sich mühelos in Ihren Außenbereich einzufügen und das Ambiente zu schaffen, das Sie sich immer gewünscht haben.
 - HOCHWERTIGE MATERIALIEN - speziell für den Außenbereich entwickelt. Strapazierfähig und für eine lange Lebensdauer gebaut
+- 2 JAHRE GARANTIE - Philips bietet standardmäßig eine 2-Jahres-Garantie für diese Lampe.
+- KEINE LEUCHTMITTEL INBEGRIFFEN - Wir empfehlen die Verwendung von Philips LED-Leuchtmitteln, für eine hochwertige und lang anhaltende Lichtleistung.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B06XCWYFM5{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1-2x täglich morgens und/oder abends auf trockene, raue Haut auftragen, einmassieren. Nicht im Gesicht anwenden.
 - Feuchtigkeitslotion für sehr trockene, raue und schuppige Haut, die bis zu 48 h intensiv Feuchtigkeit spendet. Beruhigt und stärkt die Hautbarriere. Für Erwachsene, Senioren und Kinder mit empfindlicher Haut. Auch bei Xerosis.
 - Dreifach-Wirkung: Intensive Feuchtigkeitsversorgung, Anti-Schuppung und Anti-Juckreiz. Auch für Kinder geeignet.
+- 1-2x täglich morgens und/oder abends auf trockene, raue Haut auftragen, einmassieren. Nicht im Gesicht anwenden.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CFTW53JN{{</world>}}

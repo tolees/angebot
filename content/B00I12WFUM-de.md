@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- RUHIGER KETTENLAUF - Das Kettenspray erreicht dank der hohen Kriech- & Haftwirkung jede Stelle Ihres Ebikes & reduziert dadurch die Reibung & Geräuschentwicklung der Kette deutlich.
-- DR. WACK PREMIUM PFLEGE - Seit 1975 produziert Dr. Wack Chemie GmbH hochwirksame & innovative Pflege- & Reinigungsprodukte für Autos, Motorräder & Fahrräder in höchster Qualität - made in Germany.
 - SPEZIELL FÜR EBIKES - Das F100 Ebike Öl von Dr. Wack wurde speziell für Elektrofahrräder entwickelt & ermöglicht einen optimalen Schutz stark beanspruchter Ketten & längere Akku-Laufzeiten.
-- ZUVERLÄSSIGER SCHUTZ - Das Fahrrad-Kettenschmiermittel verhindert Kriechströme, minimiert die Selbstentladung der Batterie & ermöglicht mit nur wenigen Tropfen einen langanhaltenden Verschleißschutz.
+- RUHIGER KETTENLAUF - Das Kettenspray erreicht dank der hohen Kriech- & Haftwirkung jede Stelle Ihres Ebikes & reduziert dadurch die Reibung & Geräuschentwicklung der Kette deutlich.
 - WASSERVERDRÄNGUNG - Das Fahrrad Kettenöl verhindert Korrosion an elektrischen Steckkontakten & erhöht somit die Akku Lebensdauer.
+- ZUVERLÄSSIGER SCHUTZ - Das Fahrrad-Kettenschmiermittel verhindert Kriechströme, minimiert die Selbstentladung der Batterie & ermöglicht mit nur wenigen Tropfen einen langanhaltenden Verschleißschutz.
+- DR. WACK PREMIUM PFLEGE - Seit 1975 produziert Dr. Wack Chemie GmbH hochwirksame & innovative Pflege- & Reinigungsprodukte für Autos, Motorräder & Fahrräder in höchster Qualität - made in Germany.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00I12WFUM{{</world>}}

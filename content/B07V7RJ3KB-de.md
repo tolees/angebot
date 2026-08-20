@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Nicht Wasserfest
+- Innenmaterial: Synthetic
 - Obermaterial: Leder
 - Absatzform: Flach
-- Innenmaterial: Synthetic
-- Sohle: Synthetic
 - Verschluss: Schnürung
+- Sohle: Synthetic
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07V7RJ3KB{{</world>}}

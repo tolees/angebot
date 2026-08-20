@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anwendung: Unsere leicht schluckbaren Kapseln liegen im praktisch perforierten Abreißblister vor. Die Kapseln können auch geöffnet und die darin enthaltenen Pellets unzerkaut mit Flüssigkeit eingenommen werden.
 - Wirkung: Das in Fructaid enthaltene Enzym Glucose-Isomerase sorgt im Dünndarm dafür, dass nicht aufgenommene Fructose in gut resorbierbare Glucose (Traubenzucker) umgewandelt wird.
+- Vorteil: Falls Sie nicht wissen, ob eine Mahlzeit oder ein Getränk Fructose enthält, können Sie Fructaid auch vorsorglich einnehmen. Fructaid ist auch für Vegetarier und Veganer geeignet.
+- Anwendung: Unsere leicht schluckbaren Kapseln liegen im praktisch perforierten Abreißblister vor. Die Kapseln können auch geöffnet und die darin enthaltenen Pellets unzerkaut mit Flüssigkeit eingenommen werden.
 - Verzehrempfehlung: Erwachsene können 1 – 4 Kapseln mit Flüssigkeit einige Minuten vor dem Verzehr von fructosehaltigen Lebensmitteln bis zu 4 x täglich einnehmen. Kinder ab 100 cm nicht mehr als 10 Kapseln am Tag.
 - pro natura hat als erstes Unternehmen Deutschlands, ein Enzympräparat für Fructose-Unverträglichkeit entwickelt. Seit 2016 ist Fructaid nun die Nr. 1 bei Präparaten für Fructose-Intoleranz.
-- Vorteil: Falls Sie nicht wissen, ob eine Mahlzeit oder ein Getränk Fructose enthält, können Sie Fructaid auch vorsorglich einnehmen. Fructaid ist auch für Vegetarier und Veganer geeignet.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01H7ROX1K{{</world>}}

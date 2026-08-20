@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wasserabweisende Winterjacke für Herren, Ideal für kalte Wintertage in der Stadt, beim Wandern und bei anderen Outdoor-Aktivitäten, Moderne Passform
-- Lieferumfang: 1x Columbia Herren Kapuzenjacke, Powder Lite II, Farbe: Schwarz, Größe: XXL, Art. 2086944
 - Verstellbarer Kordelzug am Saum für maximalen Tragekomfort, Elastische Bündchen für hervorragende Wärmespeicherung
+- Lieferumfang: 1x Columbia Herren Kapuzenjacke, Powder Lite II, Farbe: Schwarz, Größe: XXL, Art. 2086944
+- Wasserabweisende Winterjacke für Herren, Ideal für kalte Wintertage in der Stadt, beim Wandern und bei anderen Outdoor-Aktivitäten, Moderne Passform
 - Besonders warmhaltend dank Omni-Heat mit wärmereflektierendem Futter, Thermarator-Isolierung für optimalen Schutz vor Wind und Wetter
 - Praktischer, durchgehender Reißverschluss, 2 Reißverschluss-Taschen für warme, sichere Hände
 

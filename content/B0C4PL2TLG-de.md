@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochwertige Material
 - Bringt Ihnen einen zusätzlichen Komfort
+- Hochwertige Material
 - Hält kühl und bequem
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

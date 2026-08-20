@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Infrarot-Heizsystem fü̈r effizientes, schnelles Trocknen.
 - 1200 Watt, 2 Temperatureinstellungen, Styling Düse.
+- Infrarot-Heizsystem fü̈r effizientes, schnelles Trocknen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00LZSPLVO{{</world>}}

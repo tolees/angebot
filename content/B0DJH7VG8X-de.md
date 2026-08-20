@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Entdecke, was sich hinter jeder einzelnen Tür dieser unheimlichen Schule verbirgt. Außerdem erwartet dich eine furchterregende Geschichte, die dir den Atem rauben wird! Die Hinweise warten nur darauf, entdeckt zu werden. Finde deinen eigenen Weg aus der Schule, aber vergiss nicht, dass du einiges zu erledigen hast, bevor du die Eagle Junior High School verlässt. Verschiedene Schwierigkeitsgrade, Minispiele und Rätsel warten auf dich. Traust du dich?
 - Dein Hauptziel ist es, alle Maskenteile zu sammeln und zusammenzusetzen. Aber pass auf, um deine Mission zu erfüllen, wirst du eine Vielzahl an Rätseln und Geheimnissen in dieser gruseligen Schule lösen müssen. Was ist die wahre Geschichte hinter der bösen Nonne?
+- Entdecke, was sich hinter jeder einzelnen Tür dieser unheimlichen Schule verbirgt. Außerdem erwartet dich eine furchterregende Geschichte, die dir den Atem rauben wird! Die Hinweise warten nur darauf, entdeckt zu werden. Finde deinen eigenen Weg aus der Schule, aber vergiss nicht, dass du einiges zu erledigen hast, bevor du die Eagle Junior High School verlässt. Verschiedene Schwierigkeitsgrade, Minispiele und Rätsel warten auf dich. Traust du dich?
 - Du wurdest für die Teilnahme an einem religiösen Sommercamp ausgewählt, das verspricht, der ideale Ort für neue Freundschaften und einen tollen Sommer zu sein. Sobald du dort ankommst, merkst du allerdings, dass nichts davon wahr ist. Stattdessen wirst du in eine verfallene Schule gesperrt, die von einer bösen Nonne bewacht wird.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

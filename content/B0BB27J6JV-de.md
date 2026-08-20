@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfache Installation: Die Perifo-Leuchten werden einfach in die Schienen eingeklickt, sodass sie leicht zu installieren und umzustellen sind.
-- Komplettes Set: Das Set enthält alle Bestandteile, die zur Installation notwendig sind: einschließlich der drei Spots, Schienen und Netzteil.
 - Für das volle Smart Home Erlebnis im gesamten Zuhause: Erweitern Sie Ihr System mit der Hue Bridge (separat erhältlich) und entdecken Sie viele weitere Funktionen.
-- Anpassen und erweitern: Ordnen Sie die Lichter auf Ihren Schienen neu an oder erweitern Sie Ihr aktuelles Set einfach mit zusätzlichen Schienen und Lichtern.
 - Personalisierte Beleuchtung: Wählen Sie aus Millionen von Farben und Weißtönen, um die Stimmung in Ihrem Zuhause individuell anpassen zu können.
+- Einfache Installation: Die Perifo-Leuchten werden einfach in die Schienen eingeklickt, sodass sie leicht zu installieren und umzustellen sind.
+- Anpassen und erweitern: Ordnen Sie die Lichter auf Ihren Schienen neu an oder erweitern Sie Ihr aktuelles Set einfach mit zusätzlichen Schienen und Lichtern.
+- Komplettes Set: Das Set enthält alle Bestandteile, die zur Installation notwendig sind: einschließlich der drei Spots, Schienen und Netzteil.
 - Umgebendes Produkt: Dieses Produkt ist aufgrund des fest verbauten Leuchtmittels als umgebenes Produkt klassifiziert. Daher wird kein EEL-Label benötigt.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

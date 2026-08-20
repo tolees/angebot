@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Pflegehinweis: Um das Ausbleichen der Farbe zu verhindern, empfehlen wir Ihnen die Hose auf Links zu Waschen. Somit wir das Oberflächenfinisch geschont und die Lebensdauer der Jeans Hosen verlängert.
-- Style: Unsere Jeans Hosen für Herren im Slim Fit bieten wir Ihnen in den Farben Blau-Schwarz, Hellblau, Blau, Schwarz und Anthrazit an. Passend zu jedem Anlass, mit baggy und lässigen als auch eleganten Kleidungsstücken kann man unsere Stretch Jeans ohne Probleme kombinieren.
-- Passform: Smith & Solo Herren Jeans werden mit einem 2% Stretch Anteil hergestellt und passt sich somit zu Ihrer Statur an. Die Slim Fit Männer Hose mit einem modernen und zeitlosen Jeans Stil hat einen durchgehend schmalen Schnitt vom Bund bis zu den Knöcheln und eine normalen Leibhöhe.
-- Herstellung: Unsere Herren Jeans werden aus weichem Denim Stoff hergestellt, der aus 98% Baumwolle und 2% Elasthan gewebt wird. Der Elasthan Anteil sorgt für eine gemütliche Stretch Jeans für Herren und passt sich zu Ihrer Statur an.
 - Komfort: Der Stretch Anteil der Slim Fit Jeans Hose bietet Ihnen Bewegungsfreiheit. Unsere Modernen Jeans Hosen sind Alltagstauglich und lassen sich in der Freizeit als auch im Büro super Stylen, dank einer hohen Tragekomfort.
+- Passform: Smith & Solo Herren Jeans werden mit einem 2% Stretch Anteil hergestellt und passt sich somit zu Ihrer Statur an. Die Slim Fit Männer Hose mit einem modernen und zeitlosen Jeans Stil hat einen durchgehend schmalen Schnitt vom Bund bis zu den Knöcheln und eine normalen Leibhöhe.
+- Style: Unsere Jeans Hosen für Herren im Slim Fit bieten wir Ihnen in den Farben Blau-Schwarz, Hellblau, Blau, Schwarz und Anthrazit an. Passend zu jedem Anlass, mit baggy und lässigen als auch eleganten Kleidungsstücken kann man unsere Stretch Jeans ohne Probleme kombinieren.
+- Herstellung: Unsere Herren Jeans werden aus weichem Denim Stoff hergestellt, der aus 98% Baumwolle und 2% Elasthan gewebt wird. Der Elasthan Anteil sorgt für eine gemütliche Stretch Jeans für Herren und passt sich zu Ihrer Statur an.
+- Pflegehinweis: Um das Ausbleichen der Farbe zu verhindern, empfehlen wir Ihnen die Hose auf Links zu Waschen. Somit wir das Oberflächenfinisch geschont und die Lebensdauer der Jeans Hosen verlängert.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DG2XF149{{</world>}}

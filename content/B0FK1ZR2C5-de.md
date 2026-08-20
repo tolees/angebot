@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit anderen Marken kompatibel: Die Teile lassen sich mit allen Bausets von Mattel Brick Shop und anderen Marken kombinieren. ​
-- Eigene Armee zusammenstellen: Mit 12 NanoWorld-Figuren in wechselbaren Posen, wie He-Man und Skeletor, lassen sich die Szenen zum Leben erwecken.
 - Authentische Details aus dem Film: Mit dem modularen Snake Mountain, der Zugang zum Thronsaal von Skeletor ermöglicht, sowie Extrateilen zum Positionieren von Figuren in der Luft lassen sich die Filmszenen authentisch nachbilden.
 - Epische Kämpfe nachstellen: Aufbaubares Versteck am Snake Mountain aus dem Film Masters of the Universe.
 - Epische Spezialeffekte: Spezialteile für Lava und Lichteffekte erzeugen eine beeindruckende Szenerie.
+- Mit anderen Marken kompatibel: Die Teile lassen sich mit allen Bausets von Mattel Brick Shop und anderen Marken kombinieren. ​
+- Eigene Armee zusammenstellen: Mit 12 NanoWorld-Figuren in wechselbaren Posen, wie He-Man und Skeletor, lassen sich die Szenen zum Leben erwecken.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0FK1ZR2C5{{</world>}}

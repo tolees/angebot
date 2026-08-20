@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Exklusives Ambiente: An der Wand montierte Waschtisch-Armatur mit einer Ausladung von 16,5 cm
-- Tecturis S kombiniert ein schlankes, puristisches Design mit großem Komfort
-- Diese Armatur reichert Wasser mit Luft an – für einen vollen Wasserstrahl, der weniger spritzt (AirPower)
 - Flexibel: Der Griff kann bei Montage des Grundsets links oder rechts vom Auslauf positioniert werden
-- 5 Jahre freiwillige Herstellergarantie auf ein Produkt, das nach höchsten Qualitätsstandards gefertigt wurde
-- Vorteil Unterputz-Installation: Mehr Platz am Waschbecken. Grundset zur Installation benötigt: #13622180
 - Extra nachhaltig: EcoSmart+ nutzt nur 4 l/min (bei 3 bar) und damit 20 % weniger Wasser als hansgrohe EcoSmart
+- Diese Armatur reichert Wasser mit Luft an – für einen vollen Wasserstrahl, der weniger spritzt (AirPower)
+- 5 Jahre freiwillige Herstellergarantie auf ein Produkt, das nach höchsten Qualitätsstandards gefertigt wurde
+- Exklusives Ambiente: An der Wand montierte Waschtisch-Armatur mit einer Ausladung von 16,5 cm
+- Vorteil Unterputz-Installation: Mehr Platz am Waschbecken. Grundset zur Installation benötigt: #13622180
+- Tecturis S kombiniert ein schlankes, puristisches Design mit großem Komfort
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CGRP271K{{</world>}}

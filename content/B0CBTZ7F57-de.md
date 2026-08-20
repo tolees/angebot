@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Müheloses Bohren bis zu 14 mm ∅ in Mauerwerk und bis zu 30 mm ∅ in Holz
+- Werkzeugloses Bohrfutter mit Autolock für schnelle und leichte Zubehörwechsel
 - 2,1 kg leicht, kompakt und mit einem ergonomischen Design für komfortables Arbeiten
 - Lieferumfang: Tragekoffer;Tiefenanschlag;Zusatzhandgriff
-- Werkzeugloses Bohrfutter mit Autolock für schnelle und leichte Zubehörwechsel
 - Bosch Speed Preselection zur Vorwahl und genauen Kontrolle der Bohrdrehzahl
-- Müheloses Bohren bis zu 14 mm ∅ in Mauerwerk und bis zu 30 mm ∅ in Holz
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CBTZ7F57{{</world>}}

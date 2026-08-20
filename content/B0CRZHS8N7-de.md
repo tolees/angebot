@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eine bequeme Passform
 - Einen originellen Look
-- Eingesetzte Taschen
 - Bietet Tragekomfort
+- Eine bequeme Passform
+- Eingesetzte Taschen
 - Hosenschlitz mit Reißverschluss
 
 [🛒 Hier!!]({{< param buyurl >}})

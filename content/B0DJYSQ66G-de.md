@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - PERFEKTE PASSFORM & SCHICHTUNG: Abenteuerliches Muster, Herrengrößen, Stretch-Einfassung am Kragen, an den Bündchen und am Saum für Komfort und müheloses Schichten
-- Lieferumfang: 1 x Columbia Sequoia Grove Fleecejacke mit durchgehendem Reißverschluss, Herren, Größe: L, Farbe: Black (Schwarz)
 - STYLE AUF DEINE WEISE: Kombinierbar mit Jeans für legere Ausflüge oder für Herbst- und Winterabenteuer—vielseitig für jeden Anlass
+- Lieferumfang: 1 x Columbia Sequoia Grove Fleecejacke mit durchgehendem Reißverschluss, Herren, Größe: L, Farbe: Black (Schwarz)
 - ABENTEUERBEREITES FLEECE: Herren-Polyfleece mit durchgehendem Reißverschluss aus recyceltem Polyester mit sicheren Reißverschlusstaschen – ideal für Stadtfahrten oder Lagerfeuerabende
 - UMWELTFREUNDLICHER STOFF & PFLEGE: 100% recyceltes Polyester für Wärme und Haltbarkeit—kalt in der Maschine waschen, bei niedriger Temperatur im Trockner trocknen, sofort herausnehmen
 

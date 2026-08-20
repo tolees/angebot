@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Regular fit
 - Waterbased print
 - Elastic waistband
-- Regular fit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CMTJQ6B4{{</world>}}

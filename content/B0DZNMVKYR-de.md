@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Bringt Ihnen einen zusätzlichen Komfort
 - Flexible Gestaltung
-- Les informations ci-dessous sappliquent à chaque unité du pack
 - Langlebig
+- Les informations ci-dessous sappliquent à chaque unité du pack
 - Die folgenden Informationen gelten für jede Einheit pro Packung
 - Hält kühl und bequem
 

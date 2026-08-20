@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Mit neuen spielbaren Charakteren, Modi, Herausforderungen, Hinter-den-Kulissen-Inhalten und vielem mehr
 - Erlebe die gesammelten Abenteuer von Sonic the Hedgehog in dem neu überarbeiteten Sonic Origins Plus mit 16 legendären Sonic-Titeln
 - Erlebe 12 beliebte Sonic Game Gear-Titel auf Plattformen der aktuellen Generation
-- Mit neuen spielbaren Charakteren, Modi, Herausforderungen, Hinter-den-Kulissen-Inhalten und vielem mehr
 - Im neuen Jubiläumsmodus hast du unbegrenzte Leben und spielst im HD-Breitbildformat
 
 [🛒 Hier!!]({{< param buyurl >}})

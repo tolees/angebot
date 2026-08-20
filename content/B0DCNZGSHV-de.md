@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Es unterstützt Laden mit bis zu 240 Watt und überträgt Daten mit USB 2 Raten. Kombiniere das USB‑C Ladekabel mit einem kompatiblen USB‑C Netzteil, um deine Geräte schnell und einfach über eine Steckdose zu laden und die Schnelllade­funktion zu nutzen.
-- USB‑C Netzteil separat erhältlich.
 - Dieses 2 Meter lange gewebte Ladekabel mit USB‑C Anschlüssen an beiden Enden ist ideal zum Laden, Synchronisieren und Übertragen von Daten zwischen USB‑C Geräten.
+- USB‑C Netzteil separat erhältlich.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DCNZGSHV{{</world>}}

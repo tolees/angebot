@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Einstellung direkt an das Werkstück kann durch einfaches Zuschieben erfolgen
-- Selbstklemmend an Rohren und Muttern: kein Abrutschen am Werkstück, kraftsparendes Arbeiten
 - Verbindet das bewährte, sichere Einrasten des Gelenkbolzens mit einer zusätzlichen Schiebefunktion, die das Arbeiten in sehr engen und unzugänglichen Arbeitsbereichen erleichtert
-- Sicheres Einrasten des Gelenkbolzens bei der ersten Belastung. Danach ist die Griffweite der Zange fixiert und kann nur noch durch Drücken des Knopfes verstellt werden
+- Selbstklemmend an Rohren und Muttern: kein Abrutschen am Werkstück, kraftsparendes Arbeiten
 - Um die Schiebefunktion erneut zu aktivieren, wird der Gelenkbolzen per Knopfdruck ausgedrückt und die Zange einmal ganz geöffnet
+- Die Einstellung direkt an das Werkstück kann durch einfaches Zuschieben erfolgen
+- Sicheres Einrasten des Gelenkbolzens bei der ersten Belastung. Danach ist die Griffweite der Zange fixiert und kann nur noch durch Drücken des Knopfes verstellt werden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00ID7CACS{{</world>}}

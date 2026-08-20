@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aus hochwertigem, robustem gehärtetem Glas.
 - Geeignet für Spülmaschine und Mikrowelle.
 - Ideal für Tee- und Kaffeegenuß.
 - Modernes, elegantes Design.
+- Aus hochwertigem, robustem gehärtetem Glas.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00OHV8KUU{{</world>}}

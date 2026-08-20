@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- REIFUNG: in Portweinfässern intensivieren sich die Aromen von gebackenen Früchten, während der Whisky mit einem Finish aus Sultaninen und gewürztem Mokka abgerundet wird
+- BENRIACH 12 JAHRE: ist ein sherrybetonter Single Malt Whisky, der in Sherry-, Bourbon- und Portweinfässern gereift ist
 - MODERNER KLASSIKER: Seit Jahren immer unter den Top 100-Kartenspielen
 - GESCHENKIDEE: Ein Whisky, der sowohl für Einsteigende als auch für Kenner perfekt geeignet ist und ein unvergessliches Genusserlebnis bietet
 - GESCHMACKSPROFIL: Mit gebackenen Waldfrüchten, Ahornhonig, Kakao und gewürztem Mokka bietet er eine viele Schichten umfassende Komplexität und ein lang anhaltendes Finish
-- BENRIACH 12 JAHRE: ist ein sherrybetonter Single Malt Whisky, der in Sherry-, Bourbon- und Portweinfässern gereift ist
+- REIFUNG: in Portweinfässern intensivieren sich die Aromen von gebackenen Früchten, während der Whisky mit einem Finish aus Sultaninen und gewürztem Mokka abgerundet wird
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07HJ17DW5{{</world>}}

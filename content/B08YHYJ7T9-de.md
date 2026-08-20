@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - cut on 45 rpm
-- limited to 2500 copies
 - music matters ltd reissue
+- limited to 2500 copies
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08YHYJ7T9{{</world>}}

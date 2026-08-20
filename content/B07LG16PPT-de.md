@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Synthetic
 - Innenmaterial: Synthetic
+- Sohle: Synthetic
 - Obermaterial: Smooth Leather
 - Verschluss: Slip-on
 

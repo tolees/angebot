@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ideal für Krossgebratenes
 - für alle Herdarten - auch Induktion
-- aus beidseitig rautengeschmiedetem Eisen
 - extra schwere Gastro-Qualität
+- ideal für Krossgebratenes
 - ideal zum Braten und Servieren
+- aus beidseitig rautengeschmiedetem Eisen
 - mit zwei angeschweißten Seitengriffen
 - Backofenfest
 

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LED-Anzeige: Zeigt Informationen zum Bluetooth-Signal, Batteriestatus und aktiver Bewässerung - für den Betrieb wird eine 9V Batterie benötigt (nicht enthalten)
-- Wassersparend und ökologisch: Der separat erhältliche Gardena Bodenfeuchtesensor kann für eine bedarfsgerechte und wassersparende Bewässerung angeschlossen werden
-- Effizientes Wassermanagement: Per Bluetooth App können Sie bequem und zuverlässig die Bewässerung Ihres Gartens von überall aus steuern (Online Registrierung erforderlich)
 - Lieferumfang beinhaltet: 1x Gardena Bewässerungssteuerung Bluetooth (Batterie nicht im Lieferumfang enthalten)
+- Wassersparend und ökologisch: Der separat erhältliche Gardena Bodenfeuchtesensor kann für eine bedarfsgerechte und wassersparende Bewässerung angeschlossen werden
 - Flexible Programmierung: Bis zu 3 individuell einstellbare Zeitpläne für die Bewässerung - optional wählbare Funktionen wie saisonale Bewässerungsdauer und Regenpause
+- Effizientes Wassermanagement: Per Bluetooth App können Sie bequem und zuverlässig die Bewässerung Ihres Gartens von überall aus steuern (Online Registrierung erforderlich)
+- LED-Anzeige: Zeigt Informationen zum Bluetooth-Signal, Batteriestatus und aktiver Bewässerung - für den Betrieb wird eine 9V Batterie benötigt (nicht enthalten)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08KGNZ3T9{{</world>}}

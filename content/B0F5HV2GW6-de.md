@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der schwarze Gummirand schützt die Türen vor Beschädigungen
 - Die folgenden Informationen gelten für jede Einheit pro Packung
-- Material: Edelstahl matt, Gummi
 - Auch als 2 Kg Version erhältlich
-- Maße: H 4,5 cm, Ø 9 cm
+- Material: Edelstahl matt, Gummi
+- Der schwarze Gummirand schützt die Türen vor Beschädigungen
 - Die Unterseite ist mit einem Kratzschutz ausgestattet
+- Maße: H 4,5 cm, Ø 9 cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0F5HV2GW6{{</world>}}

@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - LANGZEIT-VITAMINE: Mit 13 ausgesuchten Vitaminen, Mineralstoffen wie Calcium und Magnesium und Spurenelementen wie Eisen und Zink. Zusätzlich mit dem pflanzlichen Carotinoid Lutein
-- NUR 1x TÄGLICH: Täglich 1 Tablette nach einer Mahlzeit mit ausreichend Flüssigkeit unzerkaut einnehmen. Die Tabletten können bei Bedarf auch in zwei Hälften zerteilt werden. Die Tabletten sind gluten- und lactosefrei
-- VITAMIN C: Vitamin C trägt zur normalen Funktion des Immunsystems bei
-- DEPOT-EFFEKT: Depot-Tablette mit zeitversetzter Nährstoff-Freigabe
 - LIEFERUMFANG: 120 Tabletten - Nahrungsergänzungsmittel mit Vitaminen, Mineralstoffen, Spurenelementen und Lutein
+- NUR 1x TÄGLICH: Täglich 1 Tablette nach einer Mahlzeit mit ausreichend Flüssigkeit unzerkaut einnehmen. Die Tabletten können bei Bedarf auch in zwei Hälften zerteilt werden. Die Tabletten sind gluten- und lactosefrei
+- DEPOT-EFFEKT: Depot-Tablette mit zeitversetzter Nährstoff-Freigabe
+- VITAMIN C: Vitamin C trägt zur normalen Funktion des Immunsystems bei
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08GCZDDCJ{{</world>}}

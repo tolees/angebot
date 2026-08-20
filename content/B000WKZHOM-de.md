@@ -28,16 +28,16 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Radierer mit stabiler Metallspitze
-- Anwendungsfälle u.a. in Werkstatt, KFZ, Handwerk, Büro, Haushalt, beim Basteln
-- entfernt kleine Rostflecken
+- Glasfasereinsätze austauschbar
 - Robustes Gehäuse mit stabiler Metallspitze für festen Halt der Glasfasern
+- entfernt kleine Rostflecken
+- säubert verschmutzte Batterie-Kontakte
+- Vielseitig einsetzbarer Radierer, zum reinigen, polieren, schleifen, aufrauen, entgraten, entrosten oder radieren auf Transparentpapier und Pergamentpapier
 - Glasfasereinsätze austauschbar: Läufer 10200 Ersatzfasereinsätze für Glasfaserradierstift
 - für diverse Oberflächen geeignet, wie z.B. beschichtetes Papier, Metall, Kunststoff, Keramik, Stein, Beton, Holz, Parkett, Glas
-- Glasfasereinsätze austauschbar
-- Vielseitig einsetzbarer Radierer, zum reinigen, polieren, schleifen, aufrauen, entgraten, entrosten oder radieren auf Transparentpapier und Pergamentpapier
-- säubert verschmutzte Batterie-Kontakte
 - vielseitig einsetzbar
+- Radierer mit stabiler Metallspitze
+- Anwendungsfälle u.a. in Werkstatt, KFZ, Handwerk, Büro, Haushalt, beim Basteln
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000WKZHOM{{</world>}}

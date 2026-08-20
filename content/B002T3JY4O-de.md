@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1 Original Brother Tonerkassette TN-230M, Recyclinganleitung
 - Exzellente und hochwertige Druckergebnisse
-- Reichweite: ca. 1400 Seiten (gemäß ISO/IEC 19798)
+- Lieferumfang: 1 Original Brother Tonerkassette TN-230M, Recyclinganleitung
 - Original Brother Tonerkassette TN-230M (magenta)
+- Reichweite: ca. 1400 Seiten (gemäß ISO/IEC 19798)
 - Kompatibel mit folgenden Brother-Geräten: DCP-9010CN, MFC-9120CN, HL-3040CN, HL-3070CW, MFC-9320CW
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

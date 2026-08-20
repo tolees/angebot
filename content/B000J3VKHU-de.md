@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Tinte für kräftige Farben
-- Mysterious Blue – direkt aus der bodenlosen Tiefe Ihrer Fantasie
-- Hohe Qualität für ein erstklassiges Schreibergebnis
-- Mit allen Waterman Füllfederhaltern kompatibel
 - Facettiertes 50-ml-Tintenflacon mit bequemem Schraubverschluss
+- Mysterious Blue – direkt aus der bodenlosen Tiefe Ihrer Fantasie
+- Mit allen Waterman Füllfederhaltern kompatibel
+- Hohe Qualität für ein erstklassiges Schreibergebnis
+- Tinte für kräftige Farben
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B000J3VKHU{{</world>}}

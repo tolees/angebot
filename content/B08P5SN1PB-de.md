@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Kautschuk
 - Verschluss: Schnürsenkel
 - Obermaterial: Leder
 - Innenmaterial: Synthetik
+- Sohle: Kautschuk
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08P5SN1PB{{</world>}}

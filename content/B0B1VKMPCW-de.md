@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Zum Aufstellen auf Tisch oder Küchenarbeitsfläche
 - In Trendfarben - schwarzes Metall kombiniert mit Bambus
-- Kleines, aber feines Küchen-Eckregal mit 2 Etagen
 - Ideal für Gewürzgläser, Teedosen oder Küchen-Accessoires
+- Kleines, aber feines Küchen-Eckregal mit 2 Etagen
 - (B x H x T): 30 x 33 x 30 cm, Stahl/Bambus
 
 [🛒 Hier!!]({{< param buyurl >}})

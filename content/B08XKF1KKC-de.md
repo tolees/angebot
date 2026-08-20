@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die Troy High Tops sind für Training und Alltag konzipiert.
-- Gorilla Wear, die Marke für Bodybuilding, Fitness, Lifestyle und Kampfsport
 - Atmungsaktives Mesh-Äußeres
+- Gorilla Wear, die Marke für Bodybuilding, Fitness, Lifestyle und Kampfsport
 - Diese Unisex-Schuhe bieten maximalen Halt und Schutz beim schweren Heben
 - Farbe: armeegrün
 

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Auf Wasserbasis, speichelecht
 - Natürlich, farbintensive Acryl - Holzlasur in weiß
 - Fließend - flüssig, untereinander mischbar
-- Auf Wasserbasis, speichelecht
 - Zum Lasieren unbehandelter Holzgegenstände, wie Tabletts, Bilderrahmen, Tische, Stühle, Kommoden und Holzdosen
 - Zur dekorativen Gestaltung und ideal als Grundierung für Foto Transfer Potch und Serviettentechnik
 

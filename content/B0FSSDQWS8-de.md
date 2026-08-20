@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ALL-IN-ONE-VERWALTUNGSPLATTFORM: Verwalten Sie Ihr Sicherheitssystem zentral mit dem Reolink Home Hub Mini. Unterstützt bis zu 8 Reolink-Kameras (ausgenommen 4G-Modelle; Akkukameras erfordern kompatible Firmware) und fungiert als zentraler Hub für Speicherung, Warnmeldungen, Erkennung und Geräteverwaltung.
+- ZENTRALISIERTE DATENSPEICHERUNG: Unterstützt microSD-Karten mit bis zu 1 TB (nicht im Lieferumfang enthalten). Die integrierte AES-128-Verschlüsselung und der erweiterte Diebstahlschutz schützen Ihre Aufzeichnungen vor unbefugtem Zugriff.
 - 2K QHD HAUSÜBERWACHUNGSSYSTEM: Genießen Sie umfassende Sicherheit für Ihr Zuhause mit kristallklaren 2K QHD-Videos und einem breiten Sichtfeld von 107°. Ausgestattet mit zwei Außenkameras deckt dieses System mehr Bereiche rund um Ihr Zuhause ab und bietet Ihnen so umfassenden Schutz.
 - KI-BASIERTE INTELLIGENTE ZUSAMMENFASSUNG: Greifen Sie auf tägliche, wöchentliche, monatliche oder jährliche Zusammenfassungen der Bewegungsereignisse aller Kameras zu. Erhalten Sie wöchentliche Einblicke in Alarmtrends und -typen sowie geräteübergreifende Zusammenfassungen der 24/7 Aufzeichnungen und einfache Filterung nach Zeit, Gerät oder Ereignistyp.
-- ZENTRALISIERTE DATENSPEICHERUNG: Unterstützt microSD-Karten mit bis zu 1 TB (nicht im Lieferumfang enthalten). Die integrierte AES-128-Verschlüsselung und der erweiterte Diebstahlschutz schützen Ihre Aufzeichnungen vor unbefugtem Zugriff.
+- ALL-IN-ONE-VERWALTUNGSPLATTFORM: Verwalten Sie Ihr Sicherheitssystem zentral mit dem Reolink Home Hub Mini. Unterstützt bis zu 8 Reolink-Kameras (ausgenommen 4G-Modelle; Akkukameras erfordern kompatible Firmware) und fungiert als zentraler Hub für Speicherung, Warnmeldungen, Erkennung und Geräteverwaltung.
 - 2,4/5 GHz Dualband-WLAN & Netzanschluss: Profitieren Sie von schnelleren, stabileren Verbindungen mit Dualband-WLAN und weniger Störungen. Dank Netzanschluss laufen Ihre Kameras kontinuierlich – ohne Batteriewechsel und ohne Aufladen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Lieferumfang: 1x Wasserwaage, 120 cm Länge, Genauigkeit: +/- 0,5 mm/m
 - Schlagfeste Blocklibelle & große und gut sichtbare Seitenlibelle
-- Umschlagsmessung: 0,8 mm
 - Spezielle Schockabsorber an den Enden für hohe Haltbarkeit
+- Umschlagsmessung: 0,8 mm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00BO898TQ{{</world>}}

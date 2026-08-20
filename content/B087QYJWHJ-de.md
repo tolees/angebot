@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- POWERSHARE: Worx PowerShare ist mit allen Worx 20-, 40- und 80-V-Werkzeugen, Outdoor-Elektrogeräten und Lifestyle-Produkten kompatibel. Mit 2 Stück 20V 4.0Ah Powershare-Akkus ausgestattet, wird der WG743E für Rasenflächen von bis zu 500 m² empfohlen
-- INTELLICUT TECHNOLOGIE: die patentierte IntelliCut-Technologie erhöht die Motorleistung, bei Bedarf und reduziert den ernergieverbrauch bei leichten Mäharbeiten, wenn das Gras dichter wird, und ermöglicht es Ihnen dann, die Leistung zu reduzieren, um den Akku zu schonen
+- VOLL ZUSAMMENKLAPPBARER GRIFF: zur einfachen Aufbewahrung in der Garage während der Nebensaison
 - SCHNELLE HÖHENVERSTELLUNG: mit nur einem Hebel kannst du dich bequem zwischen 7 Schnitthöhen entscheiden
 - Lieferumfang: 1 x WORX WG743E Akku-Rasenmäher, 2 x 20V Akku, Ladegerät und Mulcher / Kabellos und effizient den Rasen pflegen / Umweltfreundliche Akku-Gartengeräte von WORX
 - CUT TO EDGE: durch das speziell angepasste Mähdeck kommt der Rasenmäher näher als andere Mäher an Zäune und Orientierungspunkte auf deinem Rasen heran - für weniger Rasentrimmen!
 - DUAL-LADEGERÄT: lade beide Akkus gleichzeitig in 2 Stunden auf, oder laden nur einen in einer Stunde. Mit dem Ladegerät kannst du die 20-V-Batterien all deiner Worx PowerShare-Werkzeuge aufladen
-- VOLL ZUSAMMENKLAPPBARER GRIFF: zur einfachen Aufbewahrung in der Garage während der Nebensaison
+- POWERSHARE: Worx PowerShare ist mit allen Worx 20-, 40- und 80-V-Werkzeugen, Outdoor-Elektrogeräten und Lifestyle-Produkten kompatibel. Mit 2 Stück 20V 4.0Ah Powershare-Akkus ausgestattet, wird der WG743E für Rasenflächen von bis zu 500 m² empfohlen
+- INTELLICUT TECHNOLOGIE: die patentierte IntelliCut-Technologie erhöht die Motorleistung, bei Bedarf und reduziert den ernergieverbrauch bei leichten Mäharbeiten, wenn das Gras dichter wird, und ermöglicht es Ihnen dann, die Leistung zu reduzieren, um den Akku zu schonen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B087QYJWHJ{{</world>}}

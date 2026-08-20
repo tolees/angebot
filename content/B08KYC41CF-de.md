@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bringt Ihnen einen zusätzlichen Komfort
 - Haarshampoo
+- Bringt Ihnen einen zusätzlichen Komfort
 - Hält kühl und bequem
 
 [🛒 Hier!!]({{< param buyurl >}})

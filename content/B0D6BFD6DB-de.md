@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Analog Quartz
 - Eco-Drive
 - Super Titanium Zenshin 2024
+- Analog Quartz
 - Edelstahl
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

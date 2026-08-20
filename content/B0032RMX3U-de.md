@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Der Kultklassiker Black Hone Y ist berühmt für seine chamäleonartige Fähigkeit, allen Hautfarben zu schmeicheln
-- Transparentes Pigment gleitet auf einem durchsichtigen, glänzenden, hellen Farbtupfer
 - Die geschmeidig machende Formel verleiht den Lippen ein glattes, feuchtes Finish
+- Transparentes Pigment gleitet auf einem durchsichtigen, glänzenden, hellen Farbtupfer
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0032RMX3U{{</world>}}

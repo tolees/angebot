@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für streifenfreies Resultat
 - Fensterwischer mit Super Ettore gummi 25 cm
+- Für streifenfreies Resultat
 - Schlagfester Plastikstiel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

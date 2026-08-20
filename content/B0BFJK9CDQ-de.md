@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideal geformt für gewinkelte Elektrikerschere 95 05 20 SB
 - Mit Stifthalter
-- Werkzeugtasche aus strapazierfähigem Polyestergewebe, mit Gürtelschlaufe
 - Passend auch für Universalmesser KNIPEX CutiX oder ähnlich schlanke Werkzeuge wie Elektro-Installationszange, KNIPEX TwinGrip Frontgreifzange, etc.
+- Werkzeugtasche aus strapazierfähigem Polyestergewebe, mit Gürtelschlaufe
+- Ideal geformt für gewinkelte Elektrikerschere 95 05 20 SB
 - Konisch geschnittene Tasche für 1 bis 3 Handwerkzeuge
 
 [🛒 Hier!!]({{< param buyurl >}})

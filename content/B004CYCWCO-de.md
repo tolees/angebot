@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Weiches Aroma mit Spuren von Malz.
-- AUSGEWOGEN & ZUGÄNGLICH IM GESCHMACK: Noten von reifen Früchten, Vanille und leicht würzigem Malz sorgen für ein harmonisches, angenehm mildes Profil – ideal für Einsteiger und Whisky-Liebhaber
 - VIELSEITIGER GENUSS: Pur, auf Eis oder als Basis für klassische Whisky-Drinks wie Whisky Cola – ein unkomplizierter Allrounder für jeden Anlass
 - Lang und weich im Abgang.
+- AUSGEWOGEN & ZUGÄNGLICH IM GESCHMACK: Noten von reifen Früchten, Vanille und leicht würzigem Malz sorgen für ein harmonisches, angenehm mildes Profil – ideal für Einsteiger und Whisky-Liebhaber
+- Weiches Aroma mit Spuren von Malz.
+- PERFEKT FÜR GESELLIGE MOMENTE: Grants eignet sich ideal für entspannte Abende mit Freunden oder als stilvolle Ergänzung für die Hausbar
+- Im Geschmack sehr komplex, sauber und sehr fruchtig.
 - KLASSISCHER BLENDED SCOTCH AUS SCHOTTLAND: Hergestellt von William Grant & Sons, einem der traditionsreichsten schottischen Whisky-Produzenten, mit über 130 Jahren Erfahrung in der Whiskyherstellung
 - DREIFACH GEREIFT FÜR MEHR TIEFE: Grant’s Triple Wood Blended Scotch Whisky reift in drei verschiedenen Holzarten – Virgin Oak, American Oak und Bourbon Casks – für ein besonders ausgewogenes Geschmackserlebnis
-- Im Geschmack sehr komplex, sauber und sehr fruchtig.
-- PERFEKT FÜR GESELLIGE MOMENTE: Grants eignet sich ideal für entspannte Abende mit Freunden oder als stilvolle Ergänzung für die Hausbar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B004CYCWCO{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SCHLICHT & LÄSSIG: Das Basic Shirt zeichnet sich durch seinen angenehmen Bio-Baumwoll-Komfort aus und ist für deinen Lounge-Look, als Pyjamaoberteil oder Unterhemd bestens geeignet. Die Tommy Jeans Flag auf der Brust macht das Outfit komplett.
-- FÜR JEDEN ANLASS: Das minimalistische Oberteil liegt angenehm auf der Haut und überzeugt durch seinen hohen Tragekomfort. Ob zu Jeans, Shorts oder einer eleganten Hose, es passt perfekt zu jedem Alltagsoutfit oder Bürolook.
 - HOCHWERTIGES MATERIAL: Das vielseitge T-Shirt besteht aus 50% Übergangs-Baumwolle, 50% Polyester.
+- FÜR JEDEN ANLASS: Das minimalistische Oberteil liegt angenehm auf der Haut und überzeugt durch seinen hohen Tragekomfort. Ob zu Jeans, Shorts oder einer eleganten Hose, es passt perfekt zu jedem Alltagsoutfit oder Bürolook.
+- SCHLICHT & LÄSSIG: Das Basic Shirt zeichnet sich durch seinen angenehmen Bio-Baumwoll-Komfort aus und ist für deinen Lounge-Look, als Pyjamaoberteil oder Unterhemd bestens geeignet. Die Tommy Jeans Flag auf der Brust macht das Outfit komplett.
 - OPTIMALE PASSFORM: Das zeitlose, locker geschnittene Kurzarmshirt aus weicher Bio-Baumwolle ist in lässigem Design gehalten und schmiegt sich locker an den Körper an.
 
 [🛒 Hier!!]({{< param buyurl >}})

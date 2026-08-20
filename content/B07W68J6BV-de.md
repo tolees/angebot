@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LIEFERUMFANG: 6x 190ml Babyglas, 6x Silikondeckel und 12x Klebeetiketten zum Beschriften. Handreinigung empfohlen, damit das aufgedruckte Logo länger hält.
 - SILIKONDECKEL: Die farbigen Silikondeckel sind wiederverwendbar und verschließen die Gläser luftdicht und auslaufsicher. Dank der Farben kannst du die Breisorten einfach unterscheiden.
+- LIEFERUMFANG: 6x 190ml Babyglas, 6x Silikondeckel und 12x Klebeetiketten zum Beschriften. Handreinigung empfohlen, damit das aufgedruckte Logo länger hält.
 - VERWENDUNG: Die niedlichen Babygläser von KILNER sind ideal um Babynahrung aufzubewahren, einzufrieren, zu erwärmen und zu servieren.
 - VORKOCHEN: Die ideale Lösung für selbstgemachte, frisch zubereitete Babybreie und Obstpürees. Einfach für mehrere Tage vorbereiten und immer mitnehmen, ob zur Kita oder zum Spielplatz.
 - GLAS: Bewahren Sie den Baby Brei im Glas anstatt im Plastik-Behälter auf. Frischer Brei, ohne Zusatzstoffe ist leckerer, gesünder und besser für dein Kind, weil du immer genau weißt, was an Zutaten drin ist.

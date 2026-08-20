@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Hochgradig witterungs- und UV-beständig
 - Zuverlässiger Schutz vor Rostbefall
 - Hohe Schlag- und Kratzfestigkeit
-- Hochgradig witterungs- und UV-beständig
 - Direkt auf Rost, 3in1
 - Schnell trocknend
 

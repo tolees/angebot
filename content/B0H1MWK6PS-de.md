@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Glass Programm: Mit diesem speziell entwickelten Glasprogramm schonen Gorenje Geschirrspüler Gläser. Durch die niedrigere Spültemperatur ist es sogar für Kristallgläser geeignet.
-- Selbstreinigender Filter: Die Kombination aus Spülsystem und automatischem Filterverstopfungsschutz sorgt dafür, dass der Filter einwandfrei funktioniert und deutlich weniger Wartung erfordert.
-- Warmwasseranschluss: Gorenje-Geschirrspüler können auch an Warmwasser (max. 60 °C) statt an Kaltwasser angeschlossen werden. Die Wahl des Warmwasseranschlusses verkürzt die Programmzeiten und reduziert den Stromverbrauch des Geschirrspülers. Eine umwelt- und budgetschonende Lösung für jede Familie.
 - MultiClack: Das wirklich einfache zweistufige Korbverstellsystem ermöglicht es einem, selbst die größten Töpfe und Teller unterzubringen. Passe den Innenraum deines Geschirrspülers vollständig an deine aktuellen Bedürfnisse an.
+- Warmwasseranschluss: Gorenje-Geschirrspüler können auch an Warmwasser (max. 60 °C) statt an Kaltwasser angeschlossen werden. Die Wahl des Warmwasseranschlusses verkürzt die Programmzeiten und reduziert den Stromverbrauch des Geschirrspülers. Eine umwelt- und budgetschonende Lösung für jede Familie.
+- Selbstreinigender Filter: Die Kombination aus Spülsystem und automatischem Filterverstopfungsschutz sorgt dafür, dass der Filter einwandfrei funktioniert und deutlich weniger Wartung erfordert.
+- Glass Programm: Mit diesem speziell entwickelten Glasprogramm schonen Gorenje Geschirrspüler Gläser. Durch die niedrigere Spültemperatur ist es sogar für Kristallgläser geeignet.
 - 15min Schnellwaschgang: Stelle dir vor, du gibst eine Dinnerparty und das Geschirr des Hauptgangs ist in der Zeit gereinigt, in der du das Dessert servierst. Wenn du das Ein-Stunden-Programm zusammen mit der SpeedWash-Funktion wählst, spülen die Gorenje Geschirrspüler dein Geschirr in nur 15 Minuten. Perfekt, um die Menge an Geschirr zu bewältigen, die entsteht, wenn mehrere Gäste im Haus sind.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flexibel einsetzbar: Individuell so zusammenstecken, wie es benötigt wird - einfaches Anbringen und Austauschen
-- Mini Polsterdüse: gründliche und effiziente Reinigung von Sofas und Polstermöbeln
-- Lange Fugendüse: Reinigung in Zwischenräumen und an engen Stellen, Ritzen und Fugen - Überkopfreinigung hoher Räume, Entfernung von Spinnenweben
 - Flexibler Saugschlauch: ca. 50 cm lang - müheloses Erreichen schwer zugänglicher Stellen
 - Praktischer Lieferumfang: 1x flexibler Saugschlauch 50 cm, 1x lange Fugendüse, 1x Polsterdüse, 1x Adapter von Ergorapido auf Rapido, 1x Aufbewahrungsbox // Passend für: alle Rapido, Ergorapido, CX7, HX6 & QX8 Modelle
+- Flexibel einsetzbar: Individuell so zusammenstecken, wie es benötigt wird - einfaches Anbringen und Austauschen
+- Lange Fugendüse: Reinigung in Zwischenräumen und an engen Stellen, Ritzen und Fugen - Überkopfreinigung hoher Räume, Entfernung von Spinnenweben
+- Mini Polsterdüse: gründliche und effiziente Reinigung von Sofas und Polstermöbeln
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01M15KS4E{{</world>}}

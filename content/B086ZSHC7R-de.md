@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - KI bereit: Nutzt die Fähigkeiten der drei KI-Engines der Intel Core Ultra Prozessoren für hohen Durchsatz, geringen Stromverbrauch und schnelle Reaktion
 - Verwaltbarkeit: Der umfassendste Mini-PC mit Intel vPro Enterprise für außergewöhnliche Sicherheit, Verwaltbarkeit und Stabilität
-- Leistung: Führende Leistung unter vergleichbaren Mini-PC-Angeboten
 - Wi-Fi-Sensorik: Nutzt die Vorteile der Wi-Fi-Sensorik für sofortige Verfügbarkeit bei gleichzeitiger Reduzierung des Stromverbrauchs
+- Leistung: Führende Leistung unter vergleichbaren Mini-PC-Angeboten
 - Drahtlose Konnektivität: Bietet nahtlose Konnektivität für reibunglose Bluetooth Verbindungen ohne Dongle
 
 [🛒 Hier!!]({{< param buyurl >}})

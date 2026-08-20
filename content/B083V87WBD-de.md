@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Herren Schwimmanzug
-- nike Sportbekleidung
 - 5 Volley kurz (Nessa566-001)
+- nike Sportbekleidung
+- Herren Schwimmanzug
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B083V87WBD{{</world>}}

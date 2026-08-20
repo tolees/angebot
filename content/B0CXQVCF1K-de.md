@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Viertelreißverschluss
 - Gestricktes Gewebe
+- Viertelreißverschluss
 - Locker geschnitten
 
 [🛒 Hier!!]({{< param buyurl >}})

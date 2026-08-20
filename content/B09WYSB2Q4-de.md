@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lange Metallspitze, ideal für Lineale und Schablonen, z.B. Mars 572 FL
+- PP-Schaft garantiert lange Lebensdauer; CAP OFF - kann mindestens 12 Stunden offen liegen, ohne einzutrocknen
 - Lieferumfang: 7 pigment liner schwarz in sortierten Linienbreiten (0,05/0,1/0,2/0,3/0,5/0,8/0,3-2,0mm) + 3 bunte pigment liner 0,3 mm (rot, grün, blau)
 - Pigmenttinte, dokumentenecht (in Anlehnung an ISO 14145-2), lichtbeständig, wasserfest auf Papier
-- PP-Schaft garantiert lange Lebensdauer; CAP OFF - kann mindestens 12 Stunden offen liegen, ohne einzutrocknen
 - Fineliner zum Schreiben, Skizzieren und Zeichnen. Radierbar auf Zeichenpapier, überstreichbar ohne auszubluten
+- Lange Metallspitze, ideal für Lineale und Schablonen, z.B. Mars 572 FL
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09WYSB2Q4{{</world>}}

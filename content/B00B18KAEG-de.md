@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochwertige Gleitringdichtung für dauerhaften Betrieb
 - Robustes Kunststoffgehäuse ausgelegt für Fremdkörper bis 35 mm Durchmesser
-- Integrierte Kabelaufwicklung am Gehäuse
-- Starke 780 Watt Leistung zum Pumpen von bis zu 15.700 Litern pro Stunde aus 7 m Tiefe
+- Hochwertige Gleitringdichtung für dauerhaften Betrieb
 - Die Pumpe mit starker Leistung für gründliches Abpumpen von Schmutzwasser aus Teichen, Baugruben, Kellerräumen und für die Regenwassernutzung
+- Starke 780 Watt Leistung zum Pumpen von bis zu 15.700 Litern pro Stunde aus 7 m Tiefe
+- Integrierte Kabelaufwicklung am Gehäuse
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00B18KAEG{{</world>}}

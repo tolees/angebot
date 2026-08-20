@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100W Laptop-Power mit integriertem Kabel: Lädt Ihr MacBook Pro 16″ in 30 Min. von 0% auf 43%. Volle Leistung ohne Zubehör – das feste USB-C-Kabel ist sofort einsatzbereit.
-- 20.000 mAh Ultra-Hochkapazität: Lädt Ihr Smartphone während Geschäftsreisen und kurzen Pausen 3 bis 4 Mal vollständig auf.
-- Sanftes Laden & 21700-Batterien: Schont Kopfhörer via Trickle-Modus. Professionelle Schaltkreise für langjährige Zuverlässigkeit.
 - 80W Turbo-Nachladung mit Durchgangsbetrieb: Voll in 1,5 Std. (80W). Lädt Ihre Geräte weiter während des Eigenladens – löst Steckdosenprobleme.
+- 100W Laptop-Power mit integriertem Kabel: Lädt Ihr MacBook Pro 16″ in 30 Min. von 0% auf 43%. Volle Leistung ohne Zubehör – das feste USB-C-Kabel ist sofort einsatzbereit.
 - 145W Multi-Device-Lösung: Festes C-Kabel + USB-C-Port parallel nutzbar. Laden Sie Laptop und Smartphone gleichzeitig im Zug oder Flugzeug.
+- Sanftes Laden & 21700-Batterien: Schont Kopfhörer via Trickle-Modus. Professionelle Schaltkreise für langjährige Zuverlässigkeit.
+- 20.000 mAh Ultra-Hochkapazität: Lädt Ihr Smartphone während Geschäftsreisen und kurzen Pausen 3 bis 4 Mal vollständig auf.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DSPVP337{{</world>}}

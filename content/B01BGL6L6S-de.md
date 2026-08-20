@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Very samll, very light
 - Easy to carry, you can put it on a keychain
+- Very samll, very light
 - Up to 120 decibel
 - Upgraded high quality material, very strong
 

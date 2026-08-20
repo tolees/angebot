@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gummi Laufsohle für außergewöhnliche Griffe
-- Höhe: 6 cm
-- Ortholite Innersohle für Polsterung und Atmungsaktivität
 - Global Recycled Standard-Zertifizierung
+- Höhe: 6 cm
+- Gummi Laufsohle für außergewöhnliche Griffe
+- Ortholite Innersohle für Polsterung und Atmungsaktivität
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B1F6MCR3{{</world>}}

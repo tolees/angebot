@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Männer Jeans mit ausgestelltem Bein und dreieckigem Einsatz
 - Aus Baumwolle
+- Männer Jeans mit ausgestelltem Bein und dreieckigem Einsatz
 - Regular Fit
 - Aufgesetzte Gesäßtaschen und Seitentaschen
 

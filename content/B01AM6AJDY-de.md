@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der LED-Ring ändert seine Farbe entsprechend dem Ein / Aus-Status oder dem Energieverbrauch. Zeigt den Energieverbrauch in kWh oder Watt auf 99 Prozent genau an. Der USB-Anschluss (1,5 A) an der Seite des Switch lädt USB-Geräte auf. unglaublich dünn bei 0,35 "" in der Tiefe.
-- Getestet, um mit Z-Wave-Gateways einschließlich Fibaro, Home Assistant, Oomi, openHAB, Piper, SmartThings, Vera und Wink zu arbeiten. Z-Wave Plus für breite Kompatibilität zertifiziert; Arbeitsbereich: 868.40MHz Das / die Produkt (e) ist mit der CE-Kennzeichnung versehen.
-- Z-Wave Plus Smart Plug mit Echtzeit-Energiemessung und Überspannungsschutz.
 - Wireless Ein / Aus-Steuerung, Zeitplan, USB-Anschluss zum Aufladen Ihres Smartphones oder Tablets.
 - Z-Wave Plus zertifiziert. Zertifizierungsnummer: ZC10-15080004.
+- Getestet, um mit Z-Wave-Gateways einschließlich Fibaro, Home Assistant, Oomi, openHAB, Piper, SmartThings, Vera und Wink zu arbeiten. Z-Wave Plus für breite Kompatibilität zertifiziert; Arbeitsbereich: 868.40MHz Das / die Produkt (e) ist mit der CE-Kennzeichnung versehen.
+- Der LED-Ring ändert seine Farbe entsprechend dem Ein / Aus-Status oder dem Energieverbrauch. Zeigt den Energieverbrauch in kWh oder Watt auf 99 Prozent genau an. Der USB-Anschluss (1,5 A) an der Seite des Switch lädt USB-Geräte auf. unglaublich dünn bei 0,35 "" in der Tiefe.
+- Z-Wave Plus Smart Plug mit Echtzeit-Energiemessung und Überspannungsschutz.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01AM6AJDY{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PROFESSIONAL HAIR CARE: Die Wella Professionals Elements Haarpflege für kaputtes Haar mit natürlichen Inhaltsstoffen für empfindliche Kopfhaut und Haare bietet Salon-Qualität für zu Hause.
-- INHALT: 250 ml Wella Shampoo ohne Silikone und Sulfate aus der Elements Reihe, natürliche Haarpflege für trockene und empfindliche Kopfhaut
-- ANWENDUNG: Das Feuchtigkeitsshampoo auftragen, aufschäumen und gründlich ausspülen. Da die Formel sulfat- und silikonfrei ist, eignet sich das Shampoo mit beruhigender und revitalisierender Wirkung auch für empfindliche und trockene Kopfhaut.
 - MILDES TIEFENREINIGUNGSSHAMPOO: Angereichert mit Aloe Vera und Vitamin E schützt das Wella Shampoo das Haar vor freien Radikalen und Schädigungen. Olivenessenz sorgt für Glanz und Geschmeidigkeit.
+- ANWENDUNG: Das Feuchtigkeitsshampoo auftragen, aufschäumen und gründlich ausspülen. Da die Formel sulfat- und silikonfrei ist, eignet sich das Shampoo mit beruhigender und revitalisierender Wirkung auch für empfindliche und trockene Kopfhaut.
+- INHALT: 250 ml Wella Shampoo ohne Silikone und Sulfate aus der Elements Reihe, natürliche Haarpflege für trockene und empfindliche Kopfhaut
+- PROFESSIONAL HAIR CARE: Die Wella Professionals Elements Haarpflege für kaputtes Haar mit natürlichen Inhaltsstoffen für empfindliche Kopfhaut und Haare bietet Salon-Qualität für zu Hause.
 - NATÜRLICHE HAARPFLEGE: Elements ist die sanfte & natürliche Haarpflege Linie von Wella Professionals, die bis zu 99 % aus Inhaltsstoffen natürlichen Ursprungs besteht und ohne Silikone, ohne Sulfate und ohne tierische Inhaltsstoffe hergestellt wird.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

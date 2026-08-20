@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Effiziente, geräuscharme Pumpe – Sorgt für eine hohe Durchflussrate des Kühlmittels und ist dabei mit nur 20 dBA flüsterleise
-- RS120-Lüfter – RS-Lüfter mit hohem statischem Druck drücken die Luft effizient durch den Radiator, während die CORSAIR AirGuide-Technologie und Magnetic-Dome-Lager für eine starke Kühlung bei geringer Geräuschentwicklung sorgen
 - Einfache, fokussierte CPU-Kühlung – Die leistungsstarke, geräuscharme Leistung sorgt dafür, dass Ihre CPU ihr volles Potenzial ausschöpft, während ein anpassbarer LCD-Bildschirm Ihrem System einen Hauch von Stil verleiht
+- RS120-Lüfter – RS-Lüfter mit hohem statischem Druck drücken die Luft effizient durch den Radiator, während die CORSAIR AirGuide-Technologie und Magnetic-Dome-Lager für eine starke Kühlung bei geringer Geräuschentwicklung sorgen
 - Konvexe Kühlplatte mit vorapplizierter Wärmeleitpaste – Das leicht konvexe Design sorgt für maximalen Kontakt mit dem integrierten Wärmespreizer der CPU, während vorapplizierte Wärmeleitpaste die Installation beschleunigt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

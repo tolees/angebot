@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EAN: 5099206077850
 - Herstellernummer: 910-005292
+- EAN: 5099206077850
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07CGNP3RH{{</world>}}

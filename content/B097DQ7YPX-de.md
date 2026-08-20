@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Maximale Sichtbarkeit: grüne Lasertechnologie für hohe Sichtbarkeit sogar bei hellen Lichtverhältnissen
-- Flexible Positionierung: mit der Universalklemme MM 2 und der Adapterplatte aus 95 % recyceltem Kunststoff
 - Genaue Ergebnisse: für präzises Nivellieren innerhalb einer Abweichung von +/- 0,6 mm/m und einem Arbeitsbereich von bis zu 12 m
-- Nachhaltigkeit: Das Produktgehäuse besteht zu 85 % aus recyceltem Kunststoff, die Verpackung ist kunststofffrei und der Laser hat einen geringeren Energieverbrauch im Vergleich zur ersten Generation des Quigo Green.
 - zzgl. einsatzabhängiger Abweichung
+- Nachhaltigkeit: Das Produktgehäuse besteht zu 85 % aus recyceltem Kunststoff, die Verpackung ist kunststofffrei und der Laser hat einen geringeren Energieverbrauch im Vergleich zur ersten Generation des Quigo Green.
+- Flexible Positionierung: mit der Universalklemme MM 2 und der Adapterplatte aus 95 % recyceltem Kunststoff
+- Maximale Sichtbarkeit: grüne Lasertechnologie für hohe Sichtbarkeit sogar bei hellen Lichtverhältnissen
 - Lieferumfang: Quigo Green, Universalklemme MM 2, Adapterplatte, 2 x 1,5-V-Batterien (AAA), Kartonschachtel
 
 [🛒 Hier!!]({{< param buyurl >}})

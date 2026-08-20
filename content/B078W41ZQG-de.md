@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spart Zeit: Der HSS-Spiralbohrer PointTeQ ermöglicht schnelles Bohren in Metall aufgrund des speziellen Designs an der Bohrspitze
-- Präzise Arbeit: Schnelles und einfaches Anbohren ist möglich, da die selbstzentrierende Spitze Wandern verhindert
-- Kompatibilität: Passend für alle Bohrschrauber und Tischbohrmaschinen für Durchgangs- und Zentrierlöcher in legiertem und unlegiertem Stahl, in Nichteisenmetalle, Gussstahl, Gusseisen und Kunststoff
-- Lieferumfang: je 1 x Ø 1,0 / 1,5 / 2,0 / 2,5/ 3,0 / 3,5 / 4,0 / 4,5 / 5,0 / 5,5 / 6,0 / 6,5 / 7,0 / 7,5 / 8,0 / 8,5 / 9,0 / 9,5 / 10,0 mm
 - Hohe Langlebigkeit: Aufgrund der erhöhten Bohrgeschwindigkeit werden weniger Hitze und dadurch Verschleiß erzeugt
+- Präzise Arbeit: Schnelles und einfaches Anbohren ist möglich, da die selbstzentrierende Spitze Wandern verhindert
+- Spart Zeit: Der HSS-Spiralbohrer PointTeQ ermöglicht schnelles Bohren in Metall aufgrund des speziellen Designs an der Bohrspitze
+- Lieferumfang: je 1 x Ø 1,0 / 1,5 / 2,0 / 2,5/ 3,0 / 3,5 / 4,0 / 4,5 / 5,0 / 5,5 / 6,0 / 6,5 / 7,0 / 7,5 / 8,0 / 8,5 / 9,0 / 9,5 / 10,0 mm
+- Kompatibilität: Passend für alle Bohrschrauber und Tischbohrmaschinen für Durchgangs- und Zentrierlöcher in legiertem und unlegiertem Stahl, in Nichteisenmetalle, Gussstahl, Gusseisen und Kunststoff
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B078W41ZQG{{</world>}}

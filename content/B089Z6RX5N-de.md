@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - PUMA No. 1 Logo vorne
+- Gerippter Rundhalsausschnitt
+- Recycelter Polyester und Baumwolle
 - Normale Passform
 - Aus recycelten Materialien: hergestellt aus Recyclingfasern für einen geringeren ökologischen Footprint
-- Recycelter Polyester und Baumwolle
-- Gerippter Rundhalsausschnitt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B089Z6RX5N{{</world>}}

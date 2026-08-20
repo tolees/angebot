@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Doppelrollen für komfortable Leichtgängigkeit
-- Leicht und widerstandsfähig zugleich: Schalen aus Polypropylen
 - Maximales Packvolumen dank Erweiterungsfunktion
+- Leicht und widerstandsfähig zugleich: Schalen aus Polypropylen
 - Integriertes 3-stelliges TSA-Zahlenschloss für zusätzliche Sicherheit
 - Erster Reißverschlusskoffer aus Polypropylen von American Tourister, der erweiterbar ist
 

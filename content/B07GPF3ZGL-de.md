@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lockere Passform.
 - Air-Cooled Memory Foam.
+- Lockere Passform.
 - Goga Mat-Fußrücken.
 - Streetwear.
 

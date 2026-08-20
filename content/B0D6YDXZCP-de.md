@@ -31,8 +31,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - 10mm Treiber zur Schalldämmung, um die Privatsphäre über 25cm* hinaus zu wahren
 - Bis zu 38,5 Stunden erweiterte Akkulaufzeit mit Ladeetui
 - Hi-Res Audio mit 17x12mm dynamischem Treiber und optimierter Bassleistung, LHDC
-- Dual-Mikrofon mit AI-Rauschunterdrückung für klare Anrufe
 - Offene Ohrmuschel für ganztägigen Tragekomfort und sicheren Sitz
+- Dual-Mikrofon mit AI-Rauschunterdrückung für klare Anrufe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D6YDXZCP{{</world>}}

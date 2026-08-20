@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Besonders geeignet für Landschafts-, Hochzeits- und Reisefotografen
+- Ultraweitwinkel-Zoom-Objektiv für Vollformatkameras
+- Überragende Bildqualität
 - Hochwertige Vergütung
 - Leichtes, kompaktes Gehäuse
-- Überragende Bildqualität
-- Ultraweitwinkel-Zoom-Objektiv für Vollformatkameras
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B2ZKD5NM{{</world>}}

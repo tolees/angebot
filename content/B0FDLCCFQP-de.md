@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- KOMPAKTES FORMAT: Der SoundLink Micro Lautsprecher – entwickelt für grenzenlose Mobilität. Dank Taschenformat und praktischer Schlaufe kann der kleine Bluetooth-Lautsprecher an der Tasche befestigt, hineingesteckt oder aus der Hand abspielt werden.
 - BIS ZU 12 STUNDEN AKKULAUFZEIT FÜR LÄNGEREN MUSIKGENUSS: Dank doppelt so langer Akkulaufzeit wie beim originalen SoundLink Micro genießen Sie bis zu 12 Stunden unterbrechungsfreien Musikgenuss.
-- STEUERN SIE IHRE MUSIK: Die anpassbaren EQ-Einstellungen in der Bose App erlauben es, Bass, Höhen und Mitten ganz nach Vorliebe einzustellen. Über die App können Sie die Lautstärke regeln, Shortcuts erstellen und zwei kompatible Bose Produkte verbinden.
-- ROBUSTES DESIGN: Das robuste Design im Taschenformat macht den tragbaren SoundLink Micro (2. Gen.) besonders widerstandsfähig. Der kleine Lautsprecher ist staub- & wasserdicht (Schutzart IP67) sowie stoß- & rostresistent – und spielt bei jedem Wetter.
 - LAUTSPRECHER VERBINDEN: Für besten Surround-Sound zwei SoundLink Micro Lautsprecher (2. Gen.) koppeln. Stereo Mode: Sorgt für eine ausgewogene Wiedergabe aus den Lautsprechern. Party Mode: Die gekoppelten Bluetooth-Lautsprecher spielen den selben Sound.
+- KOMPAKTES FORMAT: Der SoundLink Micro Lautsprecher – entwickelt für grenzenlose Mobilität. Dank Taschenformat und praktischer Schlaufe kann der kleine Bluetooth-Lautsprecher an der Tasche befestigt, hineingesteckt oder aus der Hand abspielt werden.
 - ÜBERRASCHEND KRAFTVOLLER SOUND: Kristallklarer Sound und kraftvoller Bass – der kabellose Mini-Lautsprecher SoundLink Micro durchbricht jede Stille und bringt Menschen zusammen.
+- ROBUSTES DESIGN: Das robuste Design im Taschenformat macht den tragbaren SoundLink Micro (2. Gen.) besonders widerstandsfähig. Der kleine Lautsprecher ist staub- & wasserdicht (Schutzart IP67) sowie stoß- & rostresistent – und spielt bei jedem Wetter.
+- STEUERN SIE IHRE MUSIK: Die anpassbaren EQ-Einstellungen in der Bose App erlauben es, Bass, Höhen und Mitten ganz nach Vorliebe einzustellen. Über die App können Sie die Lautstärke regeln, Shortcuts erstellen und zwei kompatible Bose Produkte verbinden.
 - VERBESSERTE BLUETOOTH-VERBINDUNG: Mit einer Reichweite von bis zu neun Metern und einer höheren Bandbreite bietet die optimierte Bluetooth-Technologie eine zuverlässigere Verbindung als frühere Versionen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

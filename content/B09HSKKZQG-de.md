@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Schiebegriff des Puppenwagens ist 57 cm hoch
-- Geeignet für Puppen bis zu einer Größe von 52 cm
 - Flach und einfach zusammenklappbar
+- Geeignet für Puppen bis zu einer Größe von 52 cm
+- Der Schiebegriff des Puppenwagens ist 57 cm hoch
 - Attraktiver Puppenbuggy für die jüngsten Puppenmuttis
 - Mit modernen Soft-Griffen und Anschnallgurt
 

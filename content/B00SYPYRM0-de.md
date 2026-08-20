@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Kopf und die Gliedmaßen der Figur sind drei dimensional beweglich
-- Erhältlich ist der Mann im Maßstab 1:16
 - Der Mann mit hellem Hauttyp und blauer Hose ist die optimale Ergänzung zu Ihrem bruder Fahrzeug
-- Die Hände können Gegenstände greifen oder sich an Fahrzeugen festhalten
+- Erhältlich ist der Mann im Maßstab 1:16
 - Hergestellt ist die Figur aus hochwertigen Kunststoffen wie zum Beispiel ABS
+- Der Kopf und die Gliedmaßen der Figur sind drei dimensional beweglich
+- Die Hände können Gegenstände greifen oder sich an Fahrzeugen festhalten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00SYPYRM0{{</world>}}

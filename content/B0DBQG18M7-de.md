@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für Mischtechniken, zum Schattieren und Kolorieren
 - Die weiche, samtige Textur lässt sich leicht mit dem Finger auftragen und verblenden
+- Für Mischtechniken, zum Schattieren und Kolorieren
+- Mit Papiermanschette für saubere Hände
 - Feine Ölpastellkreiden in 38 brillanten Farben, 6 Metallic-Farben und 6 Neon-Farben
 - Lichtechte, wassfeste Ölpastellkreiden, anlösbar mit Terpentin
-- Mit Papiermanschette für saubere Hände
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DBQG18M7{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erhältlich in H7, H4, H11 mit Goldkappe. Premium-Qualität, hergestellt in Deutschland
-- Bis zu 220% mehr Helligkeit für mehr Fahrsicherheit durch bessere Straßenbeleuchtung (Im Vergleich zu den Mindestanforderungen der ECE R112/R37).
-- Bis zu 20 % weißeres Licht (Im Vergleich zu den Mindestanforderungen der ECE R98/R99)
 - Bis zu 150 m langer Lichtkegel für bessere Sicht, um Hindernisse und Gefahren früher zu erkennen. Mehr Licht ermöglicht es, weiter zu sehen und deshalb früher zu reagieren im Vergleich zu den gesetzlichen Mindestanforderungen
 - OSRAM NIGHT BREAKER 220: Das hellste OSRAM-Halogenlicht. Das Modell ist nicht universell kompatibel. Prüfen Sie vor dem Kauf die aktuelle Kompatibilitätsliste und weitere rechtliche Hinweise auf osram.de. Folgen Sie bitte dem dort beschriebenen Vorgehen vor und nach dem Einbau.
+- Bis zu 220% mehr Helligkeit für mehr Fahrsicherheit durch bessere Straßenbeleuchtung (Im Vergleich zu den Mindestanforderungen der ECE R112/R37).
+- Erhältlich in H7, H4, H11 mit Goldkappe. Premium-Qualität, hergestellt in Deutschland
+- Bis zu 20 % weißeres Licht (Im Vergleich zu den Mindestanforderungen der ECE R98/R99)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D4QSM4CL{{</world>}}

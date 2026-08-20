@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- für maximale Stabilität
-- Knöchelstützsystem
 - Wasserdichte CLIMAPROTECT-Membran
+- Knöchelstützsystem
 - Ortholite-Einlegesohle mit Verstärkung aus EVA
+- für maximale Stabilität
 - Schutzband aus abriebfestem Stoff
 - TPU-Rücksohle
 

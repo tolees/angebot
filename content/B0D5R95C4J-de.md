@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Maße: 54 cm x 28 cm x 20 cm
 - Die am Schulterträger integrierten Taschen und die Hüftflossentaschen bieten ausreichend Platz für Flask, Riegel, Smartphone oder GPS-Gerät. Eine Schnellfixierung für Stöcke über elastische Schlaufen am Schulterträger ermöglicht einen schnellen und unkomplizierten Zugriff, ohne dass der Rucksack abgenommen werden muss. So bleibt man stets in Bewegung.
-- Die breiten, ergonomisch geformten und stark durchlüfteten Schulterträger, die anschmiegsamen Hüftflossen sowie der stufenlos verstellbare Brustgurt mit weicher Aufnahme sorgen für einen körpernahen und stabilen Sitz der Last und die Verteilung des Gewichts auf Hüfte und Schultern. Der Druck auf den Schultern wird so vermindert und der Rücken entlastet.
-- Aufgrund seiner Bauweise, des Einsatzes von besonders leichtem Material, der auf das Wesentliche reduzierten Features und des LiteAir-Rückensystems übertrumpft der neue Speed Lite Pro seinen Vorgänger an Leichtigkeit. So verbraucht man weniger Energie beim Tragen und hat mehr davon für die Strecke.
 - Im Inneren des leichten Wanderrucksacks findet ein Trinksystem mit bis zu 3L Platz. Dank der Billenhalterung, des Schlüsselclips und der Seitentaschen finden sind Wertsachen und Ausrüstung jederzeit sicher verstaut.
+- Die breiten, ergonomisch geformten und stark durchlüfteten Schulterträger, die anschmiegsamen Hüftflossen sowie der stufenlos verstellbare Brustgurt mit weicher Aufnahme sorgen für einen körpernahen und stabilen Sitz der Last und die Verteilung des Gewichts auf Hüfte und Schultern. Der Druck auf den Schultern wird so vermindert und der Rücken entlastet.
+- Maße: 54 cm x 28 cm x 20 cm
+- Aufgrund seiner Bauweise, des Einsatzes von besonders leichtem Material, der auf das Wesentliche reduzierten Features und des LiteAir-Rückensystems übertrumpft der neue Speed Lite Pro seinen Vorgänger an Leichtigkeit. So verbraucht man weniger Energie beim Tragen und hat mehr davon für die Strecke.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D5R95C4J{{</world>}}

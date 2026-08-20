@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- beide Riegel greifen fest in die mit dem Mauerwerk verankerten Schließkästen ein
-- sichert die Tür über die gesamte Breite
-- Abziehstellung des Schlüssels einstellbar
-- Sicherung über die ganze Türbreite: ein Schloss für den Schutz der Öffnungs- und der Scharnierseite
-- VdS-anerkannt, DIN-geprüft: Geprüfte und bestätigte Sicherheit
-- für alle Türen aus Holz, Metall und Kunststoff
 - Beide Riegel greifen fest in die mit dem Mauerwerk verankerten Schließkästen ein
+- Abziehstellung des Schlüssels einstellbar
 - zweitourig schließend, mit VdS-Klasse-B-Zylinder V410 und integriertem Ziehschutz für den Zylinder
+- sichert die Tür über die gesamte Breite
+- für alle Türen aus Holz, Metall und Kunststoff
+- beide Riegel greifen fest in die mit dem Mauerwerk verankerten Schließkästen ein
+- VdS-anerkannt, DIN-geprüft: Geprüfte und bestätigte Sicherheit
+- Sicherung über die ganze Türbreite: ein Schloss für den Schutz der Öffnungs- und der Scharnierseite
 - geeignet für Türen DIN rechts und DIN links, Bedienung von innen und außen mit Schlüssel
 - Der Zylinder kann ausgetauscht werden, um das Schloss in Schließanlagen zu integrieren
 

@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Spieleranzahl: 1-8
-- Spieldauer: 10-15 Minuten
 - Familienspiel ab 8 Jahren
-- Erweiterung für Magic Maze
 - Neue Herausforderungen durch geheime Verräterrollen und Aufträge
+- Erweiterung für Magic Maze
+- Spieldauer: 10-15 Minuten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07RWKH2B9{{</world>}}

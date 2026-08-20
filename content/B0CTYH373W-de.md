@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 5-stufiger Mahlgrad: Mit flüsterleisem Stahl-Kegel-Mahlwerk mahlt die Melitta Kaffeemaschine besonders geräuscharm und der Mahlgrad lässt sich individuell einstellen
 - Dein Lieblingskaffee: Neben 10 voreingestellten Kaffeerezepten kann der Kaffeeautomat auch individuelle Vorlieben von bis zu vier Personen abspeichern und zubereiten
 - Bester Kaffeegenuss: Unser Vollautomat sorgt für die perfekte Entfaltung der Kaffeearomen und die Kaffeestärke lässt sich in 4 Stufen individuell einstellen
 - 2-Kammern-Bohnenbehälter: Dank des 2-Kammern-Bohnenbehälters mit Manual Bean Select kannst Du bequem zwischen zwei verschiedenen Sorten Kaffeebohnen wählen
+- 5-stufiger Mahlgrad: Mit flüsterleisem Stahl-Kegel-Mahlwerk mahlt die Melitta Kaffeemaschine besonders geräuscharm und der Mahlgrad lässt sich individuell einstellen
 - Gemeinsam genießen: Die Latte Macchiato Maschine kann dank Double Cup Mode sogar zwei Kaffee-Spezialitäten gleichzeitig zubereiten, wahlweise mit oder ohne Milch
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die feine Rundspitze gleitet mühelos über das Papier; ideal für angenehmes und müheloses Schreiben, Zeichnen und Ausmalen; für Kinder und Erwachsene
-- Die edding Fasermaler sind in 30 Farben erhältlich; sehr gut kombinierbar mit dem edding 55, edding 1300 und edding 1340
-- Dünner Filzstift in leuchtenden Farben für helles Papier; die wasserbasierte Tinte schlägt nicht durch das Papier durch
 - Einfache und saubere Anwendung für spontane Kreativität bei Bullet Journals, Mandalas oder Hand-Lettering; Filzstifte für die Schule oder in der Freizeit
+- Die edding Fasermaler sind in 30 Farben erhältlich; sehr gut kombinierbar mit dem edding 55, edding 1300 und edding 1340
+- Die feine Rundspitze gleitet mühelos über das Papier; ideal für angenehmes und müheloses Schreiben, Zeichnen und Ausmalen; für Kinder und Erwachsene
 - Das Set enthält 6 Fasermaler in pastell - apfelsorbet (grün), süße Minze (grün), honigmelone (gelb) , kirschblüte (rot), beerig lavendel (lila) und silbergrau
+- Dünner Filzstift in leuchtenden Farben für helles Papier; die wasserbasierte Tinte schlägt nicht durch das Papier durch
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07RRXCRMG{{</world>}}

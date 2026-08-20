@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Smart DAC Chip für klaren Klang beim Musikhören】 Der integrierte DAC Chip wandelt digitale Audiosignale stabil in analoge Signale um und sorgt für klare, ausgewogene Audiowiedergabe beim Abspielen von Musik, Podcasts, Hörbüchern oder Navigationsansagen.
-- 【Wichtige Hinweise zur Nutzung】 Der 3 polige TRS 3,5 mm Stecker unterstützt nur Audioausgabe. Mikrofonfunktion, Inline Fernbedienung, Anrufannahme und Lautstärkeregelung am Headset werden nicht unterstützt. Das Kabel ist nicht bidirektional und unterstützt kein Laden, keine Videoausgabe und keine AirPods Max.
 - 【USB C auf 3,5 mm AUX für Auto und Lautsprecher】 Verbinden Sie Ihr Smartphone, Tablet oder Laptop mit USB C Anschluss direkt mit Autoradio, tragbaren Lautsprechern, Kopfhörern oder einer HiFi Anlage. Ideal für Musik im Auto, zu Hause, im Büro oder unterwegs.
-- 【Breite Kompatibilität mit USB C Geräten】 Kompatibel mit vielen Geräten mit USB C Audioausgabe, darunter iPhone 15 16 17 Serie, iPad, MacBook, Samsung Galaxy S und Note Serie, Google Pixel sowie weitere USB C Smartphones, Tablets und Laptops mit Audiounterstützung.
+- 【Wichtige Hinweise zur Nutzung】 Der 3 polige TRS 3,5 mm Stecker unterstützt nur Audioausgabe. Mikrofonfunktion, Inline Fernbedienung, Anrufannahme und Lautstärkeregelung am Headset werden nicht unterstützt. Das Kabel ist nicht bidirektional und unterstützt kein Laden, keine Videoausgabe und keine AirPods Max.
 - 【Für Alltag, Auto und Reisen geeignet】 Praktisch für ältere Autoradios mit AUX Eingang, Lautsprecher ohne Bluetooth, kabelgebundene 3,5 mm Kopfhörer oder Audioanlagen zu Hause. Eine einfache Lösung, wenn Ihr USB C Gerät keinen separaten Kopfhöreranschluss hat.
+- 【Breite Kompatibilität mit USB C Geräten】 Kompatibel mit vielen Geräten mit USB C Audioausgabe, darunter iPhone 15 16 17 Serie, iPad, MacBook, Samsung Galaxy S und Note Serie, Google Pixel sowie weitere USB C Smartphones, Tablets und Laptops mit Audiounterstützung.
+- 【Smart DAC Chip für klaren Klang beim Musikhören】 Der integrierte DAC Chip wandelt digitale Audiosignale stabil in analoge Signale um und sorgt für klare, ausgewogene Audiowiedergabe beim Abspielen von Musik, Podcasts, Hörbüchern oder Navigationsansagen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08JGTMCD6{{</world>}}

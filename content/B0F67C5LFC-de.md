@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Directors Cut-Inhalte geben mit noch nie zuvor gesehenen Filmszenen einen tieferen Einblick in zentrale Ereignisse + Hintergrundgeschichten
 - Jeder kann aufregende Schläger-Action mit einer einfach zu erlernenden Steuerung und einer großen Fülle an Fähigkeiten genießen
-- Kiryu und Majima haben jeweils drei einzigartige Kampfstile, zwischen denen dynamisch gewechselt werden kann
 - Kämpfe dich als Yakuza Kazuma Kiryu und Hostessen-Club-Manager Goro Majima quer durch die Vergnügungsviertel von Tokio und Osaka
+- Directors Cut-Inhalte geben mit noch nie zuvor gesehenen Filmszenen einen tieferen Einblick in zentrale Ereignisse + Hintergrundgeschichten
+- Kiryu und Majima haben jeweils drei einzigartige Kampfstile, zwischen denen dynamisch gewechselt werden kann
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0F67C5LFC{{</world>}}

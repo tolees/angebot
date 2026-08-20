@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - LONDONS WAHRZEICHEN - Kinder werden es lieben, diese Replik des weltberühmten Wahrzeichens Londons zusammenzubauen, während Eltern die leicht verständliche Anleitung zu schätzen wissen. Keine Werkzeuge oder Erfahrung erforderlich
 - TOWER BRIDGE - Diese imposante Brücke ist ein Muss für jeden London-Besucher! Jetzt können Sie mit diesem einfach zu bedienenden 3D-Puzzle Ihre eigene Nachbildung zusammen bauen.
-- ANSPRUCHSVOLL UND LOHNENSWERT- Dieses Puzzle ist für jedes Alter geeignet und bietet von wenigen Minuten bis zu einigen Stunden Bastelspaß. Das fertige Produkt ist beeindruckende 11 cm hoch und 32,5 cm breit
 - REVELL 3D PUZZLE - Weltberühmte Gebäude, imposante Skylines oder legendäre Fahrzeuge lassen sich mit den einfach zu handhabenden 3D Puzzles von Revell als dreidimensionale Modelle für jedermann zusammenbauen. Die präzise gestanzten Schaumstoffteile machen den Zusammenbau einfach - es werden weder Klebstoff noch Werkzeug benötigt
+- ANSPRUCHSVOLL UND LOHNENSWERT- Dieses Puzzle ist für jedes Alter geeignet und bietet von wenigen Minuten bis zu einigen Stunden Bastelspaß. Das fertige Produkt ist beeindruckende 11 cm hoch und 32,5 cm breit
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07ZDQK17Q{{</world>}}

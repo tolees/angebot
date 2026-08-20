@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Aus weichem und elastischen Sweat-Stoff
+- Langärmlig mit hohem Stehkragen
+- Sweatjacke in Unifarben mit Ziernaht auf der Brust und seitlichen Eingriffstaschen vorne
 - Waschhinweis: Keine chemische Reinigung möglich / Trocknen im Trockner nicht möglich / Kein Bleichmittel erlaubt / Bei niedriger Temperatur bügeln (110° C) / Schonwaschgang bei max 40°C
 - Passform: Regular Fit, Rückenlänge bei Größe L ca 73 cm
-- Aus weichem und elastischen Sweat-Stoff
-- Sweatjacke in Unifarben mit Ziernaht auf der Brust und seitlichen Eingriffstaschen vorne
-- Langärmlig mit hohem Stehkragen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B088RYW4S3{{</world>}}

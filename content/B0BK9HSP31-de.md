@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Halbhoher Schaft
-- Formstrip an der Innen- und Außenseite
 - Obermaterial aus Veloursleder
+- Formstrip an der Innen- und Außenseite
 - Gepolsterter Schuhkragen
+- Halbhoher Schaft
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BK9HSP31{{</world>}}

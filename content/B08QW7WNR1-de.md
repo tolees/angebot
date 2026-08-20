@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Herren T-shirts aus Baumwolle
-- 3er Pack Herren T-shirts in schwarz, blau und weiß mit einem Rundhalsausschnitt
 - gerade geschnittene T-Shirts mit einem Jack&Jones Printlogo auf der Vorder Seite
+- 3er Pack Herren T-shirts in schwarz, blau und weiß mit einem Rundhalsausschnitt
 - T-shirt mit kurzen Ärmeln
 
 [🛒 Hier!!]({{< param buyurl >}})

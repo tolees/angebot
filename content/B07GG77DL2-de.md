@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Weitere Ausstattungsmerkmale: Filtergröße 1x4, 40 Minuten Warmhaltezeit und automatische Abschaltung, Schwenkfilter und Glaskanne sind spülmaschinengeeignet, integrierte Kabelaufwicklung, max. Leistung: 1.080 Watt, 2 Jahre Garantie.
 - Die Kaffeemaschine verfügt über einen praktischen Schwenkfilter, einen transparenten Wassertank mit gut lesbarer Skalierung und einen beleuchteten Ein-/Ausschalter.
-- Filterkaffeemaschine in bewährter Melitta Qualität mit Tropfstopp am Filter. Ideal für kleine Küchen dank kompaktem Design. Maße (H x B x T): 295 x 170 x 224 mm.
 - Leckerer Kaffee, einfache Handhabung, attraktiver Preis: Die Melitta Easy ist der perfekte Einstieg in die Welt des Filterkaffees.
+- Filterkaffeemaschine in bewährter Melitta Qualität mit Tropfstopp am Filter. Ideal für kleine Küchen dank kompaktem Design. Maße (H x B x T): 295 x 170 x 224 mm.
+- Weitere Ausstattungsmerkmale: Filtergröße 1x4, 40 Minuten Warmhaltezeit und automatische Abschaltung, Schwenkfilter und Glaskanne sind spülmaschinengeeignet, integrierte Kabelaufwicklung, max. Leistung: 1.080 Watt, 2 Jahre Garantie.
 - Die Melitta Easy ist die ideale Filterkaffeemaschine für alle, die ohne viel Schnick-Schnack auskommen und einfach guten Filterkaffee genießen möchten.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

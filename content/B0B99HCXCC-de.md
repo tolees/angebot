@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flexible Traktionslaufsohle
 - Klassisches, modisches Sneaker-Design mit Schnürung
+- Flexible Traktionslaufsohle
 - Glattes Obermaterial aus Synthetik mit Ledertextur und Perforationen
 - Modisch-klassischer Lace-up-Sneaker
 

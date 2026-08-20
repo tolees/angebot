@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Multi-Device, Multi OS: Die MX Keys Mini Tastatur über Bluetooth Low Energy mit bis zu drei Geräten mit nahezu allen Betriebssystemen verbinden und nahtlos zwischen ihnen umschalten
-- Kleine Größe, starke Leistung: Das Keyboard bietet ein präzises Layout mit einer minimalistischen Form - eine ergonomische und tragbare Tastatur, die überall mitgenommen werden kann
-- Wiederaufladbar über USB-C: Die MX Keys Mini Bluetooth-Tastatur kann bis zu 10 Tage mit einer vollen Ladung oder bis zu 5 Monate mit ausgeschalteter Hintergrundbeleuchtung genutzt werden (3)
-- Intelligente Beleuchtung: Die hintergrundbeleuchteten Tasten der Funktastatur leuchten auf, sobald sich die Hände annähern - dabei passt sich die Intensität automatisch den Lichtverhältnissen an
 - Optimaler Tastenanschlag (1): Die Tastatur überzeugt durch Tasten, die den Fingerspitzen angepasst sind - mit Diktierfunktion (4) für automatische Texteingabe, Mikrofonstummschaltung und Emoji-Tasten
 - Mehrere Computer, ein Workflow: Die schlanke MX Keys Mini mit der MX Master 3 oder der MX Anywhere 3 verbinden und auf mehreren Computern oder Laptops in einem flüssigen Workflow (1) tippen
+- Multi-Device, Multi OS: Die MX Keys Mini Tastatur über Bluetooth Low Energy mit bis zu drei Geräten mit nahezu allen Betriebssystemen verbinden und nahtlos zwischen ihnen umschalten
+- Wiederaufladbar über USB-C: Die MX Keys Mini Bluetooth-Tastatur kann bis zu 10 Tage mit einer vollen Ladung oder bis zu 5 Monate mit ausgeschalteter Hintergrundbeleuchtung genutzt werden (3)
+- Intelligente Beleuchtung: Die hintergrundbeleuchteten Tasten der Funktastatur leuchten auf, sobald sich die Hände annähern - dabei passt sich die Intensität automatisch den Lichtverhältnissen an
+- Kleine Größe, starke Leistung: Das Keyboard bietet ein präzises Layout mit einer minimalistischen Form - eine ergonomische und tragbare Tastatur, die überall mitgenommen werden kann
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07W6JNQ1Y{{</world>}}

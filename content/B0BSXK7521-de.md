@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Wasserabweisend bis 5 bar Sie kann beim Duschen oder Schwimmen getragen werden, jedoch nicht beim Tauchen.
 - Gehäusedicke 10,1 mm / Durchmesser des Gehäuses: 45 mm
 - Zweifarbiges Edelstahl un Nelkengold-Gliederarmband mit IP-Beschichtung
 - Blaues Sonnenstrahlen-Zifferblatt
-- Wasserabweisend bis 5 bar Sie kann beim Duschen oder Schwimmen getragen werden, jedoch nicht beim Tauchen.
 - Quarz-Chronographwerk
 
 [🛒 Hier!!]({{< param buyurl >}})

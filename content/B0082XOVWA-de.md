@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- IM RECHTEN LICHT: Die Swiss Card Lite besitzt eine helle Taschenlampe, damit Sie überall Licht zur Hand haben, wo Sie es brauchen
 - HÖCHSTE SCHWEIZER QUALITÄT: Victorinox steht für Handwerkskunst und innovatives Design. Wir greifen auf 140 Jahre Erfahrung zurück und produzieren ikonische, hochwertige Messer, Uhren und Reisegepäck
 - SMARTE AUFBEWAHRUNG: Dieses schlanke Survival-Werkzeug vereint bemerkenswerte 13 Funktionen, die dafür sorgen, dass Sie bestens auf alles vorbereitet sind, was immer auch kommt. Dazu gehören: Schraubendreher, Schere, Pinzette, Stecknadel, Kugelschreiber, kleine Klinge und LED-Taschenlampe
-- IM RECHTEN LICHT: Die Swiss Card Lite besitzt eine helle Taschenlampe, damit Sie überall Licht zur Hand haben, wo Sie es brauchen
 - PRODUKTDETAILS: 82 mm lang × 55 mm breit × 4 mm hoch. Gewicht: 26 g. Material: ABS / Cellidor. Farbe: Blau. Artikelnummer: 0.7322.T2B1
 - SWISS CARD LITE: Praktisches Survival-Werkzeug im Kreditkartenformat. Funktionen: Lupe, Taschenlampe
 

@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - BESTÄNDIGES DESIGN - eine LLC-Halbbrücke mit DC/DC-Wandler und ein aktives PFC-Design sorgen für einen zuverlässigen Ausgang (OCP-, OVP-, OP-, OTP-, SCP-, UVP-Schutz).
-- 80 PLUS GOLD ZERTIFIZIERT - ein effizientes Netzteil reduziert den Energieverbrauch und die Wärmebelastung des Systems
 - ATX 3.0 VOLLMODULAR - Mit ATX 3.0 kann das Netzteil bis zu 2 x die Gesamtleistung und 3 x die GPU-Leistung aufnehmen
 - PCIe 5.0 GPU UNTERSTÜTZUNG - Mit dem nativen 16-poligen PCIe-Anschluss kann das Netzteil eine PCIe 5.0 GPU mit bis zu 450 W Leistung versorgen (NVIDIA und AMD unterstützt).
+- 80 PLUS GOLD ZERTIFIZIERT - ein effizientes Netzteil reduziert den Energieverbrauch und die Wärmebelastung des Systems
 - STABILE LEISTUNG - Ein 120-mm-FDB-Lüfter mit dynamischer Flüssigkeitsspeicherung (fluid dynamic bearing) sorgt für außergewöhnliche Effizienz und Haltbarkeit.
 
 [🛒 Hier!!]({{< param buyurl >}})

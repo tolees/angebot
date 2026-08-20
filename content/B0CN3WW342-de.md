@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wasserabweisende Daunenjacke für Herren, Ideal für kalte Wintertage in der Stadt, beim Wandern und anderen Outdoor-Aktivitäten, Aktive Passform
-- Lieferumfang: 1x Columbia Herren-Daunenjacke, Lake 22 II, Farbe: Blau (Collegiate Navy), Größe: M, Art. 2086314
-- Praktischer, durchgehender Reißverschluss, 2 Reißverschluss-Taschen für warme, geschützte Hände, Einfassungen an Ärmelbündchen, Saum und Kragen
 - Kinnschutz, 650-cuin-Füllung für eine hohe Wärmespeicherung
+- Lieferumfang: 1x Columbia Herren-Daunenjacke, Lake 22 II, Farbe: Blau (Collegiate Navy), Größe: M, Art. 2086314
+- Wasserabweisende Daunenjacke für Herren, Ideal für kalte Wintertage in der Stadt, beim Wandern und anderen Outdoor-Aktivitäten, Aktive Passform
+- Praktischer, durchgehender Reißverschluss, 2 Reißverschluss-Taschen für warme, geschützte Hände, Einfassungen an Ärmelbündchen, Saum und Kragen
 - Besonders warmhaltend dank Heat-Seal-Konstruktion, Wasserabweisendes Material für optimalen Schutz vor Feuchtigkeit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

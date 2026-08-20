@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Optische Facettenlinse - IPX8: Wasserdicht und für den Betrieb bis zu 1,1 Meter unter Wasser während 30 Minuten getestet. Beim Untertauchen kann Wasser in das Innere des Batteriegehäuses eindringen, ohne die Funktion der Lampe zu beeinträchtigen. Nach dem Betrieb in nasser Umgebung sollte die Lampe vollständig getrocknet werden.
+- Für den vielseitigen Einsatz beim Camping, rund ums Haus und bei Outdoor-Abenteuern, wenn du ein einfaches und vielseitiges Licht mit Nachtsichtoption wünscht. Auf einer längeren Trekkingtour ohne Stromquelle kann die Lampe auch mit Alkalibatterien betrieben werden.
 - Dual-Fuel: Stromversorgung mit drei AAA-Alkalibatterien (im Lieferumfang enthalten) oder dem wiederaufladbaren BD 1500 Lithium-Ionen-Akku und Ladegerät (separat erhältlich) für maximale Flexibilität
 - Integrierter Batterieleistungsmesser zeigt die verbleibende Lebensdauer in % an - Ein digitaler Sperrmodus verhindert das versehentliche Einschalten im Rucksack oder in der Tasche
 - Höchste Stufe mit 350 Lumen - Nachtsichtmodus (rote LED) mit Dimm- und Blinkmodus, wird schnell über zwei Tasten aktiviert - Einstellungsmöglichkeiten umfassen Dimmfunktion, Blinkmodus, Nachtsichtmodus (rot) und einen Sperrmodus
-- Optische Facettenlinse - IPX8: Wasserdicht und für den Betrieb bis zu 1,1 Meter unter Wasser während 30 Minuten getestet. Beim Untertauchen kann Wasser in das Innere des Batteriegehäuses eindringen, ohne die Funktion der Lampe zu beeinträchtigen. Nach dem Betrieb in nasser Umgebung sollte die Lampe vollständig getrocknet werden.
-- Für den vielseitigen Einsatz beim Camping, rund ums Haus und bei Outdoor-Abenteuern, wenn du ein einfaches und vielseitiges Licht mit Nachtsichtoption wünscht. Auf einer längeren Trekkingtour ohne Stromquelle kann die Lampe auch mit Alkalibatterien betrieben werden.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09NQL7J52{{</world>}}

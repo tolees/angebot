@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Klassische Waffelsohle
-- Original Waffel-Laufsohle
-- Seitenstreifen-Logo
-- Vulkanisierte Konstruktion
 - Gepolsterter Kragen
+- Original Waffel-Laufsohle
+- Vulkanisierte Konstruktion
+- Klassische Waffelsohle
+- Seitenstreifen-Logo
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B078PN2DYW{{</world>}}

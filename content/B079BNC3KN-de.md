@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Print
 - bequem
+- Print
 - T-Shirt
 - Baumwolle
 

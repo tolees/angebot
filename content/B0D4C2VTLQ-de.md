@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Omni-Shield: Langlebige, schnell trocknende Technologie, Abweisen von Wasser und Flecken, indem sie verhindert, dass Flüssigkeiten in die Kleidung eindringen und sie durchtränken oder verschmutzen
-- Reißverschlusstaschen für die Hände, Verstellbarer Tunnelzugsaum, Einfassung am Armausschnitt, Isolierung aus 100% recyceltem Polyester
 - Lieferumfang: 1 x Columbia Herren-Weste, Powder Pass Hybrid, Farbe: Schwarz, Größe: XXL
 - Aktive Passform für volle Bewegungsfreiheit, Fällt kleiner aus (wählen Sie die größere Größe, wenn Sie zwischen 2 Größen schwanken), 100% Nylon, 91% Polyester, 9% Elasthan
+- Omni-Shield: Langlebige, schnell trocknende Technologie, Abweisen von Wasser und Flecken, indem sie verhindert, dass Flüssigkeiten in die Kleidung eindringen und sie durchtränken oder verschmutzen
+- Reißverschlusstaschen für die Hände, Verstellbarer Tunnelzugsaum, Einfassung am Armausschnitt, Isolierung aus 100% recyceltem Polyester
 - Bequeme Weste zum Schutz vor leichtem Schneefall oder Nieselregen dank wasserabweisender Außenschicht, Hybrid-Konstruktion für mehr Bewegungsfreiheit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

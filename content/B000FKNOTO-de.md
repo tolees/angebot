@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Pelikan Tintenpatronen werden in Deutschland gefertigt. Qualität made in Germany – Made by Pelikan.
-- Geeignet für alle Pelikan‐ und viele andere Patronen‐Füller
-- Die 4001 Tinte garantiert einen gleichmäßigen Tintenfluss, ein ausdrucksstarkes Schriftbild und leuchtende Farben.
 - Pelikan Standard-Tintenpatronen mit Tinte 4001 in Pink
+- Geeignet für alle Pelikan‐ und viele andere Patronen‐Füller
+- Die Pelikan Tintenpatronen werden in Deutschland gefertigt. Qualität made in Germany – Made by Pelikan.
 - Sie erhalten die Tinte 4001 in 6 Standard-Tintenpatronen, verpackt in einer Faltschachtel
+- Die 4001 Tinte garantiert einen gleichmäßigen Tintenfluss, ein ausdrucksstarkes Schriftbild und leuchtende Farben.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000FKNOTO{{</world>}}

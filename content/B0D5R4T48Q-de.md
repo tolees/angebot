@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Maße: 49 cm x 25 cm x 19 cm | Gewicht: 720 Gramm
-- Das luftdurchlässige Airstripes-Rückensystem garantiert eine gute Belüftung des Rückens – egal ob auf Tagesausflügen, z.B. zum See oder der Bike- & Hike-Tour. Zusätzlich halten Brustgurt und belüftete Hüftflossen den Packsack optimal in Position und stabil am Körper. Das hilft nicht nur auf unbefestigten Wegen, sondern entlastet den Rücken auch beim Tragen.
 - Der Rucksack kann sowohl zum Biken als auch auf kurzen Wanderungen verwendet werden. Ideal für Bike & Hike Ausflüge an entlegene Plätze. Möglich machen den vielseitigen Einsatz die integrierte Stockhalterung und das abnehmbare Helmnetz. Eine Regenhülle befindet sich in der dafür vorgesehenen Tasche.
-- Im Inneren des Fahrradrucksacks ist Platz für eine Trinkblase von bis zu 3L.
+- Maße: 49 cm x 25 cm x 19 cm | Gewicht: 720 Gramm
 - Die praktische Aufteilung von Fächern, Taschen, Werkzeugeinheit und Pumpenhalterung sorgt für echte Funktionalität und erleichtert die Organisation.
 - Maße: 49 cm x 25 cm x 19 cm | Gewicht: 720 Gramm
+- Das luftdurchlässige Airstripes-Rückensystem garantiert eine gute Belüftung des Rückens – egal ob auf Tagesausflügen, z.B. zum See oder der Bike- & Hike-Tour. Zusätzlich halten Brustgurt und belüftete Hüftflossen den Packsack optimal in Position und stabil am Körper. Das hilft nicht nur auf unbefestigten Wegen, sondern entlastet den Rücken auch beim Tragen.
+- Im Inneren des Fahrradrucksacks ist Platz für eine Trinkblase von bis zu 3L.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D5R4T48Q{{</world>}}

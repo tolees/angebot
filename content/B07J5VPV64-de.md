@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Seitenpartien aus superweichem, zweischichtigem Material mit unsichtbaren Nähten
 - Spacer-BH mit glatter Mikrofaser
+- Seitenpartien aus superweichem, zweischichtigem Material mit unsichtbaren Nähten
 - Elastische LYCRA-Faser
 - Cups mit weichen Einlagen und formenden Bügeln
 

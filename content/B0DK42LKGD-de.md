@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Herausnehmbare, mit Mikrofaser bezogene Einlegesohle für zusätzlichen Komfort.
-- Gefertigt aus hochwertigem Nubukleder aus unseren eigenen Gerbereien sowie Premium Textil.
 - Die robuste, vom Motocross inspirierte Außensohle mit tiefen Profilrillen sorgt für guten Grip, Stabilität und sicheren Halt.
+- Gefertigt aus hochwertigem Nubukleder aus unseren eigenen Gerbereien sowie Premium Textil.
 - Lederverstärkungen an den Seiten und im Vorderbereich geben dem Schuh Struktur und einen markanten Look.
 - Die ECCO FLUIDFORM Technologie passt sich der natürlichen Form des Fußes an und bietet hohen Komfort beim Gehen und Stehen, den ganzen Tag über.
+- Herausnehmbare, mit Mikrofaser bezogene Einlegesohle für zusätzlichen Komfort.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DK42LKGD{{</world>}}

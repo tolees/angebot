@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Normale Passform
 - Kapuze mit Kordelzug
+- Normale Passform
 - Weicher und warmer Stoff
 
 [🛒 Hier!!]({{< param buyurl >}})

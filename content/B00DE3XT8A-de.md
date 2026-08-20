@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einfache Montage auf DIN-Schiene
-- Betriebstemperatur von minus 25 bis plus 60 Grad Celsius, Schutzart IP20/IP40
-- Mechanische Lebensdauer 20000 Zyklen, Elektrische Lebensdauer 15000 Zyklen
 - Nennstrom 40A
 - Bemessungsstrom 40 A, Erdschlussempfindlichkeit 30 mA
+- Betriebstemperatur von minus 25 bis plus 60 Grad Celsius, Schutzart IP20/IP40
+- Mechanische Lebensdauer 20000 Zyklen, Elektrische Lebensdauer 15000 Zyklen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00DE3XT8A{{</world>}}

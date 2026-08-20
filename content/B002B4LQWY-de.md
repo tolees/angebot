@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mit selbstschneidenden Kontakten
-- Standard nach EIA/TIA 568 B - für Netzwerk, DSL und ISDN
 - Kinderleichte Netzwerkverdrahtung
 - LSA Auflegewerkzeug - Einsetzbar für Auf- und Unterputzdosen
+- Standard nach EIA/TIA 568 B - für Netzwerk, DSL und ISDN
 - Abschneiden überstehender Kabelenden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

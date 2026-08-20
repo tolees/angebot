@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Innenmaterial: Leder
-- Verschluss: Bungee
 - Sohle: Gummi
 - Absatzhöhe: 1.5 cm
 - Obermaterial: Wildleder
+- Verschluss: Bungee
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B003WQAH9S{{</world>}}

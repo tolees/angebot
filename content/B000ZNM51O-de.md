@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- HOHE PRÄZISIONSSENSOR: Wiege Nahrungsmittel genau bis zu 5KG
-- HINWEIS: Verwenden Sie immer eine feste, ebene Oberfläche. Um die Waage zurückzusetzen, tippen Sie auf die Taste null.
 - KOMPAKT: Schlankes Design für einfachen Stauraum
+- HINWEIS: Verwenden Sie immer eine feste, ebene Oberfläche. Um die Waage zurückzusetzen, tippen Sie auf die Taste null.
+- HOHE PRÄZISIONSSENSOR: Wiege Nahrungsmittel genau bis zu 5KG
 - HINZUFÜGEN & WIEGEN: Tarafunktion
 - ROSTFREIER STAHL: Rostfreie stahl Plattform
 

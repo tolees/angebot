@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die folgenden Informationen gelten für jede Einheit pro Packung
-- Mit reinem Sonnenblumenöl
 - Geeignet für Vegetarier
+- Mit reinem Sonnenblumenöl
 - Würzig-fruchtige Geschmack der Paprika
+- Die folgenden Informationen gelten für jede Einheit pro Packung
 - Natürlich gebackene Ofen Chips
 - Ohne künstliche Geschmacksverstärker, künstliche Aromen oder künstliche Farbstoffe
 

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reinheit und Sicherheit: Die Softgel-Kapseln sind geschmacksneutral und hinterlassen keinen fischigen Nachgeschmack - sie werden konsequent und sorgfältig auf Schwermetalle getestet
 - Geprüfte Qualität: ESN Omega-3-Kapseln werden unter Einhaltung strengster Qualitätsvorgaben produziert - jede Charge wird in unabhängigen Laboren auf Schwermetalle getestet
+- Hochdosierte Fettsäuren: Eine Portion liefert 2250 mg Omega-3 mit 1200 mg EPA und 900 mg DHA - da der Körper diese essenziellen Fettsäuren nicht selbst bildet, kann eine Ergänzung sinnvoll sein
 - Für Herz und Gehirn: EPA und DHA tragen zu einer normalen Herzfunktion bei - DHA trägt zudem zur Erhaltung einer normalen Gehirnfunktion und Sehkraft bei (ab täglicher Einnahme von jeweils 250 mg)
 - Praktische Einnahme: Eine Tagesportion entspricht 3 Kapseln, die sich mit etwas Flüssigkeit leicht herunterschlucken lassen - die Packung mit 60 Kapseln bietet dir einen Vorrat für 20 Tage
-- Hochdosierte Fettsäuren: Eine Portion liefert 2250 mg Omega-3 mit 1200 mg EPA und 900 mg DHA - da der Körper diese essenziellen Fettsäuren nicht selbst bildet, kann eine Ergänzung sinnvoll sein
+- Reinheit und Sicherheit: Die Softgel-Kapseln sind geschmacksneutral und hinterlassen keinen fischigen Nachgeschmack - sie werden konsequent und sorgfältig auf Schwermetalle getestet
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0GDQFDYV9{{</world>}}

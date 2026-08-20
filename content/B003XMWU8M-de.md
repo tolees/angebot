@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein leichtes Baselayer-/Midlayer-Shirt für kalte Tage
-- Stehkragen mit unterlegtem Kurz-Reißverschluss für angenehmes Tragegefühl
-- Supersoftes, feuchtigkeitsregulierendes Stretchmaterial für hohen Tragekomfort
 - Leichtes, wärmendes Funktions-Rollkragenshirt für Sport und Outdoor-Aktivitäten
 - Elastische Qualität für volle Bewegungsfreiheit beim Training, Joggen, Wandern oder Skifahren; Sportliche Passform; Damenmodell mit tailliertem Schnitt für optimalen Sitz
+- Supersoftes, feuchtigkeitsregulierendes Stretchmaterial für hohen Tragekomfort
+- Stehkragen mit unterlegtem Kurz-Reißverschluss für angenehmes Tragegefühl
+- Ein leichtes Baselayer-/Midlayer-Shirt für kalte Tage
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B003XMWU8M{{</world>}}

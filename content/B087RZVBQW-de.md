@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fernzugriff – Steuern Sie Ihre Smarte Glühbirne bequem übers Smartphone mit Tapo App – überall und zu jeder Zeit
-- Sprachsteuerung – Kompatibel mit Amazon Alexa oder Google Assistant
-- Dimmbares Licht – Wählen Sie mit individuell einstellbarer Helligkeit die Beleuchtung, die zur Situation passt. Typische Leuchtstärke: 806 lumens
 - Lieferumfang - Tapo L510E, Schnellinstallationsanleitung
 - Abläufe und Zeitpläne – Planen Sie bestimmte Zeiten zum Ein- oder Ausschalten Ihrer Glühbirn
 - Abwesenheitsmodus – Lassen Sie Ihre Beleuchtung zu unterschiedlichen Zeiten automatisch an- und ausgehen, um die Anwesenheit einer Person zu simulieren
 - Funktioniert nur mit 2,4 GHz WLAN, keine Hub erforderlich. Die Schritte zum Zurücksetzen der Tapo WiFi-Birne auf die Werkseinstellungen finden Sie unter FAQ2753 auf der TP-Link-Website
+- Sprachsteuerung – Kompatibel mit Amazon Alexa oder Google Assistant
+- Fernzugriff – Steuern Sie Ihre Smarte Glühbirne bequem übers Smartphone mit Tapo App – überall und zu jeder Zeit
+- Dimmbares Licht – Wählen Sie mit individuell einstellbarer Helligkeit die Beleuchtung, die zur Situation passt. Typische Leuchtstärke: 806 lumens
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B087RZVBQW{{</world>}}

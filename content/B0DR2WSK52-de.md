@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Farbe: Dunkelbraun
-- Obbermaterial: 100% Rindsleder
 - Laufsohle: 100% vulkanisiertes Gummi
+- Obbermaterial: 100% Rindsleder
 - Futter: 63% Schweinsleder - 37% Stoff (100% recyceltes Polyester)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

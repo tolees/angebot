@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Bild dient nur zu Darstellungszwecken. Bitte beziehen Sie sich auf den Titel für die Größe
 - Aufgrund der erhöhten Bruchgefahr (Glas) werden die Rahmen professionell verpackt, damit diese optimal vor Beschädigungen während des Transportes geschützt werden.
-- Bis Format 20x30 cm sind die Rahmen mit einem Aufsteller ausgestattet
+- Das Bild dient nur zu Darstellungszwecken. Bitte beziehen Sie sich auf den Titel für die Größe
 - Zusätzlich haben die Rahmen Ösen zum Aufhängen für Bilder im Hoch- und Querformat
 - Die Bilderrahmen Grado haben ein 2,8 cm breites Profil aus Holz mit einer gerillten Oberfläche
+- Bis Format 20x30 cm sind die Rahmen mit einem Aufsteller ausgestattet
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01CYVO05S{{</world>}}

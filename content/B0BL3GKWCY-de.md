@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 5MP hochauflösende Nachtsicht: Die 2560 × 1920 5MP Super-HD-Auflösung liefert gestochen scharfe Bildqualität und ein flüssiges Live-Bild. Der Infrarot-Nachtsichtbereich der Kamera reicht bis zu 30 m in vollständiger Dunkelheit und bietet rund um die Uhr zuverlässigen Sicherheitsschutz.
 - Intelligente Personen-/Fahrzeug-/Tiererkennung: Fortschrittliche Erkennungstechnologie identifiziert zuverlässig Personen, Fahrzeuge und Tiere und reduziert unnötige Benachrichtigungen. Anpassbare Bewegungszonen verbessern die Erkennungsgenauigkeit zusätzlich.
-- 2,4/5-GHz-Dualband-WLAN, einfache Einrichtung: Mit 2T2R-MIMO-Antennen und Dualband-WLAN bietet die RLC-510WA eine höhere Netzwerkleistung und eine einfachere Einrichtung. Die IP66-wetterfeste Bullet-Kamera eignet sich sowohl für den Innen- als auch für den Außenbereich.
 - Zeitraffer und intelligente Wiedergabe mit Audio: Der Zeitraffermodus hält Langzeitereignisse wie Sonnenaufgänge oder blühende Blumen in einem kompakten Clip fest. Filtern Sie Aufnahmen nach Person, Fahrzeug, Tier oder Bewegung, um wichtige Momente schnell zu finden. Die Audioaufzeichnung ergänzt Ihre Videoüberwachung um zusätzliche Details.
+- 2,4/5-GHz-Dualband-WLAN, einfache Einrichtung: Mit 2T2R-MIMO-Antennen und Dualband-WLAN bietet die RLC-510WA eine höhere Netzwerkleistung und eine einfachere Einrichtung. Die IP66-wetterfeste Bullet-Kamera eignet sich sowohl für den Innen- als auch für den Außenbereich.
+- 5MP hochauflösende Nachtsicht: Die 2560 × 1920 5MP Super-HD-Auflösung liefert gestochen scharfe Bildqualität und ein flüssiges Live-Bild. Der Infrarot-Nachtsichtbereich der Kamera reicht bis zu 30 m in vollständiger Dunkelheit und bietet rund um die Uhr zuverlässigen Sicherheitsschutz.
 - Flexible Aufzeichnungsoptionen: Speichern Sie Aufnahmen auf einer microSD-Karte (bis zu 512 GB, nicht im Lieferumfang), einem Reolink-NVR oder einem FTP-Server. Unterstützt Daueraufzeichnung, bewegungsgesteuerte Aufzeichnung und geplante Aufzeichnung.
 
 [🛒 Hier!!]({{< param buyurl >}})

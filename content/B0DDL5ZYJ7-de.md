@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gesellschaftsspiel für Personen ab 8 Jahren, für 1 – 6 Würfelfreunde. Spieldauer ca. 20 Minuten
-- Der Name ist Programm: Roll & Write mit einem brillanten Kniff für spannende Spielrunden
 - Mit zwei besonderen, funkelnden Würfeln (zwölfseitig)
-- Keine Wartezeiten – alle spielen gleichzeitig
 - Sehr leichte Regeln, extrem schneller Einstieg
+- Gesellschaftsspiel für Personen ab 8 Jahren, für 1 – 6 Würfelfreunde. Spieldauer ca. 20 Minuten
+- Keine Wartezeiten – alle spielen gleichzeitig
+- Der Name ist Programm: Roll & Write mit einem brillanten Kniff für spannende Spielrunden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DDL5ZYJ7{{</world>}}

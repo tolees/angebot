@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- für Montage in der Mitte (hinter dem Tretlagergehäuse)
 - stufenlos verstellbar
-- Aluminium
+- für Montage in der Mitte (hinter dem Tretlagergehäuse)
 - mit Sicherheitsfuß
+- Aluminium
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07JBC5BGG{{</world>}}

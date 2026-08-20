@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Breite: Normal
 - Zehentyp: Abgerundt
 - Puma Multiflex 2 SL V Inf
 - Futter: Textil
-- Breite: Normal
 - Verschluss: Klett
 - Absatzart: Flach
 

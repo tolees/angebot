@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Beauty
 - Re/Start
+- Beauty
 - 8432225114736
 - Packung die Größe: 4.6 L x 19.9 H x 4.7 W (cm)
 

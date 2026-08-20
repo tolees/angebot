@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieser Adapter ermöglicht eine Verbindung mit den meisten Autos, auch mit denen, die CarPlay unterstützen. Du kannst auch ein USB Kabel von deinem Auto direkt mit dem USB-C Anschluss deines iPhone verbinden.
 - Verbinde das USB‑C Ende des Adapters mit dem USB‑C Anschluss deines iPhone oder iPad und schließe dann dein Lightning Zubehör an.
+- Dieser Adapter ermöglicht eine Verbindung mit den meisten Autos, auch mit denen, die CarPlay unterstützen. Du kannst auch ein USB Kabel von deinem Auto direkt mit dem USB-C Anschluss deines iPhone verbinden.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CHYWSYK7{{</world>}}

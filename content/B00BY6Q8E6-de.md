@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfach zu reinigen und zu warten
 - Schnell und unkompliziert zu montieren
+- Einfach zu reinigen und zu warten
 - Langlebig und zuverlässig
 - Kompatibel mit den meisten Fahrzeugen
 

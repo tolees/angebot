@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PUMA Cat Logo an der Ferse
 - Schnürung für Passgenauigkeit
+- PUMA Cat Logo an der Ferse
 - Vollständig vernähter und gepolsterter Schuhkragen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

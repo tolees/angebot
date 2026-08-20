@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ecksteckdosenleiste inkl. Klebepads und Reinigungstuch (zum Säubern der Klebeoberfläche für eine bessere Haftung)
-- Die Eck-Steckdosenleiste lässt sich einfach mit Spezial-Klebepads anbringen (kein Bohren notwendig) und ist somit variabel einsetzbar
 - Tischsteckdose 4-fach mit 2 USB A Ladebuchsen 5V/3.10A, 15.5W, Schutzkontakt-Steckdosen in 45°-Anordnung und 2 Euro-Steckdosen in 90°-Anordnung
+- Die Eck-Steckdosenleiste lässt sich einfach mit Spezial-Klebepads anbringen (kein Bohren notwendig) und ist somit variabel einsetzbar
+- Ecksteckdosenleiste inkl. Klebepads und Reinigungstuch (zum Säubern der Klebeoberfläche für eine bessere Haftung)
 - Die Küchensteckdosenleiste überzeugt durch ihr tolles Design und passt sich optimal in Ihre Umgebung an - kann sowohl horizontal als auch vertikal angebracht werden
 - Stabile Küchensteckdose aus hochbruchfestem Kunststoff und hochwertiger Edelstahloberfläche bringt wieder Ordnung in Ihre Küche oder Büro
 

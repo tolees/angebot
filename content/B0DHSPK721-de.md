@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reguläre Passform
 - Lightstrike Dämpfung
 - Obermaterial aus Wildleder und Mesh
 - Abriebfester Zehenbereich
+- Reguläre Passform
 - Gummiaußensohle
 
 [🛒 Hier!!]({{< param buyurl >}})

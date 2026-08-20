@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Tastatur-Layout: International / ISO. Layout kann von den Produktabbildungen abweichen
-- Programmierbarer Drehknopf: Drehe den Knopf zum Einstellen der Lautstärke und drücke ihn, um Medien zu pausieren/abzuspielen, alles stummzuschalten oder einen über die Glorious CORE Software einstellbaren Befehl auszuführen.
-- 9 Modularitätspunkte: Das hochmodulare Design macht das Tauschen von Teilen beim GMMK 3 zu einem Kinderspiel. Passe Aussehen, Akustik und Anschlag genau auf deine Vorlieben an!
 - Modulares Dichtungssystem (MDS): Die internen Dichtungssysteme der GMMK-3-Tastatur im einfachen Bausatzdesign kannst du für ein solideres, flexibleres Tippgefühl kinderleicht anpassen.
+- 9 Modularitätspunkte: Das hochmodulare Design macht das Tauschen von Teilen beim GMMK 3 zu einem Kinderspiel. Passe Aussehen, Akustik und Anschlag genau auf deine Vorlieben an!
+- Tastatur-Layout: International / ISO. Layout kann von den Produktabbildungen abweichen
 - Unterstützung von 5-Pin-MX-Hot-Swap: Unserer breite Palette an Glorious-MX-Schalterstilen ermöglicht es dir, Tippgefühl und Akustik deiner GMMK-3-Tastatur ganz nach Belieben anzupassen. Kein Löten erforderlich!
+- Programmierbarer Drehknopf: Drehe den Knopf zum Einstellen der Lautstärke und drücke ihn, um Medien zu pausieren/abzuspielen, alles stummzuschalten oder einen über die Glorious CORE Software einstellbaren Befehl auszuführen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DFYFDL2Z{{</world>}}

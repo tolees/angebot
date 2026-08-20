@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - I-Wave (gleichmäßige Erwärmung des Garguts durch dreidimensionale Mikrowellen)
 - Garprogramme mit Gewichtsautomatik
-- Antibakteriell beschichteter Innenraum mit Easy Clean
 - Eco On-Energiesparmodus
+- Antibakteriell beschichteter Innenraum mit Easy Clean
 - Smart Inverter Technologie
 
 [🛒 Hier!!]({{< param buyurl >}})

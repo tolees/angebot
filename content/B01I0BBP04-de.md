@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die anatomische Passform mit einem charakteristischen Design
-- Elastikriemen für bequeme Passform
-- Aus Leder mit elastischen Schnürsenkeln
-- Die versiegelte Konstruktion des Beetle für Herren ist leicht und flexibel
-- Farbe: Braun
 - Laufsohle/Eigenschaften: EVA-Laufsohle für geringes Gewicht
+- Farbe: Braun
+- Elastikriemen für bequeme Passform
+- Die anatomische Passform mit einem charakteristischen Design
+- Die versiegelte Konstruktion des Beetle für Herren ist leicht und flexibel
+- Aus Leder mit elastischen Schnürsenkeln
 - Obermaterial: Leder (Rindsleder)
 - XL EXTRALIGHT für mehr Leichtigkeit und Stoßdämpfung
 

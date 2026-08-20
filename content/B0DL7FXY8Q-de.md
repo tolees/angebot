@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Alles bereit für ultimativen Geschichtenspaß mit Raketenflug, drehendem Kunstwerk und Raumstation!
-- Die Schatulle kann überallhin mitgenommen werden und macht auch unterwegs Spaß!
-- Ideal für Kinder ab vier Jahren, insbesondere für all diejenigen, die das Weltall, Sterne und Planeten lieben.
 - Mit dieser Planet Polly-Schatulle inklusive Minipuppe und 10 passenden Zubehörteilen samt Hündchen eröffnen sich völlig neue Galaxien.
+- Alles bereit für ultimativen Geschichtenspaß mit Raketenflug, drehendem Kunstwerk und Raumstation!
+- Ideal für Kinder ab vier Jahren, insbesondere für all diejenigen, die das Weltall, Sterne und Planeten lieben.
+- Die Schatulle kann überallhin mitgenommen werden und macht auch unterwegs Spaß!
 - An dem niedlichen Planeten ist ein weiterer Miniplanet zum Schieben befestigt und im Inneren der Schatulle wartet ein interstellares Abenteuer!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

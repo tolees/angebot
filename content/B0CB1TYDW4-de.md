@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Engineered mesh upper with lace-up front
 - 1,27 cm Absatz
-- Maschinenwaschbar
 - Super flexible Traktions-Laufsohle
+- Engineered mesh upper with lace-up front
+- Maschinenwaschbar
 - Flex Lite stoßdämpfende Zwischensohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

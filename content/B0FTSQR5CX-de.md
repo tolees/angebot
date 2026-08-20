@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- GESTOCHEN SCHARFE VIDEOS IN 2K – Mit der Videoauflösung in 2K, breitem Abdeckungsbereich, bis zu 4-fachem Zoom und Nachtsicht in Farbe mit integriertem LED-Spotlight kannst du noch mehr Details einfangen.
-- SEHEN, HÖREN UND SPRECHEN ÜBER DIE BLINK-APP: Live-Video in 1080p HD, mit Infrarot-Nachtsicht und Gegensprechfunktion mit klarem Audio.
-- DIE NEUESTE VERSION: Die Blink Outdoor 4-Kamera ist unsere kabellose intelligente Sicherheitskamera der 4. Generation, mit der du dein Zuhause drinnen und draußen direkt über die Blink-App auf deinem Smartphone überwachen kannst.
 - ENTDECKE DIE NEUESTE GENERATION – Die Mini 2K+ ist unsere kompakte Kamera mit Netzstecker der 3. Generation. Sie bietet schärfere Videos, eine verbesserte Audioqualität und kontinuierliche Stromversorgung, damit du immer alles im Blick behältst.
+- GESTOCHEN SCHARFE VIDEOS IN 2K – Mit der Videoauflösung in 2K, breitem Abdeckungsbereich, bis zu 4-fachem Zoom und Nachtsicht in Farbe mit integriertem LED-Spotlight kannst du noch mehr Details einfangen.
+- DIE NEUESTE VERSION: Die Blink Outdoor 4-Kamera ist unsere kabellose intelligente Sicherheitskamera der 4. Generation, mit der du dein Zuhause drinnen und draußen direkt über die Blink-App auf deinem Smartphone überwachen kannst.
+- SEHEN, HÖREN UND SPRECHEN ÜBER DIE BLINK-APP: Live-Video in 1080p HD, mit Infrarot-Nachtsicht und Gegensprechfunktion mit klarem Audio.
 - ZWEI JAHRE BATTERIELAUFZEIT: Die Einrichtung dauert nur wenige Minuten und die mitgelieferten AA-Lithiumbatterien halten bis zu zwei Jahre. Der Batterie-Erweiterungspack (separat erhältlich) bietet bis zu vier Jahre Batterielaufzeit pro Kamera.
 
 [🛒 Hier!!]({{< param buyurl >}})

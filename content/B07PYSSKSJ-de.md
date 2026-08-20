@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichte Reinigung
 - LCD-Display
 - Timer 1 - 48 Stunden
 - Temperatur einstellbar 20 - 55°C
 - Temperaturkontrollleuchte
+- Leichte Reinigung
 - 8 Glas Joghurtbecker mit Deckel à 180 ml
 - Betriebskontrollleuchte
 

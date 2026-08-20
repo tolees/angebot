@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vollständig von Hand gepflückt
+- Der Mund zeichnet sich durch einen sehr frischen und fruchtigen Auftakt mit einer schönen Frische und Noten von Zitrone, Mandarine und weißen Blüten aus
 - Traditionelle Methode mit einer zweiten Gärung in der Flasche
 - Die Nase öffnet sich mit Noten von Zitrusfrüchten und exotischen Früchten
+- Vollständig von Hand gepflückt
+- Ideal als Aperitif für einen besonderen Anlass, passt aber auch zu Desserts mit Brioche, Keksen und Eis oder zu herzhaften Speisen wie Meeresfrüchten oder gegrilltem Fisch
 - Ausbau auf Latten in Kellern bei 12°C für mindestens 12 Monate
 - Der Wein hat eine sehr glänzende blassgelbe Farbe mit silbernen Reflexen
-- Ideal als Aperitif für einen besonderen Anlass, passt aber auch zu Desserts mit Brioche, Keksen und Eis oder zu herzhaften Speisen wie Meeresfrüchten oder gegrilltem Fisch
-- Der Mund zeichnet sich durch einen sehr frischen und fruchtigen Auftakt mit einer schönen Frische und Noten von Zitrone, Mandarine und weißen Blüten aus
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08XZCFQF7{{</world>}}

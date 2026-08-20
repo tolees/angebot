@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- DERMATOLOGISCH GETESTET: Für jeden Hauttyp geeignet
 - AKTIVKOHLE: Duschgel mit tiefenwirksamer Reinigung für Herren, mit Aktivkohle
 - ANWENDUNGSHINWEISE: Gel auf nasse Handflächen oder Schwamm geben, einmassieren, dann abspülen
 - 2 x 500 ml DUSCHGEL
-- DERMATOLOGISCH GETESTET: Für jeden Hauttyp geeignet
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CS654CY1{{</world>}}

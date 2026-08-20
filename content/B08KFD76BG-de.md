@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Slim Fit mit tief sitzendem Bund, schmalen Knien und schmalen Beinöffnungen
 - Beindetails : Säume zum Umschlagen
 - Länge, Größe : Knöchellang
-- Slim Fit mit tief sitzendem Bund, schmalen Knien und schmalen Beinöffnungen
 - Taille : Mittlere Taille
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

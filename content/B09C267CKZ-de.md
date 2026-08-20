@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - MUST HAVE: Integriertes, in die Kofferschale eingelassenes TSA-Zahlenschloss. Der Schließmechanismus entspricht den höchsten Sicherheitsstandards. Leichte Handhabung, schützt das Gepäck vor unbefugten Zugriffen.
-- GROSSER REISEKOFFER: Mit seinen 77 x 50 x 30 cm ist der Trolley der ideale Begleiter für Familienurlaube und ausgedehnte Reisen rund um den Globus. MEHR GEPÄCK: Verstärkte Koffererweiterung von 8 cm lässt den Koffer auf 77 x 50 x 38 cm/max. 130 Liter wachsen.
 - PERFEKT ORGANISIERT: Eine RV-Netztrennwand (Netz beidseitig) stabilisiert das Reisegepäck. Ein RV-Zwischenboden (+ 2 RV-Netztaschen für Utensilien) sowie die RV-Netztrennwand teilen den Koffer in 3 Kompartiments. INTERIEUR: Reißfestes Polyester, äußerst pflegeleicht.
+- GROSSER REISEKOFFER: Mit seinen 77 x 50 x 30 cm ist der Trolley der ideale Begleiter für Familienurlaube und ausgedehnte Reisen rund um den Globus. MEHR GEPÄCK: Verstärkte Koffererweiterung von 8 cm lässt den Koffer auf 77 x 50 x 38 cm/max. 130 Liter wachsen.
 - LEICHTES MATERIAL: Hochwertig verarbeitete, matte Hartschale aus 100% ABS. Schlagfest, stabil und flexibel. MODERNER LOOK: Flach geformter Korpus im dynamischen Design.
 - KOMFORTABLER TRANSPORT: Teleskopgriff mit Druckknopf sowie präzisem stufenverstellbaren Mechanismus (3-stufig). Ergonomische Tragegriffe an Ober- und Längsseite. 4 versenkte, gummierte Doppelrollen für mehr Packvolumen, äußerst stabil, leichtgängig, wendig und leise.
 

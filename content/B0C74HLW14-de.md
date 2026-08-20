@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Material:Polyester
 - Tragekomfort
+- Material:Polyester
 - Hochwertiger Stoff
 - feuchtigkeitsableitendem Material
 

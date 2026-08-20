@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Überlastschutz, Kurzschlussfest mit Sicherheitstransformator
-- 4-stellige blaue LED-Digitalanzeige
 - Digital Labornetzgerät 2 x 0 - 30 V/0 - 5 A DC/ 0 - 6.5 V DC/3 A DC / 0 - 15 V DC/1 A DC
+- Überlastschutz, Kurzschlussfest mit Sicherheitstransformator
 - Innenliegende Kühlkörper und Lüfter
+- 4-stellige blaue LED-Digitalanzeige
 - Stabiles Metallgehäuse mit Tragegriff
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

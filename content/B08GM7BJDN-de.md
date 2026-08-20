@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Abnehmbares USB-Kabel (Typ C) - ganz einfach einrichten und verstauen: Einfach die Tastatur auspacken, verbinden und spielen – bei der nächsten LAN-Party oder einem Turnier.
 - Doubleshot-PBT-Tastenkappen mit Sekundärfunktionen - für eine Textur in Premium-Qualität: Diese Tastenkappen wurden für noch mehr Haltbarkeit entwickelt und nutzen sich weder ab bis sie glänzen, noch verlieren sie durch intensive Nutzung ihre Beschriftung.
-- 40% kompakteres Gehäuse - für ein puristisches Gaming-Erlebnis unterwegs: Ideal für minimalistische oder kompaktere Setups, bei denen jeder Quadratzentimeter Platz kostbar ist. Dank den kompakten Abmessungen der Tastatur ist sie der ideale Begleiter unterwegs.
 - Optische Switches von Razer - für Lichtgeschwindigkeit per Tastendruck: Ermöglichen schnelleres, leichteres und sanfteres Auslösen als mechanische Switches und halten länger, weil sie weniger bewegliche Teile enthalten, die mit weniger Reibung arbeiten.
 - Integrierter Speicher und Beleuchtungsvoreinstellungen - für ein persönliches Setup immer und überall: Bis zu 5 Tastatur-Profile lassen sich ohne zusätzliche Software speichern und aktivieren.
+- 40% kompakteres Gehäuse - für ein puristisches Gaming-Erlebnis unterwegs: Ideal für minimalistische oder kompaktere Setups, bei denen jeder Quadratzentimeter Platz kostbar ist. Dank den kompakten Abmessungen der Tastatur ist sie der ideale Begleiter unterwegs.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08GM7BJDN{{</world>}}

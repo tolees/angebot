@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- zeitlose Klassiker
 - Obermaterial aus weichem Leder
+- zeitlose Klassiker
 - weiterentwickelte Laufsohle mit klarem Design
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

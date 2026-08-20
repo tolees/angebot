@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - GEHEIME KARTEN ALS VORRAT: Jeder Spieler hat einen geheimen Vorrat an Karten, der das Partyspiel spannend hält. Kinder und Erwachsene lernen, Strategie und multiplayer Taktiken zu verbinden, um die Konkurrenz zu überlisten
-- EINFACH ZU LERNEN, SCHNELL ZU SPIELEN: Das klassische Spiel überzeugt durch einfache Regeln, fesselnde Strategie und schnelle Runden, ideal für Kinder, Familie und multiplayer Action bei jeder Party oder einfach zwischendurch
 - EIN SÜSSES KARTENSPIEL FÜR KINDER, JUGENDLICHE UND ERWACHSENE: Das Sweet Takes Kartenspiel ist ein spannendes Partyspiel voller Strategie, Taktik und Fantasie, das Kinder, Familie und Freunde begeistert
+- EINFACH ZU LERNEN, SCHNELL ZU SPIELEN: Das klassische Spiel überzeugt durch einfache Regeln, fesselnde Strategie und schnelle Runden, ideal für Kinder, Familie und multiplayer Action bei jeder Party oder einfach zwischendurch
 - STRATEGISCH VORGEHEN, UM DEN SÜSSEN SIEG ZU ERRINGEN: In diesem Strategiespiel für Familie und Freunde sammeln Spieler Karten clever ein, kombinieren Farben und Punkte und trainieren Fantasie sowie Rätsel-Fähigkeiten
 - 60 BUNTE KARTEN MIT SÜSSIGKEITEN-FARBEN: Die kunterbunten Karten fördern Fantasie und Farben-Erkennung, machen das Kinderspiel kreativ und spannend und laden zu fröhlichen Spielerunden mit Freunden und Familie ein
 

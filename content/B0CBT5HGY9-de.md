@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Artikeltyp: Shorts aus Fleece
-- Verschluss: falscher Hosenschlitz
-- Shorts für Jungen der dänischen Marke
 - Details: Kordelzug an der Taille, elastischer Bund
+- Verschluss: falscher Hosenschlitz
+- Artikeltyp: Shorts aus Fleece
+- Shorts für Jungen der dänischen Marke
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CBT5HGY9{{</world>}}

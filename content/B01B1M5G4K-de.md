@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die soliden Monobloc Tafelmesser aus rostfreiem Klingenstahl werden aus einem Stück geschmiedet und im Ganzen gehärtet. Der Wellenschliff garantiert langanhaltende Schärfe
-- Das Monoblocmesser liegt gut in der Hand und hat ein ausgewogenes Gewicht. Die Oberflächen sind präzise beabreitet. Alle Kanten sorgfältig verrundet
 - Inhalt: Besteck Set 6 Person (30 Teile): je 6 Gabeln, Tafelmesser, Löffel, Kuchengabeln, Tee-/ Kaffeelöffel - Artikelnummer: 1186916040
 - Das Besteckset wird in einer hochwertigen Besteckkassette geliefert. Die Abbildung auf dem Geschenkkarton ist bei allen WMF Bestecken einheitlich geführt (Modell Atria poliert)
+- Das Monoblocmesser liegt gut in der Hand und hat ein ausgewogenes Gewicht. Die Oberflächen sind präzise beabreitet. Alle Kanten sorgfältig verrundet
 - Material: Cromargan Edelstahl 18/10, poliert (glänzend). Besteckteile aus Cromargan sind beständig gegen Speisesäuren, geschmacksneutral, rostfrei und spülmaschinenfest
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

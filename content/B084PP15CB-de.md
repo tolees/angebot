@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nettofassungsvermögen 256 l: Kühlteil 171 l, Gefrierteil 85 l
 - NoFrostPlus, Multiflow 360°
-- BigBox, FreshZone,
-- Gemüsefach, LED Beleuchtung
 - Gerätemaße in cm (H x B x T): 182,4 x 55 x 55,7, 41 dB
+- Gemüsefach, LED Beleuchtung
+- BigBox, FreshZone,
+- Nettofassungsvermögen 256 l: Kühlteil 171 l, Gefrierteil 85 l
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B084PP15CB{{</world>}}

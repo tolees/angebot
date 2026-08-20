@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- lange Ausführung
-- Innenvierkant nach DIN 3121 / ISO 1174
 - für Maschinenbetätigung
+- Innenvierkant nach DIN 3121 / ISO 1174
 - 12-kant
+- lange Ausführung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00QU7KREG{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Logo an Ferse und Markenfenster
 - Perforierte Zehenkappe
+- Logo-Print an der Zunge
 - TPU-Fersenclip
 - Schaft und Zunge gepolstert
-- Logo an Ferse und Markenfenster
-- Logo-Print an der Zunge
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D5D9HJV3{{</world>}}

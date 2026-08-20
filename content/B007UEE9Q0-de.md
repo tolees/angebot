@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FÜR INNEN & AUßEN GEEIGNET: Unkomplizierte Pflanzenpflege das ganze Jahr über. Hängeampel mit Bewässerungssystem und Bodenschraube für den Ablauf von überschüssigem Regenwasser.
-- ROBUSTE FLECHTOPTIK: Die Oberfläche täuschend echter Flechtoptik bringt rustikal, charmanten Landhaus-Flair in den Garten, auf die Terrasse und auf den Balkon. In verschiedenen Farben und Größen erhältlich. Robust, pflegeleicht und langlebig.
-- ALL-IN-ONE: 1x Pflanzgefäß NIDO Cottage, inkl. Bewässerungssystem, Pflanzsubstrat LECHUZA-PON als Drainageschicht, wechselbarem Pflanzeinsatz und Wasserstandsanzeiger. Inklsuive Edelstahl-Aufhängung. Material: Kunststoff Maße: Ø 27 x 23 cm Wasserspeicher: 1,9 l Pflanzvolumen: 6 l Pflanzeinsatz: Ø 24 cm
 - MADE IN GERMANY: Hochwertiger, UV- und witterungsbeständiger Kunststoff, zu 100% recycelbar, langlebig und bruchsicher.
+- ROBUSTE FLECHTOPTIK: Die Oberfläche täuschend echter Flechtoptik bringt rustikal, charmanten Landhaus-Flair in den Garten, auf die Terrasse und auf den Balkon. In verschiedenen Farben und Größen erhältlich. Robust, pflegeleicht und langlebig.
+- FÜR INNEN & AUßEN GEEIGNET: Unkomplizierte Pflanzenpflege das ganze Jahr über. Hängeampel mit Bewässerungssystem und Bodenschraube für den Ablauf von überschüssigem Regenwasser.
+- ALL-IN-ONE: 1x Pflanzgefäß NIDO Cottage, inkl. Bewässerungssystem, Pflanzsubstrat LECHUZA-PON als Drainageschicht, wechselbarem Pflanzeinsatz und Wasserstandsanzeiger. Inklsuive Edelstahl-Aufhängung. Material: Kunststoff Maße: Ø 27 x 23 cm Wasserspeicher: 1,9 l Pflanzvolumen: 6 l Pflanzeinsatz: Ø 24 cm
 - MIT BEWÄSSERUNGSSYSTEM: Das im Pflanzgefäß integrierte Original LECHUZA-Bewässerungssystem versorgt Pflanzen zuverlässig mit der richtigen Menge an Wasser. Mit praktischem Wasserstandsanzeiger für die volle Gießkontrolle.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

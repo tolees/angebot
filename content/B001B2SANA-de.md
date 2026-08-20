@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reinigungsspray für die Grundreinigung von Whiteboards, FCKW-freies Pumpspray
-- Lieferumfang: Vier Whiteboard-Marker (rot, grün, blau, schwarz), ein Wischer, ein Reinigungsspray 250 ml und vier Magnete
 - Praktische Haftmagnete, rund
-- Wischer mit Schaumpolster, Magneteinlage und waschbarem Microfasertuch
 - Whiteboard-Marker mit blockierter Rundspitze, Linienbreite ca. 2 mm, DRY SAFE - kann tagelang offen liegen ohne einzutrocknen (Prüfklima nach ISO 554) - für hohe Zuverlässigkeit
+- Wischer mit Schaumpolster, Magneteinlage und waschbarem Microfasertuch
+- Lieferumfang: Vier Whiteboard-Marker (rot, grün, blau, schwarz), ein Wischer, ein Reinigungsspray 250 ml und vier Magnete
+- Reinigungsspray für die Grundreinigung von Whiteboards, FCKW-freies Pumpspray
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001B2SANA{{</world>}}

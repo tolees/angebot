@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Normal Haartyp
 - Marke: Urtekram
 - Mit den Befeuchtern der Natur: Aloe Vera und Glyzerin, gefüllt, die Ihr Haar auf leichte Weise pflegen.
 - Schenken Sie Ihrem Haar Feuchtigkeit, und genießen Sie den Duft von tausend Rosen.
-- Normal Haartyp
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00J9SCR28{{</world>}}

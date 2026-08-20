@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Gazin, Mullkompressen 10 cm x 10 cm steril 8fach 50x2 300 g, Weiss, 100 stück, (Pack of 50)
 - Gazin, Mullkompressen 10 cm x 10 cm steril 8fach 50x2 300 g, Weiss, 100 stück, (Pack of 50)
-- Gazin, Mullkompressen 10 cm x 10 cm steril 8fach 50x2 300 g, Weiss, 100 stück, (Pack of 50)
 - ingredients: Verbandmull DIN EN 14083
+- Gazin, Mullkompressen 10 cm x 10 cm steril 8fach 50x2 300 g, Weiss, 100 stück, (Pack of 50)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000WNHKJ4{{</world>}}

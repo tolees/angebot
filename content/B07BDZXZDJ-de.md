@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Doppelherz Flohsamenschalen unterstützen durch ihren hohen Gehalt an quellfähigen und löslichen Ballaststoffen eine gesunde Ernährung
-- Die geschmacksneutralen Samenschalen des indischen Flohsamens lassen sich unkompliziert in die Ernährung integrieren und sind langfristig anwendbar - auch für Vegetarier und Veganer geeignet
-- Die Samenschalen können ein Vielfaches ihres eigenen Gewichts an Flüssigkeit an sich binden und unterstützen damit die Darmgesundheit und natürliche Verdauung
 - Eine ausgewogene und abwechslungsreiche Ernährung ist wichtig, daher wird empfohlen ca. 30 g Ballaststoffe pro Tag zu sich zu nehmen - 6 g Flohsamenschalen decken 17 % dieser empfohlenen Tageszufuhr
 - Lieferumfang: Eine Packung Doppelherz Flohsamenschalen enthält 250 g. Vegan, gluten- und laktosefrei
+- Die Samenschalen können ein Vielfaches ihres eigenen Gewichts an Flüssigkeit an sich binden und unterstützen damit die Darmgesundheit und natürliche Verdauung
+- Die Doppelherz Flohsamenschalen unterstützen durch ihren hohen Gehalt an quellfähigen und löslichen Ballaststoffen eine gesunde Ernährung
+- Die geschmacksneutralen Samenschalen des indischen Flohsamens lassen sich unkompliziert in die Ernährung integrieren und sind langfristig anwendbar - auch für Vegetarier und Veganer geeignet
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07BDZXZDJ{{</world>}}

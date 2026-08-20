@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Dieses Modell verfügt über die wasserabweisende riekerTEX-Membran, die optimalen Nässeschutz sowie perfekten Kälte- und Windschutz bei guter Atmungsaktivität garantiert.
+- Obermaterial: Kunstleder, Innenmaterial: Textil, Laufsohle: TR-Sohle, Decksohle: Textil
 - Produkttyp: Stiefeletten,Halbschuhe,Low-Top Sneaker,Damenschuhe,Schnürschuhe,Schnürer,Halbschuhe,Straßenschuhe,Freizeitschuhe
 - Absatztyp: Keilabsatz, Absatzhöhe: 3.3 cm, Schafttyp: Halbschaft, Schafthöhe: 10 cm
-- Obermaterial: Kunstleder, Innenmaterial: Textil, Laufsohle: TR-Sohle, Decksohle: Textil
 - Weite: Normal (F), Verschluss: Reißverschluss, Wasserbeständigkeit: wasserabweisend dank riekerTEX
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

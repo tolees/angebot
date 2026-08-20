@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sechs-Eingangskanäle mit unbalanciertem AES3-Digital-Audio auf BNC-Anschlüssen mit 75 Ohm für 5.1-Messungen auf Übertragungsniveau
-- Professionelles Stereo- und 5.1-Audio-Meter zum Mixen, Mastern und für Nachproduktionen
 - Konform mit allen größeren Übertragungsstandards, inklusive ITU BS.1770-4, ATSC A/85, EBU R128, TR-B32 und OP-59
 - USB-Anschluss für unkompliziertes Messen von VST, Audio-Einheiten und AAX-Plug-In
+- Sechs-Eingangskanäle mit unbalanciertem AES3-Digital-Audio auf BNC-Anschlüssen mit 75 Ohm für 5.1-Messungen auf Übertragungsniveau
 - 17,8 cm (7 Zoll) großes, hochauflösendes LCD-Display für präzises Messen in allen Studio-Umgebungen
+- Professionelles Stereo- und 5.1-Audio-Meter zum Mixen, Mastern und für Nachproduktionen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01M9BCGNH{{</world>}}

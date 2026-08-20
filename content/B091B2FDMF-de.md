@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - QUALITÄT & VERTRAUEN: Als Fahrradjacke von VAUDE auf Langlebigkeit und reparaturfreundliche Verarbeitung ausgelegt, mit wasserabweisendem NoPFAS Finish – ein verlässlicher Begleiter für Radfahren
-- WETTERFEST: Die leichte Fahrradjacke Herren ist nicht nur wasserdicht & atmungsaktiv, sondern dank der speziell eingearbeiteten Membran auch zu 100% winddicht und schützt den Körper vor Auskühlung
 - VIELSEITIGE NUTZUNG: Die äußerst vielseitig einsetzbare Softshell-Jacke Herren ist primär für den Einsatz auf dem Fahrrad konzipiert, eignet sich aber auch bestens als Outdoorjacke für den Alltag
+- WETTERFEST: Die leichte Fahrradjacke Herren ist nicht nur wasserdicht & atmungsaktiv, sondern dank der speziell eingearbeiteten Membran auch zu 100% winddicht und schützt den Körper vor Auskühlung
 - NoPFAS Finish: Die VAUDE Fahrradjacke Herren kommt unter Verzicht auf PFC/PFAS aus. Dank der NoPFAS Finish-Beschichtung lässt die Oberfläche der Radfahrjacke Wasser abperlen
 - FUNKTIONAL: Für eine ideale Passform verfügt die Radfahrjacke über verstellbare Bündchen, eine Kapuze & eine ergonomische Schnittführung, speziell auf die Bedürfnisse von Radfahrern abgestimmt
 

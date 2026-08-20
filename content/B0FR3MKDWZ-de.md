@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Wenn du ein amiibo scannst, während du kompatible Nintendo Switch-, Nintendo 3DS- oder Wii U-Software spielst, kannst du überraschende neue Funktionen entdecken.
-- amiibo haben abhängig vom jeweiligen Spiel verschiedene Effekte: Du kannst neue Modi, Waffen oder Charakteranpassungen freischalten oder die Fähigkeiten deines amiibo verbessern, um sie zu einem perfekten Partner oder starken Gegner zu machen.
-- amiibo sind interaktive Figuren, die mit deinen Spielen interagieren.
 - In bestimmten kompatiblen Spielen bekommst du mit amiibo Zugang zu ganz neuen Missionen.
+- amiibo sind interaktive Figuren, die mit deinen Spielen interagieren.
+- amiibo haben abhängig vom jeweiligen Spiel verschiedene Effekte: Du kannst neue Modi, Waffen oder Charakteranpassungen freischalten oder die Fähigkeiten deines amiibo verbessern, um sie zu einem perfekten Partner oder starken Gegner zu machen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0FR3MKDWZ{{</world>}}

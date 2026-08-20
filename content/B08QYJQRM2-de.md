@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- kordelzug kapuze können sie ihre abdeckung anpassen.
-- fleece-stoff fühlt sich weich und warm.
 - kängurutasche auf der vorderseite
+- fleece-stoff fühlt sich weich und warm.
 - Hülsentyp: Langarm
+- kordelzug kapuze können sie ihre abdeckung anpassen.
 - Pflegehinweise: Maschinenwäsche
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

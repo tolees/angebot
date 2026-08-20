@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 6-Achsen-Bildstabilisierung: vermeidet Verwacklungen bei schnellen Bewegungen für beeindruckende Aufnahmen
-- 2,2"-IPS-Touch-Rückdisplay und 2"-Frontdisplay: für bequeme Vorschau und Einstellung.
-- Kabelloses 2,4 GHz Funk-Mikrofon: 3m Reichweite für perfekte Audioerfassung.
-- 5K-Videoauflösung: für gestochen scharfe Abenteuer-Videos.
 - Wasserdicht bis zu 30: Das im Lieferumfang enthaltene Unterwassergehäuse garantiert sichere Unterwasserfnahmen bis zu 30m tiefe.
+- 2,2"-IPS-Touch-Rückdisplay und 2"-Frontdisplay: für bequeme Vorschau und Einstellung.
+- 6-Achsen-Bildstabilisierung: vermeidet Verwacklungen bei schnellen Bewegungen für beeindruckende Aufnahmen
+- 5K-Videoauflösung: für gestochen scharfe Abenteuer-Videos.
+- Kabelloses 2,4 GHz Funk-Mikrofon: 3m Reichweite für perfekte Audioerfassung.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C5RFWDX7{{</world>}}

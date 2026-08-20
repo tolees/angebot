@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- schmale Stretch-Bündchen an Ärmeln und Kragen
 - praktische Knopfleiste und Stehkragen
 - leichter und super bequemer Pullover
 - aus kuschelig weichem Fleece
+- schmale Stretch-Bündchen an Ärmeln und Kragen
 - extra Brusttasche
 
 [🛒 Hier!!]({{< param buyurl >}})

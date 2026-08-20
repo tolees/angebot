@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Keramikmahlwerk ist härter als Stahl, korrosions- und verschleißfrei. Es mahlt Pfeffer und Salzkörner, getrocknete Kräuter (Chillischoten) und Gewürze. Keramik ist lebensmittelneutral und abriebfrei
-- Inhalt: 1x Gewürzmühle unbefüllt (Höhe 13,8 cm, Ø 6 cm) ohne Beschriftung - Artikelnummer: 0652304500
 - Material: Eichenholz, Keramik-Mahlwerk, Glasbehälter (spülmaschinengeeignet). Keinen Schmutz auf der Arbeitsfläche da die Mahl-Öffnung der Salz- und Pfeffermühle oben liegt. Aromadicht verschließbar
-- Herstellergarantie: 10 Jahre auf das Keramikmahlwerk. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“
+- Keramikmahlwerk ist härter als Stahl, korrosions- und verschleißfrei. Es mahlt Pfeffer und Salzkörner, getrocknete Kräuter (Chillischoten) und Gewürze. Keramik ist lebensmittelneutral und abriebfrei
 - Das Einstellrad ermöglicht die stufenlose Einstellung der Mahlstärke von grob bis fein. Bei jeder Drehung kommt das Mahlgut in gleichmäßiger Körnung heraus. Große Öffnung für problemloses Nachfüllen
+- Herstellergarantie: 10 Jahre auf das Keramikmahlwerk. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“
+- Inhalt: 1x Gewürzmühle unbefüllt (Höhe 13,8 cm, Ø 6 cm) ohne Beschriftung - Artikelnummer: 0652304500
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00I3YGDYC{{</world>}}

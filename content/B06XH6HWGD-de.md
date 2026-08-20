@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- sport_type;Outdoor Sports Apparel
-- Hergestellt in Vietnam
-- 2-lagige Stoff-Konstruktion, voll versiegelte Nähte
 - Verstellbare Ärmelbündchen, innen- und Außentaschen
+- 2-lagige Stoff-Konstruktion, voll versiegelte Nähte
+- Hergestellt in Vietnam
+- sport_type;Outdoor Sports Apparel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B06XH6HWGD{{</world>}}

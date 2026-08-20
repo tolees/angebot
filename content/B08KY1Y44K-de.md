@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Ärmel : Kurzarm
 - Passform : Lang geschnitten
 - Klassisches schlichtes T-Shirt
-- Ärmel : Kurzarm
 - Hals : Rundhals
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

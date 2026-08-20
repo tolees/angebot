@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die 5 Fahrzeuge im Hot Wheels Premium Car Culture Japan Historics 4 Container-Set sind in einem speziellen Container erhältlich, der ein echtes Sammlerstück ist und in dem die Autos aufbewahrt oder ausgestellt werden können.
-- Das Hot Wheels Premium Car Culture Japan Historics 4 Container-Set bietet 5 Repliken legendärer japanischer Fahrzeuge in hochwertiger Ausführung.
-- Jedes Die-Cast-Fahrzeug im Maßstab 1:64 hat eine Karosserie und ein Fahrwerk aus Metall sowie RealRiders-Reifen.
 - Diese Sammlung enthält namhafte Fahrzeuge aus Japan mit Repliken eines Toyota Corolla TE 27, eines Prince Skyline GT, eines Mazda RX3, eines Honda Civic Custom und eines Nissan Fairlady Z.
+- Jedes Die-Cast-Fahrzeug im Maßstab 1:64 hat eine Karosserie und ein Fahrwerk aus Metall sowie RealRiders-Reifen.
+- Das Hot Wheels Premium Car Culture Japan Historics 4 Container-Set bietet 5 Repliken legendärer japanischer Fahrzeuge in hochwertiger Ausführung.
+- Die 5 Fahrzeuge im Hot Wheels Premium Car Culture Japan Historics 4 Container-Set sind in einem speziellen Container erhältlich, der ein echtes Sammlerstück ist und in dem die Autos aufbewahrt oder ausgestellt werden können.
 - Mit diesem Set kann die Hot Wheels Premium Car Culture-Serie für eine möglichst vollständige Sammlung erweitert werden. Alle Artikel separat erhältlich.
 
 [🛒 Hier!!]({{< param buyurl >}})

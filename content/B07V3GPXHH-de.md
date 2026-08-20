@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Smooth Leather
-- Sohle: Synthetic
 - Innenmaterial: Synthetic
+- Sohle: Synthetic
+- Obermaterial: Smooth Leather
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07V3GPXHH{{</world>}}

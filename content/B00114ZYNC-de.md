@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Material: Stahl
 - Unisex
+- Material: Stahl
 - Werkzeug für Innenlager
 - Radsport
 

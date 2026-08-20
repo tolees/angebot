@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Diese beliebte Kollektion bietet eine Kombination aus verschiedenen Duftnoten, die beim Schmelzen ihr ganz eigenes Aroma entfalten.
-- Der HearthWick-Docht knistert beim Abbrennen und erzeugt eine lange, tanzende Flamme.
 - Brenndauer: bis zu 50 Stunden
+- Der HearthWick-Docht knistert beim Abbrennen und erzeugt eine lange, tanzende Flamme.
 - Die hochwertige Mischung aus Paraffin- und Sojawachs sorgt für eine wunderschöne Flamme.
 - Diese Trilogy-Kerze kombiniert drei beliebte Düfte: Lavender Spa, Sea Salt & Cotton und White Tea & Jasmine.
+- Diese beliebte Kollektion bietet eine Kombination aus verschiedenen Duftnoten, die beim Schmelzen ihr ganz eigenes Aroma entfalten.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07FQ9FFKH{{</world>}}

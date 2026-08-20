@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hohe Bundhöhe
 - Jeanshose für Damen, Skinny, Standardlänge, 5-Taschen-System, Reißverschluss, Gürtelschlaufen
+- Hohe Bundhöhe
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BV3XVJ3T{{</world>}}

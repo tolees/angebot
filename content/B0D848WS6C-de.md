@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Silent Klick: gedämpfte leise Maustasten für nahezu geräuschloses Klicken, Aluminium Scrollrad, Daumenrad für seitliches Scrollen, 2 Daumentasten, Programmierbare Tasten (extra Treiber downloadbar)
-- Multi-Mode Funkmaus: Die leise Computermaus mit Daumenrad verbindet sich per Bluetooth 4.0, 5.0 sowie 2.4 GHz USB Wireless, Multi Device Unterstützung durch einfaches Umschalten zwischen bis zu 3 Geräten, für größere Hände
-- Treiberlose Plug-and-Play-Installation: Bluetooth Funkmaus kompatibel mit Windows 11, Windows 10 und ältere Versionen, Linux sowie Mac OS. Abmessungen: 12,5 x 8,1 x 4,7 cm Gewicht: 103 Gramm, USB-A zu USB-C Ladekabel enthalten
-- Langlebiger Akku: Kein Batteriewechsel mehr nötig, wiederaufladbarer Li-Ion Akku über USB-C mit 800 mAh Kapazität für bis zu bis zu 30 Tage Betrieb,low Battery Anzeige, abschaltbar, Qi kabellos Laden möglich (kabelloses Lade-Erweiterungsmodul separat erhältlich)
 - Präziser optischer Senor: Die PC Maus ohne Kabel mit hochauflösenden, einstellbaren optischen Sensor bis 4000 DPI ermöglicht eine präszise Mauszeigersteuerung auf nahezu jeder Oberfläche
+- Treiberlose Plug-and-Play-Installation: Bluetooth Funkmaus kompatibel mit Windows 11, Windows 10 und ältere Versionen, Linux sowie Mac OS. Abmessungen: 12,5 x 8,1 x 4,7 cm Gewicht: 103 Gramm, USB-A zu USB-C Ladekabel enthalten
+- Multi-Mode Funkmaus: Die leise Computermaus mit Daumenrad verbindet sich per Bluetooth 4.0, 5.0 sowie 2.4 GHz USB Wireless, Multi Device Unterstützung durch einfaches Umschalten zwischen bis zu 3 Geräten, für größere Hände
+- Silent Klick: gedämpfte leise Maustasten für nahezu geräuschloses Klicken, Aluminium Scrollrad, Daumenrad für seitliches Scrollen, 2 Daumentasten, Programmierbare Tasten (extra Treiber downloadbar)
+- Langlebiger Akku: Kein Batteriewechsel mehr nötig, wiederaufladbarer Li-Ion Akku über USB-C mit 800 mAh Kapazität für bis zu bis zu 30 Tage Betrieb,low Battery Anzeige, abschaltbar, Qi kabellos Laden möglich (kabelloses Lade-Erweiterungsmodul separat erhältlich)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D848WS6C{{</world>}}

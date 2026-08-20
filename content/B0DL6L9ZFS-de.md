@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Es hat einen USB‑C Anschluss und kommt mit einem gewebten USB‑C Ladekabel, das du zum Laden und Koppeln über einen USB‑C Anschluss mit dem Mac verbinden kannst.
-- Es koppelt sich automatisch mit deinem Mac und ist direkt einsatzbereit.
 - Und es ist kabellos und wiederaufladbar. Mit seiner unglaublich langen Batterielaufzeit kannst du es ungefähr einen Monat oder länger verwenden, bevor du es aufladen musst.
 - Das Magic Keyboard macht präzises Tippen besonders angenehm und einfach.
+- Es koppelt sich automatisch mit deinem Mac und ist direkt einsatzbereit.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DL6L9ZFS{{</world>}}

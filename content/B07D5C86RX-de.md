@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Straffend
 - Einfache Bedienung
+- Straffend
 - Langlebigkeit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

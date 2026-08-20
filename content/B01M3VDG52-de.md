@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Bio-Qualität (Demeter)
 - Beste Demeter-Qualität
 - Nährstoffreich und besonders gut bekömmlich
-- Körner werden geschält und gedämpft
-- Bio-Qualität (Demeter)
 - Nussige Note
+- Körner werden geschält und gedämpft
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01M3VDG52{{</world>}}

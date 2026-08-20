@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Stil: Steppjacke
-- Steppjacke
 - Stil: Steppjacke
+- Steppjacke
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00NLLUWLC{{</world>}}

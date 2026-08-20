@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Diese hochwertige Microlight Lichterkette sorgt Abend für Abend für festlichen Lichterzauber an Ihrem Weihnachtsbaum und lässt magische Lichter in Ihrer adventlichen Kulisse aufleuchten.
 - Mit 120 klaren Birnen, erstrahlt jeder Weihnachtsbaum in einem schönen Glanz.
 - Mit der Schutzklasse IP44, kann diese Lichterkette sowohl drinnen als auch draußen für eine schöne Atmosphäre sorgen. Es bietet Ihnen besten Schutz gegen feste Fremdkörper und Spritzwasser.
+- Diese hochwertige Microlight Lichterkette sorgt Abend für Abend für festlichen Lichterzauber an Ihrem Weihnachtsbaum und lässt magische Lichter in Ihrer adventlichen Kulisse aufleuchten.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000UXDNY2{{</world>}}

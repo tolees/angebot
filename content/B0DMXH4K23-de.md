@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Das vertikale Design bietet eine kompakte Stellfläche, die den benötigten Platz optimiert
 - Schnelles Laden von iPhone und AirPods zusammen in einer platzsparenden Halterung
 - Laden Sie die Airpods oder ein zweites schnurloses Telefon in veganem Leder auf
-- Das vertikale Design bietet eine kompakte Stellfläche, die den benötigten Platz optimiert
 - Der verstellbare Winkel hält das iPhone aufrecht, damit es während des Ladevorgangs auf dem Bildschirm bleibt
 
 [🛒 Hier!!]({{< param buyurl >}})

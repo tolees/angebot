@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Spannweite: 1,0-10 mm
-- Passend für alle Metabo L "Quick" Maschinen
 - Ausführung mit Kunststoffhülse; 1-hülsig; nicht schlagbohrfest; für Rechts- und Linkslauf geeignet
+- Passend für alle Metabo L "Quick" Maschinen
 - Einfacher, schneller und komfortabler Wechsel des Bohrfutters durch Metabo Schnellwechselsystem "Quick"
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

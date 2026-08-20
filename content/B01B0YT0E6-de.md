@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnellkochfunktion für 1, 2 oder 3 Tassen
-- Automatische Deckelöffnung per Knopfdruck
-- Kocht eine Tasse Wasser (235 ml) in 55 Sekunden und spart bis zu 70% Energie (beim Kochen einer Tasse Wasser (235 ml) im Vergleich zu 1,0 l)
 - Perfect Pour-Ausgusstülle - ermöglicht ein tropfenfreies Ausgießen
 - Verdecktes Heizelement und herausnehmbarer Kalkfilter
+- Kocht eine Tasse Wasser (235 ml) in 55 Sekunden und spart bis zu 70% Energie (beim Kochen einer Tasse Wasser (235 ml) im Vergleich zu 1,0 l)
+- Schnellkochfunktion für 1, 2 oder 3 Tassen
+- Automatische Deckelöffnung per Knopfdruck
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01B0YT0E6{{</world>}}

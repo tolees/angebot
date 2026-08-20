@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kompakt und reisetauglich: Für unterwegs konzipiert. Die einziehbaren Stecker lassen sich problemlos in das Gehäuse einklappen, so dass die Metallkontakte nicht freiliegen oder beschädigt. Abmessungen: 55,5 × 46,6 × 40,6 mm
 - Tragbar mit GaN-Technologie: Dieses Ladegerät überzeugt durch sein kompaktes Design. Es fügt sich mühelos in jedes Setup ein, ohne Platz zu beanspruchen oder andere Geräte zu blockieren und ist dabei rund 44 % kleiner als andere 96 W USB-C-Netzadapter.
-- 3-in-1 Mehrfachanschluss Schnellladegerät: Versorgen Sie gleichzeitig Laptop, Smartphone und Kopfhörer mit Strom. Das Ladegerät passt die Leistung intelligent an die Ladebedürfnisse jedes Geräts an und sorgt so für effizientes, stabiles und sicheres Laden. 100 W (max.) USB-C – lädt ein MacBook Pro 13” M4 in nur 1 Std. 58 Min. vollständig auf.
-- Sicherer und fester Sitz: Verfügt über ein Gravity-Lock-Design, das das Ladegerät sicher an seinem Platz hält und es fällt nicht während des Ladevorgangs heraus. Der AC-Stecker wurde auf 25 000 Steckvorgänge getestet, ohne dass Schäden entstanden sind.
+- Kompakt und reisetauglich: Für unterwegs konzipiert. Die einziehbaren Stecker lassen sich problemlos in das Gehäuse einklappen, so dass die Metallkontakte nicht freiliegen oder beschädigt. Abmessungen: 55,5 × 46,6 × 40,6 mm
 - Stabile Leistung für zuverlässigen Betrieb: Im eingesteckten Zustand hält das Ladegerät dank Anti-Schwerkraft-Design ein Gewicht von bis zu 0,6 kg, ohne aus der Steckdose zu rutschen. Die Steckdose ist äußerst robust und übersteht bis zu 25 000 Steckzyklen ohne Abnutzung.
+- Sicherer und fester Sitz: Verfügt über ein Gravity-Lock-Design, das das Ladegerät sicher an seinem Platz hält und es fällt nicht während des Ladevorgangs heraus. Der AC-Stecker wurde auf 25 000 Steckvorgänge getestet, ohne dass Schäden entstanden sind.
+- 3-in-1 Mehrfachanschluss Schnellladegerät: Versorgen Sie gleichzeitig Laptop, Smartphone und Kopfhörer mit Strom. Das Ladegerät passt die Leistung intelligent an die Ladebedürfnisse jedes Geräts an und sorgt so für effizientes, stabiles und sicheres Laden. 100 W (max.) USB-C – lädt ein MacBook Pro 13” M4 in nur 1 Std. 58 Min. vollständig auf.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0FC2B8M1Y{{</world>}}
