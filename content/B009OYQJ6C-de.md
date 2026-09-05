@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Manhattan Soft Mat Loose Powder Loses Puder zum Mattieren und Baken des Teints Farbe Natural 1 1 x 20g | 20 g 1er Pack Kosmetik'
+date: 2026-09-01 07:20:13
+image: 'https://m.media-amazon.com/images/I/41xThNXP7LL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B009OYQJ6C-de Manhattan Soft Mat Loose Powder Loses Puder zum Mattieren...'
+sku: 'B009OYQJ6C-de'
+tags: [ '🇩🇪', ]
+actualPrice: 4.17 EUR
+currency: EUR
+price: 4.17
+comparePrice: 6.99 EUR
+prodname: 'Manhattan Soft Mat Loose Powder Loses Puder zum Mattieren und Baken des Teints Farbe Natural 1 1 x 20g | 20 g 1er Pack Kosmetik'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B009OYQJ6C/?tag=tolees0ca-21'
+descuento: '40.34'
+average: '4.17'
+---
+
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Ultrafeine Partikel für ein samtig-weiches Hautbild
+- Loses, mattes Puder mit federleichter Textur
+- Lässt Unebenheiten und Poren verschwinden
+
+[🛒 kauf es hier!!]({{< param buyurl >}})
+{{<world>}}B009OYQJ6C{{</world>}}

@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Minecraft Legends - Deluxe Edition - PS5'
+date: 2026-08-31 22:20:08
+image: 'https://m.media-amazon.com/images/I/51IRyMkfqDL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0BT38VFGV-de Minecraft Legends - Deluxe Edition - PS5'
+sku: 'B0BT38VFGV-de'
+tags: [ '🇩🇪', ]
+actualPrice: 16.09 EUR
+currency: EUR
+price: 16.09
+comparePrice: 19.99 EUR
+prodname: 'Minecraft Legends - Deluxe Edition - PS5'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B0BT38VFGV/?tag=tolees0ca-21'
+descuento: '19.51'
+average: '25.7305263157895'
+---
+
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Willst du die*der bestgekleidete Held*in auf dem Schlachtfeld sein? Kämpfe gegen die Bedrohung durch die Piglins in einigen der besten Gewänder, die die Oberwelt je gesehen hat! Kleide deine*n Held*in und sein*ihr treues Ross in exquisite Gewänder mit dem Minecraft Legends Deluxe Skin Pack, das einen Hero-Skin, vier Mount-Skins und einen zusätzlichen Mount-Skin enthält, sobald dieser verfügbar ist. Aber vergiss nicht, dass diese Skins dir keinen Vorteil auf dem Schlachtfeld verschaffen – abgesehen von einem Schub Selbstvertrauen natürlich!
+- Erlebe eine der größten Legenden des Minecraft-Universums und die Oberwelt, wie du sie noch nie zuvor gesehen hast.
+- Fordere deine Freund*innen heraus oder schließe dich zusammen, um in erbitterten Kämpfen dein Dorf zu verteidigen und deine Einheiten bei der Zerstörung der gegnerischen Siedlungen anzuführen.
+- Durchlaufe eine opulente, dynamische Welt, die reich an Ressourcen ist und sich in jedem Durchgang verändert .
+- Enthält das Minecraft Legends Basisspiel und das Deluxe Skin Pack mit sechs zusätzlichen In-Game-Skins: ein*e Held*in, vier Mounts und einen zusätzlichen Mount-Skin, sobald dieser verfügbar ist.
+- Schmiede Allianzen mit neuen Freund*innen und vertrauten Mobs und übernimm die Führung in spektakulären Schlachten gegen die grimmigen Piglins und verteidige die Oberwelt.
+
+[🛒 kauf es hier!!]({{< param buyurl >}})
+{{<world>}}B0BT38VFGV{{</world>}}

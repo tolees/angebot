@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Yaheetech Bürostuhl Ergonomisch Drehstuhl mit Schaukelfunktion Schwarz'
+date: 2026-08-23 22:33:17
+image: 'https://m.media-amazon.com/images/I/41ZnvMu375L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DN5RNM1Z-de Yaheetech Bürostuhl Ergonomisch Drehstuhl mit...'
+sku: 'B0DN5RNM1Z-de'
+tags: [ '🇩🇪', ]
+actualPrice: 47.99 EUR
+currency: EUR
+price: 47.99
+comparePrice: 59.99 EUR
+prodname: 'Yaheetech Bürostuhl Ergonomisch Drehstuhl mit Schaukelfunktion Schwarz'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B0DN5RNM1Z/?tag=tolees0ca-21'
+descuento: '20.00'
+average: '47.204'
+---
+
+Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Hoher Sitzkomfort: Die breite Sitzfläche von 52 cm B × 48,5 cm T, die ergonomisch-geformte Rückenlehne und die gebogenen Armlehnen sorgen für ein komfortables Sitzerlebnis
+- Mit Schaukelfunktion: Mittels Drehknopf unter dem Sitz auf der rechten Seite können Sie die Rückenlehne einstellen. Entspannen Sie sich nach einem langen und anstrengenden Tag
+- Verstellbare Sitzhöhe: Die Sitzhöhe können Sie durch den Hebel unter der Sitzfläche leicht von 44 cm bis 53,5 cm verstellen. Es ermöglicht die Anpassung an verschiedene Körpergröße und unterschiedliche Tische
+- Ergonomisches Design: Die geschwungene Rückenlehne passtsich optimal den Körperkonturen an. Die schmetterlingsförmige Form bietet stützenden Komfort, ähnlich wie Hände, die den Rücken abstützen. Gleichzeitig verleiht sie dem Stuhl eine elegante Optik
+- Praktisch & vielseitig: Dieser Mesh-Stuhl entspricht dem Bedürfnis nach Haltbarkeit und Komfort. Er eignet sich für Arbeitszimmer, Büro, Empfangsraum, Konferenzraum und dergleichen
+
+[🛒 Hier!!]({{< param buyurl >}})
+{{<world>}}B0DN5RNM1Z{{</world>}}
