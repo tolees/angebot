@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - nachhaltig
-- Pullover
-- Unterstützt die Better Cotton Initiative
 - 100% Baumwolle,
+- Unterstützt die Better Cotton Initiative
+- Pullover
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B088X7CZRJ{{</world>}}

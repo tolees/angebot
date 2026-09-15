@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Gepolsterte Schaumstoff Einlegesohle
-- Schnürverschluss
-- Textilfutter
 - Strapazierfähige Gummiaußensohle
+- Textilfutter
+- Schnürverschluss
 - EVA Zwischensohle
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Leder: Smooth Leather
-- LightweightLightweight
 - 12.1299999876274 inches
+- LightweightLightweight
 - Verschluss: Ethylen-Vinylacetat
 
 [🛒 Hier!!]({{< param buyurl >}})

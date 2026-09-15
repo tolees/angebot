@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rundes Edelstahlgehäuse mit grauem Zifferblatt.
-- Sollte sich Deine Uhr nach dem Auspacken nicht einschalten lassen, muss die Batterie ausgetauscht werden. Die Batterie kann in Deinem Fossil Store vor Ort oder bei jedem Juwelier in Deiner Nähe ausgetauscht werden.
-- 57-mm-Gehäuse, Mineralglas, Quarzwerk mit analoger Chronographenanzeige, 28-mm-Bandanstoß.
 - Anthrazit, Edelstahlband.
+- Rundes Edelstahlgehäuse mit grauem Zifferblatt.
+- 57-mm-Gehäuse, Mineralglas, Quarzwerk mit analoger Chronographenanzeige, 28-mm-Bandanstoß.
+- Sollte sich Deine Uhr nach dem Auspacken nicht einschalten lassen, muss die Batterie ausgetauscht werden. Die Batterie kann in Deinem Fossil Store vor Ort oder bei jedem Juwelier in Deiner Nähe ausgetauscht werden.
 - Wasserdicht bis zu 30 m: Vor Spritzwasser geschützt.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- mit Schleife
 - persönliche Gestaltungsmöglichkeit
-- Baby-Aufbewahrungsbox Little Foot
 - mit Schubladen
+- Baby-Aufbewahrungsbox Little Foot
+- mit Schleife
 - hochwertiger Einband mit Silberprägung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

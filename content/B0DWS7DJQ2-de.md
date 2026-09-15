@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LACKARTIGE TINTE: Kreative Marker in verschiedenen leuchtenden Farben, die nicht durch das Papier dringen
-- Enthält 6 wasserbasierte Malstifte in Grün-Tinte
-- KOMBINIEREN OHNE DURCHDRINGEN: Verleiht Ihren Arbeiten Tiefe mit Farben, die wunderschön miteinander kombinieren werden können, ohne zu verwischen
 - KEIN SCHÜTTELN MEHR: Kräftiges, lackartiges Finish, ohne lästiges Grundieren – einfach Deckel ab und los geht‘s (am Besten bewahren Sie die Marker horizontal auf)
+- LACKARTIGE TINTE: Kreative Marker in verschiedenen leuchtenden Farben, die nicht durch das Papier dringen
+- KOMBINIEREN OHNE DURCHDRINGEN: Verleiht Ihren Arbeiten Tiefe mit Farben, die wunderschön miteinander kombinieren werden können, ohne zu verwischen
 - BEEINDRUCKT AUF HELLEN & DUNKLEN OBERFLÄCHEN: Hinterlässt auf Metall, Holz, Keramik, Glas, Stein, Leinwand und mehr einen guten Eindruck
+- Enthält 6 wasserbasierte Malstifte in Grün-Tinte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DWS7DJQ2{{</world>}}

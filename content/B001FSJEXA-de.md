@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aus Hartweizengrieß
-- Die Form erinnert an Muscheln
 - Ist Montage erforderlich;nein
 - Ideal für alle Arten von Saucen
+- Aus Hartweizengrieß
+- Die Form erinnert an Muscheln
 - Herkunftsland: Italien
 
 [🛒 Hier!!]({{< param buyurl >}})

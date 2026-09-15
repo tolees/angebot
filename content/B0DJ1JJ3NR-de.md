@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Verstärkte Zehenkappe
 - Obermaterial aus Wildleder und Canvas
 - Stützender gepolsterter Rand
-- Verstärkte Zehenkappe
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DJ1JJ3NR{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kängurutaschen
 - Regulär geschnitten; mittelhoher Bund
-- Durchgehender Reißverschluss; Kapuze
 - 70 % Baumwolle / 30 % Polyester (recycelt)
+- Kängurutaschen
+- Durchgehender Reißverschluss; Kapuze
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CZXXV6CT{{</world>}}

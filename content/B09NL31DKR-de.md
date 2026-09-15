@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Schnürsenkel
 - Obermaterial aus Synthetikleder
+- Textilfutter
 - Bequemes Tragegefühl dank optimaler Dämpfung
 - Reguläre Passform
-- Textilfutter
 - EVA-Einlegesohle
 
 [🛒 Hier!!]({{< param buyurl >}})

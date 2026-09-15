@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Blitzschuhhalterung mit Sicherungsring
 - Stromversorgung durch kompatible Canon-Kameras
 - Elektret-Kondensator Stereo-Mikrofon mit 3,5 mm Audio-Klinkenanschluss
-- Blitzschuhhalterung mit Sicherungsring
 - Windschutz
 - 100 Hz bis 10 kHz Frequenzbereich
 

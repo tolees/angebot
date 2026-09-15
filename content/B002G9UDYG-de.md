@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Carhartt label on front
 - Rib knit
+- Carhartt label on front
 - Fold-up cuff
 
 [🛒 Hier!!]({{< param buyurl >}})

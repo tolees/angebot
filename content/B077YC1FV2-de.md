@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Die Heiligen Drei Könige: Sie folgten einem Stern und entdeckten das Licht der Welt
 - Maße: höchste 21,6 cm
-- Höhe: 14 cm
 - Geburt Christi: Erblicke die Ehrfurcht und das Wunder der Weihnachtsgeschichte
+- Höhe: 14 cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B077YC1FV2{{</world>}}

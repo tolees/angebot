@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aus robustem Holz gefertigt
+- Beinhaltet 1 Arztkoffer, 1 Notizbrett, 1 Spritze, 1 Stethoskop, 1 Thermometer, 1 Reflexhammer, 1 Medizindose, 1 Tube, 1 Skalpell
 - So lernen Kinder die tägliche Arbeit eines Arztes spielerisch kennen.
+- Aus robustem Holz gefertigt
 - Ein Arztkoffer, der mit vielen wichtigen medizinischen Utensilien ausgestattet ist
 - Maße: 20 x 7,5 x 14 cm
-- Beinhaltet 1 Arztkoffer, 1 Notizbrett, 1 Spritze, 1 Stethoskop, 1 Thermometer, 1 Reflexhammer, 1 Medizindose, 1 Tube, 1 Skalpell
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07GWX553P{{</world>}}

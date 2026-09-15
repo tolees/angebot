@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Schutzeinfassung aus abriebfestem Gewebe
-- CLIMAPROTECT wasserdichte Membrane
-- Knöchelunterstützungssystem
 - Ortholite-Einlegesohle mit EVA-Verstärkung
+- Knöchelunterstützungssystem
+- CLIMAPROTECT wasserdichte Membrane
 - TPU-Ferseneinsatz in der Zwischensohle für maximale Stabilität
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Elastic waistband
 - Regular fit
+- Elastic waistband
 - Waterbased print
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

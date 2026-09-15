@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 96 Blatt 90g, kariert Kirschrot
 - 21x29, 7cm
-- Heft broschiert
-- Age Bag
 - DIN A4
+- 96 Blatt 90g, kariert Kirschrot
+- Age Bag
+- Heft broschiert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B003UIQ9Z4{{</world>}}

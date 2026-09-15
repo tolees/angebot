@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Nubukleder
 - Absatzform: Klettverschluss
+- Obermaterial: Nubukleder
 - Innenmaterial: Synthetik
 - Sohle: PU
 

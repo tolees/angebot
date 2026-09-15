@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Schnürsenkel
 - Weiches Tragegefühl
 - Textilfutter
-- Schnürsenkel
 - Reguläre Passform
 - Obermaterial aus Synthetikleder
 

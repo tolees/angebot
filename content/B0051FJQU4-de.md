@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- weitenverstellbarer beinsaum durch kordelzug
-- verdeckter Knopfleistenverschluss
 - 4 große Bein-Cargotaschen
+- weitenverstellbarer beinsaum durch kordelzug
 - authentischer used-look
+- verdeckter Knopfleistenverschluss
 - extrabreiter Tunnelzug
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

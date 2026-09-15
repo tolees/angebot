@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aus doppelt gefüttertem Neopren in der Größe Comfort Fit für ein leichtes Anziehen und besten Komfort. Vorgeformter Schnitt an Rücken, Armen und Waden
-- Latzhose mit vorgeformtem Schnitt an den Waden für einen verbesserten Komfort
 - Kapuzenjacke mit doppeltem Knebelverschluss. Doppelte Brustabstützung aus Melco-Band
+- Latzhose mit vorgeformtem Schnitt an den Waden für einen verbesserten Komfort
 - Seac Royal ist ein zweiteiliger Tauchanzug (Jacke + Latzhose) aus 5 mm dickem Neopren und eignet sich perfekt für das Freitauchen
 - Der Freitauchanzug Seac Royal ist in 6 Größen und 3 Neopren-Dicken erhältlich: 7 mm, 5 mm und 3,5 mm
+- Aus doppelt gefüttertem Neopren in der Größe Comfort Fit für ein leichtes Anziehen und besten Komfort. Vorgeformter Schnitt an Rücken, Armen und Waden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07XS7CB3Q{{</world>}}

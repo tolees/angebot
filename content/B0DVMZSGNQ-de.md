@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schachtel enthält 24 portionen
 - Kohlensäurehaltiger energydrink mit vitaminen, mit süßungsmitteln
-- Abgefüllt in Deutschland
 - Kühl, dunkel und trocken lagern
+- Abgefüllt in Deutschland
 - Zuckerfrei
+- Schachtel enthält 24 portionen
 - Kohlensäurehaltiges, kalorienarmes
 - Für vegetarische und vegane ernährung geeignet
 

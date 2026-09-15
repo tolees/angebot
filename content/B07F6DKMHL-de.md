@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ohne Memory Effekt - Wiederaufladbar, für zahlreiche Ladezyklen geeignet. Geringe Selbstentladung für lange Nutzungsdauer, auch bei seltener Verwendung
-- Ready To Use - 6er Pack AAA Akkus nach IEC Baugröße HR03 mit 1,2 V und 800 mAh, vorgeladen und sofort einsatzbereit, kompatibel mit allen NiMH-Ladegeräten
-- Konstante Energie - Für Standard- und Smart-Geräte wie Digitalkamera, Fotoblitz, RC-Spielzeug, LED-Taschenlampe, GPS, Gamecontroller, Tastatur, Maus und portable Elektronik
 - Nachhaltige Lösung - Micro-Akkus mit 25 Prozent recyceltem Material, für High-Drain-Anwendungen, Blisterverpackung zur einfachen Entnahme, für umweltbewusste Energieversorgung
+- Konstante Energie - Für Standard- und Smart-Geräte wie Digitalkamera, Fotoblitz, RC-Spielzeug, LED-Taschenlampe, GPS, Gamecontroller, Tastatur, Maus und portable Elektronik
 - VARTA Markenqualität - Markenbatterie, made to last, auslaufsicher, langlebig und auf präzise Hochleistung ausgelegt, für maximale Zuverlässigkeit im Alltag
+- Ready To Use - 6er Pack AAA Akkus nach IEC Baugröße HR03 mit 1,2 V und 800 mAh, vorgeladen und sofort einsatzbereit, kompatibel mit allen NiMH-Ladegeräten
+- Ohne Memory Effekt - Wiederaufladbar, für zahlreiche Ladezyklen geeignet. Geringe Selbstentladung für lange Nutzungsdauer, auch bei seltener Verwendung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07F6DKMHL{{</world>}}

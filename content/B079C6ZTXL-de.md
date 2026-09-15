@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kragenform: Rundhalsausschnitt
+- Material: 100% Baumwolle, atmungsaktiv
+- Slim Fit
 - Ärmeltyp: Kurzarm
 - Pflegehinweise: Maschinenwäsche bei max. 40 °C im Schonwaschgang; nicht bleichen; Tumbler bei niedriger Temperatur; Bügeln bei max. 150 °C; nicht chemisch reinigen
-- Slim Fit
-- Material: 100% Baumwolle, atmungsaktiv
 - Klassischer Jack & Jones Markenlogo-Aufdruck auf Brusthöhe
+- Kragenform: Rundhalsausschnitt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B079C6ZTXL{{</world>}}

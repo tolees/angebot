@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Begleite sie in eine Welt mit übernatürlichen Feinden, Hindernissen und der quälenden Frage: Hätten wir uns verbinden sollen?
-- Sam macht sich – mit Gefährten – erneut auf die Reise, um die Menschheit zu retten.
 - Brich auf zu einer inspirierenden Mission der menschlichen Kontakte jenseits der UCA.
+- Sam macht sich – mit Gefährten – erneut auf die Reise, um die Menschheit zu retten.
+- Begleite sie in eine Welt mit übernatürlichen Feinden, Hindernissen und der quälenden Frage: Hätten wir uns verbinden sollen?
 - Schritt für Schritt verändert der legendäre Spielemacher Hideo Kojima wieder mal die Welt.
 
 [🛒 Hier!!]({{< param buyurl >}})

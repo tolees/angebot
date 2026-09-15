@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Lokaler Koop für zwei Spieler im Story-Modus
 - Soundtrack komponiert von Akira Yamaoka, dem Sound Director von Silent Hill und Shadows of the Damned
-- Drei neue Versus-Modi - Rennen, Panzer, Dodgeball
 - Sidescroll-Shootem Up wie in der guten alten Zeit, aber mit moderner Grafik und Präsentation
+- Drei neue Versus-Modi - Rennen, Panzer, Dodgeball
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B072L6RMGP{{</world>}}

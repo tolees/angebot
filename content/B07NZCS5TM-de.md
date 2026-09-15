@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Schnüren
+- Sohle: Gummi
 - Innenmaterial: Synthetic
 - Obermaterial: Leder
-- Sohle: Gummi
+- Verschluss: Schnüren
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07NZCS5TM{{</world>}}

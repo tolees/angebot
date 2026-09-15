@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Konvexe Kühlplatte mit vorapplizierter Wärmeleitpaste – Das leicht konvexe Design sorgt für maximalen Kontakt mit dem integrierten Wärmespreizer der CPU, während vorapplizierte Wärmeleitpaste die Installation beschleunigt
 - Effiziente, geräuscharme Pumpe – Sorgt für eine hohe Durchflussrate des Kühlmittels und ist dabei mit nur 20 dBA flüsterleise
 - Einfache, fokussierte CPU-Kühlung – Die leistungsstarke, geräuscharme Leistung sorgt dafür, dass Ihre CPU ihr volles Potenzial ausschöpft, während ein anpassbarer LCD-Bildschirm Ihrem System einen Hauch von Stil verleiht
-- Konvexe Kühlplatte mit vorapplizierter Wärmeleitpaste – Das leicht konvexe Design sorgt für maximalen Kontakt mit dem integrierten Wärmespreizer der CPU, während vorapplizierte Wärmeleitpaste die Installation beschleunigt
 - RS120-Lüfter – RS-Lüfter mit hohem statischem Druck drücken die Luft effizient durch den Radiator, während die CORSAIR AirGuide-Technologie und Magnetic-Dome-Lager für eine starke Kühlung bei geringer Geräuschentwicklung sorgen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

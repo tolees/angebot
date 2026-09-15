@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Muster: Einzeln
-- Material: Kunststoff
 - 120 Herausforderungen in 3 verschiedenen Spielmodi IQ-Puzzler Pro ist die nächste Stufe des IQ-Puzzler-Verkaufserfolgs: 120 Herausforderungen aus drei verschiedenen Spielmodi, darunter Herausforderungen in 2D und 3D
+- Material: Kunststoff
 - Farbe: Bunt
+- Muster: Einzeln
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01G3PYWCW{{</world>}}

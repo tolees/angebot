@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Raglanärmel mit Mesh-Einsatz für mehr Atmungsaktivität
-- Rippbündchen
-- Normale Passform
-- Taschen in den Seitennähten
 - BCI: Mit dem Kauf von Baumwollprodukten von PUMA unterstützt du einen nachhaltigen Baumwollanbau. Mehr unter bettercotton.org/massbalance
+- Rippbündchen
+- Taschen in den Seitennähten
+- Raglanärmel mit Mesh-Einsatz für mehr Atmungsaktivität
+- Normale Passform
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B089Z6HVF1{{</world>}}

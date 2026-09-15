@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Passend um alle Häuser der Sylvanian Families einzurichten
+- Toilette mit Spülfunktion
 - inkl. Toilette, Waschbecken, Badevorleger, Toilettenbürste, WC-Reiniger und einem Babysitz
 - Toilettenpapier mit Funktion
 - mit Babysitz, damit auch die kleinsten auf Toilette gehen können
-- Toilette mit Spülfunktion
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CQP6Z2KF{{</world>}}

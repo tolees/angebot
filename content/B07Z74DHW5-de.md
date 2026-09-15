@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Deutsch, Japanisch
-- BRD
-- 650
 - Naoko Yamada
+- Deutsch, Japanisch
+- 650
+- BRD
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07Z74DHW5{{</world>}}

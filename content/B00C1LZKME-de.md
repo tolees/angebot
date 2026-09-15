@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Compatible Devices: Nex, Slt, Cyber-Shot, Handycam
 - Lieferumfang:Kabel-Fernbedienung, Multi-Terminal
 - Packungage die Größe: 5.3 L X 20.1 H X 11.0 W (Centimeters)
-- Compatible Devices: Nex, Slt, Cyber-Shot, Handycam
 - Farbe: Schwarz
 
 [🛒 Hier!!]({{< param buyurl >}})

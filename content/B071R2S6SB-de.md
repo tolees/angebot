@@ -31,8 +31,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Emöglicht die anpassende Höhe und Winkel und gibt Ihnen flexibilität die Geraete zu plarzieren
 - schließen mit weniger Mühe
 - verbindet eine verlängernde Arm mit einem Licht Stehen; hält der Boom Arm fest
-- HINWEIS: Griff Kopf only; Licht Stehen und Boom Arm sind nicht inclusiv
 - Akzeptieren jede Accessoire mit a 1/2, 1/4, 3/8, 5/8 Inch Errichtung oder Rohr
+- HINWEIS: Griff Kopf only; Licht Stehen und Boom Arm sind nicht inclusiv
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B071R2S6SB{{</world>}}

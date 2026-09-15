@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langlebig und hohe Flexibilität
-- Lieferumfang: 1x Ersatzfaden; Faden-⌀: 2,0 mm, Länge 15,2 m
 - Ersatzfaden für 18V Akku Rasentrimmer sowie für 54V Akku-Motorsense
+- Lieferumfang: 1x Ersatzfaden; Faden-⌀: 2,0 mm, Länge 15,2 m
 - Faden bestehend aus 2 Kunstoff Komponenten
+- Langlebig und hohe Flexibilität
 - Hohe Laufruhe durch aerodynamisches Profil bei hohen Geschwindigkeiten
 
 [🛒 Hier!!]({{< param buyurl >}})

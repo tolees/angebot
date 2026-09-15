@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PUMA Formstrip an der Seite
 - Geschichtete Zwischensohle aus Gummi
+- PUMA Formstrip an der Seite
 - PUMA Branding-Details auf Zunge, Ferse und Obermaterial
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

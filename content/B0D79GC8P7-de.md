@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obbermaterial: 100 % Stoff (69 % recyceltes PET - 16 % recyceltes Elastan - 15 % PU-Faden)
-- Farbe: Mittelbraun
 - Futter: 80 % Stoff (69 % recyceltes PET - 16 % recyceltes Elastan - 15 % PU-Faden) - 20 % recyceltes PET
 - Laufsohle: 40 % Naturgummi - 37 % vulkanisiertes Gummi - 23 % recyceltes vulkanisiertes Gummi
+- Obbermaterial: 100 % Stoff (69 % recyceltes PET - 16 % recyceltes Elastan - 15 % PU-Faden)
+- Farbe: Mittelbraun
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D79GC8P7{{</world>}}

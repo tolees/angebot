@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- echtem Leder
 - klassischen Look
 - optimale Stabilität
+- echtem Leder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B075F75PSV{{</world>}}

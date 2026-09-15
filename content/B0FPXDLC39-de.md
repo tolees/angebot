@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LEGO NINJAGO SPIELSETS: Das breite Spektrum an Spielsets lässt Kinder in eine Fantasy-Welt eintauchen, in der sie besonders fantasievoll mit ihren Ninja Helden spielen können
-- FÜNF MINIFIGUREN FÜR ABENTEUER: Das Spielset enthält Jay, Nya, Drachen-Kai, ein Erdmonster und den Loyalistenanführer, für dynamische Rollenspiele mit LEGO Ninjago Figuren
-- GESCHENKIDEE FÜR KINDER: Ob zum Geburtstag oder als Überraschung für zwischendurch, dieser Flitzer bereitet jedem eine Freude, die aufregende LEGO Bauprojekte und spannende Spielaction lieben
-- FASZINIERENDES BAUERLEBNIS: Die LEGO Builder App nimmt Kinder auf ein intuitives Bauabenteuer mit; In der App können sie Sets speichern, beim Bauen ein 3D-Modell vergrößern und drehen
-- MODELLBAU MIT NINJAGO FLITZER: Mit Jays Transformationsflitzer bauen Kinder ab 8 Jahren ein LEGO Set, das die rasante Action aus NINJAGO Aufstieg der Drachen zum Leben erweckt
-- SPIELZEUGAUTO MIT DOPPELFUNKTION: Durch Umklappen der Front wird der Rennwagen zum Drachenflitzer mit goldenem Drachenkopf, Klauen und drehenden Wurfsternen
 - ACTIONSPIELZEUG MIT SHOOTER: Der abnehmbare Shooter mit zwei Pfeilen lässt sich flexibel einsetzen und sorgt in Kombination mit dem kleinen Nebenmodell für fantasievolle Duelle
+- SPIELZEUGAUTO MIT DOPPELFUNKTION: Durch Umklappen der Front wird der Rennwagen zum Drachenflitzer mit goldenem Drachenkopf, Klauen und drehenden Wurfsternen
+- GESCHENKIDEE FÜR KINDER: Ob zum Geburtstag oder als Überraschung für zwischendurch, dieser Flitzer bereitet jedem eine Freude, die aufregende LEGO Bauprojekte und spannende Spielaction lieben
+- FÜNF MINIFIGUREN FÜR ABENTEUER: Das Spielset enthält Jay, Nya, Drachen-Kai, ein Erdmonster und den Loyalistenanführer, für dynamische Rollenspiele mit LEGO Ninjago Figuren
+- MODELLBAU MIT NINJAGO FLITZER: Mit Jays Transformationsflitzer bauen Kinder ab 8 Jahren ein LEGO Set, das die rasante Action aus NINJAGO Aufstieg der Drachen zum Leben erweckt
+- LEGO NINJAGO SPIELSETS: Das breite Spektrum an Spielsets lässt Kinder in eine Fantasy-Welt eintauchen, in der sie besonders fantasievoll mit ihren Ninja Helden spielen können
+- FASZINIERENDES BAUERLEBNIS: Die LEGO Builder App nimmt Kinder auf ein intuitives Bauabenteuer mit; In der App können sie Sets speichern, beim Bauen ein 3D-Modell vergrößern und drehen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0FPXDLC39{{</world>}}

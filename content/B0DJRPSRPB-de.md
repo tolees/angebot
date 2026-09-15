@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obbermaterial: 52% recyceltes PET 48 % Rindsleder
-- Farbe: Pastellgrau
 - Recycled Synthetics
 - Laufsohle: 100% vulkanisiertes Gummi
 - Futter: 63% Schweinsleder - 37% Stoff (100% recyceltes Polyester)
+- Farbe: Pastellgrau
+- Obbermaterial: 52% recyceltes PET 48 % Rindsleder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DJRPSRPB{{</world>}}

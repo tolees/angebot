@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vorgeladen und gebrauchsfertig; kann 1000 Mal mit minimalem Stromverlust wiederaufgeladen werden
 - Lieferung in zertifizierter frustfreier Verpackung; recycelbar
+- Vorgeladen und gebrauchsfertig; kann 1000 Mal mit minimalem Stromverlust wiederaufgeladen werden
 - Gleiches Produkt, neue Optik. Das Aussehen der Batterien, die Sie erhalten, kann variieren.
-- Lange Akkulaufzeit; die extrem langsame schrittweise Selbstentladung hält die Kapazität für 24 Monate bei 80 %
 - AAA-Akku (4er-Packung, 800 mAh); ideal für Digitalkameras, Fernbedienungen, Spielzeug und mehr
+- Lange Akkulaufzeit; die extrem langsame schrittweise Selbstentladung hält die Kapazität für 24 Monate bei 80 %
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00CWNMW1S{{</world>}}

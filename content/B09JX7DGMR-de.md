@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die ergonomischen Softgripflächen bieten einen bequemen und festen Halt; Der spezielle Schlag-Mechanismus schützt das Handgelenk vor Drehkräften und schont die Kräfte des Anwenders
-- Der Einhell Akku-Schlagschrauber TP-CI 18 Li Brushless-solo ist ein leistungsstarkes Mitglied der Einhell Power X-Change Familie mit allen Vorteilen und Einsatzmöglichkeiten
-- PurePOWER Brushless – Der wartungsarme und kraftvolle Brushless-Motor sorgt für maximale Leistung bei längerer Laufzeit im Vergleich zu herkömmlichen Kohlebürstenmotoren
-- Handlich ist der Schlagschrauber durch die kurze, leichte Bauweise; Arbeiten in schlecht ausgeleuchteten Arbeitsbereichen gelingt mit dem Akku-Schlagschrauber von Einhell durch das integrierte LED
-- Das Eindrehen von großen und langen Schrauben ist mit dem Schlagschrauber von Einhell ein müheloses Unterfangen; Der Schlagschrauber verfügt über eine ¼" (6,35 mm) Innensechskant-Werkzeugaufnahme
 - Die fein dosierbare Drehzahlregelelektronik kann individuell auf das zu bearbeitende Material abgestimmt werden
+- Das Eindrehen von großen und langen Schrauben ist mit dem Schlagschrauber von Einhell ein müheloses Unterfangen; Der Schlagschrauber verfügt über eine ¼" (6,35 mm) Innensechskant-Werkzeugaufnahme
+- PurePOWER Brushless – Der wartungsarme und kraftvolle Brushless-Motor sorgt für maximale Leistung bei längerer Laufzeit im Vergleich zu herkömmlichen Kohlebürstenmotoren
+- Die ergonomischen Softgripflächen bieten einen bequemen und festen Halt; Der spezielle Schlag-Mechanismus schützt das Handgelenk vor Drehkräften und schont die Kräfte des Anwenders
 - Alle Akkus sowie Ladegeräte der Power X-Change-Linie können bei dem Schlagschrauber verwendet werden
+- Der Einhell Akku-Schlagschrauber TP-CI 18 Li Brushless-solo ist ein leistungsstarkes Mitglied der Einhell Power X-Change Familie mit allen Vorteilen und Einsatzmöglichkeiten
+- Handlich ist der Schlagschrauber durch die kurze, leichte Bauweise; Arbeiten in schlecht ausgeleuchteten Arbeitsbereichen gelingt mit dem Akku-Schlagschrauber von Einhell durch das integrierte LED
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09JX7DGMR{{</world>}}

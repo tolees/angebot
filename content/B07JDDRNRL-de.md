@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Cartrend Gummiauflage passt auf die gängigsten Wagenheber und Hebebühnen
-- Durchmesser: 38 / 65 mm, Höhe: 40 mm. Tragkraft: 1.000 kg
-- SICHERHEIT UND SCHUTZ: Die keilförmige V-Nut der Wagenheber Gummiauflage passt sich besonders gut an den häufig im Fahrzeugbau verwendeten Bördelrand am Unterboden an. Die Waffel-Oberfläche bietet optimalen Schutz gegen Verrutschen
 - SPEZIELL GEEIGNET FÜR SCHWERERE FAHRZEUGE: wie z.B. SUV, Kleintransporter und PKW. Der Vollgummipad verfügt über eine Einkerbung, welche für einen idealen Halt auf dem Wagenheber sorgt.
+- Durchmesser: 38 / 65 mm, Höhe: 40 mm. Tragkraft: 1.000 kg
+- Die Cartrend Gummiauflage passt auf die gängigsten Wagenheber und Hebebühnen
+- SICHERHEIT UND SCHUTZ: Die keilförmige V-Nut der Wagenheber Gummiauflage passt sich besonders gut an den häufig im Fahrzeugbau verwendeten Bördelrand am Unterboden an. Die Waffel-Oberfläche bietet optimalen Schutz gegen Verrutschen
 - EINFACH ANWENDBAR und UNIVERSELL EINSETZBAR: Die Wagenheber Gummiauflage ist perfekt geeignet für verschiedene Karosserie-Typen und Wagenheber (z.B. Cartrend, UNITEC, MICHELIN, GOODYEAR etc.)
 
 [🛒 Hier!!]({{< param buyurl >}})

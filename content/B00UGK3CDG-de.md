@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- NATÜRLICHE GRAUABDECKUNG: Deckt graues Haar zuverlässig bis zu 100% ab – für ein leuchtendes, mehrdimensionales Farbergebnis mit transluzenter Tiefe und natürlichem Glanz.
-- VIELFÄLTIGE NUANCEN: Alle Illumina Color Nuancen sind untereinander mischbar – für grenzenlose Farbvielfalt, kreative Looks und maßgeschneiderte Farbergebnisse.
-- METAL PURIFIER TECHNOLOGIE: Schützt das Haar vor Metallen, die sich durch äußere Einflüsse, wie Leitungswasser, im Haar anlagern können - für zuverlässige Ergebnisse und weniger Risiko zusätzlicher Haarschädigung.
 - MICROLIGHT-TECHNOLOGIE: Schützt die Kutikula, glättet die Haaroberfläche und erzeugt lichtreflektierende Effekte – für natürlich strahlendes, gesund aussehendes Haar.
+- NATÜRLICHE GRAUABDECKUNG: Deckt graues Haar zuverlässig bis zu 100% ab – für ein leuchtendes, mehrdimensionales Farbergebnis mit transluzenter Tiefe und natürlichem Glanz.
+- METAL PURIFIER TECHNOLOGIE: Schützt das Haar vor Metallen, die sich durch äußere Einflüsse, wie Leitungswasser, im Haar anlagern können - für zuverlässige Ergebnisse und weniger Risiko zusätzlicher Haarschädigung.
+- VIELFÄLTIGE NUANCEN: Alle Illumina Color Nuancen sind untereinander mischbar – für grenzenlose Farbvielfalt, kreative Looks und maßgeschneiderte Farbergebnisse.
 - UMFANGREICHE FARBAUSWAHL: Über 50 leuchtende Nuancen in kühlen, warmen und neutralen Tönen – mit bis zu 100% Grauabdeckung für individuelle, natürlich wirkende Resultate.
 
 [🛒 Hier!!]({{< param buyurl >}})

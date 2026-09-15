@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Maschinenwaschbar für einfache Pflege
 - Von OEKO-TEX als MADE IN GREEN zertifiziert, was bedeutet, dass die Produkte auf Schadstoffe getestet und an sichereren Arbeitsplätzen mit geringeren Umweltauswirkungen hergestellt werden
-- Aus ultra-weichem und geschmeidigem Micro-Plüsch
 - Aufgrund von Lichteffekten kann es zwischen dem Bild und dem tatsächlichen Produkt zu leichten Farbabweichungen kommen
+- Maschinenwaschbar für einfache Pflege
+- Aus ultra-weichem und geschmeidigem Micro-Plüsch
 - Elegante, warme, samtweiche Tagesdecke aus Plüsch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

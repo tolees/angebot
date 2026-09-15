@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Brusttaschen mit Patte, Knopfverschluss
-- Schultereinsatz
-- Hemdkragen
-- Knopfverschluss
 - Verstellbare Manschetten, Knopfverschluss
+- Brusttaschen mit Patte, Knopfverschluss
+- Knopfverschluss
+- Hemdkragen
+- Schultereinsatz
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BS1BTHZM{{</world>}}

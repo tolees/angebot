@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Brenndauer: bis zu 130 Stunden
-- Diese Trilogy-Kerze kombiniert drei beliebte Düfte: Fireside (unser bekanntester Duft), Redwood und Sandalwood Clove.
-- Die hochwertige Mischung aus Paraffin- und Sojawachs sorgt für eine wunderschöne Flamme.
-- Der knisternde Holzdocht mit PlusWick-Innovation schafft eine gemütliche Atmosphäre.
 - Diese beliebte Kollektion bietet eine Kombination aus verschiedenen Duftnoten, die beim Schmelzen ihr ganz eigenes Aroma entfalten.
+- Diese Trilogy-Kerze kombiniert drei beliebte Düfte: Fireside (unser bekanntester Duft), Redwood und Sandalwood Clove.
+- Der knisternde Holzdocht mit PlusWick-Innovation schafft eine gemütliche Atmosphäre.
+- Brenndauer: bis zu 130 Stunden
+- Die hochwertige Mischung aus Paraffin- und Sojawachs sorgt für eine wunderschöne Flamme.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0058WBMC0{{</world>}}

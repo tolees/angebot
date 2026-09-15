@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Stilvolles Servieren von Kaffee, Tee und Kakao in der passenden Tasse, Kleine Ablagefläche am Rand für Kekse, Milch oder Zucker
-- Elegante Untertasse mit filigranem Relief als perfekte Ergänzung zum Manoir-Geschirr, Ideal für die Elegante Kaffeetafel
 - Lieferumfang: 1x Villeroy & Boch Manoir Untertasse (15 cm), Material: Premium Porzellan, Farbe: Weiß
+- Elegante Untertasse mit filigranem Relief als perfekte Ergänzung zum Manoir-Geschirr, Ideal für die Elegante Kaffeetafel
 - Auch für Gastronomie geeignet dank handlicher Form, Ineinander stapelbar, Optimale Größe für die Spülmaschine
 - Spülmaschinenfest und mikrowellengeeignet, Hochwertige Qualität: Premium Porzellan Made in Germany
 

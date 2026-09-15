@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Lieferung erfolgt ohne Akku und Ladegerät. Diese sind separat erhältlich, zum Beispiel als praktisches Einhell Starterset
-- Ein Akku für alle: das ist Power X-Change. Das multifunktionale und untereinander kombinierbare Akkusystem Power X-Change passt zu Akkugeräten der gesamten Produktfamilie im Garten- und Werkstattbereich
 - Durch ihre hohe Laufruhe sorgt die Akku-Stichsäge für exakte Schnitte. Für schnelle Schnitte ist der Pendelhub zuschaltbar
+- Die werkzeuglose Universal-Sägeblattaufnahme erspart unnötige Handgriffe und ermöglicht einen schnellen und werkzeuglosen Sägeblattwechsel
+- Für beste Sicht beim Arbeiten sorgt die Staubabblasfunktion. Die integrierte Kunststoffgleiteinlage schont besonders empfindliche Werkstücke
+- Ein Akku für alle: das ist Power X-Change. Das multifunktionale und untereinander kombinierbare Akkusystem Power X-Change passt zu Akkugeräten der gesamten Produktfamilie im Garten- und Werkstattbereich
 - Die Einhell Akku-Stichsäge TC-JS 18 Li ist stets zur Hand, wenn es um den perfekten Schnitt in unterschiedlichste Materialien geht. Als Mitglied der Power X-Change-Familie bietet sie eine hohe Flexibilität bei Arbeiten in Heim, Werkstatt und Garage
 - Hinweis- Entfernen Sie immer den Akku, bevor Sie Einstellungen am Gerät vornehmen. Für eine lange Lebensdauer des Produkts laden Sie den Akku bitte regelmäßig und umgehend auf
-- Für beste Sicht beim Arbeiten sorgt die Staubabblasfunktion. Die integrierte Kunststoffgleiteinlage schont besonders empfindliche Werkstücke
-- Die werkzeuglose Universal-Sägeblattaufnahme erspart unnötige Handgriffe und ermöglicht einen schnellen und werkzeuglosen Sägeblattwechsel
+- Die Lieferung erfolgt ohne Akku und Ladegerät. Diese sind separat erhältlich, zum Beispiel als praktisches Einhell Starterset
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0816XBGB1{{</world>}}

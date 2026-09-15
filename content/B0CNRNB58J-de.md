@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Natürliches Schaukeln
 - 0–2 Jahre 
 - 3,5-13 kg, ab 53 cm
-- Natürliches Schaukeln
 - Ergonomisch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

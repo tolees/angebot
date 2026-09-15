@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schwere Ausführung (D). Made In Germany.
 - HAZET 745A-2 DURCHTREIBER Länge mm: 120 Durchmesser mm: 2 mm
+- Schwere Ausführung (D). Made In Germany.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B001C9ZT1I{{</world>}}

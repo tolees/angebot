@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schmales Blockprofil mit ganzheitlicher eloxierter Oberfläche
 - der Rahmen ist zusätzlich mit einem Aufsteller ausgestattet
 - top modernes Profil in klassischen Farben
+- Schmales Blockprofil mit ganzheitlicher eloxierter Oberfläche
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00D4LEEBI{{</world>}}

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - DETAILS: Diese Winterjacke mit Steppungen und weicher Teddy-Innenseite hat einen Stehkragen und eine abnehmbare Kapuze mit Tunnelzug und verstellbaren Kordeln, zwei Eingriffstaschen und eine Innentasche mit Reißverschluss sowie elastische Ärmelbündchen.
+- ÜBER DIE MARKE: BLEND steht seit 1993 für dänische Mode mit urbanem Flair – von minimalistischen Basics bis zu auffälligen Prints, lässig, alltagstauglich und zu fairen Preisen.
 - MATERIAL: Das funktionale Obermaterial überzeugt durch wasserabweisende Eigenschaften – ideal für zuverlässigen Schutz im Winter.
 - GRÖSSENHINWEIS: Unser Model ist 186 cm und trägt Größe L.
-- ÜBER DIE MARKE: BLEND steht seit 1993 für dänische Mode mit urbanem Flair – von minimalistischen Basics bis zu auffälligen Prints, lässig, alltagstauglich und zu fairen Preisen.
 - STYLING: Ob im Alltag oder unterwegs im Schnee – diese Jacke lässt sich ideal mit Winterboots und Denim kombinieren. Ein Must-have für alle, die auch an kalten Tagen nicht auf Stil und Wärme verzichten wollen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kein Spitzen erforderlich
-- Druckstift mit bequemer Einhandbedienung
 - Wasserlöslich
+- Druckstift mit bequemer Einhandbedienung
+- Kein Spitzen erforderlich
 - Nachfüllbar
 - Mine nach Gebrauch zum Schutz einschiebbar
 

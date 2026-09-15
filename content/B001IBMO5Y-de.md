@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Abmessung: 145 x 83 x 21
+- Mini-X-Line Metallbohrer-Set geeignet für vielseitige Anwendungsmöglichkeiten in Metall und Kunststoff.
 - Für alle Bohrmaschinen im handgeführten und stationären Einsatz.
 - 7 Metallbohrer Ø 2/3/4/5/6/8/10 mm
-- Mini-X-Line Metallbohrer-Set geeignet für vielseitige Anwendungsmöglichkeiten in Metall und Kunststoff.
 - Praktische Bosch Mini-X-Line Box sorgt für Ordnung und Übersichtlichkeit.
 
 [🛒 Hier!!]({{< param buyurl >}})

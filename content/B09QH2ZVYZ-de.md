@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Athletic Fit
 - Comfort elastic waistband
-- Super soft cotton
 - Iconic HEAD waistband
 - Four way stretch
+- Super soft cotton
+- Athletic Fit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09QH2ZVYZ{{</world>}}

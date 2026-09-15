@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lieferumfang: je 5 Stück S 922 EF Flexible for Metal / S 922 BF Flexible for Metal / S 922 HF Flexible for Wood and Metal / S 644 D Top for Wood
-- Inklusive Tough Box zur Aufbewahrung der Säbelsägeblätter
-- Made in Switzerland
-- Kompatibilität: Bestens geeignet für Säbelsägen mit einem Universalschaftsystem
-- Einsatzgebiete: Für glatte und mühelose Schnitte in Holz und Metall sowie zum Sägen von Stahlrohren, Profilen mit kleinem Durchmesser und Holz mit Nägeln
 - Enthält Blätter zum Sägen von Stahlrohren, Profilen mit kleinem Durchmesser und Holz mit Nägeln
+- Einsatzgebiete: Für glatte und mühelose Schnitte in Holz und Metall sowie zum Sägen von Stahlrohren, Profilen mit kleinem Durchmesser und Holz mit Nägeln
+- Inklusive Tough Box zur Aufbewahrung der Säbelsägeblätter
+- Kompatibilität: Bestens geeignet für Säbelsägen mit einem Universalschaftsystem
+- Made in Switzerland
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0166FSJO6{{</world>}}

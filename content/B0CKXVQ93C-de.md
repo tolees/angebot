@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zehenkappe aus Wildleder
-- Textilfutter
 - Obermaterial aus Leder
 - Reguläre Passform
+- Zehenkappe aus Wildleder
 - Elastische Schnürsenkel; Klettverschlussriemen oben
+- Textilfutter
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CKXVQ93C{{</world>}}

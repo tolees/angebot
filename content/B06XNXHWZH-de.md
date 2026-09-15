@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Sohle: Rubber
-- Innenmaterial: Canvas
 - Obermaterial: Smooth Leather
+- Innenmaterial: Canvas
 - Verschluss: Bungee
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

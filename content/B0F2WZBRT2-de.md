@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aus weichem Single-Jersey-Stoff
-- Basic T-Shirt mit Rundhalsausschnitt und kleiner Logo-Stickerei auf der Brust
 - Rundhalsausschnitt | Kurzarm
 - Passform: Regular Fit, Rückenlänge bei Größe M ca. 72 cm
+- Basic T-Shirt mit Rundhalsausschnitt und kleiner Logo-Stickerei auf der Brust
+- Aus weichem Single-Jersey-Stoff
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0F2WZBRT2{{</world>}}

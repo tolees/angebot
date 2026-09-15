@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die patentierten Geox-Systeme garantieren die Atmungsaktivität der Sohle und sorgen für Wohlbefinden des Fußes
-- Leichter Einstieg für einmaligen Tragekomfort
-- Leichter Einstieg und verstellbare Passform mit Reißverschluss und Schnürsenkeln
-- Absatzhöhe: 5 cm / 2"
-- Ein Schuh mit optimaler Stoßdämpfung, die vor Stößen und Schlägen schützt
 - Leichter Schuh für mehr Bewegungsfreiheit
+- Leichter Einstieg und verstellbare Passform mit Reißverschluss und Schnürsenkeln
+- Leichter Einstieg für einmaligen Tragekomfort
+- Ein Schuh mit optimaler Stoßdämpfung, die vor Stößen und Schlägen schützt
+- Absatzhöhe: 5 cm / 2"
+- Die patentierten Geox-Systeme garantieren die Atmungsaktivität der Sohle und sorgen für Wohlbefinden des Fußes
 - Herausnehmbare Innensohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

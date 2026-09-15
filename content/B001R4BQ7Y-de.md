@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 130 mm
-- superleichte, weiche Schaumstoffauflage außen
 - Stoßabsorbierung
+- 130 mm
 - doppelte ALU-Schraubbefestigung
 - harte Mischung innen für guten Halt auf dem Lenker
+- superleichte, weiche Schaumstoffauflage außen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B001R4BQ7Y{{</world>}}

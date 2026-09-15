@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Weicher Stoff
-- Normale Passform
 - Kapuze mit Kordelzug
+- Normale Passform
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08QYZ2DN5{{</world>}}

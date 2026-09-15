@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Automatische Abschaltung
-- Cappuccino-System
-- Abtropftablett Geschirrbrause mit Tropfschutz für eine leichte Reinigung
-- Rotation apassung Dampf
-- -Filter Crema "
 - Wasserbehälter mit einer Kapazität von 1 l
+- Cappuccino-System
+- -Filter Crema "
+- Rotation apassung Dampf
+- Abtropftablett Geschirrbrause mit Tropfschutz für eine leichte Reinigung
+- Automatische Abschaltung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00W506FIY{{</world>}}

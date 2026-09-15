@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - HOCHWERTIGER BEZUG - Atmungsaktive Mikrofaserbezug aus 100 Prozent Polyester, beidseitig versteppt mit 150 g/m² Klimafaser, absorbiert Feuchtigkeit optimal und sorgt für ein trockenes und gesundes Schlafklima - 4 Eckgummis sorgen für einen sicheren Halt
-- NACHHALTIGKEIT - Traumnacht Matratzen sind geprüft nach Öko-Tex Standard 100
 - EINFACHE PFLEGE - Elastische Bänder zur sicheren Befestigung an der Matratze; Bezug abnehmbar und waschbar bis 60° C - optimal geeignet für Hausstauballergiker
-- OPTIMALER SCHLAFKOMFORT - Pflegeleichte Matratzenauflage/Topper für Betten, Schlafsofas, Boxspringbetten und mehr - Gesamthöhe: ca. 6 cm
 - DRUCKENTLASTENDER VISCO KERN - Hochwertiger Viscoschaumkern, lässt Sie sanft einsinken und wirkt druckentlastend, durch die Druckverteilung bringen Sie Ihren Körper in eine anatomisch und ergonomisch optimale Position, was eine bessere Durchblutung fördert und die Grundlagen für tiefen und erholsamen Schlaf gewährleistet
+- OPTIMALER SCHLAFKOMFORT - Pflegeleichte Matratzenauflage/Topper für Betten, Schlafsofas, Boxspringbetten und mehr - Gesamthöhe: ca. 6 cm
+- NACHHALTIGKEIT - Traumnacht Matratzen sind geprüft nach Öko-Tex Standard 100
 - PRODUKTION - Das Traumnacht Sortiment wird komplett in Deutschland entwickelt und in zertifizierten, besonders nachhaltigen Produktionsstätten in der EU produziert
 
 [🛒 Hier!!]({{< param buyurl >}})

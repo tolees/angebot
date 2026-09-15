@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Schmales Bein vom Oberschenkel bis zum Saum
-- Anliegender Bund
 - Knopfverschluss
+- Anliegender Bund
 - Normale Leibhöhe
 
 [🛒 Hier!!]({{< param buyurl >}})

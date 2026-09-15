@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Tragegriff zum einfachen Anheben der leichten Maschine
-- Sauberes Mähen an Kanten und Wänden
 - Lieferumfang: UniversalRotak 37-555, Karton
+- Tragegriff zum einfachen Anheben der leichten Maschine
 - Energieeffizienter Motor für kraftvolles Mähen
+- Sauberes Mähen an Kanten und Wänden
 - Klappbare Griffe zum Verstauen an engen Orten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

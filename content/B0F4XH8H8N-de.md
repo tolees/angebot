@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Eingesetzte Taschen, eingefasste Kanten
 - Hosenschlitz mit Reißverschluss
 - Gesäßtaschen mit Patte, verdeckter Druckknopfverschluss
-- Eingesetzte Taschen, eingefasste Kanten
 - Cargotaschen am Oberschenkel, verdeckter Druckknopfverschluss, Reißverschlusstasche dahinter
 - Verstellbarer Beinsaum, integriertes Band
 

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- OneTouch für 2 Tassen: Mit der Doppeltassenfunktion lassen sich 2 Kaffees gleichzeitig auf Knopfdruck zubereiten
-- Lieferumfang: BRITA INTENZA Wasserfilter, Teststreifen zur Ermittlung des Wasserhärtegrades, Milchschlauch
 - Milchsystem leicht zu reinigen: Nach jedem Milchggetränk sorgt autoMilk Clean für eine automatische Dampfreinigung
 - Intuitives coffeeSelect Display: Vollfarbdisplay mit beleuchteten Sensortasten und klarer Menüführung
+- OneTouch für 2 Tassen: Mit der Doppeltassenfunktion lassen sich 2 Kaffees gleichzeitig auf Knopfdruck zubereiten
+- Lieferumfang: BRITA INTENZA Wasserfilter, Teststreifen zur Ermittlung des Wasserhärtegrades, Milchschlauch
 - aromaDouble Shot: Maximales Aroma durch doppelten Mahl- und Brühvorgang für Barista-Qualität zuhause
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

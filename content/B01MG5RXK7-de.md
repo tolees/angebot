@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bio Tomatensauce mit Gemüse
 - Für die schnelle Küche: zu Pasta oder Gnocchi, als Pizzabelag und für mediterrane Schmor- und Gemüsegerichte
 - Ideal zu Pasta oder als Basis für Suppen oder Gemüsegerichte
 - 94 % Tomate; 5,5 % Gemüse
+- Bio Tomatensauce mit Gemüse
 - Tomatensauce aus 100 % italienischen Tomaten und Gemüse
 
 [🛒 Hier!!]({{< param buyurl >}})

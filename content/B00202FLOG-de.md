@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Alle Merkmale der KNIPEX Cobra 87 01 250
-- Durch die geschützt liegende Feder schnellt die Zange bei Betätigung des Druckknopfes (Einhandbedienung!) selbsttätig zu
 - Automatische Einstellung per Knopfdruck direkt am Werkstück
+- Durch die geschützt liegende Feder schnellt die Zange bei Betätigung des Druckknopfes (Einhandbedienung!) selbsttätig zu
+- Alle Merkmale der KNIPEX Cobra 87 01 250
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00202FLOG{{</world>}}

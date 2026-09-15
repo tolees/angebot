@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2-IN-1-MODELL FÜR JUNGEN UND MÄDCHEN: Klapp die Motorhaube dieser Neuauflage des ursprünglichen X-1 Ninja Supercar (70727) hoch, um ein verstecktes Spielzeugmotorrad mit drehenden Rädern herauszukatapultieren
-- SPIELZEUG ZUM SAMMELN: 15-jähriges Jubiläum: X-1 Ninja Supercar ist ein Spielzeugflitzer, der Teenager und nostalgische Fans das NINJAGO TV-Jubiläum feiern lässt
 - 3 LEGO MINIFIGUREN: Freu dich auf Rollenspiele und Abenteuer mit Kai, dem bösen General Cryptor und zum allerersten Mal auch mit der Elementarmeisterin des Schattens, die auf einem Ständer mit Jubiläumsmedaille steht
+- 2-IN-1-MODELL FÜR JUNGEN UND MÄDCHEN: Klapp die Motorhaube dieser Neuauflage des ursprünglichen X-1 Ninja Supercar (70727) hoch, um ein verstecktes Spielzeugmotorrad mit drehenden Rädern herauszukatapultieren
 - NINJAGO GESCHENK FÜR TEENAGER: Dieses LEGO Set lässt Fans viele Stunden fantasievoll mit dem Flitzer spielen und ist deshalb auch ein beliebtes Geschenk sowohl für Jungen als auch für Mädchen
-- INTERAKTIVES KINDERSPIELZEUG: Die LEGO Builder App nimmt Teenager auf ein intuitives Bauabenteuer mit, in der App können sie Sets speichern, beim Bauen ein 3D Modell vergrößern und drehen
-- LEGO NINJAGO BAUSETS: Das breite Sortiment lässt Ninja-Fans in eine Fantasy-Welt eintauchen, in der sie besonders fantasievoll mit ihrem geliebten Ninja spielen können
 - SPIELSET ZUBEHÖR: General Cryptor schwingt ein Schwert, die Meisterin des Schattens hat ein Kurzschwert, und die goldenen Schwerter von Kai können an den LEGO Fahrzeugen befestigt werden
+- LEGO NINJAGO BAUSETS: Das breite Sortiment lässt Ninja-Fans in eine Fantasy-Welt eintauchen, in der sie besonders fantasievoll mit ihrem geliebten Ninja spielen können
+- INTERAKTIVES KINDERSPIELZEUG: Die LEGO Builder App nimmt Teenager auf ein intuitives Bauabenteuer mit, in der App können sie Sets speichern, beim Bauen ein 3D Modell vergrößern und drehen
+- SPIELZEUG ZUM SAMMELN: 15-jähriges Jubiläum: X-1 Ninja Supercar ist ein Spielzeugflitzer, der Teenager und nostalgische Fans das NINJAGO TV-Jubiläum feiern lässt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FPXJYG2H{{</world>}}

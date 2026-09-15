@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Befehlige eine Armee von Spektren: Nutze die Macht, eine Vielzahl finsterer Geister, heulender Banshees und listiger Gremlins zu beschwören und zu kontrollieren – jeder mit einzigartigen Fähigkeiten und Stärken, jetzt mit verbesserter Grafik und optimierter KI
-- Erlebe eine spannende Mischung aus Strategie, Abenteuer und Ressourcenmanagement: Vereine das Beste aus Strategie-, Abenteuer- und Ressourcenmanagement-Spielen in einer stimmigen Handlung und einer vollständigen virtuellen Welt – jetzt mit neuen Gameplay-Mechaniken und frischen Inhalten
 - Die physische Version enthält vier DLCs: DLC 1: Until Dawn, DLC 2: Ghosts Adrift, DLC 3: Ghostly Defence, DLC 4 – Ashes & Abyss
+- Erlebe eine spannende Mischung aus Strategie, Abenteuer und Ressourcenmanagement: Vereine das Beste aus Strategie-, Abenteuer- und Ressourcenmanagement-Spielen in einer stimmigen Handlung und einer vollständigen virtuellen Welt – jetzt mit neuen Gameplay-Mechaniken und frischen Inhalten
 - Löse Rätsel und enthülle Geheimnisse: Tauche ein in eine Welt voller Mysterien und Intrigen, in der kluges Denken und strategische Planung der Schlüssel zum Erfolg sind – in einzigartigen, nervenaufreibenden Abenteuern mit verzweigten Szenarien, jetzt mit neuen Herausforderungen und verborgenen Geheimnissen
 - Entfessle den Schrecken über Gravenville: Erkunde 11 weitläufige und einzigartige Schauplätze, darunter die städtische Nervenheilanstalt, den Militärstützpunkt, Studentenverbindungen und das Polizeirevier – jetzt mit neuen Umgebungen und detaillierten Texturen
+- Befehlige eine Armee von Spektren: Nutze die Macht, eine Vielzahl finsterer Geister, heulender Banshees und listiger Gremlins zu beschwören und zu kontrollieren – jeder mit einzigartigen Fähigkeiten und Stärken, jetzt mit verbesserter Grafik und optimierter KI
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0G2D1C9M5{{</world>}}

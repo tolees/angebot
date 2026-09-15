@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- TEXAPORE CORE - zuverlässiger Wetterschutz, wasserdicht und atmungsaktiv
 - vernähter Zehen- und Fersenschutz
-- Robuster Schaftaufbau aus Veloursleder
 - Dämpfende EVA-Mittelsohle
+- Robuster Schaftaufbau aus Veloursleder
+- TEXAPORE CORE - zuverlässiger Wetterschutz, wasserdicht und atmungsaktiv
 - Metallhaken für leichtere Schnürung
 
 [🛒 Hier!!]({{< param buyurl >}})

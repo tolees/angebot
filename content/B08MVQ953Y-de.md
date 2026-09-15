@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Legerer Jogging-Sneaker im Vintage-Stil
-- Flexible Traktionslaufsohle
 - Stoßdämpfende Zwischensohle
+- Flexible Traktionslaufsohle
 - Skechers Logodetail
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Optimale Servicetemperatur: 16-18 ºC
-- Sorte: 100 prozent Malbec
-- Verkostungsnotiz (BOCA): Sweet and Consistent Entry bietet dem Mund eine Symphonie dieses großartigen Exemplars, extrem ausgewogen und im Mund anhaltend
 - Verkostungsnote (Nase): Schwarze Früchte, Pflaumenmarmelade, Laktik wie Erdbeerjoghurt. Alles ergänzt mit Vanille, schwarze Schokolade
 - Verkostungsnotiz (Ansicht): Tiefe leuchtend rot mit lila Nuancen
+- Verkostungsnotiz (BOCA): Sweet and Consistent Entry bietet dem Mund eine Symphonie dieses großartigen Exemplars, extrem ausgewogen und im Mund anhaltend
+- Optimale Servicetemperatur: 16-18 ºC
+- Sorte: 100 prozent Malbec
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07KG96MDF{{</world>}}

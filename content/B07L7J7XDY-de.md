@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bewegungsfreiheit
-- Elastische gürtel mit einstellbarem laccetto
 - Atmungsaktives, strickmesh hält dich kühl
+- Elastische gürtel mit einstellbarem laccetto
+- Bewegungsfreiheit
 - Design klassischer komfort
 - Trainingshose
 

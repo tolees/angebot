@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Besonders feine Oberfläche: Hochwertiger, rostfreier Japanstahl mit extrem hoher Schnittpräzision.
 - Pflegetipp: Nach Benutzung im Meerwasser mit Süßwasser spülen.
-- Bequeme Handhabung: 27 mm Grifflöcher für starke Finger, Ermüdungsfreies Arbeiten durch leichtes Gewicht: 19,5 g, Länge: 16 cm.
 - Professionelles Beschneiden von Moosen und Rasenflächen zur Gestaltung von Aquarienlandschaften: Gebogene Federschere für die Pflanzenpflege beim Aquascaping.
+- Bequeme Handhabung: 27 mm Grifflöcher für starke Finger, Ermüdungsfreies Arbeiten durch leichtes Gewicht: 19,5 g, Länge: 16 cm.
+- Besonders feine Oberfläche: Hochwertiger, rostfreier Japanstahl mit extrem hoher Schnittpräzision.
 - Lieferumfang: 1 x JBL Gebogene Federschere für Aquascaping, ProScape Tool S spring, 61547, Länge: 16 cm.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mittlere Röstung, mittlere Farbe
-- Intensität 3/5 - Medium
-- Geeignet für alle Zubereitungsarten, je nach Mahlgrad. Espressomaschine = Feiner Mahlgrad, Filterkaffeemaschine = Mittlerer Mahlgrad, Espressokanne = Mittlerer Mahlgrad, Kaffeepresse= Grober Mahlgrad
-- Für eine vegetarische und vegane Ernährung geeignet
 - Rainforest Alliance-zertifiziert. Weitere Informationen finden Sie unter ra.org
+- Geeignet für alle Zubereitungsarten, je nach Mahlgrad. Espressomaschine = Feiner Mahlgrad, Filterkaffeemaschine = Mittlerer Mahlgrad, Espressokanne = Mittlerer Mahlgrad, Kaffeepresse= Grober Mahlgrad
+- Intensität 3/5 - Medium
+- Mittlere Röstung, mittlere Farbe
 - Unter Schutzatmosphäre verpackt
+- Für eine vegetarische und vegane Ernährung geeignet
 - Geröstet und abgepackt in Belgien
 
 [🛒 Hier!!]({{< param buyurl >}})

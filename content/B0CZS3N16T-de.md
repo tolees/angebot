@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit klassischem Rundhalsausschnitt
-- Regular Fit
-- Gut kombinierbares Basic T-Shirt für verschiedenste Outfits
 - Einfarbiges Basic T-Shirt
+- Gut kombinierbares Basic T-Shirt für verschiedenste Outfits
+- Regular Fit
+- Mit klassischem Rundhalsausschnitt
 - Aus komfortabler Baumwolle für ein angenehmes Tragegefühl
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

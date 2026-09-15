@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ABIS_MUSIC
 - Bryan Adams: So Happy It Hurts [CD]
+- ABIS_MUSIC
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09SM34W8B{{</world>}}

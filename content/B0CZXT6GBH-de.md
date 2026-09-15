@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Regulär geschnitten
+- Taschen auf der Vorderseite
+- Mittelhoher Bund
 - Besteht zu mindestens 70 % aus recycelten und erneuerbaren Materialien
 - Rippbündchen
-- 70 % Baumwolle / 30 % Polyester (recycelt)
-- Mittelhoher Bund
 - Elastischer Bund mit Kordelzug
-- Taschen auf der Vorderseite
-- Regulär geschnitten
+- 70 % Baumwolle / 30 % Polyester (recycelt)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CZXT6GBH{{</world>}}

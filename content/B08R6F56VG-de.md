@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Packung die Größe: 9.2 L x 28.8 H x 19.5 W (cm)
 - Normale Passform
 - Ripp an Bündchen und Saum
 - Kängurutasche
+- Packung die Größe: 9.2 L x 28.8 H x 19.5 W (cm)
 - Gewebe-Art: 82 Prozent Baumwolle; 18 Prozent Polyester
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

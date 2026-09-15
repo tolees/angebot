@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Robuste und stabile Konstruktion durch eine integrierte Metall-Platte
 - Lieferumfang: CHERRY B.UNLIMITED 3.0 Tastatur+Maus, (verfügbar in Schwarz oder Weiß/Grau), USB-Empfänger, 2 NiMH-Akkus AAA, 2 NiMH-Akkus AA, USB-Ladekabel, eine Bedienungsanleitung
 - Dieses Tastatur-Maus-Set überzeugt durch schlichtes Design, niedrige Bauhöhe und präzise CHERRY SX Scherenmechanik
-- Die drahtlose Tastatur verfügt über vier praktische Zusatztasten, inkl. NiMH-Akkus von GP mit geringer Selbstentladung
 - Das kabellose Desktop Set ist langlebig, wiederaufladbar und überträgt Tastatursignale mit AES-128 Verschlüsselung
-- Robuste und stabile Konstruktion durch eine integrierte Metall-Platte
+- Die drahtlose Tastatur verfügt über vier praktische Zusatztasten, inkl. NiMH-Akkus von GP mit geringer Selbstentladung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B071R3XG2Z{{</world>}}

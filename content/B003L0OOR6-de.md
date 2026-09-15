@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einhändig bedienbarer Hebel zum Gießen und Verschließen
-- Breite Öffnung zum einfachen Befüllen und Reinigen
 - Ideal für die Herstellung, das Mischen, Servieren und Aufbewahren von Dressings, Soßen und Marinaden
+- Einhändig bedienbarer Hebel zum Gießen und Verschließen
 - Hergestellt aus haltbarem glasklarem kratzfesten Kunststoff
+- Breite Öffnung zum einfachen Befüllen und Reinigen
 - Fassungsvermögen 350 ml
 - Luft- und wasserdichter auslaufsicherer Verschluss
 - Schütteln, giessen und aufbewahren

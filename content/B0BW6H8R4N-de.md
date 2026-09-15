@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- EINFACH SPRUDELN - FRISCH GENIESSEN: Geniessen Sie Ihr Lieblingsgetränk immer frisch und selbst gesprudelt
+- NIE MEHR SCHLEPPEN: 1 Flasche Sirup ergibt bis zu 9 Liter Fertiggetränk - Kein Flaschenpfand - kein Leergut - weniger Plastikmüll. (1 Flasche Sirup ersetzt bis zu 9 Pfandflaschen)
+- ORIGINAL TASTE: Original Lipton Ice Tea Pfirsich Zero mit selbst gesprudeltem oder Mineralwasser kinderleicht zu mischen - immer frisch genießen
 - LIEFERUMFANG: 1x SodaStream Getränkesirup Lipton Ice Tea Pfirsich Zero 440ml
 - EINFACHE DOSIERUNG: 1 Teil Sirup + 19 Teile Wasser im Glas oder in der Flasche mischen. Praktische Dosierkappe mit Linien für 0,5 L und 1 L Getränk
-- EINFACH SPRUDELN - FRISCH GENIESSEN: Geniessen Sie Ihr Lieblingsgetränk immer frisch und selbst gesprudelt
-- ORIGINAL TASTE: Original Lipton Ice Tea Pfirsich Zero mit selbst gesprudeltem oder Mineralwasser kinderleicht zu mischen - immer frisch genießen
-- NIE MEHR SCHLEPPEN: 1 Flasche Sirup ergibt bis zu 9 Liter Fertiggetränk - Kein Flaschenpfand - kein Leergut - weniger Plastikmüll. (1 Flasche Sirup ersetzt bis zu 9 Pfandflaschen)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BW6H8R4N{{</world>}}

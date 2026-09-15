@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dunkelgrünes Ziffernblatt mit silbernen Zahlen/Indices, Leuchtzeigern
+- Japanisches Automatik-Uhrwerk Citizen-Miyota 8315, 21 Steine
 - Analoge Armbanduhr im Edelstahl-Gehäuse
 - Saphirglas
-- Japanisches Automatik-Uhrwerk Citizen-Miyota 8315, 21 Steine
+- Dunkelgrünes Ziffernblatt mit silbernen Zahlen/Indices, Leuchtzeigern
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CMV7V6KK{{</world>}}

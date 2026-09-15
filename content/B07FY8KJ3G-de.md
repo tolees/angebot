@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Feinster Chrom Vanadium Stahl, hochglanz verchromt
 - Durchgehend gehärtet
+- Feinster Chrom Vanadium Stahl, hochglanz verchromt
 - metrisch
 
 [🛒 Hier!!]({{< param buyurl >}})

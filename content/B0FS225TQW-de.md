@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Zuweisbare Quick-Action-Tasten - Weise den beiden programmierbaren Rücken-Tasten Funktionen zu, um schneller reagieren zu können und ein personalisierteres, individuelleres Spielerlebnis zu erhalten
-- Integrierte Bewegungs-Bedienelemente - Genieße ein packendes Spiel mit der Bewegungssteuerung, die eine verbesserte Steuerung und Reaktionsfähigkeit für Aktionen wie Zielen, Lenken und Interaktion in dynamischen, actiongeladenen Spielen wie Mario Kart World und Donkey Kong Bananza bietet
 - C-Taste für GameChat - Die integrierte C-Taste bietet schnellen Zugriff auf die wichtigsten GameChat-Funktionen und verbessert die Kommunikation im Spiel, ohne das Spiel zu unterbrechen
-- TMR-Thumbsticks - Erlebe die Kontrolle auf der nächsten Stufe mit den Thumbsticks mit TMR (Tunneling Magnetoresistance), die für bessere Genauigkeit, weniger Drift und lang anhaltende Leistung für ein reibungsloses, reaktionsschnelles Gameplay entwickelt wurden
+- Integrierte Bewegungs-Bedienelemente - Genieße ein packendes Spiel mit der Bewegungssteuerung, die eine verbesserte Steuerung und Reaktionsfähigkeit für Aktionen wie Zielen, Lenken und Interaktion in dynamischen, actiongeladenen Spielen wie Mario Kart World und Donkey Kong Bananza bietet
 - Kabellos und wiederaufladbar - Spiel deine Lieblingsspiele von Nintendo den ganzen Tag lang mit einer kabellosen Reichweite von bis zu 9 Metern und einem integrierten Akku, der pro Ladung bis zu 40 Stunden Spielzeit bietet
+- TMR-Thumbsticks - Erlebe die Kontrolle auf der nächsten Stufe mit den Thumbsticks mit TMR (Tunneling Magnetoresistance), die für bessere Genauigkeit, weniger Drift und lang anhaltende Leistung für ein reibungsloses, reaktionsschnelles Gameplay entwickelt wurden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0FS225TQW{{</world>}}

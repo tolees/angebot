@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hoher Halskragen für Wärme und Schutz vor den Elementen
+- Lieferumfang: 1 x Columbia Klamath Range II Half Zip für Herren, Feather Weight Mikrofleece 100% Polyester, Farbe: Collegiate Navy Solid, Größe: M, Art.Nr. 1352472
 - Erhältlich in einer Vielzahl von Farben, Ideal für den täglichen Gebrauch
 - Die Omni-Shade-Technologie hilft langfristige Sonnenbrände und Hautschäden zu verhindern und schützt Sie vor schädlichen UVA- und UVB-Strahlen
-- Lieferumfang: 1 x Columbia Klamath Range II Half Zip für Herren, Feather Weight Mikrofleece 100% Polyester, Farbe: Collegiate Navy Solid, Größe: M, Art.Nr. 1352472
+- Hoher Halskragen für Wärme und Schutz vor den Elementen
 - Kuscheliger Herren-Half-Zip-Fleecepullover, der zu jeder Jahreszeit dauerhaften Komfort bietet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

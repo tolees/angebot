@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Leder
-- Schnürsenkel
 - Reguläre Passform
+- Schnürsenkel
+- Obermaterial aus Leder
 - Textilfutter
 
 [🛒 Hier!!]({{< param buyurl >}})

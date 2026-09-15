@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 3er-Pack
 - Wadenlang
+- 3er-Pack
 - Hauptmaterial: 56% Baumwolle / 40% Polyester(100% Recycelt) / 3% Elasthan / 1% Polyamid(100% Recycelt)
 
 [🛒 Hier!!]({{< param buyurl >}})

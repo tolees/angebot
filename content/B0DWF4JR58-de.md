@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fortescues Eissalon: Man kann das Gebäude zum Spielen aufklappen; Es gibt einen Servicebereich und einen Sitzbereich im Obergeschoss sowie Sitzplätze und einen Eisstand im Freien
-- Inklusive 6 LEGO Harry Potter Minifiguren: Dieses Fantasy-Set beinhaltet Florean Fortescue, Katie Bell, Alicia Spinnet, Ron Weasley, Cho Chang und einen Ladenbesitzer
-- Gemeinsam bauen – mit Freunden und mit der Familie: Die LEGO Builder App bietet ein tolles Gemeinschaftserlebnis, wenn Kinder zusammen mit anderen LEGO Modelle bauen
-- Das Sportgeschäft Qualität für Quidditch: In dem Laden befindet sich neben einem „schwebenden“ Besen auch jede Menge Quidditch-Ausrüstung – Slytherin Schulkleidung, ein Quaffel, ein Klatscher, ein goldener Schnatz und Siegerpokale
-- Erschaffe die Winkelgasse aus LEGO Steinen: Die beiden Läden in dieser Einkaufsstraße kann man miteinander oder mit anderen Läden aus separat erhältlichen LEGO Harry Potter Winkelgasse Sets verbinden
 - Magisches Geschenk für Harry Potter Fans: Dieses Bauspielzeug ist ein magisches Geburtstags- oder Weihnachtsgeschenk für Mädchen, Jungen und alle Fans der Zauberwelt ab 8 Jahren
+- Gemeinsam bauen – mit Freunden und mit der Familie: Die LEGO Builder App bietet ein tolles Gemeinschaftserlebnis, wenn Kinder zusammen mit anderen LEGO Modelle bauen
+- Fortescues Eissalon: Man kann das Gebäude zum Spielen aufklappen; Es gibt einen Servicebereich und einen Sitzbereich im Obergeschoss sowie Sitzplätze und einen Eisstand im Freien
 - Spielset mit Läden aus der Winkelgasse: Die detailgetreu mit LEGO Steinen nachgebildeten Läden aus der Winkelgasse – Fortescues Eissalon und Qualität für Quidditch – lassen Kinder magische Harry Potter Szenen nachstellen
+- Das Sportgeschäft Qualität für Quidditch: In dem Laden befindet sich neben einem „schwebenden“ Besen auch jede Menge Quidditch-Ausrüstung – Slytherin Schulkleidung, ein Quaffel, ein Klatscher, ein goldener Schnatz und Siegerpokale
+- Inklusive 6 LEGO Harry Potter Minifiguren: Dieses Fantasy-Set beinhaltet Florean Fortescue, Katie Bell, Alicia Spinnet, Ron Weasley, Cho Chang und einen Ladenbesitzer
+- Erschaffe die Winkelgasse aus LEGO Steinen: Die beiden Läden in dieser Einkaufsstraße kann man miteinander oder mit anderen Läden aus separat erhältlichen LEGO Harry Potter Winkelgasse Sets verbinden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DWF4JR58{{</world>}}

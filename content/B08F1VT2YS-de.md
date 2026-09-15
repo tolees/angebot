@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aufladbarer Lithium-Ionen-Akku mit 4800 mAh und 35,52 Wh Energie ermöglicht langanhaltende Leuchtkraft. Die robuste Kopfbauweise mit abnehmbarem, waschbarem Stirnband und Transportsicherung macht diese Taschenlampe zum idealen Begleiter für Profis.
-- Mit zusätzlichem Rotlicht sorgt die H19R Core Stirnlampe für optimale Nachtsicht und Sicherheit. IP68-zertifizierte Wasserdichtigkeit und innovative Temperaturkontrolle garantieren langlebige Leistung bei anspruchsvollen Outdoor-Einsätzen.
 - Robuste Konstruktion mit IP68-Schutz, 1,5 m Falltest und breitem Temperaturbereich von -20 bis +40 °C garantiert Langlebigkeit. Die ergonomische Stirnlampe ist ideal für extreme Einsätze und alle Outdoor-Fans, die zuverlässige Taschenlampen suchen.
+- Mit zusätzlichem Rotlicht sorgt die H19R Core Stirnlampe für optimale Nachtsicht und Sicherheit. IP68-zertifizierte Wasserdichtigkeit und innovative Temperaturkontrolle garantieren langlebige Leistung bei anspruchsvollen Outdoor-Einsätzen.
 - Innovative Fusion Light-Technologie kombiniert Multi-Core Optics mit USB-Magnetladekabel für schnelles Aufladen. Der hochwertig Akkusatz inkl. Schutz sichert maximale Power und zuverlässige Performance – ideal für passionierte Taschenlampen-Fans.
+- Aufladbarer Lithium-Ionen-Akku mit 4800 mAh und 35,52 Wh Energie ermöglicht langanhaltende Leuchtkraft. Die robuste Kopfbauweise mit abnehmbarem, waschbarem Stirnband und Transportsicherung macht diese Taschenlampe zum idealen Begleiter für Profis.
 - Leistungsstarke Premium-Stirnlampe H19R Core: Mit bis zu 3500 Lumen bietet diese innovative LED-Taschenlampe eine perfekte Ausleuchtung dank Fusion Beam – ideal für Outdoor-Abenteuer und professionelle Einsätze. Intuitive Drei-Wege-Bedienung.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

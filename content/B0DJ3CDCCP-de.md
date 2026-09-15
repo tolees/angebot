@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- kurzärmlig & mit Rundhalsausschnitt
 - 0
-- T-Shirt aus Single-Jersey-Stoff aus Baumwolle mit kleinem Logo-Print im praktischen 5er-Pack
-- Passform: Regular Fit - gerader Schnitt | Unser Model ist 190 cm groß und trägt Größe L
 - Ideal zu folgenden Anlässen: Freizeit, Alltag, Sport, Urlaub, Strand, Homeoffice, Wochenende, Frühling, Sommer
+- kurzärmlig & mit Rundhalsausschnitt
+- Passform: Regular Fit - gerader Schnitt | Unser Model ist 190 cm groß und trägt Größe L
+- T-Shirt aus Single-Jersey-Stoff aus Baumwolle mit kleinem Logo-Print im praktischen 5er-Pack
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DJ3CDCCP{{</world>}}

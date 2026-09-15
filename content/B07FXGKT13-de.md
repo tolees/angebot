@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Maske produkte
-- Marke Beauty-Produkte
 - Marke CLINIQUE
+- Marke Beauty-Produkte
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07FXGKT13{{</world>}}

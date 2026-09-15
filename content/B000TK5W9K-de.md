@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Verbesserte Farbwiedergabe: Ein glänzendes Finish sorgt dafür, dass Ihre Dokumente auch unter der Folie noch farbecht zum Strahlen kommen - Laminieren zu Hause, in der Schule oder im Büro
-- Lieferumfang: 1 x 100er Pack Leitz Laminierfolien A3 80 mic, 33819, für DIN A3 (30,3 x 42,6 cm), Abmessungen Pack BxHxT: 30,9 x 2,0 x 43,5 cm
 - Saubere Ergebnisse: Dank der abgerundeten Ecken und der erhöhten Festigkeit der Laminiertaschen bieten die Folien nicht nur Schutz für Ihre Unterlagen, sondern auch eine ansprechende Optik
 - Zuverlässiger Schutz: Transparente DIN A3 Laminierfolien für die luft- und wasserdichte Versiegelung von Dokumenten, Plakaten, Aushänge, Fotos sowie Zeichnungen eines A3 Zeichenblock
+- Lieferumfang: 1 x 100er Pack Leitz Laminierfolien A3 80 mic, 33819, für DIN A3 (30,3 x 42,6 cm), Abmessungen Pack BxHxT: 30,9 x 2,0 x 43,5 cm
 - Universell einsetzbar: Für alle gängigen A3 Laminiergeräte geeignet; reißfeste Folien mit 80 mic Folienstärke (2 x 80 Mikron) aus Polyester und Ethyl-Vinyl-Acetat für mehr Langlebigkeit
 
 [🛒 Hier!!]({{< param buyurl >}})

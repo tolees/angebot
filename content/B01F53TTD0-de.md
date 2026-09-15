@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Innenmaterial: Textil
 - Schuhweite: Normal
+- Verschluss: Gummi
 - Passform: Regulär
 - Obermaterial: Synthetik
-- Innenmaterial: Textil
-- Verschluss: Gummi
 - Absatzform: Flach
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

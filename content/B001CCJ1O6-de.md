@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schuhweite: Mittel
 - Smooth leather
+- Schuhweite: Mittel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001CCJ1O6{{</world>}}

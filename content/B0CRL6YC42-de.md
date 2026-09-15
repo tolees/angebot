@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Normale Passform
 - Modellnummer: 3000202
 - Flachstrickkragen
-- Normale Passform
 - Logostickerei
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- in der ganzen Länge gehärtet
 - Leidenschaft für erstklassige Werkzeuge: Seit über 30 Jahren gibt es für uns kein Limit
 - ergonomischer 1-Komponentengriff
-- Chrom-Molybdän
-- in der ganzen Länge gehärtet
 - bestens geeignet für Montage- und Demontagearbeiten
+- Chrom-Molybdän
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B001NYXUKY{{</world>}}

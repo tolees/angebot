@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Vorrichtung für Trinksystem (deuter Streamer 3.0 - nicht enthalten!)
-- Extra Long - perfekter Tragekomfort für große Menschen (ca. 1,85 - 2,00 Meter)
 - Gepolsterte Hüftflossen mit einer RV-Tasche
+- Extra Long - perfekter Tragekomfort für große Menschen (ca. 1,85 - 2,00 Meter)
 - Das Active-Comfort-Fit Rückensystem unterstützt den Tragekomfort durch bewegliche Schulterträger bei gleichzeitig formstabiler Konstruktion
 - Maximale Belüftung durch das Aircomfort Netzrücken-System sorgt für besten Tragekomfort. Gleichzeitig perfekte Lastübertragung auf die Hüftflossen mit dem elastischen Federstahlrahmen
 

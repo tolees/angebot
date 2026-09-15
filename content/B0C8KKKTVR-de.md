@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bietet eine ergonomische Passform
 - Eine zeitgenössiche, sportliche Silhouette
+- Bietet eine ergonomische Passform
 - Textil aus recyceltem PET
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Reguläre Passform
 - Gerippter Rundhalsausschnitt
 - 100% Baumwolle
-- Reguläre Passform
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CL2SZ23C{{</world>}}

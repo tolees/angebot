@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Regulär geschnitten
-- Klassisches T-förmiges Overlay im Zehenbereich
 - Schnürsenkel
+- Klassisches T-förmiges Overlay im Zehenbereich
 - Obermaterial aus Synthetik- und Wildleder
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1x Villeroy and Boch Artesano Original Pastateller (30 cm), Material: Premium Porzellan, Farbe: WeiÃŸ
-- Spritzfreies GenieÃŸen von Nudelgerichten mit SoÃŸe dank optimaler Tiefe und breitem Rand, Passt perfekt zum Artesano Original-Geschirr
 - Tiefer Porzellan Pastateller mit breitem Rand zum Servieren von jeglichen Pasta-Gerichten, Ideal für den Alltag und besondere Anlässe
 - Auch für Gastronomie geeignet dank handlicher Form, Ineinander stapelbar, StoÃŸ- und schlagfeste Kanten, Optimale GröÃŸe für die Spülmaschine
+- Spritzfreies GenieÃŸen von Nudelgerichten mit SoÃŸe dank optimaler Tiefe und breitem Rand, Passt perfekt zum Artesano Original-Geschirr
+- Lieferumfang: 1x Villeroy and Boch Artesano Original Pastateller (30 cm), Material: Premium Porzellan, Farbe: WeiÃŸ
 - Spülmaschinenfest und mikrowellengeeignet, Hochwertige Qualität: Premium Porzellan Made in Germany
 
 [🛒 Hier!!]({{< param buyurl >}})

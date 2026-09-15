@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Komplettangriff! Wird der Dino-Schweif nach oben und unten bewegt, wird ein furchteinflößendes Brüllen und Beißen ausgelöst. Durch Drehen des Dino-Schweifes schleudert er seinen massigen Arm mit voller Wucht zur Seite!
-- Ein großartiges Geschenk! Dieser Distortus Rex ist ein tolles Geschenk für Dinosaurierfans ab 4 Jahren, insbesondere für Fans von Jurassic World.
 - Doppelattacke! Sein einschüchterndes Kopf-Schütteln kündigt den nächsten Angriff an!
 - Bring Jurassic World zu dir nach Hause. Der ultimative Doppelattacke Distortus Rex versetzt Kinder direkt in die spannende Welt von Jurassic World: Die Wiedergeburt! Mit seinem authentischen Design sorgt er für jede Menge actiongeladenen Spielspaß.
+- Komplettangriff! Wird der Dino-Schweif nach oben und unten bewegt, wird ein furchteinflößendes Brüllen und Beißen ausgelöst. Durch Drehen des Dino-Schweifes schleudert er seinen massigen Arm mit voller Wucht zur Seite!
+- Ein großartiges Geschenk! Dieser Distortus Rex ist ein tolles Geschenk für Dinosaurierfans ab 4 Jahren, insbesondere für Fans von Jurassic World.
 - Scannen und sammeln! Durch Scannen des Codes auf dem Fuß des Dinosauriers in der kostenlosen Jurassic World Play App mit einem kompatiblen Smart-Gerät (nicht enthalten) werden AR-Aktivitäten und der Aufbau einer digitalen Dinosauriersammlung ermöglicht!
 - Ride ‘N Rampage: Colossal Chase! Bei diesem aktualisierten App-Spiel liefern sich verschiedene Fahrzeuge an Land, in der Luft und im Wasser ein Rennen und bei einem aufregenden Shooter-Spiel wird den Dinos DNA entnommen.
 

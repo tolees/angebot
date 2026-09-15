@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für das luxuriösere Würfelvergnügen gibt es QWIXX DELUXE, mit vier Filzstiften und vier abwischbaren Tableaus für unbegrenzt viele Partien!
-- Je mehr Zahlen ihr ankreuzt, umso mehr Punkte erhaltet ihr. Qwixx ist einfach, in zwei Minuten erklärt und spannend bis zum Schluss!
 - Inhalt: 4 Tableus, 4 Stifte, 6 Würfel, 1 Spielanleitung
-- Bei Qwixx gibt es keine lange Wartezeiten. Jeder Würfelwurf wird von allen genutzt!
+- Für das luxuriösere Würfelvergnügen gibt es QWIXX DELUXE, mit vier Filzstiften und vier abwischbaren Tableaus für unbegrenzt viele Partien!
 - Erlebe jetzt das neue und kompakte EXTRA-Format vom NSV!
+- Je mehr Zahlen ihr ankreuzt, umso mehr Punkte erhaltet ihr. Qwixx ist einfach, in zwei Minuten erklärt und spannend bis zum Schluss!
+- Bei Qwixx gibt es keine lange Wartezeiten. Jeder Würfelwurf wird von allen genutzt!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0GMKB1V68{{</world>}}

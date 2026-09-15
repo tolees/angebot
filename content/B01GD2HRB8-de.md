@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Samtweiche Hände
 - Grosszügige pflege für ihre Lippen
-- Wunderwaffe für angegriffene Haut
 - Kälteschutz
+- Wunderwaffe für angegriffene Haut
+- Samtweiche Hände
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01GD2HRB8{{</world>}}

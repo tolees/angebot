@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit vollständig vertonten Dialogen, wunderschön verbesserter Grafik und zahllosen Gameplay-Verbesserungen kehrt das Genre-definierende taktische RPG zurück, auf das man lange gewartet hat.
-- Taktische Kämpfe
 - Charakterentwicklung und -anpassung
+- Taktische Kämpfe
+- Mit vollständig vertonten Dialogen, wunderschön verbesserter Grafik und zahllosen Gameplay-Verbesserungen kehrt das Genre-definierende taktische RPG zurück, auf das man lange gewartet hat.
 - Erweiterte Version und Klassische Version
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

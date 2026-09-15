@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Umfasst drei- und viereckige Schleifplatte für die Bewältigung verschiedenster Projekte
+- Elektronische Drehzahlvorwahl sorgt für die perfekte Drehzahl passend zu Anwendung und Material
 - Lieferumfang: 1 Schleifpapier (bügeleisenform) K 80;1 Schleifpapier (rechteckig) K 80;Karton
 - Einfacher und schneller Schleifvorsatzwechsel durch SDS-System
-- Elektronische Drehzahlvorwahl sorgt für die perfekte Drehzahl passend zu Anwendung und Material
 - Ideal zum Schleifen mittelgroßer und größerer flacher Holz- und Metalloberflächen sowie von Ecken und Kanten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

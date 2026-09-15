@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FEUCHTIGKEITSSPENDEND: Unsere Formulierung kann als auswaschbare Pflegespülung oder Leave-in verwendet werden – für genährtes Haar, jeden Tag
-- DURSTLÖSCHER FÜR KOPFHAUT & SPRÖDES HAAR: Versorge deine Haare bei jeder Wäsche mit tiefenwirksamer Feuchtigkeit
 - VERBESSERT DEINE STIMMUNG: Fühle dich wie neu geboren durch die feuchtigkeitsspendende Oase der Natur. Der Duft von blumigen Jasminnoten sorgt dafür, dass du dich nachweislich* gleich viel erholter fühlst *mittels multimodaler Forschung
-- 96% NATÜRLICHEN URSPRUNGS*: Angereichert mit Aloe Vera aus Mexiko, zertifiziert von Pflanzenexperten der Royal Botanic Gardens, Kew; Vegan *bezieht sich auf die Inhaltsstoffe der Formel
+- FEUCHTIGKEITSSPENDEND: Unsere Formulierung kann als auswaschbare Pflegespülung oder Leave-in verwendet werden – für genährtes Haar, jeden Tag
 - RECYCELBARE VERPACKUNG: Unsere Pflegespülung-Tuben sind recycelbar
 - BIS ZU 2X MEHR PFLEGE*: Entdecke die beste Pflege, die wir je hatten, mit unserer kompletten Feuchtigkeits-Kollektion; *Bei der Anwendung von Shampoo & Pflegespülung oder Shampoo & Haarmaske im Vergleich zu einem Shampoo ohne Pflegestoffe
+- DURSTLÖSCHER FÜR KOPFHAUT & SPRÖDES HAAR: Versorge deine Haare bei jeder Wäsche mit tiefenwirksamer Feuchtigkeit
+- 96% NATÜRLICHEN URSPRUNGS*: Angereichert mit Aloe Vera aus Mexiko, zertifiziert von Pflanzenexperten der Royal Botanic Gardens, Kew; Vegan *bezieht sich auf die Inhaltsstoffe der Formel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0976YW8JY{{</world>}}

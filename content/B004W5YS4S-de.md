@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gummierte Griffzone für optimalen Halt
 - Metallspitze mit 0,35mm Strich
 - Schlankes Gehäuse mit Kappe
+- Gummierte Griffzone für optimalen Halt
 - Schnell trocknende, weich-fließende Liquid Gel-Tinte
 - Einwegmodell
 

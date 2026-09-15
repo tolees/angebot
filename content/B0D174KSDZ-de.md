@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Passform : Locker geschnitten
 - Taschen : Gesäßtaschen, Taschen vorn, Seitentaschen
-- Produkttyp : Relaxed Fit Hosen
 - Beindetails : Saum mit Kordelzug
+- Produkttyp : Relaxed Fit Hosen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D174KSDZ{{</world>}}

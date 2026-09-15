@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Umschlagsmessung: 0,8 mm
 - Lieferumfang: 1x Wasserwaage, 120 cm Länge, Genauigkeit: +/- 0,5 mm/m
+- Umschlagsmessung: 0,8 mm
 - Schlagfeste Blocklibelle & große und gut sichtbare Seitenlibelle
 - Spezielle Schockabsorber an den Enden für hohe Haltbarkeit
 

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- herausnehmbare Decksohle
+- RiekerTEX: optimaler Nässe- und Kälteschutz
 - gepolsterter Schaftrand und Zunge
 - praktische Zungen- und Fersenschlaufe
-- RiekerTEX: optimaler Nässe- und Kälteschutz
 - flexible Laufsohle, profiliert
+- herausnehmbare Decksohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CQMPBD38{{</world>}}

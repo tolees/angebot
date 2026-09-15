@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Komfort - Der Führungsholm mit Softgrip ist höhenverstellbar und zum platzsparenden Verstauen klappbar. Ein Tragegriff erleichtert den Transport des Rasenmähers.
-- Lieferung ohne Akku - Der Akku-Rasenmäher GE-CM 36/48 Li M-Solo wird ohne Power X-Change Akkus und ohne Ladegerät geliefert. Diese sind separat erhältlich.
-- Brushless – Der wartungsarme und kraftvolle Brushless-Motor sorgt für maximale Leistung bei längerer Laufzeit im Vergleich zu herkömmlichen Kohlebürstenmotoren.
 - Mulchfunktion – Der Rasenmäher wird ohne Fangkorb geliefert. Das Schnittgut wird über den Seitenauswurf auf der Rasenfläche verteilt und dient dort als natürliche Nährstoffquelle.
 - Für große Flächen - Der 17 kg leichte Akku-Rasenmäher mit Stahlblech-Chassis und rasenschonenden Rädern wird für große Rasenflächen bis 1.000 Quadratmeter empfohlen.
-- Power X-Change - Der Akku-Rasenmäher GE-CM 36/48 Li M-Solo ist Teil der Einhell Power X-Change Familie, in der Akkus, Ladegeräte und Systemgeräte kombiniert werden können.
 - Schnitthöhe - Der Akku-Rasenmäher arbeitet mit einer Schnittbreite von 48 cm und verfügt über eine 6-stufige, axiale Schnitthöhenverstellung von 30 mm bis 75 mm.
+- Brushless – Der wartungsarme und kraftvolle Brushless-Motor sorgt für maximale Leistung bei längerer Laufzeit im Vergleich zu herkömmlichen Kohlebürstenmotoren.
+- Lieferung ohne Akku - Der Akku-Rasenmäher GE-CM 36/48 Li M-Solo wird ohne Power X-Change Akkus und ohne Ladegerät geliefert. Diese sind separat erhältlich.
+- Power X-Change - Der Akku-Rasenmäher GE-CM 36/48 Li M-Solo ist Teil der Einhell Power X-Change Familie, in der Akkus, Ladegeräte und Systemgeräte kombiniert werden können.
+- Komfort - Der Führungsholm mit Softgrip ist höhenverstellbar und zum platzsparenden Verstauen klappbar. Ein Tragegriff erleichtert den Transport des Rasenmähers.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09TBFW16T{{</world>}}

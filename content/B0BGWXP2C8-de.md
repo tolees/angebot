@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Entspannung der Muskeln Dank wertvollem Extrakt der Arnika
 - Mit natürlichen ätherischen Ölen aus Cabreuva, Rosmarin & Pinus-Arten
 - Rezeptur ohne Mikroplastik
+- Entspannung der Muskeln Dank wertvollem Extrakt der Arnika
 - Sanfte Pflege
 - Milde Reinigung
 

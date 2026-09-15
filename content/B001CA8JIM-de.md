@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PASSGENAU: Antriebsgröße 1/4 Zoll (6,3 mm) Vierkant hohl passend für gängige Ratschen und Knarren
-- PRAKTISCH: Chrom-Vanadium für den professionellen Werkstatteinsatz ausgelegt
-- PASSGENAU: Für Handbetätigung und damit optimal auf den professionellen Werkstatteinsatz abgestimmt
-- LIEFERUMFANG: HAZET Steckschlüsseleinsatz 850-E10, 1/4 Zoll (6,3 mm) Vierkant
 - QUALITÄT: HAZET fertigt Qualitäts-Werkzeuge in Deutschland für den professionellen Einsatz, mit mehr als 155 Jahren Erfahrung in Entwicklung und Produktion
+- PASSGENAU: Für Handbetätigung und damit optimal auf den professionellen Werkstatteinsatz abgestimmt
+- PASSGENAU: Antriebsgröße 1/4 Zoll (6,3 mm) Vierkant hohl passend für gängige Ratschen und Knarren
+- LIEFERUMFANG: HAZET Steckschlüsseleinsatz 850-E10, 1/4 Zoll (6,3 mm) Vierkant
+- PRAKTISCH: Chrom-Vanadium für den professionellen Werkstatteinsatz ausgelegt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001CA8JIM{{</world>}}

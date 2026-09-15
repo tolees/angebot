@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Einhell Akku-Schlagbohrschrauber TE-CD 18/48 Li-i (2x2,0Ah) bringt Kraft dort gezielt auf den Punkt, wo es nötig ist: bei Sanierungs- und Renovierungsaufgaben und bei härteren Materialien.
-- Zwei 2,0 Ah-Akkus der Power X-Change-Reihe sowie ein System-Ladegerät sind im Lieferumfang enthalten. Die leistungsstarken Akkus der flexiblen Systemreihe sind grenzenlos untereinander kombinierbar.
-- Die Lieferung des hochwertigen Akku-Schlagbohrschraubers von Einhell inklusive zwei 2,0 Ah Power X-Change-Akkus und dem Ladegerät erfolgt im praktischen Transport- und Aufbewahrungskoffer.
 - Die inkludierte Schlagbohrfunktion gewährt universelles Arbeiten, das 2-Gang-Getriebe eignet sich zum kraftvollen Bohren und Schrauben. Die Drehzahl-Elektronik sorgt für materialgerechtes arbeiten.
+- Zwei 2,0 Ah-Akkus der Power X-Change-Reihe sowie ein System-Ladegerät sind im Lieferumfang enthalten. Die leistungsstarken Akkus der flexiblen Systemreihe sind grenzenlos untereinander kombinierbar.
 - Als Mitglied der leistungsstarken Power X-Change-Familie wird der Schlagbohrschrauber von den hochwertigen Lithium-Ionen-Akkus der PXC-Reihe von Einhell angetrieben - stets einsatzbereit.
+- Der Einhell Akku-Schlagbohrschrauber TE-CD 18/48 Li-i (2x2,0Ah) bringt Kraft dort gezielt auf den Punkt, wo es nötig ist: bei Sanierungs- und Renovierungsaufgaben und bei härteren Materialien.
+- Die Lieferung des hochwertigen Akku-Schlagbohrschraubers von Einhell inklusive zwei 2,0 Ah Power X-Change-Akkus und dem Ladegerät erfolgt im praktischen Transport- und Aufbewahrungskoffer.
 - Höchste Handlichkeit und einen festen, sicheren Halt bietet das ergonomische Design und der Softgrip. Optimale Sicht auf das Arbeitsfeld, auch in dunklen Bereichen, schafft die LED-Beleuchtung.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Normale Passform
-- Material-Prozentangaben können variieren. Genaue Angaben findest du auf dem Label
 - Aufgesticktes Logo
+- Material-Prozentangaben können variieren. Genaue Angaben findest du auf dem Label
+- Normale Passform
 - Einfache Passform und einen modernen Look
 - Absolute Bewegungsfreiheit
 

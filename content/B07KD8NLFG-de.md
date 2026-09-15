@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit einem klassischen, gestickten Logo links auf der Brust
 - Das Fleece mit gebürsteter Innenseite fühlt sich weich und geschmeidig an
+- Mit einem klassischen, gestickten Logo links auf der Brust
 - Standardpassform für ein relaxtes, unkompliziertes Tragegefühl
 - Material: 80-82% Baumwolle, 18-20% Polyester
 - Geripptes Material am Saum und an den Bündchen garantiert eine sichere Passform

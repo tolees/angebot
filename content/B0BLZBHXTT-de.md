@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Neuer ergonomischer Griff
 - Neue gestaltete Öffnung
 - Verbessertes Magnetsystem
-- Neuer ergonomischer Griff
 - Neues Beißventil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

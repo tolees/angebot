@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Drei Richtcharakteristika zur Aufnahme unterschiedlicher Tonquellen. Temperatur (Betriebsumgebung): 0 ˚C - 40 ˚C
-- Canon Stereo-Richtmikrofon DM-E1;Windschutz für DM-E1;Bedienungsanleitung
-- Weiter Frequenzbereich (50 - 16.000 Hz) und hohe Empfindlichkeit für brillante, detailreiche Tonaufnahmen
 - Externes Stereo-Richtmikrofon für EOS Kameras
+- Weiter Frequenzbereich (50 - 16.000 Hz) und hohe Empfindlichkeit für brillante, detailreiche Tonaufnahmen
+- Drei Richtcharakteristika zur Aufnahme unterschiedlicher Tonquellen. Temperatur (Betriebsumgebung): 0 ˚C - 40 ˚C
 - Gedämpfte Mikrofonhalterung und Windschutz zur Reduzierung unerwünschter Nebengeräusche
+- Canon Stereo-Richtmikrofon DM-E1;Windschutz für DM-E1;Bedienungsanleitung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01BWHE9B0{{</world>}}

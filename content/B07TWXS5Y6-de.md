@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geeignet als moderner Beistelltisch, Nachttisch, Blickfang im Eingangsbereich und mehr
 - Stoffkorb aus Leinenimitat mit festem Boden unter dem Tablett zur Aufbewahrung wichtiger Gegenstände
 - Metalltablett mit erhöhtem Rand als obere Ablage, ideal zum Abstellen von Getränken, Snacks, Topfpflanzen und mehr
+- Geeignet als moderner Beistelltisch, Nachttisch, Blickfang im Eingangsbereich und mehr
 - Robustes Metallgestell mit 4 Standfüßen und glatt lackierter Oberfläche
 - Runder Metalltisch mit Tablett und weiterer Aufbewahrungsmöglichkeit darunter
 - Einfach aufzubauen; Montagematerial und Anleitung sind enthalten

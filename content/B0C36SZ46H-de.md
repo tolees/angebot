@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Seitentaschen für Schlüssel und Handy, Regular Fit mit etwas mehr Weite
-- Loopback für effektive Wärme und Luftzirkulation
-- Jogger-Shorts haben einen Kordelzug und einen elastischen Bund, was sie super bequem macht
 - Elastischer Bund mit Kordelzug zum Anpassen
+- Loopback für effektive Wärme und Luftzirkulation
+- Seitentaschen für Schlüssel und Handy, Regular Fit mit etwas mehr Weite
+- Jogger-Shorts haben einen Kordelzug und einen elastischen Bund, was sie super bequem macht
 - Sie sind in allen Stoffarten und Passformen erhältlich. Loopback-Sweatstoff hat eine umgekehrte Schlingenstruktur auf der Rückseite, die ihn feuchtigkeitsableitend macht
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Longsleeve mit Logo-Print auf der Brust.
-- Passform: Regular Fit - gerader Schnitt | Brustweite bei Größe M ca. 54 cm | Rückenlänge bei Größe M ca. 72 cm
 - Rundhalsausschnitt| Langärmlig
 - Waschhinweis: 40°C Buntwäsche | Nicht auf Verzierung bügeln | Bügeln bei mäßiger Temperatur | Nicht chemisch reinigen | Nicht bleichen | Nicht im Trockner trocknen | Von links waschen und bügeln | Mit ähnlichen Farben waschen | Nass in Form ziehen
+- Passform: Regular Fit - gerader Schnitt | Brustweite bei Größe M ca. 54 cm | Rückenlänge bei Größe M ca. 72 cm
+- Longsleeve mit Logo-Print auf der Brust.
 - Aus einem weichen Single-Jersey-Stoff aus Baumwolle.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produkttyp: ABIS_MUSIC
 - Marke: HARDLY ART RECORDS
+- Produkttyp: ABIS_MUSIC
 - Unter der Farbe des offiziellen Rechts [VINYL]
 
 [🛒 Hier!!]({{< param buyurl >}})

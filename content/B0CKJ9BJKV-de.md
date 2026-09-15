@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Normale bis schmale Passform
 - Hohes Slip on Design
 - PUMA Branding Details
-- Normale bis schmale Passform
 - Leichtes Mesh-Obermaterial mit einer GRIPCONTROL PRO Schicht für optimale Ballkontrolle mit einem PWRTAPE Stützrahmen
 
 [🛒 Hier!!]({{< param buyurl >}})

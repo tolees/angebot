@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Starker Halt
 - Für mattes Finish
 - Hinterlässt keine Rückstände
+- Starker Halt
 - Packung die Größe: 4.2 L x 6.8 H x 6.6 W (cm)
 
 [🛒 Hier!!]({{< param buyurl >}})

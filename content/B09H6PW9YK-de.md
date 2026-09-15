@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- MV EASY-Kopf für alle Ventilarten: Die Fahrradpumpe, welche mit einem gut ablesbaren Präzisionsmanometer ausgestattet ist, kann mithilfe des bewährten Pumpenkopfes für alle Ventile (AV, SV, DV) genutzt werden
 - Lieferumfang: SKS GERMANY AIR-X-PLORER DIGI 10.0 Standpumpe (Luftpumpe für alle Ventilarten, LED-Digitalmanometer, Stahlrohr, Metallfuß, Soft-Touch-Griff, max. Druck: 10 bar / 144 PSI)
 - Hochwertiges Fahrradzubehör: Das große Stahlrohr und der solide Metallfuß garantieren eine gute Kraftübertragung, so dass sich höhere Drücke (476 cm³ Hub) mühelos in den Reifen pumpen lassen
-- MV EASY-Kopf für alle Ventilarten: Die Fahrradpumpe, welche mit einem gut ablesbaren Präzisionsmanometer ausgestattet ist, kann mithilfe des bewährten Pumpenkopfes für alle Ventile (AV, SV, DV) genutzt werden
 - Präzise: Die Standpumpe besticht mit einem hochwertigen LED-Digitalmanometer. Die erstklassige Sensoren-Technologie garantiert eine hohe Messgenauigkeit und liefert präzise Luftdruckwerte bis zu 10 bar
 - Made in Germany: Die Standpumpe AIR-X-PLORER DIGI 10.0 sowie nahezu alle Produkte von SKS GERMANY werden in Deutschland hergestellt und bieten somit einen überzeugenden Qualitätsnachweis
 

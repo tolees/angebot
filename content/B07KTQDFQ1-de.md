@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Multifunktions-Quarz-Uhrwerk
 - Edelstahl-Gliederarmband
-- Gehäusedicke 9,7 mm / Durchmesser des Gehäuses: 46 mm
 - Wasserabweisend bis 5 bar Sie kann beim Duschen oder Schwimmen getragen werden, jedoch nicht beim Tauchen.
+- Gehäusedicke 9,7 mm / Durchmesser des Gehäuses: 46 mm
 - Grau Zifferblatt
 
 [🛒 Hier!!]({{< param buyurl >}})

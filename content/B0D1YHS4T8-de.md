@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- GripControl-Beschichtung für die entscheidende Kontrolle über den Ball
 - Normale bis schmale Passform
+- GripControl-Beschichtung für die entscheidende Kontrolle über den Ball
 - Leichte, dünne TPU-Außensohle mit Stollen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

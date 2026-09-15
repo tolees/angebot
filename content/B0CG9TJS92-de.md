@@ -31,8 +31,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Der Schaft und der Clip des Druckkugelschreibers bestehen aus 100% recyceltem Kunststoff
 - Durch die ergonomische Dreieckform wird auch Vielschreibern ein ermüdungsfreies Schreiben ermöglicht
 - Die extra breite XB Mine verfügt über die Strichstärke 0.5 mm
-- Im Set sind zwei Kugelschreiber Poly Ball mit einer rutschfesten Soft Touch Oberfläche enthalten
 - Sie ist auswechselbar und hat eine blaue dokumentenechte Tinte
+- Im Set sind zwei Kugelschreiber Poly Ball mit einer rutschfesten Soft Touch Oberfläche enthalten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CG9TJS92{{</world>}}

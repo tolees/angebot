@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Verheerende, verbrauchbare Power-ups, die in jedem Kampf das Blatt wenden können
 - Schwarz-weiße, handgezeichnete Gummischlauchanimationen, inspiriert von Cartoons der 1930er Jahre
 - Ein voll ausgestattetes Arsenal mit über einem Dutzend einzigartiger Waffen und Ausrüstungsgegenstände – und Cartoon-Touch
-- Verheerende, verbrauchbare Power-ups, die in jedem Kampf das Blatt wenden können
-- Rasante Ego-Shooter-Kämpfe, bei denen ständige Bewegung entscheidend ist
 - Über 20 Level im Noir-Stil, in denen es von Mäusen, Ratten und Spitzmäusen wimmelt
+- Rasante Ego-Shooter-Kämpfe, bei denen ständige Bewegung entscheidend ist
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0GTQD3XKM{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Natural Textiles
 - Farbe: Mittelgrün
+- Natural Textiles
 - Obermaterial: 98 % recycelte Baumwolle 2 % Rindsleder
 - Sohle: 100% EVA
 

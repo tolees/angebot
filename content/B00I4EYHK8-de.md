@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit extra hohen und dichten Schlaufen, extra schwer (2250 g/m²)
 - Erhältlich in der Farbe Natur, waschbar bei 30° C und trocknergeeignet
+- Mit extra hohen und dichten Schlaufen, extra schwer (2250 g/m²)
 - Zertifiziert nach Öko-Tex Standard 100 (schadstoffgeprüft), ideal für Allergiker und empfindliche Babyhaut (Produktklasse 1)
 - Besonders dicker und flauschiger Badteppich aus Baumwolle/Leinen
 

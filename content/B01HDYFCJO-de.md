@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Spieldauer: 60-120
-- Spieleranzahl: 1-4
 - Ab 8 Jahre
+- Spieleranzahl: 1-4
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01HDYFCJO{{</world>}}

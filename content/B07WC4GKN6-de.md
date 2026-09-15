@@ -28,16 +28,16 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- rundhalsausschnitt; Sporttyp: Athletic Sports Apparel; Welche komponenten sind im lieferumfang des produkts enthaltenen: keine
 - perfekte atmungsaktivität
 - standard passform
-- closure: pull on
-- care instructions: maschinenwäsche
-- rundhalsausschnitt; Sporttyp: Athletic Sports Apparel; Welche komponenten sind im lieferumfang des produkts enthaltenen: keine
-- dry park vii
 - 100 Prozent polyester
-- langarm
 - dri-fit-technologie
+- langarm
+- closure: pull on
 - model: bv6706
+- care instructions: maschinenwäsche
+- dry park vii
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07WC4GKN6{{</world>}}

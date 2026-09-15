@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Modulares Dichtungssystem (MDS): Die internen Dichtungssysteme der GMMK-3-Tastatur im einfachen Bausatzdesign kannst du für ein solideres, flexibleres Tippgefühl kinderleicht anpassen.
+- Tastatur-Layout: International / ISO. Layout kann von den Produktabbildungen abweichen
 - Vollaluminiumgehäuse: Die CNC-gefrästen Ober- und Unterteile sorgen für erstklassiges Gewicht und Aussehen und garantieren dank eloxierter Oberflächenbehandlung eine erhöhte Haltbarkeit.
 - Unterstützung von 5-Pin-MX-Hot-Swap: Unserer breite Palette an Glorious-MX-Schalterstilen ermöglicht es dir, Tippgefühl und Akustik deiner GMMK-3-Tastatur ganz nach Belieben anzupassen. Kein Löten erforderlich!
-- Tastatur-Layout: International / ISO. Layout kann von den Produktabbildungen abweichen
 - 9 Modularitätspunkte: Das hochmodulare Design macht das Tauschen von Teilen beim GMMK 3 zu einem Kinderspiel. Passe Aussehen, Akustik und Anschlag genau auf deine Vorlieben an!
-- Modulares Dichtungssystem (MDS): Die internen Dichtungssysteme der GMMK-3-Tastatur im einfachen Bausatzdesign kannst du für ein solideres, flexibleres Tippgefühl kinderleicht anpassen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DFYBCF4X{{</world>}}

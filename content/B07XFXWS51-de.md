@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für den Schlaf optimiert: Das lichtempfindliche Display minimiert unnötige Stimulation, dimmt sich nachts ab oder schaltet sich ganz aus.
 - Anpassbarer Sonnenauf- und -untergang: Hilft Ihnen, mühelos einzuschlafen und morgens sanft mit heller werdendem Licht aufzuwachen. Die Bodyclock Luxe 700FM bietet anpassbare Sonnenauf- und -untergangsdauern von 15–90 Minuten.
+- Für den Schlaf optimiert: Das lichtempfindliche Display minimiert unnötige Stimulation, dimmt sich nachts ab oder schaltet sich ganz aus.
 - Hervorragende Audioqualität: Wählen Sie aus über 25 Schlaf-/Wecktönen, darunter weißes Rauschen, tropische Vögel und Wellen. Zudem verfügt sie über FM-Radio und hochwertige Bluetooth-Lautsprecher.
 - Zusätzliche Funktionen: Mit täglichen/wöchentlichen Weckoptionen, Schlummerfunktion per Tipp-Steuerung, Optionen zum Ausblenden des Lichts und zur Umwandlung in ein Nachtlicht.
 

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Steckerleiste 4-fach USB C mit erhöhtem Berührungsschutz - sorgt für noch mehr Sicherheit im Haushalt
-- Die Mehrfachsteckdose ist mit einem zweipoligen Schalter ausgestattet, sodass alle angeschlossenen Geräte gleichzeitig ein- oder ausgeschaltet werden können
-- Die Steckdosenleiste mit 1,5m Kabellänge (H05VV-F 3G1,5) bietet 4 Schutzkontaktsteckdosen (max. 3500W) in 45°-Anordnung, sodass mehrere Geräte gleichzeitig genutzt werden können
 - Die Ecolor Steckdosenleiste mit USB-Ladefunktion in der Farbe Schwarz überzeugt durch ihr elegantes, schlankes, zeitloses und hochwertiges Design, das eine harmonische Integration in unterschiedliche Raumkonzepte ermöglicht
+- Steckerleiste 4-fach USB C mit erhöhtem Berührungsschutz - sorgt für noch mehr Sicherheit im Haushalt
+- Die Steckdosenleiste mit 1,5m Kabellänge (H05VV-F 3G1,5) bietet 4 Schutzkontaktsteckdosen (max. 3500W) in 45°-Anordnung, sodass mehrere Geräte gleichzeitig genutzt werden können
+- Die Mehrfachsteckdose ist mit einem zweipoligen Schalter ausgestattet, sodass alle angeschlossenen Geräte gleichzeitig ein- oder ausgeschaltet werden können
 - Steckdosenleiste mit zwei USB C Ladebuchsen 5V/3.10A, 15.5W - für das Aufladen elektronischer Geräte wie Smartphones, Tablets und anderen USB-kompatiblen Geräten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

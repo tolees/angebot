@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Leder
 - Synthetische Zwischensohle
+- Obermaterial aus Leder
 - Gummi-Außensohle
 
 [🛒 Hier!!]({{< param buyurl >}})

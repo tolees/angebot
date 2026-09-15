@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Reguläre Passform
 - Zwischensohle in vulkanisierter Optik
+- Textilfutter
 - Obermaterial aus Synthetik-Nubuk
 - Schnürsenkel
-- Reguläre Passform
-- Textilfutter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CB1NZ2S8{{</world>}}

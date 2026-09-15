@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Elastische Bündchen
+- Elastischer Bund mit Kordelzug
 - Reguläre Passform
 - 100 % Polyester (recycelt)
-- Mittelhoher Bund
-- Elastischer Bund mit Kordelzug
 - Mesh-Futter
-- Elastische Bündchen
+- Mittelhoher Bund
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CZP9VG77{{</world>}}

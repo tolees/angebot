@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marke: LEONINE
 - Legend of the Galactic Heroes: The New Thesis Vol.2 [Blu-Ray]
+- Marke: LEONINE
 - Produkttyp: Physikalischer Film
 
 [🛒 Hier!!]({{< param buyurl >}})

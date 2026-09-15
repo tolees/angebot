@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Moderne, internationale Rebsorte
-- Mit praktischem BVS Drehverschluss
 - In Deutschland angebaut
-- Leicht zu öffnen und wiederverschließbar
+- Mit praktischem BVS Drehverschluss
 - Wird in frustfreier Verpackung verschickt
+- Leicht zu öffnen und wiederverschließbar
+- Moderne, internationale Rebsorte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00TYE6QD8{{</world>}}

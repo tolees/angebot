@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vorgeformte Sohlenstruktur im klassischen Stil
 - Unterstützung und Widerstand
+- Vorgeformte Sohlenstruktur im klassischen Stil
 - Strukturierte Passform
 
 [🛒 Hier!!]({{< param buyurl >}})

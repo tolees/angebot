@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reguläre Breite
 - SOFTFOAM+: Bequeme Innensohle mit Step-in-Komfort, die dank der extradicken Ferse für eine weiche Dämpfung sorgt
 - PUMA Branding-Details
+- Reguläre Breite
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DJ9LSP7Z{{</world>}}

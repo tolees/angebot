@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Stanz-Kit zum Erstellen von permanenten handgestanzten Abdrücken; 4 mm Zeichenhöhe
 - Enthält Großbuchstaben von A-Z, Ziffern von 0-9 und das „&“-Zeichen für außergewöhnliche Vielseitigkeit
 - Lieferung in einer Holzkiste
-- Stanz-Kit zum Erstellen von permanenten handgestanzten Abdrücken; 4 mm Zeichenhöhe
 - Zur Verwendung mit Metall, Leder, Holz, Lehm und mehr; ideal für eine Vielzahl von Anwendungen
 - Hergestellt aus strapazierfähigem legiertem Stahl mit einer sandgestrahlten Oberfläche für starke und klare Abdrücke, auch nach längerer Verwendung
 

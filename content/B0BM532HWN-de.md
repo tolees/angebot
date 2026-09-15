@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: 80% TPU - 20% recyceltes TPU
+- Obermaterial: 100 % Rindsleder
 - Better Leather
 - Farbe: Schwarz
-- Obermaterial: 100 % Rindsleder
+- Sohle: 80% TPU - 20% recyceltes TPU
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BM532HWN{{</world>}}

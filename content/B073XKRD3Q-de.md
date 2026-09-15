@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Großes Fassungsvermögen - 300 Gramm
-- Mahlgrad-Regler von grob bis fein
 - Herausnehmbarer Kaffeepulver-Behälter
+- Mahlgrad-Regler von grob bis fein
 - Kegelmahlwerk
 - Sicherheitsverriegelung: Betrieb nur mit Kaffeebohnen-Behälter in Position möglich
 

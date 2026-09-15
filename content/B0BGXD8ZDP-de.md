@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Granatapfel & Kakao
 - vegan* *Dem Produkt wurden keine tierischen Bestandteile zugesetzt.
+- 98% biologisch abbaubare Inhaltsstoffe (gem. OECD oder äquivalenten Methoden)
 - Bewahrt die Feuchtigkeit der Haut
 - Schmaler Deckel - weniger Plastik
-- Granatapfel & Kakao
-- 98% biologisch abbaubare Inhaltsstoffe (gem. OECD oder äquivalenten Methoden)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BGXD8ZDP{{</world>}}

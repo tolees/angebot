@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PRÄZISIONSBRENNER: Kompakter Brennerkopf mit 30 mm Durchmesser für präzise Lötarbeiten, ideal für schwer zugängliche Stellen
 - EFFIZIENTE LEISTUNG: Circa 25 Minuten Dauerbetrieb pro Kartusche, kompatibel mit Standard MSF-1A Butan-Kartuschen
-- BENUTZERFREUNDLICH: Integrierte Piezo-Zündung und Bajonettverschluss für schnellen, werkzeuglosen Kartuschenwechsel
 - FLEXIBLE NUTZUNG: 360° Überkopfeinsatz möglich, mit Feinregulierungsventil für präzise Flammenkontrolle
+- BENUTZERFREUNDLICH: Integrierte Piezo-Zündung und Bajonettverschluss für schnellen, werkzeuglosen Kartuschenwechsel
 - LEISTUNGSSTARK: Arbeitstemperatur von 650°C und Flammentemperatur bis 1300°C, perfekt für Weichlöten von Kupferrohren bis 28 mm
+- PRÄZISIONSBRENNER: Kompakter Brennerkopf mit 30 mm Durchmesser für präzise Lötarbeiten, ideal für schwer zugängliche Stellen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FRG51TY8{{</world>}}

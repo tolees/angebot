@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Obermaterial aus Wildleder
+- Textilfutter
+- Schnürsenkel
 - Reguläre Passform
 - Dämpfende Zwischensohle
-- Textilfutter
-- Obermaterial aus Wildleder
-- Schnürsenkel
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CKLX3CXY{{</world>}}

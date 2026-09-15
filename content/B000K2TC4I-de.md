@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Chrom-Vanadium Stahl
 - 3 Durchtreiber und 3 Splintentreiber
+- Chrom-Vanadium Stahl
 - mit 8-Kant Schaft
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

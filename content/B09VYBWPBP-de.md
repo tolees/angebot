@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Ledergürtel für Herren in Standard der dänischen Marke JACK&JONES
 - In Cognac farbe
-- In Standardlänge
 - Das Muster ist Einfarbig
+- In Standardlänge
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09VYBWPBP{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100% Baumwolle,
 - Unterstützt die Better Cotton Initiative
+- 100% Baumwolle,
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0946LHRS7{{</world>}}

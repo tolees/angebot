@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Scharfes, klares und konstantes Sehen - auch bei Hornhautverkrümmung
-- Geeignet für die Herausforderungen des modernen Alltags, wie klimatisierte und beheizte Räume sowie Computerarbeit
-- Lidschlag-aktivierte Feuchtigkeit für erfrischenden, ganztägigen Tragekomfort
 - Geeignet für Kontaktlinsenträger mit saisonalen Allergien
+- Scharfes, klares und konstantes Sehen - auch bei Hornhautverkrümmung
+- Lidschlag-aktivierte Feuchtigkeit für erfrischenden, ganztägigen Tragekomfort
+- Geeignet für die Herausforderungen des modernen Alltags, wie klimatisierte und beheizte Räume sowie Computerarbeit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00JUWEQY0{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Entspannendes Licht: Drei warme und beruhigende Lichtstufen zur Auswahl, kreieren eine perfekte Schlafumgebung. ​
 - Maschinenwaschbar: Der weiche Plüschstoff von OllieEule kann in der Maschine gewaschen werden.
-- Über USB wiederaufladbar: Eine vollständige Aufladung hält bis zu 72 Stunden.​
 - Beruhigende Geräusche und einstellbare Lautstärke: Drei natürliche Geräusche – weißes Rauschen, Regen und Herzschlag – und drei klassische Schlaflieder stehen zur Auswahl. ​
+- Entspannendes Licht: Drei warme und beruhigende Lichtstufen zur Auswahl, kreieren eine perfekte Schlafumgebung. ​
+- Über USB wiederaufladbar: Eine vollständige Aufladung hält bis zu 72 Stunden.​
 - CrySensor: Eine integrierte Technologie hört die Schreie des Säuglings und durch ihre beruhigende Wirkung schläft das Baby automatisch wieder ein.?
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

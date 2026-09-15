@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - True oder Buffered Bypass-Modus.
-- Vintage-Modus, um den Sound eines „Old School“-Kompressors zu erhalten.
 - Multiband-Kompressor in Studioqualität.
+- Vintage-Modus, um den Sound eines „Old School“-Kompressors zu erhalten.
 - TonePrint-Technologie für nahezu unbegrentze Möglichkeiten und anpassbare Effekte.
 
 [🛒 Hier!!]({{< param buyurl >}})

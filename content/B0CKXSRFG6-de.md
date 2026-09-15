@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Textil
-- Innenmaterial: Textil
-- Sohle: Textil
 - Absatzform: Flach
+- Sohle: Textil
+- Innenmaterial: Textil
+- Obermaterial: Textil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CKXSRFG6{{</world>}}

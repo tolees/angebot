@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - BRD
-- Deutsch, Türkisch
 - 800
+- Deutsch, Türkisch
 - Onur Saylak
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

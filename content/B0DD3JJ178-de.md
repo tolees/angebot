@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kompaktes Design: Der praktische Karabiner macht es kinderleicht, das Etui an deiner Handtasche oder am Rucksack zu befestigen und überallhin mitzunehmen.
 - Vielseitige Kompatibilität: Das Etui für die AeroFit-Serie passt perfekt zu allen Earbuds der Serie AeroFit.
-- Magnetischer Druckverschluss: Mühelos öffnen und schließen - so bleiben deine Earbuds stets sicher an ihrem Platz.
 - Hinweis: AeroFit Earbuds nicht im Lieferumfang enthalten.
+- Kompaktes Design: Der praktische Karabiner macht es kinderleicht, das Etui an deiner Handtasche oder am Rucksack zu befestigen und überallhin mitzunehmen.
+- Magnetischer Druckverschluss: Mühelos öffnen und schließen - so bleiben deine Earbuds stets sicher an ihrem Platz.
 - Robuster Kratzschutz: Aus edlem PU-Leder gefertigt, bietet sie weichen, aber langlebigen Schutz und bewahrt deine Earbuds vor unschönen Kratzern.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

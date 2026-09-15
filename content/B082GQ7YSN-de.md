@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Größe: 11,5 cm x 8,5 cm x 5 cm. Ein FSC Mix Credit Produkt
 - Das naturbelassene Holz kann individuell gestaltet werden. Ob in zarten Pastelltönen oder knallbunt, ob mit Metallic-Spray oder Chalky finish paint, der Fantasie sind keine Grenzen gesetzt
 - Die gelaserten Bauteile lassen sich einfach aus den Holzplatten herauslösen und zusammenstecken. Eine detaillierte Anleitung liegt dem Bastel-Set bei
 - Die Rückwand des Kästchens ist gleichzeitig auch Schiebedeckel, um bequem Geld, Gutscheine und andere kleine Geschenke in dem Holzkästchen zu verstauen
 - Diese Bastelpackung enthält alle Steckplatten und Deko-Holzformen, die für das Zusammenbauen der Holzbox benötigt werden, so kann im Nu eine selbstgebaute Geschenkbox entstehen
-- Größe: 11,5 cm x 8,5 cm x 5 cm. Ein FSC Mix Credit Produkt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B082GQ7YSN{{</world>}}

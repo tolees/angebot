@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Schnürung
 - Sohle: Gummi
+- Verschluss: Schnürung
 - Innenmaterial: Textil
 - Obermaterial: Synthetisch
 

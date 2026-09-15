@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rhys_Tenn_nupu Tennis
 - Herren Tennisschuhe
+- Rhys_Tenn_nupu Tennis
 - Hochwertige Verarbeitung
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Schwarz
-- Futter: 42 % Schweinsleder - 32 % Stoff (45 % recyceltes PET - 35 % recycelte Baumwolle - 20 % Viskose) - 26 % Stoff (100 % recyceltes PET)
 - Laufsohle: 100% EVA
 - Obbermaterial: 100% Rindsleder
+- Farbe: Schwarz
+- Futter: 42 % Schweinsleder - 32 % Stoff (45 % recyceltes PET - 35 % recycelte Baumwolle - 20 % Viskose) - 26 % Stoff (100 % recyceltes PET)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D7CDZ6LM{{</world>}}

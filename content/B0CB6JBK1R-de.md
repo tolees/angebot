@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Design steht ganz im Zeichen von Tony Stark und wird Kinder und Fans von Iron Man begeistern!
-- Eignet sich ideal als Geschenk für Comic-Fans und Kinder ab 3 Jahren.
-- Die Zugmaschine kann abgekoppelt werden und auch allein große Abenteuer erleben. Wird das Führerhaus aufgeklappt, kommt auf dem Fahrersitz eine nicht herausnehmbare Tony Stark-Figur zum Vorschein.
 - Er kann bis zu 10 Hot Wheels RacerVerse Fahrzeuge oder Hot Wheels Autos im Maßstab 1:64 aufnehmen. (Zusätzliche Fahrzeuge separat erhältlich.)
 - Hot Wheels RacerVerse Fahrzeuge im Marvel Hulkbuster Transporter aufbewahren und transportieren!
+- Das Design steht ganz im Zeichen von Tony Stark und wird Kinder und Fans von Iron Man begeistern!
+- Die Zugmaschine kann abgekoppelt werden und auch allein große Abenteuer erleben. Wird das Führerhaus aufgeklappt, kommt auf dem Fahrersitz eine nicht herausnehmbare Tony Stark-Figur zum Vorschein.
+- Eignet sich ideal als Geschenk für Comic-Fans und Kinder ab 3 Jahren.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CB6JBK1R{{</world>}}

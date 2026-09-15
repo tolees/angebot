@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 0,35 mm Strichstärke = 0.7 mm ball, Schreibfarbe Rot
+- nachfüllbar mit Mine LR7 und allen anderen EnerGel Minen
 - original EnerGel-Tinte, schreibt sanft, trocknet schnell, ideal für Linkshänder
 - Pentel EnerGel Eco Liquid Gel-Tintenroller
-- nachfüllbar mit Mine LR7 und allen anderen EnerGel Minen
-- 0,35 mm Strichstärke = 0.7 mm ball, Schreibfarbe Rot
 - Druckmechanik und Metallclip, gummierte Griffzone, 79% Recycling Anteil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

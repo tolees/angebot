@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Cloudfoam Zwischensohle
 - Schnürsenkel
-- Gewicht: 278 g (Größe 38 2/3)
-- Reguläre Passform
-- Textilfutter
+- TPU-Außensohle
 - Obermaterial aus Textil
 - Sprengung: 6 mm (Rückfußhöhe 34 mm / Vorfußhöhe 28 mm)
-- TPU-Außensohle
+- Textilfutter
+- Gewicht: 278 g (Größe 38 2/3)
+- Reguläre Passform
+- Cloudfoam Zwischensohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CKXSGTL6{{</world>}}

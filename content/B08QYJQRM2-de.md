@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - kordelzug kapuze können sie ihre abdeckung anpassen.
 - Hülsentyp: Langarm
+- Pflegehinweise: Maschinenwäsche
 - fleece-stoff fühlt sich weich und warm.
 - kängurutasche auf der vorderseite
-- Pflegehinweise: Maschinenwäsche
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08QYJQRM2{{</world>}}

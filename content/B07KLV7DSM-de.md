@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stromversorgung: Funktioniert mit einem oder zwei Li-Ion-Akkus Sony NP-FZ100; bietet mehr Akkukapazität für Ihre Kamera, was die Aufnahmezeit verlängert (Batterien sind nicht im Lieferumfang enthalten)
 - Ergonomisches Design: Hervorragende Gummiummantelung für guten Komfort
-- Kompatibilität: Der Batteriegriff (Ersatz für Sony VG-C3EM) ist NUR mit den Kameras Sony A9, A7III und A7RIII kompatibel. Mit 1/4 Zoll Schrauben können Sie ihn an Ihrem Stativ befestigen
 - Vertikale Steckdose: Attraktive und praktische vertikale Auslösefunktion, erhöht die Stabilität und verbessert das Gefühl des Griffs
+- Stromversorgung: Funktioniert mit einem oder zwei Li-Ion-Akkus Sony NP-FZ100; bietet mehr Akkukapazität für Ihre Kamera, was die Aufnahmezeit verlängert (Batterien sind nicht im Lieferumfang enthalten)
+- Kompatibilität: Der Batteriegriff (Ersatz für Sony VG-C3EM) ist NUR mit den Kameras Sony A9, A7III und A7RIII kompatibel. Mit 1/4 Zoll Schrauben können Sie ihn an Ihrem Stativ befestigen
 - Funktion: Professionelles Design mit Auslöser mit vertikalem Griff, Rädchen vorne und hinten, AF-ON-Taste, AE-L-Taste, Mehrfachschalter macht das vertikale Drehen so einfach wie horizontal
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Maße: 150 x 90cm
 - Äußerst weiches Frottee Material aus Baumwolle
 - 100% Baumwolle 400g/m²
 - Hochwertiges, großes Handtuch fürs Schwimmbad
-- Maße: 150 x 90cm
 - Ideal fürs Schwimmbad
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

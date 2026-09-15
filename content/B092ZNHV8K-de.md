@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zweihülsiges Schnellspannbohrfutter für schnellen und einfachen Bohrerwechsel
+- Electronic Speed Control ermöglicht die Anpassung der Drehzahl über den Gasgebeschalter
+- Müheloses Bohren in Mauerwerk bis zu 12 mm und Holz bis zu 25 mm
 - 1,7 kg leicht, kompakt und ergonomisch für eine bequeme Handhabung
 - Lieferumfang: Zusatzhandgriff;Tiefenanschlag;Tragekoffer
-- Müheloses Bohren in Mauerwerk bis zu 12 mm und Holz bis zu 25 mm
-- Electronic Speed Control ermöglicht die Anpassung der Drehzahl über den Gasgebeschalter
+- Zweihülsiges Schnellspannbohrfutter für schnellen und einfachen Bohrerwechsel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B092ZNHV8K{{</world>}}

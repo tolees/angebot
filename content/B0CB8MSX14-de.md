@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Schnürung
 - Entwickelt für: Training:
+- Verschluss: Schnürung
 - Obermaterial: Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

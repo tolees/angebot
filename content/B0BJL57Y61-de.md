@@ -31,8 +31,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - Gummiaußensohle in vulkanisierter Optik
 - Obermaterial aus Synthetik-Nubuk
 - Gewebte Zugschlaufe im Fersenbereich
-- Reguläre Passform
 - Schnürsenkel
+- Reguläre Passform
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BJL57Y61{{</world>}}

@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - LERNEN DURCH SPIELEN: Dieses LEGO DUPLO Set wurde entwickelt, um Kleinkinder durch kreatives Spielen mit dem Montessori Spielzeug beim Aufbau wichtiger Fähigkeiten zu fördern
 - LERNSPIELZEUG FÜR KLEINKINDER: Kinder fördern ihre Kreativität, indem sie Szenen aus der Serie nachspielen, und entwickeln dabei auch ihre sozialen sowie Motorikfähigkeiten
-- MARVEL-GESCHENK FÜR KINDER: Dieses kleine Bauset ist ein beliebtes Geburtstagsgeschenk für Jungen und Mädchen ab 2 Jahren, die Dinosaurier und Marvel Superhelden lieben
-- SPIELSET MIT VIELEN SPIELMÖGLICHKEITEN: Spidey Rex kann sein Maul öffnen und schließen, Green Goblin fliegt mit Wasserkanone; es ist ein Motorikspielzeug mit Schatzkammer und Bogen für fantasievolle Einsätze
 - KREATIVES SUPERHELDEN SPIELZEUG: Kleinkinder erleben mit diesem LEGO Marvel Spidey-Rex vs. Green Goblin Spielzeug ab 2 Jahren spannende Abenteuer mit Spidey Rex
+- SPIELSET MIT VIELEN SPIELMÖGLICHKEITEN: Spidey Rex kann sein Maul öffnen und schließen, Green Goblin fliegt mit Wasserkanone; es ist ein Motorikspielzeug mit Schatzkammer und Bogen für fantasievolle Einsätze
+- MARVEL-GESCHENK FÜR KINDER: Dieses kleine Bauset ist ein beliebtes Geburtstagsgeschenk für Jungen und Mädchen ab 2 Jahren, die Dinosaurier und Marvel Superhelden lieben
 - ACTIONREICHES MARVEL SPIELZEUG: Inspiriert von der Serie Spidey und seine Super-Freunde lässt dieses baubare LEGO Spielzeug den Dino-Superhelden brüllend in Aktion treten, um den Schatz vor dem Green Goblin zu beschützen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

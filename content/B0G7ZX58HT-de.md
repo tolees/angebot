@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spieldauer: Spieldauer ca 30 Minuten pro Runde
-- Spielprinzip: Als Lehrling bei Morty Sorty gilt es, die Zutatengläser möglichst geordnet in die Regale des Ladens einzuräumen. Die besten sollten nach oben ins Regal, und natürlich müssen die Zahlen von links nach rechts aufsteigen – gar nicht so einfach, alle Anforderungen unter ein Dach zu bringen
-- Spielmechanik: Leichter Einstieg dank einfacher Regeln, Hoher Wiederspielreiz durch verschiedene Pläne und Wertungen – unzählige Kombinationen mit zauberhaften Illustrationen
 - Spieleranzahl und Alter: Für 2 bis 4 Spieler, ab 8 Jahren geeignet
 - Strategisches Familienspiel: Trotz der einfachen Regeln kommt hier dank vieler verschiedener Wertungen und Regale nie Langeweile auf, ein unterhaltsames Strategiespiel für die ganze Familie
+- Spielmechanik: Leichter Einstieg dank einfacher Regeln, Hoher Wiederspielreiz durch verschiedene Pläne und Wertungen – unzählige Kombinationen mit zauberhaften Illustrationen
+- Spieldauer: Spieldauer ca 30 Minuten pro Runde
+- Spielprinzip: Als Lehrling bei Morty Sorty gilt es, die Zutatengläser möglichst geordnet in die Regale des Ladens einzuräumen. Die besten sollten nach oben ins Regal, und natürlich müssen die Zahlen von links nach rechts aufsteigen – gar nicht so einfach, alle Anforderungen unter ein Dach zu bringen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0G7ZX58HT{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bioland-Qualität
 - Besitzt einen kräftig-herben Geschmack
 - Grüntee mit charakteristisch gerollten Blättern
 - Höchsten Koffeingehalt unter den grünen Tees
 - Unfermentierter Tee
+- Bioland-Qualität
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01MFCXOBX{{</world>}}

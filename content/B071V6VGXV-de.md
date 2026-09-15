@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Made in Germany: TÜV zertifiziert. Bauaufsichtlich zugelassen: Europäisch Technische Zulassung für Schrauben als Holzverbindungsmittel in tragenden Holzkonstruktionen (ETA-12/0114)
 - Ermüdungsfreies Arbeiten und längere Akku-Lebensdauer: Kein Vorbohren (holzabhängig). Leichteres Eindringen, Verringerung der Spaltwirkung durch 4CUT: Vier Kanten in der Schraubenspitze.
-- Einsatz: Zum Verbinden von Holzelementen. SPAX-exklusive WIROX-Oberfläche
 - Lieferumfang: 1 SPAX Box, 50 Stück Holzbauschraube, T-STAR plus, Senkkopf, Teilgewinde, 4CUT, WIROX Oberfläche, Ød1= 8mm x Ls= 140mm, LgT= 80mm, Ødk= 15, 1mm, Bit nicht enthalten
+- Made in Germany: TÜV zertifiziert. Bauaufsichtlich zugelassen: Europäisch Technische Zulassung für Schrauben als Holzverbindungsmittel in tragenden Holzkonstruktionen (ETA-12/0114)
 - Als MULTI-Kopf ausgeprägter Senkkopf für bündiges Versenken und komfortables Verarbeiten, fräst im Holz, bremst auf Metall. Optimale Kraftübertragung und sauberer Passsitz mit SPAX Bit T-STAR plus T40
+- Einsatz: Zum Verbinden von Holzelementen. SPAX-exklusive WIROX-Oberfläche
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B071V6VGXV{{</world>}}

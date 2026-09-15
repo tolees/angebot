@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anime-Klassiker: Ein zeitloser Anime, der in keiner Sammlung fehlen darf
 - Bekannte TV-Ausstrahlungen: Bekannt aus den Fernsehausstrahlungen auf RTL II, Tele 5, Animax, VIVA und ProSieben MAXX
 - Generationsprägend: Wegweisend und prägend für eine ganze Generation von Anime-Fans
-- Manga-Adaption: Adaption des erfolgreichsten Mangas aller Zeiten von Eiichiro Oda
-- Bonusmaterial inklusive: Mit 24-seitigem Booklet für zusätzliche Informationen und Einblicke
-- Episodenumfang: Enthält spannende Abenteuer auf der Grandline mit den Strohhut-Piraten
 - Streaming-Erfolg: Einer der Bestseller im Crunchyroll-Programm
+- Manga-Adaption: Adaption des erfolgreichsten Mangas aller Zeiten von Eiichiro Oda
+- Anime-Klassiker: Ein zeitloser Anime, der in keiner Sammlung fehlen darf
+- Episodenumfang: Enthält spannende Abenteuer auf der Grandline mit den Strohhut-Piraten
+- Bonusmaterial inklusive: Mit 24-seitigem Booklet für zusätzliche Informationen und Einblicke
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C69G5LZN{{</world>}}

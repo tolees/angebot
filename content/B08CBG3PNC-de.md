@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inhalt: 1 Luftmatratze, 1 Reparaturflicken
-- Strapazierfähiges PVC
-- Größe: 190 x 128 cm
 - Oldtimer-Design, integriertes Kissen
+- Größe: 190 x 128 cm
+- Strapazierfähiges PVC
+- Inhalt: 1 Luftmatratze, 1 Reparaturflicken
 - Schnell aufgeblasen, leicht zu transportieren sowie zu verstauen
 
 [🛒 Hier!!]({{< param buyurl >}})

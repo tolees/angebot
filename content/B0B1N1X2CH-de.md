@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EVA-Zwischensohle. Geriffelte Gummisohle.
 - DMX-Kristall-Außensohle aus Gummi. EVA-Zwischensohle.
+- EVA-Zwischensohle. Geriffelte Gummisohle.
 - Perforierte Details im Zehenbereich.
 - Logo-Aufdruck an der Ferse und an der Seite.
 

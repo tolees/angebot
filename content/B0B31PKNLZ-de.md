@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Abriebfeste Non Marking Gummiaußensohle
 - Textilfutter
 - Obermaterial aus Synthetikleder
-- Abriebfeste Non Marking Gummiaußensohle
 - Reguläre Passform
 - Klettverschluss
 

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Gummi
 - Innenmaterial: Synthetik
 - Obermaterial: Textil
+- Sohle: Gummi
 - Verschluss: Schnürung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

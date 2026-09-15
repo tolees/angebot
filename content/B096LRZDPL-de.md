@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Leichte Sprühanwendung, ideal für Outdoor-Aktivitäten
-- Natürlicher Piña Colada-Duft
-- 80 Minuten wasserfest
 - Breitspektrum-LSF 30 UVA/UVB-Schutz
 - Sunscreen Spray SPF 30
+- Natürlicher Piña Colada-Duft
+- 80 Minuten wasserfest
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B096LRZDPL{{</world>}}

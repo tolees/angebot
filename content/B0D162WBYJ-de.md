@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Robuste Konstruktion
 - Pack-it-Tasche und seitliche Reißverschlusstaschen
 - Durchgehender Reißverschluss mit normaler Passform
+- Robuste Konstruktion
 - Flexibles Design und reflektierende Details
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

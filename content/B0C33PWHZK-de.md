@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Markenlogo
 - Komfort
+- Markenlogo
 - Schnürverschluss
 
 [🛒 Hier!!]({{< param buyurl >}})

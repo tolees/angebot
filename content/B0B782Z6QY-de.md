@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FORMAT: 60 Kaffeekapseln – 6 Packungen mit 10 Stück
-- Kapseln kompatibel mit den folgenden Kaffeemaschinenmodellen der Marke Nespresso*: Delonghi - Essenza, Essenza Mini EN85R, Citiz, Inissia, Lattissima Premium, Pixie, Prodigio Silver, U; Krups - Citiz, Essenza, Essenza Mini, Inissia, Pixie, Prodigio Titan, U; Nespresso - Essenza Mini C30 Matte Black, Lattissima One; Didiesse - Borbonita
-- *Nespresso ist eine eingetragene Marke der Société des Produits Nestlè SA. Caffè Borbone Srl ist ein unabhängiger Hersteller, der nicht mit der Société des Produits Nestlè SA verbunden ist. Die Kompatibilität der Caffè Borbone-Kapseln ist für die Verwendung mit *Nespresso-Haushalts-kaffeemaschinen geeignet
 - Beginnen Sie Ihren Tag mit einem köstlichen Energieschub mit Ginseng-Kaffeekapseln von Caffè Borbone: ein unverwechselbarer Hauch von Energie, um Sie mit dem richtigen Sprint wieder durchstarten zu lassen!
+- *Nespresso ist eine eingetragene Marke der Société des Produits Nestlè SA. Caffè Borbone Srl ist ein unabhängiger Hersteller, der nicht mit der Société des Produits Nestlè SA verbunden ist. Die Kompatibilität der Caffè Borbone-Kapseln ist für die Verwendung mit *Nespresso-Haushalts-kaffeemaschinen geeignet
+- Kapseln kompatibel mit den folgenden Kaffeemaschinenmodellen der Marke Nespresso*: Delonghi - Essenza, Essenza Mini EN85R, Citiz, Inissia, Lattissima Premium, Pixie, Prodigio Silver, U; Krups - Citiz, Essenza, Essenza Mini, Inissia, Pixie, Prodigio Titan, U; Nespresso - Essenza Mini C30 Matte Black, Lattissima One; Didiesse - Borbonita
 - Die „Neue Geschmackserlebnisse“ von Caffè Borbone sind da: eine Geschmacksexplosion für jeden Anlass! Gönnen Sie sich einen einzigartigen und köstlichen Moment mit den Produkten der „Lust“-Linie, der köstlichsten der 4 neuen Linien aromatisierter Kapselgetränke: viele verschiedene Geschmacksrichtungen für jedes Mal eine besondere Pause. Gewidmet für diejenigen, die eine Pause genießen möchten, die anders als das Übliche, aber immer köstlich ist
+- FORMAT: 60 Kaffeekapseln – 6 Packungen mit 10 Stück
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B782Z6QY{{</world>}}

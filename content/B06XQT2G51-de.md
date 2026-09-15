@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DTS-HDHR 5.1: DEUTSCH
 - DTS Digital Surround 5.1: ITALIENISCH
+- DTS-HDHR 5.1: DEUTSCH
 - DTS-HDMA 7.1: ENGLISH
 
 [🛒 Hier!!]({{< param buyurl >}})

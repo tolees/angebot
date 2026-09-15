@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mutierende Albträume Kämpfe gegen groteske Gegner, die sich in immer monströsere Formen verwandeln, während du dich tiefer in die Dunkelheit wagst
-- Markanter Comic-Stil Jeder Frame ist ein handgezeichnetes Horror-Bild. Mit verbesserten Grafiken, dynamischem Licht und blutgetränkten Effekten wird das Spiel zur lebendigen, brutalen Graphic Novel.
 - Wahnsinn als Waffe Dein Verstand ist nicht nur gefährdet – er ist dein größter Trumpf. Je mehr du den Wahnsinn zulässt, desto mächtiger werden deine Fähigkeiten.
-- Explosives Waffenarsenal Wähle deine Waffen, verbessere sie individuell und entfessle verheerende Feuerkraft in blutigen Gefechten.
 - Heavy Metal Soundtrack Zerschmettere Kultisten und kosmische Schrecken zu donnernden Gitarrenriffs und wuchtigen Drums – jede Begegnung ein blutgetränkter Rausch.
+- Explosives Waffenarsenal Wähle deine Waffen, verbessere sie individuell und entfessle verheerende Feuerkraft in blutigen Gefechten.
+- Markanter Comic-Stil Jeder Frame ist ein handgezeichnetes Horror-Bild. Mit verbesserten Grafiken, dynamischem Licht und blutgetränkten Effekten wird das Spiel zur lebendigen, brutalen Graphic Novel.
+- Mutierende Albträume Kämpfe gegen groteske Gegner, die sich in immer monströsere Formen verwandeln, während du dich tiefer in die Dunkelheit wagst
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FCMVSWZ6{{</world>}}

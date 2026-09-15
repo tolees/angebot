@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 👩‍🌾 REGIONAL: Bestehend aus Zutaten, die aus regionalen Bauernhöfen stammen
-- 🔎 KONTROLLIERT: Die Zutaten unterliegen einer strengen Qualitätskontrolle
-- 😻 Gefriergetrockneter Katzensnack
 - 🐾 TIERWOHL: Das Tierwohl steht bei der Herstellung jederzeit an erster Stelle
+- 🔎 KONTROLLIERT: Die Zutaten unterliegen einer strengen Qualitätskontrolle
 - 🍃 ZUSAMMENSETZUNG: Artgerecht, natur- und beutenah
+- 😻 Gefriergetrockneter Katzensnack
+- 👩‍🌾 REGIONAL: Bestehend aus Zutaten, die aus regionalen Bauernhöfen stammen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B087MKPHGV{{</world>}}

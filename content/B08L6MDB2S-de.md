@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: MEDION LIFE P8322501 MD832101 Smart-TV, Standfüße inkl. Schrauben, Fernbedienung inkl. Batterien (AAA), Bedienungsanleitung
-- Komfort pur: Fotos und Videos können Sie über den integrierten Mediaplayer ganz einfach am großen Fernsehschirm genießen.
 - Extra scharf: Mit dem HD Fernseher erleben Sie Ihr TV-Programm in bester Bildqualität!
+- Komfort pur: Fotos und Videos können Sie über den integrierten Mediaplayer ganz einfach am großen Fernsehschirm genießen.
+- Lieferumfang: MEDION LIFE P8322501 MD832101 Smart-TV, Standfüße inkl. Schrauben, Fernbedienung inkl. Batterien (AAA), Bedienungsanleitung
 - Fernsehen der nächsten Generation: Mit dem Smart-TV von MEDION erleben Sie das Internet im Wohnzimmer: Apps, Streamingdienste, News und vieles mehr!
 - 32-Zoll-Smart-TV mit HD Auflösung, HDR, PVR ready, integr. WLAN, Bluetooth, VIDAA App Store, Disney+, Paramount+ & Amazon Prime Video-App
 

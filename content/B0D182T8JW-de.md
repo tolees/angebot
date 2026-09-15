@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- S Alex Biker Crossbody
 - Reißverschluss
+- S Alex Biker Crossbody
 - Liebeskind Berlin Crossbody S ALEX BIKER,black
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

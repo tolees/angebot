@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gewebte Zugschlaufe im Fersenbereich
 - Regulär geschnitten
 - Obermaterial aus Synthetik-Nubuk
+- Gewebte Zugschlaufe im Fersenbereich
 - Schnürverschluss
 
 [🛒 Hier!!]({{< param buyurl >}})

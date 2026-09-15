@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Stabiles 3 Personen Tunnelzelt
+- Packmaß 72x20x20 cm / Gewicht 5,7kg / Wassersäule 3000 mm (wasserdicht)
 - Atmungsaktives Innenzelt mit Moskitonetzen, hohe Luftzirkulation für einen erholsamen Schlaf
 - Zuverlässiger Schutz vor Wind und Wetter
-- Packmaß 72x20x20 cm / Gewicht 5,7kg / Wassersäule 3000 mm (wasserdicht)
 - Plane und Boden PU beschichtet, wasserdicht, versiegelte Nähte, komplette Trockenheit auch bei starkem Regen gegeben
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

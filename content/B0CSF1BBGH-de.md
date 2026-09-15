@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dank ihrer 7 Gelenkpunkte kann Isabel fest im Sattel sitzen, die Zügel halten und auch am Boden die verschiedensten sportlichen Posen einnehmen, wie es ihrem dynamischen Charakter entspricht.
-- Inhalt: 1 Puppe ca. 11 cm, 1 Einhorn ca. 12 cm mit abnehmbarem Sattel und Trense, 1 Haarbürste
-- Nachdem Isabel das Vertrauen ihres Einhorns gewonnen hat, kann sie sich in den Sattel schwingen und ins nächste Abenteuer reiten. Sattel und Zaumzeug sind abnehmbar und mit der enthaltenen Bürste können Mähne und Schweif gekämmt werden
 - Neben Isabel und River sind auch die Paare Sophia und Wildstar, Ava und Leaf, Layla und Glacier, Valentina und Cinder erhältlich, damit die Reiterinnen gemeinsam den Kampf gegen das Böse aufnehmen können, das Unicorn Island zu vernichten droht
+- Inhalt: 1 Puppe ca. 11 cm, 1 Einhorn ca. 12 cm mit abnehmbarem Sattel und Trense, 1 Haarbürste
 - Isabel, die super sportliche und ehrgeizige Reiterin von Unicorn Academy, als vollbewegliche ca. 12 cm große Puppe lässt zusammen mit ihrem Einhorn River die magischsten Momente der Netflix Serie Unicorn Akademie lebendig werden
+- Dank ihrer 7 Gelenkpunkte kann Isabel fest im Sattel sitzen, die Zügel halten und auch am Boden die verschiedensten sportlichen Posen einnehmen, wie es ihrem dynamischen Charakter entspricht.
+- Nachdem Isabel das Vertrauen ihres Einhorns gewonnen hat, kann sie sich in den Sattel schwingen und ins nächste Abenteuer reiten. Sattel und Zaumzeug sind abnehmbar und mit der enthaltenen Bürste können Mähne und Schweif gekämmt werden
 - Die Unicorn Academy Reiterin und Einhorn Sets (alles separat erhältlich) sind das ideale Geschenk für Fans der Serie und Einhorn-begeisterte Kinder ab 4 Jahren, die gerne in fantasievolle Geschichten eintauchen
 
 [🛒 Hier!!]({{< param buyurl >}})

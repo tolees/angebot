@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bis zu 1 Stunde Fahrzeit bei ca. 11 Km/h
 - Funktionen: Vorwärts / rückwärts / links / rechts / Stopp
-- LED Licht
 - Perfekt nachgebildete Details, detaillierter Innenraum, hochwertige Verarbeitung
+- Bis zu 1 Stunde Fahrzeit bei ca. 11 Km/h
 - Offiziell lizenziert
+- LED Licht
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07YBDJDSD{{</world>}}

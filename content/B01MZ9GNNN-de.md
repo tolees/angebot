@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SPORTWAGEN ZUM SAMMELN UND AUSSTELLEN: Dieses Modellauto eignet sich als Deko für das Regal, Wohnzimmer oder den Büro Schreibtisch für Autofans
-- NOCH MEHR SETS ZUM ENTDECKEN: Die separat erhältlichen Bausets aus der LEGO Icons Kollektion bieten Erwachsenen faszinierende kreative Projekte und lassen dich wunderbar abschalten
-- REALISTISCHE FUNKTIONEN: Mit Reihensechszylindermotor, Stofffaltdach, funktionierendem Lenkrad, aufklappbaren Türen, Kofferraum & Motorhaube und ein 5-teiliges Werkzeugset, das sich auf Knopfdruck im Kofferraum verstauen lässt
+- DIGITALE 3D-ANLEITUNG: Die Anleitung in der LEGO Builder App lässt dich eine 3D-Version deines Modells vergrößern und drehen und zeigt dir, wie weit du schon bist
 - GESCHENK FÜR AUTOFANS: Überrasche einen Erwachsenen, der Autoklassiker liebt, an seinem Geburtstag oder bei anderen besonderen Anlässen mit diesem Jaguar Modellauto
 - JAGUAR-MODELLAUTO FÜR ERWACHSENE: Das LEGO Icons Jaguar E-Type Bauset lässt dich ein für seine Innovationen berühmtes Auto erschaffen und es bietet Sportwagenfans ein lohnendes kreatives Erlebnis
-- DIGITALE 3D-ANLEITUNG: Die Anleitung in der LEGO Builder App lässt dich eine 3D-Version deines Modells vergrößern und drehen und zeigt dir, wie weit du schon bist
+- NOCH MEHR SETS ZUM ENTDECKEN: Die separat erhältlichen Bausets aus der LEGO Icons Kollektion bieten Erwachsenen faszinierende kreative Projekte und lassen dich wunderbar abschalten
+- SPORTWAGEN ZUM SAMMELN UND AUSSTELLEN: Dieses Modellauto eignet sich als Deko für das Regal, Wohnzimmer oder den Büro Schreibtisch für Autofans
 - AUTHENTISCHE DETAILS: Diese detailgetreue Nachbildung stellt die windschnittige Silhouette und die eleganten Rundungen des E-Type perfekt dar, mit klassisch grüner Karosserie und Speichenfelgen
+- REALISTISCHE FUNKTIONEN: Mit Reihensechszylindermotor, Stofffaltdach, funktionierendem Lenkrad, aufklappbaren Türen, Kofferraum & Motorhaube und ein 5-teiliges Werkzeugset, das sich auf Knopfdruck im Kofferraum verstauen lässt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01MZ9GNNN{{</world>}}

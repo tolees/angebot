@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 6 Absauglöcher für Staubabsaugung.
 - Zum perfekten Fertig- und Feinschleifen von Holz, Lack-, Zwischenschliff und Anschleifen von Lackfehlern, Entfernen von Fasern von der Oberfläche und Feinschliff vor der Beize oder Lasur.
 - Passgenaue Universal-Schleifblätter im Format 93 mm mit Kletthaftsystem für sicheren Halt und schnellen Blattwechsel.
+- 6 Absauglöcher für Staubabsaugung.
 - Passend für Dreieckschleifer und Multifunktionswerkzeuge aller Elektrowerkzeugmarken.
 - Sicherheitshinweis: Bei Gebrauch bitte Schutzbrille, Staubschutzmaske und Arbeitshandschuhe tragen.
 

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- bequemer Tragekomfort
 - Fleecemütze
-- Jack Wolfskin Logo
-- aus recycelten Materialien
 - bluesign-zertifiziert
+- aus recycelten Materialien
+- bequemer Tragekomfort
+- Jack Wolfskin Logo
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09TW6ZPDL{{</world>}}

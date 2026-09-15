@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eine tägliche Feuchtigkeitscreme, die rund um die Uhr Feuchtigkeit spendet
 - Bekämpft Trockenheit, Engegefühl und Rauheit
+- Eine tägliche Feuchtigkeitscreme, die rund um die Uhr Feuchtigkeit spendet
 - Mit Vitamin C und Guarana
 - Nicht fettende Feuchtigkeitspflege für Männer, zieht schnell ein
 

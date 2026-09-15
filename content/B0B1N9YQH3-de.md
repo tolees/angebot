@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Weinglashalter mit kratzfrei beschichtem Bügel für bis zu vier Gläser
 - Ablauftülle und beweglicher Besteckhalter
+- Weinglashalter mit kratzfrei beschichtem Bügel für bis zu vier Gläser
 - Stabiles Edelstahlgehäuse mit fingerabdruckfester Beschichtung
 - Auf optimierten Ablauf angelegtes Design mit erhabenen Rippen, damit kein Wasser unter Gläsern und Schüsseln festgehalten wird
 - 2-stufiges Design mit hohem Fassungsvermögen maximiert die Abtropffläche

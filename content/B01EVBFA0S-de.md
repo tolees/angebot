@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Herkunft: Spanien > Kastilien-La Mancha > Castilla
 - Passt zu: Leichter Fisch
-- Geschmack: Rote Beeren
+- Herkunft: Spanien > Kastilien-La Mancha > Castilla
 - Charakter: TEMPERAMENT - geschmeidig, würzig, fruchtig! Ein ausdrucksvoller Tempranillo mit ausgeprägten Brombeeraromen.
+- Geschmack: Rote Beeren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01EVBFA0S{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flexible Traktionslaufsohle
 - Obermaterial aus Mesh mit Bungee Schnürfront
 - Leichte, flexible und stoßdämpfende Zwischensohle
+- Flexible Traktionslaufsohle
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B9BN89HB{{</world>}}

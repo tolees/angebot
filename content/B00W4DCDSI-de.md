@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EcoButton – mit dieser Spartaste einfach und individuell bis zu 50 % Wasser sparen
-- Zuverlässig konstante Wassertemperatur dank Grohe TurboStat Technologie
 - Pflegeleicht durch langlebige Grohe StarLight Chrombeschichtung
+- Zuverlässig konstante Wassertemperatur dank Grohe TurboStat Technologie
+- EcoButton – mit dieser Spartaste einfach und individuell bis zu 50 % Wasser sparen
 - SafeStop Plus – doppelt geschützt vor zu heißem Wasser
 - Grohe EcoJoy: Sparfunktion für reduzierten Wasserverbrauch
 

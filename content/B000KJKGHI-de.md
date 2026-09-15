@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kategorie - Schreibwaren
 - Ref - 002027
+- Kategorie - Schreibwaren
 - Marke - Apli
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

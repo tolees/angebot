@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- weiterentwickelte Laufsohle mit klarem Design
 - Obermaterial aus weichem Leder
+- weiterentwickelte Laufsohle mit klarem Design
 - zeitlose Klassiker
 
 [🛒 Hier!!]({{< param buyurl >}})

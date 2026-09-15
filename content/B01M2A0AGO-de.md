@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Brotaufstrich auf der Basis von Paprika und Cashewnüssen
+- Bio-Qualität
+- Würziger Aufstrich mit 28% Paprika
 - Mit Zwiebeln und Paprikapulver
 - Auf Brot, als Dip und zum Würzen von Speisen
-- Würziger Aufstrich mit 28% Paprika
-- Bio-Qualität
-- Brotaufstrich auf der Basis von Paprika und Cashewnüssen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01M2A0AGO{{</world>}}

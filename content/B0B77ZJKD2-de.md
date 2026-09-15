@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- *Nespresso ist eine eingetragene Marke der Société des Produits Nestlè SA. Caffè Borbone Srl ist ein unabhängiger Hersteller, der nicht mit der Société des Produits Nestlè SA verbunden ist. Die Kompatibilität der Caffè Borbone-Kapseln ist für die Verwendung mit *Nespresso-Haushalts-kaffeemaschinen geeignet
-- Die „Neue Geschmackserlebnisse“ von Caffè Borbone sind da: eine Geschmacksexplosion für jeden Anlass! Gönnen Sie sich einen einzigartigen und köstlichen Moment mit den Produkten der „Lust“-Linie, der köstlichsten der 4 neuen Linien aromatisierter Kapselgetränke: viele verschiedene Geschmacksrichtungen für jedes Mal eine besondere Pause. Gewidmet für diejenigen, die eine Pause genießen möchten, die anders als das Übliche, aber immer köstlich ist
 - Der beste Weg, den Winter zu vertreiben? Ein heißer Tee in Ihren Händen, der Ihnen das Gefühl gibt, zu Hause zu sein. Probieren Sie die Caffè Borbone-Kapseln und bereiten Sie ein köstliches Getränk mit Zitronentee-Geschmack zu, um Ihre Pause aufzuwärmen.
+- Die „Neue Geschmackserlebnisse“ von Caffè Borbone sind da: eine Geschmacksexplosion für jeden Anlass! Gönnen Sie sich einen einzigartigen und köstlichen Moment mit den Produkten der „Lust“-Linie, der köstlichsten der 4 neuen Linien aromatisierter Kapselgetränke: viele verschiedene Geschmacksrichtungen für jedes Mal eine besondere Pause. Gewidmet für diejenigen, die eine Pause genießen möchten, die anders als das Übliche, aber immer köstlich ist
 - Kapseln kompatibel mit den folgenden Kaffeemaschinenmodellen der Marke Nespresso*: Delonghi - Essenza, Essenza Mini EN85R, Citiz, Inissia, Lattissima Premium, Pixie, Prodigio Silver, U; Krups - Citiz, Essenza, Essenza Mini, Inissia, Pixie, Prodigio Titan, U; Nespresso - Essenza Mini C30 Matte Black, Lattissima One; Didiesse - Borbonita
+- *Nespresso ist eine eingetragene Marke der Société des Produits Nestlè SA. Caffè Borbone Srl ist ein unabhängiger Hersteller, der nicht mit der Société des Produits Nestlè SA verbunden ist. Die Kompatibilität der Caffè Borbone-Kapseln ist für die Verwendung mit *Nespresso-Haushalts-kaffeemaschinen geeignet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B77ZJKD2{{</world>}}

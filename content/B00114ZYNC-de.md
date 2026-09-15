@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Radsport
-- Unisex
 - Material: Stahl
 - Werkzeug für Innenlager
+- Unisex
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00114ZYNC{{</world>}}

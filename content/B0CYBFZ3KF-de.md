@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Mischung aus 50 Prozent koffeinhaltigem und 50 Prozent entkoffeiniertem Röstkaffee
 - Lieferumfang: 1 x 500 g gemahlener Kaffee
-- Ideal für die Zubereitung von Filterkaffee, egal ob in der klassischen Filterkaffeemaschine oder French Press
 - Vollaromatischer Kaffeegenuss durch das unwiderstehliche Verwöhnaroma (Intensität 5/10)
+- Ideal für die Zubereitung von Filterkaffee, egal ob in der klassischen Filterkaffeemaschine oder French Press
 - Seit mehr als 50 Jahren präsentiert sich Jacobs Krönung als einer der beliebtesten Kaffees der Deutschen
 
 [🛒 Hier!!]({{< param buyurl >}})

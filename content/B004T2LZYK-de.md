@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Vielseitiger Klebstoff – Der Pattex Spezial Textilkleber ist ein hochwertiger Klebstoff für verschiedene Textilien wie Stoffe, Filz, Leder und viele mehr*.
-- Praktischer Lieferumfang – Pattex Spezialkleber Textil, Dispersions-Klebstoff, ideal für die Anwendung auf Stoffen, für Textilreparaturen und zum Basteln, 1x20g Tube
+- Wasch- & reinigunsbeständig – Und auch Bügelbeständig, ist der Textilkleber für Stoffe wie z. B. Jeans optimal, die regelmäßig gereinigt werden müssen.
 - Flexibel Verkleben – Der Lederkleber bietet sowohl starke als auch flexible Verklebungen, die den alltäglichen Belastungen standhalten, sodass DIY-Textilprojekte langfristig halten.
 - Einfache Anwendung – Dank seiner präzisen Spitze kann der Super Kleber kontrolliert aufgetragen werden. Er eignet sich auch für Holz und Metall, so ist er ideal zum Basteln.
-- Wasch- & reinigunsbeständig – Und auch Bügelbeständig, ist der Textilkleber für Stoffe wie z. B. Jeans optimal, die regelmäßig gereinigt werden müssen.
+- Praktischer Lieferumfang – Pattex Spezialkleber Textil, Dispersions-Klebstoff, ideal für die Anwendung auf Stoffen, für Textilreparaturen und zum Basteln, 1x20g Tube
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B004T2LZYK{{</world>}}
