@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Wildleder mit klassischem PUMA Formstrip
 - Mit einer schmalen, stromlinienförmigen Silhouette und einer strukturierten Gummisohle
+- Obermaterial aus Wildleder mit klassischem PUMA Formstrip
 - Elastischer Schnürverschluss für leichten Einstieg und sicheren Sitz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

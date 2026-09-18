@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Erlebe ein Partyspiel im Schlumpfdorf mit einem Abenteuer-Modus.
+- 19 spielbare legendäre Schlümpfe + 31 Outfits für deinen spielbaren Schlumpf
 - 6 verschiedene Spielarten (Sport, Schnelligkeit, Glück, Gedächtnis, Kampf und Genauigkeit)
 - 50 Minispiele
 - lokaler Multiplayer-Modus für 2 bis 4 Spieler
-- 19 spielbare legendäre Schlümpfe + 31 Outfits für deinen spielbaren Schlumpf
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CYPR49XG{{</world>}}

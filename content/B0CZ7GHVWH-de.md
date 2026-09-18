@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Durchgehender Reißverschluss; Stehkragen
-- Regulär geschnitten
-- AEROREADY
 - Reißverschlusstaschen
+- AEROREADY
+- Regulär geschnitten
+- Durchgehender Reißverschluss; Stehkragen
 - 100 % Polyester (recycelt)
 
 [🛒 Hier!!]({{< param buyurl >}})

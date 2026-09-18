@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- [Kein Klotz mehr] 30 % kleiner. Massive High-Density-Power Dank EV-Akkuzellen 30 % kleiner als eine Getränkedose. Echte 25.000 mAh erfordern ein solides Gewicht (400 g). Keine Fake-Kapazität, nur Premium-Energie, die enorm Platz im Rucksack spart.
 - [100 % abnehmbar] Kein Kabelbruch-Risiko Inklusive hochwertigem 12-cm-USB-C-Kabel (100 W). Keine anfälligen, fest verbauten Kabel. (Hinweis: Lightning-Kabel für iPhone 14 und älter nötig). Vertraut von 38 Mio. Nutzern, mit branchenführender 3-Jahres-Garantie von INIU.
-- [Flugzeugtaugliches Studio] Die einzige Powerbank, die du brauchst 100 W Power und 25.000 mAh (handgepäcktauglich). Lädt MacBooks, Dell, HP, Drohnen, Kameras, Steam Deck, Tablets und Smartphones. Nimm nur diese mit und lass den Rest zu Hause.
+- [Kein Klotz mehr] 30 % kleiner. Massive High-Density-Power Dank EV-Akkuzellen 30 % kleiner als eine Getränkedose. Echte 25.000 mAh erfordern ein solides Gewicht (400 g). Keine Fake-Kapazität, nur Premium-Energie, die enorm Platz im Rucksack spart.
 - [Echtes Play & Charge] +4 Std. Non-Stop AAA-Gaming Perfekt für Steam Deck, ROG Ally & Legion Go. Dank echten 100 W steigt der Akkustand selbst bei intensiven Sessions – für 4 zusätzliche Stunden AAA-Gaming überall.
+- [Flugzeugtaugliches Studio] Die einzige Powerbank, die du brauchst 100 W Power und 25.000 mAh (handgepäcktauglich). Lädt MacBooks, Dell, HP, Drohnen, Kameras, Steam Deck, Tablets und Smartphones. Nimm nur diese mit und lass den Rest zu Hause.
 - [100 W Volle Power] Null Wartezeit für alle Geräte In 30 Min.: MacBook Pro 14" (20 % → 72 %), iPhone 17 Pro Max (20 % → 77 %) oder Galaxy S26 Ultra (20 % → 91 %). Ob auf Reisen oder bei der Content-Erstellung im Freien –Das smarte Multi-Port-System lädt Laptop, Smartphone und Zubehör gleichzeitig.
 
 [🛒 Hier!!]({{< param buyurl >}})

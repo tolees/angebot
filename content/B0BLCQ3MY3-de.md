@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Puma Cat Logo an der Ferse
-- Mid-Boot-Konstruktion
 - Gepolsterter Kragen
+- Mid-Boot-Konstruktion
 - Obermaterial aus Wildleder
 
 [🛒 Hier!!]({{< param buyurl >}})

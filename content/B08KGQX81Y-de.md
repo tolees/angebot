@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anzahl der einheiten: 275.0
 - Einheitenanzahltyp: milliliter
+- Anzahl der einheiten: 275.0
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08KGQX81Y{{</world>}}

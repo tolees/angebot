@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die 44 mm großen ESE-Filterpapierpads von Caffè Borbone sind zu 100 % mit allen Maschinen kompatibel, die das Easy Serving Espresso-System verwenden. Treffen Sie die richtige Wahl für eine bessere Welt: Entscheiden Sie sich für ein 100 % umweltfreundliches Produkt!
-- FORMAT: 150 Kaffeepads
-- *ESE dm 44 und *ESE sind vom EASY SERVING ESPRESSO-Konsortium eingetragene Marken. Die Produktion dieser Pads erfolgt autonom und ist weder direkt noch indirekt mit dem EASY SERVING ESPRESSO verbunden
-- AROMA: Eine raffinierte und anhaltende Kaffeemischung, die sich präsentiert mit: Körper: 9,8 – Intensität: 10 – Persistenz: 10 – Süße: 6 – Säure: 4
 - SCHWARZE MISCHUNG: Cremig mit einem intensiven und ausgeprägten Geschmack. Ein fester Charakter, der an die typische Tradition echten neapolitanischen Kaffees erinnert. Das Ergebnis einer wunderschönen Auswahl an Mischungen, kreiert für einen vollmundigen Expresso. Reichhaltig und cremig wie der aus der Bar. Eine clevere Auswahl an Robusta, verpackt in einer Schutzatmosphäre
+- Die 44 mm großen ESE-Filterpapierpads von Caffè Borbone sind zu 100 % mit allen Maschinen kompatibel, die das Easy Serving Espresso-System verwenden. Treffen Sie die richtige Wahl für eine bessere Welt: Entscheiden Sie sich für ein 100 % umweltfreundliches Produkt!
+- AROMA: Eine raffinierte und anhaltende Kaffeemischung, die sich präsentiert mit: Körper: 9,8 – Intensität: 10 – Persistenz: 10 – Süße: 6 – Säure: 4
+- *ESE dm 44 und *ESE sind vom EASY SERVING ESPRESSO-Konsortium eingetragene Marken. Die Produktion dieser Pads erfolgt autonom und ist weder direkt noch indirekt mit dem EASY SERVING ESPRESSO verbunden
+- FORMAT: 150 Kaffeepads
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01B1WS3RM{{</world>}}

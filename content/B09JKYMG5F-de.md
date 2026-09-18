@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Rückseitiger Line-Eingang für analoge Quellen, Kopfhöreranschluss (Miniklinke), Infrarot Fernbedienung und fernbedienbar per Smartphone-App UNDOK
+- Verstärker mit 2 x 50 W Ausgangsleistung, 2-Wege Bassreflex-Lautsprechersystem
 - Internetradio, Spotify Connect und Podcast-Player per Wi-Fi, DAB+ / UKW-RDS, CD, USB, BT-Audiostreaming (A2DP)
 - Lieferumfang: Steuergerät, Lautsprecher x2, Wurfantenne, Fernbedienung inkl. Batterien, Bedienungsanleitung
-- Verstärker mit 2 x 50 W Ausgangsleistung, 2-Wege Bassreflex-Lautsprechersystem
-- Rückseitiger Line-Eingang für analoge Quellen, Kopfhöreranschluss (Miniklinke), Infrarot Fernbedienung und fernbedienbar per Smartphone-App UNDOK
 - 2,8“ (7,1 cm) großes TFT-Farbdisplay, Uhrzeitanzeige (dimmbar) mit diversen Weckfunktionen und Sleeptimer
 
 [🛒 Hier!!]({{< param buyurl >}})

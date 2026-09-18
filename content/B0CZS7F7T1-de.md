@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Seitliche Reißverschlusstaschen und Reißverschlusstaschen an den Enden
-- Maße: 26 cm x 65 cm x 33 cm
-- Volumen: 65,5 l
 - Außenseite: 100 % Polyester (recycelt); Innenseite: 100 % thermoplastisches Elastomer
+- Volumen: 65,5 l
+- Maße: 26 cm x 65 cm x 33 cm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CZS7F7T1{{</world>}}

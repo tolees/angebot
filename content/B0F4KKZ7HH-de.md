@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - HEISSLUFTFRITTEUSE MIT ZWEI SCHUBLADEN: In jedes Fach passt ein 1,6 kg schweres Hähnchen oder bis zu 1 kg Pommes frites. Koche bis zu 75 % schneller als mit einem Umluftofen* (*Getestet mit Fischstäbchen und Würstchen, inklusive Vorheizen).
+- ABMESSUNGEN: H 31,5 cm נB 38 cm נT 26,5 cm.
+- ENERGIESPAREND: Spare bis zu 75 % bei deiner Ofen-Energiekostenrechnung* (*Berechnungen basierend auf der empfohlenen Garzeit für Würstchen, unter Verwendung der Air-Fry-Funktion im Vergleich zu einem 68l “A”-bewerteten und 71l “A+”-bewerteten Ofen).
 - ZWEI GARZONEN: Bereite 2 Gerichte auf 2 Arten zu – beide gleichzeitig servierbereit. Verwende verschiedene Funktionen, Zeiten und Temperaturen in jeder Schublade, um ganze Mahlzeiten zu zaubern oder zwei unterschiedliche Geschmäcker zu bedienen.
 - INHALT: 2x Antihaft, spülmaschinenfeste 3,8 L Schubladen (7,6 L Gesamtfassungsvermögen) & Crisper-Gittereinsätze. Rezeptheft für Chefkoch Kreationen. Gewicht: 8,2 kg. Farbe: Metallic Grau.
-- ENERGIESPAREND: Spare bis zu 75 % bei deiner Ofen-Energiekostenrechnung* (*Berechnungen basierend auf der empfohlenen Garzeit für Würstchen, unter Verwendung der Air-Fry-Funktion im Vergleich zu einem 68l “A”-bewerteten und 71l “A+”-bewerteten Ofen).
-- ABMESSUNGEN: H 31,5 cm נB 38 cm נT 26,5 cm.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0F4KKZ7HH{{</world>}}

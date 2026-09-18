@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bequemes Tragegefühl
 - Rippstrick hat Längsrippen
+- Bequemes Tragegefühl
 - Ideal für den Winter
 
 [🛒 Hier!!]({{< param buyurl >}})

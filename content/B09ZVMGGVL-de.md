@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Ethylen-Vinylacetat
 - 12.1299999876274 inches
+- Verschluss: Ethylen-Vinylacetat
 - LightweightLightweight
 - Leder: Smooth Leather
 

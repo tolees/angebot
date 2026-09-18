@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rundhalsausschnitt und kurze Arme mit geradem Schnitt
 - Einfarbiges Basic T-Shirt aus Baumwolle
 - Natural Stretch
 - Mit Feinrippkragen
+- Rundhalsausschnitt und kurze Arme mit geradem Schnitt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C6XNQY7P{{</world>}}

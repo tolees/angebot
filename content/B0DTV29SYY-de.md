@@ -30,11 +30,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Die folgenden Informationen gelten für jede Einheit pro Packung
 - Lieferumfang: 1 x LED-Lampe E27, 2. 50 W, 220…240 V, Blau, 9000 K, 100% Quecksilberfrei in bester Qualität der Marke OSRAM.
-- Sofort volles Licht, keine Aufwärmzeit. Einfacher Austausch von Standardglühlampen, echter Ersatz für eine 15-W-Glühbirne (Außenanwendungen nur in geeigneten Leuchten)
 - Les informations ci-dessous sappliquent à chaque unité du pack
-- Lange Lebensdauer bis zu 15000 Stunden und bis zu 100000 Schaltzyklen. Kaltweißes Licht für erhöhten Anforderungen an die Konzentration und Sehleistung, in Küche, Bad oder Büro
-- Energieverbrauch 3 kWh/1000h bei 10 lm
 - Geringere Wärmeentwicklung (gegenüber dem Standardreferenzprodukt).
+- Sofort volles Licht, keine Aufwärmzeit. Einfacher Austausch von Standardglühlampen, echter Ersatz für eine 15-W-Glühbirne (Außenanwendungen nur in geeigneten Leuchten)
+- Energieverbrauch 3 kWh/1000h bei 10 lm
+- Lange Lebensdauer bis zu 15000 Stunden und bis zu 100000 Schaltzyklen. Kaltweißes Licht für erhöhten Anforderungen an die Konzentration und Sehleistung, in Küche, Bad oder Büro
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DTV29SYY{{</world>}}

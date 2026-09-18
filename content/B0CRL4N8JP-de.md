@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schräge Seitentaschen mit Reißverschluss
+- Mit abnehmbarer Kapuze
+- Windschutz-Bündchen
 - GANT-Badge aus Silikon auf der Brust
 - Innen ist diese Jacke durchgehend gefüttert und wattiert
-- Windschutz-Bündchen
-- Mit abnehmbarer Kapuze
+- Schräge Seitentaschen mit Reißverschluss
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CRL4N8JP{{</world>}}

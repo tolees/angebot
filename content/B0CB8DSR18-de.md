@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Teleskop-Stativ aus stabilem Stahlrohr und handlichen Feststellschrauben - für eine ideale Befestigung des Strahlers
-- Energieeffizienter LED Arbeitsstrahler mit Stativ für die ideale Ausleuchtung - mit superhellen Everlight SMD-LEDs (durch geringe Wärmeentwicklung und hochwertiger Scheibe aus Sicherheitsglas keine Verletzungsgefahr)
-- Stativ LED Strahler JARO mit 5m Kabel und praktischer Kabelhalterung am Teleskop-Stativ aus stabilem Stahlrohr
 - Höhenverstellbarer (bis max. 1,8m) LED Fluter mit Stativ ideal für den Einsatz auf Baustellen, für Heim- und Handwerker und viele andere Einsatzgebiete im Außen- und Innenbereich
+- Energieeffizienter LED Arbeitsstrahler mit Stativ für die ideale Ausleuchtung - mit superhellen Everlight SMD-LEDs (durch geringe Wärmeentwicklung und hochwertiger Scheibe aus Sicherheitsglas keine Verletzungsgefahr)
+- Teleskop-Stativ aus stabilem Stahlrohr und handlichen Feststellschrauben - für eine ideale Befestigung des Strahlers
+- Stativ LED Strahler JARO mit 5m Kabel und praktischer Kabelhalterung am Teleskop-Stativ aus stabilem Stahlrohr
 - Stufenlos schwenk- und arretierbarer LED Baustrahler aus modernem und robustem Aluminium-Gehäuse
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

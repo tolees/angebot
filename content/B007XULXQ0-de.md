@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - ideal für Mechaniker
-- Klinge mit Teflonbeschichtung
-- abrutschsicherer Griff mit Fingermulden
 - Klingenfixierung ausgeklappt
+- abrutschsicherer Griff mit Fingermulden
+- Klinge mit Teflonbeschichtung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B007XULXQ0{{</world>}}

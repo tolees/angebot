@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Integrierte Toast-Zange
+- Automatische Brotzentrierung
 - Sechs einstellbare Bräunungsstufen
 - Zwei extra breite Toastschlitze
 - Brötchenaufsatz und Krümelschublade; Stopptaste, Auftaufunktion, Aufwärmfunktion
-- Automatische Brotzentrierung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01B0YRRLY{{</world>}}

@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - In Caravan SandWitch begibst du dich in einer Sci-Fi-Welt, die der Provence ähnelt, auf eine Reise, die von einem Geheimnis um deine verschwundene Schwester.
-- Verbessere dein Wohnmobil während deines Abenteuers und deiner Erkundungen, um neue Wege und Ruinen zu erschließen.
 - Entspanntes Erkundungserlebnis: Nutze die Freiheit, die Welt in deinem eigenen Tempo zu erkunden, ob im Wohnmobil oder zu Fuß. Keine Eile, nur pure Entdeckungsfreude.
-- Triff die Reinetos, eine alte indigene Spezies, die Roboter, die nach der Ausbeutung des Planeten zurückgelassen wurden, die Menschen, die geblieben sind, nachdem alle auf einen anderen Planeten aufgebrochen sind, und die mysteriöse SandWitch.
 - Ein Open-World-Einzelspieler-Erlebnis
+- Verbessere dein Wohnmobil während deines Abenteuers und deiner Erkundungen, um neue Wege und Ruinen zu erschließen.
+- Triff die Reinetos, eine alte indigene Spezies, die Roboter, die nach der Ausbeutung des Planeten zurückgelassen wurden, die Menschen, die geblieben sind, nachdem alle auf einen anderen Planeten aufgebrochen sind, und die mysteriöse SandWitch.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DPN4RVLQ{{</world>}}

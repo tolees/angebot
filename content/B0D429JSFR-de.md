@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Materialzusammensetzung: 70% Baumwolle, 30% Polyester
 - Print : Weicher Gummiprint
-- Ausschnitt : Rundhalsausschnitt
+- Materialzusammensetzung: 70% Baumwolle, 30% Polyester
 - Produktart: Sweatshirts
+- Ausschnitt : Rundhalsausschnitt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D429JSFR{{</world>}}

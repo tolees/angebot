@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Luftgekühlte Goga-Mat-Einlegesohle
 - Schritt Rutsche
 - Maschinenwaschbar
-- Ultra Go
-- Luftgekühlte Goga-Mat-Einlegesohle
 - vegan
+- Ultra Go
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0F2RX416L{{</world>}}

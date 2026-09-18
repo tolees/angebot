@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Leichte Techlite Zwischensohle
-- Obermaterial aus Leder/Mesh
 - Abtriebfeste Omni-Grip Gummi-Außensohle für ideale Bodenhaftung
+- Obermaterial aus Leder/Mesh
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00J61CNL8{{</world>}}

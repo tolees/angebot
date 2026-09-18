@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Oscar-Nominee Jude Law (PHANTASTISCHE TIERWESEN), Norah Jones (TED) und Oscar-Gewinnerin Natalie Portman (BLACK SWAN) in den Hauptrollen
 - Nominiert für die Goldene Palme in Cannes
+- Mit Oscar-Nominee Jude Law (PHANTASTISCHE TIERWESEN), Norah Jones (TED) und Oscar-Gewinnerin Natalie Portman (BLACK SWAN) in den Hauptrollen
 - Der Kultfilm von Meisterregisseur Wong Kar Wai erstmalig in Deutschland auf Blu-Ray
 
 [🛒 Hier!!]({{< param buyurl >}})

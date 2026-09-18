@@ -31,8 +31,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Das hochwertige Naturprodukt Leder sorgt für ein natürliches Fußklima durch eine hohe Atmungsaktivität.
 - Absatztyp: Blockabsatz, Absatzhöhe: 3.6 cm
 - Obermaterial: Glattleder, Innenmaterial: Synthetik, Laufsohle: PU-Sohle, Decksohle: Synthetik
-- Produkttyp: Sandalen,Slipper,Pantoletten,Damenschuhe,0
 - Weite: Schmal (E 1/2), Verschluss: Ohne Verschluss
+- Produkttyp: Sandalen,Slipper,Pantoletten,Damenschuhe,0
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B002ODBLS6{{</world>}}

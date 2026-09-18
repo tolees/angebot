@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die leichte IMEVA-Zwischensohle bietet Stoßdämpfung und täglichen Halt
 - SoftFoam+ Einlegesohle für sofortige Dämpfung und langanhaltenden Tragekomfort
+- Die leichte IMEVA-Zwischensohle bietet Stoßdämpfung und täglichen Halt
 - Robuste Gummi-Außensohle für verbesserte Traktion und Oberflächenstabilität
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

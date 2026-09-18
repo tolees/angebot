@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Elastischer Bund mit Zugband für individuellen Komfort
-- PUMA Cat Logodruck mit Hitzetransfer-Technik auf dem linken Bein
-- Normale Passform
 - Seitentaschen
+- Normale Passform
+- PUMA Cat Logodruck mit Hitzetransfer-Technik auf dem linken Bein
 - Beinabschluss über dem Knie
 
 [🛒 Hier!!]({{< param buyurl >}})

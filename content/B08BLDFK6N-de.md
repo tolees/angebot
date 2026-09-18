@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Innenmaterial: Synthetik
-- Material: 100 Prozent Wildleder
-- Sohle: Gummi
-- Obermaterial: Synthetic
 - Verschluss: Schnürsenkel
+- Material: 100 Prozent Wildleder
+- Obermaterial: Synthetic
+- Sohle: Gummi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08BLDFK6N{{</world>}}

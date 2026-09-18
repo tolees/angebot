@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Technische Daten - Max. Gewicht pro Fahrrad 30 kg (1-3), 17 kg bei Erweiterungsschiene (Fahrrad 4), Rahmendurchmesser 2,5-8 cm, max. Reifendicke 2,4 Zoll. Abstand zwischen den Fahrrädern 18 cm. Maße 110x20x72 cm, 18,1 kg Gewicht
-- Plug & Drive - Montage erfolgt mittels Schnellspannverschluss. Der schnelle Zugang zum Kofferraum ist dank gesichertem Abklappmechanismus auch mit montierten Fahrrädern einfach möglich
 - Hinweis - Abstand zwischen den Fahrrädern und den maximalen Rahmendurchmesser bitte beachten. Felgenhaltebänder sind austauschbar. Für Fatbikes werden Rastbänder der Länge 600 mm benötigt
+- Plug & Drive - Montage erfolgt mittels Schnellspannverschluss. Der schnelle Zugang zum Kofferraum ist dank gesichertem Abklappmechanismus auch mit montierten Fahrrädern einfach möglich
 - Ausführung - Der schwarze Träger für die Anhängerkupplung hält 3 Fahrräder bis max. Gesamtzuladung 66,9 kg. Mit separat erhältlicher Schiene auf 4 Bikes (68 kg) erweiterbar
+- Technische Daten - Max. Gewicht pro Fahrrad 30 kg (1-3), 17 kg bei Erweiterungsschiene (Fahrrad 4), Rahmendurchmesser 2,5-8 cm, max. Reifendicke 2,4 Zoll. Abstand zwischen den Fahrrädern 18 cm. Maße 110x20x72 cm, 18,1 kg Gewicht
 - Ausstattung - Komplett vormontiertes, crashstabile System inkl. Radschalen mit Laufradschutz, gepolsterte Greifarme, Diebstahlschutz, Felgenhaltebänder mit Ratschenfunktion und Spannkraftschutz, Rückleuchten, Kennzeichenhalter EU
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

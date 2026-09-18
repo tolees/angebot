@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das ist ein ressourcenschonend produzierter WE CARE Artikel mit Fokus auf Umwelt , Tierschutz, sozialer Verantwortung wurde auf Schadstoffe geprüft und zertifiziert nach Standard 100 durch OEKO TEX
 - Das nachhaltige Material ist robust und schenkt auch auch bei regelmäßigem, intensivem Training eine lange Lebensdauer; für faltenfreien Sitz empfehlen wir bei Zwischengrößen die kleinere Größe
-- Die Laufsocken aus Baumwolle und Funktionsmaterial sind atmungsaktiv und die 3 lagige Sohlenkonstruktion leitet Feuchtigkeit ab, wodurch Ihre Füße auch beim intensiven Lauf und Sport trocken bleiben
+- Das ist ein ressourcenschonend produzierter WE CARE Artikel mit Fokus auf Umwelt , Tierschutz, sozialer Verantwortung wurde auf Schadstoffe geprüft und zertifiziert nach Standard 100 durch OEKO TEX
 - Ob weicher Boden oder harter Asphalt unsere mittelstark gepolsterten Allrounder Sportsocken schenken Ihnen Dämpfung, Komfort und die flache Zehennaht verhindert Druckstellen, Reibung und Blasen
+- Die Laufsocken aus Baumwolle und Funktionsmaterial sind atmungsaktiv und die 3 lagige Sohlenkonstruktion leitet Feuchtigkeit ab, wodurch Ihre Füße auch beim intensiven Lauf und Sport trocken bleiben
 - Spezielle geschlechtsspezifische Strickverfahren, die auf die anatomischen Unterschiede Ihres rechten und linken Fußes abgestimmt sind, sorgen für hohen Tragekomfort und eine faltenfreie Passform
 - Das Familienunternehmen FALKE, gegründet 1895, basiert auf festen Werten: Bedingungslose Qualität, höchste Handwerkskunst, innovative Artikel und umweltfreundliche Verpackung ohne Plastikhaken
 

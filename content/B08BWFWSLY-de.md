@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Drei neuen Legenden in der fantastischen Welt von Andor
-- Für Spieler ab 10 Jahren
 - Illustiert von Andor Erfinder Michael Menzel
+- Drei neuen Legenden in der fantastischen Welt von Andor
 - Mit den Ergänzungen Neue Helden und Dunkle Helden für 5-6 Spieler
 - Für 2-4 Spieler
 - Die Erweiterung ist nur mit dem Grundspiel Die Legenden von Andor spielbar
+- Für Spieler ab 10 Jahren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08BWFWSLY{{</world>}}

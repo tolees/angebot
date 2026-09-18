@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 88
-- Deutsch, Japanisch
 - Mitsuhisa Ishikawa
+- 88
 - BRD
+- Deutsch, Japanisch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08WZCYXQY{{</world>}}

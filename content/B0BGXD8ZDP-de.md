@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Schmaler Deckel - weniger Plastik
 - 98% biologisch abbaubare Inhaltsstoffe (gem. OECD oder äquivalenten Methoden)
 - Bewahrt die Feuchtigkeit der Haut
 - vegan* *Dem Produkt wurden keine tierischen Bestandteile zugesetzt.
-- Schmaler Deckel - weniger Plastik
 - Granatapfel & Kakao
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Wildleder
-- Schnürsenkel
 - Eine Nummer größer kaufen
+- Schnürsenkel
+- Obermaterial aus Wildleder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B078C7TLZZ{{</world>}}

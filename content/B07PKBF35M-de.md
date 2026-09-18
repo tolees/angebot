@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LEONINE
 - Ein Gauner und Gentleman BD
+- LEONINE
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07PKBF35M{{</world>}}

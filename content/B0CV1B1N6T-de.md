@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- In den Farben Schwarz, Weiß, Grün, Rot, Blau, Grau und Orange bestellbar. In den Größen S, M, L, XL, XXL und 3XL erhältlich.
-- Die Qualität wird Sie begeistern und auch die vielseitigen Kombinationsmöglichkeiten machen dieses Kurzarm Tee Shirt so beliebt.
 - Aus 100% hochwertiger Baumwolle hergestellt ist das Oberteil ein unverzichtbares Basic. Kann am Strand, beim Sport, auf der Arbeit oder in der Freizeit getragen werden.
+- Die Qualität wird Sie begeistern und auch die vielseitigen Kombinationsmöglichkeiten machen dieses Kurzarm Tee Shirt so beliebt.
+- In den Farben Schwarz, Weiß, Grün, Rot, Blau, Grau und Orange bestellbar. In den Größen S, M, L, XL, XXL und 3XL erhältlich.
 - Maschinenwäsche bei 30 °C. Nicht bleichen. Trockner nicht verwenden.
 - Tolles Regular Fit T-Shirt im praktischen 4er Multipack für Männer und Jungen mit Rundhalsausschnitt und stylischen Logo Print auf der Brust.
 

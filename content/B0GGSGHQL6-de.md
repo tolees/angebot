@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- IKONISCHES RAUMSCHIFF MODELL: Bilde das Imperiale Shuttle der Lambda-Klasse nach und spiele Actionszenen aus der 2. Staffel von Star Wars: The Mandalorian nach oder stelle das LEGO Bauset für Jungen und Mädchen ab 14 Jahren aus
-- FLUG- UND LANDEMODUS: Klapp die Flügel des Raumschiffes zum Fliegen nach unten und nimm die Gegner mit den beiden Shootern ins Visier, fahr dann das Fahrwerk aus, klapp die Flügel hoch und lass die Ausstiegsrampe hinunter
-- ENTDECKE DAS GANZE SORTIMENT: Die separat erhältlichen LEGO Star Wars Sets zum Sammeln lassen Kinder und erwachsene Fans spannende Szenen nachspielen, eigene Geschichten darstellen oder die Modelle aus LEGO Steinen einfach nur als Deko ausstellen
-- OPTIMIERTES INTERAKTIVES BAUERLEBNIS: Die LEGO Builder App lässt Kinder selbstständig bauen, 3D-Modelle vergrößern und drehen und ihre Sets speichern. Die digitale Bauanleitung zeigt den Baufans aber auch, wie weit sie mit dem Modell schon sind
-- STAR WARS GESCHENK IDEE: Dieses Raumschiff Modell Bauset ist ein kosmisches Geburtstags Geschenk für Jungen und Mädchen ab 14 Jahren und Erwachsene Fans von The Mandalorian
 - ALLE EINSTEIGEN: Baue das Modell, klapp das Cockpit auf, steck den Piloten hinein und öffne die Luken zur Passagierkabine mit Sitzen für die 4 anderen Star Wars Minifiguren
+- STAR WARS GESCHENK IDEE: Dieses Raumschiff Modell Bauset ist ein kosmisches Geburtstags Geschenk für Jungen und Mädchen ab 14 Jahren und Erwachsene Fans von The Mandalorian
+- FLUG- UND LANDEMODUS: Klapp die Flügel des Raumschiffes zum Fliegen nach unten und nimm die Gegner mit den beiden Shootern ins Visier, fahr dann das Fahrwerk aus, klapp die Flügel hoch und lass die Ausstiegsrampe hinunter
+- OPTIMIERTES INTERAKTIVES BAUERLEBNIS: Die LEGO Builder App lässt Kinder selbstständig bauen, 3D-Modelle vergrößern und drehen und ihre Sets speichern. Die digitale Bauanleitung zeigt den Baufans aber auch, wie weit sie mit dem Modell schon sind
 - 5 LEGO STAR WARS MINIFIGUREN: Teenager können in die Rolle von Mando, Moff Gideon, einem Imperialen Shuttlepiloten, einem Sturmtruppler oder von Dr. Pershing schlüpfen, der zum ersten Mal als LEGO Minifigur dargestellt ist
+- ENTDECKE DAS GANZE SORTIMENT: Die separat erhältlichen LEGO Star Wars Sets zum Sammeln lassen Kinder und erwachsene Fans spannende Szenen nachspielen, eigene Geschichten darstellen oder die Modelle aus LEGO Steinen einfach nur als Deko ausstellen
+- IKONISCHES RAUMSCHIFF MODELL: Bilde das Imperiale Shuttle der Lambda-Klasse nach und spiele Actionszenen aus der 2. Staffel von Star Wars: The Mandalorian nach oder stelle das LEGO Bauset für Jungen und Mädchen ab 14 Jahren aus
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0GGSGHQL6{{</world>}}

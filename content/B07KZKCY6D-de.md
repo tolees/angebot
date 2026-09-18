@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Weg Nach El Dorado [Blu-Ray] [Import]
 - Universal Pictures Germany GmbH
+- Der Weg Nach El Dorado [Blu-Ray] [Import]
 - PHYSICAL_MOVIE
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hübsche Details: markantes Metall-Logo und Reißverschlusstaschen im Frontbereich
-- Leichtgewicht: ab 2 kg für Kabinengrößen
 - Alle Modelle mit TSA-Schloss für sicheres, stressfreies Reisen
 - Spinner 55 (Handgepäck: Zwei Tage verreisen): 40 x 20 x 55 cm - 39 L - 2 kg
+- Hübsche Details: markantes Metall-Logo und Reißverschlusstaschen im Frontbereich
+- Leichtgewicht: ab 2 kg für Kabinengrößen
 - Fronttasche mit maximiertem packvolumen
 
 [🛒 Hier!!]({{< param buyurl >}})

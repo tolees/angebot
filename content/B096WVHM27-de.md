@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flexible Traktionslaufsohle aus Gummi
 - Keilform mit verdecktem 2,5-cm-Absatz
+- Flexible Traktionslaufsohle aus Gummi
 - Weiches Obermaterial aus perforiertem Durabuck-Synthetik
 
 [🛒 Hier!!]({{< param buyurl >}})

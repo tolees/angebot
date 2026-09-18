@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geschmack: süßlich weich mit einem Hauch Malz und Würze
 - Geruch: Zitrusnoten mit Andeutungen von Karamell und Rosinen
 - Farbe: Gold
+- Geschmack: süßlich weich mit einem Hauch Malz und Würze
 - Region: Speyside
 - Abgang: lang anhaltend mit einer Süße gefolgt von Würze
 

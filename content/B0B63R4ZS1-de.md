@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Polyurethan Obermaterial
 - Schnürsenkel Verschluss
+- Polyurethan Obermaterial
 - Synthetik Futter
 
 [🛒 Hier!!]({{< param buyurl >}})

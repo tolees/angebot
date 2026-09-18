@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Boxershortsset
-- Flexibler Bund
 - Glatter Stoff
+- Flexibler Bund
+- Boxershortsset
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07G2MCQQK{{</world>}}

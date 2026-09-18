@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Synthetik
 - Obermaterial: Synthetik
 - Innenmaterial: Synthetik
+- Sohle: Synthetik
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01G5HIX1Y{{</world>}}

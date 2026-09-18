@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Perfektes Basic für jeden urbanen Streetwear Look - das einfarbige Herrenshirt lässt sich super zu jedem Outfit kombinieren
+- Erhältlich in drei Basic-Farbzusammenstellungen: 3x Weiß, 2x Weiß und 1x Schwarz oder Weiß/Schwarz/Grau
 - Ein Klick auf das Markenlogo führt zum URBAN CLASSICS Brand Store und noch mehr angesagter Streetwear
 - Farbenfrohes Basic T-Shirt als Dreier-Pack zur perfekten Kombination für unzählige Looks im Sommer, Herbst, Winter oder Frühjahr
 - Sportlicher Round-Neck Ausschnitt und figurnaher Schnitt
-- Erhältlich in drei Basic-Farbzusammenstellungen: 3x Weiß, 2x Weiß und 1x Schwarz oder Weiß/Schwarz/Grau
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07TQMZKP1{{</world>}}

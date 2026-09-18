@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Klett
 - Absatzart: Flach
-- Futter: Textil
 - Breite: Normal
+- Verschluss: Klett
 - Puma Multiflex 2 SL V Inf
+- Futter: Textil
 - Zehentyp: Abgerundt
 
 [🛒 Hier!!]({{< param buyurl >}})

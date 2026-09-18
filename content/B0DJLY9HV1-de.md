@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100 % Polyester (recycelt)
-- Regulär geschnitten
 - Reißverschluss bis zur Brust; Stehkragen
 - Bündchen und Saum mit elastischer Einfassung
+- 100 % Polyester (recycelt)
+- Regulär geschnitten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DJLY9HV1{{</world>}}

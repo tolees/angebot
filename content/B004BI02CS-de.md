@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Qualität von Bosch
 - Zubehör für Werkzeuge und Elektrowerkzeuge
+- Qualität von Bosch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B004BI02CS{{</world>}}

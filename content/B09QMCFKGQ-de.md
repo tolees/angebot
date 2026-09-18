@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BCI Cotton - nachhaltige Produktion der Baumwolle
+- Weicher Cotton Stretch
 - Höchster Tragecomfort und optimale Passform
 - Klares Design, BOSS Logo im komfortablen Bundband
-- Weicher Cotton Stretch
+- BCI Cotton - nachhaltige Produktion der Baumwolle
 - BOSS Trunk im 3er Pack
 
 [🛒 Hier!!]({{< param buyurl >}})

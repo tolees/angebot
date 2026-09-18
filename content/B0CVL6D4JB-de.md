@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Das Model ist 184cm groß und trägt Größe 32/32(Brustumfang 95cm, Taillenumfang 95cm, Hüftumfang 90cm)
 - Einen originellen Look
+- G-Star RAW Label hinten, gefertigt aus lederähnlichem Papiermaterial
 - Hosenschlitz mit Knopfverschluss
 - 5 Taschen
-- G-Star RAW Label hinten, gefertigt aus lederähnlichem Papiermaterial
-- Das Model ist 184cm groß und trägt Größe 32/32(Brustumfang 95cm, Taillenumfang 95cm, Hüftumfang 90cm)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CVL6D4JB{{</world>}}

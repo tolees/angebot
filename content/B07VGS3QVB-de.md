@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2.100 W Leistung: Mit diesem Philips Haartrockner trocknen Sie Ihre Haare schneller und einfacher
-- ThermoProtect Temperatureinstellung: Optimale Trockentemperatur und Schutz vor Überhitzung
-- 9 mm-Stylingdüse: Konzentriert den Luftstrom für ein hervorragendes, präzises Styling
 - Leistungsstarker AC-Motor: Hohe Luftgeschwindigkeit von bis 130 km/h*
+- 9 mm-Stylingdüse: Konzentriert den Luftstrom für ein hervorragendes, präzises Styling
+- ThermoProtect Temperatureinstellung: Optimale Trockentemperatur und Schutz vor Überhitzung
+- 2.100 W Leistung: Mit diesem Philips Haartrockner trocknen Sie Ihre Haare schneller und einfacher
 - Lieferumfang: Philips DryCare Pro Haartrockner mit AC-Motor, 6 Gebläse- & Temperaturen, Kaltstufe
 
 [🛒 Hier!!]({{< param buyurl >}})

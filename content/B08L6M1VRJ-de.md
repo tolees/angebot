@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100,3 cm (40") Android TV mit Full HD Auflösung & sprachgesteuerte Fernbedienung
 - Extra scharf: Mit dem Full HD Fernseher erleben Sie Ihr TV-Programm in bester Bildqualität!
-- Lieferumfang: MEDION LIFE Smart-TV P14031 MD29242, Standfüße inkl. Schrauben, Fernbedienung inkl. Batterien (AAA), Bedienungsanleitung.
+- 100,3 cm (40") Android TV mit Full HD Auflösung & sprachgesteuerte Fernbedienung
 - FHD Smart-TV mit HDR, PVR ready, CI+ Schnittstelle, WLAN, Bluetooth, HbbTV, Amazon Prime Video und weiteren Smart-TV-Diensten.
+- Lieferumfang: MEDION LIFE Smart-TV P14031 MD29242, Standfüße inkl. Schrauben, Fernbedienung inkl. Batterien (AAA), Bedienungsanleitung.
 - Allzeit empfangsbereit: Nutzen Sie Kabel, Satellit und das neue digitale Antennenfernsehen DVB-T2 HD mit dem HD Triple Tuner.
 
 [🛒 Hier!!]({{< param buyurl >}})

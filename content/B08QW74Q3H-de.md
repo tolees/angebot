@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES JJECORP Logo Tee SS Crew Neck 3PK MP'
-date: 2026-08-17 18:46:07
+date: 2026-09-18 02:04:16
 image: 'https://m.media-amazon.com/images/I/314myc7DFcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B08QW74Q3H/?tag=tolees0ca-21'
 descuento: '42.87'
-average: '23.3775'
+average: '22.7'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,10 +28,6 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Herren T-shirts aus Baumwolle
-- T-shirt mit kurzen Ärmeln
-- gerade geschnittene T-Shirts mit einem Jack&Jones Printlogo auf der Vorder Seite
-- 3er Pack Herren T-shirts in schwarz, blau und weiß mit einem Rundhalsausschnitt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08QW74Q3H{{</world>}}

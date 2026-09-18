@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideal auf Papier, Pappe, Karton, Holz, Keramik u.v.m.
 - Inhalt je 25 ml in den 6 Farben: Schwarz, Magenta, Gelb, Weiß, Grün und Cyan
 - Mit kleinem Pinsel und Mischpalette
-- Gute Deckkraft und mit Wasser verdünnbar
 - Malfertige, flüssige Deckfarben, 6 Grundfarben im Set
+- Ideal auf Papier, Pappe, Karton, Holz, Keramik u.v.m.
+- Gute Deckkraft und mit Wasser verdünnbar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07DTC3B6V{{</world>}}

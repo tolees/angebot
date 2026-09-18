@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produkttyp: Physischer Film
 - Thanksgiving Steelbook 4K Ultra HD Blu Ray
+- Produkttyp: Physischer Film
 - Format: DVD
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

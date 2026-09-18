@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 100 % Polyester (recycelt)
-- Durchgehender Reißverschluss und Stehkragen
 - Jacke und Hose: Taschen auf der Vorderseite
+- Durchgehender Reißverschluss und Stehkragen
 - Regulär geschnitten; Hose mit mittelhohem Bund
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

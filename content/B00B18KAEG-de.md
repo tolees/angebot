@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Starke 780 Watt Leistung zum Pumpen von bis zu 15.700 Litern pro Stunde aus 7 m Tiefe
-- Integrierte Kabelaufwicklung am Gehäuse
-- Die Pumpe mit starker Leistung für gründliches Abpumpen von Schmutzwasser aus Teichen, Baugruben, Kellerräumen und für die Regenwassernutzung
 - Robustes Kunststoffgehäuse ausgelegt für Fremdkörper bis 35 mm Durchmesser
+- Integrierte Kabelaufwicklung am Gehäuse
 - Hochwertige Gleitringdichtung für dauerhaften Betrieb
+- Starke 780 Watt Leistung zum Pumpen von bis zu 15.700 Litern pro Stunde aus 7 m Tiefe
+- Die Pumpe mit starker Leistung für gründliches Abpumpen von Schmutzwasser aus Teichen, Baugruben, Kellerräumen und für die Regenwassernutzung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00B18KAEG{{</world>}}

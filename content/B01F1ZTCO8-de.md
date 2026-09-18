@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 10-JAHRES-BATTERIE: festverbaute 3V Lithium-Batterie mit einer Batterielaufzeit von 10 Jahren | Warnung bei schwacher Batterie
-- TEST-KNOPF: großflächige Prüftaste zum manuellen Selbsttest und zum Stummschalten bei Fehlalarm
+- EINSATZ: ideal für die Deckenmontage in bis zu 40 m² großen Räumen: im Bestfall im Schlafzimmer, Kinderzimmer, Wohnzimmer Flur, Wohnwagen oder Wohnmobil anzubringen
+- ZERTIFIZIERT: geprüfte Qualität für Ihr sicheres Zuhause - Rauchmelder entspricht Norm EN 14604:2005/AC:2008 | VdS Zerifikat und Q-Label vorhanden
 - LEBENSRETTER: bei geringer Rauchentwicklung ertönt ein lautstarkes Alarmsignal (85 dB) - der kleine Rauchwarnmelder ist unauffällig, aber lebensrettend
 - PRODUKTDETAILS: kleiner Melder - Durchmesser 7 cm, Höhe 3,3 cm, Gewicht 194 g, LED Leuchtsignal, Farbe Weiß
-- ZERTIFIZIERT: geprüfte Qualität für Ihr sicheres Zuhause - Rauchmelder entspricht Norm EN 14604:2005/AC:2008 | VdS Zerifikat und Q-Label vorhanden
-- EINSATZ: ideal für die Deckenmontage in bis zu 40 m² großen Räumen: im Bestfall im Schlafzimmer, Kinderzimmer, Wohnzimmer Flur, Wohnwagen oder Wohnmobil anzubringen
+- 10-JAHRES-BATTERIE: festverbaute 3V Lithium-Batterie mit einer Batterielaufzeit von 10 Jahren | Warnung bei schwacher Batterie
+- TEST-KNOPF: großflächige Prüftaste zum manuellen Selbsttest und zum Stummschalten bei Fehlalarm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01F1ZTCO8{{</world>}}

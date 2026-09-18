@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Regulär geschnitten
-- Füllung: 90 % recycelter Polyester / 10 % Polyester
-- 100 % recycelter Polyester (Taft)
 - Elastische Bündchen
+- Regulär geschnitten
 - Durchgehender Reißverschluss; Stehkragen
+- 100 % recycelter Polyester (Taft)
+- Füllung: 90 % recycelter Polyester / 10 % Polyester
 - Reißverschlusstaschen auf der Vorderseite
 
 [🛒 Hier!!]({{< param buyurl >}})

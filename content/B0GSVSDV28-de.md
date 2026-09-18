@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- UNIVERSELLES BLINKERSYSTEM: TURNTEC T2 ist für alle Fahrräder geeignet und erfüllt alle Anforderungen der neuen StVZO.
-- NACHHALTIGES DESIGN: Akku und Einzelteile der Blinker sind austauschbar – ressourcenschonend und benutzerfreundlich.
-- INTUITIVE BEDIENUNG: Ein einfacher Handballendruck reicht aus, um das Blinksignal zu aktivieren – schnell und sicher im Straßenverkehr.
 - USB-C AUFLADBAR: Der integrierte Akku lässt sich bequem direkt am Fahrrad über die USB-C-Buchse der linken Blinkeinheit aufladen.
 - EINFACHE MONTAGE: Die zwei Aluminium-Blinkereinheiten passen in Lenker-Innendurchmesser von 17,5 bis 19,5 mm und sind ohne Spezialwerkzeug montierbar.
+- INTUITIVE BEDIENUNG: Ein einfacher Handballendruck reicht aus, um das Blinksignal zu aktivieren – schnell und sicher im Straßenverkehr.
+- NACHHALTIGES DESIGN: Akku und Einzelteile der Blinker sind austauschbar – ressourcenschonend und benutzerfreundlich.
+- UNIVERSELLES BLINKERSYSTEM: TURNTEC T2 ist für alle Fahrräder geeignet und erfüllt alle Anforderungen der neuen StVZO.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0GSVSDV28{{</world>}}

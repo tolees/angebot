@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichte, flexible, stoßdämpfende Zwischensohle
-- 1 1/4-Zoll-Absatz
 - Skechers-Logodetail
+- 1 1/4-Zoll-Absatz
+- Leichte, flexible, stoßdämpfende Zwischensohle
 - Obermaterial aus weichem Strick-Mesh und Synthetik mit elastischer Schnürung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

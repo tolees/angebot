@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Zur Bekämpfung von zahlreichen Unkräutern & Ungäsern - ohne Glyphosat
+- Säen und Nachpflanzen von Zierpflanzen bereits einen Tag nach der Anwendung möglich
 - Kinder und Haustiere können nach dem Abtrocknen des Spritzbelags wieder auf die behandelte Fläche
+- Zul.-Nr. DE: 00A107-61; Pflanzenschutzmittel vorsichtig verwenden. Vor Verwendung stets Etikett und Produktinformationen lesen. Bitte Warnhinweise und Sicherheitsratschläge in der Gebrauchsanleitung beachten.
 - Biologisch abbaubar. Mikroorganismen zersetzen den Wirkstoff im Boden, ohne die Umwelt zu belasten.
 - Nicht bienengefährlich
-- Zul.-Nr. DE: 00A107-61; Pflanzenschutzmittel vorsichtig verwenden. Vor Verwendung stets Etikett und Produktinformationen lesen. Bitte Warnhinweise und Sicherheitsratschläge in der Gebrauchsanleitung beachten.
-- Säen und Nachpflanzen von Zierpflanzen bereits einen Tag nach der Anwendung möglich
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CV3JQVRN{{</world>}}

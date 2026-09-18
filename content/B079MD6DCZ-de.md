@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für Maschinen der Cricut Maker- und Cricut Explore-Familie
 - Kreiere Vinyl- und Bügelfolien, Karten, Schachteln und Heimdekor
+- Für Maschinen der Cricut Maker- und Cricut Explore-Familie
 - Deutscher Premium-Karbidstahl ist verschleiß- und bruchfest für langfristiges Präzisionsschneiden
 - 1 Premium-Feinschnittklinge plus Gehäuse
 

@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Standard Combo mit Standardzubehör - Bietet die Flexibilität, selektiv aufzurüsten, perfekt für einfache Outdoor-Aktivitäten. Ideal für Kreative oder alle, die das tägliche Leben festhalten wollen.
-- Städtische Nachtszenen festhalten - Osmo Action 5 Pro verfügt über einen neuen 1/1,3″ Sensor für atemberaubendes Low-Light. Ideal für nächtliche Radfahrabenteuer in dunklen Umgebungen.
-- Professionelles Audio - Erfasse klares Audio mit DJI Mikrofonverbindung und erhalte Audio direkt vom DJI Mic 2/Mic Mini Sender, ohne einen Empfänger zu benötigen. Perfekt für Motorrad-Vlogging, Skifahren, Solo-Vlogging.
-- Optimierte Motivverfolgung - 4nm Chip für schnelles, zuverlässiges Framing. Halte schnell bewegte Motive zentriert. [7] Der 4nm Chip sorgt für einen reibungslosen und schnellen Bildausschnitt in 16:9 oder 9:16.
-- Dauerhafte Verwendung unter allen Bedingungen - Genieße eine verlängerte Akkulaufzeit von bis zu 4 Stunden.[1] Ideal für alle Szenarien, um eine dauerhafte Leistung und ununterbrochene Aufnahmen zu gewährleisten.
 - Brillante und präzise Touchscreens - Genieße lebendige, naturgetreue Farben mit zwei OLED-Touchscreens. Dank der gestochen scharfen Darstellung macht das Aufnehmen und Anschauen unterwegs wieder Spaß.
+- Städtische Nachtszenen festhalten - Osmo Action 5 Pro verfügt über einen neuen 1/1,3″ Sensor für atemberaubendes Low-Light. Ideal für nächtliche Radfahrabenteuer in dunklen Umgebungen.
+- Optimierte Motivverfolgung - 4nm Chip für schnelles, zuverlässiges Framing. Halte schnell bewegte Motive zentriert. [7] Der 4nm Chip sorgt für einen reibungslosen und schnellen Bildausschnitt in 16:9 oder 9:16.
+- Professionelles Audio - Erfasse klares Audio mit DJI Mikrofonverbindung und erhalte Audio direkt vom DJI Mic 2/Mic Mini Sender, ohne einen Empfänger zu benötigen. Perfekt für Motorrad-Vlogging, Skifahren, Solo-Vlogging.
+- Dauerhafte Verwendung unter allen Bedingungen - Genieße eine verlängerte Akkulaufzeit von bis zu 4 Stunden.[1] Ideal für alle Szenarien, um eine dauerhafte Leistung und ununterbrochene Aufnahmen zu gewährleisten.
 - Ultrastabiles Filmmaterial - Erziele stabile, hochwertige Aufnahmen mit 360° HorizonSteady. [17] Ideal für Vlogging und Sportaufnahmen aus jeder Perspektive, egal wie wackelig es wird.
 
 [🛒 Hier!!]({{< param buyurl >}})

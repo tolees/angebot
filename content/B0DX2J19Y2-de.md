@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Erhält die 5 Dimensionen des Farbspektrums in der Haarfaser: Glanz, Lebendigkeit, Kontrast, Farbton, Leuchtkraft.
-- Der Vitamino Color Spectrum Deep Conditioner für stärkende Tiefenpflege ist mit 5% Ferulasäure und 2,5% Zitronensäure angereichert. Er sorgt für glänzenderes, kräftigeres Haar, bessere Kämmbarkeit und weniger Frizz.
 - Nach der Haarwäsche mit dem Vitamino Color Spectrum Shampoo gleichmäßig auftragen. 1-2 Min einmassieren. Ausspülen.
+- Der Vitamino Color Spectrum Deep Conditioner für stärkende Tiefenpflege ist mit 5% Ferulasäure und 2,5% Zitronensäure angereichert. Er sorgt für glänzenderes, kräftigeres Haar, bessere Kämmbarkeit und weniger Frizz.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DX2J19Y2{{</world>}}

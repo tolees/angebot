@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zehentyp: Abgerundet
-- Breite: Regulär
-- Absatzart: Flach
-- Verschluss: Elastische Bänder
 - Futter: Textil
+- Zehentyp: Abgerundet
+- Absatzart: Flach
+- Breite: Regulär
+- Verschluss: Elastische Bänder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DJC554T4{{</world>}}

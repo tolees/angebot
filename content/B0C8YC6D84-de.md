@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 2001 mit dem OSCAR für Best Sound Editing ausgezeichnet und nominiert für Best Sound
-- Starbesetze Weltkriegsaction: Mit Matthew McConaughey, Harvey Keitel, Bill Paxton und Jon Bon Jovi in den Hauptrollen
 - Mitreißender Kriegsfilm von Jonathan Mostow (Terminator 3) erstmals in bombastischem 4K restauriert
+- Starbesetze Weltkriegsaction: Mit Matthew McConaughey, Harvey Keitel, Bill Paxton und Jon Bon Jovi in den Hauptrollen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C8YC6D84{{</world>}}

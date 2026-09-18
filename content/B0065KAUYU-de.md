@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ACHTUNG: Das Logo kann von der Abbildung abweichen.
 - Vulkanisierte Gummi-Außensohle
 - Abnehmbarer 6mm, waschbarer, recycelter Filzinnenstiefel
+- ACHTUNG: Das Logo kann von der Abbildung abweichen.
 - Wasserdichtes Nubukleder, wasserdichte versiegelte-Naht-Konstruktion
 
 [🛒 Hier!!]({{< param buyurl >}})

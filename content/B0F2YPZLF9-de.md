@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Longsleeve mit Logo-Print auf der Brust.
 - Aus einem weichen Single-Jersey-Stoff aus Baumwolle.
+- Longsleeve mit Logo-Print auf der Brust.
+- Rundhalsausschnitt| Langärmlig
 - Passform: Regular Fit - gerader Schnitt | Brustweite bei Größe M ca. 54 cm | Rückenlänge bei Größe M ca. 72 cm
 - Waschhinweis: 40°C Buntwäsche | Nicht auf Verzierung bügeln | Bügeln bei mäßiger Temperatur | Nicht chemisch reinigen | Nicht bleichen | Nicht im Trockner trocknen | Von links waschen und bügeln | Mit ähnlichen Farben waschen | Nass in Form ziehen
-- Rundhalsausschnitt| Langärmlig
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0F2YPZLF9{{</world>}}

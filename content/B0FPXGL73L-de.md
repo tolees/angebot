@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FAST AND FURIOUS LEGO MIT FILM ANSPIELUNGEN: Erwecke den Spirit legendärer Straßenrennen und füge dem Modell Details wie die beiden NOS-Flaschen und den Feuerlöscher hinzu, inspiriert von Figuren wie Dominic Toretto
-- ENTDECKE WEITERE SETS: Die separat erhältlichen LEGO Technic Fahrzeuge für Erwachsene laden dazu ein, technische Konzepte zu entdecken und anspruchsvolle Bauprojekte zu erleben
-- SAMMLE DEINE SPIELSETS: Mit der LEGO Builder App kannst du deine Modelle mithilfe von 3D Bauanleitungen bauen, deine Sets speichern und jederzeit sehen, wie weit du mit deinem Projekt bist
 - BAUSATZ MIT FUNKTIONIERENDER LENKUNG & RADAUFHÄNGUNG: Lenke den Flitzer über den Knauf am Heck und entdecke die Einzelradaufhängung vorne sowie die Hinterradaufhängung
 - GESCHENKIDEE FÜR FILMFANS: Dieser Fast and Furious Fanartikel ist ein beliebtes Geschenk für erwachsene Fans, die den Dodge Charger R/T lieben und Freude an detailgetreuen Modellbau haben
-- MODELLBAU FÜR ERWACHSENE: Baue den LEGO Technic Fast and Furious Dodge Charger R/T mit V8 Motor zusammen, anschließend kannst du die realistischen Funktionen des 3D Modells entdecken
+- FAST AND FURIOUS LEGO MIT FILM ANSPIELUNGEN: Erwecke den Spirit legendärer Straßenrennen und füge dem Modell Details wie die beiden NOS-Flaschen und den Feuerlöscher hinzu, inspiriert von Figuren wie Dominic Toretto
 - V8 MOTOR UND DIFFERENTIAL: Das 3D Puzzle begeistert mit vielen authentischen Details wie dem V8-Motor, dem Kompressor mit Steuerkette sowie dem Heckantrieb mit Kardanwelle und Differential
+- MODELLBAU FÜR ERWACHSENE: Baue den LEGO Technic Fast and Furious Dodge Charger R/T mit V8 Motor zusammen, anschließend kannst du die realistischen Funktionen des 3D Modells entdecken
+- SAMMLE DEINE SPIELSETS: Mit der LEGO Builder App kannst du deine Modelle mithilfe von 3D Bauanleitungen bauen, deine Sets speichern und jederzeit sehen, wie weit du mit deinem Projekt bist
+- ENTDECKE WEITERE SETS: Die separat erhältlichen LEGO Technic Fahrzeuge für Erwachsene laden dazu ein, technische Konzepte zu entdecken und anspruchsvolle Bauprojekte zu erleben
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0FPXGL73L{{</world>}}

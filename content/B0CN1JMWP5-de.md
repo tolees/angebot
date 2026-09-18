@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Pflegt und schützt den Reifen bei regelmäßiger Anwendung vor Rissbildung, vorzeitiger Alterung und Ausbleichen
-- SONAX Autopflegeprodukte - Made in Germany - Damit glänzt, was uns bewegt
 - Lieferumfang: 1x SONAX 04344000 ReifenGlanz Special Edition (500 ml)
 - Überzieht den Reifen mit einem satten Tiefenglanz
+- SONAX Autopflegeprodukte - Made in Germany - Damit glänzt, was uns bewegt
+- Pflegt und schützt den Reifen bei regelmäßiger Anwendung vor Rissbildung, vorzeitiger Alterung und Ausbleichen
 - Für alle Reifentypen geeignet
 
 [🛒 Hier!!]({{< param buyurl >}})

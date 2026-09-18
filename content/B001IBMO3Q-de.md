@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichte Handhabung: Einfacher und schneller Sägeblattwechsel durch SDS-Mechanismus
-- Electronic Motor Protection (EMP) schützt den Motor vor Überlastung und sorgt für lange Lebensdauer
 - AMPShare: Akkus und Ladegeräte sind vollständig mit dem Bosch Professional 18V System sowie mit vielen anderen Werkzeugen der Marken aus der Akku-Partnerschaft AMPShare kompatibel.
-- Lieferumfang: GSA 18 V-LI, Karton
+- Leichte Handhabung: Einfacher und schneller Sägeblattwechsel durch SDS-Mechanismus
 - Über 100 Fichtenbalken (100 x 100 mm) ablängen mit nur einer Akkuladung
+- Electronic Motor Protection (EMP) schützt den Motor vor Überlastung und sorgt für lange Lebensdauer
+- Lieferumfang: GSA 18 V-LI, Karton
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B001IBMO3Q{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: 51% recyceltes EVA - 49% EVA
-- Obermaterial: 63 % Textil (67 % Tencel - 29 % recyceltes PET - 4 % PU) 37 % Rindsleder
 - Better Outsoles,Natural Sustainable Innovation
 - Farbe: Dunkelgrau
+- Obermaterial: 63 % Textil (67 % Tencel - 29 % recyceltes PET - 4 % PU) 37 % Rindsleder
+- Sohle: 51% recyceltes EVA - 49% EVA
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C8K2L1HW{{</world>}}

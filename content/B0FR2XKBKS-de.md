@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Zurück mit einer Reihe von dekorativen Objekten zur Verschönerung eurer Hallen, Böden und Wände mit weitgereisten Statuen
 - Die mutigsten Abenteurer von Two Point County sind bis an die entlegensten Winkel der bekannten Landkarte gereist und nun zurück
-- Inkl. Koordinaten für ein neues Expeditionsziel im Gepäck, das ein exklusive Ausstellungsstück und Events verspricht
 - Exklusive Objekte, die eure Experten schneller wieder für neue Expeditionen reisetüchtig machen
+- Inkl. Koordinaten für ein neues Expeditionsziel im Gepäck, das ein exklusive Ausstellungsstück und Events verspricht
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FR2XKBKS{{</world>}}

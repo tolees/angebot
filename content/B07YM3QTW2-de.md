@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Das Surface Pro X Signature Keyboard wurde so entworfen, dass es sich nahezu an jeden Winkel anpasst
-- QWERTZ Keyboard
-- Das Surface Pro X Signature Keyboard verleiht alltäglichen Aufgaben eine warme, elegante und komfortable Note
 - Das schlichte und kompakte Surface Pro X Signature Keyboard funktioniert wie eine herkömmliche Laptop-Tastatur, komplett mit einem großen Trackpad für präzise Steuerung und Navigation
+- Das Surface Pro X Signature Keyboard verleiht alltäglichen Aufgaben eine warme, elegante und komfortable Note
+- QWERTZ Keyboard
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07YM3QTW2{{</world>}}

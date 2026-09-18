@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reverskragen
 - Verschluss: Knopfleiste
+- Pattentaschen
 - Passform: Slim Fit
 - lange Ärmel mit Manschetten
-- Pattentaschen
+- Reverskragen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CDH8YZCL{{</world>}}

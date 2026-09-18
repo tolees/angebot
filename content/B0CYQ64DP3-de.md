@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Reguläre Passform
+- Textilfutter
 - Obermaterial aus beschichtetem Leder
 - Schnürsenkel
-- Textilfutter
-- Reguläre Passform
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CYQ64DP3{{</world>}}

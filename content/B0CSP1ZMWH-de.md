@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Slim Fit, schmale Form
 - Schmale Jeans von Pepe
+- Slim Fit, schmale Form
 - Perfekte Passform durch den Elasthananteil
 
 [🛒 Hier!!]({{< param buyurl >}})

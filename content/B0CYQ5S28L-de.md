@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus beschichtetem Leder
-- Vulkanisierte Gummiaußensohle
-- Textilfutter
 - Schnürsenkel
+- Vulkanisierte Gummiaußensohle
 - Dämpfende Zwischensohle
+- Textilfutter
+- Obermaterial aus beschichtetem Leder
 - Reguläre Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

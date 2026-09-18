@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erstklassiges LIGHTSPEED Wireless: Extrem leistungsstarke Kompletttechnologie für reaktionsschnellen und immersiven Gaming-Audio ohne Kabel
-- Modernstes HDMI 2.1 Passthru: Liefert eine Ultra-HD-Auflösung für ein Höchstmaß an Konsolenaudio (24 Bit) und visueller Wiedergabetreue (4K 120 Hz)
-- 24 Stunden Wiedergabezeit (bei 78 dB): Viel Lebensdauer für den ganztägigen Gebrauch, immer aufgeladen. Einfach den A50 X in das magnetische Dock der Basisstation stecken
-- PLAYSYNC Simultanes Multisystem: Xbox + PS5 + PC auf einmal. Bleiben Sie mit all Ihren Plattformen in Verbindung und tippen Sie mit der On-Ear-Steuerung zwischen ihnen
-- Mikrofon in Rundfunkqualität: Klingt wie ein Profi; LIGHTSPEED-Mikrofon-Uplink mit 48 kHz voller Bandbreite erreicht ein neues Niveau an kabelloser Boom-Mikrofonqualität
-- PRO-G GRAPHENE-Audiotreiber: Bahnbrechende Klarheit und Reaktionsfähigkeit für präzise Audiotrennung, Ortung und Timing-Genauigkeit (40 mm Durchmesser)
 - Erweiterte G HUB- und Mobil-App-Steuerung: Feinabstimmung Ihres Gaming-Audioerlebnisses mit parametrischem 10-Band-EQ, Mikrofoneinstellungen, Rauschunterdrückung, Stream-Output-Mixing und mehr
+- Mikrofon in Rundfunkqualität: Klingt wie ein Profi; LIGHTSPEED-Mikrofon-Uplink mit 48 kHz voller Bandbreite erreicht ein neues Niveau an kabelloser Boom-Mikrofonqualität
+- PLAYSYNC Simultanes Multisystem: Xbox + PS5 + PC auf einmal. Bleiben Sie mit all Ihren Plattformen in Verbindung und tippen Sie mit der On-Ear-Steuerung zwischen ihnen
+- PRO-G GRAPHENE-Audiotreiber: Bahnbrechende Klarheit und Reaktionsfähigkeit für präzise Audiotrennung, Ortung und Timing-Genauigkeit (40 mm Durchmesser)
+- Modernstes HDMI 2.1 Passthru: Liefert eine Ultra-HD-Auflösung für ein Höchstmaß an Konsolenaudio (24 Bit) und visueller Wiedergabetreue (4K 120 Hz)
+- Erstklassiges LIGHTSPEED Wireless: Extrem leistungsstarke Kompletttechnologie für reaktionsschnellen und immersiven Gaming-Audio ohne Kabel
+- 24 Stunden Wiedergabezeit (bei 78 dB): Viel Lebensdauer für den ganztägigen Gebrauch, immer aufgeladen. Einfach den A50 X in das magnetische Dock der Basisstation stecken
 - Kabelloses Mischen mit zwei Geräten: Hören Sie zwei Geräte gleichzeitig; stellen Sie über LIGHTSPEED eine Verbindung zu einer Konsole Ihrer Wahl her und chatten Sie über Bluetooth von Ihrem Telefon aus
 
 [🛒 Hier!!]({{< param buyurl >}})

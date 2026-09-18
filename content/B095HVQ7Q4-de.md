@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Funko Pop ist das Spielzeug des Jahres 2018 und der Gewinner des Peoples Choice Award
-- Sammle sie alle!
-- Schauen Sie sich die anderen Figuren von Funko an
-- Die Figur ist 9 cm groß und wird in einer Sichtfenster geliefert
 - Pop! Vinyl von Funko
+- Sammle sie alle!
+- Die Figur ist 9 cm groß und wird in einer Sichtfenster geliefert
+- Funko Pop ist das Spielzeug des Jahres 2018 und der Gewinner des Peoples Choice Award
+- Schauen Sie sich die anderen Figuren von Funko an
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B095HVQ7Q4{{</world>}}

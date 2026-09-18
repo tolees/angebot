@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Optischer Alarm durch rot blinkende LEDs, 180 Grad sichtbares Stroboskoplicht
-- Hinweis: Zur Integration in das Bosch Smart Home System ist ein Bosch Smart Home Controller oder Bosch Smart Home Controller II erforderlich
 - Kabellose Außensirene mit Solarpanels für 230V bzw. 5-28V
-- Akustischer Alarm durch Sirene, 3 individuell einstellbare Lautstärkestufen (max. 100dB) verfügbar
-- Schreckt potenzielle Einbrecher durch gute Sichtbarkeit an der Außenfassade ab
 - Im Einbruchsfall löst Außensirene ein akustisches Signal über die Sirene, rot blickende LEDs, Push-Benachrichtigung aus
+- Akustischer Alarm durch Sirene, 3 individuell einstellbare Lautstärkestufen (max. 100dB) verfügbar
+- Optischer Alarm durch rot blinkende LEDs, 180 Grad sichtbares Stroboskoplicht
+- Schreckt potenzielle Einbrecher durch gute Sichtbarkeit an der Außenfassade ab
+- Hinweis: Zur Integration in das Bosch Smart Home System ist ein Bosch Smart Home Controller oder Bosch Smart Home Controller II erforderlich
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09LD81PQ3{{</world>}}

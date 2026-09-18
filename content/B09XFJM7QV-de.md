@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sena Smartphone App kompatibel. Verwalte eine Vielzahl an Einstellung bequem vom Smartphone aus.
-- ECE-zertifiziert
 - Integrierte Lautsprecher und Mikrofon. Der Helm wird einsatzbereit geliefert, keine weiteren Installationen nötig.
 - 4-Wege Bluetooth Intercom mit einer Reichweite von bis zu 900 m und einer Sprechzeit bis zu 12 Stunden.
+- Sena Smartphone App kompatibel. Verwalte eine Vielzahl an Einstellung bequem vom Smartphone aus.
+- ECE-zertifiziert
 - Bluetooth 5.0 für Smartphone-Verbindung. Verbinde dein Smarthphone um Musik und Navigationsansagen zu hören oder zu telefonieren.
 
 [🛒 Hier!!]({{< param buyurl >}})

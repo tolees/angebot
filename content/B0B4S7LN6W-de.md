@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Mit den actionreichen Erweiterungen kann die Kugelbahn noch spannender gemacht werden. Jedes Erweiterungs-Set beinhaltet ein einzigartiges Sonderbauteil mit spannenden Funktionen und eignet sich damit ideal als Ergänzung zu unseren Kugelbahn Baukästen
 - Made in Germany für ausgezeichnete Produktqualität: Alle Produkte von Hubelino werden unter höchsten Qualitätsstandards ausschließlich in Deutschland gefertigt
 - 100% kompatibel mit Bausteinen anderer Hersteller: Alle Produkte von Hubelino passen perfekt zu den Bausteinen anderer bekannter Hersteller und ergänzen dadurch den vorhandenen Bestand an Bausteinen optimal
-- Inhalt: 12 Teile (4 x Rutsche und 8 Kugeln). Die 12-teilige Rutsche Erweiterung ist nur in Verbindung mit der Hubelino Kugelbahn spielbar
 - Die Kugelbahn von Hubelino ist ein interaktives und modulares Konstruktionsspielzeug für Kinder ab 4 Jahren
-- Mit den actionreichen Erweiterungen kann die Kugelbahn noch spannender gemacht werden. Jedes Erweiterungs-Set beinhaltet ein einzigartiges Sonderbauteil mit spannenden Funktionen und eignet sich damit ideal als Ergänzung zu unseren Kugelbahn Baukästen
+- Inhalt: 12 Teile (4 x Rutsche und 8 Kugeln). Die 12-teilige Rutsche Erweiterung ist nur in Verbindung mit der Hubelino Kugelbahn spielbar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B4S7LN6W{{</world>}}

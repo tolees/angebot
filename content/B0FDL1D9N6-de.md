@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Umweltfreundliches Kältemittel R290
 - Speziell für den Einsatz in Wohnwagen und Wohnmobilen konzipiert
-- 3-in-1 Klimagerät: Kühlung, Ventilation, Entfeuchtung
 - Integrierte Kondensatverdunstung
+- 3-in-1 Klimagerät: Kühlung, Ventilation, Entfeuchtung
 - Nachtmodus für besonders leisen Betrieb während des Schlafs
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

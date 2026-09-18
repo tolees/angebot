@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zoned rubber traction
 - Softfoam+ sockliner
 - Puma branding details
+- Zoned rubber traction
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DJ96XNVM{{</world>}}

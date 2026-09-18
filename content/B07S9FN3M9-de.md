@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langärmlig mit Rundhals-Ausschnitt
 - Passform: Regular Fit, Rückenlänge bei Größe L ca. 70 cm
+- Langärmlig mit Rundhals-Ausschnitt
 - Basic Pullover in Unifarben mit tonaler Logo-Stickerei auf der Brust. Mit Rippbündchen am Saum.
 - Aus atmungsaktiver und weicher Baumwolle
 

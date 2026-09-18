@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Besonderheit: Keine Mindestbelastung; Kein Transformatorl?rm; Kein LED flackert
+- Wirkungsgrad: 95 Prozent; Flimmerfreier LED-Treiber dimmen; Wenn Sie nicht dimmen m?chten, wird dieser LED-Treiber als normales 12V AC Netzteil funktionieren, wenn Sie es an einen normalen Schalter anschlie?en
 - Dimmbar; Optimal ist eine Gangreserve von 20 Prozent
 - 11.5 V / AC (HINWEIS: Dies ist ein Wechselstrom- (AC) Transformator). Zum ?ffnen der grauen Klemme / Abdeckung einfach einen einzigen flachen Schraubendreher zwischen dem Geh?use und der grauen Abdeckung anschlie?en
-- Wirkungsgrad: 95 Prozent; Flimmerfreier LED-Treiber dimmen; Wenn Sie nicht dimmen m?chten, wird dieser LED-Treiber als normales 12V AC Netzteil funktionieren, wenn Sie es an einen normalen Schalter anschlie?en
-- Besonderheit: Keine Mindestbelastung; Kein Transformatorl?rm; Kein LED flackert
 - Unsere neueste No Load Transformer Technologie zur Beseitigung von Transformator L?rm, keine LED flackern und am besten von allen, ohne minimale Belastung.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

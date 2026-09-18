@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Jackenund Ärmelabschluss mit elastischer Binding
-- Durchgehender Frontreißverschluss. Zippergarage
-- Seitentaschen mit Reißverschluss. Details in Kontrastfarbe
 - Wärmeisolierende Wattierung an Brust und Rücken
+- Jackenund Ärmelabschluss mit elastischer Binding
+- Seitentaschen mit Reißverschluss. Details in Kontrastfarbe
+- Durchgehender Frontreißverschluss. Zippergarage
 - Ärmelund Seitenbereich mit hochelastischem Powerstretch
 
 [🛒 Hier!!]({{< param buyurl >}})

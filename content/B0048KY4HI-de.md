@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zubehör
 - STAEDTLER 8026 Fimo Modelliermasse (Mix Quick, Knethilfe)
 - 8026.06
+- Zubehör
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0048KY4HI{{</world>}}

@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Strickbündchen und elastischer Taillen- und Knöchelbereich für höheren Komfort und Bewegungsfreiheit
-- EN 1073-2 Schutz vor radioaktiv, kontaminierten Partikeln
 - Dieses Produkt ist für den Verkauf an industrielle und professionelle Kunden für den Einsatz an der Arbeitsstätte konzipiert, hergestellt, gekennzeichnet und verpackt; Es ist nicht für den Verkauf an oder den Gebrauch durch Verbraucher bestimmt
-- Antistatische Beschichtung EN 1149-5 reduziert statische Entladungen und das Risiko von Funkenbildung
-- Bietet Schutz vor gesundheitsschädlichem Staub und Flüssigkeitsspritzern in begrenztem Ausmaß in Kombination mit Komfort und hohem Schutz gemäß CE-Kategorie III, Typ 5/6.
+- EN 1073-2 Schutz vor radioaktiv, kontaminierten Partikeln
 - Weiches und leichtes, besonders fusselarmes mikroporöses Laminat, das sich dem Körper gut anpasst und für Bewegungsfreiheit sorgt
+- Bietet Schutz vor gesundheitsschädlichem Staub und Flüssigkeitsspritzern in begrenztem Ausmaß in Kombination mit Komfort und hohem Schutz gemäß CE-Kategorie III, Typ 5/6.
+- Antistatische Beschichtung EN 1149-5 reduziert statische Entladungen und das Risiko von Funkenbildung
+- Strickbündchen und elastischer Taillen- und Knöchelbereich für höheren Komfort und Bewegungsfreiheit
 - Dreiteilige Kapuze, 2-Wege-Reißverschluss mit abklebbarer Patte, elastische Einsätze an der Hüfte und den Knöcheln, um das Expositionsrisiko der Haut zu verringern
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

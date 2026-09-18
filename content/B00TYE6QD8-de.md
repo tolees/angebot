@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wird in frustfreier Verpackung verschickt
 - In Deutschland angebaut
-- Mit praktischem BVS Drehverschluss
 - Leicht zu öffnen und wiederverschließbar
+- Wird in frustfreier Verpackung verschickt
+- Mit praktischem BVS Drehverschluss
 - Moderne, internationale Rebsorte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

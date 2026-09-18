@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lieferumfang: GEX 40-150, Zusatzhandgriff, Staubbox, Schleifteller, Netzschleifblatt M480, Winkelschraubendreher, L-BOXX 238
-- Neuer Multiloch-Schleifteller: für Schleifblätter mit verschiedenen Lochrastern und eine deutlich stärkere Staubabsaugung
 - Verbesserte Schleifteller-Aufnahme: gewährleistet eine verlängerte Lebensdauer und eignet sich ideal für anspruchsvolle Aufgaben (nicht kompatibel zu Vorgänger GEX 125-150 AVE)
+- Neuer Multiloch-Schleifteller: für Schleifblätter mit verschiedenen Lochrastern und eine deutlich stärkere Staubabsaugung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08GKWXXM5{{</world>}}

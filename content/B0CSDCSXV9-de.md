@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Schwarzes Glas.
 - Mechanische Steuerung.
-- 60 cm breit.
 - Temperatur einstellbar von 30 bis 80 °C.
+- 60 cm breit.
 - Mit rutschfester Matte.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Charakter-Upgrades, neue Fähigkeiten, versteckte Level und verzweigte Lösungswege.
-- Eine denkwürdige Zusammenstellung ungewöhnlicher Schurken, Endgegner und Verbündeter.
-- Akribisch umgesetzte 8-Bit- und 16-Bit-Grafiken, -Animationen und -Hintergründe zitieren die großen Klassiker des Genres.
 - Enthält die Picnic Panic DLC!
+- Charakter-Upgrades, neue Fähigkeiten, versteckte Level und verzweigte Lösungswege.
+- Akribisch umgesetzte 8-Bit- und 16-Bit-Grafiken, -Animationen und -Hintergründe zitieren die großen Klassiker des Genres.
+- Eine denkwürdige Zusammenstellung ungewöhnlicher Schurken, Endgegner und Verbündeter.
 - Dynamisches, akrobatisches Gameplay und eine extrem saubere Steuerung, die eines epischen Ninja-Abenteuers würdig sind.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

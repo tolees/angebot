@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1-point adjustable hood
-- Backing with open 3D structure for optimal moisture-wicking and greater breathability
-- Hood with reinforced peak
 - Durable, weather-resistant 3-layer WINDSTOPPER fabric technology with PFC-free ePE membrane by GORE-TEX LABS
+- 1-point adjustable hood
+- Hood with reinforced peak
+- Backing with open 3D structure for optimal moisture-wicking and greater breathability
 - Face fabric and backing made from 100% recycled polyester
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

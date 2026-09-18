@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Auf der Empfehlungsliste zum "Spiel des Jahres 2025".
-- Liebevoll illustriertes, hochwertiges Spielmaterial mit vielen verschiedenen Charakteren.
 - Taktisches und schnelles Kartenspiel für Kenner: hoher Wiederspielreiz garantiert.
-- Gezielt Bewohner-Karten auswählen und extra Punkt-Effekte auslösen.
 - Für 2-5 Spielerinnen und Spieler ab 10 Jahren.
-- Deutsche Ausgabe, German Version.
 - Charaktere aus Schloss und Dorf strategisch kombinieren und Kombo-Effekte auslösen.
+- Deutsche Ausgabe, German Version.
+- Liebevoll illustriertes, hochwertiges Spielmaterial mit vielen verschiedenen Charakteren.
+- Gezielt Bewohner-Karten auswählen und extra Punkt-Effekte auslösen.
+- Auf der Empfehlungsliste zum "Spiel des Jahres 2025".
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DQVHNF2F{{</world>}}

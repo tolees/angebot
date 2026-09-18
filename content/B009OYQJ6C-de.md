@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Loses, mattes Puder mit federleichter Textur
 - Lässt Unebenheiten und Poren verschwinden
 - Ultrafeine Partikel für ein samtig-weiches Hautbild
-- Loses, mattes Puder mit federleichter Textur
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B009OYQJ6C{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: Karton
 - Leicht anzuwenden, effizient und vielseitig dank mehrerer Drehmomentstufen und Drehzahlregelung
-- Geeignet für große und kleine Schrauben dank Drehmomentwahl von 85, 200 oder 350 Nm
-- Unterbrechungsfreies Arbeiten mit weniger Wiederaufladen dank geringerem Stromverbrauch
 - Handliches, leistungsstarkes Werkzeug mit schmalem Kopf (131 mm), kompaktem Getriebe und effizientem bürstenlosem Motor
+- Geeignet für große und kleine Schrauben dank Drehmomentwahl von 85, 200 oder 350 Nm
+- Lieferumfang: Karton
+- Unterbrechungsfreies Arbeiten mit weniger Wiederaufladen dank geringerem Stromverbrauch
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DQV6V19L{{</world>}}

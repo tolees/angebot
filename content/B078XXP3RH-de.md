@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideal für Fitnesskurse und fürs Training zuhause
-- Gewicht aufgedruckt auf jede Endkappe; jedes Gewicht hat einen eigene Farbe
-- Sechseckige Form verhindert Wegrollen
-- Griffige Neoprenstruktur für sicheren Halt
 - 2er-Set Kurzhanteln fürs Krafttraining; Gewicht je Kurzhantel: 2 kg
+- Ideal für Fitnesskurse und fürs Training zuhause
+- Griffige Neoprenstruktur für sicheren Halt
+- Sechseckige Form verhindert Wegrollen
+- Gewicht aufgedruckt auf jede Endkappe; jedes Gewicht hat einen eigene Farbe
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B078XXP3RH{{</world>}}

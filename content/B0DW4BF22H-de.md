@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Optionales Bedienelement Smartvest Pro Funk-Bedienteil zum Aktivieren und Deaktivieren der Funk-Alarmanlage Smartvest Pro (per Zahlencode oder Chip-Schlüssel)
-- Hinterleuchtete Tasten für gute Lesbarkeit
-- Zutritt individuell nach Zeitplan steuerbar (etwa für Handwerker, Gäste, Reinigungskraft)
-- Bei jeder Interaktion klares Feedback (optisch und bei Bedarf akustisch)
-- Hinweis: Nicht kompatibel mit Smartvest (1. Gen). Einfache Installation (Schrauben, Dübel im Lieferumfang enthalten), z. B. im Flur nahe der Haustür. Batterien leicht wechselbar (inkl.), Betrieb auch per USB-C-Netzteil (5 V, 2 A) möglich
 - Eigene Taste für das Auslösen von Panik-Alarm (mit Schutz gegen unabsichtliches Auslösen)
+- Hinweis: Nicht kompatibel mit Smartvest (1. Gen). Einfache Installation (Schrauben, Dübel im Lieferumfang enthalten), z. B. im Flur nahe der Haustür. Batterien leicht wechselbar (inkl.), Betrieb auch per USB-C-Netzteil (5 V, 2 A) möglich
 - Vor Abreißen/Sabotage geschützt (löst Alarm aus)
+- Optionales Bedienelement Smartvest Pro Funk-Bedienteil zum Aktivieren und Deaktivieren der Funk-Alarmanlage Smartvest Pro (per Zahlencode oder Chip-Schlüssel)
+- Bei jeder Interaktion klares Feedback (optisch und bei Bedarf akustisch)
+- Zutritt individuell nach Zeitplan steuerbar (etwa für Handwerker, Gäste, Reinigungskraft)
+- Hinterleuchtete Tasten für gute Lesbarkeit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DW4BF22H{{</world>}}

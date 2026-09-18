@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kapuzenjackendesign
 - Bietet Tragekomfort
+- Kapuzenjackendesign
 - Lange Ärmel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

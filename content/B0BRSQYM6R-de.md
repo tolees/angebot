@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- HÖHENVERSTELLBAR - Dank der Rückenlehne und einer verstellbaren Sitzfläche kann der Kindersitz auf zwei verschiedene Höhen eingestellt werden und sorgt so für eine geeignete und flexible Sitzhöhe
 - KONFIGURIERBAR - Durch den Babysitz, das Tablett und den Küchenhelfer (separat erhältlich) lassen sich Nutzungsdauer und Anwendungsmöglichkeiten des Kinderstuhls flexibel erweitern
 - LIEFERUMFANG - Hochstuhlbasis inkl. Rückenlehne und verstellbarer Sitzfläche
 - EINFACHE MONTAGE - Der Sitz und die Rückenlehne lassen sich mit wenigen Handgriffen und ohne Werkzeug an- und abmontieren
+- HÖHENVERSTELLBAR - Dank der Rückenlehne und einer verstellbaren Sitzfläche kann der Kindersitz auf zwei verschiedene Höhen eingestellt werden und sorgt so für eine geeignete und flexible Sitzhöhe
 - PLATZSPAREND - Der Kindersitz kann platzsparend zusammengeklappt werden, wenn er nicht gebraucht wird
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eine halbe Stunde vor dem Sonnenbad eine großzügige Menge auf die trockene Haut auftragen. Alle 2 Stunden und nach dem Schwimmen, Schwitzen oder Abtrocknen erneut auftragen.
 - Ziel geschlecht: unisex
 - 100% mineralischer Sonnenschutz, der speziell für die empfindliche Haut von Kindern und Babys entwickelt wurde (ab 6 Monaten)
 - Geeignet für alle Hauttypen, auch für Haut mit Unverträglichkeiten gegenüber chemischen Filtern und/oder atopischer Haut.
-- 100% mineralischer Filter der sofort einzieht.
+- Eine halbe Stunde vor dem Sonnenbad eine großzügige Menge auf die trockene Haut auftragen. Alle 2 Stunden und nach dem Schwimmen, Schwitzen oder Abtrocknen erneut auftragen.
 - Hoher UVB/UVA-Schutz LSF 50. Bietet Schutz gegen indirekte Sonneneinstrahlung
+- 100% mineralischer Filter der sofort einzieht.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01E0PUYGK{{</world>}}

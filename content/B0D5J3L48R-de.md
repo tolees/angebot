@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Leder und Synthetik
-- Gummiaußensohle
-- Textilfutter
-- Perforierter Vorfußbereich
 - Reguläre Passform
+- Perforierter Vorfußbereich
+- Obermaterial aus Leder und Synthetik
 - Schnürsenkel
+- Textilfutter
+- Gummiaußensohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D5J3L48R{{</world>}}

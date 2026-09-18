@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Synthetik-Obermaterial
+- Textilfutter
 - Dieser stylishe Schuh mit Tennis-DNA ist teilweise aus recycelten Materialien hergestellt.
 - Frauenspezifische Passform
-- Textilfutter
-- Synthetik-Obermaterial
 - Schnürsenkel
 
 [🛒 Hier!!]({{< param buyurl >}})

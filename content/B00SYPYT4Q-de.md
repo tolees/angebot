@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hergestellt ist das Set aus hochwertigen Kunststoffen wie zum Beispiel ABS. Der Mann ist zum Spielen für Innen und Außen geeignet
+- Der Mann mit hellem Hauttyp, der Firma bruder, trägt eine dunkelbraune Hose und ein orangefarbenes Hemd
+- Weitere Fahrzeuge und Zubehör aus dem bruder Sortiment finden Sie in unserem Marken Shop. Klicken Sie dazu auf den Markennamen bruder unterhalb des Produkttitels
 - Der Kopf und die Gliedmaßen sind 3-dimensional beweglich
 - Die Hände der Figur können Gegenstände greifen oder sich an Fahrzeugen festhalten
-- Weitere Fahrzeuge und Zubehör aus dem bruder Sortiment finden Sie in unserem Marken Shop. Klicken Sie dazu auf den Markennamen bruder unterhalb des Produkttitels
-- Der Mann mit hellem Hauttyp, der Firma bruder, trägt eine dunkelbraune Hose und ein orangefarbenes Hemd
+- Hergestellt ist das Set aus hochwertigen Kunststoffen wie zum Beispiel ABS. Der Mann ist zum Spielen für Innen und Außen geeignet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00SYPYT4Q{{</world>}}

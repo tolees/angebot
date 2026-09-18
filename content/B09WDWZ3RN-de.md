@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LIEFERUMFANG - 3x COMFORT 520A Mobilteil , 1x Basisstation, 2x Ladeschale, 3x Netzteil, 1x Telefonanschlusskabel (TAE), 6x AAA-Akku, 3x Akku-Deckel, 3x Gürtelclip, 1x Kurzbedienungsanleitung
 - QUALITÄT MADE IN GERMANY - Design und Herstellung in Deutschland - die umweltfreundliche ECO DECT Technologie sorgt für einen reduzierten Energieverbrauch - Die Gigaset Comfort 520 Serie ist ein Amazon Exklusivprodukt
+- LIEFERUMFANG - 3x COMFORT 520A Mobilteil , 1x Basisstation, 2x Ladeschale, 3x Netzteil, 1x Telefonanschlusskabel (TAE), 6x AAA-Akku, 3x Akku-Deckel, 3x Gürtelclip, 1x Kurzbedienungsanleitung
 - EINFACHE INSTALLATION - Einfach die Basisstation mit der Wandtelefondose verbinden und direkt los telefonieren - profitieren Sie von einer schnellen und leichten Einrichtung Ihres neuen Telefons
 - ÜBERZEUGENDE FUNKTIONEN - Telefonieren und Freisprechen in brillanter Sprachqualität - Headset-Kompatibilität via 3,5mm Klinkenanschluss - Komfort-Anrufschutz für 150 Nummern - Großes Adressbuch
 - Sie haben Fragen zu diesem Produkt? Kontaktieren Sie den Gigaset Kundenservice unter 02871-912 912 (zum Festnetztarif Ihres Anbieters)

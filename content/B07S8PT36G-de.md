@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Modell: Sportschuh
 - Niedriger Schnitt
+- Modell: Sportschuh
 - Obermaterial aus Anzarun DNA Mesh
 - SoftFoam+: PUMAs innovative weiche Innensohle für maximalen Laufkomfort vom ersten bis zum letzen Schritt
 

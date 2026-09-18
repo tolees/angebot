@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bee Cool
-- Waterbased print
 - Regular fit
+- Waterbased print
 - Adjustability
+- Bee Cool
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09TPLKZPQ{{</world>}}

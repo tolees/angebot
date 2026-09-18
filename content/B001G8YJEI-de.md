@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Pflanzvolumen: 5l
-- Höhe: 13cm
-- raue Natursteinoptik
-- Durchmesser: 30cm
 - Wasserreservoir: 1,6l
+- Pflanzvolumen: 5l
+- Durchmesser: 30cm
+- raue Natursteinoptik
+- Höhe: 13cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001G8YJEI{{</world>}}

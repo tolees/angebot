@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- T-Shirt aus Single-Jersey-Stoff aus Baumwolle mit kleinem Logo-Print im praktischen 5er-Pack
 - 0
+- T-Shirt aus Single-Jersey-Stoff aus Baumwolle mit kleinem Logo-Print im praktischen 5er-Pack
 - Ideal zu folgenden Anlässen: Freizeit, Alltag, Sport, Urlaub, Strand, Homeoffice, Wochenende, Frühling, Sommer
-- kurzärmlig & mit Rundhalsausschnitt
 - Passform: Regular Fit - gerader Schnitt | Unser Model ist 190 cm groß und trägt Größe L
+- kurzärmlig & mit Rundhalsausschnitt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DJ3CDCCP{{</world>}}

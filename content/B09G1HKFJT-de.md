@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Lieferumfang: 1 x 240 g merci Finest Selection Black & White Vielfalt, erlesene Pralinenbox mit vier Sorten aus dunkler und weißer Schokolade zum Teilen und Verschenken
 - Für besondere Genussmomente: Die zartschmelzenden Schokopralinen sind der ideale Weg, um den Liebsten, Freunden und Kollegen einfach mal "Danke" zu sagen
 - Einzigartig schokoladig: Die merci Schokoladen-Spezialitäten mit weißer und dunkler Schokolade und aus feinsten Zutaten lassen jedes Genießerherz höherschlagen
 - Vier unwiderstehliche Sorten: Die merci Black & White Vielfalt begeistert mit den Sorten Mandel Crème, Mandel Crisp, Mousse au Chocolat und Cookies and Cream
-- Lieferumfang: 1 x 240 g merci Finest Selection Black & White Vielfalt, erlesene Pralinenbox mit vier Sorten aus dunkler und weißer Schokolade zum Teilen und Verschenken
 - Danke heißt merci: Ein Zeichen der Wertschätzung, das von Herzen kommt. Mit einer Auswahl für jeden Geschmack macht merci das Schenken zur Freude
 
 [🛒 Hier!!]({{< param buyurl >}})

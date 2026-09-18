@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideals Messer für den Haushalt und die Werkstatt
 - Abbrechklingenmesser mit extra scharfer Klinge
+- Ideals Messer für den Haushalt und die Werkstatt
 - Feststellfunktion für sicheres Arbeiten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gestapelte Fächer für verschiedene Bestecke
-- Geeignet für Schubladen mit einer Mindesthöhe von 3 ¼ Zoll (8 cm)
 - Abmessungen 39,7 x 38,4 x 5,3 cm
+- Geeignet für Schubladen mit einer Mindesthöhe von 3 ¼ Zoll (8 cm)
+- Gestapelte Fächer für verschiedene Bestecke
 - Doppelte Fächer für Gadgets
 - Großes Fach für Küchenutensilien
 

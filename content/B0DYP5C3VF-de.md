@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die innovative Ratschenmechanik ermöglicht einfaches "Zwirbeln". Ein echter Problemlöser bei fehlendem Widerstand der Schraube
 - Für präzise Arbeiten kann die Ratschenmechanik mit der 0-Position deaktiviert werden
 - Innovative Rapidaptor-Technologie für schnellen Bit-Wechsel
 - Intuitives Umschalten: Schalte ich nach rechts - schraube ich nach rechts, schalte ich nach links - schraube ich nach links
+- Die innovative Ratschenmechanik ermöglicht einfaches "Zwirbeln". Ein echter Problemlöser bei fehlendem Widerstand der Schraube
 - Die im Griff integrierte Ratsche mit Feinverzahnung sorgt für schnelles Arbeiten
 
 [🛒 Hier!!]({{< param buyurl >}})

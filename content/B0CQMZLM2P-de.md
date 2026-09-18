@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Extraweite für breite Füße
-- Flauschiges und warmes Samtvelour-Futter
 - Gepolsterte und herausnehmbare Einlegesohle
+- Flauschiges und warmes Samtvelour-Futter
+- Extraweite für breite Füße
 - Leichte und schockabsorbierende Sohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

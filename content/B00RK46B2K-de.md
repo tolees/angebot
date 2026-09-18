@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - hervorragende Belüftung durch Netzfenster und Belüftungshutzen
-- passt auf gängige Vans bis 2, 15 m Höhe
 - Innenzelt optional erhältlich
 - Klimaneutral: Die Emissionen aus Materialien, Herstellungsprozess und Versand wurden ganzheitlich ermittelt und systematisch reduziert. Aktuell nicht vermeidbare Emissionen wurden vollständig über die unabhängige Non-Profit-Organisation „myclimate“ kompensiert
 - selbststehende Konstruktion zum seitlichen und rückwärtigen Andocken an Fahrzeuge
+- passt auf gängige Vans bis 2, 15 m Höhe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00RK46B2K{{</world>}}

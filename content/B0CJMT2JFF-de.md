@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wasserabweisende Stretch-SoftShell bietet Schutz vor Wind und Wetter.
-- 100g 3M Thinsulate Isolierung auf dem Handrücken.
 - 40g 3M Thinsulate Handflächenisolierung.
+- 100g 3M Thinsulate Isolierung auf dem Handrücken.
+- Wasserabweisende Stretch-SoftShell bietet Schutz vor Wind und Wetter.
 - Das touchscreen-fähige Kunstleder bietet die perfekte Mischung aus Fingerfertigkeit und Haltbarkeit.
 - Die elastischen Stretchstulpen sorgen für einen sicheren Sitz am Handgelenk.
 

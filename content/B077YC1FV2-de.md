@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Geburt Christi: Erblicke die Ehrfurcht und das Wunder der Weihnachtsgeschichte
 - Maße: höchste 21,6 cm
 - Höhe: 14 cm
-- Geburt Christi: Erblicke die Ehrfurcht und das Wunder der Weihnachtsgeschichte
 - Die Heiligen Drei Könige: Sie folgten einem Stern und entdeckten das Licht der Welt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

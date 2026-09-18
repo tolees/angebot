@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- mit Klettverschluss für den schnellen Wechsel der Reinigungsscheibe | Durchmesser: 150 mm | Antriebsprofil: Innenvierkant | Antriebsprofilgröße, imperial: 1/2" | Antriebsprofilgröße, metrisch: 12,5 mm
-- Lieferumfang: 1 Grundgerät / Schleiftopf mit Innenvierkant | 1 Ersatz-Schleifscheibe, für Art. 70968 (Art. 70968-1)
-- zum schnellen Reinigen und Entfernen von Verschmutzungen und Rost an Radnaben und Bremsscheiben mit Radschraubenaufnahme | schnelle, saubere und rostfreie Reinigung der Auflagefläche
 - optimiert für die aktuellen Radnaben mit vergrößertem Innendurchmesser ( 90 mm) | Schleiftopf mit 12,5 mm (1/2") Innenvierkant-Aufnahme | zur Verwendung mit Schlagschraubern und Akkuschraubern (max. Drehzahl 1200 U/min)
+- Lieferumfang: 1 Grundgerät / Schleiftopf mit Innenvierkant | 1 Ersatz-Schleifscheibe, für Art. 70968 (Art. 70968-1)
 - verhindert korrosionsbedingte Verfälschung der Radanzugs-Drehmomente | leicht austauschbare und langlebige Reinigungsscheiben | geeignet für Pkw-, Transporter- und Großraumlimousinen-Radnaben bis 150 mm
+- zum schnellen Reinigen und Entfernen von Verschmutzungen und Rost an Radnaben und Bremsscheiben mit Radschraubenaufnahme | schnelle, saubere und rostfreie Reinigung der Auflagefläche
+- mit Klettverschluss für den schnellen Wechsel der Reinigungsscheibe | Durchmesser: 150 mm | Antriebsprofil: Innenvierkant | Antriebsprofilgröße, imperial: 1/2" | Antriebsprofilgröße, metrisch: 12,5 mm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BKQF195X{{</world>}}

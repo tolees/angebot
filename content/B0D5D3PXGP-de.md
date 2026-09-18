@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Brand: Hummel
-- Futter: default
-- Extras: default
-- Laufsohle: Gummi
 - Gattung: Sneaker
+- Futter: default
+- Laufsohle: Gummi
+- Brand: Hummel
+- Extras: default
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D5D3PXGP{{</world>}}

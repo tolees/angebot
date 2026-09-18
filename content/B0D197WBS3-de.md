@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rundhalsausschnitt
 - Überschnittene Schultern
 - Hauptmaterial: 70% Baumwolle / 30% Polyester(100% Recycelt) / Rib Einsatz: 95% Baumwolle / 5% Elasthan
+- Rundhalsausschnitt
 - Regulär geschnitten
 
 [🛒 Hier!!]({{< param buyurl >}})

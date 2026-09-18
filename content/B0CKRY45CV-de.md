@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reguläre Passform
-- Schnürsenkel
 - Weiches Tragegefühl
+- Schnürsenkel
 - Textilfutter
+- Reguläre Passform
 - Obermaterial aus Synthetikleder
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit regulärer Passform
 - In Eleganter Optik Look
+- Mit regulärer Passform
 - Einem angenehmen Tragegefühl und der weichen Haptik
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

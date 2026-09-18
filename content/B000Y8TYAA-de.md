@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Mit Schutzkappen auf den Spannflächen
 - Hochwertiger 2-Komponenten-Kunststoffgriff
+- Stabile Hohlprofilschiene mit Riffelung
 - Spannkraft bis zu 6.000 N
 - Werkzeuglos wechselbare Druckplatten (ab 80 mm Ausladung)
-- Stabile Hohlprofilschiene mit Riffelung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000Y8TYAA{{</world>}}

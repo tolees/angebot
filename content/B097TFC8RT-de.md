@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Hoher Tragekomfort
 - Zuglasche an der Ferse
 - Ästhetik verleihen
-- Hoher Tragekomfort
 - Traditionelle Schnürung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tineco Floor One Stretch S6 Nass Trockensauger 20Kpa，180°-Flachdesign'
-date: 2026-09-16 12:45:32
+date: 2026-09-18 00:03:33
 image: 'https://m.media-amazon.com/images/I/41wAUhqFRqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0CW1QDRVV/?tag=tolees0ca-21'
 descuento: '51.58'
-average: '227.940000000001'
+average: '224.010666666668'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

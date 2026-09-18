@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Die Kompatibilität Ihrer Sattelstütze mit hochovalen Carbon Streben ist beim Kauf vorab zu beachten.
 - Unisex Sattel. Erhältlich in den Sattelbreiten 12, 13, 14 und 15 cm, freigegeben bis zu 90 kg Fahrergewicht.
-- Flache, breitere Sattelnase für bessere Beinführung im Gelände und Kevlarverstärktes Heck.
 - Sportliche doppelstufen Sattelform (Ergowave) für perfekten Halt nach hinten und optimale Druckverteilung.
+- Flache, breitere Sattelnase für bessere Beinführung im Gelände und Kevlarverstärktes Heck.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01MZFG8EH{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Bessere Materialien
+- APLI
 - Flexible Gestaltung
 - Langlebig
 - Qualität/Haltbarkeit
-- APLI
-- Bessere Materialien
 - Kräftige Form
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

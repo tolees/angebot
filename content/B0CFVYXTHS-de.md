@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Lieferumfang: AdvancedDistance 50 C, 3x AAA-Batterien, Schutztasche, Bedienungsanleitung, E-Commerce Karton
 - Präzises Messen: Der digitale Laser-Entfernungsmesser Bosch AdvancedDistance 50 C ermöglicht das genaue und einfache Messen von Entfernungen bis 50 m. Ein Knopfdruck aktiviert den Laserpointer zum präzisen Anpeilen des Ziels
 - Anwendungskomfort: Farb-Touchscreen sorgt für einfache Bedienung und optimale Ablesbarkeit der Messergebnisse
-- Lieferumfang: AdvancedDistance 50 C, 3x AAA-Batterien, Schutztasche, Bedienungsanleitung, E-Commerce Karton
 - Konnektivität mit MeasureOn App: Einfaches Übertragen der Messdaten auf die App. Fotos hinzufügen, Grundrisse einzelner Räume zeichnen, Notizen hinzufügen und Übertragung der Messwerte des Laser-Entfernungsmessers per Bluetooth – alles an einem Ort.
 - Nachhaltigkeit: Unsere Produkte haben Nachhaltigkeitsmerkmale. Mehr Details dazu finden Sie in den Bildern.
 

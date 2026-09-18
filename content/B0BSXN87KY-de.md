@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Im Set enthalten sind neben dem Raum-Gerüst und der Baby Box Figur, 2 Möbelstücke (Riesenrad und Hamsterkätzchen im Eierkarton) sowie 2 Überraschungsboxen mit jeweils 1 Zubehörteil. Besonderes Highlight: das gebastelte Spielzeug-Hamsterkätzchen aus der Überraschungsbox kann im Riesenrad mitfahren
 - Dieses Gabbys Dollhouse Spielzeug von Spin Master ist ein tolles Geschenk zu jedem Anlass oder zum Geburtstag für Mädchen, Jungen und alle Kinder ab 3 Jahren
 - Inhalt: 1 Raum, 1 Baby Box Figur, 2 Möbelstücke (Riesenrad und Hamsterkätzchen im Eierkarton), 2 Puppenhaus-Überraschungsboxen, 2 Zubehörteile, 1 Anleitung
-- Im Set enthalten sind neben dem Raum-Gerüst und der Baby Box Figur, 2 Möbelstücke (Riesenrad und Hamsterkätzchen im Eierkarton) sowie 2 Überraschungsboxen mit jeweils 1 Zubehörteil. Besonderes Highlight: das gebastelte Spielzeug-Hamsterkätzchen aus der Überraschungsbox kann im Riesenrad mitfahren
 - Wie alle Deluxe Räume ist auch das Bastelzimmer mit Gabbys Purrfect Dollhouse Puppenhaus (separat erhältlich) kompatibel und kann einfach in die Seite des Spielzeughauses eingeschoben werden
 - In einer der Überraschungboxen befindet sich ein QR-Code – einscannen, um eine Belohnung in der kostenlosen Gabby’s Dollhouse App freizuschalten (verfügbar für iOS und Android)
 - Mit dem Deluxe Raum Craft-a-riffic-Room - Bastelzimmer mit Baby Box können die Abenteuer der DreamWorks Animationsserie Gabbys Dollhouse (auf Netflix) authentisch nachgespielt werden

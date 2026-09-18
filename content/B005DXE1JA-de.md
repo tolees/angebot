@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Fabric
 - Obermaterial: Kunstleder/PU
 - Absatzform: Reißverschluss
 - Innenmaterial: Polyester
+- Sohle: Fabric
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B005DXE1JA{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Rubber
-- Obermaterial: Smooth Leather
 - Innenmaterial: Canvas
+- Obermaterial: Smooth Leather
+- Sohle: Rubber
 - Verschluss: Lace-up
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

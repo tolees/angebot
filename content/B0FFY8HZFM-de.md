@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Android Betriebssystem
 - WLAN - Bluetooth 5.1 - GPS
-- 128 GB Speicherkapazität, 6 GB Arbeitsspeicher
 - 8 MP Rückkamera - 5 MP Frontkamera
+- 128 GB Speicherkapazität, 6 GB Arbeitsspeicher
 - 11 Zoll / 27,94 cm Multi-Touch Display
+- Android Betriebssystem
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FFY8HZFM{{</world>}}

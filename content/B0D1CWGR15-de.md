@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ECHT ITALIENISCH: Typisch italienischer Pasta-Geschmack
 - ECHT NATÜRLICH: Aus teilausgemahlenem Hartweizengrieß
+- ECHT ITALIENISCH: Typisch italienischer Pasta-Geschmack
 - IdealER GENUSS: Als Beilage zu Fleisch und Gemüse
 
 [🛒 Hier!!]({{< param buyurl >}})

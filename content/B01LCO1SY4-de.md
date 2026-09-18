@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kompakte Bauform ermöglicht den Einbau in Standard-Unterputzdosen.
-- Komfortable Steuerung direkt am Gerät über den Taster, über die Homematic IP App, per Homematic IP Fernbedienung oder Funk-Wandtaster möglich.
 - Mit entsprechendem Adapter in die gängigsten Designs führender Schalter-Hersteller integrierbar: Busch-Jaeger, Gira, Merten, Berker, Jung, Düwi, Kopp.
+- Komfortable Steuerung direkt am Gerät über den Taster, über die Homematic IP App, per Homematic IP Fernbedienung oder Funk-Wandtaster möglich.
+- Kompakte Bauform ermöglicht den Einbau in Standard-Unterputzdosen.
 - Schaltet angeschlossene Verbraucher wie z. B. Deckenleuchten und misst deren ohmsche Lasten. Einsatz in Kreuz- und Wechselschaltungen möglich.
 - Für den Betrieb ist eine Zentraler oder der Homematic IP Access Point 2 in Verbindung mit der App (Cloud-Service) notwendig
 

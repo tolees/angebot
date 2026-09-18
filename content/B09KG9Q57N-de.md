@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Lagersicherung fixiert die Pumpe zum Stapeln und Aufbewahren bündig mit dem Deckel
-- Einhandpumpe für maximale Trocknung bei minimalem Kraftaufwand
 - Einhandpumpe für maximale Trocknung bei minimalem Kraftaufwand
 - Abnehmbarer Schleuderkorb funktioniert als Sieb zum Spülen von Salat
+- Die Lagersicherung fixiert die Pumpe zum Stapeln und Aufbewahren bündig mit dem Deckel
+- Die patentierte Bremse stoppt den Korb auf einfachen Knopfdruck sofort
 - Die Lagersicherung fixiert die Pumpe zum Stapeln und Aufbewahren bündig mit dem Deckel
 - Elegante und dennoch robuste Schale aus Borosilikatglas zum Servieren oder Aufbewahren
 - Abnehmbarer Schleuderkorb funktioniert als Sieb zum Spülen von Salat
-- Die patentierte Bremse stoppt den Korb auf einfachen Knopfdruck sofort
+- Einhandpumpe für maximale Trocknung bei minimalem Kraftaufwand
 - Die patentierte Bremse stoppt den Korb auf einfachen Knopfdruck sofort
 - Elegante und dennoch robuste Schale aus Borosilikatglas zum Servieren oder Aufbewahren
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Herren Jjethan Tee Crew Neck 3pk Mp Noos T Shirt Schwarz M EU'
-date: 2026-08-18 16:26:30
+date: 2026-09-17 18:03:03
 image: 'https://m.media-amazon.com/images/I/31PWgEG8UbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0B323S1SB-de Jack & Jones Herren Jjethan Tee Crew Neck 3pk Mp Noos T...'
 sku: 'B0B323S1SB-de'
 tags: [ '🇩🇪', ]
-actualPrice: 22.4 EUR
+actualPrice: 22.83 EUR
 currency: EUR
-price: 22.4
+price: 22.83
 comparePrice: 34.99 EUR
 prodname: 'Jack & Jones Herren Jjethan Tee Crew Neck 3pk Mp Noos T Shirt Schwarz M EU'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0B323S1SB/?tag=tolees0ca-21'
-descuento: '35.98'
-average: '22.2875'
+descuento: '34.75'
+average: '22.396'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,11 +28,6 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Abgesteppter Saum/Kante
-- Weicher Griff
-- Necktape
-- Gerader Saum
-- Bündchen-/Rippstrick-Kragen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B323S1SB{{</world>}}

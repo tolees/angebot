@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BRD
-- 125
 - Masaharu Watanabe
 - Deutsch, Japanisch
+- BRD
+- 125
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07X4TSHVH{{</world>}}

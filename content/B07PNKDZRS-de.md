@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Serienfortsetzung: Direkte Nachfolge-Serie zu Dragonball Z, die die Geschichte nahtlos weiterführt
 - Originalsprache: Deutsche Synchronisation der beliebten japanischen Anime-Serie für deutschsprachige Fans
 - Bonusmaterial: Enthält einen ausführlichen Episodenguide sowie 2 exklusive Postkarten zum Sammeln
-- Volumen 4: Vierte Staffelbox der Dragonball Super TV-Serie mit weiteren spannenden Episoden
 - Format: Blu-ray Disc mit hochwertiger Bildqualität für ein optimales Seherlebnis der TV-Serie
+- Volumen 4: Vierte Staffelbox der Dragonball Super TV-Serie mit weiteren spannenden Episoden
+- Serienfortsetzung: Direkte Nachfolge-Serie zu Dragonball Z, die die Geschichte nahtlos weiterführt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07PNKDZRS{{</world>}}

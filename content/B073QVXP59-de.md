@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zu den Nudeln geben: Koche die Nudeln nach Packungsanweisung. Etwas Olivenöl in eine Pfanne geben, die Nudeln hineingeben, dann das Pesto und 1 Teelöffel des Kochwassers. Mische das Pesto unter die Nudeln und füge etwas mehr Wasser hinzu, damit das Pesto an den Nudeln haftet und eine seidige Sauce entsteht. Verwende ca. 50 g Pesto für 100 g getrocknete Nudeln
 - Schnell und einfach ist Barilla Pesto Rosso eine perfekte und vielseitige Ergänzung zu jeder Pasta-Mahlzeit, mit einem Geschmack, den jeder liebt
+- Zu den Nudeln geben: Koche die Nudeln nach Packungsanweisung. Etwas Olivenöl in eine Pfanne geben, die Nudeln hineingeben, dann das Pesto und 1 Teelöffel des Kochwassers. Mische das Pesto unter die Nudeln und füge etwas mehr Wasser hinzu, damit das Pesto an den Nudeln haftet und eine seidige Sauce entsteht. Verwende ca. 50 g Pesto für 100 g getrocknete Nudeln
 - Barilla Pesto Rosso ist glutenfrei und wird mit den frischesten Zutaten hergestellt, um dir den wahren Geschmack der italienischen Küche zu bieten
-- Barilla Pesto Rosso wird aus schmackhaften Tomaten und Balsamico-Essig Modena DOP hergestellt
 - Hergestellt aus einer köstlichen Kombination von italienischen Tomaten mit einem Hauch von Basilikum und Balsamico-Essig Modena DOP
+- Barilla Pesto Rosso wird aus schmackhaften Tomaten und Balsamico-Essig Modena DOP hergestellt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B073QVXP59{{</world>}}

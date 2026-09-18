@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Schwarz/Weiss
 - Standardpassform für ein unkompliziertes, relaxtes Tragegefühl
+- Farbe: Schwarz/Weiss
 - Hochwertige Baumwolle ist angenehm und weich auf der Haut
 - Nike Futura Logo auf der Brust für ein stylisches Design
 

@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - PUMA Cat Logodruck mit Hitzetransfer-Technik auf dem linken Bein
-- Seitentaschen
-- Elastischer Bund mit Zugband für individuellen Komfort
 - Elastische Bündchen
+- Elastischer Bund mit Zugband für individuellen Komfort
+- Seitentaschen
 - Reißverschlüsse am Bein für einfaches An- und Ausziehen
 
 [🛒 Hier!!]({{< param buyurl >}})

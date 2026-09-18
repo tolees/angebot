@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verpackungsmaße (Breite x Länge x Höhe): 224 x 550 x 70 mm; Werkzeugtasche (leer) (L x B x H): 1650 x 50 x 200 mm
-- Mit Schultergurt, um beide Hände frei zu haben
-- Praktischer Transport für Führungsschienen und passendes Zubehör
-- Lieferumfang: FSN Tasche
 - Inklusive kleiner Tasche für Winkelführung, Verbindungsstück, etc.
+- Praktischer Transport für Führungsschienen und passendes Zubehör
+- Mit Schultergurt, um beide Hände frei zu haben
+- Verpackungsmaße (Breite x Länge x Höhe): 224 x 550 x 70 mm; Werkzeugtasche (leer) (L x B x H): 1650 x 50 x 200 mm
+- Lieferumfang: FSN Tasche
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00BTD8JFA{{</world>}}

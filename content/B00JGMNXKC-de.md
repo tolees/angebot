@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Auftaufunktion. Gefrorenes Brot wird schonend aufgetaut und getoastet
 - Ganzmetallgehäuse mit 2 extra breiten schlitzen und verchromtem Temperaturregler
 - Warmhaltefunktion für bis zu 3 Minuten
-- Die Toast-/Abbruch-Funktion steuert das absenken und anheben der Toasts
 - Bräunungsgrad-Drehregler mit 7 Stufen
+- Die Toast-/Abbruch-Funktion steuert das absenken und anheben der Toasts
+- Auftaufunktion. Gefrorenes Brot wird schonend aufgetaut und getoastet
 - Bagel-Funktion
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

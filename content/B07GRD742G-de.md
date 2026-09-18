@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Lieferumfang: Aufbewahrungsbox
 - Deckelbox einfach in den Deckel der SystemBox einrasten
 - Immer gut sortiert: Nie den Überblick verlieren, nichts vergessen
-- Lieferumfang: Aufbewahrungsbox
 - Universell einsetzbar: Für Zubehör und Arbeitsmaterialien
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

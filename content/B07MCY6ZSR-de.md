@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Klassische Disney-Figuren
-- Handgefertigt und handgemalt
 - Große Geschenkidee
 - Disney Showcase Collection Figur, Multicoloured, one Size
+- Klassische Disney-Figuren
+- Handgefertigt und handgemalt
 - Branded Geschenkbox
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kratzfester Keramik-Emaille-Innenraum - besonders leicht zu reinigen
-- großer Drehteller
 - Präzise elektronische Steuerung in 5-Sekunden-Schritten
+- großer Drehteller
 - Programme: Defrost (Auftauen) - Manuell
 
 [🛒 Hier!!]({{< param buyurl >}})

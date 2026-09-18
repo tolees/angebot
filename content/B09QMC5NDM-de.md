@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Regular Fit
+- Logo Stickerei
 - Hochwertige Verarbeitung
 - Softe und atmungsaktive BOSS T-Shirts im Dreier Pack
-- Logo Stickerei
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09QMC5NDM{{</world>}}

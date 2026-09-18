@@ -29,14 +29,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Zwei‑Wege‑Audio & Schnellantworten – Direkt sprechen oder vordefinierte Nachrichten senden – praktisch, wenn Sie viel zu tun haben.
-- Bis zu 180 Tage Akkulaufzeit – Der leistungsstarke, fest verbaute Akku ermöglicht eine besonders lange Nutzung. Unterstützt Tapo Solarpanel für eine wartungsfreie Stromversorgung.
 - Kristallklare 2K‑Videoqualität – Scharfe 3 MP-Auflösung ermöglicht detaillierte Sicht und optimale Sicherheit.
-- KI‑Personenerkennung ohne Abo – Intelligente Benachrichtigungen bei Personenerkennung, ganz ohne versteckte Kosten.
-- Tapo D205 Abmessungen: 140 × 46 × 30,2 mm (H×B×T)
-- Glockenruf auf’s Smartphone – Erhält man wie einen Anruf, so dass Sie Besucher sofort hören und sehen können.
-- Flexible Speicheroptionen – Lokale Aufzeichnung via microSD (bis 512 GB) oder optionales Tapo Care‑Cloud‑Abo.
-- 160° Ultra‑Wide Sichtfeld – Erfasst den gesamten Eingangsbereich von Kopf bis Fuß ohne Tote-Winkel.
 - Kompatibel mit Tapo Hubs und Sprachassistenten – Die Türklingel kann als klassischer „Türgong“ verwendet werden und lässt sich einfach in Tapo Hubs (z. B. H500) sowie in Alexa und Google Home integrieren. So erhalten Sie Benachrichtigungen oder Türklingeltöne auf Ihren bevorzugten Geräten. Kasa HUB nicht kompatibel.
+- Glockenruf auf’s Smartphone – Erhält man wie einen Anruf, so dass Sie Besucher sofort hören und sehen können.
+- Bis zu 180 Tage Akkulaufzeit – Der leistungsstarke, fest verbaute Akku ermöglicht eine besonders lange Nutzung. Unterstützt Tapo Solarpanel für eine wartungsfreie Stromversorgung.
+- Flexible Speicheroptionen – Lokale Aufzeichnung via microSD (bis 512 GB) oder optionales Tapo Care‑Cloud‑Abo.
+- KI‑Personenerkennung ohne Abo – Intelligente Benachrichtigungen bei Personenerkennung, ganz ohne versteckte Kosten.
+- 160° Ultra‑Wide Sichtfeld – Erfasst den gesamten Eingangsbereich von Kopf bis Fuß ohne Tote-Winkel.
+- Tapo D205 Abmessungen: 140 × 46 × 30,2 mm (H×B×T)
 - Präzises Ausrichten & einfache Montage – Inklusive verstellbare Halterung bis zu 15 Grad und Befestigung mit Schrauben oder 3M‑Klebepad.
 
 [🛒 Hier!!]({{< param buyurl >}})

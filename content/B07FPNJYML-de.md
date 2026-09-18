@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- In Eleganter Optik Look
 - Mittlere Taille
-- Slim Fit mit geradem Bein
+- In Eleganter Optik Look
 - Gerade geschnittener Slim Fit
+- Slim Fit mit geradem Bein
 - Einem angenehmen Tragegefühl und der weichen Haptik
 
 [🛒 Hier!!]({{< param buyurl >}})

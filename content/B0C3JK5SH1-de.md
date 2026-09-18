@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnürsenkel
 - Textilfutter
+- Schnürsenkel
 - Obermaterial aus Leder
 - Reguläre Passform
 

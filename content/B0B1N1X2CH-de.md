@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DMX-Kristall-Außensohle aus Gummi. EVA-Zwischensohle.
 - EVA-Zwischensohle. Geriffelte Gummisohle.
 - Perforierte Details im Zehenbereich.
+- DMX-Kristall-Außensohle aus Gummi. EVA-Zwischensohle.
 - Logo-Aufdruck an der Ferse und an der Seite.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erkunde eine feindselige und tief verwobene Welt aus schattigen Wäldern, weitläufigen Ruinen und labyrinthartigen Katakomben.
 - Entdecke verborgene Schätze, die dir weiterhelfen.
-- Sammle die fehlenden Handbuchseiten voll mit Hinweisen und farbenfrohen Illustrationen.
+- Erkunde eine feindselige und tief verwobene Welt aus schattigen Wäldern, weitläufigen Ruinen und labyrinthartigen Katakomben.
 - Finde geheime Relikte, geheime Techniken, geheime Rätsel und ... Kurz gesagt: Es gibt einfach eine ganze Menge Geheimniss!
+- Sammle die fehlenden Handbuchseiten voll mit Hinweisen und farbenfrohen Illustrationen.
 - Kämpfe gegen mächtige Bosse tief unter der Erde, hoch über den Wolken und an noch seltsameren Orten.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

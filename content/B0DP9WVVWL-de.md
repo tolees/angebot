@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Maximale Wasserundurchlässigkeit und Atmungsaktivität für optimalen Schutz auch bei starkem Regen
+- Breathable
 - Herausnehmbare Innensohle
 - Kälteschutz dank optimaler thermischer Isolierung
-- Breathable
+- Maximale Wasserundurchlässigkeit und Atmungsaktivität für optimalen Schutz auch bei starkem Regen
 - Breathable
 - Verstärkte Schuhspitze und Ferse
 

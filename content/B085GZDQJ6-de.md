@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit konischer Beinform
 - Der Stretchanteil sorgt für guten Tragekomfort
 - Paspeltaschen
-- Low Rise, schmale Oberschenkel, Beinenden
 - Gut für einen lässigen Look
+- Mit konischer Beinform
+- Low Rise, schmale Oberschenkel, Beinenden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B085GZDQJ6{{</world>}}

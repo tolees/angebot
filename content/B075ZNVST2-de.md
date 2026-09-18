@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verwendung für Produkt: passend für Schneider und viele andere Füllhalter und Patronenroller
-- Schwarze Tintenpatrone Standard für Füllhalter. Nicht löschbar
 - Ausführung des Inhalts mit Packung: 1 Runddose mit 100 Standard-Tintenpatronen mit Kugelverschluss
-- Typbezeichnung der Tintenpatrone: Standardformat
 - Mit Kugelverschluss. Farbe: schwarz
+- Schwarze Tintenpatrone Standard für Füllhalter. Nicht löschbar
+- Typbezeichnung der Tintenpatrone: Standardformat
+- Verwendung für Produkt: passend für Schneider und viele andere Füllhalter und Patronenroller
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B075ZNVST2{{</world>}}

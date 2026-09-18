@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kabellose Verbindung mit einer Reichweite von 9 Metern, damit du bequem von der Couch aus spielen kannst
 - Passe dein Spielerlebnis mit zwei programmierbaren Rücktasten individuell an
 - Offiziell lizenziert von Nintendo
+- Kabellose Verbindung mit einer Reichweite von 9 Metern, damit du bequem von der Couch aus spielen kannst
 - Acht RGB-Zonen mit vier voreingestellten Modi für unendlich viele Beleuchtungskombinationen
 - Eingebauter, wiederaufladbarer 2100mAh-Akku mit bis zu 40 Stunden Spielzeit mit einer einzigen Ladung
 

@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - FORMAT: 50 Kaffeekapseln
-- ROTE KAFFEEMISCHUNG: Pure Energie im Geschmack, kräftig und cremig und gleichzeitig köstlich. Die rote Mischung hat einen starken und anhaltenden Charakter, der im Mund ein tiefes, magisches Gefühl der Freude hervorruft. Diese Mischung besteht aus sorgfältig ausgewähltem Robusta, verpackt in einer Schutzatmosphäre
-- AROMA: Eine unnachahmliche Kaffeemischung mit außergewöhnlicher Ausgewogenheit, bestehend aus: Körper: 9,5 – Intensität: 9,5 – Persistenz: 9,5 – Süße: 7 – Säure: 4
 - *Nespresso ist eine eingetragene Marke der Société des Produits Nestlè SA. Caffè Borbone Srl ist ein unabhängiger Hersteller, der nicht mit der Société des Produits Nestlè SA verbunden ist. Die Kompatibilität der Caffè Borbone-Kapseln ist für die Verwendung mit *Nespresso-Haushalts-kaffeemaschinen geeignet
 - Kapseln kompatibel mit den folgenden Kaffeemaschinenmodellen der Marke Nespresso*: Delonghi - Essenza, Essenza Mini EN85R, Citiz, Inissia, Lattissima Premium, Pixie, Prodigio Silver, U; Krups - Citiz, Essenza, Essenza Mini, Inissia, Pixie, Prodigio Titan, U; Nespresso - Essenza Mini C30 Matte Black, Lattissima One; Didiesse - Borbonita
+- ROTE KAFFEEMISCHUNG: Pure Energie im Geschmack, kräftig und cremig und gleichzeitig köstlich. Die rote Mischung hat einen starken und anhaltenden Charakter, der im Mund ein tiefes, magisches Gefühl der Freude hervorruft. Diese Mischung besteht aus sorgfältig ausgewähltem Robusta, verpackt in einer Schutzatmosphäre
+- AROMA: Eine unnachahmliche Kaffeemischung mit außergewöhnlicher Ausgewogenheit, bestehend aus: Körper: 9,5 – Intensität: 9,5 – Persistenz: 9,5 – Süße: 7 – Säure: 4
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07MQDWNNW{{</world>}}

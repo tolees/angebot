@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stoßabsorbierung
-- 130 mm
-- doppelte ALU-Schraubbefestigung
 - harte Mischung innen für guten Halt auf dem Lenker
+- Stoßabsorbierung
+- doppelte ALU-Schraubbefestigung
+- 130 mm
 - superleichte, weiche Schaumstoffauflage außen
 
 [🛒 Hier!!]({{< param buyurl >}})

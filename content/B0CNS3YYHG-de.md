@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Neue Wirkstoffgeneration der Extraklasse - Lizetan Plus wirkt effektiv und langanhaltend gegen viele saugende Schädlinge wie Blattlaus, Weiße Fliege, Zikade, Thripse, Schildläuse und Wollläuse.
-- Pflanzenschutzmittel vorsichtig verwenden. Vor Gebrauch stets Etikett und Produktinformationen lesen. Reg.-Nr.: 008252-00
-- Schnell und langanhaltend - Lizetan Plus stoppt Schädlinge bereits in der ersten Stunde und wirkt bis zu 8 Wochen. Der vollsystemische Wirkstoff verteilt sich in der gesamten Pflanze, und erfasst auch versteckt sitzende Schädlinge.
 - Einfache Anwendung - Lizetan Plus AF ist anwendungsfertig und kann mit der Pumpsprühflasche direkt und bequem auf die zu behandelnden Pflanzen aufgesprüht werden bis die befallenen Pflanzen vollständig benetzt sind.
 - Nicht bienengefährlich - der innovative, exklusive Wirkstoff neuester Generation wirkt aufgrund seiner einzigartigen Struktur gezielt gegen Schädlinge und schont gleichzeitig Nützlinge.
 - Vielseitig einsetzbar - Lizetan Plus ist sehr gut pflanzenverträglich und eignet sich daher optimal zur Blattlausbekämpfung und Schädlingsbekämpfung an Zimmerpflanzen und Zierpflanzen wie Rosen sowie Obst und Gemüse im Garten.
+- Pflanzenschutzmittel vorsichtig verwenden. Vor Gebrauch stets Etikett und Produktinformationen lesen. Reg.-Nr.: 008252-00
+- Schnell und langanhaltend - Lizetan Plus stoppt Schädlinge bereits in der ersten Stunde und wirkt bis zu 8 Wochen. Der vollsystemische Wirkstoff verteilt sich in der gesamten Pflanze, und erfasst auch versteckt sitzende Schädlinge.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CNS3YYHG{{</world>}}

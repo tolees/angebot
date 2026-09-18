@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dermatologische Expertise: Allergiegetestet. 100 % parfumfrei. Dermatologisch getestet. Augenärtztlich getestet.
-- Leichte Formel: Die Creme-Gel-Textur ist eine aufhellende Augencreme, die Feuchtigkeit spendet und die Augenpartie zum Strahlen bringt.
 - Auf wissenschaftlicher Basis: Als eine von Dermatologen geprägte Marke beginnt Cliniques Bekenntnis zu Sicherheit mit der Hautpflegewissenschaft. Deshalb entwickeln wir Produkte für alle Hauttypen, Hauttöne und Hautprobleme - Alles für Deine Haut.
 - Reichhaltige Pflege: Die cremige Augencreme versorgt die empfindliche Haut mit intensiver Feuchtigkeit und beruhigt sie.
+- Leichte Formel: Die Creme-Gel-Textur ist eine aufhellende Augencreme, die Feuchtigkeit spendet und die Augenpartie zum Strahlen bringt.
+- Dermatologische Expertise: Allergiegetestet. 100 % parfumfrei. Dermatologisch getestet. Augenärtztlich getestet.
 - Erfrischende Augencreme: Beide All About Eyes Formeln spenden Feuchtigkeit und helfen, Schwellungen zu reduzieren.
 
 [🛒 Hier!!]({{< param buyurl >}})

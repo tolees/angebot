@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 3er-Pack
 - Leicht und dünn
 - 68 % Baumwolle / 29 % recycelter Polyester / 2 % Elastan / 1 % recyceltes Nylon
-- 3er-Pack
 - Knöchellang
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Spiralbohrer für Metall, Plexiglas und Kunststoffe, Steinbohrer für Mauerwerk, Kalk-, Natur- und Kunststein, Holzbohrer für Hartholz, Weichholz und Kunststoff
 - Lieferumfang: 5 x Spiralbohrer Ø 3/4/5/6/8 mm für Metall, Plexiglas und Kunststoffe, 5 x CYL-1 Steinbohrer Ø 3/4/5/6/8 mm für Mauerwerk, Kalk-, Natur- und Kunststein, 5 x Holzbohrer Ø 3/4/5/6/8 mm für Hartholz, Weichholz und Kunststoff
-- Für alle Bohrmaschinen im handgeführten und stationären Einsatz - mit praktischem Koffer zur übersichtlicher Anordnung des Inhalts
 - Das 15tlg. Bohrer-Set von Bosch - geeignet für Bohren in Holz, Stein und Metall
+- Für alle Bohrmaschinen im handgeführten und stationären Einsatz - mit praktischem Koffer zur übersichtlicher Anordnung des Inhalts
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B003TWOOI0{{</world>}}

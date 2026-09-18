@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Puzzle vom Painter of Light Thomas Kinkade
-- SCHMIDT SPIELE Premium-Puzzles – mit Qualität, die Sie greifen können
-- 1000 Puzzleteile
 - Puzzlemaße: 69, 30 x 49, 30 cm
+- SCHMIDT SPIELE Premium-Puzzles – mit Qualität, die Sie greifen können
+- Puzzle vom Painter of Light Thomas Kinkade
 - Empfohlenes Alter: ab 12 n
+- 1000 Puzzleteile
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01N4V0F6A{{</world>}}

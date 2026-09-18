@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Synthetik
-- Absatzform: Flach
-- Passform: Regulär
-- Innenmaterial: Textil
-- Schuhweite: Normal
 - Verschluss: Gummi
+- Passform: Regulär
+- Schuhweite: Normal
+- Innenmaterial: Textil
+- Absatzform: Flach
+- Obermaterial: Synthetik
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01F53TTD0{{</world>}}

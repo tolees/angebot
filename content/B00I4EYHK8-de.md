@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zertifiziert nach Öko-Tex Standard 100 (schadstoffgeprüft), ideal für Allergiker und empfindliche Babyhaut (Produktklasse 1)
-- Besonders dicker und flauschiger Badteppich aus Baumwolle/Leinen
 - Erhältlich in der Farbe Natur, waschbar bei 30° C und trocknergeeignet
+- Besonders dicker und flauschiger Badteppich aus Baumwolle/Leinen
+- Zertifiziert nach Öko-Tex Standard 100 (schadstoffgeprüft), ideal für Allergiker und empfindliche Babyhaut (Produktklasse 1)
 - Mit extra hohen und dichten Schlaufen, extra schwer (2250 g/m²)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

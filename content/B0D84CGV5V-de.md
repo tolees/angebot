@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - LAVAZZA: Die Lavazza Gruppe ist in allen Bereichen der Kaffeeindustrie tätig und bietet ein nachhaltiges Produktmodell an, das auf Innovation, Leidenschaft und Know-How basiert
 - MISCHUNG: Diese Auswahl an Kaffee besteht aus einer Arabica- und Robusta-Mischung aus Südamerika, Afrika und Südasien
-- AROMANOTEN: Dieser entkoffeinierte Lavazza-Kaffee hat einen intensiven Geschmack mit feinen Holzaromen und einem Hauch von Kakao und Tabak und eignet sich besonders für die Zubereitung von italienischen Kaffee- und Milchgetränken, wie z.B. Cappuccino
 - INTENSITÄT: Die besten Lavazza Qualitätsbohnen werden durch einen natürlichen Prozess entkoffeiniert, eine mittel-dunkle Röstung und eine Intensität von 6/10. So wird sichergestellt, dass das volle Geschmacksprofil erhalten bleibt
+- AROMANOTEN: Dieser entkoffeinierte Lavazza-Kaffee hat einen intensiven Geschmack mit feinen Holzaromen und einem Hauch von Kakao und Tabak und eignet sich besonders für die Zubereitung von italienischen Kaffee- und Milchgetränken, wie z.B. Cappuccino
 - DECAF „MY RICH BREAK“ INTENSO: Der entkoffeinierte Lavazza Decaf „My Rick Break“ ist die perfekte Wahl für die genussvolle Kaffeepause zu jeder Tageszeit – bei vollem Aroma. 500 g ganze Bohnenpackung
 
 [🛒 Hier!!]({{< param buyurl >}})

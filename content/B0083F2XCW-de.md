@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Aufbewahrungsbeutel für schnelles und einfaches Aufräumen
-- Perfekt für kleine Kinderhände
 - 60 leuchtend bunte Mega Bloks Bausteine
+- Perfekt für kleine Kinderhände
+- Mit Aufbewahrungsbeutel für schnelles und einfaches Aufräumen
 - Passend für alle Mega Bloks Sets
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

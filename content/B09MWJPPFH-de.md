@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kurzarm
-- Hoher Tragekomfort
-- Maximaler Komfort
-- Absolute Bewegungsfreiheit
 - Normale Passform
+- Maximaler Komfort
+- Hoher Tragekomfort
+- Kurzarm
+- Absolute Bewegungsfreiheit
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09MWJPPFH{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dämpfungsaktive EVA-Laufsohle
 - Fußbett: Kork/Kautschuk
+- Dämpfungsaktive EVA-Laufsohle
 - Moderne Pantolette
 - Besten Tragekomfort
 

@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Klassische Jeanshose im Five-Pocket-Style mit seitlichen Eingriffstaschen vorne und aufgesetzten Taschen hinten. Stretch-Anteil sorgt für mehr Bewegungsfreiheit und einen angenehmen Tragekomfort;
 - Aus einem Stretch-Denim-Stoff mit recyceltem Polyester | Für ein angenehmes Tragegefühl und mehr Bewegungsfreiheit.
-- Passform: TT MARVIN Straight Fit - mittlere Leibhöhe, gerades Bein, normale Beinöffnung | Beininnenlänge bei 30L ca. 76 cm, bei 32L ca. 81 cm, bei 34L ca. 86 cm, bei 36L ca. 91 cm;
 - Mit Gürtelschlaufen & Logo-Badge hinten am Bund
+- Passform: TT MARVIN Straight Fit - mittlere Leibhöhe, gerades Bein, normale Beinöffnung | Beininnenlänge bei 30L ca. 76 cm, bei 32L ca. 81 cm, bei 34L ca. 86 cm, bei 36L ca. 91 cm;
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0F2XVTFFP{{</world>}}

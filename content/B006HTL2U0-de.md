@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochwertiges Werkzeug vom Profi
 - Oregon Tool
+- Hochwertiges Werkzeug vom Profi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B006HTL2U0{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vorrichtung für Trinksystem (deuter Streamer 3.0 - nicht enthalten!)
-- Der Brustgurt mit Signalpfeife ist stufenlos justierbarer und lässt sich abnehmen.
-- Das Gewicht des Rucksacks wird gleichmäßig durch den flexiblen Delrin U-Rahmen verteilt.
-- Die Regenhülle ist abnehmbar und kann im dafür vorgesehenen Fach verstaut werden.
 - Dank der ergonomisch geformten, leichten Netz-Hüftflossen und -Schulterträger mit Karabiner-Fixierung für Klettersteigset hast du stets alles griffbereit.
+- Die Regenhülle ist abnehmbar und kann im dafür vorgesehenen Fach verstaut werden.
+- Das Gewicht des Rucksacks wird gleichmäßig durch den flexiblen Delrin U-Rahmen verteilt.
+- Der Brustgurt mit Signalpfeife ist stufenlos justierbarer und lässt sich abnehmen.
+- Vorrichtung für Trinksystem (deuter Streamer 3.0 - nicht enthalten!)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C86DP88V{{</world>}}

@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PRODUKTION - Das Badenia Trendline Sortiment wird komplett in Deutschland entwickelt und in zertifizierten, besonders nachhaltigen Produktionsstätten in der EU produziert
-- EINFACHE HANDHABUNG - Elastische Bänder zur sicheren Befestigung an der Matratze
-- HOCHWERTIGER BEZUG - Hautsympathischer Mikrofaserbezug aus 100 Prozent Polyester, beidseitig versteppt mit 150 g/m² Klimafaser + 20 g/m² PP-Spinnvlies
-- KOMFORTABLER KERN - Komfortschaumauflage mit aufwendiger Noppenstruktur, Kernhöhe ca. 5 cm
-- OPTIMALER SCHLAFKOMFORT - Pflegeleichte Matratzenauflage mit angenehm sanfter Massagewirkung für einen besseren Liegekomfort
 - NACHHALTIGKEIT - Badenia Trendline Topper sind geprüft nach Öko-Tex Standard 100
+- EINFACHE HANDHABUNG - Elastische Bänder zur sicheren Befestigung an der Matratze
+- KOMFORTABLER KERN - Komfortschaumauflage mit aufwendiger Noppenstruktur, Kernhöhe ca. 5 cm
+- PRODUKTION - Das Badenia Trendline Sortiment wird komplett in Deutschland entwickelt und in zertifizierten, besonders nachhaltigen Produktionsstätten in der EU produziert
+- HOCHWERTIGER BEZUG - Hautsympathischer Mikrofaserbezug aus 100 Prozent Polyester, beidseitig versteppt mit 150 g/m² Klimafaser + 20 g/m² PP-Spinnvlies
+- OPTIMALER SCHLAFKOMFORT - Pflegeleichte Matratzenauflage mit angenehm sanfter Massagewirkung für einen besseren Liegekomfort
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0026IBFJO{{</world>}}

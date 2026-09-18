@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Seitliche Netzstofftasche
-- D-Ring zur Befestigung von Ausrüstung und Gegenständen
 - Zwei-Wege-Reißverschluss zum Hauptfach
+- D-Ring zur Befestigung von Ausrüstung und Gegenständen
 - Einstellbarer Schultergurt mit gebrandetem Schulterpolster, Handtragegriffe mit schließbarem Polster
 - Seitliche Reißverschlussfächer, ein Fach mit Einlage für Schuhe
 

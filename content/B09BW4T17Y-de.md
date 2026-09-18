@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Durch das Drehen der Handkurbel werden Beine, Füße und Schwanz in Bewegung gesetzt
-- Offizielles Lizenzprodukt von The Pokémon Company International
-- Ideal ab 12 Jahren; Das Spielzeug regt die Fantasie an und fördert die Problemlösungskompetenz
 - Die 1095 Bausteine und Teile sind mit allen Bausätzen von MEGA Pokémon und anderen Marken kompatibel
+- Durch das Drehen der Handkurbel werden Beine, Füße und Schwanz in Bewegung gesetzt
 - Vollständig mechanisierter Pikachu-Bausatz speziell für Erwachsene
+- Ideal ab 12 Jahren; Das Spielzeug regt die Fantasie an und fördert die Problemlösungskompetenz
+- Offizielles Lizenzprodukt von The Pokémon Company International
 - Enthält einen zusammenbaubaren Display-Ständer mit einem sich bewegenden steinigen Pfad
 
 [🛒 Hier!!]({{< param buyurl >}})

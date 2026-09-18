@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Für sofortigen Glass Shine für bis zu 5 Haarwäschen, Frizz-Kontrolle und zuverlässigen Hitzeschutz bis zu 230°C.
-- Das Vitamino Color Spectrum Glass Shine Serum schützt vor Luftfeuchtigkeit und ist mit 5% Alpha-Silane angereichert. Es bildet eine zudem Schutzschicht auf der Haaroberfläche, wenn es durch Hitze aktiviert wird.
 - 1-2 Pumpstöße für dünnes & mittleres Haar, 3-4 Stöße für dickeres Haar. Gleichmäßig verteilen. Nicht ausspülen.
+- Das Vitamino Color Spectrum Glass Shine Serum schützt vor Luftfeuchtigkeit und ist mit 5% Alpha-Silane angereichert. Es bildet eine zudem Schutzschicht auf der Haaroberfläche, wenn es durch Hitze aktiviert wird.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DSLH947Z{{</world>}}

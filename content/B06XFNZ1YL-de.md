@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Modellnummer‏: ‎ 38016-0019
 - Artikelnummer: ‎ 226927-3-59
 - Ein vielseitiger Gürtel, der elegant und praktisch ist
+- Modellnummer‏: ‎ 38016-0019
 - Jede Jeans benötigt einen hochwertigen Gürtel, der lange Verschleiß standhält
 
 [🛒 Hier!!]({{< param buyurl >}})

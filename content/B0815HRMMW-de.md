@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- In verschiedenen Farben erhältlich, Ideal für den Alltag
+- Lieferumfang: 1 x Columbia Glacial IV Fleecejacke Damen, Mit halbem Reißverschluss, Farbe: Black, Größe: XXL, Art.-Nr.: 1802201
 - Mit vorderem Halbreißverschluss für einstellbaren Wärmerückhalt
 - Stylishe Fleecejacke mit halbem Reißverschluss, um Sie an kalten Wintermorgen warm zu halten
-- Lieferumfang: 1 x Columbia Glacial IV Fleecejacke Damen, Mit halbem Reißverschluss, Farbe: Black, Größe: XXL, Art.-Nr.: 1802201
+- In verschiedenen Farben erhältlich, Ideal für den Alltag
 - Optimale Passform dank angenehmem Stretchmaterial
 
 [🛒 Hier!!]({{< param buyurl >}})

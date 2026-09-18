@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Integriert konventionelle Elektrogeräte in kompatible Smart-Home-Systeme
+- Für die Steuerung mit der LEDVANCE SMART+ App wird ein Handy oder Tablet (mit Minimum Android 8.0 oder iOS 14.0) benötigt
 - Spezielle Version für Schweiz mit Stecker Typ J
 - Einfacher Anschluss elektrischer Geräte über Standardsteckdose
-- Für die Steuerung mit der LEDVANCE SMART+ App wird ein Handy oder Tablet (mit Minimum Android 8.0 oder iOS 14.0) benötigt
-- Integriert konventionelle Elektrogeräte in kompatible Smart-Home-Systeme
 - Überwacht den Energieverbrauch der angeschlossenen Geräte und verfolgt den Energieverbrauch
 - Ermöglicht das Schalten von herkömmlichen Leuchtmitteln und anderen elektrischen Geräten
 - Die folgenden Informationen gelten für jede Einheit pro Packung

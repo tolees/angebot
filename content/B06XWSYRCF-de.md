@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stromversorgung: 15 W, Ausgangsspannung: 12 V (10,8 - 13,8 V [DC]), Ausgangsstrom: 1,25 A.
 - MeanWell HDR-15-12 Hutschienen-Netzteil
-- Länge: 90 mm, Breite: 17, 5 mm, Höhe. 54,5 mm.
 - Eingangsspannung: 85 - 264 V [AC], Wirkungsgrad: 85 %.
+- Länge: 90 mm, Breite: 17, 5 mm, Höhe. 54,5 mm.
+- Stromversorgung: 15 W, Ausgangsspannung: 12 V (10,8 - 13,8 V [DC]), Ausgangsstrom: 1,25 A.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B06XWSYRCF{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verhindert Schäden durch raues Wetter oder Hitzestyling
-- Verleiht Glanz
-- Revitalisiert, entwirrt und verleiht dem Haar Glanz.
 - Verpackung kann variieren, Rezeptur bleibt unverändert.
+- Verleiht Glanz
 - Pflegt trockenes, sprödes Haar reichhaltig mit tief eindringender Sheabutter und Ölen.
+- Revitalisiert, entwirrt und verleiht dem Haar Glanz.
+- Verhindert Schäden durch raues Wetter oder Hitzestyling
 - Pflegt, repariert und stärkt das Haar, um Spliss und Haarbruch zu reduzieren.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

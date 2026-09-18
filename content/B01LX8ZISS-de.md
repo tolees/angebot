@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Personalisierte Aufwach- und Einschlaffunktion: Simulierter Sonnenauf- und -untergang, 20 Helligkeitseinstellungen, die individuell angepasst und auf bis zu 300 Lux eingestellt werden können, sowie eine Auswahl aus 7 natürlichen Wecktönen
-- Im Lieferumfang enthalten: 1x Philips SmartSleep Wake-up Light mit einem 150 cm langen Kabel
 - Farbige Sonnenaufgangssimulation: Der Lichtwecker ändert sein Licht innerhalb von 5 bis 60 Minuten (einstellbar) von Rot zu Gelb
 - Mitternacht-Lichtfunktion und intelligente Funktionen: Das Tageslichtwecklicht nutzt ein gedämpftes, orangefarbenes Licht, das dir hilft, dich im Dunkeln zurechtzufinden; zu den smarten Funktionen gehören Schlummertaste durch Antippen, Nachttischlampe, USB-Ladefunktion und automatisch dimmbares Display
+- Im Lieferumfang enthalten: 1x Philips SmartSleep Wake-up Light mit einem 150 cm langen Kabel
 - Von Philips entwickelter Sonnenlichtwecker: Das Wake-up Light profitiert von über 100 Jahren Know-how und Erfahrung des weltweit führenden Licht-Experten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geeignet für die Herausforderungen des modernen Alltags, wie klimatisierte und beheizte Räume sowie Computerarbeit
-- Geeignet für Kontaktlinsenträger mit saisonalen Allergien
 - Lidschlag-aktivierte Feuchtigkeit für erfrischenden, ganztägigen Tragekomfort
+- Geeignet für Kontaktlinsenträger mit saisonalen Allergien
+- Geeignet für die Herausforderungen des modernen Alltags, wie klimatisierte und beheizte Räume sowie Computerarbeit
 - Scharfes, klares und konstantes Sehen - auch bei Hornhautverkrümmung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

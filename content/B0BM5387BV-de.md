@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Schwarz
 - Obermaterial: 100 % Rindsleder
+- Farbe: Schwarz
 - Sohle: 80% TPU - 20% recyceltes TPU
 - Better Leather
 

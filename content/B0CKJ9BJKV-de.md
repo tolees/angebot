@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- PUMA Branding Details
 - Normale bis schmale Passform
 - Leichtes Mesh-Obermaterial mit einer GRIPCONTROL PRO Schicht für optimale Ballkontrolle mit einem PWRTAPE Stützrahmen
-- PUMA Branding Details
 - Hohes Slip on Design
 
 [🛒 Hier!!]({{< param buyurl >}})

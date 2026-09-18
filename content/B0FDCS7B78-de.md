@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Skech-Air
-- Luftgekühlter Memory-Schaum
 - Glide-Step
 - Slip-Ins
+- Luftgekühlter Memory-Schaum
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FDCS7B78{{</world>}}

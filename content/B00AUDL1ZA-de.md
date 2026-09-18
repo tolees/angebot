@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 825
+- DVD
 - Hiroaki Miyamoto, Junji Shimizu, Kônosuke Uda, Munehisa Sakai
 - Deutsch
-- DVD
+- 825
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00AUDL1ZA{{</world>}}

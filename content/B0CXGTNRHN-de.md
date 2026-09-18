@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Textilfutter
 - Obermaterial aus Leder
+- Textilfutter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CXGTNRHN{{</world>}}

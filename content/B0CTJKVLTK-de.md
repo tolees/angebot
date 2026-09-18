@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- lange Ärmel
-- Passform: Regular Fit
-- Futter: Taftfutter
-- Pattentasche
 - Verschluss: Reißverschluss, Druckknöpfe
+- lange Ärmel
+- Pattentasche
+- Futter: Taftfutter
 - fixierte Kapuze, abnehmbares Kunstfell
+- Passform: Regular Fit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CTJKVLTK{{</world>}}

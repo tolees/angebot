@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Reichweite: ca. 3.000 Seiten (Tatsächliche Reichweite ist abhängig vom Deckungsgrad der gedruckten Seiten basierend auf ISO/IEC 19752)
 - Kompatibel mit: HP LaserJet Pro M304, M404, M428
 - Original HP Toner: Erstklassige Druckqualität, hohe Zuverlässigkeit und einfache Handhabung
 - Produktfamilie: HP 59A (CF259A) schwarz, HP 59X (CF259X) schwarz mit hoher Reichweite
-- Reichweite: ca. 3.000 Seiten (Tatsächliche Reichweite ist abhängig vom Deckungsgrad der gedruckten Seiten basierend auf ISO/IEC 19752)
 - Lieferumfang: HP 59A (CF259A) Original Toner Schwarz, Druckkassette; Recycling-Anleitung
 
 [🛒 Hier!!]({{< param buyurl >}})

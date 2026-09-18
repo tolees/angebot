@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Starke Textur auf der Zwischensohle
-- Regular Fit
 - Mit Schnürung
 - Wildleder-Overlays
+- Regular Fit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DJC6F6LN{{</world>}}

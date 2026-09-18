@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Regulär geschnitten; Hose mit mittelhohem Bund
-- Durchgehender Reißverschluss und Stehkragen
 - Jacke und Hose: Taschen auf der Vorderseite
+- Durchgehender Reißverschluss und Stehkragen
+- Regulär geschnitten; Hose mit mittelhohem Bund
 - 100 % Polyester (recycelt)
 
 [🛒 Hier!!]({{< param buyurl >}})

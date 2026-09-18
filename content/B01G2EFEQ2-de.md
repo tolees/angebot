@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- AROMA: Eine einzigartige Kaffeemischung mit außergewöhnlicher Ausgewogenheit, bestehend aus: Körper: 8 – Intensität: 7,5 – Persistenz: 7,5 – Süße: 9 – Säure: 6,5
-- Die 44 mm großen ESE-Filterpapierpads von Caffè Borbone sind zu 100 % mit allen Maschinen kompatibel, die das Easy Serving Espresso-System verwenden. Treffen Sie die richtige Wahl für eine bessere Welt: Entscheiden Sie sich für ein 100 % umweltfreundliches Produkt!
-- FORMAT: 100 Kaffeepads
-- *ESE dm 44 und *ESE sind vom EASY SERVING ESPRESSO-Konsortium eingetragene Marken. Die Produktion dieser Pads erfolgt autonom und ist weder direkt noch indirekt mit dem EASY SERVING ESPRESSO verbunden
 - GOLD-KAFFEEMISCHUNG: Perfekte Synthese zwischen Geschmack und Raffinesse, Geschmeidigkeit, Weichheit und Charakter. Die Gold-Mischung stellt selbst die anspruchsvollsten Gaumen zufrieden, die den wahren Geschmack des schönen Neapel genießen möchten. Eine clevere Auswahl an Arabica und Robusta, verpackt in einer schützenden Atmosphäre
+- AROMA: Eine einzigartige Kaffeemischung mit außergewöhnlicher Ausgewogenheit, bestehend aus: Körper: 8 – Intensität: 7,5 – Persistenz: 7,5 – Süße: 9 – Säure: 6,5
+- *ESE dm 44 und *ESE sind vom EASY SERVING ESPRESSO-Konsortium eingetragene Marken. Die Produktion dieser Pads erfolgt autonom und ist weder direkt noch indirekt mit dem EASY SERVING ESPRESSO verbunden
+- FORMAT: 100 Kaffeepads
+- Die 44 mm großen ESE-Filterpapierpads von Caffè Borbone sind zu 100 % mit allen Maschinen kompatibel, die das Easy Serving Espresso-System verwenden. Treffen Sie die richtige Wahl für eine bessere Welt: Entscheiden Sie sich für ein 100 % umweltfreundliches Produkt!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01G2EFEQ2{{</world>}}

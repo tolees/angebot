@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Schnürverschluss
 - Flacher Absatz
-- Abgerundete Zehe
 - Reguläre Passform
+- Abgerundete Zehe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DJ9RBV24{{</world>}}

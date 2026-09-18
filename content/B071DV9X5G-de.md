@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gerader Saum
-- Gerippter Ausschnitt
 - G-Star RAW Stickerei auf der Brust
+- Gerippter Ausschnitt
+- Gerader Saum
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B071DV9X5G{{</world>}}

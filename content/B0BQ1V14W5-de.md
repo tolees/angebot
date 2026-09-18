@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Espressomaschine für Espresso und Cappuccino mit 1350 W und Vintage-Design. Italienische Hochdruckpumpe mit 20-bar ForceAroma-Technologie für die beste Crema und das maximale Aroma.
-- Herausnehmbarer Wassertank mit 1,5 Litern Fassungsvermögen. Enthält Dosierlöffel mit Presser für den Kaffee. Herausnehmbare Tropfschale für eine einfache Reinigung.
 - Schnelles Aufheizen durch Thermoblock-System. PressurePro-Kontrollmanometer zur Echtzeitüberwachung des Drucks.
 - Inklusive schwenkbarem Dampfrohr mit Schutz für die Verwendung zum Milchaufschäumen, Ausgeben von heißem Wasser für Tees, Erhitzen von Flüssigkeiten und Zubereiten von Cappuccinos. Siebträgerarm mit doppeltem Auslauf und zwei Sieben für die Zubereitung von einem oder zwei Kaffees gleichzeitig.
+- Herausnehmbarer Wassertank mit 1,5 Litern Fassungsvermögen. Enthält Dosierlöffel mit Presser für den Kaffee. Herausnehmbare Tropfschale für eine einfache Reinigung.
+- Espressomaschine für Espresso und Cappuccino mit 1350 W und Vintage-Design. Italienische Hochdruckpumpe mit 20-bar ForceAroma-Technologie für die beste Crema und das maximale Aroma.
 - Energiesparsystem mit automatischer Abschaltung und Standby. Leuchtanzeige für jede Funktion. Gehäuse aus Edelstahl.
 
 [🛒 Hier!!]({{< param buyurl >}})

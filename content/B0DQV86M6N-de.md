@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sicherheit und Kontrolle durch zuschaltbare KickBack Control
-- Mit einer Kopflänge von nur 175 mm ist er kompakt und handlich beim Einsatz an engen Stellen
-- Meistert mühelos schwierige Bohranwendungen dank verbessertem Drehmoment von 65 Nm
-- Maximale Ausleuchtung dank Doppel-Arbeitslicht
 - Lieferumfang: Karton
+- Meistert mühelos schwierige Bohranwendungen dank verbessertem Drehmoment von 65 Nm
+- Sicherheit und Kontrolle durch zuschaltbare KickBack Control
+- Maximale Ausleuchtung dank Doppel-Arbeitslicht
+- Mit einer Kopflänge von nur 175 mm ist er kompakt und handlich beim Einsatz an engen Stellen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DQV86M6N{{</world>}}

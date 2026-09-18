@@ -29,15 +29,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - mit Schnellverschluss - Abschließbar
-- komplett vormontiert
-- Abklappmechanismus mit Fußpedal-Bedienung
+- Zum Transportieren von Fahrrädern auf der Anhängerkupplung
 - Max. Reifenbreite in der Schiene: Bis 2,2 Zoll
 - Eigengewicht: ca. 21kg
+- komplett vormontiert
+- Abklappmechanismus mit Fußpedal-Bedienung
+- Auch für Fahrräder mit Oversize und Y-Rahmen bis Ø6 cm geeignet
 - Faltbar - mit Transporttasche
 - Nutzlast: 60kg
 - E-Bike geeignet (Lastverteilung beachten)
-- Zum Transportieren von Fahrrädern auf der Anhängerkupplung
-- Auch für Fahrräder mit Oversize und Y-Rahmen bis Ø6 cm geeignet
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00BM5TF1M{{</world>}}

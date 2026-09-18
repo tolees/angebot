@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Laufsohle: Gummi
 - Brand: Under Armour
-- Futter: Textil
 - Extras: default
+- Futter: Textil
+- Laufsohle: Gummi
 - Gattung: Laufschuh
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

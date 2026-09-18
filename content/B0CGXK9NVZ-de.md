@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Begib dich auf eine emotional fesselnde Reise mit neuen Szenen und Charakterinteraktionen, zusätzlicher Sprachausgabe und erneuertem Soundtrack
-- Inhalt: Das Basisspiel + Aigis-Statue + Soundtrack + Artbook + Gutschein für das DLC-Paket inklusive aller zum Start verfügbaren DLCs
 - Verbringe deine Tage mit verschiedenen Aktivitäten, erkunde Tatsumi Port Island oder baue Beziehungen zu deinen Lieblingscharakteren auf
+- Inhalt: Das Basisspiel + Aigis-Statue + Soundtrack + Artbook + Gutschein für das DLC-Paket inklusive aller zum Start verfügbaren DLCs
+- Begib dich auf eine emotional fesselnde Reise mit neuen Szenen und Charakterinteraktionen, zusätzlicher Sprachausgabe und erneuertem Soundtrack
 - Baue dein optimales Team auf und führe es im Kampf, um die Schatten einer fremden Welt zu besiegen und der Wahrheit näher zu kommen
 
 [🛒 Hier!!]({{< param buyurl >}})

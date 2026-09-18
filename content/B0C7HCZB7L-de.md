@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Materialzusammensetzung: 61% Polyester, 39% Baumwolle
 - Produktart : Hoodie mit Reißverschluss
+- Materialzusammensetzung: 61% Polyester, 39% Baumwolle
 - ÄRMEL : Lange Ärmel
 - Ausschnitt : Kapuze
 

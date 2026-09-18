@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Sound wurde von renommierten Sounddesignern aus Japan und Übersee erstellt, um der Spielwelt mehr Farbe zu verleihen.
 - In einer Fantasiewelt mit riesigen Wüsten, üppigen Wäldern und unterirdischen Höhlen
+- Der Sound wurde von renommierten Sounddesignern aus Japan und Übersee erstellt, um der Spielwelt mehr Farbe zu verleihen.
 - Drei Modi, darunter einer für Anfänger
 
 [🛒 Hier!!]({{< param buyurl >}})

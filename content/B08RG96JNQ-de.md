@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stromversorgung: Batterie CR2
-- Aeotec Smart Home Hub oder anderer Zigbee Hub zusätzlich erforderlich
 - Zigbee 3.0
-- Überwachen von Bewegung and Temperatur
-- Einstellen des Winkels des Sensors über die flexible Magnethalterung
+- Stromversorgung: Batterie CR2
 - 120° Erfassungswinkel
+- Einstellen des Winkels des Sensors über die flexible Magnethalterung
+- Aeotec Smart Home Hub oder anderer Zigbee Hub zusätzlich erforderlich
+- Überwachen von Bewegung and Temperatur
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08RG96JNQ{{</world>}}

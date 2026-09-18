@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sechs Bosse & Fähigkeiten – Stelle dich riesigen Manifestationen und verbessere deine Skills, um zuvor unerreichbare Bereiche zu durchqueren
-- Lebendige Cartoon-Ästhetik – Handgezeichnete Artworks und flüssige Animationen erwecken eine verdrehte Welt der Angst zum Leben
-- Fünf surreale Welten – Erforsche Levels, die um die Themen Demütigung, Angst, Versagen, Verlust und Reue aufgebaut sind, jeweils mit eigener Atmosphäre und eigenen Herausforderungen
-- Basierend auf die berühmten Meme „This Is Fine” aus KC Greens Comicstrip, zeichnet sich durch unverwechselbare Handzeichnungen mit ausdrucksstarker Animation aus und erzählt eine komödiantische Geschichte mit witzigen Dialogen und satirischem Unterton.
 - Sammelbare Vielfalt – Finde 28 einzigartige Items und schalte 27 Perks frei, während du deine Reise durch den Geist meisterst
+- Basierend auf die berühmten Meme „This Is Fine” aus KC Greens Comicstrip, zeichnet sich durch unverwechselbare Handzeichnungen mit ausdrucksstarker Animation aus und erzählt eine komödiantische Geschichte mit witzigen Dialogen und satirischem Unterton.
+- Fünf surreale Welten – Erforsche Levels, die um die Themen Demütigung, Angst, Versagen, Verlust und Reue aufgebaut sind, jeweils mit eigener Atmosphäre und eigenen Herausforderungen
+- Lebendige Cartoon-Ästhetik – Handgezeichnete Artworks und flüssige Animationen erwecken eine verdrehte Welt der Angst zum Leben
+- Sechs Bosse & Fähigkeiten – Stelle dich riesigen Manifestationen und verbessere deine Skills, um zuvor unerreichbare Bereiche zu durchqueren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0G8KHVQBD{{</world>}}

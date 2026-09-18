@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Grosszügige pflege für ihre Lippen
-- Kälteschutz
 - Wunderwaffe für angegriffene Haut
+- Kälteschutz
+- Grosszügige pflege für ihre Lippen
 - Samtweiche Hände
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

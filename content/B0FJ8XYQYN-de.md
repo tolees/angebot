@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Leibhöhe normal
+- Aufgesetzte Gesäßtaschen
 - Five-Pocket-Hose im Straight Fit
 - Silhouette: gerade
-- Aufgesetzte Gesäßtaschen
-- Leibhöhe normal
 - Verdeckter Reißverschluss
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

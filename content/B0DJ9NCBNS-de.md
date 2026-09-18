@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flacher Absatz
 - Reguläre Passform
-- Abgerundete Zehe
 - Schnürverschluss
+- Abgerundete Zehe
+- Flacher Absatz
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DJ9NCBNS{{</world>}}

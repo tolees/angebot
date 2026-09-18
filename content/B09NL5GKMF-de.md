@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dämpfende Zwischensohle
-- Obermaterial aus Synthetikleder
 - Gummi-Cupsohle
-- Schnürsenkel
+- Obermaterial aus Synthetikleder
 - Reguläre Passform
+- Schnürsenkel
+- Dämpfende Zwischensohle
 - Textilfutter
 
 [🛒 Hier!!]({{< param buyurl >}})

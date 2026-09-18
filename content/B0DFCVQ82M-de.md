@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einzigartige Atmosphäre: Dank 16 Mio. Farben und kühlen bis warmen Weißtönen schafft das individuell anpassbare, dimmbare LED Licht für jeden Anlass die passende Stimmung
+- Einfache Installation: Die im Lieferumfang enthaltenen GU10 Spots werden in die Lampenfassungen eingesetzt, anschließend an der Decke montiert und mit der Hue App verbunden
 - Bequeme Lichtsteuerung: Kompatibel mit dem Amazon Echo Dot (3.Generation), Echo Plus und Echo Show (2.Generation) lässt sich die Hue Deckenbeleuchtung mit Sprache oder einem Klick steuern
 - Ihr Zuhause gestalten: Mit vier Spots und einer Deckenleuchte taucht die Centris von Hue jedes Zimmer in direktes und indirektes Licht und setzt tolle Akzente
-- Einfache Installation: Die im Lieferumfang enthaltenen GU10 Spots werden in die Lampenfassungen eingesetzt, anschließend an der Decke montiert und mit der Hue App verbunden
+- Einzigartige Atmosphäre: Dank 16 Mio. Farben und kühlen bis warmen Weißtönen schafft das individuell anpassbare, dimmbare LED Licht für jeden Anlass die passende Stimmung
 - Smarte Erweiterung: Die separat erhältliche Hue Bridge Steuerungszentrale kann die LED Spots zusammen mit anderen Lampen oder Zubehör steuern, automatisieren und von überall auf der Welt bedienen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

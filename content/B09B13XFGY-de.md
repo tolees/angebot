@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Steuere alles ganz einfach mit der Sonos App, deiner TV-Fernbedienung, Apple AirPlay 2 und deiner Stimme.
-- Streame Musik, Radio, Podcasts und Hörbücher über WLAN, wenn der Fernseher ausgeschaltet ist.
-- Erlebe mühelos noch mitreißenderes Entertainment mit sattem Bass, kristallklaren Dialogen und einer breiten Klangbühne.
 - Erweitere dein Sonos System später ganz einfach, um echten Surround Sound und ein beeindruckendes Multiroom Erlebnis zu genießen. Alles lässt sich ganz schnell und einfach per WLAN verbinden.
+- Streame Musik, Radio, Podcasts und Hörbücher über WLAN, wenn der Fernseher ausgeschaltet ist.
+- Steuere alles ganz einfach mit der Sonos App, deiner TV-Fernbedienung, Apple AirPlay 2 und deiner Stimme.
+- Erlebe mühelos noch mitreißenderes Entertainment mit sattem Bass, kristallklaren Dialogen und einer breiten Klangbühne.
 - Erlebe 3D Surround Sound Effekte mit Dolby Atmos.
 - Mit nur zwei Kabeln, der schrittweisen Anleitung in der Sonos App und smartem Trueplay Tuning richtest du alles ganz einfach ein.
 

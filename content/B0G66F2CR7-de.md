@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bereise die Geisterwelt in Death Howl, einem soulslike Deck-Builder
-- Inklusiv Soundtrack
 - Stelle Karten her und besiege die Geister, die in den mystischen Ländern lauern
+- Inklusiv Soundtrack
+- Bereise die Geisterwelt in Death Howl, einem soulslike Deck-Builder
 - Enthülle die Geschichte einer trauernden Mutter, die verzweifelt versucht ihren toten Sohn zurückzubringen
 
 [🛒 Hier!!]({{< param buyurl >}})

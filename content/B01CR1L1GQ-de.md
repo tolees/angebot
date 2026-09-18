@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KESPER | Schneidbrett mit Saftrille Material: Akazienholz Maße: 32 x 21 x 1 5 cm Farbe: Braun Natur | 28180'
-date: 2026-09-16 14:44:03
+date: 2026-09-17 17:45:20
 image: 'https://m.media-amazon.com/images/I/41DKHoUQmnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B01CR1L1GQ/?tag=tolees0ca-21'
 descuento: '50.45'
-average: '4.925'
+average: '4.93333333333333'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'Kärcher Hochdruckreiniger K 3 FJ Home Druck: max. 120 bar Inkl. Schaumdüse für gut haftenden Schaum und höchste Schmutzlösekraft & HomeKit gelb'
-date: 2026-08-18 11:07:49
+title: 'Kärcher Hochdruckreiniger K 3 FJ Home Druck: max. 120 bar'
+date: 2026-09-18 13:01:53
 image: 'https://m.media-amazon.com/images/I/41matHGkG8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DQ85PHLD-de Kärcher Hochdruckreiniger K 3 FJ Home Druck: max. 120 bar...'
+slug: 'B0DQ85PHLD-de Kärcher Hochdruckreiniger K 3 FJ Home Druck: max. 120 bar'
 sku: 'B0DQ85PHLD-de'
 tags: [ '🇩🇪', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99
 comparePrice: 179.99 EUR
-prodname: 'Kärcher Hochdruckreiniger K 3 FJ Home Druck: max. 120 bar Inkl. Schaumdüse für gut haftenden Schaum und höchste Schmutzlösekraft & HomeKit gelb'
+prodname: 'Kärcher Hochdruckreiniger K 3 FJ Home Druck: max. 120 bar'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
@@ -28,11 +28,6 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Foam Jet: Die Schaumdüse verteilt Reinigungsmittel als kraftvollen Schaum zur effektiven Reinigung von Terrassenbelägen oder der Autokarosserie
-- Lieferumfang: Das Set enthält den Hochdruckreiniger K 3 FJ Home, Hochdruckpistole, Hochdruckschlauch, VPS, Dreckfräser, Schaumdüse, Autoshampoo (500 ml), Flächenreiniger T 1, Reiniger „Patio & Deck"
-- Einfache Handhabung: Vario Power-Strahlrohr und Dreckfräser lassen sich einfach und sicher per Quick Connect-System auf die Hochdruckpistole aufstecken
-- Starke Reinigung: Mit bis zu 120 bar reinigt der Hochdruckreiniger K 3 FJ Home Gartengeräte, Outdoormöbel, Zäune, Steinplatten sowie Fahr- und Motorräder
-- Inklusive Home Kit: Das Set enthält den T 1 Flächenreiniger für die Reinigung größerer Flächen wie Terrassen und Gartenwege und das passende Bodenreinigungsmittel „Patio & Deck“
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DQ85PHLD{{</world>}}

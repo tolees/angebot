@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aus weichem Single-Jersey-Stoff
 - Rundhalsausschnitt | Kurzarm
+- Aus weichem Single-Jersey-Stoff
 - Basic T-Shirt mit Rundhalsausschnitt und kleiner Logo-Stickerei auf der Brust
 - Passform: Regular Fit, Rückenlänge bei Größe M ca. 72 cm
 

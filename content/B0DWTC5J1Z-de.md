@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 477,36Wh (10.200mAh) Akku mit einer langen Reichweite von bis zu 60km (abhängig von Reifenluftdruck, Straßengegebenheiten, Körpergröße & -gewicht)
-- 400 Watt Motorleistung ermöglicht Befahren von Steigungen mit bis zu 22 % sowie schnelle Beschleunigung im Sportmodus (3 Fahrmodi: Fußgänger- Standard- und Sportmodus)
-- 10" Luftreifen & Suspension-System mit hydraulischer Federrung vorne für mehr Fahrkomfort und weniger Erschütterungen
 - Mit Straßenzulassung (ABE,eKFV), Vorderrad-Trommelbremse & Hinterrad-Elektrobremse, IPX5 Schutzklasse, Front- & Rückleuchte, Reflektoren und Blinker für optimale Sicherheit
-- Fahrzeuggewicht ca. 22,3 kg (netto), 26,1 kg inkl. Verpackung – Hohe Stabilität und lange Reichweite – Vor dem Kauf Gewicht prüfen – Details und Sicherheitshinweise siehe Bedienungsanleitung
 - LED-Display zur Anzeige von Geschwindigkeit, Akkustand und Fahrmodi
+- 10" Luftreifen & Suspension-System mit hydraulischer Federrung vorne für mehr Fahrkomfort und weniger Erschütterungen
+- 477,36Wh (10.200mAh) Akku mit einer langen Reichweite von bis zu 60km (abhängig von Reifenluftdruck, Straßengegebenheiten, Körpergröße & -gewicht)
+- Fahrzeuggewicht ca. 22,3 kg (netto), 26,1 kg inkl. Verpackung – Hohe Stabilität und lange Reichweite – Vor dem Kauf Gewicht prüfen – Details und Sicherheitshinweise siehe Bedienungsanleitung
+- 400 Watt Motorleistung ermöglicht Befahren von Steigungen mit bis zu 22 % sowie schnelle Beschleunigung im Sportmodus (3 Fahrmodi: Fußgänger- Standard- und Sportmodus)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DWTC5J1Z{{</world>}}

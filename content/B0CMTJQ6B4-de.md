@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'hummel hmlLOGO Set'
-date: 2026-08-17 11:06:06
+date: 2026-09-17 16:03:07
 image: 'https://m.media-amazon.com/images/I/31bSXmsrgFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0CMTJQ6B4/?tag=tolees0ca-21'
 descuento: '33.26'
-average: '19.04'
+average: '19.23'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,9 +28,6 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Waterbased print
-- Elastic waistband
-- Regular fit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CMTJQ6B4{{</world>}}

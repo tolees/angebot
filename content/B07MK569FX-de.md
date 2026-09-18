@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einfaches Spiel für Spielanfänger
-- Ab 4 Jahren
 - Stabile Karten, extra für Kinderhände
 - Alle spielen gleichzeitig
+- Ab 4 Jahren
 - Schneller Spieleinstieg und kindgerechte Illustration
 
 [🛒 Hier!!]({{< param buyurl >}})

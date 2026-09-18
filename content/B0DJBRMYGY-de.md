@@ -30,10 +30,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Die Bespannung mit air-vent besteht aus 100 % Polyester. Sie ist mit einer Stärke von 200 g/m² sehr widerstandsfähig und verrottungsfest.
 - Handgriff mit integrierter Kurbel
-- Aluminium-Gestell anthrazitgrau pulverbeschichtet
 - Montage erforderlich
-- australisch/neuseeländischen Standard AS/NZS 433 liegt der UV-Schutz für diesen Schirm bei 50+
 - Durch Betätigen des Fußpedals am Drehgelenk lässt sich der Schirm zudem um 360° drehen
+- Aluminium-Gestell anthrazitgrau pulverbeschichtet
+- australisch/neuseeländischen Standard AS/NZS 433 liegt der UV-Schutz für diesen Schirm bei 50+
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DJBRMYGY{{</world>}}

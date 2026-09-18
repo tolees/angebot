@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Strickmuster in Rippstruktur
 - Feinstrick aus Baumwollmix
-- Troyerkragen mit Reißverschluss
 - Unser Model ist 188 cm groß und trägt Größe L
+- Troyerkragen mit Reißverschluss
+- Strickmuster in Rippstruktur
 - camel active Markenlabel am Ärmel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,16 +28,16 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Offiziell lizenziert – für Nintendo Switch – OLED-Modell, Nintendo Switch und Nintendo Switch Lite.
-- LED-Anzeige – Für Spieler-Nummer und Warnung bei niedrigem Batteriestand
-- AA-Batteriebetrieb – Spielt bis zu 40 Stunden mit neuen Alkaline-AA-Batterien* oder mit deinen eigenen, wiederaufladbaren AA-Batterien
-- Ergonomisches Design – Komfortabel für lange Spielsitzungen
-- C-Taste nicht verfügbar
-- Für Nintendo Switch 2 geeignet
-- Unterstützt nicht HD-Vibration, IR-Kamera oder Amiibo NFC
 - Bewegungssteuerung – Neige, drehe und wende dich durch den dynamischen und einzigartigen Spielspaß
+- Unterstützt nicht HD-Vibration, IR-Kamera oder Amiibo NFC
+- Offiziell lizenziert – für Nintendo Switch – OLED-Modell, Nintendo Switch und Nintendo Switch Lite.
+- C-Taste nicht verfügbar
+- LED-Anzeige – Für Spieler-Nummer und Warnung bei niedrigem Batteriestand
+- Für Nintendo Switch 2 geeignet
 - Kabellose Freiheit – Spiele kabellos mit der Nintendo Switch (OLED-Modell), Nintendo Switch und Nintendo Switch Lite
 - Intuitive Steuerung – Präzisionsangepasste Analogsticks, Steuerkreuz in voller Größe, ABXY und Schultertasten (L/R/ZL/ZR)
+- AA-Batteriebetrieb – Spielt bis zu 40 Stunden mit neuen Alkaline-AA-Batterien* oder mit deinen eigenen, wiederaufladbaren AA-Batterien
+- Ergonomisches Design – Komfortabel für lange Spielsitzungen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FN37XK8R{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit einem leichten und weichen Stoff
 - Hochwertiges T-Shirt für den Alltag
+- Mit einem leichten und weichen Stoff
 - Angenehmes Tragekomfort
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

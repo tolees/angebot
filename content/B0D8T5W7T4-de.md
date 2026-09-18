@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Bewegungssteuerung – Neige, drehe und wende dich durch den dynamischen und einzigartigen Spielspaß
 - Ergonomisches Design – Komfortabel für lange Spielsitzungen
+- 2-jährige Garantie
+- Offiziell lizenziert – für Nintendo Switch – OLED-Modell, Nintendo Switch und Nintendo Switch Lite.
+- Kabellose Freiheit – Spiele kabellos mit der Nintendo Switch (OLED-Modell), Nintendo Switch und Nintendo Switch Lite
 - Unterstützt nicht HD-Vibration, IR-Kamera oder Amiibo NFC
 - Intuitive Steuerung – Präzisionsangepasste Analogsticks, Steuerkreuz in voller Größe, ABXY und Schultertasten (L/R/ZL/ZR)
-- Kabellose Freiheit – Spiele kabellos mit der Nintendo Switch (OLED-Modell), Nintendo Switch und Nintendo Switch Lite
-- Bewegungssteuerung – Neige, drehe und wende dich durch den dynamischen und einzigartigen Spielspaß
-- Offiziell lizenziert – für Nintendo Switch – OLED-Modell, Nintendo Switch und Nintendo Switch Lite.
-- AA-Batteriebetrieb – Spielt bis zu 40 Stunden mit neuen Alkaline-AA-Batterien* oder mit deinen eigenen, wiederaufladbaren AA-Batterien
-- 2-jährige Garantie
 - LED-Anzeige – Für Spieler-Nummer und Warnung bei niedrigem Batteriestand
+- AA-Batteriebetrieb – Spielt bis zu 40 Stunden mit neuen Alkaline-AA-Batterien* oder mit deinen eigenen, wiederaufladbaren AA-Batterien
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D8T5W7T4{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfache Bedingung
-- Kompatibel mit Mares Smart, Puck Pro, Quad and Quad Air
 - Benötigt Software: Dive Organizer oder Divers Diary
-- Zum Updaten der Firmware von Smart, Puck Pro, Quad and Quad Air
+- Kompatibel mit Mares Smart, Puck Pro, Quad and Quad Air
+- Einfache Bedingung
 - Robuste Konstruktion
+- Zum Updaten der Firmware von Smart, Puck Pro, Quad and Quad Air
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01M0SUP1V{{</world>}}

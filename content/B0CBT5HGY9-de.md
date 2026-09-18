@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'JACK & JONES JPSTBRADLEY Sweat Cargo Shorts GMS JNR'
-date: 2026-08-16 14:32:54
-image: 'https://m.media-amazon.com/images/I/31PyxnA8xpL._SL500_._SL400_.jpg'
+date: 2026-09-16 21:01:19
+image: 'https://m.media-amazon.com/images/I/31OpFObhiLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0CBT5HGY9-de JACK & JONES JPSTBRADLEY Sweat Cargo Shorts GMS JNR'
 sku: 'B0CBT5HGY9-de'
 tags: [ '🇩🇪', ]
-actualPrice: 11.13 EUR
+actualPrice: 12.9 EUR
 currency: EUR
-price: 11.13
+price: 12.9
 comparePrice: 22.99 EUR
 prodname: 'JACK & JONES JPSTBRADLEY Sweat Cargo Shorts GMS JNR'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0CBT5HGY9/?tag=tolees0ca-21'
-descuento: '51.59'
-average: '11.13'
+descuento: '43.89'
+average: '12.015'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,10 +28,6 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: falscher Hosenschlitz
-- Shorts für Jungen der dänischen Marke
-- Artikeltyp: Shorts aus Fleece
-- Details: Kordelzug an der Taille, elastischer Bund
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CBT5HGY9{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Größe: 400 x 201 x 81 cm, Wasserkapazität (90%): 5700 Liter, einfacher Aufbau ohne Werkzeug
-- Anschlussmöglichkeit eines Filtersystem (Ø 32 mm), einfaches Entleeren durch integriertes Ablassventil (Gartenschlauchadapter enthalten)
 - Müheloser Abbau, Lagerung sowie Transport
-- Sichere Verbindung durch T-Verbinder, robustes, 3-lagiges DuraPlus -Material sorgt für enorme Langlebigkeit, selbstklebender Reparaturflicken, Antihaftbeschichtung
+- Anschlussmöglichkeit eines Filtersystem (Ø 32 mm), einfaches Entleeren durch integriertes Ablassventil (Gartenschlauchadapter enthalten)
 - 2 Jahre Herstellergarantie, umfangreicher Ersatzteil-Shop
+- Größe: 400 x 201 x 81 cm, Wasserkapazität (90%): 5700 Liter, einfacher Aufbau ohne Werkzeug
+- Sichere Verbindung durch T-Verbinder, robustes, 3-lagiges DuraPlus -Material sorgt für enorme Langlebigkeit, selbstklebender Reparaturflicken, Antihaftbeschichtung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B5H85K6Y{{</world>}}

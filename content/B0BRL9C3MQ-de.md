@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Unser leichter Gant Classic Herren Rundhalspullover aus Baumwolle
 - Mit Rippenbündchen an Ärmeln und Saum
 - Gant-Logostickerei auf der Brust
+- Unser leichter Gant Classic Herren Rundhalspullover aus Baumwolle
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BRL9C3MQ{{</world>}}

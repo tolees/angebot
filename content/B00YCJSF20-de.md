@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Weitere Funktionen: für 8 Personen
+- Kochfeld: Platte aus Aluguss mit Antihaftbeschichtung
 - GehAuse: Thermoplastik
 - Einstellbares Thermostat: Ja
-- Kochfeld: Platte aus Aluguss mit Antihaftbeschichtung
-- Weitere Funktionen: für 8 Personen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00YCJSF20{{</world>}}
