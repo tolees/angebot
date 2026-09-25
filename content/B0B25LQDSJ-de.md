@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - seitliche Eingriffstaschen, windfest
-- Materialzusammensetzung: Außenmaterial: 100% Polyester; Futter: 100% Polyester; Füllmaterial: 100% Polyester; Ärmel: 100% Polyester
 - Gesteppte Jacke für Herren mit Kapuze
+- Materialzusammensetzung: Außenmaterial: 100% Polyester; Futter: 100% Polyester; Füllmaterial: 100% Polyester; Ärmel: 100% Polyester
 - Reißverschluss
 
 [🛒 Hier!!]({{< param buyurl >}})

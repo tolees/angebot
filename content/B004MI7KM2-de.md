@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Damit sind Ihrer Küchenhelfer immer griffbereit aufbewahrt
 - Anzahl der Stücke: 3.0
-- Ca. 4 mm Dicke
 - Edelstahl
+- Ca. 4 mm Dicke
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B004MI7KM2{{</world>}}

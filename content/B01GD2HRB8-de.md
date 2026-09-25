@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wunderwaffe für angegriffene Haut
-- Samtweiche Hände
 - Kälteschutz
+- Samtweiche Hände
+- Wunderwaffe für angegriffene Haut
 - Grosszügige pflege für ihre Lippen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

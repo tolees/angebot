@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geschenkidee - london dry gin kommt immer gut, ob bei parties oder geselligen abenden. er ist das ideale geschenk für gin-liebhaber, die gern erfrischendes trinken
-- Serviervorschlag - genie en sie den perfekten g&t, indem sie 5cl gordons london dry gin, eis, tonic water und eine limettenspalte hinzufügen
-- Ausgezeichnet - gordons london dry ist ein mehrfach preisgekr nter gin mit einem unverwechselbaren wachholdercharakter
 - Aroma pur - frucht, wacholder und gewürze prägen das aroma. am gaumen dominieren orangen, wacholder, koriander und zimt. der abgang ist länger anhaltend. hochwertige kräuter, gewürze und sorgfältig ausgewählte toskanische wacholderbeeren verleihen einen einzigartigen geschmack
+- Ausgezeichnet - gordons london dry ist ein mehrfach preisgekr nter gin mit einem unverwechselbaren wachholdercharakter
+- Serviervorschlag - genie en sie den perfekten g&t, indem sie 5cl gordons london dry gin, eis, tonic water und eine limettenspalte hinzufügen
+- Geschenkidee - london dry gin kommt immer gut, ob bei parties oder geselligen abenden. er ist das ideale geschenk für gin-liebhaber, die gern erfrischendes trinken
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B009RUMCL4{{</world>}}

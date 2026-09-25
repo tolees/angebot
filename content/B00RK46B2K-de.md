@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Klimaneutral: Die Emissionen aus Materialien, Herstellungsprozess und Versand wurden ganzheitlich ermittelt und systematisch reduziert. Aktuell nicht vermeidbare Emissionen wurden vollständig über die unabhängige Non-Profit-Organisation „myclimate“ kompensiert
+- Innenzelt optional erhältlich
+- passt auf gängige Vans bis 2, 15 m Höhe
 - hervorragende Belüftung durch Netzfenster und Belüftungshutzen
 - selbststehende Konstruktion zum seitlichen und rückwärtigen Andocken an Fahrzeuge
-- Innenzelt optional erhältlich
-- Klimaneutral: Die Emissionen aus Materialien, Herstellungsprozess und Versand wurden ganzheitlich ermittelt und systematisch reduziert. Aktuell nicht vermeidbare Emissionen wurden vollständig über die unabhängige Non-Profit-Organisation „myclimate“ kompensiert
-- passt auf gängige Vans bis 2, 15 m Höhe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00RK46B2K{{</world>}}

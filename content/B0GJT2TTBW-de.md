@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BOARD GAME ARENA: Teste jetzt dieses Spiel auf der Plattform!
-- Jeder Zug zählt – Kluges Ausspielen der Karten und das Zurückschicken geschwächter Kombinationen bringen taktischen Tiefgang.
 - Ein Hingucker am Spieltisch – Auffälliges Design und spannende Zahlen-Mechanik machen jede Partie zu einem Highlight.
+- Jeder Zug zählt – Kluges Ausspielen der Karten und das Zurückschicken geschwächter Kombinationen bringen taktischen Tiefgang.
 - Details – 2-5 Spieler, ab 8 Jahren, 15 Minuten Spielzeit je Partie, Autor: Kei Kajino, Spiel auf Deutsch
+- BOARD GAME ARENA: Teste jetzt dieses Spiel auf der Plattform!
 - Schnell erlernt – Kurze Spielzeit, einfache Regeln und ein dynamischer Spielfluss mit Suchtfaktor.
 - Das Spiel, das alles auf den Kopf stellt – Wenn Karten auf die Hand zurückkommen, werden sie gedreht und ändern ihren Wert.
 

@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - ⚡Klein und leistungsstark⚡ Diese Steckdosenleiste hat 3 unabhängig gesteuerte Steckdosen und kann bis zu 3450 W und 15 A aufnehmen. Es hat auch USB-Hub mit 3 Ports (insgesamt 3,1A)
-- ⚡ Tasmota bereits in der Steckdosenleiste vorinstalliert⚡ Template aktiviert. Sie müssen nichts tun – einfach die Box öffnen und schon ist die Steckdosenleiste bereit für die Integration in Ihr Smart Home
-- ⚡Mehrfachsteckdose mit Messfunktion⚡ Steckdose kann Spannung, Strom und Verbrauch messen. unterstützt auch Zeitpläne und Timer
 - ⚡ Keine China-Cloud mehr ⚡ Diese Steckdosenleiste funktioniert lokal. Sie haben die volle Kontrolle darüber, was Sie kaufen. Beachten Sie, dass diese Steckdosen nicht direkt mit der Smart Life- oder Tuya-App funktionieren
 - ⚡ESP8266-Chip im Inneren⚡ Die wlan Steckdosen ist kompatibel mit Home Assistant, ioBroker, homematic ip, Google, Alexa, usw.
+- ⚡ Tasmota bereits in der Steckdosenleiste vorinstalliert⚡ Template aktiviert. Sie müssen nichts tun – einfach die Box öffnen und schon ist die Steckdosenleiste bereit für die Integration in Ihr Smart Home
+- ⚡Mehrfachsteckdose mit Messfunktion⚡ Steckdose kann Spannung, Strom und Verbrauch messen. unterstützt auch Zeitpläne und Timer
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0054PSH9C{{</world>}}

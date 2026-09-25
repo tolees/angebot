@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Built-in speaker with volume control
 - Removeable joystick
-- Officially licensed title
-- 3.5 mm headphone port to connect your headphones
 - Powered by either 4 AA batteries (not included) or by a USB-C cable (not included)
 - High resolution 2.75" full color display
+- 3.5 mm headphone port to connect your headphones
+- Officially licensed title
+- Built-in speaker with volume control
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07SXW9GJ4{{</world>}}

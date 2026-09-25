@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnürsenkel
 - Reguläre Passform
-- Obermaterial aus Leder
+- Schnürsenkel
 - Verstärkter Zehenbereich
+- Obermaterial aus Leder
 - Textilfutter
 
 [🛒 Hier!!]({{< param buyurl >}})

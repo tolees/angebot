@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- LEONINE Distribution
 - PHYSICAL_MOVIE
 - Dream Scenario UHD Mediabook
-- LEONINE Distribution
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CXXP7PNP{{</world>}}

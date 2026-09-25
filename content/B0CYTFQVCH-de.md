@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Damen VL Court Bold Shoes Off White/Collegiate Green/Bliss Lilac 36 EU'
-date: 2026-08-20 23:03:09
+date: 2026-09-21 17:52:57
 image: 'https://m.media-amazon.com/images/I/31oywUlgYaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0CYTFQVCH-de adidas Damen VL Court Bold Shoes Off White/Collegiate...'
 sku: 'B0CYTFQVCH-de'
 tags: [ '🇩🇪', ]
-actualPrice: 56.99 EUR
+actualPrice: 42.99 EUR
 currency: EUR
-price: 56.99
+price: 42.99
 comparePrice: 80.0 EUR
 prodname: 'adidas Damen VL Court Bold Shoes Off White/Collegiate Green/Bliss Lilac 36 EU'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0CYTFQVCH/?tag=tolees0ca-21'
-descuento: '28.76'
-average: '59.12'
+descuento: '46.26'
+average: '55.894'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,10 +28,6 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Leder
-- Gummiaußensohle
-- Reguläre Passform
-- Textilfutter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CYTFQVCH{{</world>}}

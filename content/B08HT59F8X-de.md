@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hervorragende Belüftung durch Airstripes-Rückensystem
-- Großes, ordnertaugliches Hauptfach mit integriertem Dokumentenfach
-- Vortasche mit Organisation und großer Öffnung für perfekte Übersicht
 - Zweites, rundum gepolstertes Hauptfach passend für 15,6 Zoll Laptop und Tablet-Fach
+- Vortasche mit Organisation und großer Öffnung für perfekte Übersicht
+- Großes, ordnertaugliches Hauptfach mit integriertem Dokumentenfach
+- Hervorragende Belüftung durch Airstripes-Rückensystem
 - Abnehmbarer Bauchgurt und verstellbarer Brustgurt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

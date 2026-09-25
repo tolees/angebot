@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sportliche Unterwäsche für Herren
 - Angenehme Passform
+- Sportliche Unterwäsche für Herren
 - Weiches Material
 - Entspannter Komfort für jeden Tag
 - Bequemer Gummibund

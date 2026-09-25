@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einfache Reinigung: Um die Arbeitsfläche und das Umfeld sauber zu halten, ist das Schleifgerät mit einem Selbststaubsammelsystem mit Duststop-Mikrofilter ausgestattet
+- Das WORX PowerShare System: Der WORX PowerShare 20 Volt Akku ist mit allen 20V WORX Geräten kompatibel - so wird nur ein Akku für mehrere Geräte benötigt
 - Ob in der Garage, im Keller oder in der Werkstatt: Der WORX Akku Detailschleifer ist vielfältig anwendbar und eignet sich ausgezeichnet zum Schleifen von Holzmöbeln, Türen, Ecken und Kanten
 - Lieferumfang: 1 x WORX WX822.9 Akku-Dreieckschleifer / Inkl. 3 x Detail Schleifpapier 140x90mm, 3 x Fingerschleifpapier 76x30mm, 1 x Staubsack, 1 x Fingerplatte / Ohne Akku und Ladegerät
-- Das WORX PowerShare System: Der WORX PowerShare 20 Volt Akku ist mit allen 20V WORX Geräten kompatibel - so wird nur ein Akku für mehrere Geräte benötigt
 - Das Klettverschluß-System sorgt für eine einfache und schnelle Blattaufnahme / Dank der geringen Eigenvibration wird ein komfortables und ermüdungsfreies Arbeiten ermöglicht
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

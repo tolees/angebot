@@ -29,12 +29,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Textilfutter
-- TPU-Außensohle
-- Schnürsenkel
 - Reguläre Passform
+- Gewicht: 319 g (Größe 42 2/3)
 - Sprengung: 6 mm (Rückfußhöhe 35 mm / Vorfußhöhe 29 mm)
 - Obermaterial aus Textil
-- Gewicht: 319 g (Größe 42 2/3)
+- TPU-Außensohle
+- Schnürsenkel
 - Cloudfoam Zwischensohle
 
 [🛒 Hier!!]({{< param buyurl >}})

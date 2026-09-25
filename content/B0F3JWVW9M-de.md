@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Süßegrad: süß
 - Aromen: traubig, exotische Früchte
+- Süßegrad: süß
 - Passt zu: asiatische Küche und Nachtisch
 - Herkunft: Deutschland
 

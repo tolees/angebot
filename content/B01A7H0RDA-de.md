@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Marvel: Captain America CW
 - POP! Vinylfigur
-- Agent 13
 - Yes
+- Agent 13
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01A7H0RDA{{</world>}}

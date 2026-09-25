@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Langlebig
 - Qualität/Haltbarkeit
-- Art.-Nr. 5650
 - Robustheit
+- Art.-Nr. 5650
 - Flexible Gestaltung
 
 [🛒 Hier!!]({{< param buyurl >}})

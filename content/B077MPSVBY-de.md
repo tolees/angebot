@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Unisex Puma Smash v2 L Low-Top Puma White-Puma Black 36 EU'
-date: 2026-08-22 13:50:06
+date: 2026-09-23 07:20:17
 image: 'https://m.media-amazon.com/images/I/31ENeuDizkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B077MPSVBY-de PUMA Unisex Puma Smash v2 L Low-Top Puma White-Puma Black...'
 sku: 'B077MPSVBY-de'
 tags: [ '🇩🇪', ]
-actualPrice: 38.37 EUR
+actualPrice: 30.82 EUR
 currency: EUR
-price: 38.37
+price: 30.82
 comparePrice: 54.95 EUR
 prodname: 'PUMA Unisex Puma Smash v2 L Low-Top Puma White-Puma Black 36 EU'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B077MPSVBY/?tag=tolees0ca-21'
-descuento: '30.17'
-average: '29.3519354838709'
+descuento: '43.91'
+average: '29.440909090909'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,9 +28,6 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- zeitlose Klassiker
-- weiterentwickelte Laufsohle mit klarem Design
-- Obermaterial aus weichem Leder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B077MPSVBY{{</world>}}

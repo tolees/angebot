@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Material: Kunststoff
-- LEGO Star Wars Millennium Falcon Holiday Diorama
 - Bildungsziel: Kreatives Denken
-- Hersteller Mindestalter : 96,0
 - Anzahl der Teile: 282
+- LEGO Star Wars Millennium Falcon Holiday Diorama
+- Material: Kunststoff
+- Hersteller Mindestalter : 96,0
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CJYD7TCX{{</world>}}

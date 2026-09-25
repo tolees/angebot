@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Enthält das komplette Basisspiel und die 6 offiziellen Erweiterungen: Automatron, Wasteland Workshop, Far Harbor, Contraptions Workshop, Vault-Tec Workshop und Nuka-World.
-- Entdecke obendrein über 150 Gegenstände aus dem Creation Club, darunter einzigartige Waffen, Powerrüstungs-Sets, Bau-Packs, Lackierungen und einzigartige Behausungen. Du kannst sogar Dogmeat das Aussehen einer anderen Rasse verleihen, um dein Abenteuer im Commonwealth noch weiter zu verbessern.
 - Das Ödland wartet darauf, erneut von dir entdeckt zu werden.
 - Feiere ein Jahrzehnt voller Abenteuer, Überlebenskampf und Entscheidungsfreiheit in einer Welt, die sich für immer verändert hat.
 - Die Fallout 4: Anniversary Edition vereint das komplette postnukleare Epos in einem ultimativen Paket.
+- Entdecke obendrein über 150 Gegenstände aus dem Creation Club, darunter einzigartige Waffen, Powerrüstungs-Sets, Bau-Packs, Lackierungen und einzigartige Behausungen. Du kannst sogar Dogmeat das Aussehen einer anderen Rasse verleihen, um dein Abenteuer im Commonwealth noch weiter zu verbessern.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0GN24VQ18{{</world>}}

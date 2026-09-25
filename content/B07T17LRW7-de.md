@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Brand: UNIVERSAL INT. MUSIC
 - Artikelname: Threads 2lp Vinyl LP
+- Brand: UNIVERSAL INT. MUSIC
 - Produktart: ABIS_MUSIC
 
 [🛒 Hier!!]({{< param buyurl >}})

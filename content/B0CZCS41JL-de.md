@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mittelstark vorgeformter Schirm
-- 100 % Polyester (recycelt)
 - Einheitsgröße
+- 100 % Polyester (recycelt)
+- Mittelstark vorgeformter Schirm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CZCS41JL{{</world>}}

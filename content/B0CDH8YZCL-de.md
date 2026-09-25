@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Passform: Slim Fit
 - Verschluss: Knopfleiste
+- lange Ärmel mit Manschetten
 - Reverskragen
 - Pattentaschen
-- Passform: Slim Fit
-- lange Ärmel mit Manschetten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CDH8YZCL{{</world>}}

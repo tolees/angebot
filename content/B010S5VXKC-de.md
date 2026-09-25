@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geeignet für Waschmaschine und Trockner; Maße: 30 x 30 cm
-- Weich genug zur Verwendung im Gesicht und saugfähig genug für Reinigungsarbeiten im Haushalt
 - Verstärkte Kanten verhindern, dass die Nähte auftrennen
+- Weich genug zur Verwendung im Gesicht und saugfähig genug für Reinigungsarbeiten im Haushalt
+- Geeignet für Waschmaschine und Trockner; Maße: 30 x 30 cm
 - Robust, sehr saugfähig und schnelltrocknend dank 100% Baumwollfrottee im Schlingen-Design
 - 24er-Pack Waschlappen für Zuhause, das Büro oder das Fitnessstudio
 

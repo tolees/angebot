@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Gummi
 - Obermaterial: Synthetik
+- Verschluss: Gummi
 - Innenmaterial: Synthetik
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

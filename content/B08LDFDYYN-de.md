@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Baumwolle
-- Ärmel mit Rippbündchen, hat eine Knopfleiste, hat kurze Ärmel
-- mit regulärer Passform
-- mit Polokragen
 - aus Piqué
+- mit Polokragen
+- mit regulärer Passform
+- Ärmel mit Rippbündchen, hat eine Knopfleiste, hat kurze Ärmel
+- Baumwolle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08LDFDYYN{{</world>}}

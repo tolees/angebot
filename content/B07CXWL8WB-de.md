@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verlegekabel werden per Kabelbinder am Gehäuse fixiert, idealer Halt
 - Modulare Patchpanel sind perfekt für die vorbereitete Standard-Installationen
-- Erdungs-Set im Lieferumfang enthalten
 - Angeschlossene Montagekabel und Ethernetkabel sorgen für eine zuverlässige Übertragung aller Geräte
 - Für Keystone Module geeignet und mit zentralem Erdungsanschluss
+- Verlegekabel werden per Kabelbinder am Gehäuse fixiert, idealer Halt
+- Erdungs-Set im Lieferumfang enthalten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07CXWL8WB{{</world>}}

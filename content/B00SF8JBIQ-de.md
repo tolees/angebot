@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mid waist
 - Eng anliegender Bund
+- Mid waist
 - Eng anliegend vom Oberschenkel bis zum Saum
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

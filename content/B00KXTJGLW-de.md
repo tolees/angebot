@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Markante Details der Marke
 - Lieferumfang: 1 Stück
+- Markante Details der Marke
 - Einfach zu bedienen
 - Hochwertiges Material
 

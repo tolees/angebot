@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das strategische, rundenbasierte Kampfsystem des Originals wurde mit einem Zeitlinien-System weiter verbessert
-- Deine Taten und Entscheidungen werden den Verlauf der Geschichte auf dramatische Weise beeinflussen
-- Verbünde dich mit Charakteren aus über 30 Klassen, jeweils mit bevorzugten Waffen, einzigartigen Fähigkeiten und effektiven Taktiken
 - Drei Schwierigkeitsstufen stehen zur Auswahl: Entspannt, Normal oder Schwer
+- Verbünde dich mit Charakteren aus über 30 Klassen, jeweils mit bevorzugten Waffen, einzigartigen Fähigkeiten und effektiven Taktiken
+- Deine Taten und Entscheidungen werden den Verlauf der Geschichte auf dramatische Weise beeinflussen
+- Das strategische, rundenbasierte Kampfsystem des Originals wurde mit einem Zeitlinien-System weiter verbessert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D7H2DGL2{{</world>}}

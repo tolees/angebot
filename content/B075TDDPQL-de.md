@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Synthetik
 - Verschluss: Drei Gurt
 - Absatzform: Flach
-- Innenmaterial: Synthetik
 - Sohle: Gummi
+- Innenmaterial: Synthetik
+- Obermaterial: Synthetik
 - Nicht Wasserfest
 
 [🛒 Hier!!]({{< param buyurl >}})

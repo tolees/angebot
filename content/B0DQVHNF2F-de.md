@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Taktisches und schnelles Kartenspiel für Kenner: hoher Wiederspielreiz garantiert.
 - Charaktere aus Schloss und Dorf strategisch kombinieren und Kombo-Effekte auslösen.
-- Liebevoll illustriertes, hochwertiges Spielmaterial mit vielen verschiedenen Charakteren.
-- Für 2-5 Spielerinnen und Spieler ab 10 Jahren.
-- Deutsche Ausgabe, German Version.
+- Taktisches und schnelles Kartenspiel für Kenner: hoher Wiederspielreiz garantiert.
 - Auf der Empfehlungsliste zum "Spiel des Jahres 2025".
+- Liebevoll illustriertes, hochwertiges Spielmaterial mit vielen verschiedenen Charakteren.
+- Deutsche Ausgabe, German Version.
+- Für 2-5 Spielerinnen und Spieler ab 10 Jahren.
 - Gezielt Bewohner-Karten auswählen und extra Punkt-Effekte auslösen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

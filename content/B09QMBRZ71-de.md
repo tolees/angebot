@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100 percent Baumwolle, höchster Tragecomfort und optimale Passform
-- BOSS Round-Neck T-Shirt Classic im 3er Pack, Regular Fit
 - Maschinenwaschbar bei 40°C
 - BCI Cotton - nachhaltige Produktion der Baumwolle
+- 100 percent Baumwolle, höchster Tragecomfort und optimale Passform
 - Klares Design, BOSS Logo auf der Brust
+- BOSS Round-Neck T-Shirt Classic im 3er Pack, Regular Fit
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09QMBRZ71{{</world>}}

@@ -28,16 +28,16 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- NOTHING X APP: Mit der Nothing X-App hast du die volle Kontrolle darüber, wie deine Musik klingt. Nutze den erweiterten 8-Band-Equalizer, um ein maßgeschneidertes Soundprofil zu erstellen, sodass deine Tracks klingen, wie es für dich am besten ist. Wenn du nicht sicher bist, wie du deine Sounds abstimmen sollst, kannst du über QR-Codes in der App Profile anderer Nutzer hochladen.
-- ANC: Ear (3) rekalibriert die Adaptive Noise Cancellation in Echtzeit biz zu 45 DB, prüft alle 600 ms deine Umgebung und überwacht den Geräuschpegel, um sicherzustellen, dass dein Sound überall klar und fokussiert bleibt. Transparency Mode dabei, zu hören, was um dich herum passiert.
-- SUPER MIC: Im Ladecase von Ear (3) steckt ein neuartiges Dual-Mikrofonsystem mit Umgebungsfilterung. Es fokussiert sich auf deine Stimme und blendet Umgebungsgeräusche bis zu 95 dB aus – für kristallklare Telefonate und Sprachnotizen
-- INTELLIGENZ: Halte Ideen, Gedanken und To-dos fest, sobald sie dir einfallen. Nimm mit Super Mic eine Sprachnotiz auf und Essential Space transkribiert sie automatisch, damit Inspiration nie verloren geht
-- HALTBARKEIT: Ear (3) wurde für dich und deinen Alltag entwickelt. Staub- und schweißresistent, leicht regenfest, IP54-zertifiziert. Immer zuverlässig. Leicht, robust und immer dabei.
-- AKKU: Genießt du bis zu 5,5 Stunden Musik mit Adaptive Noise Cancellation. Das Ladecase verlängert die Gesamtlaufzeit auf 22 Stunden – kabellos, dank integriertem Wireless Charging.Bis zu 38 Stunden mit ANC AUS
-- PERSONAL SOUND: Ein kurzer Hörtest in der Nothing X App genügt, und Ear (3) erstellt ein Personal Sound-Profil, das exakt auf dein Gehör abgestimmt ist. So klingt alles perfekt für dich.
 - SPATIAL AUDIO: Musik und Filme werden mit Static Spatial Audio zum einmaligen Erlebnis. Die Funktion erzeugt eine 3D-Soundlandschaft, die dich in den Mittelpunkt des Klangs stellt.
+- ANC: Ear (3) rekalibriert die Adaptive Noise Cancellation in Echtzeit biz zu 45 DB, prüft alle 600 ms deine Umgebung und überwacht den Geräuschpegel, um sicherzustellen, dass dein Sound überall klar und fokussiert bleibt. Transparency Mode dabei, zu hören, was um dich herum passiert.
+- AKKU: Genießt du bis zu 5,5 Stunden Musik mit Adaptive Noise Cancellation. Das Ladecase verlängert die Gesamtlaufzeit auf 22 Stunden – kabellos, dank integriertem Wireless Charging.Bis zu 38 Stunden mit ANC AUS
+- SUPER MIC: Im Ladecase von Ear (3) steckt ein neuartiges Dual-Mikrofonsystem mit Umgebungsfilterung. Es fokussiert sich auf deine Stimme und blendet Umgebungsgeräusche bis zu 95 dB aus – für kristallklare Telefonate und Sprachnotizen
+- HALTBARKEIT: Ear (3) wurde für dich und deinen Alltag entwickelt. Staub- und schweißresistent, leicht regenfest, IP54-zertifiziert. Immer zuverlässig. Leicht, robust und immer dabei.
 - ERGONOMISCH: Die ergonomischen Bügel schmiegen sich mühelos ans Ohr, ein Belüftungssystem reduziert den Druck, und weiche Silikon-Tips sorgen für sicheren, komfortablen Halt. Trage sie den ganzen Tag und genieß deine Musik.
+- NOTHING X APP: Mit der Nothing X-App hast du die volle Kontrolle darüber, wie deine Musik klingt. Nutze den erweiterten 8-Band-Equalizer, um ein maßgeschneidertes Soundprofil zu erstellen, sodass deine Tracks klingen, wie es für dich am besten ist. Wenn du nicht sicher bist, wie du deine Sounds abstimmen sollst, kannst du über QR-Codes in der App Profile anderer Nutzer hochladen.
+- PERSONAL SOUND: Ein kurzer Hörtest in der Nothing X App genügt, und Ear (3) erstellt ein Personal Sound-Profil, das exakt auf dein Gehör abgestimmt ist. So klingt alles perfekt für dich.
 - HI-RES: Low-Latency-Audio, LDAC-Kompatibilität und High-Res-Zertifizierung sorgen für immersiven Sound in hoher Auflösung – beim Musikhören, Telefonieren und Gaming. Instant Pairing mit Android, Windows und iOS gehört ebenfalls zur Standardausstattung
+- INTELLIGENZ: Halte Ideen, Gedanken und To-dos fest, sobald sie dir einfallen. Nimm mit Super Mic eine Sprachnotiz auf und Essential Space transkribiert sie automatisch, damit Inspiration nie verloren geht
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FHWNZLKT{{</world>}}

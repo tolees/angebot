@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichte, intensiv feuchtigkeitsspendende Gesichtscreme: 100 % zeigten sofort nach einer Anwendung mehr Feuchtigkeit* und Glow. *Test an 19 Frauen.
 - Dermatologische Expertise: Unsere Hautprodukte sind allergiegetestet und 100 % parfumfrei.
-- Auf wissenschaftlicher Basis: Als eine von Dermatologen geprägte Marke beginnt Cliniques Bekenntnis zu Sicherheit mit der Hautpflegewissenschaft. Deshalb entwickeln wir Produkte für alle Hauttypen, Hauttöne und Hautprobleme - Alles für Deine Haut.
 - Sofortige und langanhaltende Feuchtigkeit: Beruhigt die Haut in 3 Sekunden und spendet intensive Feuchtigkeit über Stunden hinweg.
+- Leichte, intensiv feuchtigkeitsspendende Gesichtscreme: 100 % zeigten sofort nach einer Anwendung mehr Feuchtigkeit* und Glow. *Test an 19 Frauen.
+- Auf wissenschaftlicher Basis: Als eine von Dermatologen geprägte Marke beginnt Cliniques Bekenntnis zu Sicherheit mit der Hautpflegewissenschaft. Deshalb entwickeln wir Produkte für alle Hauttypen, Hauttöne und Hautprobleme - Alles für Deine Haut.
 - Creme-Gel mit Aloe Vera Bioferment und Hyaluronsäure: Das Duo versorgt die Haut mit Feuchtigkeit und hilft, diese zu speichern.
 
 [🛒 Hier!!]({{< param buyurl >}})

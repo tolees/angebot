@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Vorgeformte Sohlenstruktur im klassischen Stil
-- Strukturierte Passform
 - Unterstützung und Widerstand
+- Strukturierte Passform
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C867ZNT1{{</world>}}

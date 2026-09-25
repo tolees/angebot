@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Erfrischend-leichter Grapefruit-Geschmack und die volle Ladung Monster
-- 150 mg Koffein pro Dose
 - Zero Zucker, zero Kalorien, full Flavor
+- 150 mg Koffein pro Dose
 - Doppelter Kick dank 500 ml statt 250 ml Inhalt
 
 [🛒 Hier!!]({{< param buyurl >}})

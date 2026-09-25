@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Die Mundspülung hat einen angenehmen, sanften Minz-/ Mentholgeschmack
+- Alkoholfrei
 - Die einzigartige Formel sorgt 12 Stunden lang für einen angenehmen Atem. Die Wirkung beginnt sofort und ist wissenschaftlich nachgewiesen!
 - Wirkt der eigentlichen Ursache von Mundgeruch entgegen und stärkt durch einen hohen Fluoridgehalt nachweislich Ihre Zähne
-- Alkoholfrei
-- Die Mundspülung hat einen angenehmen, sanften Minz-/ Mentholgeschmack
 - Mundgeruch wird durch überschüssige, flüchtige Schwefelverbindungen verursacht, die sich im Mund aufbauen. CB12 wirkt der eigentlichen Ursache von Mundgeruch entgegen, indem es die flüchtigen Schwefelverbindungen beseitigt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

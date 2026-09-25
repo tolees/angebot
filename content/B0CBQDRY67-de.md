@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Unser Model ist 188 cm groß und trägt Größe 32/32
-- Houston - Regular Fit
-- fleXXXactive Denim mit hohem Tragekomfort
 - 5-Pocket Style
+- fleXXXactive Denim mit hohem Tragekomfort
+- Houston - Regular Fit
+- Unser Model ist 188 cm groß und trägt Größe 32/32
 - camel active Markenlabel aus Jacron am Bund
 
 [🛒 Hier!!]({{< param buyurl >}})

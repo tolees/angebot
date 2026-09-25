@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideal für den Sommer: Kurzarm Design
 - Hergestellt aus 100 Prozent Baumwolle, weich auf der Haut
 - Rundhalsausschnitt für einen klassischen Look
+- Ideal für den Sommer: Kurzarm Design
 - Bequeme Passform für optimalen Tragekomfort
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

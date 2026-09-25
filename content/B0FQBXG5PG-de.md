@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UGREEN Nexode 200W USB C Ladegerät 4-Ports PD3.1 140W Schnellladeblock'
-date: 2026-08-24 11:10:07
+date: 2026-09-25 16:38:43
 image: 'https://m.media-amazon.com/images/I/31rzwo6laCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FQBXG5PG-de UGREEN Nexode 200W USB C Ladegerät 4-Ports PD3.1 140W...'
 sku: 'B0FQBXG5PG-de'
 tags: [ '🇩🇪', ]
-actualPrice: 55.99 EUR
+actualPrice: 55.98 EUR
 currency: EUR
-price: 55.99
+price: 55.98
 comparePrice: 79.99 EUR
 prodname: 'UGREEN Nexode 200W USB C Ladegerät 4-Ports PD3.1 140W Schnellladeblock'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FQBXG5PG/?tag=tolees0ca-21'
-descuento: '30.00'
-average: '57.99'
+descuento: '30.02'
+average: '57.32'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,11 +28,6 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 140W Turbo-Ladung: Der PD 3.1-fähige USB-C Port liefert 140W und bringt dein MacBook Pro 16" in nur 30 Min. von 0% auf 50%. Maximale Geschwindigkeit, wenn es schnell gehen muss.
-- 200W Hochleistung: Mit 200W Gesamtleistung laden zwei Laptops parallel über USB-C – dein MacBook Pro erreicht in 27 Min. 50%. Perfekt für anspruchsvolle Multitasker, die keine Zeit verlieren wollen
-- Führende GaN-Tech: Dank GaNInfinity Tech bleibt das Netzteil kühl und spart Energie. Die smarte PPS-Funktion passt die Leistung automatisch an jedes Gerät an – schonend, zuverlässig und smart.
-- Universell kompatibel: Kompatibel mit MacBook, XPS, HP, ThinkPad, iPhone 17-8, Galaxy, Switch u.v.m. Mit Super Fast Charging 2.0 lädt alles auf Hochtouren – ohne Kompatibilitätsstress.
-- All-in-One Design: Nie wieder mehrere Adapter mitschleppen! Unser kompaktes 4-in-1 Design lädt Smartphone, Tablet und zwei Laptops gleichzeitig – ob im Homeoffice, Café oder auf Reisen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0FQBXG5PG{{</world>}}

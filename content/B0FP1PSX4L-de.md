@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 160 mg Koffein pro Dose
 - Kollaboration zwischen Monster Energy und dem mehrfachen F1-Gewinner Lando Norris
-- Zero Zucker, zero Kalorien, full Flavour
 - Futuristischer Melonen-Yuzu-Geschmack und die volle Ladung Monster
+- 160 mg Koffein pro Dose
+- Zero Zucker, zero Kalorien, full Flavour
 - Doppelter Kick dank 500 ml statt 250 ml Inhalt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

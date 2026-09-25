@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'PHILIPS Deckenventilator und LED Deckenleuchte Amigo 20W+40W Durchmesser 49cm rund inkl. Fernbedienung'
-date: 2026-08-13 14:51:45
+title: 'Philips Amigo Deckenventilator mit LED inkl. Fernbedienung 49 cm Weiß'
+date: 2026-09-22 15:49:51
 image: 'https://m.media-amazon.com/images/I/41MAVcAeSxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0C7VN6ZDX-de PHILIPS Deckenventilator und LED Deckenleuchte Amigo...'
+slug: 'B0C7VN6ZDX-de Philips Amigo Deckenventilator mit LED inkl. Fernbedienung...'
 sku: 'B0C7VN6ZDX-de'
 tags: [ '🇩🇪', ]
-actualPrice: 84.35 EUR
+actualPrice: 79.96 EUR
 currency: EUR
-price: 84.35
+price: 79.96
 comparePrice: 139.99 EUR
-prodname: 'PHILIPS Deckenventilator und LED Deckenleuchte Amigo 20W+40W Durchmesser 49cm rund inkl. Fernbedienung'
+prodname: 'Philips Amigo Deckenventilator mit LED inkl. Fernbedienung 49 cm Weiß'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0C7VN6ZDX/?tag=tolees0ca-21'
-descuento: '39.75'
-average: '84.36'
+descuento: '42.88'
+average: '82.8933333333333'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,11 +28,6 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SceneSwitch-Technologie: ermöglicht es Ihnen, die Helligkeit des Lichts in drei verschiedenen Helligkeitsstufen zu ändern
-- Dieses Produkt ist ein umgebendes Produkt mit einer Lichtquelle der Energieeffizienzklasse E. Umgebende Produkte sind Leuchten, die zerlegt werden können, um die umgebende(n) Lichtquelle(n) separat zu überprüfen.
-- Dieser Philips LED-Deckenventilator wurde strengen Sicherheitsprüfungen unterzogen und verfügt daher über ein robustes Design mit sturzsicheren Schrauben
-- SceneSwitch: Die SceneSwitch Technologie erlaubt das Verändern der Helligkeit der Leuchte in drei verschiedenen Helligkeitsstufen
-- Der Philips LED-Deckenventilator bietet einen leisen Motor, der die Luft im Raum ohne laute Geräusche verteilt, mit 6 Geschwindigkeitsstufen und einer Timerfunktion.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C7VN6ZDX{{</world>}}

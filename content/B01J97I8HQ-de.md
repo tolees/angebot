@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Diese Tischleuchte ist individuell einsetzbar; Ob im Büro auf dem Schreibtisch, im Schlafzimmer auf dem Nachttisch oder Wohnzimmer als Deko-Objekt
 - Die Lampe verfügt über einen Schalter am Kabel zum bequemen Ein- und Ausschalten
+- Kein Leuchtmittel im Lieferumfang enthalten; Das Leuchtmittel ist unter EGLO 110032 separat erhältlich; Geeignet für jedes Leuchtmittel mit E27 Sockel, maximale Wattage pro Fassung 60 W
+- Diese Tischleuchte ist individuell einsetzbar; Ob im Büro auf dem Schreibtisch, im Schlafzimmer auf dem Nachttisch oder Wohnzimmer als Deko-Objekt
 - Abmessungen: Höhe: 21,5 cm, Durchmesser: 10 cm
 - Das elegante und zeitlose Design der Leuchte fügt sich stilvoll in Ihre Wohnräume und schafft eine einladende Atmosphäre
-- Kein Leuchtmittel im Lieferumfang enthalten; Das Leuchtmittel ist unter EGLO 110032 separat erhältlich; Geeignet für jedes Leuchtmittel mit E27 Sockel, maximale Wattage pro Fassung 60 W
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01J97I8HQ{{</world>}}

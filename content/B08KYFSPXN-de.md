@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eine Regular-Fit-Hose mit schmaler, gerader Beinform
 - Der Stretchanteil sorgt für eine tolle Passform
 - Jeans für Herren in Standard der dänischen
 - Jeans in schlichter Passform
+- Eine Regular-Fit-Hose mit schmaler, gerader Beinform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08KYFSPXN{{</world>}}

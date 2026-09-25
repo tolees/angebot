@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Nährstoffreich und besonders gut bekömmlich
+- Nussige Note
 - Bio-Qualität (Demeter)
 - Beste Demeter-Qualität
-- Nussige Note
 - Körner werden geschält und gedämpft
-- Nährstoffreich und besonders gut bekömmlich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01M3VDG52{{</world>}}

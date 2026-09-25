@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Aus 100 % Polyester
 - Schützt den Rücksitz vor Kratzern, Schmutz, Schuppen und Flüssigkeiten
 - Maße (L x H): ca. 119,4 x 142,2 cm
-- Aus 100 % Polyester
 - Rücksitzabdeckung für Haustiere, die das Auto sauber hält
 - Wird am Rücksitz mithilfe von 2 Kopfstütz-Schlaufen, 2 Sitzankern und 2 elastischen Gurten befestigt
 

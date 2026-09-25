@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Veloursleder.
 - Perforationen für bessere Atmungsaktivität.
+- Obermaterial aus Veloursleder.
 - Gepolsterter Bund für noch mehr Komfort.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatzform: Plateauabsatz
-- Innenmaterial: Fabric
 - Obermaterial: Synthetik
+- Innenmaterial: Fabric
 - Verschluss: Schnürung
 - Sohle: Fabric
+- Absatzform: Plateauabsatz
 - Nicht Wasserfest
 
 [🛒 Hier!!]({{< param buyurl >}})

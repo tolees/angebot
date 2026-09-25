@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: GSA 18V-28, 1x Säbelsägeblatt S 2345 X, 1x Säbelsägeblatt S 123xF, L-BOXX
 - Die neue BITURBO Brushless Technology bietet maximale kabellose Schnittleistung entsprechend einer kabelgebundenen Säbelsäge mit 1.100 W
+- Lieferumfang: GSA 18V-28, 1x Säbelsägeblatt S 2345 X, 1x Säbelsägeblatt S 123xF, L-BOXX
 - SDS-Mechanismus erlaubt werkzeugloses, einhändiges Einführen und Entnehmen des Sägeblatts
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Zul.-Nr. DE: 00A107-61; Pflanzenschutzmittel vorsichtig verwenden. Vor Verwendung stets Etikett und Produktinformationen lesen. Bitte Warnhinweise und Sicherheitsratschläge in der Gebrauchsanleitung beachten.
-- Biologisch abbaubar. Mikroorganismen zersetzen den Wirkstoff im Boden, ohne die Umwelt zu belasten.
-- Säen und Nachpflanzen von Zierpflanzen bereits einen Tag nach der Anwendung möglich
-- Nicht bienengefährlich
 - Kinder und Haustiere können nach dem Abtrocknen des Spritzbelags wieder auf die behandelte Fläche
+- Biologisch abbaubar. Mikroorganismen zersetzen den Wirkstoff im Boden, ohne die Umwelt zu belasten.
+- Nicht bienengefährlich
+- Säen und Nachpflanzen von Zierpflanzen bereits einen Tag nach der Anwendung möglich
 - Zur Bekämpfung von zahlreichen Unkräutern & Ungäsern - ohne Glyphosat
 
 [🛒 Hier!!]({{< param buyurl >}})

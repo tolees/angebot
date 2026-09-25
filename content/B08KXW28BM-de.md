@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sweatshirt mit rundem Halsausschnitt
 - Basic Sweatshirt
-- Schlichtes Sweatshirt
+- Sweatshirt mit rundem Halsausschnitt
 - Sweatshirt mit nachhaltigem Material
 - Einfarbiges Sweatshirt
+- Schlichtes Sweatshirt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08KXW28BM{{</world>}}

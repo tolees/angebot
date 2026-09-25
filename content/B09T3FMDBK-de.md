@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reißverschlusstaschen auf der Vorderseite
-- 100 % recycelter Polyester (Taft)
 - Regulär geschnitten
+- 100 % recycelter Polyester (Taft)
+- Reißverschlusstaschen auf der Vorderseite
 - Füllung: 90 % recycelter Polyester / 10 % Polyester
 - Durchgehender Reißverschluss; Stehkragen
 - Elastische Bündchen

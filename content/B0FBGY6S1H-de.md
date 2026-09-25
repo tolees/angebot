@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kurzarm
-- Jack&Jones Essentials T-Shirt für Erwachsene, Paket
 - Reguläre Passform
-- Maschinenwäsche
 - Rundhalsausschnitt
+- Kurzarm
+- Maschinenwäsche
+- Jack&Jones Essentials T-Shirt für Erwachsene, Paket
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0FBGY6S1H{{</world>}}

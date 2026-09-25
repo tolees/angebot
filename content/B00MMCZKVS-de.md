@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für eine strahlendere Haut: Die Clarifying Lotion 1 befreit deine Haut von Schmutz, Ablagerungen und Hautschüppchen und sorgt so für einen frischeren, reineren Teint.
-- Step 1: Reinige dein Gesicht mit der Gesichtsseife.
-- Dermatologisch entwickelt: Die 3-Phasen-Systempflege wurde von Cliniques Gründungsdermatologen entwickelt. Nur 3 Schritte, 3 Minuten, zweimal täglich, für gesund aussehende Haut – perfekt abgestimmt auf deinen persönlichen Hauttyp.
 - Step 2: Peeling mit der Clarifying Lotion.
+- Step 1: Reinige dein Gesicht mit der Gesichtsseife.
 - Sanftes tägliches Gesichtspeeling: Entfernt Schmutz, Ablagerungen, Hautschüppchen und überschüssiges Öl. So kann deine nachfolgende Pflege besser wirken.
+- Dermatologisch entwickelt: Die 3-Phasen-Systempflege wurde von Cliniques Gründungsdermatologen entwickelt. Nur 3 Schritte, 3 Minuten, zweimal täglich, für gesund aussehende Haut – perfekt abgestimmt auf deinen persönlichen Hauttyp.
+- Für eine strahlendere Haut: Die Clarifying Lotion 1 befreit deine Haut von Schmutz, Ablagerungen und Hautschüppchen und sorgt so für einen frischeren, reineren Teint.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00MMCZKVS{{</world>}}

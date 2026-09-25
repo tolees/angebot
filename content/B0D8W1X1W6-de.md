@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bietet die Flexibilität, es für jedes Jahr zu verwenden; Leerstellen können ausgefüllt werden
-- Ideale Qualität
 - Filofax Terminplaner mit Kalendedarium 2025
+- Ideale Qualität
+- Bietet die Flexibilität, es für jedes Jahr zu verwenden; Leerstellen können ausgefüllt werden
 - Tagesplaner und Tagebuch für Aufgaben und organisiert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

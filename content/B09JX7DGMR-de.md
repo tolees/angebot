@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Alle Akkus sowie Ladegeräte der Power X-Change-Linie können bei dem Schlagschrauber verwendet werden
 - Das Eindrehen von großen und langen Schrauben ist mit dem Schlagschrauber von Einhell ein müheloses Unterfangen; Der Schlagschrauber verfügt über eine ¼" (6,35 mm) Innensechskant-Werkzeugaufnahme
 - Handlich ist der Schlagschrauber durch die kurze, leichte Bauweise; Arbeiten in schlecht ausgeleuchteten Arbeitsbereichen gelingt mit dem Akku-Schlagschrauber von Einhell durch das integrierte LED
 - Der Einhell Akku-Schlagschrauber TP-CI 18 Li Brushless-solo ist ein leistungsstarkes Mitglied der Einhell Power X-Change Familie mit allen Vorteilen und Einsatzmöglichkeiten
-- PurePOWER Brushless – Der wartungsarme und kraftvolle Brushless-Motor sorgt für maximale Leistung bei längerer Laufzeit im Vergleich zu herkömmlichen Kohlebürstenmotoren
-- Die ergonomischen Softgripflächen bieten einen bequemen und festen Halt; Der spezielle Schlag-Mechanismus schützt das Handgelenk vor Drehkräften und schont die Kräfte des Anwenders
 - Die fein dosierbare Drehzahlregelelektronik kann individuell auf das zu bearbeitende Material abgestimmt werden
+- Die ergonomischen Softgripflächen bieten einen bequemen und festen Halt; Der spezielle Schlag-Mechanismus schützt das Handgelenk vor Drehkräften und schont die Kräfte des Anwenders
+- PurePOWER Brushless – Der wartungsarme und kraftvolle Brushless-Motor sorgt für maximale Leistung bei längerer Laufzeit im Vergleich zu herkömmlichen Kohlebürstenmotoren
+- Alle Akkus sowie Ladegeräte der Power X-Change-Linie können bei dem Schlagschrauber verwendet werden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09JX7DGMR{{</world>}}

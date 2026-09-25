@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Seltener gießen: Einfache Befüllung des Reservoir für selbstständige Versorgung der Pflanzen mit Wasser, LECHUZA-PON inkl. Langzeitdünger als Drainageschicht für optimale Dosierung der Wasserzufuhr und Nährstoffe
-- Made in Germany: Hochwertig verarbeitetes, UV-beständiges Pflanzgefäß aus Kunststoff, Matte Lackierung, Ideal für Wohnräume, Foyers, Praxen oder Business-Bereiche Maße: Ø 22 x 20 cm Wasserspeicher: 0,8 l Pflanzvolumen: 3 l Pflanzeinsatz:. Ø 18,5 cm
 - Lieferumfang: 1x Lechuza CLASSICO Premium LS 21, Inkl. Bewässerungssystem und Pflanzeinsatz, Material: Kunststoff,Maße: 22 x 20,5 cm, Pflanzeinsatz: Ø 18,5 cm, Wasserspeicher: 0,8 l
+- Seltener gießen: Einfache Befüllung des Reservoir für selbstständige Versorgung der Pflanzen mit Wasser, LECHUZA-PON inkl. Langzeitdünger als Drainageschicht für optimale Dosierung der Wasserzufuhr und Nährstoffe
 - Keine Staunässe: Kontrolle der Füllmenge über mitgelieferten Wasserstandsanzeiger, Bodenschraube für Ablauf überflüssigen Wassers bei Regen, Herausnehmbarer Pflanzeinsatz mit stabilen Griffen für einfaches Überwintern oder Wechseln der Bepflanzung
 - Klassisches, rundes Pflanzgefäß aus der Premium Collection mit herausnehmbahrem Pflanzeinsatz, Perfekt auf jeder Stellfläche im Haus oder Garten, Nutzung in einzelner Anordnung oder in einer Gruppe
+- Made in Germany: Hochwertig verarbeitetes, UV-beständiges Pflanzgefäß aus Kunststoff, Matte Lackierung, Ideal für Wohnräume, Foyers, Praxen oder Business-Bereiche Maße: Ø 22 x 20 cm Wasserspeicher: 0,8 l Pflanzvolumen: 3 l Pflanzeinsatz:. Ø 18,5 cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00FJYLMQI{{</world>}}

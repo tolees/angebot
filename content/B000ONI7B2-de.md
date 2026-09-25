@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Jung, die perfekte Lösung für Ihre Installation
 - Schalterprogramm
+- Jung, die perfekte Lösung für Ihre Installation
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000ONI7B2{{</world>}}

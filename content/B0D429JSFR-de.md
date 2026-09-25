@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produktart: Sweatshirts
 - Print : Weicher Gummiprint
+- Produktart: Sweatshirts
 - Ausschnitt : Rundhalsausschnitt
 - Materialzusammensetzung: 70% Baumwolle, 30% Polyester
 

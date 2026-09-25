@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wir sind Marktführer im Bereich Hundesnacks 2023
 - Ohne Zusatz von Getreide und Farb- und Konservierungsstoffen
-- Mit purem Hühnerbrustfilet frisch zubereitet
+- Wir sind Marktführer im Bereich Hundesnacks 2023
 - Im wiederverschließbaren Beutel
+- Mit purem Hühnerbrustfilet frisch zubereitet
 - Artgerechte Belohnung in Top Qualität
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

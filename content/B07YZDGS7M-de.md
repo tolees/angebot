@@ -29,13 +29,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Nahtloses Roaming: Alles Nova Stationen arbeiten zusammen und bieten Ihnen ein großes und nahtloses WLAN-Netzwerk im ganzen Haus. Wenn Sie sich im Haus bewegen, wechselt das System automatisch zur dichtesten Station mit dem besten Empfang.
-- Lieferumfang: 3* Nova-Einheiten, 1* RJ45-LAN-Kabel, 3* 12V/1A Power-Adapter, 1* Schnellinstallationsleitung.
+- Kindersicherung: Vergeben Sie Online-Zeitlimits für Ihre Kinder oder pausieren Sie den Internetzugang für ausgewählte Geräte.
 - Einfache Einrichtung: Richten Sie das Nova System in nur wenigen Minuten über die Tenda WiFi Smartphone App ein. Entdecken Sie eine Vielzahl an Funktionen wie zum Beispiel einen Echtzeit-Datenverbrauch oder ein Gast-Netzwerk. Betriebstemperatur: 0°C - 40°C; Lagertemperatur: -40°C - 70°C;
 - Kundenservice: Wir bieten eine 3-Jahres-Garantie.Wenn Sie weitere Fragen zu diesem Produkt haben oder vor dem Kauf technische Hilfe benötigen, senden Sie bitte eine E-Mail an service-de@tendacn.com. Wir helfen Ihnen gerne weiter.
 - Keine toten Winkel mehr: Angetrieben von Tenda’s moderner Mesh-Technologie, verbindet sich jede Station automatisch mit der anderen. Ein System aus drei Stationen, deckt eine Fläche von bis zu 300 m² mit WLAN ab. Für eine größere WLAN-Abdeckung, können weitere Stationen ins Netzwerk integriert werden.
-- Kindersicherung: Vergeben Sie Online-Zeitlimits für Ihre Kinder oder pausieren Sie den Internetzugang für ausgewählte Geräte.
-- Dank des 1 GHz starken Prozessors mit MU-MIMO-Technologie, ermöglicht das Nova MW5G eine verzögerungsfreie Kommunikation mit bis zu 80 Geräten zu selben Zeit.
 - Kompatibel mit anderen Nova System: Das Nova MW5G ist kompatibel mit allen anderen Nova Systemen und kann als Erweiterung eines bestehenden Systems genutzt werden.
+- Lieferumfang: 3* Nova-Einheiten, 1* RJ45-LAN-Kabel, 3* 12V/1A Power-Adapter, 1* Schnellinstallationsleitung.
+- Dank des 1 GHz starken Prozessors mit MU-MIMO-Technologie, ermöglicht das Nova MW5G eine verzögerungsfreie Kommunikation mit bis zu 80 Geräten zu selben Zeit.
 - Ersetzt WLAN Router Repeater & Powerline-Adapter: Das Nova System ersetzt Ihren WLAN-Router sowie WLAN-Repeater und ist kompatibel mit allen Internetanbietern (extra Modem ist wird benötigt). Es eignet sich auch ideal für Glasfaseranschlüsse.
 
 [🛒 Hier!!]({{< param buyurl >}})

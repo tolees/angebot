@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bomberjacke für Herren
-- PASSFORM: Slim Fit
-- DETAIL 2: "Remove before Flight"-Tag
 - DETAIL 1: Strickbündchen
+- DETAIL 2: "Remove before Flight"-Tag
+- PASSFORM: Slim Fit
+- Bomberjacke für Herren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00CTNVDZM{{</world>}}

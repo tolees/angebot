@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Baumwolle
 - T-Shirt
 - bequem
-- Baumwolle
 - Print
 
 [🛒 Hier!!]({{< param buyurl >}})

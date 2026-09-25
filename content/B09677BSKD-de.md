@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- stylische T-Shirts
-- Der biologische Baumwollanbau schützt die natürlichen Ressourcen und die Artenvielfalt
-- Dieses Produkt besteht aus Bio-Baumwolle. Bio-Baumwolle wird ohne den Einsatz schädlicher Chemikalien angebaut
 - im praktischen 5er Pack
+- stylische T-Shirts
+- Dieses Produkt besteht aus Bio-Baumwolle. Bio-Baumwolle wird ohne den Einsatz schädlicher Chemikalien angebaut
+- Der biologische Baumwollanbau schützt die natürlichen Ressourcen und die Artenvielfalt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09677BSKD{{</world>}}

@@ -31,8 +31,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - Lieferumfang : Manfrotto Pro Light Trolley Air-55
 - Extrem stabil und wasserabweisend dank dem Pro-Light Rip-Stop Außenmaterial
 - Leichte und robuste Konstruktion für Langlebigkeit
-- Bietet Platz für eine Profi-DSLR mit 400/2.8 und 3 Objektive.
 - Entspricht den strengsten Größenanforderungen an Handgepäck
+- Bietet Platz für eine Profi-DSLR mit 400/2.8 und 3 Objektive.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07JGPFGKZ{{</world>}}

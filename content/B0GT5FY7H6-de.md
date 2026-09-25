@@ -31,8 +31,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Kreativmodus: Schalte Objekte und Möbel frei, um im Kreativmodus dein eigenes Zimmer zu dekorieren!
 - Dekorative Freiheit: Du kannst beim Einrichten deiner Räume nichts falsch machen! Easter-Eggs: Löse Rätsel und entdecke spezielle Belohnungen
 - Wunderbare Stimmung: Genieße die entspannende Atmosphäre und die wundervolle Musik!
-- Deine Auswahl hat Gewicht: Schon die kleinsten Entscheidungen können ein ganzes Leben beeinflussen!
 - Erkunde nach Belieben: Durchsuche jeden Winkel eines Levels. Hinter jeder Ecke lauert eine Überraschung!
+- Deine Auswahl hat Gewicht: Schon die kleinsten Entscheidungen können ein ganzes Leben beeinflussen!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0GT5FY7H6{{</world>}}

@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Vierfach-Lautsprecher für immersiven Stereoklang
-- 12,1" 120Hz 2,5K Display
-- Fortschrittliche 5G Performance
 - Snapdragon 7s Gen 2 Mobilplattform, powered by Xiaomi HyperOS
+- Fortschrittliche 5G Performance
+- 12,1" 120Hz 2,5K Display
 - Unterstützt 33W FastCharge und verfügt über einen großen 10.000mAh Akku
 
 [🛒 Hier!!]({{< param buyurl >}})

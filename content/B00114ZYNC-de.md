@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Werkzeug für Innenlager
 - Radsport
-- Unisex
+- Werkzeug für Innenlager
 - Material: Stahl
+- Unisex
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00114ZYNC{{</world>}}

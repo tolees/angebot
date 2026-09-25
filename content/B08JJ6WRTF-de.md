@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Onur Saylak
 - 800
-- BRD
 - Deutsch, Türkisch
+- Onur Saylak
+- BRD
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08JJ6WRTF{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rundes Edelstahlgehäuse mit schwarzem Zifferblatt
-- Wasserdicht bis zu 50 m: tragbar beim Schwimmen in flachem Wasser.
 - 42 -mm -Gehäusegröße, 22 mm Bandbreite, Mineralkristall, Quarzbewegung, importiert
 - Schwarzer Edelstahlgurt
+- Wasserdicht bis zu 50 m: tragbar beim Schwimmen in flachem Wasser.
+- Rundes Edelstahlgehäuse mit schwarzem Zifferblatt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00A9WVTJ0{{</world>}}

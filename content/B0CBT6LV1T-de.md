@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Artikeltyp: Shorts aus Fleece
-- Details: Kordelzug an der Taille, elastischer Bund
 - Verschluss: falscher Hosenschlitz
+- Details: Kordelzug an der Taille, elastischer Bund
+- Artikeltyp: Shorts aus Fleece
 - Shorts für Jungen der dänischen Marke
 
 [🛒 Hier!!]({{< param buyurl >}})

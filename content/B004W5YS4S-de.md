@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einwegmodell
-- Schlankes Gehäuse mit Kappe
 - Gummierte Griffzone für optimalen Halt
-- Schnell trocknende, weich-fließende Liquid Gel-Tinte
 - Metallspitze mit 0,35mm Strich
+- Schnell trocknende, weich-fließende Liquid Gel-Tinte
+- Schlankes Gehäuse mit Kappe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B004W5YS4S{{</world>}}

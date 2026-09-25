@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vegan
-- Luftgekühlter Memory-Schaum
 - Slip-Ins
 - Maschinenwaschbar
+- Vegan
+- Luftgekühlter Memory-Schaum
 - Kein Binden
 
 [🛒 Hier!!]({{< param buyurl >}})

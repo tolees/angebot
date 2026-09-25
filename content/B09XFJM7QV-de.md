@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 4-Wege Bluetooth Intercom mit einer Reichweite von bis zu 900 m und einer Sprechzeit bis zu 12 Stunden.
 - Bluetooth 5.0 für Smartphone-Verbindung. Verbinde dein Smarthphone um Musik und Navigationsansagen zu hören oder zu telefonieren.
 - Integrierte Lautsprecher und Mikrofon. Der Helm wird einsatzbereit geliefert, keine weiteren Installationen nötig.
-- ECE-zertifiziert
 - Sena Smartphone App kompatibel. Verwalte eine Vielzahl an Einstellung bequem vom Smartphone aus.
+- ECE-zertifiziert
+- 4-Wege Bluetooth Intercom mit einer Reichweite von bis zu 900 m und einer Sprechzeit bis zu 12 Stunden.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09XFJM7QV{{</world>}}

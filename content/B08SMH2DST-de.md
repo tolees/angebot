@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Multifunktionales abschlu-shampoo
 - Geeignet für schwaches oder stumpfes Haar
 - Schützt schuppen
+- Multifunktionales abschlu-shampoo
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08SMH2DST{{</world>}}

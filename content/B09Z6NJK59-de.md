@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Regular Fit
 - Elastischer und pflegeleichter Materialmix
+- Regular Fit
 - 3/4-Ärmel mit Aufschlagriegel
 
 [🛒 Hier!!]({{< param buyurl >}})

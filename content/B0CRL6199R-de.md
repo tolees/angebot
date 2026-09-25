@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Langarm Pullover von GANT
 - Bietet höchsten Komfort und ein angenehmes Tragegefühl
 - Klassischer Rippstrick rundet den Look ab
-- Langarm Pullover von GANT
-- Feinstrick aus hochwertiger Wollmischung
 - Normale Passform mit V-Ausschnitt
+- Feinstrick aus hochwertiger Wollmischung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CRL6199R{{</world>}}

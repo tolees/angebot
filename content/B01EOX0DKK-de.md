@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ref. 62643 - Helly Hansen
-- Ein exklusives Originalprodukt der Marke Helly Hansen
-- DUBLINER JACKET - Regenjacke
 - Schwarz - (Black) - Grösse XXL
+- Ref. 62643 - Helly Hansen
+- DUBLINER JACKET - Regenjacke
+- Ein exklusives Originalprodukt der Marke Helly Hansen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01EOX0DKK{{</world>}}

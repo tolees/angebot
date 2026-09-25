@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Im Kragen verstaubare, verstellbare Kapuze
-- 1-Wege Front Reißverschluss
 - Zwei Außentaschen mit Reißverschluss
+- 1-Wege Front Reißverschluss
+- Im Kragen verstaubare, verstellbare Kapuze
 - Arm- und Saumabschluss verstellbar
 
 [🛒 Hier!!]({{< param buyurl >}})

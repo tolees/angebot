@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Elastische Bündchen an den Ärmeln und seitliche Eingrifftaschen
 - Taillierte Passform
 - Kapuze und hochgeschlossener Reißverschluss
 - Leichte Damenjacke für die Übergangszeit, Mit ihrem dezenten Design ist sie spielerisch leicht kombinierbar und passt sich jedem Look an
+- Elastische Bündchen an den Ärmeln und seitliche Eingrifftaschen
 - Leicht wärmende Steppware, gefüttert mit synthetischen Fasern
 
 [🛒 Hier!!]({{< param buyurl >}})

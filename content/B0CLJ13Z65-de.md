@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nominiert für die Goldene Palme in Cannes
 - Der Kultfilm von Meisterregisseur Wong Kar Wai erstmalig in Deutschland auf Blu-Ray
+- Nominiert für die Goldene Palme in Cannes
 - Mit Oscar-Nominee Jude Law (PHANTASTISCHE TIERWESEN), Norah Jones (TED) und Oscar-Gewinnerin Natalie Portman (BLACK SWAN) in den Hauptrollen
 
 [🛒 Hier!!]({{< param buyurl >}})

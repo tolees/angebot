@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Unisex VS Pace 2.0 Shoes Cloud White / Core Black / Cloud White 40 EU'
-date: 2026-08-20 13:46:40
+date: 2026-09-21 11:02:46
 image: 'https://m.media-amazon.com/images/I/21wo09nIGUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0BPDXB6XX-de adidas Unisex VS Pace 2.0 Shoes Cloud White / Core Black /...'
 sku: 'B0BPDXB6XX-de'
 tags: [ '🇩🇪', ]
-actualPrice: 44.99 EUR
+actualPrice: 43.6 EUR
 currency: EUR
-price: 44.99
+price: 43.6
 comparePrice: 55.0 EUR
 prodname: 'adidas Unisex VS Pace 2.0 Shoes Cloud White / Core Black / Cloud White 40 EU'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0BPDXB6XX/?tag=tolees0ca-21'
-descuento: '18.20'
-average: '43.21'
+descuento: '20.73'
+average: '43.34'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,11 +28,6 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Textilfutter
-- Zwischensohle in vulkanisierter Optik
-- Reguläre Passform
-- Obermaterial aus Synthetik-Nubuk
-- Schnürsenkel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BPDXB6XX{{</world>}}

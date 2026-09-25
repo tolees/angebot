@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Laufsohle: 51% recyceltes EVA - 49% EVA
+- Farbe: Mittelbraun
 - Obbermaterial: 100 % Rindsleder
 - Better Leather,Better Outsoles
-- Farbe: Mittelbraun
-- Laufsohle: 51% recyceltes EVA - 49% EVA
 - Futter: 53 % recyceltes Polyester 19 % Stoff (65% recycelte Wolle - 35% recyceltes Polyester) 11 % Schweinsleder 9 % Stoff (88% Polyester - 12% Nylon) 8 % Kuhleder
 
 [🛒 Hier!!]({{< param buyurl >}})

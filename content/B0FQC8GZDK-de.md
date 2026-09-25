@@ -28,16 +28,16 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Fußplatte der GST 18V-125 S Professional kann bis auf einen Winkel von 45° für Neigungsschnitte eingestellt werden
-- Robustes Design und bürstenloser Motor: für ausgezeichnete Laufzeit und längere Werkzeuglebensdauer
-- Die Stichsägeblätter T119BO (Blattlänge: 83 mm) ist optimal für feine Kurvenschnitte und T111C (Blattlänge: 100 mm) ermöglichen optimale gerade Schnitte in Holz
-- Lieferumfang: 10 x Stichsägeblatt Holz T119BO, 10 x Stichsägeblatt Holz T111C, 10 x Stichsägeblatt Metall T118A, Tough Box
-- AMPShare: Akkus und Ladegeräte sind vollständig mit dem Bosch Professional 18V System sowie mit vielen anderen Werkzeugen der Marken aus der Akku Partnerschaft AMPShare kompatibel
-- Lieferumfang: GST 18V-125 S, 1x Stichsägeblatt T 144 D, Absaug-Set, Spanreißschutz, L-BOXX 136
-- Einfache Lösung: fokussiert auf wichtige Kernfunktionen wie SDS-Sägeblatthalter, LED, 4-stufigen Pendelhub, Staubgebläse und Drehzahlvorwahl.
-- Made in Switzerland
 - Einfacher Transport und sicheres Aufbewahren des Zubehörs dank kompakter und stabiler Hartschalenbox
+- Lieferumfang: GST 18V-125 S, 1x Stichsägeblatt T 144 D, Absaug-Set, Spanreißschutz, L-BOXX 136
+- Made in Switzerland
+- Robustes Design und bürstenloser Motor: für ausgezeichnete Laufzeit und längere Werkzeuglebensdauer
+- AMPShare: Akkus und Ladegeräte sind vollständig mit dem Bosch Professional 18V System sowie mit vielen anderen Werkzeugen der Marken aus der Akku Partnerschaft AMPShare kompatibel
+- Einfache Lösung: fokussiert auf wichtige Kernfunktionen wie SDS-Sägeblatthalter, LED, 4-stufigen Pendelhub, Staubgebläse und Drehzahlvorwahl.
 - Die Stichsägeblätter T118A (Blattlänge 92 mm) eignen sich ideal für Schnitte in sehr dünne und massive Metallbleche
+- Lieferumfang: 10 x Stichsägeblatt Holz T119BO, 10 x Stichsägeblatt Holz T111C, 10 x Stichsägeblatt Metall T118A, Tough Box
+- Die Stichsägeblätter T119BO (Blattlänge: 83 mm) ist optimal für feine Kurvenschnitte und T111C (Blattlänge: 100 mm) ermöglichen optimale gerade Schnitte in Holz
+- Die Fußplatte der GST 18V-125 S Professional kann bis auf einen Winkel von 45° für Neigungsschnitte eingestellt werden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FQC8GZDK{{</world>}}

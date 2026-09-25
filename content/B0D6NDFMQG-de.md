@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichte Schuhe
-- Optimale Stoßdämpfung zum Schutz und zur Absorption von Stößen und Bodenunebenheiten
 - Breathable
+- Optimale Stoßdämpfung zum Schutz und zur Absorption von Stößen und Bodenunebenheiten
+- Leichte Schuhe
 - Verschluss mit Schnürsenkeln
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

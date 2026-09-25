@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stehkragen für zusätzliche Bedeckung
-- Das Material leitet Schweiß ab und trocknet sehr schnell
 - Elastische Netzstoffeinsätze an den Seiten und am Rücken sorgen für strategische Belüftung
+- Das Material leitet Schweiß ab und trocknet sehr schnell
+- Stehkragen für zusätzliche Bedeckung
 - Robuster, leichter HeatGear-Stoff mit allen Performance-Vorteilen der Under Armour-Kompression
 - Überarbeitete ergonomische Passform ohne Nähte in Bereichen mit besonders hohem Abrieb und für höhere Strapazierfähigkeit
 

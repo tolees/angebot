@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Altersfreigabe: Freigegeben ohne Altersbeschränkung
 - Plattform: Nintendo Switch
-- Version: Standard
 - Genre: Aktion
+- Altersfreigabe: Freigegeben ohne Altersbeschränkung
+- Version: Standard
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07B9ZWHD3{{</world>}}

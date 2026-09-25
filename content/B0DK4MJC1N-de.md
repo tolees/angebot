@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stretcheinfassung am Kragen
-- Brusttasche mit Reißverschluss
 - Stretcheinfassung an Bündchen und Saum.
-- Hergestellt aus recycelten Inhaltsstoffen
+- Brusttasche mit Reißverschluss
 - Eingriffstaschen
+- Hergestellt aus recycelten Inhaltsstoffen
+- Stretcheinfassung am Kragen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DK4MJC1N{{</world>}}

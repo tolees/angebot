@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Passend für Dreieckschleifer und Multifunktionswerkzeuge aller Elektrowerkzeugmarken.
 - Zum perfekten Fertig- und Feinschleifen von Holz, Lack-, Zwischenschliff und Anschleifen von Lackfehlern, Entfernen von Fasern von der Oberfläche und Feinschliff vor der Beize oder Lasur.
-- Sicherheitshinweis: Bei Gebrauch bitte Schutzbrille, Staubschutzmaske und Arbeitshandschuhe tragen.
 - 6 Absauglöcher für Staubabsaugung.
+- Sicherheitshinweis: Bei Gebrauch bitte Schutzbrille, Staubschutzmaske und Arbeitshandschuhe tragen.
 - Passgenaue Universal-Schleifblätter im Format 93 mm mit Kletthaftsystem für sicheren Halt und schnellen Blattwechsel.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lassen Sie sich über Ihr Smartphone informieren, sobald Wind aufkommt
+- Installieren Sie den Smarten Windmesser draußen mit 100m-Maximal-Entfernung zum Innenmodul der Smarten Wetterstation
+- Greifen Sie über Ihr Smartphone in Echtzeit auf die Windrichtung und -geschwindigkeit zu
 - Sehen Sie sich Ihre Messdaten an, um die Windentwicklung im Zeitverlauf zu verfolgen
 - Zubehör für Netatmo Smarte Wetterstation (nicht enthalten)
-- Greifen Sie über Ihr Smartphone in Echtzeit auf die Windrichtung und -geschwindigkeit zu
-- Installieren Sie den Smarten Windmesser draußen mit 100m-Maximal-Entfernung zum Innenmodul der Smarten Wetterstation
+- Lassen Sie sich über Ihr Smartphone informieren, sobald Wind aufkommt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08FXV9CXT{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferung im Karton ohne Akku, ohne Ladegerät, ohne Koffer
 - Handliches Gebläse mit langem Blasrohr zum komfortablen Arbeiten
 - Zusätzliches 3-stufiges Stellrad für feste Drehzahlen
+- Lieferung im Karton ohne Akku, ohne Ladegerät, ohne Koffer
 - Elektronik-Schalter für stufenlose Drehzahlsteuerung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

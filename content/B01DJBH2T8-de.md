@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Druck-Vorschub-Mechanismus mit Radiergummi unter der Kappe; befüllt mit 0,5-mm-Mine; nachfüllbar
-- om Edelstahlschaft setzen sich die Hochglanz-Zierteile und der Pfeilclip ab
-- Frischer Wind für unser schlankes, ikonisches Jotter-Design, das seit über 60 Jahren als Klassiker gilt
 - Verpackt in einer unverwechselbaren PARKER-Geschenkbox
+- Druck-Vorschub-Mechanismus mit Radiergummi unter der Kappe; befüllt mit 0,5-mm-Mine; nachfüllbar
+- Frischer Wind für unser schlankes, ikonisches Jotter-Design, das seit über 60 Jahren als Klassiker gilt
+- om Edelstahlschaft setzen sich die Hochglanz-Zierteile und der Pfeilclip ab
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01DJBH2T8{{</world>}}

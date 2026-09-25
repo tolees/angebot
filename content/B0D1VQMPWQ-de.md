@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hoher Ballaststoffgehalt
-- Kleine Kinder können an Nüssen ersticken
 - Für vegetarische und vegane Ernährung geeignet
-- Unter Schutzatmosphäre verpackt
-- Kann vereinzelt Schalenteile enthalten
+- Kleine Kinder können an Nüssen ersticken
+- Hoher Ballaststoffgehalt
 - Die folgenden Informationen gelten für jede Einheit pro Packung
 - Aufgrund des Herstellungsverfahrens nicht für andere Nuss- und Erdnuss-Allergiker geeignet
+- Kann vereinzelt Schalenteile enthalten
+- Unter Schutzatmosphäre verpackt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D1VQMPWQ{{</world>}}

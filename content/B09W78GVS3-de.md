@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erweiterung zum beliebten Grundspiel Karak mit raffiniertem Spielmodus und zusätzlichem Spielmaterial
-- Neue Helden, spannende Kampfarenen und neuartige Gegner für noch mehr Interaktion und Abwechslung
-- Spannende Würfelkämpfe für die ganze Familie
-- Abenteuer-Spiel für zwei bis fünf Spielerinnen und Spieler ab 7 Jahren
 - Das perfekte Geschenk für alle Fans von Karak
+- Neue Helden, spannende Kampfarenen und neuartige Gegner für noch mehr Interaktion und Abwechslung
+- Abenteuer-Spiel für zwei bis fünf Spielerinnen und Spieler ab 7 Jahren
+- Erweiterung zum beliebten Grundspiel Karak mit raffiniertem Spielmodus und zusätzlichem Spielmaterial
+- Spannende Würfelkämpfe für die ganze Familie
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09W78GVS3{{</world>}}

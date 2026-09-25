@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - ENERGIESPAREND: Eco-Modus nach 2 Minuten und automatische Abschaltung nach 9 Minuten Inaktivität – für effizientes Energiesparen
-- LEISTUNGSSTARK: 19-Bar-Hochdruckpumpe und schnelles Heizsystem mit einer Aufwärmzeit von unter 30 Sekunden; die Kaffeekapseln lassen sich mühelos einsetzen – sie werden automatisch angestochen und der Kaffee wird auf Knopfdruck zubereitet
-- KAFFEEVIELFALT: Nespresso bietet eine große Auswahl an Kaffeesorten, passend für jeden Geschmack und jede Tageszeit
 - EINFACH ZU BEDIENEN: Zwei programmierbare Kaffeeoptionen mit automatischer Abschaltung – optimal für Espresso und Lungo
 - KOMPAKTE GRÖSSE: Die Essenza Mini überzeugt mit einem eleganten, platzsparenden Design, einfacher Bedienung und bereitet im Handumdrehen köstlichen Espresso zu
+- LEISTUNGSSTARK: 19-Bar-Hochdruckpumpe und schnelles Heizsystem mit einer Aufwärmzeit von unter 30 Sekunden; die Kaffeekapseln lassen sich mühelos einsetzen – sie werden automatisch angestochen und der Kaffee wird auf Knopfdruck zubereitet
+- KAFFEEVIELFALT: Nespresso bietet eine große Auswahl an Kaffeesorten, passend für jeden Geschmack und jede Tageszeit
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0G36BS9YH{{</world>}}

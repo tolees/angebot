@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Funko Pop! mit folgenden Eigenschaften:
-- Adventskalender || Fan & Funmerch || Muster: Uni
-- Fan-Merch, Filme, Halloween, Horror, TV-Serien
-- Das perfekte Merch für dein Zuhause!
 - Größe: Onesize || Material: langlebig
+- Adventskalender || Fan & Funmerch || Muster: Uni
+- Das perfekte Merch für dein Zuhause!
+- Funko Pop! mit folgenden Eigenschaften:
+- Fan-Merch, Filme, Halloween, Horror, TV-Serien
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DJRZQYZX{{</world>}}

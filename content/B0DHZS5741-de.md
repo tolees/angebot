@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Textilfutter
-- Schnürverschluss
 - Synthetik-Obermaterial
+- Schnürverschluss
+- Textilfutter
 - Regulär geschnitten
 - E
 

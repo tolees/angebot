@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit modernen Picot-Details
 - Gepolsterter Bügel-BH aus unserer My Perfect Shaper-Kollektion
+- Mit modernen Picot-Details
 - Spacer-Cup-Technologie und Contour Wire, der sich Ihren Körperbewegungen anpasst und so für optimalen Komfort sorgt. Für eine perfekte Passform konzipiert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

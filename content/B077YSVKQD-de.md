@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Die Universal Werkzeuge von Bosch – flexibel und leistungsstark mit intelligenten Lösungen für vielfältige Projekte
 - Unterbrechungsfreies Arbeiten und sauberes Schneiden dank elektronischem Anti-Blockier-System
-- Lieferumfang: UniversalHedgePole 18, Karton
 - Ideale Eignung für hohe und breite Hecken
+- Lieferumfang: UniversalHedgePole 18, Karton
 - POWER FOR ALL ALLIANCE: 1 AKKU, ​10+ MARKEN, ​150+ GERÄTE.​
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Weiche Decksohle
 - Normalweite
+- Weiche Decksohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CF78FPMG{{</world>}}

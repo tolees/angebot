@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Quarz-Uhrwerk mit zwei Zeigern
 - Durchmesser des Gehäuses: 35 mm, Gehäusedicke 6,2 mm
 - Wasserabweisend bis 3 bar Wasserspritzer oder Regen richten keine Schäden an, solange das Gehäuse, die Krone und das Glas intakt bleiben.
-- Quarz-Uhrwerk mit zwei Zeigern
 - Hell-champagnerfarbenes Sonnenstrahlen-Zifferblatt
 - Goldgelbes Edelstahl-Armband mit IP-Beschichtung
 

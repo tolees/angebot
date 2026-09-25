@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS Titanium Runn nypuN'
-date: 2026-08-21 13:47:15
+date: 2026-09-22 05:29:16
 image: 'https://m.media-amazon.com/images/I/2184y3R82sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0D2ZCB4PQ-de BOSS Titanium Runn nypuN'
 sku: 'B0D2ZCB4PQ-de'
 tags: [ '🇩🇪', ]
-actualPrice: 106.99 EUR
+actualPrice: 101.29 EUR
 currency: EUR
-price: 106.99
+price: 101.29
 comparePrice: 160.0 EUR
 prodname: 'BOSS Titanium Runn nypuN'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0D2ZCB4PQ/?tag=tolees0ca-21'
-descuento: '33.13'
-average: '93.156'
+descuento: '36.69'
+average: '94.5116666666667'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,10 +28,6 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Innenfutter
-- Die Schnürer aus verschiedenen Materialien sind mit edlen Veloursleder-Details versehen
-- Charakteristische Marke Sneakers mit mehreren Brandings
-- Schnürbänder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D2ZCB4PQ{{</world>}}

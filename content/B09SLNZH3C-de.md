@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 100 % recycelter Polyester (Doppelstrick)
+- Durchgehender Reißverschluss; Stehkragen
 - Leistentaschen auf der Vorderseite
 - Schmal geschnitten
-- 100 % recycelter Polyester (Doppelstrick)
 - Feuchtigkeitsabsorbierende AEROREADY Technologie
-- Durchgehender Reißverschluss; Stehkragen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09SLNZH3C{{</world>}}

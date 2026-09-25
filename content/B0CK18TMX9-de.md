@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PASSFORM: Regular Fit - unser Model ist 1,84m groß und trägt die Größe 31/32.
 - Die Jeans ist im klassischen 5-Pocket-Stil gehalten und bietet ausreichend Stauraum für Kleinigkeiten.
-- Wir arbeiten mit recycelten Versand- und Verpackungsmaterialien.
+- PASSFORM: Regular Fit - unser Model ist 1,84m groß und trägt die Größe 31/32.
 - WAS DU BEKOMMST: Genau das, was du bestellt hast - einwandfreie Qualität, tolle und moderne Styles! Falls du eine Frage hast, hilft dir unser freundlicher Kundensupport gerne weiter.
+- Wir arbeiten mit recycelten Versand- und Verpackungsmaterialien.
 - Der Bund ist mit Gürtelschlaufen versehen und lässt sich mit Knopf und Reißverschluss schließen.
 
 [🛒 Hier!!]({{< param buyurl >}})

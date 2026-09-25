@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - KeratinpRoteinen und Fettsäuren
-- Packung die Größe: 4.9 L x 16.8 H x 5.3 W cm
 - Steigert die Elastizität, den Feuchtigkeitsgehalt und den Glanz der Haare
+- Packung die Größe: 4.9 L x 16.8 H x 5.3 W cm
 - Mit nährendem Arganöl
 
 [🛒 Hier!!]({{< param buyurl >}})

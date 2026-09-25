@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- LANGANHALTENDE FARBE: Für brillante, gleichmäßige Farbergebnisse mit außergewöhnlicher Haltbarkeit und strahlendem Glanz.
 - EINFACHE ANWENDUNG: 1:1 Mischverhältnis mit Welloxon Perfect – für geschmeidige Konsistenz und präzises Auftragen.
 - 100% GRAUABDECKUNG: Deckt graues Haar vollständig ab und hellt Naturhaar um bis zu 3 Tonstufen auf – ideal für professionelle Ergebnisse.
-- LANGANHALTENDE FARBE: Für brillante, gleichmäßige Farbergebnisse mit außergewöhnlicher Haltbarkeit und strahlendem Glanz.
 - ME+ FARBTECHNOLOGIE: Reduziert das Risiko, eine neue Haarfärbeallergie zu entwickeln* – bei kompromissloser Farbleistung. *Für Personen ohne bekannte Allergie gegen Haarfarbe.
 - METAL PURIFIER TECHNOLOGIE: Neutralisiert Metalle im Haar aus dem Leitungswasser – für reinere Farbergebnisse und ein reduziertes Risiko von Haarschädigung.
 

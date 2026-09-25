@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Größe: 235 x 115 x 120 mm
-- Für ein ordentliches Büro und aufgeräumtes Zuhause
 - Farbe: Weiß
 - Zum Verstecken von Kabelgewirr
+- Für ein ordentliches Büro und aufgeräumtes Zuhause
+- Größe: 235 x 115 x 120 mm
 - Öffnung für Kabel an beiden Seiten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

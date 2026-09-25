@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G G502 HERO High-Performance Gaming-Maus'
-date: 2026-09-19 18:22:48
+date: 2026-09-24 14:24:27
 image: 'https://m.media-amazon.com/images/I/4189N8RLVYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GS6ZS8J/?tag=tolees0ca-21'
 descuento: '52.66'
-average: '36.8217567567566'
+average: '36.6001315789472'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

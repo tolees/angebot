@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Mit kleinem Pinsel und Mischpalette
+- Inhalt je 25 ml in den 6 Farben: Schwarz, Magenta, Gelb, Weiß, Grün und Cyan
 - Ideal auf Papier, Pappe, Karton, Holz, Keramik u.v.m.
 - Gute Deckkraft und mit Wasser verdünnbar
-- Inhalt je 25 ml in den 6 Farben: Schwarz, Magenta, Gelb, Weiß, Grün und Cyan
 - Malfertige, flüssige Deckfarben, 6 Grundfarben im Set
-- Mit kleinem Pinsel und Mischpalette
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07DTC3B6V{{</world>}}

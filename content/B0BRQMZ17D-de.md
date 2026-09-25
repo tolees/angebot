@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Benötigtes Zubehör: 2 x AA-Zellen // LR6 (Alkaline) // HR6 (NiMH) für RC Fernsteuerung, Altersempfehlung: ab 16 Jahre
-- Produktdetails: Kapazität Akku: 3,7V 300mAh, Ladekabel: USB, Aufbauzeit ca. 5 Min., Flugzeit ca. 20 Min., Ladezeit USB ca. 45 Min.
-- Highlights Modellflugzeug: 2,4GHz Mehrspielerbetrieb, Gyro-Technik, Stabilisierung der Flugeigenschaften, sehr gute Selbstflugeigenschaften selbst bei leichtem Wind, aus flexiblem Mikroschaum, abnehmbares Fahrwerk, einsteigertauglich, Geschwindigkeit stufenlos / proportional regelbar, LiIon-Schnellwechsel- Akku
 - Lieferumfang: Modell, Fernsteuerung 2,4GHz, Flugakku, USB-Ladegerät, 2 Ersatzluftschrauben, 2 Motoren fertig montiert, Regler- und Empfangseinheit fertig montiert, Fahrwerk, Schraubendreher, 2 Schrauben, Anleitung
+- Produktdetails: Kapazität Akku: 3,7V 300mAh, Ladekabel: USB, Aufbauzeit ca. 5 Min., Flugzeit ca. 20 Min., Ladezeit USB ca. 45 Min.
 - Funktionen: Höhe, Seite, Gas - der Flieger geeignet sich für Einsteiger
+- Benötigtes Zubehör: 2 x AA-Zellen // LR6 (Alkaline) // HR6 (NiMH) für RC Fernsteuerung, Altersempfehlung: ab 16 Jahre
+- Highlights Modellflugzeug: 2,4GHz Mehrspielerbetrieb, Gyro-Technik, Stabilisierung der Flugeigenschaften, sehr gute Selbstflugeigenschaften selbst bei leichtem Wind, aus flexiblem Mikroschaum, abnehmbares Fahrwerk, einsteigertauglich, Geschwindigkeit stufenlos / proportional regelbar, LiIon-Schnellwechsel- Akku
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BRQMZ17D{{</world>}}

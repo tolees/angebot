@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Einstellbare Höhe】49,7" - 118" / 126cm - 300cm verstellbar, dieser Teleskopständer mit 3 Abschnitten bietet einen breiten Höhenbereich für flexible Positionierung. Verriegelungsknöpfe sichern den Ständer mit unglaublicher Stärke
 - 【Solide Konstruktion】 Hergestellt aus 100% robustem Edelstahl, ist das Lichtstativ beeindruckend langlebig und resistent gegen Korrosion und Feuchtigkeit für Außenaufnahmen
+- 【Reversible 1/4" zu 3/8" Adapter】 Mit 1/4"- und 3/8"Gewindeenden ist der universelle Schraubadapter mit verschiedenen Zubehörteilen und Beleuchtungskörpern kompatibel. Eine 3 Wege Montageschnittstelle ermöglicht Ihnen die Montage in vertikaler und horizontaler Ausrichtung
 - 【Zusammenklappbare Konstruktion】 Das Lichtstativ kann zur Lagerung und zum Transport auf eine kompakte Größe zusammengeklappt werden. Sandsäcke (separat erhältlich) können für zusätzliche Stabilität auf die Beine gelegt werden
 - 【Federgepolstertes Haevy Duty Stand】 Das eingebaute Federkissen schützt Ihre Ausrüstung, perfekt für die Montage von LED Videoleuchten, Ringleuchten, Monolichtern, Stroboskopen, Softboxen, Reflektoren und anderer Fotoausrüstung. Tragfähigkeit: 22lb / 10kg
-- 【Reversible 1/4" zu 3/8" Adapter】 Mit 1/4"- und 3/8"Gewindeenden ist der universelle Schraubadapter mit verschiedenen Zubehörteilen und Beleuchtungskörpern kompatibel. Eine 3 Wege Montageschnittstelle ermöglicht Ihnen die Montage in vertikaler und horizontaler Ausrichtung
+- 【Einstellbare Höhe】49,7" - 118" / 126cm - 300cm verstellbar, dieser Teleskopständer mit 3 Abschnitten bietet einen breiten Höhenbereich für flexible Positionierung. Verriegelungsknöpfe sichern den Ständer mit unglaublicher Stärke
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08HM47VYY{{</world>}}

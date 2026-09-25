@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lösungsmittelfrei
-- Einsetzbar ab 8 Grad Celsius
-- Schleif- und überlackbierbar im trockenen Zustand
-- Leimrückstände abwischbar (mit Wasser)
 - Lösungsmittelbeständig im trockenen Zustand
+- Einsetzbar ab 8 Grad Celsius
+- Lösungsmittelfrei
+- Leimrückstände abwischbar (mit Wasser)
+- Schleif- und überlackbierbar im trockenen Zustand
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0002YQ3KA{{</world>}}

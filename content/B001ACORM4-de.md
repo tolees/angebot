@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Schwarz
 - Obermaterial: Cow Leather
+- Farbe: Schwarz
 - Sohle: 100 Prozent EVA
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

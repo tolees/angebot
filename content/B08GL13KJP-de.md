@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die geringe Kopflänge und das kompakte Design ermöglichen eine einfache Handhabung, Zugriff bei beengtem Raum und das Arbeiten über Kopf
 - Lieferumfang: GSR 12V-35 HX, 1/2-L-BOXX-Einlage für Gerät und Ladegerät, Gürtelclip
-- Professional 12V System. Kompakte Performance. Maximale Freiheit. Alle unsere Akkus sind mit neuen und existierenden Bosch Professional Werkzeugen der gleichen Spannungsklasse kompatibel
 - Dank des praktischen arretierbaren 1/4"-Bithalters lassen sich Bits mühelos wechseln
+- Professional 12V System. Kompakte Performance. Maximale Freiheit. Alle unsere Akkus sind mit neuen und existierenden Bosch Professional Werkzeugen der gleichen Spannungsklasse kompatibel
+- Die geringe Kopflänge und das kompakte Design ermöglichen eine einfache Handhabung, Zugriff bei beengtem Raum und das Arbeiten über Kopf
 - Schneller Arbeitsfortschritt: Mit bis zu 1.750 rpm
 
 [🛒 Hier!!]({{< param buyurl >}})

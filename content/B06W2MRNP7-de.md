@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Samsonite Base Boost - Weichgepäck Koffer 78 cm Groß Trolley Koffer mit 4 Rollen TSA-Schloss Leicht & Erweiterbar 105 L Blau Navy Blue'
-date: 2026-08-31 01:18:56
+title: 'Samsonite Base Boost Spinner Handgepäck-Koffer 78 cm'
+date: 2026-09-22 21:09:06
 image: 'https://m.media-amazon.com/images/I/31sWcs+IbnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B06W2MRNP7-de Samsonite Base Boost - Weichgepäck Koffer 78 cm Groß...'
+slug: 'B06W2MRNP7-de Samsonite Base Boost Spinner Handgepäck-Koffer 78 cm'
 sku: 'B06W2MRNP7-de'
 tags: [ '🇩🇪', ]
-actualPrice: 141.87 EUR
+actualPrice: 129.56 EUR
 currency: EUR
-price: 141.87
+price: 129.56
 comparePrice: 219.0 EUR
-prodname: 'Samsonite Base Boost - Weichgepäck Koffer 78 cm Groß Trolley Koffer mit 4 Rollen TSA-Schloss Leicht & Erweiterbar 105 L Blau Navy Blue'
+prodname: 'Samsonite Base Boost Spinner Handgepäck-Koffer 78 cm'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B06W2MRNP7/?tag=tolees0ca-21'
-descuento: '35.22'
-average: '120.44'
+descuento: '40.84'
+average: '122.72'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,11 +28,6 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spinner 78 Erweiterbar: 48 x 31 x 78 cm - 112,5 L - 3,10 kg
-- Alle Check-in-Größen mit Erweiterungsfunktion
-- Der Upright 45 Underseater kann sicher und praktisch unter dem vor Ihnen befindlichen Sitz verstaut werden
-- Alle Modelle mit TSA-Schloss für sicheres, stressfreies Reisen
-- Hübsche Details: markantes Metall-Logo und Reißverschlusstaschen im Frontbereich
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B06W2MRNP7{{</world>}}

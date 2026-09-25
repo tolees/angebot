@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'VAUDE Fahrradjacke Matera Air Jacket - ultraleichte Windjacke Herren 150 g wasserabweisende Windjacke Rennrad Herren winddichte & atmungsaktive Sportjacke - dark sea L'
-date: 2026-08-23 11:07:07
+title: 'VAUDE Fahrradjacke Matera Air Jacket wasserabweisend & winddicht L'
+date: 2026-09-24 02:03:14
 image: 'https://m.media-amazon.com/images/I/41-g+u1vB7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0CCD7X2G1-de VAUDE Fahrradjacke Matera Air Jacket - ultraleichte...'
+slug: 'B0CCD7X2G1-de VAUDE Fahrradjacke Matera Air Jacket wasserabweisend &...'
 sku: 'B0CCD7X2G1-de'
 tags: [ '🇩🇪', ]
-actualPrice: 56.99 EUR
+actualPrice: 60.49 EUR
 currency: EUR
-price: 56.99
+price: 60.49
 comparePrice: 75.0 EUR
-prodname: 'VAUDE Fahrradjacke Matera Air Jacket - ultraleichte Windjacke Herren 150 g wasserabweisende Windjacke Rennrad Herren winddichte & atmungsaktive Sportjacke - dark sea L'
+prodname: 'VAUDE Fahrradjacke Matera Air Jacket wasserabweisend & winddicht L'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0CCD7X2G1/?tag=tolees0ca-21'
-descuento: '24.01'
-average: '42.4925'
+descuento: '19.35'
+average: '46.092'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,11 +28,6 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- WETTERFEST: Das Eco-Finish der Herren Fahrradjacke ist frei von PVC & hat eine wasserabweisende Funktion. Zudem ist die leichte Windjacke zu 80% winddicht, schnelltrocknend & besonders atmungsaktiv
-- LEICHT: Die VAUDE Windjacke Herren ist mit 150 Gramm ultraleicht. Die dünne Slim-Fit Fahrradjacke hat zudem ein kleines Packmaß & lässt sich in einer offenen Tasche am Rücken der Jacke verpacken
-- SLIM FIT: Die wetterfeste Fahrradjacke mit körperbetonter Passform ist eng geschnitten & hat einen durchgehenden Reißverschluss. Am besten passt die Jacke, wenn sie eine Nummer größer bestellt wird
-- FUNKTIONAL: Vorgeformte lange Ärmel, ein länger geschnittener Rücken & elastische Abschlüsse machen die wetterfeste Windjacke ideal für Rennradfahrer & alle weiteren Fahrrad-Varianten
-- NACHHALTIG: VAUDE ist seit 2022 klimaneutral. Aktuell nicht vermeidbare Emissionen werden vollständig über „myclimate“ durch zertifizierte Gold-Standard Klimaschutzprojekte kompensiert
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CCD7X2G1{{</world>}}

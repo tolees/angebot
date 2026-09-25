@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kompatibilität: Osmo Action 3, Osmo Action 4, Osmo Action 5 Pro
-- Kompatibilität: Osmo Action 5 Pro, Osmo Action 4, Osmo Action 3
 - Bereit für jedes Shooting-Szenario mit integriertem Stativ unten. Das Kugelgelenk-Design oben ermöglicht ein schnelles und bequemes Einstellen.
+- Kompatibilität: Osmo Action 5 Pro, Osmo Action 4, Osmo Action 3
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C6F5CJM8{{</world>}}

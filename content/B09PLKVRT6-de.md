@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Das 2-Gang-Getriebe und 20 Drehmomentstufen liefern die passende Power und Geschwindigkeit für jede Anwendung
-- Bequemes Handling dank schlankem und ergonomischem Design
 - Zum Schrauben, Bohren in Holz, Metall und Kunststoff sowie Schlagbohren in Mauerwerk
-- Lieferumfang: 2 x Akku PBA 18V 2.0Ah;Doppelschrauberbit;Ladegerät AL 18V-20;Tragekoffer
 - Vielseitiges, einhülsiges 13-mm-Bohrfutter für leichten Schrauber- und Bohrerwechsel.
+- Lieferumfang: 2 x Akku PBA 18V 2.0Ah;Doppelschrauberbit;Ladegerät AL 18V-20;Tragekoffer
+- Bequemes Handling dank schlankem und ergonomischem Design
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09PLKVRT6{{</world>}}

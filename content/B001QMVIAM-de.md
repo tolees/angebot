@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Bohrer mit CBN-geschliffener M-Spitze, Zweischneider, zylindrisch, zweispiralig
+- Holzspiralbohrer-Set zum professionellen bearbeiten von Weich- und Hartholz
+- Besondere Spiralform verhindert Verklemmen und sorgt für rasche Spanabfuhr
 - Für alle Maschinen mit Rundschaftbohreraufnahme
 - Bohrer-Ø 4/5/6/8/10 mm
-- Besondere Spiralform verhindert Verklemmen und sorgt für rasche Spanabfuhr
-- Holzspiralbohrer-Set zum professionellen bearbeiten von Weich- und Hartholz
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B001QMVIAM{{</world>}}

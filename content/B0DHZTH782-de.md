@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Reguläre Passform
+- Textilfutter
 - Schnürsenkel
 - Synthetik-Obermaterial
-- Textilfutter
 - Gummiaußensohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

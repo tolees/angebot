@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LISEN 84W Zigarettenanzünder USB C Einziehbares Auto Ladegerät Adapter'
-date: 2026-09-18 22:04:55
+date: 2026-09-24 22:25:14
 image: 'https://m.media-amazon.com/images/I/41sBM8KA+SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0DCBNY7S2/?tag=tolees0ca-21'
 descuento: '32.72'
-average: '16.3528571428572'
+average: '16.32625'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LEICHT & STABIL: Fahrradschloss in angenehmem Transportmaß - mit Stäben aus leichten Werkstoffen und Stahllegierungen
-- FALTBAR & KOMPAKT: Die Spezialnieten erlauben flexibles Zusammenfalten des Schlosses zu einer handlichen/kompakten Größe - ideal für Sportler
 - PRODUKTDETAILS: Bordo Lite 6055C/85 - Länge 85 cm, Gewicht 514 g, ABUS-Sicherheitslevel 7, Farbe Schwarz
+- ZAHLENSCHLOSS: 4-stelliger, individuell einstellbarer Zahlencode - ermöglicht schlüsselloses Öffnen des Faltschlosses
+- FALTBAR & KOMPAKT: Die Spezialnieten erlauben flexibles Zusammenfalten des Schlosses zu einer handlichen/kompakten Größe - ideal für Sportler
 - KRATZSCHUTZ: Spezialstahl-Konstruktion ist mit einer Kunstoffummantelung versehen - zum Schutz vor Lackschäden wie z. B. Kratzern am Fahrrad
 - SH 6055-HALTER: werkzeugfreie Montage am Rad durch praktische Spannbänder - Schloss kann frontal aus der Halterung genommen werden
-- ZAHLENSCHLOSS: 4-stelliger, individuell einstellbarer Zahlencode - ermöglicht schlüsselloses Öffnen des Faltschlosses
+- LEICHT & STABIL: Fahrradschloss in angenehmem Transportmaß - mit Stäben aus leichten Werkstoffen und Stahllegierungen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08QS627YL{{</world>}}

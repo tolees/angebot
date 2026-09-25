@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Doppelte kugelsichere Anti-Beschlag-Linse
 - Definierte Färbung entsprechend dem natürlichen Lichtgrad
 - Universeller Ersatz für alle Leatt Speed-Masken
-- Doppelte kugelsichere Anti-Beschlag-Linse
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07H4PNBY7{{</world>}}

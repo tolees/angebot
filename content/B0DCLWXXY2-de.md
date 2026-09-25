@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das superstarke magnetische Stromkabel bildet eine dichte, wetterfeste Verbindung mit der Klappe und wird an eine beliebige USB-C-Stromquelle 1 angeschlossen, um deine Kamera zu laden und die Betriebszeit zu verlängern
+- Kompatibilität: HERO13 Black, HERO12 Black, HERO11 Black, HERO10 Black, HERO9 Black
 - Die Klappe ist bis zu 10 m wasserdicht und hat dieselbe IPX-Klassifizierung wie deine Originalklappe
 - Ermöglicht ein schnelles Aufladen, wenn es schwierig wäre, den Akku unterwegs zu wechseln oder aufzuladen, und sorgt dafür, dass deine Kamera auch zu Hause aufgeladen bleibt
-- Kompatibilität: HERO13 Black, HERO12 Black, HERO11 Black, HERO10 Black, HERO9 Black
 - Im Lieferumfang enthalten: Contacto Klappe, Contacto USB-C-Kabel (0,5 m), Contacto USB-C-Kabel (1,2 m), Adapterkabel für Volta und USB-C
+- Das superstarke magnetische Stromkabel bildet eine dichte, wetterfeste Verbindung mit der Klappe und wird an eine beliebige USB-C-Stromquelle 1 angeschlossen, um deine Kamera zu laden und die Betriebszeit zu verlängern
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DCLWXXY2{{</world>}}

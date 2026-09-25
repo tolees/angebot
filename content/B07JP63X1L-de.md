@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Angenehmer Tragekomfort
-- Standard-Herrenhose der dänischen Marke Jack & Jones
 - Freizeithose
+- Standard-Herrenhose der dänischen Marke Jack & Jones
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07JP63X1L{{</world>}}

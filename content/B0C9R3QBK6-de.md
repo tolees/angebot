@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss : Knopfleiste
 - Details : Saum mit Kordelzug
-- Hals : Kapuze
+- Verschluss : Knopfleiste
 - Taschen : Vordertaschen mit Knopfverschluss
+- Hals : Kapuze
 - Produkttyp : Regenmantel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

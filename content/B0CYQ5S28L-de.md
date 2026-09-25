@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reguläre Passform
-- Textilfutter
-- Obermaterial aus beschichtetem Leder
-- Schnürsenkel
 - Dämpfende Zwischensohle
+- Textilfutter
 - Vulkanisierte Gummiaußensohle
+- Obermaterial aus beschichtetem Leder
+- Reguläre Passform
+- Schnürsenkel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CYQ5S28L{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Leicht zu reinigen
+- 2 separat regelbare Edelstahlbrenner für direktes und indirektes Grillen
 - Einfache Handhabung
 - Geeignet für verschiedene Garten- und Rasenpflegeaufgaben
 - Hält verschiedenen Wetterbedingungen stand
-- 2 separat regelbare Edelstahlbrenner für direktes und indirektes Grillen
-- Leicht zu reinigen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DGTN2CXP{{</world>}}

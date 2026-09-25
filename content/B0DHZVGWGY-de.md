@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnürsenkel
-- Obermaterial aus Textil
 - Cloudfoam Zwischensohle
 - Reguläre Passform
+- Obermaterial aus Textil
 - Gummiaußensohle
+- Schnürsenkel
 - Textilfutter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -31,8 +31,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - Der Bosch Kreuzlinienlaser Quigo Green projiziert gleichzeitig eine horizontale und eine vertikale Laserlinie. Maximale Sichtbarkeit auch bei hellen Lichtverhältnissen.
 - Lieferumfang: Quigo Green, Stativ (1,1m), 2 x AAA-Batterien, Bedienungsanleitung, E-Commerce Karton
 - Nachhaltigkeit: das Produkt hat Nachhaltigkeitsmerkmale. Weitere Details dazu finden Sie bei den Bildern.
-- Einfache Höhenverstellung: Bis zu 110 cm dank des im Lieferumfang von Quigo Green enthaltenen Stativs
 - Präzise Ergebnisse: Für hochpräzise Nivellierung innerhalb von +/-0,6 mm/m und einem Arbeitsbereich von bis zu 12 m
+- Einfache Höhenverstellung: Bis zu 110 cm dank des im Lieferumfang von Quigo Green enthaltenen Stativs
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CGXVCG15{{</world>}}

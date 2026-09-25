@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erkunde zu Fuß oder mit dem Boot verschiedenste rätselhafte Orte
-- Monster, bei denen euch der Atem stillsteht, und unvergleichlicher atmosphärischer Horror
 - Minimalistisches Erzählerlebnis mit vielen Deutungsebenen
+- Monster, bei denen euch der Atem stillsteht, und unvergleichlicher atmosphärischer Horror
+- Erkunde zu Fuß oder mit dem Boot verschiedenste rätselhafte Orte
 - Die Erschaffer von Little Nightmares erkunden neue Abgründe des Horrors
 - Gänzlich allein oder in lokalem sowie online-Koop spielbar
 

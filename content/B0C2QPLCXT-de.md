@@ -30,10 +30,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Traxion Außensohle
 - Textilfutter
-- Leichte EVA-Zwischensohle
 - Obermaterial mit einem Recycling-Anteil von mindestens 50 %
-- Obermaterial aus offenporigem Mesh mit Synthetik-Overlays
+- Leichte EVA-Zwischensohle
 - 1 Nummer größer kaufen
+- Obermaterial aus offenporigem Mesh mit Synthetik-Overlays
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C2QPLCXT{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Es zeichnet sich durch einen milden, süffigen und leicht hopfigen Geschmack aus; alkoholgehalt 5,2Prozent
 - Genieße frisches Fassbier in höchster Qualität ganz einfach zu Hause, selbst gezapft - Dieses PerfectDraft-Mehrweg-Fass ist nur kompatibel mit einer passenden PerfectDraft-Zapfanlage
 - Hellgoldene und klare Farbe; angenehm mild, malzig und mit einem zartwürzigen sowie angenehm bitteren Abgang
 - Stella Artois ist ein international bekanntes und weltweit geschätztes Premium Lagerbier aus Belgien mit langer Historie, erstmals gebraut 1366
 - Lieferumfang: 6 Liter Stella Artois Premium Lager-Bier aus Belgien, PerfectDraft Mehrweg-Fass / 6,50 Pfand zuzüglich zum Kaufpreis / Pfandrückgabe kann im Super- oder Getränkemarkt erfolgen oder online via PerfectDraft-Shop
+- Es zeichnet sich durch einen milden, süffigen und leicht hopfigen Geschmack aus; alkoholgehalt 5,2Prozent
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01G2J4E0Y{{</world>}}

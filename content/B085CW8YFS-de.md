@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MILCHSCHAUM: Heiße Milch, kombiniert mit vollmundigem Kaffee und dichtem, lockeren Milchschaum für ein unnachahmliches Geschmackserlebnis
-- ARABICA: Italienisches Kultgetränk mit fruchtigem Espresso aus reinen südamerikanischen Arabica-Bohnen für feinsten Genuss
 - SCHNELL: Einfache und schnelle Zubereitung für den persönlichen Coffee-Shop-Genuss zu Hause mit über 30 verschiedenen leckeren Sorten
 - MACCHIATO: Aromatisch, kräftiger Espresso und feiner Milchschaum in drei verwöhnenden Schichten machen unseren Latte Macchiato zum wahren Kaffee-Genuss
+- MILCHSCHAUM: Heiße Milch, kombiniert mit vollmundigem Kaffee und dichtem, lockeren Milchschaum für ein unnachahmliches Geschmackserlebnis
+- ARABICA: Italienisches Kultgetränk mit fruchtigem Espresso aus reinen südamerikanischen Arabica-Bohnen für feinsten Genuss
 - STÄRKE: Aromatischer Espresso aus reinem Arabica Kaffee mit großzügig portioniertem Milchschaum in Tassengröße von 220ml lange und intensiv genießen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

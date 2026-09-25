@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1.5 l Mixbehälter aus Glas
 - Gehäuse aus Edelstahl, Farbe: Grau
+- 1.5 l Mixbehälter aus Glas
 - Standmixer mit 500 W Leistung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

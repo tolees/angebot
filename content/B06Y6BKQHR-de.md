@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Auch auf nasser Haut anwendbar. Kann nach dem Schwimmen oder Schwitzen aufgetragen werden, ohne dass der Lichtschutzfaktor darunter leidet
 - Hoher Lichtschutzfaktor: LSF 50 mit UVA- und UVB-Schutz
 - Brennt dank safe-eye Tech Formel nicht in den Augen
 - Der erste öl-in-wasser-lichtschutz mit kühlender Textur, das sofort einzieht. Speziell entwickelt für empfindliche Kinder- und Babyhaut
 - Kinderärztlich, augenärztlich und dermatologisch getestet. ISDIN engagiert sich für Projekte zur Regeneration der Meere und Ozeane
+- Auch auf nasser Haut anwendbar. Kann nach dem Schwimmen oder Schwitzen aufgetragen werden, ohne dass der Lichtschutzfaktor darunter leidet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B06Y6BKQHR{{</world>}}

@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MAXIMALE LEISTUNG: Bietet bis zu 1800W maximale Leistung und ist mit dem orangefarbenen Zahnrad der 3. Generation ausgestattet
-- ZWIFT COG UND CLICK INTEGRATION: Unterstützt virtuelles Schalten von Zwift für individualisierte Übersetzung; passen Sie Ihr bevorzugtes Setup im Innenbereich mit Zwift Cog und Click an
 - KICKR BRIDGE UND RENNMODUS: Überträgt Daten von Herzfrequenzmessgeräten und anderen Controllern; überträgt Leistungsdaten bis zu 10-mal schneller als der vorherige CORE für schnelle Reaktionsfähigkeit
-- LEGENDÄRES KICKR-FAHRGEFÜHL: KICKR CORE bietet den sanften Widerstand und das straßenähnliche Gefühl, er ist für harte Anstrengungen und strukturiertes Training gebaut
+- MAXIMALE LEISTUNG: Bietet bis zu 1800W maximale Leistung und ist mit dem orangefarbenen Zahnrad der 3. Generation ausgestattet
 - AKTUALISIERTES LED-SYSTEM: Mehrfarbige LEDs zeigen Verbindungs-, Firmware- und Funktionsstatus an für einfache Überwachung und Kontrolle während des Trainings
+- ZWIFT COG UND CLICK INTEGRATION: Unterstützt virtuelles Schalten von Zwift für individualisierte Übersetzung; passen Sie Ihr bevorzugtes Setup im Innenbereich mit Zwift Cog und Click an
 - EINFACHE EINRICHTUNG UND STABILE FAHRT: Integriertes WLAN ermöglicht schnellere Kopplung und automatische Updates bei Verbindung mit einem aktiven WLAN-Netzwerk für optimale Kontrolle und Verbindung
 - KICKR CORE ZWIFT INTEGRATION: Der intelligentere Weg, mit dem Indoor-Radfahren zu beginnen; der neue KICKR CORE baut auf der bewährten Leistung des Original-CORE auf und bietet eine schnellere und einfachere Einrichtung, bessere Konnektivität und die Ergänzung wichtiger Funktionen aus dem KICKR-Ökosystem
+- LEGENDÄRES KICKR-FAHRGEFÜHL: KICKR CORE bietet den sanften Widerstand und das straßenähnliche Gefühl, er ist für harte Anstrengungen und strukturiertes Training gebaut
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0FLQDCR7X{{</world>}}

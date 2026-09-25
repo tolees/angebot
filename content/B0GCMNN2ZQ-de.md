@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - 100Prozent SAUBERERE ZÄHNE und GESÜNDERES ZAHNFLEISCH als mit einer herkömmlichen Handzahnbürste
 - VISUELLE ANDRUCKKONTROLLE - signalisiert, ob ZU FEST, ZU SANFT oder GENAU RICHTIG geputzt wird
-- EINFACHE AUSWAHL AUS 3 PUTZMODI: Sensitiv, Tägliche Reinigung, Aufhellen
 - 2-MINUTEN TIMER - erinnert alle 30 Sekunden an den Wechsel des Putzbereichs
+- EINFACHE AUSWAHL AUS 3 PUTZMODI: Sensitiv, Tägliche Reinigung, Aufhellen
 - INHALT: 2 Oral-B elektrische iO Zahnbürsten inkl 4 Aufsteckbürsten, Reise-Etui, Aufsteckbürstenhalter, Ladestation
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

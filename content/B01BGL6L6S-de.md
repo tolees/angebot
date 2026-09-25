@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Upgraded high quality material, very strong
 - Up to 120 decibel
 - Very samll, very light
-- Upgraded high quality material, very strong
 - Easy to carry, you can put it on a keychain
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

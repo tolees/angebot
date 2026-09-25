@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Govee Bluetooth Thermometer Hygrometer Innen Digitale Thermometer 1 Stück'
-date: 2026-09-19 19:03:00
+date: 2026-09-23 00:09:27
 image: 'https://m.media-amazon.com/images/I/41EHkBwh-7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B086YX1MKB/?tag=tolees0ca-21'
 descuento: '27.79'
-average: '13.8399999999999'
+average: '13.67'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

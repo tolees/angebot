@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Omni-Heat reflektierendes Futter
-- Leichte Techlite-Zwischensohle für lang anhaltende, hervorragende Dämpfung und hohe Energierückgabe
 - Bitte beachten Sie: Schnürsenkel und Reißverschlüsse, die in Schuhen der Columbia Sportswear Company integriert sind, sind nicht wasserdicht.
+- Leichte Techlite-Zwischensohle für lang anhaltende, hervorragende Dämpfung und hohe Energierückgabe
 - Wasserdichtes Obermaterial aus Mesh/Leder. Omni-Tech wasserdichte, atmungsaktive nahtversiegelte Membran-Bootie-Konstruktion
 - Omni-Grip abriebfester Traktionsgummi
 

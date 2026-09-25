@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Power to the People: Zum Gedenken an Sofi Tucker, die 1912 Schönheitsprodukte in Sierra Leone verkaufte, verwenden wir bis heute rohe Sheabutter, handgefertigt von afrikanischen Frauen
-- Intensive Feuchtigkeit und Reparatur: Das Naturkosmetikshampoo pflegt beanspruchtes Haar, das oft gefärbt, geglättet, hitzebehandelt oder dauergewellt wird - auch für krauses und gewelltes Naturhaar
-- Für optimale Ergebnisse: Verwenden Sie den Conditioner aus derselben Linie, um geschädigtes und chemisch behandeltes Haar zu reparieren und nachhaltig gegen Haarbruch zu stärken
-- Mit natürlicher Formel: SheaMoisture Produkte sind tierversuchsfrei, frei von Sulfaten und Silikonen, werden ethisch bezogen und nachhaltig hergestellt
 - Für coloriertes und behandeltes Haar: Unser Shampoo pflegt dein Haar täglich mit schwarzem Rizinusöl, Fair-Trade-Sheabutter und erfrischender Pfefferminze - für gesund aussehendes und gepflegtes Haar
+- Für optimale Ergebnisse: Verwenden Sie den Conditioner aus derselben Linie, um geschädigtes und chemisch behandeltes Haar zu reparieren und nachhaltig gegen Haarbruch zu stärken
+- Intensive Feuchtigkeit und Reparatur: Das Naturkosmetikshampoo pflegt beanspruchtes Haar, das oft gefärbt, geglättet, hitzebehandelt oder dauergewellt wird - auch für krauses und gewelltes Naturhaar
+- Mit natürlicher Formel: SheaMoisture Produkte sind tierversuchsfrei, frei von Sulfaten und Silikonen, werden ethisch bezogen und nachhaltig hergestellt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DG2HDMWQ{{</world>}}

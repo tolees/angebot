@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Atmungsaktiv
-- Verschluss mit Schnürsenkeln
 - Breathable
+- Verschluss mit Schnürsenkeln
+- Atmungsaktiv
 - Herausnehmbare Innensohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

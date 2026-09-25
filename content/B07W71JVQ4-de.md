@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Haken- und Ösenverschluss mit Reißverschluss
-- Slim Fit
-- Materialzusammensetzung: 64% Viskose, 31% Recycelter Polyester, 5% Elasthan
 - Chino Hose
+- Materialzusammensetzung: 64% Viskose, 31% Recycelter Polyester, 5% Elasthan
+- Slim Fit
+- Haken- und Ösenverschluss mit Reißverschluss
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07W71JVQ4{{</world>}}

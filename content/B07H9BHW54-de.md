@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Aus 100% samtweicher Premium Baumwolle
 - Mit Biesenbordüre und praktischem Kordelaufhänger
-- Erhältlich in verschiedenen Farben, waschbar bei 60° C und trocknergeeignet
 - Extraweicher Griff und maximales Volumen
+- Erhältlich in verschiedenen Farben, waschbar bei 60° C und trocknergeeignet
 - Zertifiziert nach Öko-Tex Standard 100 (schadstoffgeprüft), bestens geeignet für Allergiker und empfindliche Babyhaut (Produktklasse 1)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

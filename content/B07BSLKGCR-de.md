@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produkttyp : PHYSICAL_MOVIE
 - Mai - The Schneiderin des Todes [Blu-Ray+DVD] - Uncut - a 333 Mediabook Cover B in limitierter Auflage
+- Produkttyp : PHYSICAL_MOVIE
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07BSLKGCR{{</world>}}

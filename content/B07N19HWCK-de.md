@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Normale Leibhöhe
-- Knopfverschluss
-- Schmales Bein vom Oberschenkel bis zum Saum
 - Anliegender Bund
+- Normale Leibhöhe
+- Schmales Bein vom Oberschenkel bis zum Saum
+- Knopfverschluss
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07N19HWCK{{</world>}}

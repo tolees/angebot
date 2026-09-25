@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Eine 700-ml-Flasche Aberfeldy 12 Jahre Single Malt Scotch Whisky + Geschenkdose im Goldbarren-Look
-- Dieser reife Premium-Whisky lagert mindestens 12 Jahre lang in vier verschiedenen Eichenfässern (1. Fill Sherry, 1. Fill Bourbon, Rechar, Refill) – für ein vollmundiges, rundes Genusserlebnis
-- Single Malt Whisky mit typischen Noten von Heidehonig, frischen Apfelschnitzen, Vanille und herb-frischer Orange
 - Stephanie Macleod, Malt Master von Aberfeldy, bekam sechsmal in Folge den Titel „Worlds Best Master Blender“ verliehen
-- Die edle Geschenkdose macht diesen Whisky zum perfekten Geschenk für liebe Menschen oder zum Blickfang in der Hausbar
+- Single Malt Whisky mit typischen Noten von Heidehonig, frischen Apfelschnitzen, Vanille und herb-frischer Orange
+- Dieser reife Premium-Whisky lagert mindestens 12 Jahre lang in vier verschiedenen Eichenfässern (1. Fill Sherry, 1. Fill Bourbon, Rechar, Refill) – für ein vollmundiges, rundes Genusserlebnis
 - Serviere diesen reifen Whisky pur, auf Eis in einem Whiskyglas deiner Wahl oder in einem „Gold Fashioned“-Cocktail
+- Die edle Geschenkdose macht diesen Whisky zum perfekten Geschenk für liebe Menschen oder zum Blickfang in der Hausbar
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B077XBJSSV{{</world>}}

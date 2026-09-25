@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dixit ... ein erstaunliches Spiel
-- Enthält 84 Karten
-- Zum Spielen wird eine Kopie von Dixit benötigt.
-- Charmant und anregend, um mit Freunden und Familie gleichermaßen zu genießen.
 - Für 3 bis 8 Spieler Ab 6 Jahren
+- Dixit ... ein erstaunliches Spiel
+- Charmant und anregend, um mit Freunden und Familie gleichermaßen zu genießen.
+- Zum Spielen wird eine Kopie von Dixit benötigt.
+- Enthält 84 Karten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09MLZLCLH{{</world>}}

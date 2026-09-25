@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- KLEIN UND FEIN: Der Kuli im Mini-Format verfügt über eine erstklassige Drehmechanik bei nur 8 Zentimetern Länge. Damit passt das Mini-Schreibgerät perfekt in kleine Portemonnaies sowie Hemd- oder Hosentaschen.
-- ONLINE MARKENQUALITÄT: Online ist ein deutsches Unternehmen seit 1991 und Spezialist in Sachen Schreibgeräte, Kalligraphie-Sets, Etuis u.v.m.
-- IMMER DABEI: Ein stabiler Metall-Clip fixiert Ihren Stift genau da, wo Sie ihn brauchen. Damit haben Sie ihn unterwegs für kleine Notizen etc. immer griffbereit.
 - KLEINE AUFMERKSAMKEIT: Ein kleines Geschenk, das jeder gebrauchen kann. Überraschen Sie Ihre Kollegen, Freunde oder Familienmitglieder mit dem edlen Taschen-Kugelschreiber.
+- ONLINE MARKENQUALITÄT: Online ist ein deutsches Unternehmen seit 1991 und Spezialist in Sachen Schreibgeräte, Kalligraphie-Sets, Etuis u.v.m.
 - HOCHWERTGE MINE: Trotz Miniaturformat ist der Metallkugelschreiber mit einer D1 Qualitätsmine mit Edelstahl-Kugel in Strichstärke M ausgestattet. Die Schriftfarbe ist blau und dokumentenecht.
+- IMMER DABEI: Ein stabiler Metall-Clip fixiert Ihren Stift genau da, wo Sie ihn brauchen. Damit haben Sie ihn unterwegs für kleine Notizen etc. immer griffbereit.
+- KLEIN UND FEIN: Der Kuli im Mini-Format verfügt über eine erstklassige Drehmechanik bei nur 8 Zentimetern Länge. Damit passt das Mini-Schreibgerät perfekt in kleine Portemonnaies sowie Hemd- oder Hosentaschen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00EWDUXZ8{{</world>}}

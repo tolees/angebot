@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wasserbeständigkeitsgrad : Nicht Wasserfest
-- Obermaterial : Netz
-- Schuhweite : Normal
-- Innenmaterial : Ohne Futter
 - Absatzform : Flach
+- Obermaterial : Netz
+- Wasserbeständigkeitsgrad : Nicht Wasserfest
+- Innenmaterial : Ohne Futter
+- Schuhweite : Normal
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B004BJ2C0M{{</world>}}

@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SPIELSPASS GANZ OHNE BILDSCHIRM: Kinder können fantasievoll zusammen mit anderen spielen, auf Evolis Floß steigen und sich mit Lapras in Abenteuer stürzen und jede Menge Actionspaß erleben
-- FANTASIEVOLLES SPIELERLEBNIS: Kinder können Pokémon-Trainer werden, einer Karte zum Schiffswrack folgen und den Mast herablassen, um einen Felsen hochzuheben und darunter eine Schatzkiste voller Münzen und Edelsteine zu entdecken
-- POKÉMON-REAKTIONEN: SMART Tags in Evoli, Lapras und der Schatzkiste aktivieren nicht enthaltene SMART Bricks, die die Pokémon bei interaktiven Rollenspielen mit Licht- und Soundeffekten reagieren lassen
-- 2 BEWEGLICHE POKÉMON: Das niedliche Evoli kann Schwanz und Ohren bewegen und das große Lapras hat bewegliche Flossen. Lass die beiden Pokémon den Schatz suchen, Musik hören und Duelle austragen – mit interaktiven SMART Play Funktionen
-- SO AKTIVIERST DU DEIN SET: Füge einen LEGO SMART Brick aus einem separat erhältlichen All-in-1 Set hinzu, um faszinierende Spielfunktionen zu aktivieren. SMART Bricks sind nicht als eigenständiges Produkt erhältlich
 - GESCHENKIDEE FÜR KINDER: Dieses Set ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk, das Kinder und Pokémon Fans ab 8 Jahren zu unzähligen Rollenspielen inspiriert
 - ABENTEUER-BAUSPIELZEUG: Evoli und Lapras auf Schatzsuche (72162) ist ein LEGO Pokémon SMART Play kompatibles Set, das Kinder unzählige fantasievolle Abenteuer auf hoher See erleben lässt
+- SPIELSPASS GANZ OHNE BILDSCHIRM: Kinder können fantasievoll zusammen mit anderen spielen, auf Evolis Floß steigen und sich mit Lapras in Abenteuer stürzen und jede Menge Actionspaß erleben
+- 2 BEWEGLICHE POKÉMON: Das niedliche Evoli kann Schwanz und Ohren bewegen und das große Lapras hat bewegliche Flossen. Lass die beiden Pokémon den Schatz suchen, Musik hören und Duelle austragen – mit interaktiven SMART Play Funktionen
+- POKÉMON-REAKTIONEN: SMART Tags in Evoli, Lapras und der Schatzkiste aktivieren nicht enthaltene SMART Bricks, die die Pokémon bei interaktiven Rollenspielen mit Licht- und Soundeffekten reagieren lassen
+- SO AKTIVIERST DU DEIN SET: Füge einen LEGO SMART Brick aus einem separat erhältlichen All-in-1 Set hinzu, um faszinierende Spielfunktionen zu aktivieren. SMART Bricks sind nicht als eigenständiges Produkt erhältlich
+- FANTASIEVOLLES SPIELERLEBNIS: Kinder können Pokémon-Trainer werden, einer Karte zum Schiffswrack folgen und den Mast herablassen, um einen Felsen hochzuheben und darunter eine Schatzkiste voller Münzen und Edelsteine zu entdecken
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0GK7SGRRZ{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Empfohlenes Alter: ab 12 n
-- 1000 Puzzleteile
-- Puzzlemaße: 69, 30 x 49, 30 cm
 - SCHMIDT SPIELE Premium-Puzzles – mit Qualität, die Sie greifen können
+- Empfohlenes Alter: ab 12 n
+- Puzzlemaße: 69, 30 x 49, 30 cm
+- 1000 Puzzleteile
 - Puzzle vom Painter of Light Thomas Kinkade
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

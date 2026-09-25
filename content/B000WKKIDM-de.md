@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Im praktischen Pappspender
 - Lösungsmittelfrei
+- Im praktischen Pappspender
 - Selbstklebend
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

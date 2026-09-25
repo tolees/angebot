@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ausgewogener Geschmack zwischen der Finesse des Chardonnays und der Stärke des Pinot Noirs
 - Ein Champagner, der Tradition und Moderne vereint in 0,375l Flasche
 - Beim Essen harmoniert Blue Top ideal zu Fisch und Weißem Fleisch
 - Ein lebhafter Wein, ideal als Aperitif
+- Ausgewogener Geschmack zwischen der Finesse des Chardonnays und der Stärke des Pinot Noirs
 - Die folgenden Informationen gelten für jede Einheit pro Packung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

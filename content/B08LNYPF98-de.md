@@ -31,8 +31,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Wo haben wir angefangen? Alles begann mit einer Idee, ein überlegenes T-Shirt zu bauen
 - Zweilagiges Gewebe mit einer ultra-warmen, gebürsteten Innenseite und einer glatten, schnell trocknenden Außenseite
 - Under Armour Mission ist es, alle Athleten durch Leidenschaft, Design und das Streben nach Innovation besser zu machen
-- Eingefasster Elastikbund sitzt genau richtig auf der Hüfte
 - Das Material leitet Schweiß ab und trocknet sehr schnell
+- Eingefasster Elastikbund sitzt genau richtig auf der Hüfte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08LNYPF98{{</world>}}

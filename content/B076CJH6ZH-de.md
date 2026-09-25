@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Maße L x B x H ca. 40 x 40 x 10 mm. Max. Traglast je Set 27-30 kg.
 - Antivibrations- Geräte- und Boxenfüsse von Dynavox
 - Dank unterschiedlicher Einzelnoppen sehr gute Enkoppelung und stabiler Stand
-- klangliche Verbesserung durch akustische Entkoppelung
 - Preis für 4er Set, Füße sind Selbstkleben, Montage mit geringem Aufwand
-- Maße L x B x H ca. 40 x 40 x 10 mm. Max. Traglast je Set 27-30 kg.
+- klangliche Verbesserung durch akustische Entkoppelung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B076CJH6ZH{{</world>}}

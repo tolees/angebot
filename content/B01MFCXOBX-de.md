@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Unfermentierter Tee
-- Höchsten Koffeingehalt unter den grünen Tees
 - Bioland-Qualität
+- Höchsten Koffeingehalt unter den grünen Tees
+- Unfermentierter Tee
 - Besitzt einen kräftig-herben Geschmack
 - Grüntee mit charakteristisch gerollten Blättern
 

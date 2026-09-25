@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Better Leather
-- Obbermaterial: 100% Rindsleder
 - Futter: 46 % Schweinsleder 32 % Gewebe (45 % recyceltes Polyester - 35 % recycelte Baumwolle - 20 % Viskose) 22 % recyceltes Polyester
-- Farbe: Schwarz
+- Better Leather
 - Laufsohle: 100% EVA
+- Obbermaterial: 100% Rindsleder
+- Farbe: Schwarz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CXJNRK4K{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bequemes Tragegefühl dank optimaler Dämpfung
 - Reguläre Passform
 - Textilfutter
+- Bequemes Tragegefühl dank optimaler Dämpfung
 - EVA-Einlegesohle
 - Obermaterial aus Synthetikleder
 - Schnürsenkel

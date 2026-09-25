@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- STABILO Anti-Dry-Out Technology: 4 Stunden Austrocknungsschutz
 - Rutschfeste Oberfläche in transluzenter Optik
 - Praktischer Clip und extra schlanke Stiftform - Perfekt für unterwegs
-- 2 Strichstärken: 1 + 4 mm
-- STABILO Anti-Dry-Out Technology: 4 Stunden Austrocknungsschutz
 - Erhältlich in vielen leuchtenden und pastelligen Farben Farben
+- 2 Strichstärken: 1 + 4 mm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B079TKCV92{{</world>}}

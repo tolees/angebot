@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Polyester-terry
-- Seitentaschen mit reißverschluss
 - Zweiteiliger elastischer bund mit kordelzug
+- Seitentaschen mit reißverschluss
 - Beinabschluss mit reißverschluss
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

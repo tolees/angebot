@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Slim Fit
 - Niedrige Bundhöhe
+- Slim Fit
 - Hergestellt aus nachhaltigen Materialien
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

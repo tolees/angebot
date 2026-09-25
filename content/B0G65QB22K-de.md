@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - HÖHERE SICHERHEIT: mit intelligenten Funktionen wie Fallkontrolle und Aufprallschutz
-- LIEFERUMFANG: GBS18V-75, 1x 80er Gitterschleifband, 1x Staubbeutel
 - OPTIMALE KONTROLLE: mit einem kompakten, leichten, ergonomischen Design für die Ein- oder Zweihandbedienung
+- LIEFERUMFANG: GBS18V-75, 1x 80er Gitterschleifband, 1x Staubbeutel
 - STARKE LEISTUNG: dank kraftvollem bürstenlosem Motor
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

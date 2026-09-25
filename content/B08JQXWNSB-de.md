@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zwei Netzinnenfächer
 - Anschmiegsam, robust und leicht dank Neopren-Material
 - Reißverschluss-Hauptfach
+- Zwei Netzinnenfächer
 - Kabelausgang für Kopfhörer
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

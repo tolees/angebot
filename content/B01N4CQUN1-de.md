@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sechskant-Ausführung mit Haltemagnet
 - gefertigt aus Chrom-Vanadium-Stahl
-- Länge: 100 mm
-- Abtriebsprofil: Sechskant
-- 6,3 mm (1/4") Bohrmaschinenschaft
 - Schlüsselweite: 7 mm
+- Abtriebsprofil: Sechskant
+- Länge: 100 mm
+- 6,3 mm (1/4") Bohrmaschinenschaft
+- Sechskant-Ausführung mit Haltemagnet
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01N4CQUN1{{</world>}}

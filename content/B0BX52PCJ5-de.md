@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 8000 Hz Abfragerate für blitzschnelle Reaktionen: Die Maus erfasst Bewegungen bis zu 8-mal pro Millisekunde, was eine unglaublich schnelle Reaktionszeit ermöglicht und Eingabeverzögerungen minimiert – perfekt für wettbewerbsorientiertes Gaming
-- Anpassbar mit der HyperX NGENUITY Software: Erstelle Makros, passe die DPI-Einstellungen an und gestalte die RGB-Beleuchtung nach deinen Wünschen – die HyperX NGENUITY Software gibt dir volle Kontrolle über dein Setup
-- Präziser HyperX 26K Sensor: Mit einer nativen Auflösung von bis zu 26.000 DPI und einer Tracking-Geschwindigkeit von 650 IPS sorgt der HyperX 26K Sensor für extreme Präzision, um auch in intensiven Spielsituationen die Oberhand zu behalten
 - Langlebige HyperX Switches: Entwickelt für bis zu 100 Millionen Klicks, bieten die HyperX Switches ein präzises, haptisches und akustisches Feedback, das dir auch bei intensiven Sessions Zuverlässigkeit garantiert
+- Präziser HyperX 26K Sensor: Mit einer nativen Auflösung von bis zu 26.000 DPI und einer Tracking-Geschwindigkeit von 650 IPS sorgt der HyperX 26K Sensor für extreme Präzision, um auch in intensiven Spielsituationen die Oberhand zu behalten
+- Anpassbar mit der HyperX NGENUITY Software: Erstelle Makros, passe die DPI-Einstellungen an und gestalte die RGB-Beleuchtung nach deinen Wünschen – die HyperX NGENUITY Software gibt dir volle Kontrolle über dein Setup
 - Ultraleichtes Design mit nur 53 g: Die HyperX Pulsefire Haste 2 ermöglicht mit ihrem leichten Design schnelle, präzise Bewegungen und reduziert die Ermüdung der Hand – ideal für lange Gaming-Sessions mit maximaler Kontrolle
 
 [🛒 Hier!!]({{< param buyurl >}})

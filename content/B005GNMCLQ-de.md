@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Geeignet für alle Notebooks, Netbooks und MacBooks mit max. 16 Zoll Displaygröße; Kein Rutschen und Verkratzen des Notebooks durch Schutzgummifüße
-- Notebook-Ständer mit 2 integrierten leisen Lüftern für bequem geneigte Tippposition und Überhitzungsschutz
 - Verbesserung der Kühlungsleistung des Notebooks und Schutz der Möbel und Beine vor Hitze
+- Notebook-Ständer mit 2 integrierten leisen Lüftern für bequem geneigte Tippposition und Überhitzungsschutz
 - USB-Lüfter: kein Netzanschluss erforderlich;USB-Kabel und Stecker lassen sich bei Nichtgebrauch im Ständer
 - 8 verstellbare Stufen zum Erhöhen und Drehen des Bildschirms und der Tastatur für bequemeres Arbeiten
 

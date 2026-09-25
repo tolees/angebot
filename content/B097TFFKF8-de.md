@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Traditionelle Schnürung
 - Zuglasche an der Ferse
-- Hoher Tragekomfort
 - Ästhetik verleihen
+- Hoher Tragekomfort
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B097TFFKF8{{</world>}}

@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Sparen Sie Platz und reduzieren Sie das Kabelgewirr, indem Sie Ihren thin-client PC oder Ihre Dockingstation an der Rückseite Ihres Monitors, an einer Monitorhalterung, unter Ihrem Schreibtisch oder an der Wand befestigen
 - Trägt bis zu 5 kg
+- Unterstützung für VESA-Halterungen 75 x 75 und 100 x 100
 - Gummipads zur Vermeidung von Schäden an Ihrem Gerät
 - Verstellbarer Riemen fixiert das Gerät sicher
-- Unterstützung für VESA-Halterungen 75 x 75 und 100 x 100
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B076N6B6GQ{{</world>}}

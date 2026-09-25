@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gummiaußensohle in vulkanisierter Optik
-- Gewebte Zugschlaufe im Fersenbereich
-- Schnürsenkel
 - Reguläre Passform
+- Schnürsenkel
+- Gewebte Zugschlaufe im Fersenbereich
 - Obermaterial aus Synthetik-Nubuk
+- Gummiaußensohle in vulkanisierter Optik
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BJL2VCTQ{{</world>}}

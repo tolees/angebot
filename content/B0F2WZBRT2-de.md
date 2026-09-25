@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rundhalsausschnitt | Kurzarm
 - Passform: Regular Fit, Rückenlänge bei Größe M ca. 72 cm
 - Aus weichem Single-Jersey-Stoff
 - Basic T-Shirt mit Rundhalsausschnitt und kleiner Logo-Stickerei auf der Brust
+- Rundhalsausschnitt | Kurzarm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0F2WZBRT2{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bourjois
 - Bb Cream Healthy Mix Anti Fatiga
+- Bourjois
 - 03 dark/fonce
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

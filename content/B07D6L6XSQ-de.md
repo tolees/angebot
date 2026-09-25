@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Länge: 1,8 m
+- Kompatibel mit den DisplayPort-Spezifikationen der Version 1.2; kompatibel mit DP, DP++ und DisplayPort++; unterstützt Video-Auflösungen bis 4K x 2K
 - Perfekt für Video-Streams, fürs Gaming oder zur Erweiterung des Arbeitsplatzes
 - Das DisplayPort-auf-DisplayPort-Kabel überträgt HD-Audio- und -Video-Signale vom Computer auf einen Bildschirm
 - Vergoldete Stecker; Konduktoren aus blankem Kupfer; folien- und geflechtgeschirmt für Robustheit und eine verlässliche Verbindung
-- Kompatibel mit den DisplayPort-Spezifikationen der Version 1.2; kompatibel mit DP, DP++ und DisplayPort++; unterstützt Video-Auflösungen bis 4K x 2K
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07D6L6XSQ{{</world>}}

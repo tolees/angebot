@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Paspeltaschen
-- Gut für einen lässigen Look
 - Der Stretchanteil sorgt für guten Tragekomfort
+- Gut für einen lässigen Look
+- Paspeltaschen
 - Mit konischer Beinform
 - Low Rise, schmale Oberschenkel, Beinenden
 

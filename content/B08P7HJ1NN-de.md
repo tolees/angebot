@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 0,35 mm Strichstärke = 0.7 mm ball, Schreibfarbe sepia
-- Tipp: EnerGel Nachfüllminen passen in jedes nachfüllbare EnerGel-Modell, unabhängig von der ab Werk befüllten Strichstärke und Farbe
-- passend für die Modelle BL107/BL2007/BL2507/BL407/BL77/BL77E
-- Pentel EnerGel Nachfüllmine für Liquid Gel-Tintenroller
 - original EnerGel-Tinte, schreibt sanft, trocknet schnell, ideal für Linkshänder
+- Pentel EnerGel Nachfüllmine für Liquid Gel-Tintenroller
+- passend für die Modelle BL107/BL2007/BL2507/BL407/BL77/BL77E
+- Tipp: EnerGel Nachfüllminen passen in jedes nachfüllbare EnerGel-Modell, unabhängig von der ab Werk befüllten Strichstärke und Farbe
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08P7HJ1NN{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Niedriger Schaft
 - PUMA Branding-Details
 - SoftFoam+ Innensohle
+- Niedriger Schaft
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DJ9BDP41{{</world>}}

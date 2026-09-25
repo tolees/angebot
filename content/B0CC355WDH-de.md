@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Materialzusammensetzung: 64% Viskose, 31% Polyester, 5% Elasthan
-- Mittlere Taille
-- Gürtelschlaufen
-- Slim Fit
 - Chino Hose
+- Slim Fit
+- Gürtelschlaufen
+- Mittlere Taille
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CC355WDH{{</world>}}

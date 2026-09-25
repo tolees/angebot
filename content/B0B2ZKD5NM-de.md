@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Überragende Bildqualität
-- Leichtes, kompaktes Gehäuse
 - Besonders geeignet für Landschafts-, Hochzeits- und Reisefotografen
+- Leichtes, kompaktes Gehäuse
 - Hochwertige Vergütung
+- Überragende Bildqualität
 - Ultraweitwinkel-Zoom-Objektiv für Vollformatkameras
 
 [🛒 Hier!!]({{< param buyurl >}})

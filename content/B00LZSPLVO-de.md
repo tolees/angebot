@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Braun HD 130 Haartrockner Satin Hair 1'
-date: 2026-08-20 13:46:49
+date: 2026-09-21 07:02:14
 image: 'https://m.media-amazon.com/images/I/31sARLukZtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B00LZSPLVO/?tag=tolees0ca-21'
 descuento: '20.01'
-average: '16.548'
+average: '16.455'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,8 +28,6 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1200 Watt, 2 Temperatureinstellungen, Styling Düse.
-- Infrarot-Heizsystem fü̈r effizientes, schnelles Trocknen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00LZSPLVO{{</world>}}

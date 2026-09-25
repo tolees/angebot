@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anwendung: Nach der Reinigung oder bei Bedarf auftragen und mit sanft kreisenden Bewegungen einmassieren, Anschließend kurz einziehen lassen, Geeignet für Gesicht, Hände und Körper
-- Ergebnis: Milderung von Unebenheiten, 48 Stunden Feuchtigkeitsversorgung, Schutz der Hautbarriere, Wirkungsvoll gegen Spannungsgefühle, Risse, Juckreiz aufgrund von Trockenheit und Rötungen
-- Regenerierende Wundpflegecreme speziell für empfindliche und zu Neurodermitis neigende Haut, Gegen Juckreiz, Rötungen und Trockenheit
 - Lieferumfang: 1 x Mixa Hautberuhigende Creme für empfindliche und zu Neurodermitis neigende Haut, 400 ml
+- Anwendung: Nach der Reinigung oder bei Bedarf auftragen und mit sanft kreisenden Bewegungen einmassieren, Anschließend kurz einziehen lassen, Geeignet für Gesicht, Hände und Körper
+- Regenerierende Wundpflegecreme speziell für empfindliche und zu Neurodermitis neigende Haut, Gegen Juckreiz, Rötungen und Trockenheit
+- Ergebnis: Milderung von Unebenheiten, 48 Stunden Feuchtigkeitsversorgung, Schutz der Hautbarriere, Wirkungsvoll gegen Spannungsgefühle, Risse, Juckreiz aufgrund von Trockenheit und Rötungen
 - Hochverträgliche und sanfte Formel mit pflanzlichem Glycerin und Omega 6, Leichte, schnell einziehende und nicht fettende Textur
 
 [🛒 Hier!!]({{< param buyurl >}})

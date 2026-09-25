@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - EFFEKTIVE MARDERABWEHR MIT ULTRASCHALL – Der marderschreck erzeugt periodische Ultraschalltöne zur Unterstützung der Marderabwehr in Garage, Carport, Dachboden oder Motorraum. Die wechselnden Frequenzen helfen, einen Gewöhnungseffekt zu reduzieren
 - DISKRETE ANWENDUNG MIT GROSSER REICHWEITE – Die Ultraschallsignale sind außerhalb des Einsatzbereichs kaum wahrnehmbar. Der Wirkungsbereich beträgt bis zu ca. 60 m² und eignet sich für geschützte Innen- und Außenbereiche
-- VIELSEITIGER SCHUTZ FÜR FAHRZEUG UND UMLIEGENDE BEREICHE – Entwickelt zur Unterstützung der Marderabwehr rund um Fahrzeuge, Garagen, Carports, Schuppen und angrenzende Haushaltsbereiche. Geeignet für den langfristigen Einsatz in Innenräumen und geschützten Außenbereichen
 - FÜR MENSCHEN UND HAUSTIERE GEEIGNET – Die hohen Frequenzen werden von Menschen kaum wahrgenommen und eignen sich zur Anwendung in alltäglichen Wohn- und Nutzbereichen als unterstützende marderabwehr ohne Duftstoffe oder Fallen
+- VIELSEITIGER SCHUTZ FÜR FAHRZEUG UND UMLIEGENDE BEREICHE – Entwickelt zur Unterstützung der Marderabwehr rund um Fahrzeuge, Garagen, Carports, Schuppen und angrenzende Haushaltsbereiche. Geeignet für den langfristigen Einsatz in Innenräumen und geschützten Außenbereichen
 - EINFACHE INSTALLATION & DEUTSCHER SUPPORT – Anschluss direkt an eine 12V Stromquelle mit LED-Statusanzeige zur Kontrolle der Funktion. Deutscher Anbieter mit Kundenservice und Unterstützung bei Installation und Anwendung
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die Brett-, Karten-, Würfel- und Knobelspiele bieten 80 weitere Spielvarianten
-- In der massiven Holzkiste mit Filzboden geht nichts verloren
-- Umfangreiche Spielesammlung aus Holz mit Würfelspielen, Ludo, Barrikade, Backgammon, Schach, Dame, Mühle, Halma etc.
 - Maße: ca. 36 x 36 x 7 cm
+- Umfangreiche Spielesammlung aus Holz mit Würfelspielen, Ludo, Barrikade, Backgammon, Schach, Dame, Mühle, Halma etc.
+- In der massiven Holzkiste mit Filzboden geht nichts verloren
 - Inkl. Anleitung für 20 Spiele
 
 [🛒 Hier!!]({{< param buyurl >}})

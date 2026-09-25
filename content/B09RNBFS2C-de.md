@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Netz-/Akkubetrieb, Lithiumbetrieben für bis zu 50 Minuten Betriebszeit, 90 Minuten Ladezeit
-- Präzisionslängeneinstellung für exaktes Schneiden der Haare (0,8-2 mm)
 - Hochentwickelte, selbstschärfende Keramikklingen für eine professionelle Schneidleistung
 - Profi-Alukoffer ausgestattet mit Schere, Kamm, Nackenbürste und Friseurumhang
+- Netz-/Akkubetrieb, Lithiumbetrieben für bis zu 50 Minuten Betriebszeit, 90 Minuten Ladezeit
+- Präzisionslängeneinstellung für exaktes Schneiden der Haare (0,8-2 mm)
 - 10 Aufsteckkämme (3-40mm), LED-Batteriestatusanzeige, Rutschfester Griff, Ladestation
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

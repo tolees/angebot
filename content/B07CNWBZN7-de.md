@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der HearthWick-Docht knistert beim Abbrennen und erzeugt eine lange, tanzende Flamme.
-- Die hochwertige Mischung aus Paraffin- und Sojawachs sorgt für eine wunderschöne Flamme.
-- Diese beliebte Kollektion bietet eine Kombination aus verschiedenen Duftnoten, die beim Schmelzen ihr ganz eigenes Aroma entfalten.
 - Diese Trilogy-Kerze kombiniert drei beliebte Düfte: Currant, Spiced Blackberry und Black Cherry.
+- Diese beliebte Kollektion bietet eine Kombination aus verschiedenen Duftnoten, die beim Schmelzen ihr ganz eigenes Aroma entfalten.
 - Brenndauer: bis zu 50 Stunden
+- Die hochwertige Mischung aus Paraffin- und Sojawachs sorgt für eine wunderschöne Flamme.
+- Der HearthWick-Docht knistert beim Abbrennen und erzeugt eine lange, tanzende Flamme.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07CNWBZN7{{</world>}}

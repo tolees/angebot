@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 500 gr. Packung
 - Die folgenden Informationen gelten für jede Einheit pro Packung
+- Italienische Pasta
+- 500 gr. Packung
 - De Cecco
 - Spaghetti Nr. 12
-- Italienische Pasta
 - Hartweizengrießnudeln
 
 [🛒 Hier!!]({{< param buyurl >}})

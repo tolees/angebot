@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Kunstleder/PU
 - Sohle: Fabric
 - Absatzform: Reißverschluss
+- Obermaterial: Kunstleder/PU
 - Innenmaterial: Polyester
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Klassiker in modischen Farben
 - Hautfreundliches Material
-- Hoher Tragekomfort
 - Weich & anschmiegsam
+- Hoher Tragekomfort
 - Perfekte Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -31,9 +31,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - Hergestellt in Italien.
 - Maschinengröße: 22,5 x 18 x 12 cm.
 - 10 Nudelstärken möglich
-- Inklusive Bäckerrutsche
 - Stückzahl: 1
 - Extra breite Blätter: 18 cm.
+- Inklusive Bäckerrutsche
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B086ZWT3SG{{</world>}}

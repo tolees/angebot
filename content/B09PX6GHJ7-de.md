@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Maßstabsgetreues Lenkrad und Fußpedale, optimiert für ein authentisches Rennerlebnis
 - Kompatibel mit Playstation 5, Playstation 4 und PC
-- Offiziell lizenziert von Sony
 - 270 Grad Lenkradius mit einstellbaren Output-Optionen
+- Offiziell lizenziert von Sony
 - Sichere Montage mit stabilem Klemmsystem
 
 [🛒 Hier!!]({{< param buyurl >}})

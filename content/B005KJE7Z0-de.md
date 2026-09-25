@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - mit zusätzlichen Aufhängeösen und bis Format 20x30 cm sind die Rahmen mit einem Aufsteller ausgestattet
-- Marke: walther design
-- Aluminiumrahmen mit 1 cm breitem quadratischen Profil und einer matt gebürsteter Oberfläche
 - erhältlich in 5 Farben und 14 Formaten (die quadratischen Formate sind mit einem Schrägschnittpassepartout ausgestattet)
+- Aluminiumrahmen mit 1 cm breitem quadratischen Profil und einer matt gebürsteter Oberfläche
+- Marke: walther design
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B005KJE7Z0{{</world>}}

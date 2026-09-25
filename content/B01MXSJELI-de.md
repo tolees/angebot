@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lico Rockfield Herren Hallenturnschuh Schwarz/ Grau/ Lemon 44 EU'
-date: 2026-08-24 07:08:50
+date: 2026-09-25 04:05:08
 image: 'https://m.media-amazon.com/images/I/41FC8trG-LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01MXSJELI-de Lico Rockfield Herren Hallenturnschuh Schwarz/ Grau/ Lemon...'
 sku: 'B01MXSJELI-de'
 tags: [ '🇩🇪', ]
-actualPrice: 26.36 EUR
+actualPrice: 32.95 EUR
 currency: EUR
-price: 26.36
+price: 32.95
 comparePrice: 39.95 EUR
 prodname: 'Lico Rockfield Herren Hallenturnschuh Schwarz/ Grau/ Lemon 44 EU'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MXSJELI/?tag=tolees0ca-21'
-descuento: '34.02'
-average: '29.6575000000001'
+descuento: '17.52'
+average: '30.3160000000001'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,10 +28,6 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Schnürung
-- Obermaterial: Synthetisch
-- Sohle: Gummi
-- Innenmaterial: Textil
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01MXSJELI{{</world>}}

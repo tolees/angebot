@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Wizardry: Proving Grounds of the Mad Overlord ist ein vollständiges 3D-Remake des ersten Spiels der legendären Wizardry-Rollenspielreihe.
-- Das Gruppenmanagement, die Navigation, die Zauberei und der Kampf wurden alle erheblich verbessert.
 - Wizardry: Proving Grounds of the Mad Overlord baut direkt auf dem Code des Originalspiels von 1981 auf.
+- Das Gruppenmanagement, die Navigation, die Zauberei und der Kampf wurden alle erheblich verbessert.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DJBXCWB5{{</world>}}

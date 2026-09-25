@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - TAKTISCHER KOMBO-HORIZONT: Perfektioniere magische Konter, Dodges und Elementar-Fusionen (Feuerstöße, Blitzschläge!) – kämpfe solo oder im Online-/Couch-Koop mit Rollback-Netcode für butterweiche Synergien
-- IKONISCHER SOUNDTRACK: Komponiert von Gareth Coker (Ori, Halo Infinite) mit Boss-Tracks von Yuka Kitamura (Elden Ring) und Mick Gordon (DOOM) – ein orchestrales Epos, das Talamhs Drama vertont
 - ROGUELITE-REVOLUTION: Kombiniere klassische Prügel-Action mit Hades-inspiriertem Roguelite-Loop: Prozedurale Runs, verzweigte Pfade, Ritual-Fähigkeiten und permanente Upgrades sorgen für endlosen Wiederspielwert
 - VIER UNVERGESSLICHE HELDEN: Spiele als Galandra (schwertführende Nekromantin), Karl (hammer-schwingender Zwerg), Brome (magisches Wunderkind) oder Cider (rätselhafter Scharmützler) – jeder mit einzigartigen Combos, Elementarkräften und Story-Arc
+- IKONISCHER SOUNDTRACK: Komponiert von Gareth Coker (Ori, Halo Infinite) mit Boss-Tracks von Yuka Kitamura (Elden Ring) und Mick Gordon (DOOM) – ein orchestrales Epos, das Talamhs Drama vertont
 - VIER UNVERGESSLICHE HELDEN: Spiele als Galandra (schwertführende Nekromantin), Karl (hammer-schwingender Zwerg), Brome (magisches Wunderkind) oder Cider (rätselhafter Scharmützler) – jeder mit einzigartigen Combos, Elementarkräften und Story-Arc
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

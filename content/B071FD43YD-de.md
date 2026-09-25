@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kapuze
-- Materialzusammensetzung: Außenschicht: 85% Polyester, 15% Baumwolle; Futter: 85% Polyester, 15% Baumwolle
 - Langarm
 - Mantel
+- Materialzusammensetzung: Außenschicht: 85% Polyester, 15% Baumwolle; Futter: 85% Polyester, 15% Baumwolle
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B071FD43YD{{</world>}}

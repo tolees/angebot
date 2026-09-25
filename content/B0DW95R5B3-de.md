@@ -30,10 +30,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - ENTFESSELN SIE DIE 3X ACTIVE DEFENCE-FORMEL: Dauerhafter Duft / Schutz vor Gerüchen / mit Geruchsbekämpfern – für einen legendären Duft rund um die Uhr (*bei täglicher Anwendung)
 - VERABSCHIEDEN SIE SICH VON KÖRPERGERÜCHEN UND BEGRÜSSEN SIE LANGANHALTENDE FRISCHE: Genießen Sie 24/7 Frischeeee* in Parfümqualität und ein umwerfendes Selbstbewusstsein mit dem Old Spice Deostick (*bei täglicher Anwendung)
-- ERLEBEN SIE DEN DUFT VON EPIC LEGEND: Der Duft von Bourbon-Vanille, Kirsch-Tabak, geräuchertem Eichenholz und warmem Bernstein verwandelt Sie in einen legendären Ritter der Frische
-- PROBIEREN SIE DEN DEOSTICK FÜR STARKEN SCHUTZ VOR GERÜCHEN UNTER DEN ARMEN: Trockene und einfache Anwendung direkt auf der Haut (im Vergleich zum Old Spice Deospray)
-- VERPACKUNG AUS 50 % RECYCELTEM PLASTIK: Die Rettung der Welt vor Körpergeruch ist erst der Anfang der heroischen Mission von Old Spice
 - ERLEBEN SIE UNSICHTBARE FRISCHE MIT 0 % ALUMINIUMSALZEN: Wie ein Ninja hält Sie der Old Spice Stick den ganzen Tag frisch, ohne Spuren auf weißer oder schwarzer Kleidung zu hinterlassen
+- PROBIEREN SIE DEN DEOSTICK FÜR STARKEN SCHUTZ VOR GERÜCHEN UNTER DEN ARMEN: Trockene und einfache Anwendung direkt auf der Haut (im Vergleich zum Old Spice Deospray)
+- ERLEBEN SIE DEN DUFT VON EPIC LEGEND: Der Duft von Bourbon-Vanille, Kirsch-Tabak, geräuchertem Eichenholz und warmem Bernstein verwandelt Sie in einen legendären Ritter der Frische
+- VERPACKUNG AUS 50 % RECYCELTEM PLASTIK: Die Rettung der Welt vor Körpergeruch ist erst der Anfang der heroischen Mission von Old Spice
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DW95R5B3{{</world>}}

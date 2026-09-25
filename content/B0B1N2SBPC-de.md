@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geriffelte Gummiaußensohle
+- Memory Tech OrthoLite Einlegesohle
 - Veloursleder-Obermaterial
 - Weiches Tragegefühl
 - Textilfutter, Schnürverschluss
-- Memory Tech OrthoLite Einlegesohle
+- Geriffelte Gummiaußensohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B1N2SBPC{{</world>}}

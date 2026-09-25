@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DTS-HDHR 5.1: DEUTSCH
 - DTS Digital Surround 5.1: ITALIENISCH
 - DTS-HDMA 7.1: ENGLISH
+- DTS-HDHR 5.1: DEUTSCH
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B06XQT2G51{{</world>}}

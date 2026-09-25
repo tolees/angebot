@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Cashewkerne bestechen mit ihrer knackig-feinen Konsistenz und dem dezent süßlichen Aroma
 - Auch lässt er sich gut weiterverarbeiten: eingeweicht und vermahlen als Brotaufstrich sowie Dessert- und Smoothiezutat
 - Der etwas kleinteiligere Cashewbruch ist besonders beliebt im Müsli, geröstet über Currygerichten oder zum Backen
+- Cashewkerne bestechen mit ihrer knackig-feinen Konsistenz und dem dezent süßlichen Aroma
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09XR8KKFV{{</world>}}

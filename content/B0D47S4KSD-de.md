@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Emuliert Garrett Kings Schießstile/Looks
 - 16-Schicht-Beschichtung - Anti-Scratch / Anti-Reflective / Anti-Fingerprint
 - Everyday" (¼ Nebel) - Diffusionsstärke für subtile Lichthöfe
-- Emuliert Garrett Kings Schießstile/Looks
 - Shortstache Signature Edition - Polarizer + Black Mist
 - Aluminiumrahmen in dezentem, mattem Grün
 

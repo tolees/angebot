@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Reguläre Passform
 - Textilfutter
-- Schnürsenkel
 - Obermaterial aus Leder
+- Schnürsenkel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CYTGVWKK{{</world>}}

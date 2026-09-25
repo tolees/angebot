@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Herren Entrada 22 Sweat Hoodie Team Yellow/Black L'
-date: 2026-08-20 11:15:33
+date: 2026-09-21 03:07:10
 image: 'https://m.media-amazon.com/images/I/318wrqo011L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B09H6W7KGR/?tag=tolees0ca-21'
 descuento: '29.02'
-average: '31.6349999999999'
+average: '31.6959999999999'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,11 +28,6 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bündchen und Saum gerippt
-- Regulär geschnitten
-- Kapuze mit weitenregulierbarem Kordelzug
-- Kängurutasche
-- 70 % Baumwolle / 30 % recycelter Polyester (Fleece)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09H6W7KGR{{</world>}}

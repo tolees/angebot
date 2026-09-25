@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Reflektionsarmes 4K OLED evo AI TV-Display mit perfektem Schwarz und perfekten Farben für mehr Heimkinogefühl zuhause
-- Unterstützt Dolby Atmos FlexConnect (DAFC) zur Anbindung von modularen, kabellosen Soundsystemen, wie die neue LG Sound Suite
 - Filmmaker Ambient Mode, Dolby Vision und Dolby Atmos für kinogleiches Entertainment
 - α11 Gen3 4K AI-Prozessor mit Dual AI Engine und zahlreichen AI-Funktionen für bestmögliche Bild- und Tonqualität
+- Unterstützt Dolby Atmos FlexConnect (DAFC) zur Anbindung von modularen, kabellosen Soundsystemen, wie die neue LG Sound Suite
 - Flüssiges Gaming mit bis zu 4K @ 165 Hz, Nvidia G-Sync und AMD FreeSync
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

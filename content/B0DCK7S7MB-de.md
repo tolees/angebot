@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Moderne Kinder-Clogs der Marke Crocs
 - Hergestellt aus Ethylen-Vinylacetat
+- Moderne Kinder-Clogs der Marke Crocs
 - Spezielles Design für Kinder
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nutze die Zerstörungskraft der stärksten Kämpfer, die jemals in Dragon Ball angetreten sind!
 - Erlerne und meistere eine unglaubliche Gruppe spielbarer Charaktere, jeder mit individuellen Fähigkeiten, Transformationen und Techniken.
 - Dragon Ball: Sparking! Zero bringt das legendäre Gameplay der Budokai-Tenkaichi-Serie auf eine völlig neue Stufe.
+- Nutze die Zerstörungskraft der stärksten Kämpfer, die jemals in Dragon Ball angetreten sind!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D6NBLKFV{{</world>}}

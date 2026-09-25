@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Unglaublich präziser 26K HyperX Sensor, strapazierfähige und angenehme HyperX Schalter, reibungsarme Gleiter, einzigartige Anti-Rutsch, personalisierbar mit der HyperX NGENUITY Software
-- Einfache Bewegung für ruhige Siege
-- Klein und leistungsstark
 - Zwei Modi der drahtlosen Konnektivität
 - Bis zu 100 Stunden Laufzeit
+- Einfache Bewegung für ruhige Siege
+- Unglaublich präziser 26K HyperX Sensor, strapazierfähige und angenehme HyperX Schalter, reibungsarme Gleiter, einzigartige Anti-Rutsch, personalisierbar mit der HyperX NGENUITY Software
+- Klein und leistungsstark
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CQPMCBDL{{</world>}}

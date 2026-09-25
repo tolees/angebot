@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell Schleif- und Gravur-Werkzeug TC-MT 150 E'
-date: 2026-08-23 11:06:57
+date: 2026-09-24 01:01:54
 image: 'https://m.media-amazon.com/images/I/41EnXmiJv3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DHCDBSWZ-de Einhell Schleif- und Gravur-Werkzeug TC-MT 150 E'
 sku: 'B0DHCDBSWZ-de'
 tags: [ '🇩🇪', ]
-actualPrice: 44.73 EUR
+actualPrice: 43.99 EUR
 currency: EUR
-price: 44.73
+price: 43.99
 comparePrice: 61.95 EUR
 prodname: 'Einhell Schleif- und Gravur-Werkzeug TC-MT 150 E'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0DHCDBSWZ/?tag=tolees0ca-21'
-descuento: '27.80'
-average: '45.486'
+descuento: '28.99'
+average: '45.2366666666667'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,13 +28,6 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leistung – Das Einhell Schleif- und Gravur-Werkzeug TC-MT 150 E hat eine Leistung von 150 W und eine Leerlaufdrehzahl von max. 35.000 U/min.
-- Anwendung – Das Schleif- und Gravur-Werkzeug kann vor allem für kleinere Reparaturen oder Bastelarbeiten an z. B. Glas, Holz, Stein oder Metall verwendet werden.
-- Arbeitsradius – Dank des 2 m langen Netzkabels kann flexibel mit dem Werkzeug gearbeitet werden. Eine Knickschutztülle sorgt für die Langlebigkeit des Kabels.
-- Aufbewahrung – Für oft verwendetes Zubehör ist die Gerätehalterung mit einer Zubehöraufbewahrung ausgestattet.
-- Gravurstift – Dank des schmalen Stifts an der 100 cm langen, flexiblen Welle sind auch präzise und detaillierte Schleif- und Gravurarbeiten mit dem Gerät optimal umsetzbar.
-- Materialgerecht – Mithilfe der 6-stufigen Drehzahlelektronik kann perfekt abgestimmt auf Material und Anwendung mit dem Gravur-Werkzeug gearbeitet werden.
-- Inkl. Zubehör – Mit dem Arretierknopf wird das Zubehör einfach und schnell gewechselt. Im Lieferumfang enthalten ist ein 117-teiliges Zubehör-Set.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DHCDBSWZ{{</world>}}

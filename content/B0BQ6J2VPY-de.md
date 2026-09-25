@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Absolute Bewegungsfreiheit
 - Normale Passform
 - Einfache Passform und einen modernen Look
-- Absolute Bewegungsfreiheit
 - Material-Prozentangaben können variieren. Genaue Angaben findest du auf dem Label
 - Aufgesticktes Logo
 

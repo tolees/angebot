@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 55 % Baumwolle / 36 % Polyester (recycelt) / 9 % Viskose
-- Kapuze mit weitenregulierbarem Kordelzug
 - Kängurutasche
+- Kapuze mit weitenregulierbarem Kordelzug
 - Regulär geschnitten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

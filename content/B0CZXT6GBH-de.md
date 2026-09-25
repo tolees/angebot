@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mittelhoher Bund
-- Besteht zu mindestens 70 % aus recycelten und erneuerbaren Materialien
-- Elastischer Bund mit Kordelzug
 - Regulär geschnitten
+- Mittelhoher Bund
 - 70 % Baumwolle / 30 % Polyester (recycelt)
 - Taschen auf der Vorderseite
+- Elastischer Bund mit Kordelzug
+- Besteht zu mindestens 70 % aus recycelten und erneuerbaren Materialien
 - Rippbündchen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
