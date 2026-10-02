@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- optimale Stabilität
 - klassischen Look
+- optimale Stabilität
 - echtem Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

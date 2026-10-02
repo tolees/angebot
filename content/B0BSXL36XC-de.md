@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für die elektronischen POWER-Elemente werden insgesamt 9 AAA-Batterien benötigt, diese sind im Set nicht enthalten. Es können wiederaufladbare Batterien verwendet werden
-- GraviTrax ist das flexibel erweiterbare und interaktive Kugelbahnsystem für Kinder ab 8 Jahren. Mit GraviTrax können ganze Kugelbahnwelten erschaffen werden. Alle GraviTrax Produkte der drei Linien GraviTrax, GraviTrax PRO und GraviTrax POWER lassen sich miteinander kombinieren. Ein ideales Geschenk nicht nur zum Geburtstag für Jungen und Mädchen
-- Das Element Light erleuchtet GraviTrax-Kugelbahnen stimmungsvoll in Rot, Grün, Blau und Weiß oder in einem durchlaufenden Farbwechsel
-- Das Element Light umfasst insgesamt 3 Lichtsäulen, die per Knopfdruck in verschiedene Farben eingestellt werden können. 12 große und 6 kleine transparente Höhensteine ermöglichen einen flexiblen Einbau in jede GraviTrax-Bahn.
 - Im Gegensatz zu den bisherigen elektronischen Elementen von GraviTrax POWER, senden oder empfangen die Lichtsäulen keine Funksignale. Dadurch sind sie unabhängig von anderen POWER Elementen und lassen sich so in jede GraviTrax Bahn perfekt integrieren.
+- Für die elektronischen POWER-Elemente werden insgesamt 9 AAA-Batterien benötigt, diese sind im Set nicht enthalten. Es können wiederaufladbare Batterien verwendet werden
+- Das Element Light erleuchtet GraviTrax-Kugelbahnen stimmungsvoll in Rot, Grün, Blau und Weiß oder in einem durchlaufenden Farbwechsel
+- GraviTrax ist das flexibel erweiterbare und interaktive Kugelbahnsystem für Kinder ab 8 Jahren. Mit GraviTrax können ganze Kugelbahnwelten erschaffen werden. Alle GraviTrax Produkte der drei Linien GraviTrax, GraviTrax PRO und GraviTrax POWER lassen sich miteinander kombinieren. Ein ideales Geschenk nicht nur zum Geburtstag für Jungen und Mädchen
+- Das Element Light umfasst insgesamt 3 Lichtsäulen, die per Knopfdruck in verschiedene Farben eingestellt werden können. 12 große und 6 kleine transparente Höhensteine ermöglichen einen flexiblen Einbau in jede GraviTrax-Bahn.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BSXL36XC{{</world>}}

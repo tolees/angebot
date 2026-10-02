@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Gepolsterte Schaumstoff-Einlegesohle
 - Obermaterial aus Glattleder ist strapazierfähig und langlebig
 - Robuste Gummi-Außensohle für optimale Traktion
-- Gepolsterte Schaumstoff-Einlegesohle
 - Dämpfende Schaumstoff-Zwischensohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

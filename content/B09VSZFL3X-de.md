@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Gummi-Cupsohle
+- Schnürsenkel
 - Obermaterial aus Synthetikleder
 - Reguläre Passform
-- Schnürsenkel
 - Synthetikfutter
-- Gummi-Cupsohle
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09VSZFL3X{{</world>}}

@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 3-fach sicher: Abschaltautomatik, Trockengeh- und Überhitzungsschutz sowie Lift-Switch-off.
-- Leicht ablesbare Wasserstandsanzeige auf beiden Seiten: geeignet für Links- und Rechtshänder.
 - Ergonomische Bedienung: einfaches Öffnen des Deckels auf Knopfdruck.
+- Leicht ablesbare Wasserstandsanzeige auf beiden Seiten: geeignet für Links- und Rechtshänder.
 - Kalkfilter: Der entnehmbare und leicht zu reinigende Filter verhindert Kalk im Getränk.
 - Tassenanzeige: hilft dir, Energie und Zeit zu sparen, indem du nur die benötigte Menge kochst.
 

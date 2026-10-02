@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Genießen Sie diesen ausgewogenen, fruchtigen Rosé gut gekühlt zu Spargel, leichten Salaten und zu kalten Platten
 - Anklänge von fruchtigen Waldbeeren bestimmen sein Bukett
 - Dieser elegante Rosé mit Finesse wird aus der roten Sangiovese Traube gekeltert
+- Genießen Sie diesen ausgewogenen, fruchtigen Rosé gut gekühlt zu Spargel, leichten Salaten und zu kalten Platten
 - Geschmack: Beerig
 
 [🛒 Hier!!]({{< param buyurl >}})

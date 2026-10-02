@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Luxcomfort Einlegesohle
 - Perforierte Zehenkappe und Verstärkte Zehenkappe
-- Schaft und Zunge gepolstert
 - Logo an Ferse und Markenfenster
+- Luxcomfort Einlegesohle
+- Schaft und Zunge gepolstert
 - EVA Zwischensohle
 - Logo Print an der Zunge
 

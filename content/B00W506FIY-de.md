@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Automatische Abschaltung
 - Wasserbehälter mit einer Kapazität von 1 l
 - -Filter Crema "
-- Automatische Abschaltung
 - Cappuccino-System
 - Rotation apassung Dampf
 - Abtropftablett Geschirrbrause mit Tropfschutz für eine leichte Reinigung

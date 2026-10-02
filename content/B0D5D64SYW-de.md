@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B iO Series 5 Elektrische Zahnbürste Schwarz'
-date: 2026-09-23 22:11:08
+date: 2026-09-30 08:24:30
 image: 'https://m.media-amazon.com/images/I/51g5bukuxqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0D5D64SYW/?tag=tolees0ca-21'
 descuento: '52.52'
-average: '124.733333333334'
+average: '121.755000000001'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

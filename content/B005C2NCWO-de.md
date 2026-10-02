@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- GETESTET UND ZERTIFIZIERT - Schutzzertifikat der CE-KATEGORIE III (TYP 5, TYP 6, EN 1073-2), KAKEN-getestet auf Partikelpenetration
-- KOMFORTABEL UND PRAKTISCH - Anzug aus SMS-Material mit 3-teiliger Kapuze, Gummizügen an Kapuze, Taille und Arm-/Beinabschlüssen. 2-Wege-Frontreißverschluss mit verschließbarer Abdeckleiste, getapte Steppnähte als starke Partikelbarriere
+- FASERSCHUTZANZUG - Dieser Anzug schützt ideal vor Asbestfasern, wie Chrysotil einer typischen Größe von 3-5 µm. Das SMS-Material des Anzugs filtert nachweislich zu 100 % Partikel größer als 3 µm
 - VERSCHIEDENE FARBEN UND GRÖSSEN - Dieser Jumpsuit kombiniert Schutzbedarf und Tragekomfort. Erhältlich in Weiß, Rot, Marineblau, atmunsgaktives, silikonfreies Material, reduziert Wärmestaus und Schweißbildung. Größen von S bis 3XL
 - MEHRZWECKPRODUKT - Ideal für Hobby-, Lackier-, Spritz- und Bauarbeiten, Inspektionen, Handhabung von Pulver. Dieser Jumpsuit eignet sich für alle Arbeiten mit gefährlichen Chemikalien im Privathaushalt und am Arbeitsplatz
-- FASERSCHUTZANZUG - Dieser Anzug schützt ideal vor Asbestfasern, wie Chrysotil einer typischen Größe von 3-5 µm. Das SMS-Material des Anzugs filtert nachweislich zu 100 % Partikel größer als 3 µm
+- KOMFORTABEL UND PRAKTISCH - Anzug aus SMS-Material mit 3-teiliger Kapuze, Gummizügen an Kapuze, Taille und Arm-/Beinabschlüssen. 2-Wege-Frontreißverschluss mit verschließbarer Abdeckleiste, getapte Steppnähte als starke Partikelbarriere
+- GETESTET UND ZERTIFIZIERT - Schutzzertifikat der CE-KATEGORIE III (TYP 5, TYP 6, EN 1073-2), KAKEN-getestet auf Partikelpenetration
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B005C2NCWO{{</world>}}

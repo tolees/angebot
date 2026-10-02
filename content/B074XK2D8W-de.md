@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Mit Filterreinigungsfunktion: Per Knopfdruck lässt sich der zugesetzte Filter freiblasen. Für hohe und lang anhaltende Saugleistung
 - Sichere Anwendung: Metallschlauch, Metallbehälter und flammhemmendes Material sorgen für höchste Sicherheit beim Saugen von Asche
-- Lieferumfang: Kärcher Aschesauger AD 2, 14 l-Metallbehälter, 1,2-m-Saugschlauch aus ummantelten Metall, 1-teiliges Filtersystem (Flachfaltenfilter, Metall-Grobschmutzfilter)
 - Starke Saugleistung: Der Kärcher Aschesauger AD 2 befreit Kamin und Grill zuverlässig, sauber und sicher von Asche
+- Lieferumfang: Kärcher Aschesauger AD 2, 14 l-Metallbehälter, 1,2-m-Saugschlauch aus ummantelten Metall, 1-teiliges Filtersystem (Flachfaltenfilter, Metall-Grobschmutzfilter)
 - Eine saubere Sache: Dank parktischem Handgriff am Behälter kann dieser einfach und ohne Schmutzkontakt entleert werden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

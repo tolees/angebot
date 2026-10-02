@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Werkzeug für Innenlager
 - Radsport
 - Material: Stahl
-- Werkzeug für Innenlager
 - Unisex
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

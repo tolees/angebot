@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Programme: Defrost (Auftauen) - Manuell
 - Präzise elektronische Steuerung in 5-Sekunden-Schritten
+- Programme: Defrost (Auftauen) - Manuell
 - Kratzfester Keramik-Emaille-Innenraum - besonders leicht zu reinigen
 - großer Drehteller
 

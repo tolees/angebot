@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ausgestattet mit einer Quinkflow Kugelschreibermine für optimalen Tintenfluss und ein geschmeidiges Schreibgefühl; mittelfeine Schreibspitze; kann auch mit Parker Gelminen verwendet werden
 - Lässt sich dank dem praktischen, einziehbaren Design mit einem Klick öffnen und schließen
 - Mit dem stromlinienförmigen Design und der klaren Linienführung des bekannten Parker Jotter Designs
+- Ausgestattet mit einer Quinkflow Kugelschreibermine für optimalen Tintenfluss und ein geschmeidiges Schreibgefühl; mittelfeine Schreibspitze; kann auch mit Parker Gelminen verwendet werden
 - Die glänzende, blaue Oberfläche inspiriert originelle Ideen
 - Besonders kratzfester Kunststoffschaft
 

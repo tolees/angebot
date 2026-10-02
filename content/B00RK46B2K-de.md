@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- selbststehende Konstruktion zum seitlichen und rückwärtigen Andocken an Fahrzeuge
 - hervorragende Belüftung durch Netzfenster und Belüftungshutzen
 - passt auf gängige Vans bis 2, 15 m Höhe
+- selbststehende Konstruktion zum seitlichen und rückwärtigen Andocken an Fahrzeuge
 - Klimaneutral: Die Emissionen aus Materialien, Herstellungsprozess und Versand wurden ganzheitlich ermittelt und systematisch reduziert. Aktuell nicht vermeidbare Emissionen wurden vollständig über die unabhängige Non-Profit-Organisation „myclimate“ kompensiert
 - Innenzelt optional erhältlich
 

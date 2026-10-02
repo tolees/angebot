@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox Herren U Snake K Sneaker Beige Dk Orange 39 EU'
-date: 2026-08-30 08:18:22
+date: 2026-09-30 01:23:09
 image: 'https://m.media-amazon.com/images/I/412tCB8QndS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00DWSLDCQ-de Geox Herren U Snake K Sneaker Beige Dk Orange 39 EU'
 sku: 'B00DWSLDCQ-de'
 tags: [ '🇩🇪', ]
-actualPrice: 73.79 EUR
+actualPrice: 67.41 EUR
 currency: EUR
-price: 73.79
+price: 67.41
 comparePrice: 99.95 EUR
 prodname: 'Geox Herren U Snake K Sneaker Beige Dk Orange 39 EU'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B00DWSLDCQ/?tag=tolees0ca-21'
-descuento: '26.17'
-average: '76.2325'
+descuento: '32.56'
+average: '73.2916666666667'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,12 +28,6 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Herausnehmbare Innensohle
-- Leichter Einstieg für einmaligen Tragekomfort
-- Ein Schuh mit optimaler Stoßdämpfung, die vor Stößen und Schlägen schützt
-- Die patentierten Geox-Systeme garantieren die Atmungsaktivität der Sohle und sorgen für Wohlbefinden des Fußes
-- Antibakterielle Innensohle
-- Leichter Schuh für mehr Bewegungsfreiheit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00DWSLDCQ{{</world>}}

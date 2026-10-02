@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- extra Brusttasche
 - leichter und super bequemer Pullover
-- schmale Stretch-Bündchen an Ärmeln und Kragen
 - aus kuschelig weichem Fleece
+- extra Brusttasche
+- schmale Stretch-Bündchen an Ärmeln und Kragen
 - praktische Knopfleiste und Stehkragen
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Ein voll ausgestattetes Arsenal mit über einem Dutzend einzigartiger Waffen und Ausrüstungsgegenstände – und Cartoon-Touch
-- Rasante Ego-Shooter-Kämpfe, bei denen ständige Bewegung entscheidend ist
 - Schwarz-weiße, handgezeichnete Gummischlauchanimationen, inspiriert von Cartoons der 1930er Jahre
 - Verheerende, verbrauchbare Power-ups, die in jedem Kampf das Blatt wenden können
 - Über 20 Level im Noir-Stil, in denen es von Mäusen, Ratten und Spitzmäusen wimmelt
+- Rasante Ego-Shooter-Kämpfe, bei denen ständige Bewegung entscheidend ist
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0GTQD3XKM{{</world>}}

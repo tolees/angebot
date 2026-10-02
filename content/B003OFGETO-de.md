@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einfach zu montieren und sehr effizient
+- Made in Germany
 - Ultimative Fun für Kinder
 - Sofort einsatzbereit
-- Made in Germany
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B003OFGETO{{</world>}}

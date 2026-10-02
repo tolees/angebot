@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Besteht aus weicher
 - Bequemer Baumwolle
+- Besteht aus weicher
 - Verfügt über einen sauberen, klassischen Jumpman
 
 [🛒 Hier!!]({{< param buyurl >}})

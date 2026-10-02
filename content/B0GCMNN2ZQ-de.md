@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- VISUELLE ANDRUCKKONTROLLE - signalisiert, ob ZU FEST, ZU SANFT oder GENAU RICHTIG geputzt wird
 - EINFACHE AUSWAHL AUS 3 PUTZMODI: Sensitiv, Tägliche Reinigung, Aufhellen
 - INHALT: 2 Oral-B elektrische iO Zahnbürsten inkl 4 Aufsteckbürsten, Reise-Etui, Aufsteckbürstenhalter, Ladestation
+- VISUELLE ANDRUCKKONTROLLE - signalisiert, ob ZU FEST, ZU SANFT oder GENAU RICHTIG geputzt wird
 - 2-MINUTEN TIMER - erinnert alle 30 Sekunden an den Wechsel des Putzbereichs
 - 100Prozent SAUBERERE ZÄHNE und GESÜNDERES ZAHNFLEISCH als mit einer herkömmlichen Handzahnbürste
 

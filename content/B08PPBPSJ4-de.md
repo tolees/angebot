@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100 % recycelter Polyester (Doppelstrick)
-- Feuchtigkeitsabsorbierend
-- Elastische Bündchen
-- Reißverschluss bis zur Brust; Stehkragen
 - Reißverschlusstaschen auf der Vorderseite
+- Reißverschluss bis zur Brust; Stehkragen
+- 100 % recycelter Polyester (Doppelstrick)
 - Schmal geschnitten
+- Elastische Bündchen
+- Feuchtigkeitsabsorbierend
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08PPBPSJ4{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Deluxe Stunt Box enthält alles, was Kinder für verrückte Crashs und Stunts brauchen!
-- Kinder können tolle Konfigurationen wie Rallyecross, Kopf-an-Kopf, Parallel und viele mehr ausprobieren!
 - Enthält eine Basis (die Box), Trackteile, steile Kurven, Crash-Zone-Deckel, Starter, Spurwechsler und zwei Fahrzeuge!
+- Kinder können tolle Konfigurationen wie Rallyecross, Kopf-an-Kopf, Parallel und viele mehr ausprobieren!
+- Die Deluxe Stunt Box enthält alles, was Kinder für verrückte Crashs und Stunts brauchen!
 - Das Set bietet mehr als drei Spielmöglichkeiten, die die Fantasie von Kindern anregen und das Problemlösen fördern.
 - Lässt sich schnell zusammenklappen zum Wegräumen oder Mitnehmen.
 

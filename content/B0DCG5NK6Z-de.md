@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - CycleGuard bewahrt das biologische Gleichgewicht Ihres Aquariums durch einen separaten Medienwechsel, der eine Unterbrechung des Stickstoffkreislaufs vermeidet und für die Aufrechterhaltung eines sauberen und gesunden Wassers unerlässlich ist
-- Für den Gebrauch in Süß- und Meerwasseraquarien geeignet
-- 4-stufige Filterung (2 x mechanisch, chemisch, biologisch) für eine hervorragende Wasserreinheit und -qualität
-- Das patentierte Rückfiltersystem verlängert die Kontaktzeit mit den Medien für ein sauberes, gesünderes und biologisch stabileres Aquarium
 - ABS-Filtergehäuse, ABS-Filterdeckel mit schwarzem ästhetischem Einsatz
+- 4-stufige Filterung (2 x mechanisch, chemisch, biologisch) für eine hervorragende Wasserreinheit und -qualität
+- Für den Gebrauch in Süß- und Meerwasseraquarien geeignet
+- Das patentierte Rückfiltersystem verlängert die Kontaktzeit mit den Medien für ein sauberes, gesünderes und biologisch stabileres Aquarium
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DCG5NK6Z{{</world>}}

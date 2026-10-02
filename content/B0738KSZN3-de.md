@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Diese Trilogy-Kerze kombiniert drei beliebte Düfte: Lavender Spa, Sea Salt & Cotton und White Tea & Jasmine.
+- Der knisternde Holzdocht mit PlusWick-Innovation schafft eine gemütliche Atmosphäre.
+- Brenndauer: bis zu 130 Stunden
 - Diese beliebte Kollektion bietet eine Kombination aus verschiedenen Duftnoten, die beim Schmelzen ihr ganz eigenes Aroma entfalten.
 - Die hochwertige Mischung aus Paraffin- und Sojawachs sorgt für eine wunderschöne Flamme
-- Brenndauer: bis zu 130 Stunden
-- Der knisternde Holzdocht mit PlusWick-Innovation schafft eine gemütliche Atmosphäre.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0738KSZN3{{</world>}}

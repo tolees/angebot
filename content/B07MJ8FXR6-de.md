@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Herausnehmbare Innensohle
-- Absatzhöhe: 5 cm / 2"
+- Leichter Schuh für mehr Bewegungsfreiheit
 - Leichter Einstieg und verstellbare Passform mit Reißverschluss und Schnürsenkeln
 - Die patentierten Geox-Systeme garantieren die Atmungsaktivität der Sohle und sorgen für Wohlbefinden des Fußes
-- Leichter Schuh für mehr Bewegungsfreiheit
+- Herausnehmbare Innensohle
+- Absatzhöhe: 5 cm / 2"
 - Leichter Einstieg für einmaligen Tragekomfort
 - Ein Schuh mit optimaler Stoßdämpfung, die vor Stößen und Schlägen schützt
 

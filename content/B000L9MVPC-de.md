@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Individuell anpassbar: Die Länge des Kabelkanals kann problemlos zugeschnitten werden & ist dank überstreichbarer Oberfläche an jede Wandfarbe anpassbar
 - Einfache Montage: Durch den Klebestreifen der Marke 3M wird das sichere Anbringen der Leiste an Wand, Boden oder Decke kinderleicht
-- Lieferumfang: 1x PVC-Kabelkanal (100cm x 3,5cm), 1x Klebeband (bereits an der Leiste angebracht)
 - Kein Kabelsalat: Universell einsetzbare Kabelleiste in ansprechender, halbrunder Form zum Verstecken von Kabeln
+- Lieferumfang: 1x PVC-Kabelkanal (100cm x 3,5cm), 1x Klebeband (bereits an der Leiste angebracht)
 - Jederzeit abnehmbar: Oberteil wird einfach aufgeclipst und ist bei Bedarf jederzeit abnehmbar
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- V-Ausschnitt
-- Rückenlänge beträgt bei Größe L ca. 75
-- Detail: Logo
-- Passform: Regular Fit
 - lange Ärmel mit Rippbündchen
 - ohne Verschluss
+- Detail: Logo
+- Rückenlänge beträgt bei Größe L ca. 75
+- Passform: Regular Fit
+- V-Ausschnitt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CDLB1GSC{{</world>}}

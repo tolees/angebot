@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Masako Satou
-- BRD
 - Deutsch, Japanisch
+- BRD
 - 175
+- Masako Satou
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09DJG1CXT{{</world>}}

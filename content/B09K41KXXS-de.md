@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ErgoShape-Women Schultergurte für optimale Bewegungsfreiheit auf Frauen bzw. kleinere Personen abgestimmt
-- hoher Tragekomfort durch rückenentlastendes Tragesystem
-- klimaneutral kompensiert; überwiegend aus recycelten Materialien hergestellt
 - Sehr großer Trekkingrucksack für anspruchsvolles Trekking
+- hoher Tragekomfort durch rückenentlastendes Tragesystem
+- ErgoShape-Women Schultergurte für optimale Bewegungsfreiheit auf Frauen bzw. kleinere Personen abgestimmt
+- klimaneutral kompensiert; überwiegend aus recycelten Materialien hergestellt
 - „Comfort Space“ zur Entlastung des empfindlichen unteren Rückenbereichs
 - unterstützender, individuell einstellbarer Rücken
 

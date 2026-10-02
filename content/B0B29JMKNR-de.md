@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kleines gesticktes Levis Housemark-Logo auf der Brust
-- Kragen mit Rippdetail
 - Weiches Jersey Tragegefühl
+- Kragen mit Rippdetail
 - NON GRAPHIC TEESMULTI-COLOR
 
 [🛒 Hier!!]({{< param buyurl >}})

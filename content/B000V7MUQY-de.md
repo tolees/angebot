@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1x Buchalbum Baby Feel
-- Gebundenes Baby-Fotoalbum für Mädchen & Jungen: Zum kreativen Gestalten und Einkleben von Fotos, auch als Scrapbook geeignet
-- Für die schönsten Erinnerungen: Kinderalbum mit 60 weißen Seiten (30 Blatt), davon 2 Seiten Textvorspann zum individuellen Ausfüllen
 - Hochwertiges Album: Pergaminschutzseiten zwischen den Seiten verhindern ein Zusammenkleben der Fotos, Fotobuch mit Innenseiten aus weißem Karton
+- Lieferumfang: 1x Buchalbum Baby Feel
+- Für die schönsten Erinnerungen: Kinderalbum mit 60 weißen Seiten (30 Blatt), davon 2 Seiten Textvorspann zum individuellen Ausfüllen
+- Gebundenes Baby-Fotoalbum für Mädchen & Jungen: Zum kreativen Gestalten und Einkleben von Fotos, auch als Scrapbook geeignet
 - Ideal zum Verschenken: Das passende Geschenk zur Geburt, zur Taufe oder zum Geburtstag mit viel Raum für Babyfotos und zum Selbstgestalten
 
 [🛒 Hier!!]({{< param buyurl >}})

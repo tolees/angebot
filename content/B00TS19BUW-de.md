@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - 4-Stunden-Ni-MH-Batterieladegerät mit USB-Port
 - Verpolungs- und Überladungsschutz
-- Wenn Sie nur 2 Batterien aufladen möchten, legen Sie bitte beide Batterien nebeneinander in zwei der Fächer, entweder links oder rechts
 - Zum gleichzeitigen Aufladen von 2 oder 4 AA / AAA Ni-MH Akkus (1 oder 3 Batterien lassen sich nicht aufladen)
+- Wenn Sie nur 2 Batterien aufladen möchten, legen Sie bitte beide Batterien nebeneinander in zwei der Fächer, entweder links oder rechts
 - Eingebaute Ladestromwechsel-Technologie ermöglicht eine weltweite Verwendung (100 - 240 V, AC)
 
 [🛒 Hier!!]({{< param buyurl >}})

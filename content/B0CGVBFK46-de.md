@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kein Leuchtmittel im Lieferumfang enthalten
-- Anwendungsbereiche: Nutzen Sie die Stehlampe als modernes Deko piece, als Büroleuchte und Standlampe am Schreibtisch. Abmessungen: 1275x210x425 mm (Höhe x Durchmesser x Ausladung)
 - Inbetriebnahme: Die Ambientebeleuchtung wird ganz einfach in die Steckdose gesteckt und schon können Sie den Deckenfluter als indirekte Beleuchtung im Büro im Home Office oder auch im Flur nutzen
 - Dekorativ: Diese Stehleuchte ist als Zimmerdeko im Wohnzimmer und Schlafzimmer optimal platziert und leuchtet mit einer GU10 Birne mit max. 9 Watt. Diese ist nicht enthalten
+- Anwendungsbereiche: Nutzen Sie die Stehlampe als modernes Deko piece, als Büroleuchte und Standlampe am Schreibtisch. Abmessungen: 1275x210x425 mm (Höhe x Durchmesser x Ausladung)
 - Funktionell: Per Fußtaster ist die Standleuchte bequem ein- und ausschaltbar. Der Lampenkopf ist beweglich und bietet individuelle Beleuchtungsmöglichkeiten
+- Kein Leuchtmittel im Lieferumfang enthalten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CGVBFK46{{</world>}}

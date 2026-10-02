@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Retter der Natur – Beeinflusse die Welt nach deinen Vorstellungen: Bringe die Jahreszeiten zurück und erwecke den Skytree zum Leben!
-- Herzliche Beziehungen – Triff charismatische Charaktere, schließe Freundschaften oder finde deine große Liebe unter mehreren Heiratskandidaten.
 - Farbenfrohes Design – Tauche ein in eine charmante 3D-Welt mit gemütlicher Atmosphäre und liebevollen Details
+- Herzliche Beziehungen – Triff charismatische Charaktere, schließe Freundschaften oder finde deine große Liebe unter mehreren Heiratskandidaten.
 - Farmleben & Kreativität – Bestelle Felder, züchte Tiere und gestalte deine Farm nach deinen Vorstellungen – mit unendlichen Möglichkeiten!
+- Retter der Natur – Beeinflusse die Welt nach deinen Vorstellungen: Bringe die Jahreszeiten zurück und erwecke den Skytree zum Leben!
 - Limitierte Sammler-Inhalte – Exklusive Sticker, Poster und der offizielle Soundtrack machen diese Edition zum Muss für jeden Fan!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatzform: Kein Absatz
 - Obermaterial: Leder
+- Absatzform: Kein Absatz
 - Innenmaterial: Leder
 - Verschluss: Gummi
 

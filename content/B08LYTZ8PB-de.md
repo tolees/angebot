@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Ultra-transparentes Fotofenster kompatibel mit Touchscreen-Funktion
-- Doppelter Klettverschluss und wasserdichter Reißverschluss, ausgestattet mit Neoprenhalsriemen und Armband
-- Hydrosports ist eine Linie von Cressi, einem italienischen Unternehmen, das seit 1946 mit Leidenschaft Wassersportprodukte entwickelt
 - Schwimmende und wasserdichte Abdeckung für Geräte mit Bildschirmen bis zu 6" und 200 g
+- Hydrosports ist eine Linie von Cressi, einem italienischen Unternehmen, das seit 1946 mit Leidenschaft Wassersportprodukte entwickelt
+- Doppelter Klettverschluss und wasserdichter Reißverschluss, ausgestattet mit Neoprenhalsriemen und Armband
 - Innengehäuse aus Schaumstoff, um Stöße zu absorbieren und immer Auftrieb zu gewährleisten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EFFIZIENTE LEISTUNG: Circa 25 Minuten Dauerbetrieb pro Kartusche, kompatibel mit Standard MSF-1A Butan-Kartuschen
 - FLEXIBLE NUTZUNG: 360° Überkopfeinsatz möglich, mit Feinregulierungsventil für präzise Flammenkontrolle
+- EFFIZIENTE LEISTUNG: Circa 25 Minuten Dauerbetrieb pro Kartusche, kompatibel mit Standard MSF-1A Butan-Kartuschen
 - LEISTUNGSSTARK: Arbeitstemperatur von 650°C und Flammentemperatur bis 1300°C, perfekt für Weichlöten von Kupferrohren bis 28 mm
 - BENUTZERFREUNDLICH: Integrierte Piezo-Zündung und Bajonettverschluss für schnellen, werkzeuglosen Kartuschenwechsel
 - PRÄZISIONSBRENNER: Kompakter Brennerkopf mit 30 mm Durchmesser für präzise Lötarbeiten, ideal für schwer zugängliche Stellen

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wattage: 40.0
-- Enthaltene Komponenten: Leuchtmittel enthalten
 - Packung die Größe: 13.1 L x 15.4 H x 14.6 W cm
+- Enthaltene Komponenten: Leuchtmittel enthalten
 - Material: Metall
+- Wattage: 40.0
 - Voltage: 230.0
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langanhaltende Wirkung
 - Für eine einfache und schnelle Anwendung. Optimaler Schutz den ganzen Tag.
-- Dermatologisch getestet
 - Einfache Anwendung
+- Langanhaltende Wirkung
+- Dermatologisch getestet
 - Pflegt und schützt die Haut
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

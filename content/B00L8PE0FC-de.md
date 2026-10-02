@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - hohe Hitzebeständigkeit
-- mit Lüftungsschlitzen
 - spülmaschinengeeignet
+- mit Lüftungsschlitzen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00L8PE0FC{{</world>}}

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'eufy Innenkamera E30 Überwachungskamera Innen Farbnachtsicht HomeKit'
-date: 2026-08-30 05:14:55
+title: 'Anker eufy Innenkamera E30 Überwachungskamera Farbnachtsicht HomeKit'
+date: 2026-09-29 21:13:42
 image: 'https://m.media-amazon.com/images/I/31gZZanuSmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DK5DWSN9-de eufy Innenkamera E30 Überwachungskamera Innen...'
+slug: 'B0DK5DWSN9-de Anker eufy Innenkamera E30 Überwachungskamera...'
 sku: 'B0DK5DWSN9-de'
 tags: [ '🇩🇪', ]
-actualPrice: 59.33 EUR
+actualPrice: 49.99 EUR
 currency: EUR
-price: 59.33
+price: 49.99
 comparePrice: 89.99 EUR
-prodname: 'eufy Innenkamera E30 Überwachungskamera Innen Farbnachtsicht HomeKit'
+prodname: 'Anker eufy Innenkamera E30 Überwachungskamera Farbnachtsicht HomeKit'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0DK5DWSN9/?tag=tolees0ca-21'
-descuento: '34.07'
-average: '61.885'
+descuento: '44.45'
+average: '59.506'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,13 +28,6 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- KI-Erkennung & Auto-Tracking: On-Device-KI erkennt präzise Menschen, Tiere, Geräusche und Weinen, verfolgt den Verursacher für detaillierte Überwachung. Alle Funktionen ohne Abo.
-- 360° Panoramablick und Schnellfokus: Neue App-Funktionen bieten mühelose Navigation. Mit Fokus per Touch und Panoramablick markierst du den gewünschten Bereich mit einem Tipp.
-- Smarte Sicherheit der neuen Generation (2024): Die eufy Innenkamera E30 bietet fortschrittliche KI-gesteuerte Sicherheit in 4K UHD-Auflösung. Erfasst jedes Detail, um dein Zuhause und deine Liebsten zu schützen.
-- Bluetooth-Setup beschleunigt Installation: Bluetooth führt durch Pairing und WLAN-Konfiguration – dein System ist schneller einsatzbereit.
-- Farb-Nachtsicht mit Spotlight: Das integrierte Spotlight ermöglicht nahtloses Umschalten zwischen Farb- und Infrarot-Nachtsicht für klare Bilder bei Dunkelheit und dient gleichzeitig als Abschreckung.
-- Smart Home Integration: Kompatibel mit HomeKit (bis 1080p), Alexa und Google Assistant für erweiterte Smart-Home-Integration. (Hinweis: HomeKit unterstützt bis zu 1080p Auflösung)
-- Lokale Speicherung ohne Abo-Gebühren: Speichere Aufnahmen lokal auf einer SD-Karte (separat erhältlich) und nutze alle Funktionen ohne monatliche Kosten. Cloud-Speicher optional verfügbar.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DK5DWSN9{{</world>}}

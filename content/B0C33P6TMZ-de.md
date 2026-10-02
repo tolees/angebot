@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnürverschluss
 - Markenlogo
+- Schnürverschluss
 - Komfort
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

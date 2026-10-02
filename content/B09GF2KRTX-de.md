@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Dank des Härtegradindikators auf dem Schaft lässt sich der Härtegrad der Mine während der Arbeit einfach anpassen.
 - Der Sechskantschaft verhindert ein Verrutschen des Bleistifts, damit er dort bleibt, wo Sie ihn brauchen
+- Der Messingmechanismus ermöglicht einen kontrollierten Vorschub der Mine
 - Rutschfeste, gerändelte Griffzone aus Metall für Komfort bei häufigem Schreiben und Zeichnen
 - Vollmetallschaft bietet die ideale Balance zwischen Gewicht und Gefühl
-- Der Messingmechanismus ermöglicht einen kontrollierten Vorschub der Mine
-- Dank des Härtegradindikators auf dem Schaft lässt sich der Härtegrad der Mine während der Arbeit einfach anpassen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09GF2KRTX{{</world>}}

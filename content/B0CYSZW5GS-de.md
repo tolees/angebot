@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Volumen: 24 l
 - Abnehmbarer, verstellbarer Schulterriemen
+- Beschichteter Boden
+- 100 % Polyester (recycelt) / Spacer
+- Maße: 20 cm x 45,5 cm x 23 cm
+- Volumen: 24 l
+- Innenfach mit Futter; hängende Innentasche
 - Seitliche Einschubtaschen
 - Hauptfach mit Reißverschluss
-- Maße: 20 cm x 45,5 cm x 23 cm
-- Innenfach mit Futter; hängende Innentasche
-- 100 % Polyester (recycelt) / Spacer
-- Beschichteter Boden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CYSZW5GS{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- AUSLAUFSICHEREN COMBI-DECKEL: Jeder Behälter hat einen eigenen auslaufsicheren Deckel. Die beiden Deckel können mit einer einfachen Drehung verbunden oder getrennt werden, eine clevere Lösung
 - PASSENDER FALTLÖFFEL ERHÄLTLICH: Eine gute Ergänzung zum Lunchpot ist der Faltlöffel Ellipse (separat zu bestellen). Auf diese Weise können Sie Ihren Joghurt überall essen!
 - MIKROWELLENGEEIGNETER & GEFRIERGEEIGNETER BECHER: Der Joghurtbecher kann im Gefrierschrank, in der Mikrowelle (ohne Deckel) und in der Spülmaschine verwendet werden
-- AUSLAUFSICHEREN COMBI-DECKEL: Jeder Behälter hat einen eigenen auslaufsicheren Deckel. Die beiden Deckel können mit einer einfachen Drehung verbunden oder getrennt werden, eine clevere Lösung
 - LUNCHPOT: Der Lunchpot kann für Joghurt mit Müsli oder Suppe mit Croutons verwendet werden und besteht aus 2 einzelnen Behältern, in denen die verschiedenen Zutaten getrennt aufbewahrt werden können
 - FASSUNG: Der untere Behälter hat ein Fassungsvermögen von 500 ml und bietet viel Platz für Suppe oder Joghurt. Die Größe des oberen Behälters beträgt 200 ml, das entspricht etwa 75g Müsli oder Obst
 

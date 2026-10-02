@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Skechers Logodetail
 - Legerer Jogging-Sneaker im Vintage-Stil
+- Skechers Logodetail
 - Flexible Traktionslaufsohle
 - Stoßdämpfende Zwischensohle
 

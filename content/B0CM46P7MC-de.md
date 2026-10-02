@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Eingang: 100 - 240V AC
-- Kabel: 1,2m 18AWG
-- Farbe: weiß
 - Anschluss: USB-C
+- Farbe: weiß
 - Ausgang: 5,1V, 5A; 9V, 3A; 12V, 2,25A; 15V, 1,8A (Power Delivery)
+- Kabel: 1,2m 18AWG
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CM46P7MC{{</world>}}

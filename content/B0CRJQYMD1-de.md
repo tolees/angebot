@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produkttyp: Physischer Film
-- Marke: Disney
 - Avatar: Die Reise nach Pandora 3D Remastered (+ Blu ray) [Deutschland] [Blu ray]
+- Marke: Disney
+- Produkttyp: Physischer Film
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CRJQYMD1{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mehrfarbiger Kugelschreiber
 - Mehrfarbig mit 6 Tinten: Marineblau, Himmelblau, Grün, Orange, Lila und Rosa
+- Mehrfarbiger Kugelschreiber
 - Mit einer Mr. Wunderschön an einem Ende
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

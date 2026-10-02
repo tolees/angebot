@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reguläre Passform
-- Cloudfoam Zwischensohle
 - Textilfutter
 - Obermaterial aus Textil
 - Gummiaußensohle
 - Schnürsenkel
+- Cloudfoam Zwischensohle
+- Reguläre Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DHZVGWGY{{</world>}}

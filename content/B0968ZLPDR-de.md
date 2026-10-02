@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gattung: Laufschuh
-- Laufsohle: Gummi
 - Brand: Under Armour
-- Futter: Textil
+- Laufsohle: Gummi
 - Extras: default
+- Futter: Textil
+- Gattung: Laufschuh
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0968ZLPDR{{</world>}}

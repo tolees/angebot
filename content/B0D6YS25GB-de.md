@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Redmi Buds 6 Active - Transparent blue
 - Geeignet für verschiedene Sportarten und Aktivitäten
+- Redmi Buds 6 Active - Transparent blue
 - Hält verschiedenen Wetterbedingungen stand
 
 [🛒 Hier!!]({{< param buyurl >}})

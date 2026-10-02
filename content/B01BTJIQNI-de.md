@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichtes, ergonomisches Sicherungsgerät mit Blockierfunktion - zum Sportklettern im Freien und in der Halle.
-- Zertifiziert nach: EN 15151 und UIAA 129
-- Blockierfunktion spricht schon bei geringem Zug an und ist dennoch leicht zu lösen
 - Material: Alu 7075T6
 - sehr gut zum Sichern im Vorstieg: schnelleres Seilausgeben ohne Blockieren und rascher Wechsel zwischen Einholen und Ausgeben des Seils sind möglich
+- Blockierfunktion spricht schon bei geringem Zug an und ist dennoch leicht zu lösen
+- Zertifiziert nach: EN 15151 und UIAA 129
+- Leichtes, ergonomisches Sicherungsgerät mit Blockierfunktion - zum Sportklettern im Freien und in der Halle.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01BTJIQNI{{</world>}}

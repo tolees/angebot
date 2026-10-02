@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ✅ FUNKTIONEN: Belastbarkeit bis 3kg. Mehr Platz auf dem Schreibtisch. Aus Stahl. Anbringung an universeller Bildschirmhalterung mit passendem Lochabstand
-- ✅ GEEIGNET FÜR: Professionell Office Computer Büro Gaming PC Workstation und Home Office - Für Monitore mit ca. 13-34 Zoll (33-86 cm)
-- ✅ MONTAGE: Rechnerhalterung hinter Monitor an Monitortischhalterung, Wandhalterung, Monitorarm, Monitorstandfuß, Monitorständer
 - ❗ HINWEIS: Schraublöcher im Gehäuse des Mini-Computer müssen 10cm x 10cm/100mm x 100mm betragen!
+- ✅ MONTAGE: Rechnerhalterung hinter Monitor an Monitortischhalterung, Wandhalterung, Monitorarm, Monitorstandfuß, Monitorständer
+- ✅ GEEIGNET FÜR: Professionell Office Computer Büro Gaming PC Workstation und Home Office - Für Monitore mit ca. 13-34 Zoll (33-86 cm)
+- ✅ FUNKTIONEN: Belastbarkeit bis 3kg. Mehr Platz auf dem Schreibtisch. Aus Stahl. Anbringung an universeller Bildschirmhalterung mit passendem Lochabstand
 - ✅ KOMPATIBEL MIT: Intel NUC Komplett PC i3, i5, i7 - Möglicherweise auch für andere Modelle passend
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

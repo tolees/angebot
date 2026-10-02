@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'INIU 30W USB C Ladegerät Dual-Port GaN Schnellladegerät mit 1 5m 60W Kabel'
-date: 2026-09-27 11:03:04
+date: 2026-10-01 07:32:07
 image: 'https://m.media-amazon.com/images/I/41yfJVcdpZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0DKFG8KZP/?tag=tolees0ca-21'
 descuento: '15.07'
-average: '16.5571428571428'
+average: '16.5846666666666'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

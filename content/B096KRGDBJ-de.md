@@ -31,8 +31,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Vegan
 - Skech Air-Technologie
 - Bequemer Schuh
-- Luftgekühlter Memory-Schaum
 - Keil-Passform
+- Luftgekühlter Memory-Schaum
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B096KRGDBJ{{</world>}}

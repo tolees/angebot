@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Verstellbare Schnallen
-- Kork, Kautschuk
 - Dämpfungsaktive EVA-Laufsohle
+- Kork, Kautschuk
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00CP2SZZI{{</world>}}

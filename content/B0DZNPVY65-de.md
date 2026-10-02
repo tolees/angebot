@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bioland-Qualität
-- Basis für Müsli und Porridge
-- Vielseitig zu verwenden: in Müsli und Joghurt, als Zutat in herzhaften und süßen Backwaren
-- Les informations ci-dessous sappliquent à chaque unité du pack
 - Die folgenden Informationen gelten für jede Einheit pro Packung
+- Bioland-Qualität
+- Vielseitig zu verwenden: in Müsli und Joghurt, als Zutat in herzhaften und süßen Backwaren
+- Basis für Müsli und Porridge
 - Eignet sich als Zutat für Plätzchen, Brot und Backwaren
+- Les informations ci-dessous sappliquent à chaque unité du pack
 - Hohes Quellvermögen
 
 [🛒 Hier!!]({{< param buyurl >}})

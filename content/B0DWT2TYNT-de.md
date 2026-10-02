@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die schönsten Motive, die größte Größenvielfalt und die typische Clementoni-Qualität – ein Sortiment, das für Puzzle-Fans weltweit Maßstäbe setzt
 - Clementoni ist sich der Bedeutung des Umweltbewusstseins bewusst und verwendet daher weitgehend recycelte Materialien und verzichtet auf schadstoffhaltige Komponenten
+- Die schönsten Motive, die größte Größenvielfalt und die typische Clementoni-Qualität – ein Sortiment, das für Puzzle-Fans weltweit Maßstäbe setzt
 - Größe des fertigen Puzzles: 49 x 36 cm
 - 500-teiliges Puzzle für Erwachsene
 - Hergestellt in Italien

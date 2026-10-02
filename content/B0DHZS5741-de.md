@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Synthetik-Obermaterial
+- Textilfutter
 - Regulär geschnitten
 - Schnürverschluss
-- Textilfutter
-- Synthetik-Obermaterial
 - E
 
 [🛒 Hier!!]({{< param buyurl >}})

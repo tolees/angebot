@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- variabel einstellbare Mengenbegrenzung
 - Lieferumfang: Einhand-Wannenbatterie, Montageanleitung
 - Bedienungshebel aus Metall
+- variabel einstellbare Mengenbegrenzung
 - GROHE Longlife Keramikkartusche 46 mm
 
 [🛒 Hier!!]({{< param buyurl >}})

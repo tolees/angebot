@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - TUF Gaming-Radiatorlüfter mit hellerer Gen2 ARGB-Beleuchtung und gerillten Lamellen für verbesserten Luftstrom und weniger Lärm
-- Verstärkte, ummantelte 400-mm-Rohre für erhöhte Haltbarkeit und Gehäuse-Kompatibilität
 - Unterstützung für Intel LGA 1700, 1200, 115x und AMD AM5 und AM4 Sockel
+- Verstärkte, ummantelte 400-mm-Rohre für erhöhte Haltbarkeit und Gehäuse-Kompatibilität
 - Passend zu den TUF Gaming Mainboards, die im Mittelpunkt deines Builds stehen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

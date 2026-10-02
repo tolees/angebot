@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- WASCHBAR Maschinenwaschbar im Schonwaschgang bis 30 Grad - Waschbare Teppiche sollten nur alle paar Jahre in der Waschmaschine gewaschen werden
 - EIGENSCHAFTEN Dank des rutschfesten Rückenmaterials liegen die Teppiche auch auf Fußbodenheizungen bis 24 Grad sicher.
-- Das Rückenmaterial von Teppichen kann Weichmacher enthalten. Bitte prüfen Sie, ob Ihr Bodenbelag mit Weichmachern reagiert und verwenden ggf. Teppichunterlagen
-- DEKO Einfarbig und gemütlich setzen die Fußschmeichler jede Dekoration gekonnt in Szene.
+- WASCHBAR Maschinenwaschbar im Schonwaschgang bis 30 Grad - Waschbare Teppiche sollten nur alle paar Jahre in der Waschmaschine gewaschen werden
+- DAS MATERIAL Der Hochflor aus 100 % Polyester ist nach STANDARD 100 by OEKO-TEX nicht nur seidig weich und kuschelig, sondern auch frei von Schadstoffen.
 - Bedenken Sie, dass Bodenbeläge mit Bodenflächen aus Naturstoffen reagieren können. Das hängt zum Beispiel vom Lichteinfall oder von verwendeten Reinigungsmitteln ab
 - GRÖSSEN In verschiedenen Größen und Formen von 60x100 cm bis 240x340 cm passen sie ideal in Ihr Zuhause.
-- DAS MATERIAL Der Hochflor aus 100 % Polyester ist nach STANDARD 100 by OEKO-TEX nicht nur seidig weich und kuschelig, sondern auch frei von Schadstoffen.
+- Das Rückenmaterial von Teppichen kann Weichmacher enthalten. Bitte prüfen Sie, ob Ihr Bodenbelag mit Weichmachern reagiert und verwenden ggf. Teppichunterlagen
+- DEKO Einfarbig und gemütlich setzen die Fußschmeichler jede Dekoration gekonnt in Szene.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09Z2ZB9F6{{</world>}}

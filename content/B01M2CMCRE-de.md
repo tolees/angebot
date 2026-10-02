@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flexible Laufsohle
 - Bequemes Fußbett
+- Flexible Laufsohle
 - Hochwertige Qualität
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

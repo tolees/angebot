@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Genre: Romantische Komödie-Anime über die turbulente Beziehung zwischen einem ruhigen Studenten und einer energiegeladenen jüngeren Kommilitonin
+- Anime-Serie: Uzaki-chan Wants to Hang Out! - Die komplette erste Staffel als Gesamtausgabe auf Blu-ray
 - Handlung: Shinichi genießt sein ruhiges Uni-Leben, bis die quirlige Uzaki beschließt, ihm ständig Gesellschaft zu leisten und ihn mit ihrem frechen Verhalten zu necken
 - Charaktere: Eine unterhaltsame Geschichte über eine süße aber nervige junge Frau und einen geduldigen Studenten, der sich auf ein neues turbulentes Leben einstellen muss
-- Anime-Serie: Uzaki-chan Wants to Hang Out! - Die komplette erste Staffel als Gesamtausgabe auf Blu-ray
+- Genre: Romantische Komödie-Anime über die turbulente Beziehung zwischen einem ruhigen Studenten und einer energiegeladenen jüngeren Kommilitonin
 - Format: Hochwertige Blu-ray-Ausgabe mit allen Episoden der ersten Staffel in deutscher Sprachfassung
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Tragfähigkeit: 40 kg. Geeignet ab 3 Jahren.
+- Zwei Griffe für sicheren Halt.
+- Aus strapazierfähigem Vinyl (0,25 mm).
 - Reitbare Blaue Orca
 - Größe: 152 x 114 cm.
-- Aus strapazierfähigem Vinyl (0,25 mm).
-- Zwei Griffe für sicheren Halt.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B008AO6BCE{{</world>}}

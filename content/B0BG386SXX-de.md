@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Am besten gemeinsam mit guten Freunden. Jetzt bestellen und genießen!
 - Sie sind glutenfrei, vegan und mit bestem Sonnenblumenöl knusprig gebacken
+- Am besten gemeinsam mit guten Freunden. Jetzt bestellen und genießen!
 - Crunchips Western Style: einzigartiger Crunch, unwiderstehlich lecker
 - Kombination aus hauchdünn geschnittenen Kartoffeln mit einer süß-würzigen Rauchnote
 

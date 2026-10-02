@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ärmelund Seitenbereich mit hochelastischem Powerstretch
-- Seitentaschen mit Reißverschluss. Details in Kontrastfarbe
 - Jackenund Ärmelabschluss mit elastischer Binding
+- Seitentaschen mit Reißverschluss. Details in Kontrastfarbe
+- Ärmelund Seitenbereich mit hochelastischem Powerstretch
 - Durchgehender Frontreißverschluss. Zippergarage
 - Wärmeisolierende Wattierung an Brust und Rücken
 

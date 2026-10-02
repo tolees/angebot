@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Verstellbarer, abnehmbarer Schultergurt aus Leder
 - Gefütterter Innenraum mit einem Steckfach und einem Reißverschlussfach
 - Geprägtes Logo auf der Vorderseite
-- Verstellbarer, abnehmbarer Schultergurt aus Leder
 - Zwei Steckfächer mit magnetischem Druckknopfverschluss
 - Geräumiges Hauptfach mit Reißverschluss
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'adidas Damen Grand Court TD Lifestyle Court Casual Shoes Cloud White / Core Black / Cloud White 36 EU'
-date: 2026-08-30 23:02:44
-image: 'https://m.media-amazon.com/images/I/31ICkL+O3qL._SL500_._SL400_.jpg'
+date: 2026-10-01 06:35:13
+image: 'https://m.media-amazon.com/images/I/21kl+ezwnSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -28,11 +28,6 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reguläre Passform
-- Obermaterial aus Synthetikleder
-- Schnürsenkel
-- Gummi-Cupsohle
-- Synthetikfutter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09VT17F2M{{</world>}}

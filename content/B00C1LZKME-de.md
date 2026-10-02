@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lieferumfang:Kabel-Fernbedienung, Multi-Terminal
+- Farbe: Schwarz
 - Compatible Devices: Nex, Slt, Cyber-Shot, Handycam
 - Packungage die Größe: 5.3 L X 20.1 H X 11.0 W (Centimeters)
-- Farbe: Schwarz
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00C1LZKME{{</world>}}

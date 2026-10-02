@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 4er Schutzkontakt-Steckdosenleiste mit 1,5m Kabellänge H05VV-F 3G1,5
-- Steckerleiste mit erhöhtem Berührungsschutz sorgt für noch mehr Sicherheit in Innenbereichen
 - Die Steckdosenleisten mit zweipoligem Schalter bieten den Vorteil, dass der Stromkreislauf vollständig unterbrochen und auf den Standby-Modus verzichtet wird
-- Elegantes und zeitloses Design in verschiedenen Farben erhältlich
 - Lieferumfang: 1 x Ecolor Steckdosenleiste mit 1,5m Kabel in der Farbe schwarz/weiß in bester Qualität von brennenstuhl
+- Elegantes und zeitloses Design in verschiedenen Farben erhältlich
+- Steckerleiste mit erhöhtem Berührungsschutz sorgt für noch mehr Sicherheit in Innenbereichen
 - Mehrfachsteckdose mit beleuchtetem Sicherheitsschalter zum Einund Ausschalten (zweipolig)
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Hergestellt aus reinster Baumwolle
+- Klassischer Rundhalsausschnitt
+- Cooles T-Shirt von Lonsdale
 - Plakativer Logo-Druck vorne
 - Reguläre Passform
-- Klassischer Rundhalsausschnitt
-- Hergestellt aus reinster Baumwolle
-- Cooles T-Shirt von Lonsdale
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08X7DVKPQ{{</world>}}

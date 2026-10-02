@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- TR A PSOU L Importieren
-- Produkttyp : ABIS MUSIC
 - Marke: RCA Int. (Sony Music Österreich)
+- Produkttyp : ABIS MUSIC
+- TR A PSOU L Importieren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B016AV1YQ6{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Feuchtigkeitspflegeformel: schützt die Haut vor übermäßiger Trockenheit, hinterlässt ein gepflegtes und weiches Gefühl der Hände
+- Mango: sanft reinigende und feuchtigkeitsspendende Seife, mit Mango-Extrakt
 - 2 x 1000 ml Nachfüllungen: 70 % weniger Verpackung im Vergleich zu Flaschen
 - DERMATOLOGISCH GETESTET - Für alle Hauttypen geeignet
 - Anwendung: Auf nasse Hände geben, aufschäumen und gründlich ausspülen
-- Feuchtigkeitspflegeformel: schützt die Haut vor übermäßiger Trockenheit, hinterlässt ein gepflegtes und weiches Gefühl der Hände
-- Mango: sanft reinigende und feuchtigkeitsspendende Seife, mit Mango-Extrakt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DDV1XZC2{{</world>}}

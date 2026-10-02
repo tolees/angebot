@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gepolsterter Schuhkragen
 - Obermaterial aus Veloursleder
+- Gepolsterter Schuhkragen
 - Formstrip an der Innen- und Außenseite
 - Halbhoher Schaft
 

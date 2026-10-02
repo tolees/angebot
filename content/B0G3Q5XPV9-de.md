@@ -31,8 +31,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - Neues Design passend zu all unseren Schlägern
 - Hauptfach
 - Zwei Seitentaschen aus Mesh
-- Schlägerfach
 - Große Fronttasche mit Reißverschluss
+- Schlägerfach
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0G3Q5XPV9{{</world>}}

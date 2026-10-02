@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Größe: 190 x 128 cm
-- Schnell aufgeblasen, leicht zu transportieren sowie zu verstauen
 - Oldtimer-Design, integriertes Kissen
+- Schnell aufgeblasen, leicht zu transportieren sowie zu verstauen
+- Größe: 190 x 128 cm
 - Strapazierfähiges PVC
 - Inhalt: 1 Luftmatratze, 1 Reparaturflicken
 

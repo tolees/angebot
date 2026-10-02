@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - AUTHENTISCH, STARK UND VEGAN: Fishermans Friend Pastillen gibt es in verschiedenen Sorten, Die Bonbons sind vegan, glutenfrei und enthalten keine künstlichen Farb- oder Konservierungsstoffe
-- STARKER GESCHMACK: Intensives Menthol und die Heilpflanze Anis sorgen für den charakteristischen Geschmack, Dank starkem Aroma erfrischen die Pastillen und sorgen für das langanhaltende Gefühl angenehmer Atemfrische
 - DAS ORIGINAL SEIT 1865: Die Pastillen der Marke Fishermans Friend haben eine lange Tradition, Bereits seit 1865 werden sie nach dem Originalrezept hergestellt
 - PRAKTISCHER VORRAT IM SCHICKEN THEKENDISPLAY FORMAT: Unsere 24er Vorrats-Box kommt in der plastikfreien Kartonverpackung und enthält 24 Beutel à 25g, IDEAL zum Aufstellen im Kiosk oder als Vorrat für zu Hause
+- STARKER GESCHMACK: Intensives Menthol und die Heilpflanze Anis sorgen für den charakteristischen Geschmack, Dank starkem Aroma erfrischen die Pastillen und sorgen für das langanhaltende Gefühl angenehmer Atemfrische
 - ATEMFRISCHE FÜR DIE HOSENTASCHE: Die einzelnen Beutel passen in jede Hand- oder Hosentasche und sind nach dem Essen, für zwischendurch oder unterwegs sehr praktisch, Wir sind immer an deiner Seite!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

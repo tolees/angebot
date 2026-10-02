@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial mit einem Recycling-Anteil von mindestens 50 %
+- Synthetik-Obermaterial
 - Gummiaußensohle
 - Synthetikfutter
 - Reguläre Passform
-- Synthetik-Obermaterial
+- Obermaterial mit einem Recycling-Anteil von mindestens 50 %
 - Schnürsenkel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- kam als Material Gummi zum Einsatz.
 - Schuhweite: Mittel
+- kam als Material Gummi zum Einsatz.
 - Moderner Wanderschuh
 
 [🛒 Hier!!]({{< param buyurl >}})

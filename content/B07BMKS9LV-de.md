@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sehr effizient
 - Maße (B x T x H): 60 × 49 × 100 cm
 - Einfach zu verwenden
+- Sehr effizient
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07BMKS9LV{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eine authentische, vollständige Racing-Einrichtung für Xbox und PC
-- Reibungslose Gangschaltung mit magnetischen Schaltpedalen, Tune und personalisiere deine Einrichtung mit dem Race Management Display
-- Inklusive Tischklemmen oder integrierten Gewinde-Einsätzen für vielseitige Montagemöglichkeiten
-- Maßgefertigter K: Drive Motor mit Direktantrieb und 3,2 Nm „Force Feedback“, Anpassbares Gas-, Kupplungs- und Bremspedal-System mit Hall-Effekt
 - Robuste, Rennsport-taugliche Materialien, Modulares Design für andere kompatible VelocityOne Accessoires
+- Maßgefertigter K: Drive Motor mit Direktantrieb und 3,2 Nm „Force Feedback“, Anpassbares Gas-, Kupplungs- und Bremspedal-System mit Hall-Effekt
+- Eine authentische, vollständige Racing-Einrichtung für Xbox und PC
+- Inklusive Tischklemmen oder integrierten Gewinde-Einsätzen für vielseitige Montagemöglichkeiten
+- Reibungslose Gangschaltung mit magnetischen Schaltpedalen, Tune und personalisiere deine Einrichtung mit dem Race Management Display
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FDMJ8VVV{{</world>}}

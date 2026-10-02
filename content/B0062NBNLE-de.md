@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Gesamtlänge: ca. 6,4 m (davon ca. 1,5 m Zuleitung)
-- Mit Transformator
 - Lichterkette ist für Innen und Außen
+- Mit Transformator
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0062NBNLE{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schützt schuppen
 - Geeignet für schwaches oder stumpfes Haar
+- Schützt schuppen
 - Multifunktionales abschlu-shampoo
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

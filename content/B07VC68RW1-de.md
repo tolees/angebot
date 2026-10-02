@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Plug and Play, keine Konfiguration nötig
 - Metallgehäuse für eine einfache Tisch- oder Wandmontage
-- Green-ethernet-technologie senkt den Energieverbrauch nach Nutzung
-- 5 x 10/100/1000Mbit/s Auto-Negotiation RJ45 Ports unterstützt Auto-MDI/MDIX
 - Ieee 802.3x für zuverlässige datenstromkontrolle
+- Plug and Play, keine Konfiguration nötig
+- 5 x 10/100/1000Mbit/s Auto-Negotiation RJ45 Ports unterstützt Auto-MDI/MDIX
 - Lautloser Betrieb dank lüfterlosem Design
+- Green-ethernet-technologie senkt den Energieverbrauch nach Nutzung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07VC68RW1{{</world>}}

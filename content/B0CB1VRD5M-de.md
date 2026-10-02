@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Schnürung
-- Sohle: Ethylen-Vinylacetat
 - Innenmaterial: Synthetik
+- Sohle: Ethylen-Vinylacetat
+- Verschluss: Schnürung
 - Absatzform: Kein Absatz
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Synthetik
 - Obermaterial: Leder
+- Innenmaterial: Synthetik
 - Verschluss: Schnürsenkel
 - Sohle: Gummi
 

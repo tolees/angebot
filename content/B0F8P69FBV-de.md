@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hergestellt mit medizinischem Hydrokolloid, das die Unreinheiten von Mitessern und Pickeln sanft absorbiert. Geeignet für empfindliche Haut. Ausserdem dermatologisch getestet.
-- Haftet den ganzen Tag oder die ganze Nacht über auf der Haut. Pickel Patches verbessern das Aussehen von Pickeln nach einer Nacht.
+- Mittelgroße Pickel Patches: 144 allergiegetestete Akne-Pflaster (12 mm große Patches) pro Schachtel, die leicht von der Folie abzuziehen sind. Wirken gut in 6-8 Stunden - aufkleben, schlafen & den Tag starten
 - Schützt die Haut vor weiteren Verunreinigungen und davor, den Pickel zu berühren oder ausdrücken zu wollen.
 - Das Original Pickel Patch: Hero Mighty Patch ist ein Hydrokolloid-Pflaster, das Pickel über Nacht verbessert, indem es Unreinheiten absorbiert. Aufkleben, schlafen und nach 6-8 Stunden mit besserer Haut aufwachen
-- Mittelgroße Pickel Patches: 144 allergiegetestete Akne-Pflaster (12 mm große Patches) pro Schachtel, die leicht von der Folie abzuziehen sind. Wirken gut in 6-8 Stunden - aufkleben, schlafen & den Tag starten
+- Haftet den ganzen Tag oder die ganze Nacht über auf der Haut. Pickel Patches verbessern das Aussehen von Pickeln nach einer Nacht.
+- Hergestellt mit medizinischem Hydrokolloid, das die Unreinheiten von Mitessern und Pickeln sanft absorbiert. Geeignet für empfindliche Haut. Ausserdem dermatologisch getestet.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0F8P69FBV{{</world>}}

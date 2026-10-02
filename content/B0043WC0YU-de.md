@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Material: Aluminium
-- 1005BAC 1051BAC und 1052 BAC) mit Traglasten von 4 bis 10 kg und Arbeitshöhen von 75 bis 366 cm!
 - Die neue Babylight-Serie besteht aus vier Stativen (1004BAC
 - Lieferumfang: Manfrotto Stativ Ranker AC Schwarz
 - Max, Belastbarkeit: 10 kg
+- 1005BAC 1051BAC und 1052 BAC) mit Traglasten von 4 bis 10 kg und Arbeitshöhen von 75 bis 366 cm!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0043WC0YU{{</world>}}

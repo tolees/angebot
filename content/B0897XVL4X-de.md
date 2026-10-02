@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mit kleinem Markenlogo auf der Brust
-- Der Jerseystoff aus Baumwolle ist sehr geschmeidig auf der Haut und dehnbar
 - Hoher Tragekomfort
+- Der Jerseystoff aus Baumwolle ist sehr geschmeidig auf der Haut und dehnbar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0897XVL4X{{</world>}}

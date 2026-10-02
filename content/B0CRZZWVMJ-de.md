@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Reißverschluss
+- Elastisches Design an Ärmelenden und Saum
 - Eingrifftaschen mit Gewebeband, Druckknopfverschluss
 - Innentasche und Hängeschlaufe
-- Elastisches Design an Ärmelenden und Saum
 - Hoher Kragen, Rippdesign innen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

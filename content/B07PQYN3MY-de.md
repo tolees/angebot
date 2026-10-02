@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- OPTIMALER SCHLAFKOMFORT - Pflegeleichte Matratzenauflage/Topper für Betten, Schlafsofas, Boxspringbetten und mehr - Gesamthöhe: ca. 6 cm
-- HOCHWERTIGER BEZUG - Atmungsaktive Mikrofaserbezug aus 100 Prozent Polyester, beidseitig versteppt mit 150 g/m² Klimafaser, absorbiert Feuchtigkeit optimal und sorgt für ein trockenes und gesundes Schlafklima - 4 Eckgummis sorgen für einen sicheren Halt
 - EINFACHE PFLEGE - Elastische Bänder zur sicheren Befestigung an der Matratze; Bezug abnehmbar und waschbar bis 60° C - optimal geeignet für Hausstauballergiker
+- HOCHWERTIGER BEZUG - Atmungsaktive Mikrofaserbezug aus 100 Prozent Polyester, beidseitig versteppt mit 150 g/m² Klimafaser, absorbiert Feuchtigkeit optimal und sorgt für ein trockenes und gesundes Schlafklima - 4 Eckgummis sorgen für einen sicheren Halt
+- OPTIMALER SCHLAFKOMFORT - Pflegeleichte Matratzenauflage/Topper für Betten, Schlafsofas, Boxspringbetten und mehr - Gesamthöhe: ca. 6 cm
 - PRODUKTION - Das Traumnacht Sortiment wird komplett in Deutschland entwickelt und in zertifizierten, besonders nachhaltigen Produktionsstätten in der EU produziert
 - NACHHALTIGKEIT - Traumnacht Matratzen sind geprüft nach Öko-Tex Standard 100
 - ATMUNGSAKTIVER KERN - Offenporiger Komfortschaumkern ist besonders atmungsaktiv, passt sich ideal dem Körper an und unterstützt excellent den Rücken, für eine ergonomisch optimale Position und bessere Durchblutung,

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- music label: Bad Vibes Forever 2018
 - gatefold jacket
+- music label: Bad Vibes Forever 2018
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07CLW1R66{{</world>}}

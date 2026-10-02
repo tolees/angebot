@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Garantiert hohe Standards zum Schutz unserer Umwelt durch die Blaue Engel Zertifizierung
 - Farbe: Grün
-- 10,5 x 24 cm, 2-fach gelocht
 - Aus recyceltem Manilakarton 190 g/m²
 - 200 Stück
+- 10,5 x 24 cm, 2-fach gelocht
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DJ2Z5PQN{{</world>}}

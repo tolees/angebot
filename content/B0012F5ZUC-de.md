@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zum Lasieren unbehandelter Holzgegenstände, wie Tabletts, Bilderrahmen, Tische, Stühle, Kommoden und Holzdosen
 - Fließend - flüssig, untereinander mischbar
-- Auf Wasserbasis, speichelecht
-- Natürlich, farbintensive Acryl - Holzlasur in weiß
+- Zum Lasieren unbehandelter Holzgegenstände, wie Tabletts, Bilderrahmen, Tische, Stühle, Kommoden und Holzdosen
 - Zur dekorativen Gestaltung und ideal als Grundierung für Foto Transfer Potch und Serviettentechnik
+- Natürlich, farbintensive Acryl - Holzlasur in weiß
+- Auf Wasserbasis, speichelecht
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0012F5ZUC{{</world>}}

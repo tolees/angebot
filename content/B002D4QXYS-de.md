@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Außenmaße (LxBxH): 28cm x 12cm x 48cm
+- 3 weitere Fächer mit Reißverschluss
 - Verschlussart: Reißverschluss
 - Serie: Louis
-- Außenmaße (LxBxH): 28cm x 12cm x 48cm
 - Volumen in L ca.: 11-20
-- 3 weitere Fächer mit Reißverschluss
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B002D4QXYS{{</world>}}

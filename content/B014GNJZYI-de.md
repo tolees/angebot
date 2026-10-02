@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Leichte, stoßdämpfende, stützende Zwischensohle
 - Skechers luftgekühlte Memory-Foam-Komfort-Einlegesohle.
 - Obermaterial aus glattem Leder und Synthetik.
-- Leichte, stoßdämpfende, stützende Zwischensohle
 - Absatzhöhe: 3,18 cm.
 - Flexible Gummi-Laufsohle.
 

@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - ohne optische Aufheller, ISO 9706 konform, säurefrei, Wilhelm Imaging Research-zertifiziert, wasserabweisend, trocknet sofort
+- matte, weiche Textur
+- Canson Infinity
 - 25 Blatt, Box A4, 310g
 - aus 100% Baumwolle, kompatibel mit pigmentierten und farbstoffbasierten Tinten
-- Canson Infinity
-- matte, weiche Textur
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B002CHNTDE{{</world>}}

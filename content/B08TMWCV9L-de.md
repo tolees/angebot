@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Großes Rücklicht in Helmschale integriert
 - Intergrierte Helmbeleuchtung
 - Sehr gute Belüftung durch 19 große Lufteinlässe
+- Großes Rücklicht in Helmschale integriert
 - Optimale Passform durch verstellbares Innenring-System
 - Extrem stabile Polycarbonat-Schale
 

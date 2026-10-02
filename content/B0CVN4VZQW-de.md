@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Süßegrad: feinherb Aromen: Pfirsich und Stachelbeere Herkunft: Deutschland Passt zu: leichten Vorspeisen und Gemüse
 - Enthalt: SULFITE
+- Süßegrad: feinherb Aromen: Pfirsich und Stachelbeere Herkunft: Deutschland Passt zu: leichten Vorspeisen und Gemüse
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CVN4VZQW{{</world>}}

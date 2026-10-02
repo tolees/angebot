@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - STÄRKE: Köstlich reiner Kaffee in einer Tassengröße von 230ml und mit einer Stärke von 5/11 zum lange und intensiv genießen
-- ARABICA & ROBUSTA: Leckerer Kaffeegenuss mit vollmundigem Aroma – dank fein gemahlener Arabica- und Robusta-Bohnen in praktischen Kaffeekapseln
 - SCHNELL: Dolce Gusto Grande Kapseln für vollmundigen Kaffeegenuss in der großen Tasse – schnell und bequem zu Hause zubereitet, wie im Coffee-Shop
 - FRUCHTIG: Frische Röstaromen und Noten von roter Traube und Cerealien, machen den Geschmack unverwechselbar
 - CREMA: Feine, dichte und goldbraune Crema, die sich auf dem zubereiteten Kaffee unserer Arabica und Robusta Bohnen ergibt
+- ARABICA & ROBUSTA: Leckerer Kaffeegenuss mit vollmundigem Aroma – dank fein gemahlener Arabica- und Robusta-Bohnen in praktischen Kaffeekapseln
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C59FPWPB{{</world>}}

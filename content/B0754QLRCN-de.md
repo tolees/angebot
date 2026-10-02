@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ober- und unterirdisch verlegbar
 - 24V-Verbindungskabel
+- ober- und unterirdisch verlegbar
 - IP-Schutz: IP68 - geschützt gegen dauerhaftes Untertauchen
 - kombinierbar mit allen Leuchten und Zubehörteilen aus der Plug&Shine Serie
 

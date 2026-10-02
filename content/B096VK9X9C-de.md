@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Série Expert Absolut Repair Maske
 - Hair typ: Normal
+- Série Expert Absolut Repair Maske
 - Packungage die Größe: 8.5 L X 10.8 H X 10.3 W (Centimeters)
 
 [🛒 Hier!!]({{< param buyurl >}})

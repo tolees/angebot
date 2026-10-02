@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'bruder 62003 - JCB Mikrobagger 8010 CTS'
-date: 2026-09-26 16:14:51
+date: 2026-09-30 04:21:33
 image: 'https://m.media-amazon.com/images/I/31E5s+pmObL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B006T0D2FU/?tag=tolees0ca-21'
 descuento: '36.90'
-average: '10.1049999999999'
+average: '10.1036363636363'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

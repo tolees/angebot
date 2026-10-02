@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Passe deinen Zug an, indem du Waggons mit den verschiedensten Möbeln ausstattest!
-- Bediene deine Passagiere, um ihnen eine angenehme Reise zu ermöglichen
-- Kümmere dich um deinen Zug und bereite ihn für die nächste Reise vor
-- Erkunde, interagiere und unterhalte dich mit einzigartigen Charakteren
 - Biete deinen Passagieren das bestmögliche Reiseerlebnis
+- Bediene deine Passagiere, um ihnen eine angenehme Reise zu ermöglichen
+- Erkunde, interagiere und unterhalte dich mit einzigartigen Charakteren
+- Kümmere dich um deinen Zug und bereite ihn für die nächste Reise vor
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0F2BG4TNT{{</world>}}

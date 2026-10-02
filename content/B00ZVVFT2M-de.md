@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Herstellergarantie: 10 Jahre auf das Keramikmahlwerk. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“
-- Keramikmahlwerk ist härter als Stahl, korrosions- und verschleißfrei. Es mahlt Pfeffer und Salzkörner, getrocknete Kräuter (Chillischoten) und Gewürze. Keramik ist lebensmittelneutral und abriebfrei
 - Das Mahlwerk wird über den Drucknopf eingeschalten. Der starke Elektromotor lässt einen hohen Mahldurchsatz zu. Das Einstellrad ermöglicht die stufenlose Einstellung der Mahlstärke von grob bis fein
 - Inhalt: 1x Gewürzmühle elektrisch (Höhe 21 cm) - Artikelnummer: 0667421040
+- Keramikmahlwerk ist härter als Stahl, korrosions- und verschleißfrei. Es mahlt Pfeffer und Salzkörner, getrocknete Kräuter (Chillischoten) und Gewürze. Keramik ist lebensmittelneutral und abriebfrei
 - Material: Kunststoff, Acrylglas, Keramik-Mahlwerk - spülmaschinengeeignet (Glasbehälter)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

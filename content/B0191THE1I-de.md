@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dunkelgrüner Karton, 170 g/m², Format A4
-- Internationale Produkte haben separate Bedingungen, werden aus dem Ausland verkauft und können sich von lokalen Produkten unterscheiden, einschließlich Passform, Alterseinstufung und Sprache des Produkts, Kennzeichnung oder Anweisungen.
 - Ideal für alle Arten von Bastelarbeiten, Schriftzügen, Scrapbooking, Decken, Trennblättern, Papyroflexia, Dokumentendruck
 - Jede Packung enthält 50 Kartons
+- Dunkelgrüner Karton, 170 g/m², Format A4
+- Internationale Produkte haben separate Bedingungen, werden aus dem Ausland verkauft und können sich von lokalen Produkten unterscheiden, einschließlich Passform, Alterseinstufung und Sprache des Produkts, Kennzeichnung oder Anweisungen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0191THE1I{{</world>}}

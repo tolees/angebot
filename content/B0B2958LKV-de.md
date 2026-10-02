@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Innenmaterial: 50 Prozent gewebte Textilbaumwolle, 40 Prozent Rindsleder -Vollnarbenleder, 10 Prozent synthetisches Polyurethan
-- Absatzform: Flach
-- Sohle: Gummi, 90 Prozent Polyurethan, 10 Prozent CMEVA
-- Obermaterial: Synthetik
 - Verschluss: Pull-on, Schnürung
+- Obermaterial: Synthetik
+- Sohle: Gummi, 90 Prozent Polyurethan, 10 Prozent CMEVA
+- Absatzform: Flach
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B2958LKV{{</world>}}

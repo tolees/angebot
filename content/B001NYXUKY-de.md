@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leidenschaft für erstklassige Werkzeuge: Seit über 30 Jahren gibt es für uns kein Limit
-- Chrom-Molybdän
 - ergonomischer 1-Komponentengriff
+- Chrom-Molybdän
+- Leidenschaft für erstklassige Werkzeuge: Seit über 30 Jahren gibt es für uns kein Limit
 - bestens geeignet für Montage- und Demontagearbeiten
 - in der ganzen Länge gehärtet
 

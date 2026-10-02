@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Rutschhemmendes Trittbrett
 - Leuchtende Räder während der Fahrt, Kugellager vorne und hinten
 - Optimal zum Training des Gleichgewichts
-- Rutschhemmendes Trittbrett
 - 3 Räder für stabiles Fahren und Hinterradbremse
 - kann der Größe des Kindes angepasst werden, Vollgummi Lenkergriffe mit Sturzpads
 

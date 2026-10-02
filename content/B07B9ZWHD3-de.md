@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Version: Standard
 - Genre: Aktion
+- Version: Standard
 - Plattform: Nintendo Switch
 - Altersfreigabe: Freigegeben ohne Altersbeschränkung
 

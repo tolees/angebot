@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- zur Drehmomentbegrenzung
 - Torsionsstäbe, Länge 195 mm: 100 - 110 - 120 - 135 - 150 Nm
 - die Toleranz bei der Anwendung des Torsionsstabes beträgt ca. 10 % bei Einsatz eines Schlagschraubers mit 250Nm innerhalb von 5 Sekunden
+- zur Drehmomentbegrenzung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001IL8SY0{{</world>}}

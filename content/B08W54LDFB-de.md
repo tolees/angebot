@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Metallgehäuse IP Roségold poliert Ø 36 mm, kratzunempfindliches Mineralglas, Wasserdichtigkeit geprüft bis 3 bar/ ATM.
 - Hochwertiges Lederarmband. Die Wechselfederstege sorgen für kinderleichtes Wechseln des Bandes.
 - Die schöne Tamaris Damenuhr überzeugt mit ihrem klassischen und doch modernen Look.
-- Metallgehäuse IP Roségold poliert Ø 36 mm, kratzunempfindliches Mineralglas, Wasserdichtigkeit geprüft bis 3 bar/ ATM.
 - Gut ablesbares Zifferblatt und zuverlässiges Quarzwerk.
 - Verpackt in einer original Tamaris Geschenkverpackung.
 

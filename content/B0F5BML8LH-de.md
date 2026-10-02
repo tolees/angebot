@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Strapazierfähiges und atmungsaktives Obermaterial
+- Lehmsohle für Halt auf rotem Lehm
 - Lehmsohle für Halt auf rotem Lehm
 - Seitliche Abstützung zur Stabilisierung
-- Lehmsohle für Halt auf rotem Lehm
+- Strapazierfähiges und atmungsaktives Obermaterial
 - Ideal für regelmäßige Spieler
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

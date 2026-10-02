@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verstellbarer Riemen
 - Hauptfach und eine kleinere zusätzliche Tasche auf der Rückseite
+- Verstellbarer Riemen
 - Doppelreißverschluss
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

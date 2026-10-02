@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthält Mega-Feuchtigkeitsspender und die Vitamine C und E für weiche, geschmeidige und verführerische Lippen
-- Üppige, voll abdeckende Farbe
-- Gleichmäßiger Farbauftrag für einen anhaltenden markanten und leuchtenden Look
 - nanDamen
-- Die LiquiSilk-Formel sorgt für Farbe und Weichheit
 - Die Lippen sehen glänzend aus und fühlen sich mit voller Farbe und Feuchtigkeitsspendern gepflegt an
+- Üppige, voll abdeckende Farbe
+- Die LiquiSilk-Formel sorgt für Farbe und Weichheit
+- Enthält Mega-Feuchtigkeitsspender und die Vitamine C und E für weiche, geschmeidige und verführerische Lippen
+- Gleichmäßiger Farbauftrag für einen anhaltenden markanten und leuchtenden Look
 - Ziel geschlecht: unisex
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

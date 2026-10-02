@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- IP65: Schutzklasse (für den Außenbereich): Durch das qualitativ hochwertige Gehäuse ist die Gartenleuchte wetterfest und gegen Strahlwasser geschützt
 - Einfache Installation: Bei der Calla handelt es sich um eine Leuchte mit NV-Anschluss, die durch ein seperates Netzteil an eine Außensteckdose angeschlossen werden kann
 - Für das volle Smart Home Erlebnis im gesamten Zuhause: Erweitern Sie Ihr System mit der Hue Bridge (separat erhältlich) und entdecken Sie viele weitere Funktionen
 - Bei diesem Produkt handelt es sich um ein umgebendes Produkt. Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können. Dieses Produkt enthaelt eine Lichtquelle der Energieeffizienzklasse D
 - Personalisierte Beleuchtung: Wählen Sie in der App aus 16 Millionen Farben oder verschiedensten Weißtönen und setzen Sie die perfekten Highlights für Ihren Außenbereich
-- IP65: Schutzklasse (für den Außenbereich): Durch das qualitativ hochwertige Gehäuse ist die Gartenleuchte wetterfest und gegen Strahlwasser geschützt
 - Smarte Lichtsteuerung für Ihren Außenbereich: Die Hue Sockelleuchte lässt sich in ein bestehendes Hue System integrieren, eine Bridge ist für den Betrieb notwendig
 
 [🛒 Hier!!]({{< param buyurl >}})

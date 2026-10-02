@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Klettverschluss
 - Innenmaterial: Textil
+- Verschluss: Klettverschluss
 - Sohle: Gummi
 - Absatzform: Flach
 - Obermaterial: Leder

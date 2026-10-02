@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - BEWÄHRTE SAUBERKEIT: Schon seit über 110 Jahren sorgt Sagrotan für die hygienische Sauberkeit zuhause und schützt vor Bakterien / Die Hautverträglichkeit ist dermatologisch getestet
+- GEMEINSAM GEGEN PLASTIK IM OZEAN: Mit jedem Kauf helfen Sie uns insgesamt 5 Millionen Plastikflaschen aus der Umwelt zu sammeln (Bei Verkauf durch Amazon/Sediva/Lamos4u 1 Flasche = 20g Plastikmüll)​
 - LIEFERUMFANG: 6 x 500ml Handseife Nachfüllpack Aloe Vera von Sagrotan / Feuchtigkeitsspendend / Sanft zur Haut und stark gegen Bakterien
 - DAS IDEALE DUFTERLEBNIS: Die flüssige Seife verwöhnt mit einem angenehmen Duft nach Aloe Vera und reinigt auch empfindliche Haut besonders sanft
-- HYGIENE SEIFE: Die Formel bietet eine ideale Kombination aus Pflege und zuverlässigem täglichen Schutz: Sanft zur Haut, Stark gegen Bakterien
-- GEMEINSAM GEGEN PLASTIK IM OZEAN: Mit jedem Kauf helfen Sie uns insgesamt 5 Millionen Plastikflaschen aus der Umwelt zu sammeln (Bei Verkauf durch Amazon/Sediva/Lamos4u 1 Flasche = 20g Plastikmüll)​
 - PFLEGE UND SCHUTZ: Die Formel mit feuchtigkeitsspendenden Inhaltsstoffen* bietet eine ideale Kombination aus Pflege und zuverlässigem täglichen Schutz *Enthält Milchsäure und Glycerin
+- HYGIENE SEIFE: Die Formel bietet eine ideale Kombination aus Pflege und zuverlässigem täglichen Schutz: Sanft zur Haut, Stark gegen Bakterien
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00Q8QIL92{{</world>}}

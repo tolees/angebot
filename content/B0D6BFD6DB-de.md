@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Super Titanium Zenshin 2024
-- Edelstahl
 - Analog Quartz
 - Eco-Drive
+- Super Titanium Zenshin 2024
+- Edelstahl
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D6BFD6DB{{</world>}}

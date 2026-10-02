@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ultrahocherhitzt, homogenisiert
-- Erzeugnis aus Frankreich
-- Plastikflasche, Einwegpfand wird an der Kasse addiert
 - 6x1L Fettarme H-Milch 1.5%
+- Erzeugnis aus Frankreich
+- Ultrahocherhitzt, homogenisiert
+- Plastikflasche, Einwegpfand wird an der Kasse addiert
 - Kühl und trocken lagern
 
 [🛒 Hier!!]({{< param buyurl >}})

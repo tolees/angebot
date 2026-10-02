@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1 verstellbarer Aufsteckkamm (2-20 mm), 5 Aufsteckkämme (1, 5, 3, 6, 9, 12 mm)
 - 4 abwaschbare Aufsteckköpfe: breiter Trimmer, linearer Trimmer für Nasen- und ohrenhaare
-- Titanbeschichtete, selbstschärfende Klingen
+- 1 verstellbarer Aufsteckkamm (2-20 mm), 5 Aufsteckkämme (1, 5, 3, 6, 9, 12 mm)
 - Akkubetrieb, bis zu 40 Minuten Betriebszeit, Ladekontrollanzeige
+- Titanbeschichtete, selbstschärfende Klingen
 - Mini-folienrasieraufsatz, detail-trimmer für ein präzises Styling (0, 2 mm)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

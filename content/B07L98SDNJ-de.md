@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: mehrfarbig
 - Verpackungsgewicht: 358 Gramm
+- Farbe: mehrfarbig
 - Herkunftsland:- China
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Normale Passform
 - Gerippter Rundhalsausschnitt
-- PUMA No. 1 Logo auf der Vorderseite
 - BCI: Mit dem Kauf von Baumwollprodukten von PUMA unterstützt du einen nachhaltigen Baumwollanbau. Mehr unter bettercotton.org/massbalance
+- PUMA No. 1 Logo auf der Vorderseite
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B089Z8CZXZ{{</world>}}

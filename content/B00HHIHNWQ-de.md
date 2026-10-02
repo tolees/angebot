@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit beleuchtetem Sicherheitsschalter zum Ein- und Ausschalten (zweipolig)
 - Die Steckdosenleisten mit zweipoligem Schalter bieten den Vorteil, dass der Stromkreislauf vollständig unterbrochen und auf den Standby-Modus verzichtet wird
 - Stabile, schlichte Steckerleiste aus hochbruchfestem Spezial-Kunststoff
-- 4er Schutzkontakt-Steckdosenleiste mit 1,8m Kabellänge H05VV-F 3G1,5 und erhöhtem Berührungsschutz
 - Lieferumfang: 1 x Premium-Line Steckerleiste in der Farbe schwarz - in bester Qualität von brennenstuhl
+- 4er Schutzkontakt-Steckdosenleiste mit 1,8m Kabellänge H05VV-F 3G1,5 und erhöhtem Berührungsschutz
+- Mit beleuchtetem Sicherheitsschalter zum Ein- und Ausschalten (zweipolig)
 - Mehrfachstecker mit innovativer Aufhänge-Vorrichtung zur Wandmontage und praktischer Kabelaufnahme
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

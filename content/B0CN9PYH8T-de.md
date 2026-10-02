@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Top für Baby-Mädchen der dänischen Marke NAME IT
 - Pull-On
+- Top für Baby-Mädchen der dänischen Marke NAME IT
 - Baby-Mädchen Top
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

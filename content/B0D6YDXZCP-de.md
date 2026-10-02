@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dual-Mikrofon mit AI-Rauschunterdrückung für klare Anrufe
 - Bis zu 38,5 Stunden erweiterte Akkulaufzeit mit Ladeetui
 - Offene Ohrmuschel für ganztägigen Tragekomfort und sicheren Sitz
 - 10mm Treiber zur Schalldämmung, um die Privatsphäre über 25cm* hinaus zu wahren
+- Dual-Mikrofon mit AI-Rauschunterdrückung für klare Anrufe
 - Hi-Res Audio mit 17x12mm dynamischem Treiber und optimierter Bassleistung, LHDC
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

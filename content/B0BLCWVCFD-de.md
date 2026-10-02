@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PUMA Formstrip an der Innen- und Außenseite
-- PUMA Wordmark auf der Ferse
-- Doppelschichtige Ösenleisten
-- Getrommeltes Material in Leder-Optik auf dem Obermaterial
 - Perforation am Zehenbereich
+- Doppelschichtige Ösenleisten
+- PUMA Wordmark auf der Ferse
+- Getrommeltes Material in Leder-Optik auf dem Obermaterial
+- PUMA Formstrip an der Innen- und Außenseite
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BLCWVCFD{{</world>}}

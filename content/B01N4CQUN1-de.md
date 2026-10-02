@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Schlüsselweite: 7 mm
+- Länge: 100 mm
 - gefertigt aus Chrom-Vanadium-Stahl
 - Sechskant-Ausführung mit Haltemagnet
-- Länge: 100 mm
 - Abtriebsprofil: Sechskant
 - 6,3 mm (1/4") Bohrmaschinenschaft
-- Schlüsselweite: 7 mm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01N4CQUN1{{</world>}}

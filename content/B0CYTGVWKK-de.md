@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Schnürsenkel
 - Reguläre Passform
 - Obermaterial aus Leder
-- Schnürsenkel
 - Textilfutter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

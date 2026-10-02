@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- RAUMGRÖSSE: Geeignet für Schlafzimmer, Wohnzimmer und Räume bis ca. 12 m²
 - GEGEN MÜCKEN: Zur Anwendung gegen Stechmücken und Tigermücken im Innenbereich
-- BAuA-Nr. (D) N-112203 Biozidprodukte vorsichtig verwenden. Vor Gebrauch stets Etikett und Produktinformationen lesen.
-- ELEKTROVERDAMPFER: Verdampft Wirkstoff kontinuierlich im Raum über die Steckdose
 - WIRKSTOFFBASIS: Mit Zitroneneukalyptusöl zur Anwendung gegen Mücken
 - BIS ZU 50 NÄCHTE: Anwendung bei 8 Stunden Betrieb pro Nacht
 - EINFACHE ANWENDUNG: Flasche einschrauben, einstecken und im Raum platzieren
-- RAUMGRÖSSE: Geeignet für Schlafzimmer, Wohnzimmer und Räume bis ca. 12 m²
+- BAuA-Nr. (D) N-112203 Biozidprodukte vorsichtig verwenden. Vor Gebrauch stets Etikett und Produktinformationen lesen.
+- ELEKTROVERDAMPFER: Verdampft Wirkstoff kontinuierlich im Raum über die Steckdose
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DNTL8S9B{{</world>}}

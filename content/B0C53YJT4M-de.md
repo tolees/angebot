@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieser cleane Sneaker mit Wildleder-Details lässt sich easy an und ausziehen
 - Gummi-Cupsohle
+- Dieser cleane Sneaker mit Wildleder-Details lässt sich easy an und ausziehen
 - Textilfutter
 - Elastische Schnürsenkel, Klettverschlussriemen oben
 - Reguläre Passform

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichte, flexible und stoßdämpfende Zwischensohle
 - Obermaterial aus Mesh mit Bungee Schnürfront
+- Leichte, flexible und stoßdämpfende Zwischensohle
 - Flexible Traktionslaufsohle
 
 [🛒 Hier!!]({{< param buyurl >}})

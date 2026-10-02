@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Citizen - NJ0180-80X - Armbanduhr - Herren - Automatik - Super Titanium'
-date: 2026-08-30 09:07:12
+title: 'Citizen Herren Analog Automatik Uhr mit Titan Armband NJ0180-80X'
+date: 2026-09-30 01:24:22
 image: 'https://m.media-amazon.com/images/I/41q0n-6LeLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0D6BCLY15-de Citizen - NJ0180-80X - Armbanduhr - Herren - Automatik -...'
+slug: 'B0D6BCLY15-de Citizen Herren Analog Automatik Uhr mit Titan Armband...'
 sku: 'B0D6BCLY15-de'
 tags: [ '🇩🇪', ]
-actualPrice: 338.74 EUR
+actualPrice: 343.17 EUR
 currency: EUR
-price: 338.74
+price: 343.17
 comparePrice: 429.0 EUR
-prodname: 'Citizen - NJ0180-80X - Armbanduhr - Herren - Automatik - Super Titanium'
+prodname: 'Citizen Herren Analog Automatik Uhr mit Titan Armband NJ0180-80X'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0D6BCLY15/?tag=tolees0ca-21'
-descuento: '21.04'
-average: '345.028'
+descuento: '20.01'
+average: '344.718333333333'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,7 +28,6 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Klassische Herrenuhr aus Super Titanium
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D6BCLY15{{</world>}}

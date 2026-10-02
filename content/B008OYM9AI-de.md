@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leicht zu handhaben – Einfach vor Gebrauch gut schütteln und mit Wasserfarben mischen oder pur auftragen – für beeindruckende, irisierende Akzente und mehr Ausdruckskraft.
 - Vielseitige Anwendung – Verwenden Sie das Medium direkt im Farbauftrag oder als glänzende Schicht für schimmernde Effekte und kreative Highlights in Ihrer Aquarellmalerei.
-- Schillernde, irisierende Effekte – Das Winsor & Newton Iridescent Medium verleiht Ihren Aquarellen einen perlmuttartigen Glanz und sorgt für faszinierende, metallische Akzente.
 - Premium-Qualität von Winsor & Newton – Hochwertiges Aquarell-Malmittel für Künstler, das Ihre Werke mit einem luxuriösen Perlglanz veredelt und kreative Möglichkeiten erweitert.
+- Schillernde, irisierende Effekte – Das Winsor & Newton Iridescent Medium verleiht Ihren Aquarellen einen perlmuttartigen Glanz und sorgt für faszinierende, metallische Akzente.
 - Perfekt für transparente Farben – Ideal zum Mischen mit transparenten Aquarellfarben oder zum Auftragen auf getrocknete Farbflächen – besonders wirkungsvoll auf dunklen Hintergründen.
+- Leicht zu handhaben – Einfach vor Gebrauch gut schütteln und mit Wasserfarben mischen oder pur auftragen – für beeindruckende, irisierende Akzente und mehr Ausdruckskraft.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B008OYM9AI{{</world>}}

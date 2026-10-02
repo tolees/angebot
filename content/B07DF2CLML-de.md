@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Patentiertes Easy Clic Plus System für einfaches und sicheres Anschließen von Campingaz Ventilkartuschen
-- Stopgaz System: eingebaute Sicherheitsvorkehrung, die den Gasfluss stoppt, wenn keine Flamme brennt
 - Transportbox enthalten
+- Stopgaz System: eingebaute Sicherheitsvorkehrung, die den Gasfluss stoppt, wenn keine Flamme brennt
+- Patentiertes Easy Clic Plus System für einfaches und sicheres Anschließen von Campingaz Ventilkartuschen
 - Piezo-Zündung für komfortable Zündung auf Knopfdruck
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

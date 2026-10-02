@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Materialzusammensetzung: 100% Leinen
 - B0CC9P6TTC
+- Materialzusammensetzung: 100% Leinen
 - Hose mit legerer Silhouette
 - Maschinenwäsche
 

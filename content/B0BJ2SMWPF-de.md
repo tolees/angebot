@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Durch die intelligente Konstruktion ist das Essbrett leicht anzubauen bzw. abzunehmen – Ihr Stuhl bleibt dadurch flexibel nutzbar
-- Ermöglicht Ihrem Kind eigenständiges Essen, Spielen und Basteln im Hochstuhl
-- Das Essbrett ist mit dem 3-Punkte Gurt des Sit Up Flex sowie passenden Hochstuhleinlagen kompatibel. Maße: 43 x 41 x 2 cm (LxTxH)
-- Das roba Essbrett aus Holz ist eine optionale Erweiterung für Ihren Sit Up Flex (Art. Nr. 7562AN-N)
 - Besteht aus zertifizierten Materialien und hautverträglichem Lack. Das Essbrett ist zudem leicht abwischbar und einfach zu reinigen
+- Das Essbrett ist mit dem 3-Punkte Gurt des Sit Up Flex sowie passenden Hochstuhleinlagen kompatibel. Maße: 43 x 41 x 2 cm (LxTxH)
+- Ermöglicht Ihrem Kind eigenständiges Essen, Spielen und Basteln im Hochstuhl
+- Durch die intelligente Konstruktion ist das Essbrett leicht anzubauen bzw. abzunehmen – Ihr Stuhl bleibt dadurch flexibel nutzbar
+- Das roba Essbrett aus Holz ist eine optionale Erweiterung für Ihren Sit Up Flex (Art. Nr. 7562AN-N)
 - Hinweis: Die Futterschale passt nur auf den roba Sit Up Flex Hochstuhl. Bitte beachten Sie, dass Neugeborene nicht auf diesen Hochstuhl passen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

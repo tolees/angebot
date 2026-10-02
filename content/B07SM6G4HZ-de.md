@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FALARY Sneaker Socken Herren Damen 12 Paar Kurze Halbsocken Baumwolle-Weiß-39-42'
-date: 2026-09-26 22:17:55
+date: 2026-10-01 11:39:43
 image: 'https://m.media-amazon.com/images/I/41gyvPZLpnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SM6G4HZ/?tag=tolees0ca-21'
 descuento: '70.01'
-average: '13.595'
+average: '14.06'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

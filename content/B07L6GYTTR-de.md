@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Charmante Kaffeetasse mit frühlingshaftem Dekor für den stilvollen Kaffeegenuss im Alltag und zu besonderen Anlässen
 - Auch für Gastronomie geeignet dank handlicher Form, Ineinander stapelbar, Stoß- und schlagfeste Kanten
-- Lieferumfang: 1x Villeroy & Boch Colourful Spring Kaffeetasse (230 ml), Material: Premium Porzellan, Farbe: Weiß/Bunt
 - Frühlingsmotive als Blickfang, Bildet mit Untertasse ein Duo, Praktischer Henkel
+- Charmante Kaffeetasse mit frühlingshaftem Dekor für den stilvollen Kaffeegenuss im Alltag und zu besonderen Anlässen
+- Lieferumfang: 1x Villeroy & Boch Colourful Spring Kaffeetasse (230 ml), Material: Premium Porzellan, Farbe: Weiß/Bunt
 - Spülmaschinenfest, mikrowellengeeignet, Hochwertige Qualität: Premium Porzellan Made in Germany
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

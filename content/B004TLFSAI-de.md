@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2-4 Spieler
 - Ligretto ist schnell, macht Spaß und ist leicht zu erlernen
-- Füge ein weiteres Pack hinzu und 4 weitere Spieler können mitspielen
 - Ab 8 Jahren
+- 2-4 Spieler
+- Füge ein weiteres Pack hinzu und 4 weitere Spieler können mitspielen
 - Teste deine Reaktionen, Schnelligkeit ist der Schlüssel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Umschaltbar von weißem (1.000 Lumen) auf gelbes Licht (900 Lumen)
-- Multivolt (12/24 V), 10 W, IP 6K9K, IP 6K8, ECE-R10, UKCA, RCM, Kabellänge 500 mm (offene Kabelenden)
-- Für die Wandmontage an der Fahrzeugkarosserie, z. B. im Eingangsbereich von Wohnmobilen
-- Homogene und weiträumige Lichtverteilung
 - Lampenart: LED - Anzahl der LEDs: 52 - Leistungsaufnahme: 10W
+- Homogene und weiträumige Lichtverteilung
+- Für die Wandmontage an der Fahrzeugkarosserie, z. B. im Eingangsbereich von Wohnmobilen
 - ECE-geprüft - Schutzart: IP69K/IP67/IP68
 - Schlankes und kompaktes Design für eine Vielzahl von Anwendungen
+- Umschaltbar von weißem (1.000 Lumen) auf gelbes Licht (900 Lumen)
+- Multivolt (12/24 V), 10 W, IP 6K9K, IP 6K8, ECE-R10, UKCA, RCM, Kabellänge 500 mm (offene Kabelenden)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BRXQBXSK{{</world>}}

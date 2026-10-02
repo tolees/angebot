@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Re/Start
 - 8432225114736
 - Beauty
-- Re/Start
 - Packung die Größe: 4.6 L x 19.9 H x 4.7 W (cm)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

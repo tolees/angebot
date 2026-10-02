@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Langlebig und zuverlässig
 - Einfach zu reinigen und zu warten
 - Kompatibel mit den meisten Fahrzeugen
-- Langlebig und zuverlässig
 - Schnell und unkompliziert zu montieren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Starlight Color Nachtsicht: Erfasst lebendige Bilder bei schwachem Licht aus bis zu 20 Metern Entfernung.
-- Kostenlose AI-Erkennung: Intelligente KI identifiziert Menschen, Haustiere und Fahrzeuge und sendet sofortige Benachrichtigungen über die Tapo-App.
-- Dual-Modus-Flexibilität mit 4G oder PoE: Versorgen Sie Ihre Kamera über einen Gleichstromadapter oder ein Ethernet-Kabel mit PoE-Technologie.
-- Ton- und Lichtalarm: Erstellen Sie Ihren eigenen Audioalarm, um unerwünschte Eindringlinge abzuschrecken, und passen Sie die Intensität der beiden Scheinwerfer an.
+- Lokaler und Cloud-Speicher: Speichern Sie alle Ihre wichtigen Momente auf einer microSD-Karte (bis zu 512 GB) oder abonnieren Sie Tapo Care für den Cloud-Service.
 - 1080P Full HD: Zeigt scharfe Bilder und lebendige Details mit 1920 × 1080 Pixeln.
+- Kostenlose AI-Erkennung: Intelligente KI identifiziert Menschen, Haustiere und Fahrzeuge und sendet sofortige Benachrichtigungen über die Tapo-App.
 - Die Verbindung erfolgt über 4G LTE-Netzwerke oder PoE (keine WLAN-Funktion). Kompatibel mit allen SIM-Karten aus Deutschland und Österreich. Bitte entsperren Sie die SIM-PIN vor der Nutzung. Wenn Sie das Gerät in anderen Regionen verwenden möchten, stellen Sie bitte sicher, dass die lokalen 4G-Netzfrequenzen die folgenden Bedingungen erfüllen: LTE-FDD: B 1/3/5/7/8/20/28 LTE-TDD: B 38/40/41.
 - IP66 Wetterfest: Funktioniert auch bei Regen, Staub und Hitze und bietet eine hervorragende wasser- und staubdichte Leistung für Outdoor-Szenarien.
-- Lokaler und Cloud-Speicher: Speichern Sie alle Ihre wichtigen Momente auf einer microSD-Karte (bis zu 512 GB) oder abonnieren Sie Tapo Care für den Cloud-Service.
 - 360°-Rundumschutz: Bietet einen horizontalen 360°- und einen vertikalen 130°-Sichtbereich, wodurch tote Winkel vermieden werden.
+- Ton- und Lichtalarm: Erstellen Sie Ihren eigenen Audioalarm, um unerwünschte Eindringlinge abzuschrecken, und passen Sie die Intensität der beiden Scheinwerfer an.
+- Dual-Modus-Flexibilität mit 4G oder PoE: Versorgen Sie Ihre Kamera über einen Gleichstromadapter oder ein Ethernet-Kabel mit PoE-Technologie.
+- Starlight Color Nachtsicht: Erfasst lebendige Bilder bei schwachem Licht aus bis zu 20 Metern Entfernung.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DKLTYVQ5{{</world>}}

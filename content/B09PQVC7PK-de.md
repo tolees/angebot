@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rundes Edelstahlgehäuse mit schwarzem Zifferblatt.
-- Braun, Lederband.
 - Wasserdicht bis zu 50 m: Tragbar beim Schwimmen im flachen Wasser.
+- Braun, Lederband.
+- Rundes Edelstahlgehäuse mit schwarzem Zifferblatt.
 - 42-mm-Gehäuse, Mineralglas, 3-Zeiger-Quarzwerk mit analoger Datumsanzeige, 22-mm-Bandbreite.
 
 [🛒 Hier!!]({{< param buyurl >}})

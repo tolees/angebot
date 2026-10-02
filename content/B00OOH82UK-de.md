@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Brettspiele, Action- und Reflexspiele. djeco
 - Pädagogische Lotustiere (Dj08120)
+- Brettspiele, Action- und Reflexspiele. djeco
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00OOH82UK{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Toilettenpapier mit Funktion
 - inkl. Toilette, Waschbecken, Badevorleger, Toilettenbürste, WC-Reiniger und einem Babysitz
+- Toilettenpapier mit Funktion
+- Toilette mit Spülfunktion
 - Passend um alle Häuser der Sylvanian Families einzurichten
 - mit Babysitz, damit auch die kleinsten auf Toilette gehen können
-- Toilette mit Spülfunktion
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CQP6Z2KF{{</world>}}

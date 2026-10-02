@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Tetsuro Araki
-- BRD
-- 450
 - Deutsch, Japanisch
+- 450
+- BRD
+- Tetsuro Araki
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07KH1BWNJ{{</world>}}

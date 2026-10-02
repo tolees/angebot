@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- freiverkäuflich
 - PZN-04853573
+- freiverkäuflich
 - 50 ml Creme
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

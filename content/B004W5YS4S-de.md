@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Metallspitze mit 0,35mm Strich
-- Schlankes Gehäuse mit Kappe
 - Gummierte Griffzone für optimalen Halt
+- Schlankes Gehäuse mit Kappe
+- Metallspitze mit 0,35mm Strich
 - Einwegmodell
 - Schnell trocknende, weich-fließende Liquid Gel-Tinte
 

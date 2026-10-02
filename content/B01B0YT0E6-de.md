@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnellkochfunktion für 1, 2 oder 3 Tassen
+- Perfect Pour-Ausgusstülle - ermöglicht ein tropfenfreies Ausgießen
 - Automatische Deckelöffnung per Knopfdruck
 - Verdecktes Heizelement und herausnehmbarer Kalkfilter
-- Perfect Pour-Ausgusstülle - ermöglicht ein tropfenfreies Ausgießen
+- Schnellkochfunktion für 1, 2 oder 3 Tassen
 - Kocht eine Tasse Wasser (235 ml) in 55 Sekunden und spart bis zu 70% Energie (beim Kochen einer Tasse Wasser (235 ml) im Vergleich zu 1,0 l)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

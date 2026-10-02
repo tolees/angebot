@@ -28,16 +28,16 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Abklappmechanismus
-- Max. Reifenbreite in der Schiene: bis 2,2 Zoll
-- Zum Transport von 4 Fahrrädern auf der Anhängerkupplung
-- Befestigung der Fahrräder durch Rahmenhalter und Textilspanngurte
-- Max. Nutzlast: 60 kg
-- Schienenabstand: ca. 19 cm
 - Mit Schnellverschluss - abschließbar
-- Abklappmechanismus mit Zusatzsicherung ermöglicht in der Regel das Öffnen des Kofferraums auch mit montierten Fahrrädern
-- Radstand: max. 126 cm
+- Schienenabstand: ca. 19 cm
+- Max. Reifenbreite in der Schiene: bis 2,2 Zoll
 - Für Fahrräder mit Oversize und Y-Rahmen bis Ø8,5 cm geeignet
+- Abklappmechanismus mit Zusatzsicherung ermöglicht in der Regel das Öffnen des Kofferraums auch mit montierten Fahrrädern
+- Zum Transport von 4 Fahrrädern auf der Anhängerkupplung
+- Mit Abklappmechanismus
+- Radstand: max. 126 cm
+- Max. Nutzlast: 60 kg
+- Befestigung der Fahrräder durch Rahmenhalter und Textilspanngurte
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01BPNJYJS{{</world>}}

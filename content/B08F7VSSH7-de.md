@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lässt sich einfach aufstellen und wieder zusammenklappen
+- Leicht mitzunehmen
 - Geeignet für Babys und Kinder im Alter von 0-3 Jahren
 - Weiche und angenehme Matratze
-- Leicht mitzunehmen
 - Abnehmbare und waschbare Bezüge
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flexible Traktionslaufsohle
 - Geprägtes Obermaterial aus synthetischem Durasuede
+- Flexible Traktionslaufsohle
 - Skechers Logo
 - Modischer Sneaker zum Schnüren
 
