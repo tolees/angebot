@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'PUMA Damen Puma Smash Wns V2 L Sneaker Puma Black Puma Black 40 EU'
+date: 2026-10-04 02:00:52
+image: 'https://m.media-amazon.com/images/I/31f4VVTD6aL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B077MTLKQ6-de PUMA Damen Puma Smash Wns V2 L Sneaker Puma Black Puma...'
+sku: 'B077MTLKQ6-de'
+tags: [ '🇩🇪', ]
+actualPrice: 32.9 EUR
+currency: EUR
+price: 32.9
+comparePrice: 54.95 EUR
+prodname: 'PUMA Damen Puma Smash Wns V2 L Sneaker Puma Black Puma Black 40 EU'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B077MTLKQ6/?tag=tolees0ca-21'
+descuento: '40.13'
+average: '35.445'
+---
+
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 kauf es hier!!]({{< param buyurl >}})
+{{<world>}}B077MTLKQ6{{</world>}}
