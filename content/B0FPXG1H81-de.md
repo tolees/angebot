@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'LEGO Classic Kreative Bunte Steine 11045'
+date: 2026-10-15 10:38:47
+image: 'https://m.media-amazon.com/images/I/51OzRaLYZbL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FPXG1H81-de LEGO Classic Kreative Bunte Steine 11045'
+sku: 'B0FPXG1H81-de'
+tags: [ '🇩🇪', ]
+actualPrice: 32.98 EUR
+currency: EUR
+price: 32.98
+comparePrice: 49.99 EUR
+prodname: 'LEGO Classic Kreative Bunte Steine 11045'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B0FPXG1H81/?tag=tolees0ca-21'
+descuento: '34.03'
+average: '33.0311627906974'
+---
+
+Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Hier!!]({{< param buyurl >}})
+{{<world>}}B0FPXG1H81{{</world>}}

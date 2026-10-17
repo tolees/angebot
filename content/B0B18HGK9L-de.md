@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'KangaROOS Unisex Kinder K5-drib Ev Sneaker White Jet Black 28 EU'
+date: 2026-09-16 12:35:22
+image: 'https://m.media-amazon.com/images/I/31mOohVurCL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0B18HGK9L-de KangaROOS Unisex Kinder K5-drib Ev Sneaker White Jet Black...'
+sku: 'B0B18HGK9L-de'
+tags: [ '🇩🇪', ]
+actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
+comparePrice: 34.95 EUR
+prodname: 'KangaROOS Unisex Kinder K5-drib Ev Sneaker White Jet Black 28 EU'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B0B18HGK9L/?tag=tolees0ca-21'
+descuento: '39.94'
+average: '15.847619047619'
+---
+
+Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Hier!!]({{< param buyurl >}})
+{{<world>}}B0B18HGK9L{{</world>}}
