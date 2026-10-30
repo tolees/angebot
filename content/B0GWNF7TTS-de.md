@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Ein Hauch von Kokoswasser in der Herznote sorgt für einen sanften, erfrischenden Kontrast
-- Die ambrierte Basisnote sorgt für einen warmen, unwiderstehlichen Nachhall
-- Davidoff Cool Water Eau de Parfum Intense ist ein ambrierter Fougère-Duft, der eine tiefere, sinnlichere Seite moderner Männlichkeit erforscht
 - Dieses Parfum Intense öffnet sich mit einem belebenden Auftakt, geprägt durch die lebhaften, zitrischen Noten von grüner Mandarine
 - Duftnoten: Kopfnoten:Grüne Mandarine Herznoten:Kokoswasser Basisnoten:Amber
+- Die ambrierte Basisnote sorgt für einen warmen, unwiderstehlichen Nachhall
+- Davidoff Cool Water Eau de Parfum Intense ist ein ambrierter Fougère-Duft, der eine tiefere, sinnlichere Seite moderner Männlichkeit erforscht
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0GWNF7TTS{{</world>}}

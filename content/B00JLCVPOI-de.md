@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Diese moderne Solarleuchte bringt ein schönen Flair auf ihren Gartentisch
+- Wieß lackiertes Kunsstoff mit klarem Glas
+- Aufgrund der Schutzart IP 44 ist diese Leuchte gegen Spritzwasser geschützt
 - Diese moderne Außenleuchte ist in jedem Garten und der Terasse ein Hingucker
 - Moderne Solarleuchte mit 1 warm weißen LED
-- Diese moderne Solarleuchte bringt ein schönen Flair auf ihren Gartentisch
-- Aufgrund der Schutzart IP 44 ist diese Leuchte gegen Spritzwasser geschützt
-- Wieß lackiertes Kunsstoff mit klarem Glas
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00JLCVPOI{{</world>}}

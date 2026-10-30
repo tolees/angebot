@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 🚒 Sicheres Spielen: PLAYMOBIL JUNIOR steht für die größtmögliche Sicherheit deines Kindes. Die Sets werden in der EU hergestellt und sind frei von Weichmachern und verschluckbaren Kleinteilen - für maximalen Spielspaß
+- 🚒 Nachhaltigkeit: Alle PLAYMOBIL JUNIOR Spielsets bestehen zu über 90 % aus biobasiertem Kunststoff (ISCC PLUS zertifiziert). Der Kunststoff kann über den Massenbilanzansatz auf seinen bio-basierten Rohstoff zurückverfolgt werden. Damit leisten wir einen entscheidenden Beitrag, um den Verbrauch fossiler Ressourcen zu reduzieren.
+- 🚒 Lieferumfang: 2-teiliges Spielfiguren-Set mit Anleitung: 1 Figur, 1 Zubehörteil, Material: Kunststoff, LxTxH: 24,8 x 14,2 x 9,4 cm, Gewicht: 322 g, 71683
+- 🚒 Aufregende Einsätze: Mit dem Feuerwehrleiterfahrzeug können kleine Held:innen Rettungsmissionen erleben. Die 360° schwenkbare Leiter und der Korb bieten vielseitige Einsatzmöglichkeiten. Wie hoch geht es hinaus? Wen retter der Feuerwehrmann heute?
 - 🚒Das Original: PLAYMOBIL steht seit 1974 für hochwertige Qualität und robustes Design.
 - 🚒 Spielspaß für Kinder ab 1 Jahr: Die PLAYMOBIL JUNIOR Sets sind optimal geeignet für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten. Mit attraktiven Funktionen für erste Kleinkind-gerechte Entdeckungen.
-- 🚒 Nachhaltigkeit: Alle PLAYMOBIL JUNIOR Spielsets bestehen zu über 90 % aus biobasiertem Kunststoff (ISCC PLUS zertifiziert). Der Kunststoff kann über den Massenbilanzansatz auf seinen bio-basierten Rohstoff zurückverfolgt werden. Damit leisten wir einen entscheidenden Beitrag, um den Verbrauch fossiler Ressourcen zu reduzieren.
-- 🚒 Aufregende Einsätze: Mit dem Feuerwehrleiterfahrzeug können kleine Held:innen Rettungsmissionen erleben. Die 360° schwenkbare Leiter und der Korb bieten vielseitige Einsatzmöglichkeiten. Wie hoch geht es hinaus? Wen retter der Feuerwehrmann heute?
-- 🚒 Lieferumfang: 2-teiliges Spielfiguren-Set mit Anleitung: 1 Figur, 1 Zubehörteil, Material: Kunststoff, LxTxH: 24,8 x 14,2 x 9,4 cm, Gewicht: 322 g, 71683
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CS7V232C{{</world>}}

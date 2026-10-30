@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Entworfen mit hervorstehender Kunststofflippe
 - Kann als Aufhänger verwendet werden, um Bits einfach von einem Ort zum anderen zu transportieren
+- Entworfen mit hervorstehender Kunststofflippe
 - Hochglanzpolierter Edelstahl
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

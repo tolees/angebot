@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Detektionsreichweite: 902m, Anwendungsbereich: außen & innen
-- Leistungsstarke Verhaltensanalysefunktionen, basierend auf Deep-Learning-Algorithmus: Linienüberquerung, Einbruch, Regionseingang und -ausgang
 - Zuverlässiger Temperaturanomalie-Alarm, Fortschrittlicher Branderkennungsalgorithmus
 - Hochempfindliches Thermalmodul mit 384x288 Auflösung, Hochwertiges optisches Modul mit 4 MP Auflösung
 - Brennweite: 9,7mm, Temperaturgenauigkeit: Max. ±8°C, Infrarotbeleuchtung
+- Detektionsreichweite: 902m, Anwendungsbereich: außen & innen
+- Leistungsstarke Verhaltensanalysefunktionen, basierend auf Deep-Learning-Algorithmus: Linienüberquerung, Einbruch, Regionseingang und -ausgang
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0898LQ1ZQ{{</world>}}

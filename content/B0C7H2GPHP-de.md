@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Geprüfte Stabilität: Dieser Bürostuhl trägt bis zu 136 kg und ist SGS-zertifiziert (Bericht Nr. SDHL241202405001FT). Der Gaslift hat 100.000 Aufprall- und 120.000 Schwenktests erfolgreich bestanden und bietet so hohe Haltbarkeit, Stabilität und Festigkeit im täglichen Gebrauch
 - Vielseitiger Stuhl – Das moderne Design, die praktische Funktion und der hohe Sitzkomfort ermöglichen die vielseitigen Einsatzmöglichkeiten. Sie können den Drehstuhl im Büro, Arbeitszimmer, Bibliothek, Empfangsraum und dergleichen verwenden
-- Bequemes Sitzgefühl – Die s-förmige, hohe Rückenlehne, der weich gepolsterte Sitz und die weichen Armlehnen sorgen für einen hohen Sitzkomfort
 - Moderner Bürostuhl – Dieser Bürostuhl verleiht mit seinem Kunstlederbezug, der geschwungenen Rückenlehne und dem Metallgestell einen modernen Eindruck. Die Tuftings geben einen zusätzlichen Charme
+- Bequemes Sitzgefühl – Die s-förmige, hohe Rückenlehne, der weich gepolsterte Sitz und die weichen Armlehnen sorgen für einen hohen Sitzkomfort
 - Robust & dauerhaft: Strapazierfähiges Kunstleder, hochdichter Schaumstoff und ein stabiles Metallgestell machen diesen Bürostuhl widerstandsfähig. Die Sitzfläche aus FSC-zertifizierten Platten unterstützt nachhaltige Forstwirtschaft
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

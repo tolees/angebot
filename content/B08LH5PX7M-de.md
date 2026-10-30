@@ -29,12 +29,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einfacheres Auftragen und weniger Abfall
-- Tragbar und Multifunktion
-- Tragbar und Multifunktion
+- Marke:Clinique
+- Marke:Clinique
 - Skin type: Face
-- Marke:Clinique
-- Marke:Clinique
 - Einfacheres Auftragen und weniger Abfall
+- Tragbar und Multifunktion
+- Tragbar und Multifunktion
 - Hair type: Normal
 
 [🛒 Hier!!]({{< param buyurl >}})

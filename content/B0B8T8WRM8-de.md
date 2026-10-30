@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Natürliche Quelle für hochwertiges und mageres Protein, das die Immungesundheit, starke Knochen und Muskeln unterstützt, sowie Omega-3 für seidenweiches Fell.
-- Getreidefrei, perfekt für empfindliche Bäuchlein mit Präbiotika für einen gesunden Darm.
 - Umweltfreundliche Verpackung! Für unser Sortiment an Trockenfutter verwenden wir Papierverpackungen und unsere Nassfutterdosen und -schälchen sind vollständig recycelbar.
-- Geeignet für Kätzchen, kastriert oder unkastriert, alle Rassen und Größen.
 - Freunde halten zusammen – Wir spenden, um dem weltweiten Leid von Hunden und Katzen ein Ende zu bereiten.
+- Getreidefrei, perfekt für empfindliche Bäuchlein mit Präbiotika für einen gesunden Darm.
+- Geeignet für Kätzchen, kastriert oder unkastriert, alle Rassen und Größen.
+- Natürliche Quelle für hochwertiges und mageres Protein, das die Immungesundheit, starke Knochen und Muskeln unterstützt, sowie Omega-3 für seidenweiches Fell.
 - Natürliches Trockenfutter für Kätzchen, vollgepackt mit frischer Ente und frischem Hühnchen. Kein übermäßig verarbeitetes oder getrocknetes Fleisch.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

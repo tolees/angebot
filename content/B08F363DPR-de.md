@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gesticktes Nike-Logo
 - Sport: Laufen
-- Universelle Erwachsenengröße
 - Alternativer Schal
+- Universelle Erwachsenengröße
+- Gesticktes Nike-Logo
 - Maximale Komfort
 
 [🛒 Hier!!]({{< param buyurl >}})

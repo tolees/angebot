@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einfacher Austausch von Standardglühlampen, echter Ersatz für eine 40-W-Glühbirne (Außenanwendungen nur in geeigneten Leuchten)
-- Warmweißes Licht für Wohlbehagen und Entspannung in Wohn-, Schlaf-, und Kinderzimmern
-- Sofort volles Licht, keine Aufwärmzeit
 - Energieverbrauch 4 kWh/1000h bei 470 lm
 - Lange Lebensdauer – bis zu 15000 Stunden und bis zu 100000 Schaltzyklen
+- Sofort volles Licht, keine Aufwärmzeit
+- Warmweißes Licht für Wohlbehagen und Entspannung in Wohn-, Schlaf-, und Kinderzimmern
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07FWCYWPQ{{</world>}}

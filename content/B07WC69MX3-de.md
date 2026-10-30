@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Perfekte Atmungsaktivität
 - Mesh-einsätze am Rücken
-- Dri-fit-technologie
 - Rundhalsausschnitt
 - Standard Passform
+- Dri-fit-technologie
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07WC69MX3{{</world>}}

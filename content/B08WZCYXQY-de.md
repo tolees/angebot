@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 88
 - Mitsuhisa Ishikawa
 - Deutsch, Japanisch
+- 88
 - BRD
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

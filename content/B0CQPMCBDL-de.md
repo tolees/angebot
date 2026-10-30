@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Klein und leistungsstark
-- Bis zu 100 Stunden Laufzeit
 - Unglaublich präziser 26K HyperX Sensor, strapazierfähige und angenehme HyperX Schalter, reibungsarme Gleiter, einzigartige Anti-Rutsch, personalisierbar mit der HyperX NGENUITY Software
+- Bis zu 100 Stunden Laufzeit
 - Zwei Modi der drahtlosen Konnektivität
 - Einfache Bewegung für ruhige Siege
 

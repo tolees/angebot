@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Format: DVD
 - Thanksgiving Steelbook 4K Ultra HD Blu Ray
 - Produkttyp: Physischer Film
+- Format: DVD
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DF4WJR72{{</world>}}

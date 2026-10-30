@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Abrollschutz und drehbarer Kappe für schnelles Zwirbeln
-- Z. B. für Elektroniker, Optiker, Feinmechaniker, Juweliere oder EDV-Hardwaremonteure
-- Mehrkomponentiger Kraftform Micro Griff für schnelles und ergonomisches Verschrauben
 - Die Wera Black Point-Spitze bietet Passgenauigkeit und optimierten Korrosionsschutz
+- Mehrkomponentiger Kraftform Micro Griff für schnelles und ergonomisches Verschrauben
+- Mit Abrollschutz und drehbarer Kappe für schnelles Zwirbeln
 - Kraftform Micro Schraubendreher für Kreuzschlitzschrauben Phillips-Recess
+- Z. B. für Elektroniker, Optiker, Feinmechaniker, Juweliere oder EDV-Hardwaremonteure
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B008F7XMK0{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Weiß
-- Öffnung für Kabel an beiden Seiten
 - Für ein ordentliches Büro und aufgeräumtes Zuhause
+- Farbe: Weiß
 - Größe: 235 x 115 x 120 mm
+- Öffnung für Kabel an beiden Seiten
 - Zum Verstecken von Kabelgewirr
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

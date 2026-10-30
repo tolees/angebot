@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die folgenden Informationen gelten für jede Einheit pro Packung
 - Hergestellt in Italien
-- Kühl und trocken lagern
+- Packung enthält ca. 6 portionen
+- Die folgenden Informationen gelten für jede Einheit pro Packung
 - Teigwaren aus hartweizengrieß
 - Für eine vegetarische und vegane ernährung geeignet
-- Packung enthält ca. 6 portionen
+- Kühl und trocken lagern
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DSWKVGQZ{{</world>}}

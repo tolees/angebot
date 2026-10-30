@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Auf das nasse Haar auftragen und sanft einmassieren, um Schaum zu erzeugen. Mit reichlich Wasser ausspülen. Bei Bedarf wiederholen. Nur zur äußeren Anwendung.
 - Für den täglichen Gebrauch.
 - Geeignet für brüchiges und empfindliches Haar.
+- Reinigt gründlich und pflegt Haar und Kopfhaut.
 - Sichtbar gesünderes Haar: pflegt das Haar und macht es weich.
 - Ultra sanfte Formel.
-- Auf das nasse Haar auftragen und sanft einmassieren, um Schaum zu erzeugen. Mit reichlich Wasser ausspülen. Bei Bedarf wiederholen. Nur zur äußeren Anwendung.
-- Reinigt gründlich und pflegt Haar und Kopfhaut.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00GY2FN3M{{</world>}}

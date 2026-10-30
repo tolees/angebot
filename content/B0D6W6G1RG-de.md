@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mittlere Röstung 100% Arabica
 - Intensität: 5/10
-- Format: 1 Packung à 1 kg in einer geschützten Atmosphäre, um das intensive Aroma der Kaffeebohne zu bewahren
+- Mittlere Röstung 100% Arabica
 - Süß und fruchtig. Mischung mit angenehm süßem Aroma, verstärkt durch die erlesenen Arabica-Bohnen.
+- Format: 1 Packung à 1 kg in einer geschützten Atmosphäre, um das intensive Aroma der Kaffeebohne zu bewahren
 - Mediterrane Emotionen: Mischungen, die aus einem vom Meer umgebenen und von der Sonne geküssten Land stammen. Bei Caffè Mauro genügt eine Tasse Kaffee, um sich wie zu Hause zu fühlen. Ein langsamer Röstvorgang vermittelt den Geschmack eines aufrichtigen Rituals, das Teil unserer Lebensweise ist. Den Moment genießen und jeden hochwertigen Moment genießen.
 
 [🛒 Hier!!]({{< param buyurl >}})

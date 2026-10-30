@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Langärmlig mit V-Ausschnitt
 - Basic Pullover in Unifarben aus weichem Strickmaterial mit leicht gerollten Saumkanten.
-- Aus einem weichen Baumwoll-Viskose-Stoff
 - Passform: Regular Fit, Rückenlänge bei Größe M ca. 62 cm
+- Aus einem weichen Baumwoll-Viskose-Stoff
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D8CBVHLB{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spieldauer: 15 Minuten
-- Spieleranzahl: 2 - 6 Spieler
-- Art: Kartenspiel
 - Zielgruppe: Schulkinder
+- Spieleranzahl: 2 - 6 Spieler
+- Spieldauer: 15 Minuten
+- Art: Kartenspiel
 - Altersangabe: ab 6 Jahren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

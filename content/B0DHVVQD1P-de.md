@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Obermaterial aus Synthetikleder
 - Der Größe entsprechend
-- Gummi-Cupsohle
-- Synthetikfutter
 - Obermaterial mit einem Recycling-Anteil von mindestens 50 %
+- Synthetikfutter
+- Gummi-Cupsohle
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DHVVQD1P{{</world>}}

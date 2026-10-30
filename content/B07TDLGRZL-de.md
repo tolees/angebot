@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Geröstet und mit Honig verfeinert
-- Süß-salziger Mix aus Erdnüssen und Mandeln
-- Der perfekte Snack zum Teilen und für jede Party
 - Reich an Vitamin E
+- Der perfekte Snack zum Teilen und für jede Party
+- Süß-salziger Mix aus Erdnüssen und Mandeln
 - Vegetarisch
 
 [🛒 Hier!!]({{< param buyurl >}})

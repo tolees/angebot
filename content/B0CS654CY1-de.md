@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - DERMATOLOGISCH GETESTET: Für jeden Hauttyp geeignet
-- 2 x 500 ml DUSCHGEL
 - ANWENDUNGSHINWEISE: Gel auf nasse Handflächen oder Schwamm geben, einmassieren, dann abspülen
+- 2 x 500 ml DUSCHGEL
 - AKTIVKOHLE: Duschgel mit tiefenwirksamer Reinigung für Herren, mit Aktivkohle
 
 [🛒 Hier!!]({{< param buyurl >}})

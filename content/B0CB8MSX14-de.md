@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Entwickelt für: Training:
 - Verschluss: Schnürung
 - Obermaterial: Leder
-- Entwickelt für: Training:
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CB8MSX14{{</world>}}

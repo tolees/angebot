@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eco On Energiesparmodus
 - Quarz Grill (effektiver und schneller als ein konventioneller Grill)
+- Eco On Energiesparmodus
 - Antibakteriell beschichteter Innenraum mit Easy Cleaning
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Fertiger Kollektor zur einfachen Montage
 - Hochwertiger LDPE-Kunststoff
-- Der Sonnenkollektor ist auch für Salzwasser geeignet
-- Max. Durchflussmenge 10.000 l/h
+- 500 x 140 cm (L x B), 2 Elemente
 - Beliebig erweiterbar
 - Schlauchanschluss Ø 32/38 mm
+- Der Sonnenkollektor ist auch für Salzwasser geeignet
 - Für Pools bis 40.000 l Wasserinhalt
-- Fertiger Kollektor zur einfachen Montage
-- 500 x 140 cm (L x B), 2 Elemente
+- Max. Durchflussmenge 10.000 l/h
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B078YQ8QVH{{</world>}}

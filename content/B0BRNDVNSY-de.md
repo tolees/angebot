@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Präzise Spitze für einfaches Auftragen – Ermöglicht feine Linien ebenso wie intensivere Looks.
-- Wasserfest & langanhaltend – Hält zuverlässig den ganzen Tag, ohne zu verschmieren oder zu verblassen.
 - Schimmerndes Metallic-Finish – Intensiver Farbeffekt mit metallischem Glanz für ausdrucksstarke Augenlooks.
-- Für empfindliche Augen geeignet – Hypoallergen, parfümfrei und ideal für Kontaktlinsenträgerinnen.
 - Vegan & tierversuchsfrei – Ohne tierische Inhaltsstoffe und ohne Tierversuche hergestellt.
+- Für empfindliche Augen geeignet – Hypoallergen, parfümfrei und ideal für Kontaktlinsenträgerinnen.
+- Wasserfest & langanhaltend – Hält zuverlässig den ganzen Tag, ohne zu verschmieren oder zu verblassen.
+- Präzise Spitze für einfaches Auftragen – Ermöglicht feine Linien ebenso wie intensivere Looks.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BRNDVNSY{{</world>}}

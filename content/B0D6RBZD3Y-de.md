@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'EZVIZ CP2 WLAN Türspion Kamera mit 4.3 Zoll Farbbildschirm 2MP Silber'
-date: 2026-09-26 19:47:33
+title: 'EZVIZ CP2 WLAN Türspion Kamera mit 4.3 Zoll Farbbildschirm 2MP Silber | 146° Weitwinkel 2200mAh Akku 2.4GHz WiFi Video Türklingel Kein Bewegungsmelder Keine Nachtsicht Keine Videoaufzeichnung'
+date: 2026-10-30 09:09:04
 image: 'https://m.media-amazon.com/images/I/31dicjtXwjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 59.89 EUR
 currency: EUR
 price: 59.89
 comparePrice: 79.99 EUR
-prodname: 'EZVIZ CP2 WLAN Türspion Kamera mit 4.3 Zoll Farbbildschirm 2MP Silber'
+prodname: 'EZVIZ CP2 WLAN Türspion Kamera mit 4.3 Zoll Farbbildschirm 2MP Silber | 146° Weitwinkel 2200mAh Akku 2.4GHz WiFi Video Türklingel Kein Bewegungsmelder Keine Nachtsicht Keine Videoaufzeichnung'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0D6RBZD3Y/?tag=tolees0ca-21'
 descuento: '25.13'
-average: '56.8738461538462'
+average: '57.2760000000001'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

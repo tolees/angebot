@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- mit Transformator
-- Lautstärke 80 dB
 - Zweiklang Gong
 - weiß
+- mit Transformator
+- Lautstärke 80 dB
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000ONMSZI{{</world>}}

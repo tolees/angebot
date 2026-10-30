@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- ZUM aromaschonenden Ernten, Abstreifen und Zerkleinern von Kräuter und zum Ernten von Obst und Gemüse
 - PFLEGE: spülmaschinengeeignet; lebensmittelecht
 - ABMESSUNGEN: 18,5 x 1,2 x 8,9 cm
-- ZUM aromaschonenden Ernten, Abstreifen und Zerkleinern von Kräuter und zum Ernten von Obst und Gemüse
 - DETAILS: die große Nut in der Klinge schneidet harte Stiele wie Rosmarin, die kleinen Abstreifer streifen die Blättchen von Thymian, Rosmarin etc. ab. Trennbaren Scherenblätter ermöglichen eine einfache und hygienische Reinigung.
 - MATERIAL: Edelstahl DIN 1.4034, gehärtet; Griffe: Polypropylen (PP)
 

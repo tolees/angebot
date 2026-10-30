@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Besteht zu mindestens 20 % aus recycelten Materialien
-- Textilfutter
-- Klettverschlussriemen
 - Obermaterial aus Textil
-- Synthetik-Außensohle
+- Textilfutter
 - Reguläre Passform
+- Besteht zu mindestens 20 % aus recycelten Materialien
+- Synthetik-Außensohle
+- Klettverschlussriemen
 - Cloudfoam Zwischensohle
 - Textilfutter
 

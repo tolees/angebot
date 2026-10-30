@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eignet sich als Zutat für Plätzchen, Brot und Backwaren
 - Basis für Müsli und Porridge
-- Les informations ci-dessous sappliquent à chaque unité du pack
-- Die folgenden Informationen gelten für jede Einheit pro Packung
+- Eignet sich als Zutat für Plätzchen, Brot und Backwaren
 - Hohes Quellvermögen
 - Bioland-Qualität
+- Die folgenden Informationen gelten für jede Einheit pro Packung
+- Les informations ci-dessous sappliquent à chaque unité du pack
 - Vielseitig zu verwenden: in Müsli und Joghurt, als Zutat in herzhaften und süßen Backwaren
 
 [🛒 Hier!!]({{< param buyurl >}})

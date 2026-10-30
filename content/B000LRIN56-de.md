@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Bild dient nur zu Darstellungszwecken. Bitte beziehen Sie sich auf den Titel für die Größe
 - Rahmenloser Bildhalter, mit rund geschliffenem und gewaschenem Klarglas
+- Das Bild dient nur zu Darstellungszwecken. Bitte beziehen Sie sich auf den Titel für die Größe
 - Aufhängung für Hoch- oder Querformat
 - Einfaches und schnelles Rahmen durch praktischen Clip Verschluss
 

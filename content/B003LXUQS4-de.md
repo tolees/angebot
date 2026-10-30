@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe : Schwarz
 - Material : Klinge aus rostfreiem Edelstahl
+- Farbe : Schwarz
 - Verpackungsinhalt: 1
 - Garantie : 1 Monat
 

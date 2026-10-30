@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nike Swoosh Logo auf der linken Brust
 - Rundhalsausschnitt
+- Nike Swoosh Logo auf der linken Brust
 - Dri-FIT-Technologie
 - Langer Saum hinten
 

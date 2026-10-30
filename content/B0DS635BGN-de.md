@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kapuze mit 1-Punkt-Verstellung
+- Aussenjacke:
+- Leichtes, dehnfähiges Material, das für optimalen Komfort sorgt
 - Mit PFC-freier dauerhaft wasserabweisender Imprägnierung (DWR)
 - Wasserabweisender Front-Reissverschluss | 2 Seitentaschen mit wasserabweisendem Reissverschluss | Unterarm-Reissverschluss für optimale Belüftung | Vorgeformte Ärmel mit Klettverschluss-Abschlüssen | Regulierbare Saumweite mit Kordelzug | Zip-in-System für Innenjacke vorhanden | Innenjacke: | Ausgewählte Zonen mit Mammut LOOPINSULATION (1∘g/m² Körper, 8∘g/m² an Armen) | 2 Seitentaschen mit Reissverschluss | Elastischer Arm- und Saumabschluss für eine saubere Passform
-- Leichtes, dehnfähiges Material, das für optimalen Komfort sorgt
-- Aussenjacke:
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DS635BGN{{</world>}}

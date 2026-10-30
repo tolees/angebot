@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichte Schuhe
-- Stoßgedämpfte Sohle
 - Herausnehmbare Innensohle
+- Stoßgedämpfte Sohle
+- Leichte Schuhe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D6NFV92B{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Pack-it-Tasche und seitliche Reißverschlusstaschen
 - Flexibles Design und reflektierende Details
 - Robuste Konstruktion
+- Pack-it-Tasche und seitliche Reißverschlusstaschen
 - Durchgehender Reißverschluss mit normaler Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

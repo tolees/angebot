@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfache Bedienung und Reinigung, komplett Zerlegbar
+- Maximale Füllmenge ca. 100 g Mais, Deckel als Messbecher nutzbar
 - Köstliches Popcorn in wenigen Minuten mit weniger Kalorien, keine Zugabe von Öl erforderlich
 - Farbe: Rot Metallic/Silber/Weiß
-- Maximale Füllmenge ca. 100 g Mais, Deckel als Messbecher nutzbar
 - Einfache Bedienung und Reinigung
+- Einfache Bedienung und Reinigung, komplett Zerlegbar
 - Ein-/Ausschalter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

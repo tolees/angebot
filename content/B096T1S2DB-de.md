@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Moderne und klassisch geschnittene Fleecejacke mit Reißverschluss, Ideal für den Alltag
-- Hoher Kragen für mehr Wärme und Schutz vor den Elementen
 - Reißverschlusstaschen zum Warmhalten der Hände und sicheren Verstauen von Wertsachen wie Smartphones
 - Lieferumfang: 1 x Columbia Fleecejacke Herren, Steens Mountain Full Zip 2.0, Farbe: Blau (Dark Mountain, Collegiate Navy), Größe: XXL, Art: 1476671
+- Hoher Kragen für mehr Wärme und Schutz vor den Elementen
 - In verschiedenen Farben erhältlich, Mit dezentem Columbia-Logo
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

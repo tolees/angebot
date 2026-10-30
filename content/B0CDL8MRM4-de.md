@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- lange Ärmel mit Rippbündchen
+- Passform: Regular Fit
+- ohne Verschluss
 - Crew Neck-Ausschnitt mit Rippblende
 - Detail: Logo
-- ohne Verschluss
-- lange Ärmel mit Rippbündchen
 - Rückenlänge beträgt bei Größe 36 ca. 72 cm
-- Passform: Regular Fit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CDL8MRM4{{</world>}}

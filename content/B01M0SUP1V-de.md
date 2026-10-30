@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Robuste Konstruktion
 - Zum Updaten der Firmware von Smart, Puck Pro, Quad and Quad Air
-- Einfache Bedingung
+- Robuste Konstruktion
 - Benötigt Software: Dive Organizer oder Divers Diary
+- Einfache Bedingung
 - Kompatibel mit Mares Smart, Puck Pro, Quad and Quad Air
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spitze Pinzette: entfernt besonders feine und eingewachsene Härchen
-- Handgeschliffene Spitzen: Perfekt ausgerichtet entfernen sie Haare an der Wurzel
 - Wow-Brows on the go: Das Petite-Pinzetten-Set passt auch unterwegs in jede Handtasche und Beauty Bag
+- Handgeschliffene Spitzen: Perfekt ausgerichtet entfernen sie Haare an der Wurzel
+- Spitze Pinzette: entfernt besonders feine und eingewachsene Härchen
 - Gut aufgehoben: in einem praktischen Aufbewahrungs-Etui in Schwarz
 - Schräge Pinzette: entfernt unerwünschte Augenbrauenhärchen
 

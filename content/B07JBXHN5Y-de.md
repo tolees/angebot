@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Proteinreich - geeignet für eine Low-Carb-Ernährung
 - Alnatura Quinoa stammt aus biologischer Landwirtschaft und ist glutenfrei
 - Haselnussartiger Geschmack
 - Leichte und schnelle Zubereitung
-- Proteinreich - geeignet für eine Low-Carb-Ernährung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07JBXHN5Y{{</world>}}

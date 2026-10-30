@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Leder und Kunstleder
 - Passform im California-Style
+- Obermaterial aus Leder und Kunstleder
 - Hohe Qualität
 - Einlegesohle aus SoftFoam+: Sockenähnliche Einlegesohle für flexible Passform und dauerhaften Tragekomfort
 

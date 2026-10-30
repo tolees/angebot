@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'TACVASEN Herren Henley Shirt Baumwolle Langarmshirt Basic mit Knopfleiste'
-date: 2026-09-26 16:15:10
-image: 'https://m.media-amazon.com/images/I/31YkcbnRzyL._SL500_._SL400_.jpg'
+title: 'TACVASEN Herren Henley Shirt Baumwolle Langarmshirt Basic mit Knopfleiste | Langarmshirt herren Tshirt mit Knopfleiste Regular Fit Longsleeve Herren Freizeithemd Casual Shirts Schwarz L'
+date: 2026-10-30 08:02:00
+image: 'https://m.media-amazon.com/images/I/31SNNvqTqLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0FLP2K461-de TACVASEN Herren Henley Shirt Baumwolle Langarmshirt Basic...'
 sku: 'B0FLP2K461-de'
 tags: [ '🇩🇪', ]
-actualPrice: 12.73 EUR
+actualPrice: 10.82 EUR
 currency: EUR
-price: 12.73
-comparePrice: 14.99 EUR
-prodname: 'TACVASEN Herren Henley Shirt Baumwolle Langarmshirt Basic mit Knopfleiste'
+price: 10.82
+comparePrice: 12.84 EUR
+prodname: 'TACVASEN Herren Henley Shirt Baumwolle Langarmshirt Basic mit Knopfleiste | Langarmshirt herren Tshirt mit Knopfleiste Regular Fit Longsleeve Herren Freizeithemd Casual Shirts Schwarz L'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FLP2K461/?tag=tolees0ca-21'
-descuento: '15.08'
-average: '12.73'
+descuento: '15.73'
+average: '11.775'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

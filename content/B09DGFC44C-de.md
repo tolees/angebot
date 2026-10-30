@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ROG-Mikroschalter bieten eine gleichmäßige Klickkraft und eine Lebensdauer von 70 Millionen Klicks
-- Mehr Flexibilität - Spielen im kabelgebundenen oder drahtlosen RF 2,4-GHz-Modus
 - Bis zu 67 Stunden Akkulaufzeit im kabellosen Modus bei ausgeschalteter RGB-Beleuchtung
-- Programmierbares 12-Tasten-Design mit erweiterten Anpassungsoptionen
+- Mehr Flexibilität - Spielen im kabelgebundenen oder drahtlosen RF 2,4-GHz-Modus
+- ROG-Mikroschalter bieten eine gleichmäßige Klickkraft und eine Lebensdauer von 70 Millionen Klicks
 - Exklusives Push-Fit-Schaltersockel zum Verändern des Klickwiderstands und für eine höhere Lebensdauer der Maus
+- Programmierbares 12-Tasten-Design mit erweiterten Anpassungsoptionen
 - Branchenführender, optischer Sensor mit 19,000 dpi und 1000Hz Abtastrate sowohl im 2,4-GHz- als auch im kabelgebundenen Modus
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

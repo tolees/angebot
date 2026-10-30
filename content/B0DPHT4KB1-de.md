@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'roborock F25 GT Gen 2 Nass Trockensauger 20.000 Pa 180° Lay-Flat Design | 90°C Hochtemperatur Selbstreinigung Akku Staubsauger mit Wischfunktion Wischsauger Kabellos Anti-Tangle für HarteBoden'
-date: 2026-10-23 14:08:19
+date: 2026-10-29 21:02:03
 image: 'https://m.media-amazon.com/images/I/21j5iKh89pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0DPHT4KB1/?tag=tolees0ca-21'
 descuento: '47.02'
-average: '209.7604'
+average: '208.192692307692'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Damen Court Vision Schuhe White 38 EU'
-date: 2026-09-26 00:06:36
+date: 2026-10-29 17:09:05
 image: 'https://m.media-amazon.com/images/I/21OhqcHOfmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0983JVD6B-de Nike Damen Court Vision Schuhe White 38 EU'
 sku: 'B0983JVD6B-de'
 tags: [ '🇩🇪', ]
-actualPrice: 49.95 EUR
+actualPrice: 56.61 EUR
 currency: EUR
-price: 49.95
+price: 56.61
 comparePrice: 79.99 EUR
 prodname: 'Nike Damen Court Vision Schuhe White 38 EU'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0983JVD6B/?tag=tolees0ca-21'
-descuento: '37.55'
-average: '49.95'
+descuento: '29.23'
+average: '53.28'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

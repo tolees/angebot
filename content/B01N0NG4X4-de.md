@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lightweight Airbed
 - Intex Fiber Technology Dura Beam
+- Lightweight Airbed
+- In-and-Outdoor use
 - Vinyl with Velour Top Layer
 - Komfortable Matratzenhöhe von 25 cm
-- In-and-Outdoor use
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01N0NG4X4{{</world>}}

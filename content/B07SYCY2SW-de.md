@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mit dem um 180° biegbaren Kopf erreichst du einfach enge Stellen und Winkel
-- Beinhaltet 8 mm, 10 mm, 13 mm, 14 mm und 17 mm
 - 5-teiliges flexibles Ratschenschlüssel-Set mit Chromoberfläche, hergestellt aus hochwertigem Chrom-Vanadium-Stahl (Cr-V), gesenkgeschmiedet und gehärtet
+- Beinhaltet 8 mm, 10 mm, 13 mm, 14 mm und 17 mm
 - Das Ratschengetriebe mit 72 Zähnen benötigt nur eine Hebelbewegung um 5°, wodurch es gut an schmalen Stellen verwendet werden kann
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

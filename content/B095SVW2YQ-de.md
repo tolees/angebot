@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang:
-- Hochpräzisionsspitze sorgt für genaue Ergebnisse
 - Bequeme Verwendung dank Softgriffflächen und ergonomischer Form
+- Hochpräzisionsspitze sorgt für genaue Ergebnisse
+- Lieferumfang:
 - Schraubendreher-Sets für Profis – robuste Schraubendreher für raue Arbeiten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Sprache: Italienisch (Dolby Digital 5.1), Deutsch (Dolby Digital 5.1), Englisch (Dolby Digital 5.1)
-- Spieldauer: 113 Minuten
 - Untertitel: Deutsch, Englisch, Italienisch
+- Spieldauer: 113 Minuten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07TS3RDZS{{</world>}}

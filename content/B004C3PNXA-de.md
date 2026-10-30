@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lieferumfang: 4 x tesa Stick ecoLogo - Inhalt: 4 x 20 g
-- tesa Stick ecoLogo: Umweltschonender Kleber für Büroarbeiten und zum Basteln mit Papier und Pappe - hier im vorteilhaften Viererpack
 - Umweltschonend: Aus 100 Prozent recyceltem Kunststoff, mit Klebemasse aus 60 Prozent natürlichen Stoffen und mit einer Verpackung aus 80 Prozent recyceltem Karton - ecoLogo zertifiziert
+- tesa Stick ecoLogo: Umweltschonender Kleber für Büroarbeiten und zum Basteln mit Papier und Pappe - hier im vorteilhaften Viererpack
 - Für Kinder geeignet: Der Klebstoffstift ist geruchsneutral, lösungsmittelfrei und kalt abwaschbar und somit besonders angenehm in der Anwendung
 - Die handliche Klebelösung: Die runde Form und das sanfte Verstreichen erlauben ein rasches und sauberes Verkleben - die Steckkappe verfügt über einen praktischen Rollstopp
 

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ref - 002027
 - Marke - Apli
 - Kategorie - Schreibwaren
+- Ref - 002027
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000KJKGHI{{</world>}}

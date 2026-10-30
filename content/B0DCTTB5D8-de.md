@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schmale, taillierte Passform für starken Wärmerückhalt
 - Innenseite mit angenehm weichem Fleece ausgestattet
 - 2 große verschließbare Eingrifftaschen mit viel Stauraum
+- Schmale, taillierte Passform für starken Wärmerückhalt
 - Modisch funktionaler Damen Strickfleecemantel und Longjacket mit fester Kapuze
 - 2-Wege-Frontreißverschluss mit Kinnschutz
 

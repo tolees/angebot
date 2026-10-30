@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Strick
 - Ärmel mit Rippbündchen, mit langen Ärmeln
-- Baumwolle
-- hat einen Rundhalsausschnitt
+- Strick
 - hat einen Regular Fit
+- hat einen Rundhalsausschnitt
+- Baumwolle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DY882BWM{{</world>}}

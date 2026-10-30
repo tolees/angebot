@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Moderne Pantolette
 - Dämpfungsaktive EVA-Laufsohle
 - Besten Tragekomfort
-- Moderne Pantolette
 - Fußbett: Kork/Kautschuk
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

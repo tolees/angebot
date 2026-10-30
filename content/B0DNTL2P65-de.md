@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Abenteuergeschichte zum Selbstlesen oder Vorlesen lassen in der KOSMOS Erklär-App.
+- Preisgekröntes Spielkonzept: Interaktives Point & Click-Spiel im Puzzleformat.
 - Abschnitt für Abschnitt das Bild aus 258 Teilen puzzeln und die spannende Geschichte erleben.
-- Puzzlespaß in der geheimnisvollen Lavalandschaft für Kinder ab 8 Jahren.
 - Kinder werden selbst die Heldinnen und Helden in der Geschichte.
 - Interaktives Abenteuerspiel im Puzzleformat: Puzzle legen, Gegenstände finden & knifflige Aufgaben lösen.
-- Preisgekröntes Spielkonzept: Interaktives Point & Click-Spiel im Puzzleformat.
+- Puzzlespaß in der geheimnisvollen Lavalandschaft für Kinder ab 8 Jahren.
 - Mit spannender Geschichte, die während des Puzzles entdeckt wird.
+- Abenteuergeschichte zum Selbstlesen oder Vorlesen lassen in der KOSMOS Erklär-App.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DNTL2P65{{</world>}}

@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - AKTIVE BAKTERIENKULTUREN: Die Milliarden von nitrifizierenden und denitrifizierenden Filterbakterien im mikrobiologischen Aufbereitungsmittel reduzieren den zu hohen Nitrat-Gehalt im Aquarienwasser
-- NATÜRLICHES GLEICHGEWICHT IM AQUARIUM: Mit Bio Booster für schnellen Schadstoffabbau, langanhaltendes Filtersystem, biologisches Aquariumgleichgewicht und selten notwendigen Wasserwechsel sorgen
-- ANWENDUNG: Das Pflegemittel mit den Aquariumstarter-Bakterien nach jedem Wasserwechsel und zur Unterstützung neu angelegter Aquarien-Filter direkt ins Aquarium dosieren
 - EMPFOHLENE DOSIERUNG: 500 ml vom biologischen Bakterienprodukt auf 5.000 Liter Wasser geben (10 ml auf 100 Liter Wasser). Bei Neustart über 3 Wochen wöchentlich 20 ml auf 100 Liter Wasser
+- NATÜRLICHES GLEICHGEWICHT IM AQUARIUM: Mit Bio Booster für schnellen Schadstoffabbau, langanhaltendes Filtersystem, biologisches Aquariumgleichgewicht und selten notwendigen Wasserwechsel sorgen
 - REIN BIOLOGISCH: Die hochaktiven Bakterien im Söll BioBooster (500 ml für 5.000 Liter) binden Schadstoffe & sorgen effektiv für die sofortige biologische Aktivität auch in neu angelegten Aquarien
+- ANWENDUNG: Das Pflegemittel mit den Aquariumstarter-Bakterien nach jedem Wasserwechsel und zur Unterstützung neu angelegter Aquarien-Filter direkt ins Aquarium dosieren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000FVZDYM{{</world>}}

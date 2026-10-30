@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'UGREEN USB C Kabel 240W Ladekabel USB-C PD 3.1 Schnellladekabel'
-date: 2026-09-26 07:53:42
+title: 'UGREEN USB C Kabel 240W Ladekabel USB-C PD 3.1 Schnellladekabel | PPS USB C auf USB C Kabel für iPhone 17/Air/16 Serie MacBook Pro/Air iPad Pro Galaxy S26 Steam Deck usw.（2M 2 Stück）'
+date: 2026-10-29 23:02:32
 image: 'https://m.media-amazon.com/images/I/413P6bqoRZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0F8NL2BCS-de UGREEN USB C Kabel 240W Ladekabel USB-C PD 3.1...'
 sku: 'B0F8NL2BCS-de'
 tags: [ '🇩🇪', ]
-actualPrice: 9.55 EUR
+actualPrice: 12.39 EUR
 currency: EUR
-price: 9.55
+price: 12.39
 comparePrice: 14.99 EUR
-prodname: 'UGREEN USB C Kabel 240W Ladekabel USB-C PD 3.1 Schnellladekabel'
+prodname: 'UGREEN USB C Kabel 240W Ladekabel USB-C PD 3.1 Schnellladekabel | PPS USB C auf USB C Kabel für iPhone 17/Air/16 Serie MacBook Pro/Air iPad Pro Galaxy S26 Steam Deck usw.（2M 2 Stück）'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0F8NL2BCS/?tag=tolees0ca-21'
-descuento: '36.29'
-average: '11.0266666666667'
+descuento: '17.34'
+average: '11.3675'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- lining: textil
 - outer material: leder
 - closure: schnürsenkel
-- lining: textil
 - heel type: flach
 
 [🛒 Hier!!]({{< param buyurl >}})

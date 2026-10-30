@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Verpackungsabmessungen (L x B x H): 30.0 x 30.0 x 20.0 Zm
+- Hohe Qualität
 - Verpackungsgewicht: 8.0 Kg
 - Herkunftsland:- Taiwan
-- Hohe Qualität
-- Verpackungsabmessungen (L x B x H): 30.0 x 30.0 x 20.0 Zm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B007XUKV68{{</world>}}

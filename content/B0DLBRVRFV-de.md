@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BULKY sneaker
 - Fashion details
+- BULKY sneaker
 - Elevated sneaker
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hose
 - Jeans
+- Hose
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07RQLT2L5{{</world>}}

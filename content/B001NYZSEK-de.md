@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anzahl der Packungen : 1
 - Verpackungsgewicht : 60 g
+- Anzahl der Packungen : 1
 - Material : Edelstahl
 - Herkunftsland:- Taiwan
 

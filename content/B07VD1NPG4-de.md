@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- OrthoLite Fußbett
-- Lightweight
 - Durability
+- Lightweight
+- OrthoLite Fußbett
 - Aus Nubukleder mit Futter aus Leder und recyceltem Polyester
 - Laufsohle aus EVA
 

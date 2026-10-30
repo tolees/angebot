@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Effeet Sneaker Socken Herren Damen 10 Paar Atmungsaktive Baumwolle Sportsocken Kurz Halbsocken Laufsocken Schwarz 43-46'
-date: 2026-10-14 12:37:12
+date: 2026-10-29 19:19:15
 image: 'https://m.media-amazon.com/images/I/41RBY7UWjSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0DPQPNJ8P/?tag=tolees0ca-21'
 descuento: '68.41'
-average: '11.705'
+average: '11.2766666666667'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

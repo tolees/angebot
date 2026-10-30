@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kein Spitzen erforderlich
 - Wasserlöslich
+- Kein Spitzen erforderlich
 - Mine nach Gebrauch zum Schutz einschiebbar
-- Nachfüllbar
 - Druckstift mit bequemer Einhandbedienung
+- Nachfüllbar
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B000WL0W5K{{</world>}}

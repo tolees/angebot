@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 👍👍【REGELMÄSSIG】: 16 A rated, 86 mm * 86 mm, EU-Einzelbuchse
-- 👍👍【GROSSER STANDARD】: Hergestellt aus flammhemmendem ABS und wasserdichtem Touchpanel aus gehärtetem Kristall, Schutz vor elektrischem Schlag für Ihre Familie; Bietet ausgezeichnete Kratzfestigkeit und Berührungsempfindlichkeit.
 - 👍👍【INSTALLATIONSTIPP】 L bedeutet stromführender Draht, N bedeutet neutraler Draht, ㊂ bedeutet Erdungsdraht
+- 👍👍【GROSSER STANDARD】: Hergestellt aus flammhemmendem ABS und wasserdichtem Touchpanel aus gehärtetem Kristall, Schutz vor elektrischem Schlag für Ihre Familie; Bietet ausgezeichnete Kratzfestigkeit und Berührungsempfindlichkeit.
+- 👍👍【REGELMÄSSIG】: 16 A rated, 86 mm * 86 mm, EU-Einzelbuchse
 - 👍👍【EINFACHE INSTALLATION】: Schließen Sie in den meisten Fällen drei Kabel an, um die Steckdose zu installieren. Bei Bedarf kann das Panel einfach wieder zusammengebaut werden, um das Geräteteil zu wechseln.
 - 👍👍【MODERNES & KÜNSTLERISCHES DESIGN】: Atemberaubender und eleganter Look für Ihr schönes Zuhause. Ideal für Familien, Büros, Hotels, Krankenhäuser, Fabriken und andere Orte.
 

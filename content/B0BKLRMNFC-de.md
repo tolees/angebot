@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gedrucktes HH-Logo
 - HELLY TECH-SCHUTZ
 - Verstellbare Manschette mit Druckknöpfen
+- Gedrucktes HH-Logo
 - YKK-VISLON
 - Verstellbare Kapuze
 

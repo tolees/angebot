@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ohne Duftstoffe
 - Zieht schnell ein
-- Schützt u. a. vor Wasser, Seifen und Reinigungsmitteln
 - Schützende Handcreme für arbeitende und strapazierte Hände
+- Ohne Duftstoffe
+- Schützt u. a. vor Wasser, Seifen und Reinigungsmitteln
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00E67IZLE{{</world>}}

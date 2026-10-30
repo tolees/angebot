@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Smart Inverter Technologie
 - I-Wave (gleichmäßige Erwärmung des Garguts durch dreidimensionale Mikrowellen)
+- Smart Inverter Technologie
 - Antibakteriell beschichteter Innenraum mit Easy Clean
 - Garprogramme mit Gewichtsautomatik
 - Eco On-Energiesparmodus

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aktivitätsbrett aus Holz mit Türen zum Öffnen, Schließen und Erkunden
 - Stabiles Holzbrett mit Metallbeschlägen und Scharnieren; keine losen Teile
+- Aktivitätsbrett aus Holz mit Türen zum Öffnen, Schließen und Erkunden
 - Kunstwerke unter Türen heben bekannte Orte und faszinierende Szenen hervor
 - Jede Flügeltür wird mit einem anderen Schloss oder Riegel verschlossen
 

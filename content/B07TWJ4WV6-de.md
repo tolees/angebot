@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Air Cooled Memory Foam gepolsterte Komfort-Einlegesohle
 - Gepolsterter Kragen und Zunge
 - Weiches Schuhfutter mit feuchtigkeitsableitenden Eigenschaften
+- Air Cooled Memory Foam gepolsterte Komfort-Einlegesohle
 - Helles, buntes Neon-Farbschema
 - Modisches Schnürschuh-Design
 

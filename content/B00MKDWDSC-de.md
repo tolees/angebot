@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Karl May Klassikeredition: Der Schatz im Silbersee / Winnetou und das Halbblut Apanatschi / Winnetou und sein Freund Old Firehand / Unter Geiern / Der Ölprinz / Old Surehand / Winnetou I / Winnetou II / Winnetou III / Der Schatz der Azteken / Die Pyramide des Sonnengottes
 - Marke: LEONINE Distribution GmbH
+- Karl May Klassikeredition: Der Schatz im Silbersee / Winnetou und das Halbblut Apanatschi / Winnetou und sein Freund Old Firehand / Unter Geiern / Der Ölprinz / Old Surehand / Winnetou I / Winnetou II / Winnetou III / Der Schatz der Azteken / Die Pyramide des Sonnengottes
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00MKDWDSC{{</world>}}

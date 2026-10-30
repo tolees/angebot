@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Adaptive Reinigungstechnologie: Erhalten Sie bei jedem Zähneputzen eine personalisierte Reinigung
 - Philips Sonicare-Schalltechnologie: Spült Wasser in die Zahnzwischenräume und löst & entfernt Plaque
-- Lieferumfang: 4 C3 Premium Plaque Defence-Bürstenköpfe
 - Schluss mit Plaque: Entfernt bis zu 10 Mal mehr Plaque aus schwer erreichbaren Bereichen
+- Lieferumfang: 4 C3 Premium Plaque Defence-Bürstenköpfe
+- Adaptive Reinigungstechnologie: Erhalten Sie bei jedem Zähneputzen eine personalisierte Reinigung
 - BrushSync: Wählt automatisch den optimalen Putzmodus und die optimale Intensitätsstufe für Sie aus
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

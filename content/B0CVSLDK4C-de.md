@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Interessengebiet Bd
 - Etikett: Leonine Sony Music
+- Das Interessengebiet Bd
 - Marke: Leonina
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

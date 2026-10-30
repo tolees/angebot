@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mehr Komfort, tieferer Fokus
+- Intelligentere Beleuchtung
 - Multi-Device, Multi OS Bluetooth-Tastatur
 - Flüssiges Tipperlebnis
-- Intelligentere Beleuchtung
+- Mehr Komfort, tieferer Fokus
 - Sich wiederholende Aufgaben automatisieren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

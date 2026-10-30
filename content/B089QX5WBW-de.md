@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verpackungsabmessungen (L x B x H): 1.524 zm x 8.89 zm x 16.764 zm
 - Herkunftsland:- China
-- Farbe: schwarz
 - Verpackungsgewicht: 40 g
+- Verpackungsabmessungen (L x B x H): 1.524 zm x 8.89 zm x 16.764 zm
+- Farbe: schwarz
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B089QX5WBW{{</world>}}

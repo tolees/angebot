@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - lange Ärmel mit Manschetten
-- Passform: Slim Fit
 - Verschluss: Knopfleiste
+- Passform: Slim Fit
 - Reverskragen
 - Pattentaschen
 

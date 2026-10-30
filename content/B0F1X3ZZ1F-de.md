@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kompatibles Ladegerät für USB-C-Geräte. Einschließlich aller kompatiblen Apple und Android Produkte, Apple CarPlay und Android Auto.
-- Extrem langlebig. Dank eines gewebten, verwicklungsfreien Designs, das verstärkt ist, um Ausfransen zu verhindern.
 - Lieferumfang: USB-C auf USB-C-Kabel. USB-C Netzadapter nicht enthalten.
+- Extrem langlebig. Dank eines gewebten, verwicklungsfreien Designs, das verstärkt ist, um Ausfransen zu verhindern.
+- Kompatibles Ladegerät für USB-C-Geräte. Einschließlich aller kompatiblen Apple und Android Produkte, Apple CarPlay und Android Auto.
 - Schnellladefunktion. Unterstützt Schnellladefunktion bis zu 60 Watt und Datenübertragung mit USB 2.0-Geschwindigkeit.
 - Erhältliche Kabellängen: 1,5 m und 20 cm
 

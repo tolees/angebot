@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- B0CC9P6TTC
 - Maschinenwäsche
 - Materialzusammensetzung: 100% Leinen
-- B0CC9P6TTC
 - Hose mit legerer Silhouette
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

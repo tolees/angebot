@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FASTENER DRIVE BIT
 - 1/2" Spezial-Gelenkwellen-Kraft-Stecknuss, 36mm
+- FASTENER DRIVE BIT
 - 1 Stück
 - KS Tools
 

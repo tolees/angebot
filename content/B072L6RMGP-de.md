@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Drei neue Versus-Modi - Rennen, Panzer, Dodgeball
 - Sidescroll-Shootem Up wie in der guten alten Zeit, aber mit moderner Grafik und Präsentation
+- Drei neue Versus-Modi - Rennen, Panzer, Dodgeball
 - Soundtrack komponiert von Akira Yamaoka, dem Sound Director von Silent Hill und Shadows of the Damned
 - Lokaler Koop für zwei Spieler im Story-Modus
 

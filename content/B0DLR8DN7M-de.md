@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2-Wege-Reißverschluss vorne in der Mitte
-- Thermarator-Isolierung aus 100 % recyceltem Polyester
-- Eingrifftaschen mit Reißverschluss.
-- Sicherheitstasche innen
-- Omni-Heat Thermoreflektierend
 - Kinnschutz
+- Omni-Heat Thermoreflektierend
+- Eingrifftaschen mit Reißverschluss.
+- Thermarator-Isolierung aus 100 % recyceltem Polyester
+- Sicherheitstasche innen
+- 2-Wege-Reißverschluss vorne in der Mitte
 - Einfassung an Armloch und Saum
 - Omni-Shield Advanced Repellency versiegelt Spritzer und Flecken, fortschrittliche Abwehrkräfte
 

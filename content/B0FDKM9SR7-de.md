@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neu Toputure Heimtrainer Fahrrad mit Pulsmessung und APP 0-100% Magnetwiderstand Ergometer 15KG Schwungrad Bis 160KG Hometrainer Indoor Bike mit LCD Tablet-Halter Getränkehalter Ultraleise'
-date: 2026-09-26 00:05:06
+date: 2026-10-29 17:08:52
 image: 'https://m.media-amazon.com/images/I/41JKn5yR4cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FDKM9SR7/?tag=tolees0ca-21'
 descuento: '35.12'
-average: '195.055'
+average: '194.916666666667'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

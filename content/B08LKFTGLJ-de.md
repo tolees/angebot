@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dermatologische Expertise: Allergiegetestet. 100 % parfumfrei. Dermatologisch getestet. Augenärztlich getestet. Sicher für empfindliche Augen. Sicher für Kontaktlinsenträger:innen.
-- Verbessert das Hautbild: Mit Vitamin C – hilft, das Erscheinungsbild von Augenringen und Pigmentflecken bei regelmäßiger Anwendung zu mindern.
-- Wirkt abschwellend: Concealer mit Koffein kaschiert und reduziert sichtbar Schwellungen unter den Augen.
 - Feuchtigkeitsspendender Concealer: Mit Hyaluronsäure – kaschiert, perfektioniert und versorgt die Haut mit Feuchtigkeit.
+- Wirkt abschwellend: Concealer mit Koffein kaschiert und reduziert sichtbar Schwellungen unter den Augen.
+- Dermatologische Expertise: Allergiegetestet. 100 % parfumfrei. Dermatologisch getestet. Augenärztlich getestet. Sicher für empfindliche Augen. Sicher für Kontaktlinsenträger:innen.
 - Volldeckender Concealer: Flüssiger Abdeckstift mit ganztägigem Halt kaschiert Unregelmäßigkeiten zuverlässig.
+- Verbessert das Hautbild: Mit Vitamin C – hilft, das Erscheinungsbild von Augenringen und Pigmentflecken bei regelmäßiger Anwendung zu mindern.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08LKFTGLJ{{</world>}}

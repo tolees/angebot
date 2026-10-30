@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die folgenden Informationen gelten für jede Einheit pro Packung
 - Ein lebhafter Wein, ideal als Aperitif
 - Beim Essen harmoniert Blue Top ideal zu Fisch und Weißem Fleisch
-- Ein Champagner, der Tradition und Moderne vereint in 0,375l Flasche
 - Ausgewogener Geschmack zwischen der Finesse des Chardonnays und der Stärke des Pinot Noirs
+- Die folgenden Informationen gelten für jede Einheit pro Packung
+- Ein Champagner, der Tradition und Moderne vereint in 0,375l Flasche
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FMS2W866{{</world>}}

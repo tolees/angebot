@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marke: Pandora
 - Stil: Ring
+- Marke: Pandora
 - Farbe: blau
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

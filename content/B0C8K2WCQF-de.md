@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Sohle: 80% EVA - 20% recyceltes EVA
+- Farbe: Mittelgrün
 - Obermaterial: 100 % recyceltes PET
 - Better Outsoles,Recycled Synthetics
-- Farbe: Mittelgrün
-- Sohle: 80% EVA - 20% recyceltes EVA
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C8K2WCQF{{</world>}}

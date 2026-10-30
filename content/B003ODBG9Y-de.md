@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kältespray, Eisspray
-- sofortiger Kühleffekt
-- handlich klein
 - verschafft sofortige Linderung, Schmerzlinderung
+- handlich klein
+- sofortiger Kühleffekt
 - für alle Sportarten
 
 [🛒 Hier!!]({{< param buyurl >}})

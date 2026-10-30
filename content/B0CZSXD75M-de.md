@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Marke: Warner Bros.
-- Godzilla x Kong - Das neue Imperium [Deutschland] [Blu-ray]
 - Produkttyp: Physischer Film
+- Godzilla x Kong - Das neue Imperium [Deutschland] [Blu-ray]
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CZSXD75M{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Steuert die Commandos, schließt euch mit Freunden zusammen und verbannt den Schlickgott und seine Horden
-- Wählt die Klasse, die am besten zu eurem Spielstil passt
 - Rettet die Welt mit geballter Feuerkraft, Granaten, Spezialfertigkeiten und freaking Katanas
+- Wählt die Klasse, die am besten zu eurem Spielstil passt
+- Steuert die Commandos, schließt euch mit Freunden zusammen und verbannt den Schlickgott und seine Horden
 - Schwingt euch hinters Steuer eures Lieblingsgefährts
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

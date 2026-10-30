@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Elastischer Bund
-- Hoher Bund
 - Eng anliegend geschnitten
+- Hoher Bund
+- Elastischer Bund
 - 90 % Baumwolle / 10 % Elasthan
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

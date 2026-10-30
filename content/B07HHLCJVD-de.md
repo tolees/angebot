@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Farbintensiver Premium-Filzstift
-- Hohe Farbbrillanz und Leuchtkraft
 - In vielen brillanten Farben erhältlich
 - Robuste Spitze (Strichstärke: 1 mm)
-- Bis zu 24 Stunden Austrocknungsschutz ohne Kappe
+- Hohe Farbbrillanz und Leuchtkraft
 - Mit Wasser aquarellierbar
+- Bis zu 24 Stunden Austrocknungsschutz ohne Kappe
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07HHLCJVD{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Tragekomfort
 - feuchtigkeitsableitendem Material
+- Tragekomfort
 - Hochwertiger Stoff
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

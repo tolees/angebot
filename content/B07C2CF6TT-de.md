@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- elastisch
 - Pullover
+- elastisch
 - Baumwolle
 - weich
 - bequem

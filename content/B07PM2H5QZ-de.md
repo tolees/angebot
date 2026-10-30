@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Mit einstellbarer Timerfunktion für noch einfachere Handhabung.
 - Mit konischem Mahlwerk, damit die Körner schnell, schonend und gleichmässig gemahlen werden
-- Auffangbehälter aus antistatischem Borosilikatglas, damit sich das feine Kaffeepulver nicht versehentlich löst.
 - Dieses kleine, platzsparende Gerät kann auch größere Mengen mit einem Fassungsvermögen von 220 Gramm mahlen.
+- Auffangbehälter aus antistatischem Borosilikatglas, damit sich das feine Kaffeepulver nicht versehentlich löst.
 - Nahtlose Mahlung, fein (für Espresso) bis grob (ideal für einen Kaffeebereiter)
 
 [🛒 Hier!!]({{< param buyurl >}})

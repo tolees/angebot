@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Lieferumfang: 1x Smart-Home-Heizkörperthermostat, 2x Batterien AA Mignon, 1x Adapter-Set, 1x Kurzbedienungsanleitung, funktioniert nur mit dem Hub aus dem Hama Starter-Set
 - Heizungsthermostat zum Heizkosten sparen: Mit der Heizungssteuerung und automatischen Programmen individuelle Heizszenarien festlegen
-- Smart Home Heizungssteuerung mit: Auswärts-Modus, Frostschutzautomatik, Ventilschutzfunktion gegen Verkalken, Fenster-auf-Erkennung, Set beliebig erweiterbar
 - So einfach zur smarten Heizungssteuerung: en bisherigen Heizkörperregler durch den Smart Home Heizkörperthermostat austauschen, mit Adapter für alle Heizungen – nur nutzbar in Kombination mit der Zentrale der Hama Heizungssteuerung
+- Smart Home Heizungssteuerung mit: Auswärts-Modus, Frostschutzautomatik, Ventilschutzfunktion gegen Verkalken, Fenster-auf-Erkennung, Set beliebig erweiterbar
 - Programmierte Einstellungen spontan ändern: von überall die smarte Heizungssteuerung per Hama Smart Home-App nachregeln, z.B. vom Büro, wenn früher Feierabend
 
 [🛒 Hier!!]({{< param buyurl >}})

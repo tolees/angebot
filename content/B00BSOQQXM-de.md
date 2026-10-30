@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Rezeptur dieses Gins entstand durch eigenständiges Berliner Selbstbewusstsein und die Verbundenheit mit preußischen Idealen.
-- Das Bouquet von Adler Berlin Dry Gin ist mild, dabei ausgewogen, es enthält eine deutliche Wacholdernote und eine angenehme Würze durch Koriander, Lavendel, Ingwer und Zitrusschalen.
-- Auch auf der Zunge kann er überzeugen, wobei er deutlich an Würze zulegt, die sich auch im Abgang zeigt.
-- Hergestellt in der Preußischen Spirituosen Manufaktur in Berlin.
-- Im Vordergrund stehen die Aromen von Koriander, Ingwer, Lavendel, Zitronenschale und natürlich der Wacholder.
 - Lagert 3-8 Monate in Steingutfässern, damit sich das Aroma harmonisch verbindet.
-- Man legt besonderes Augenmerk auf eine sorgfältige Auswahl von Rohstoffen und die Technik, Gär- bzw. Mazerationsnebenprodukte voneinander zu trennen.
+- Hergestellt in der Preußischen Spirituosen Manufaktur in Berlin.
+- Auch auf der Zunge kann er überzeugen, wobei er deutlich an Würze zulegt, die sich auch im Abgang zeigt.
+- Das Bouquet von Adler Berlin Dry Gin ist mild, dabei ausgewogen, es enthält eine deutliche Wacholdernote und eine angenehme Würze durch Koriander, Lavendel, Ingwer und Zitrusschalen.
+- Die Rezeptur dieses Gins entstand durch eigenständiges Berliner Selbstbewusstsein und die Verbundenheit mit preußischen Idealen.
 - Herkunft: Deutschland
+- Man legt besonderes Augenmerk auf eine sorgfältige Auswahl von Rohstoffen und die Technik, Gär- bzw. Mazerationsnebenprodukte voneinander zu trennen.
+- Im Vordergrund stehen die Aromen von Koriander, Ingwer, Lavendel, Zitronenschale und natürlich der Wacholder.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00BSOQQXM{{</world>}}

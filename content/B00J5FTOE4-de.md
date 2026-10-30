@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Item: Ein
 - Marke Beauty-Produkte Bexident
+- Item: Ein
 - Packungage die Größe: 2.5 L x 13.5 H x 4.0 W (cm)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

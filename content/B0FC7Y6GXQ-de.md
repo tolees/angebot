@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- devolo Magic-Produkte sind nicht mit dLAN-Produkten kompatibel! Bitte achten Sie genau auf die Modelle, die Sie bereits verwenden. Verwenden Sie Magic-Adapter nur zusammen mit anderen Magic-Adaptern.
 - Stellen Sie Powerline-Geräte nicht in der Nähe von Waschmaschinen, Klimaanlagen oder anderen Haushaltsgeräten auf.
+- Powerline-Geräte können nicht über Stromzähler hinweg verwendet werden und müssen im selben Stromkreis betrieben werden.
+- devolo Magic-Produkte sind nicht mit dLAN-Produkten kompatibel! Bitte achten Sie genau auf die Modelle, die Sie bereits verwenden. Verwenden Sie Magic-Adapter nur zusammen mit anderen Magic-Adaptern.
 - Wir empfehlen, alle Powerline-Geräte direkt an eine Wandsteckdose (und nicht an eine Steckdosenleiste) anzuschließen.
 - Adapter-Set zum Aufbau eines devolo Magic-Powerline-Netzwerks mit 2 Adaptern: für raum- und etagenübergreifendes Internet auf bis zu 2 Etagen
-- Powerline-Geräte können nicht über Stromzähler hinweg verwendet werden und müssen im selben Stromkreis betrieben werden.
 - Hinweis: Die angegebenen Leistungswerte basieren auf Messungen unter Laborbedingungen. Diese Werte stellen die maximale physikalische Datenrate gemäß dem verwendeten Powerline-Standard dar. In der Regel liegen die Geschwindigkeiten unter den theoretischen Maximalwerten und variieren je nach Hausinstallation, Leitungsqualität und elektrischen Störquellen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

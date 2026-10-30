@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Materialzusammensetzung: 100% Viskose
 - Langarm
-- Reverskragen
 - Kunstlederjacke
+- Reverskragen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09M43L2KH{{</world>}}

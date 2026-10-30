@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Reinigt die Haut gründlich von Öl, Schmutz und Schweiß
-- 1. Schritt der Clinique 3-Phasen-Systempflege
 - Flüssige Reinigungsseife
+- 1. Schritt der Clinique 3-Phasen-Systempflege
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B002RBTB8C{{</world>}}

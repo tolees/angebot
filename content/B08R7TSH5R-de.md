@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Obermaterial: Leder
 - Innenmaterial: No information
-- Verschluss: Schnürung
 - Absatzhöhe: 3.1 cm
 - Sohle: Ethylen-Vinylacetat
-- Obermaterial: Leder
+- Verschluss: Schnürung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08R7TSH5R{{</world>}}

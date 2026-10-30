@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Universal Pictures Germany
 - PHYSICAL_MOVIE
 - Der Super Mario Bros.Film [Blu-Ray] [Import]
+- Universal Pictures Germany
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C1N41SFN{{</world>}}

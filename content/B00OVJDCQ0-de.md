@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bis zu 5 Stunden Batteriedauer. Betriebstemperatur: 0 bis 40 °C
 - Eine integrierte Firewall schützt vor Angriffen über das Internet
 - Durch die kleine Größe können Sie es überallhin mitnehmen
 - Schnelle Einrichtung dank Wi-Fi Protected Setup (WPS)
+- Bis zu 5 Stunden Batteriedauer. Betriebstemperatur: 0 bis 40 °C
 - Mit integriertem SIM-Kartensteckplatz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

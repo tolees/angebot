@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produkttyp : PHYSICAL_MOVIE
 - Warcraft: Der Anfang [Blu-ray]
+- Produkttyp : PHYSICAL_MOVIE
 - Marke: Universal Pictures Video
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

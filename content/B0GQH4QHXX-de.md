@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ermittlung & Rätsel: Sammle Hinweise, löse Geheimnisse und beeinflusse die Geschichte.
-- Erkundung außerhalb des Ladens: Dunkle Gelände wie Wälder und Seen, mit sinnvollen Entscheidungen vor Ort.
-- Stimmungsvolle Atmosphäre: Dunkles, okkultes Setting und intensives Gameplay.
 - Kräuter- und Antiquitätenladen als Ausgangspunkt: Sammle, identifiziere und nutze Pflanzen sowie Artefakte.
 - Dieses Spiel enthält zwei Spiele für eins: Im Doppelpack enthalten sind die Spiele "Strange Horticulture" und Strange Antiquities".
+- Ermittlung & Rätsel: Sammle Hinweise, löse Geheimnisse und beeinflusse die Geschichte.
+- Stimmungsvolle Atmosphäre: Dunkles, okkultes Setting und intensives Gameplay.
+- Erkundung außerhalb des Ladens: Dunkle Gelände wie Wälder und Seen, mit sinnvollen Entscheidungen vor Ort.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0GQH4QHXX{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wetterfest: IP44 für die Anwendung im Außenbereich
-- Angenehmes Licht: Warmweißes Licht zum Wohlfühlen
-- Hohe Qualität: Robustes und zuverlässiges Material in höchster Qualität
 - Energiesparend inkl. Leuchtmittel
+- Hohe Qualität: Robustes und zuverlässiges Material in höchster Qualität
+- Angenehmes Licht: Warmweißes Licht zum Wohlfühlen
+- Wetterfest: IP44 für die Anwendung im Außenbereich
 - Elegantes Design: Moderne Leuchte für Ihren Außenbereich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

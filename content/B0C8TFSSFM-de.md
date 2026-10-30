@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gummispitze
 - Elastische Schnürsenkel
+- Gummispitze
 - Schaumstoff-Zwischensohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

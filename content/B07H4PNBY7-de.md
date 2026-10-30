@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Doppelte kugelsichere Anti-Beschlag-Linse
-- Universeller Ersatz für alle Leatt Speed-Masken
 - Definierte Färbung entsprechend dem natürlichen Lichtgrad
+- Universeller Ersatz für alle Leatt Speed-Masken
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07H4PNBY7{{</world>}}

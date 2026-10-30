@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Powerbank für MagSafe 12000mAh Externe Handyakkus Schnellladen Schwarz | Kabelloses Tragbares Ladegerät mit Typ-C Eingang & Ausgang LED-Anzeige & Reise-Essential für iPhone 17/16/15/14/13/12 Serie'
-date: 2026-10-25 10:02:22
-image: 'https://m.media-amazon.com/images/I/31j89KmUdKL._SL500_._SL400_.jpg'
+date: 2026-10-29 18:01:46
+image: 'https://m.media-amazon.com/images/I/31jqeRpdpVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0F7XFP2MQ/?tag=tolees0ca-21'
 descuento: '41.55'
-average: '24.39'
+average: '24.3285714285715'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

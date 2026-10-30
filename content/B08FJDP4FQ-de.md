@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Weite: Normal, Verschluss: Schnürung
-- Absatztyp: Flach
 - Produkttyp: Schnürhalbschuhe,sportliche Schnürer,Schnürschuhe,Schnürer,Sneaker,Halbschuhe,Straßenschuhe,Freizeitschuhe,Derby Schnürung
+- Absatztyp: Flach
 - Obermaterial: Textil, Innenmaterial: Textil, Laufsohle: EVA,
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

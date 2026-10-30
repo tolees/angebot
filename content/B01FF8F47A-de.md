@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Regular
 - 98% Baumwolle, 2% Elastane
 - Jack&Jones Liam Original 010 Skinny Jeans
-- Regular
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01FF8F47A{{</world>}}

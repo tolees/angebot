@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Skechers Logo
 - Flexible Traktionslaufsohle
 - Geprägtes Obermaterial aus synthetischem Durasuede
-- Skechers Logo
 - Modischer Sneaker zum Schnüren
 
 [🛒 Hier!!]({{< param buyurl >}})

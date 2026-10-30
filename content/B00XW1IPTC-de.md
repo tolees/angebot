@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - auswechselbare Textileinlegesohle mit Grössenmesssystem bis Grösse 35, ab Grösse 36 ohne Grössenmesssystem mit Lico Logo
-- Nylon mit Synthetik-Einsätzen
 - stabile TPR-Laufsohle
 - Sportschuh für Kinder und Jugendliche
 - Klettverschluss und elastische Schnürsenkel
 - Textilfutter
+- Nylon mit Synthetik-Einsätzen
 - Schuhbox aus recyceltem Karton
 
 [🛒 Hier!!]({{< param buyurl >}})

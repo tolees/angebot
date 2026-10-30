@@ -30,10 +30,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Schnürsenkel
 - Gummiaußensohle
-- Obermaterial aus Textil
 - Reguläre Passform
-- Textilfutter
 - Cloudfoam Zwischensohle
+- Obermaterial aus Textil
+- Textilfutter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DHZVGWGY{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- dryCELL: Technologie von PUMA zum Transport der Feuchtigkeit nach außen für trockenen Tragekomfort
 - Durchgehender Reißverschluss mit verstaubarer Kapuze
 - PUMA Formstrip als Transferprint auf den Schultern
-- dryCELL: Technologie von PUMA zum Transport der Feuchtigkeit nach außen für trockenen Tragekomfort
-- Nylon und Polyester
 - Fußschlaufe zur Unterstützung
+- Nylon und Polyester
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0916BCS8R{{</world>}}

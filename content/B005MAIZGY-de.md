@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- So weich wie möglich: für ein vertrautes Trinkgefühl
-- Passend für alle NUK First Choice Flaschen und NUK Muttermilchbehälter
 - Natürlich kiefergerecht: der Mutterbrust beim Stillen nachempfunden
 - Größe 1, 0-6 Monate, S (extrafein gelocht = für dünnflüssige Nahrung)
+- So weich wie möglich: für ein vertrautes Trinkgefühl
+- Passend für alle NUK First Choice Flaschen und NUK Muttermilchbehälter
 - Beugt Koliken vor: verbessertes Anti-Colic Air System
 
 [🛒 Hier!!]({{< param buyurl >}})

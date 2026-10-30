@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Supports up to 2 kg
+- Angled umbrella hole for better light distribution
+- Compatible with any stand using a 5/8” (16mm) spigot
 - Ideal for Speedlights and small LEDs
 - Special counterbalance mechanism protects equipment
-- Compatible with any stand using a 5/8” (16mm) spigot
-- Angled umbrella hole for better light distribution
+- Supports up to 2 kg
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00L9IO6NO{{</world>}}

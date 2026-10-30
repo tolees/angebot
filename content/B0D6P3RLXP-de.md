@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - KULISSE: DER DSCHUNGEL KAMPF DER REPTILIEN: Messe dich mit einer Umgebung, in der Fallen Gegner und Beute fangen, Gefahren in den Schatten lauern und Geräusche Raubtiere anlocken
-- ZEITABSCHNITT: DIE 1960er KAMPF DER WELTANSCHAUUNGEN: Erlebe die Geschichte nach und verfolge, wie sich der Kalte Krieg und die geopolitische Landschaft verändern
 - SPIELERLEBNIS: SURVIVAL KAMPF DER INSTINKTE: Überliste Gegner mit Methoden wie Camouflage, Nahkampf, Anschleichen, Verhören, Klettern, Jagen und Wunden behandeln
+- ZEITABSCHNITT: DIE 1960er KAMPF DER WELTANSCHAUUNGEN: Erlebe die Geschichte nach und verfolge, wie sich der Kalte Krieg und die geopolitische Landschaft verändern
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D6P3RLXP{{</world>}}

@@ -28,16 +28,16 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verstellbare Kapuze mit Kordelzug
-- Sicherheitstasche innen
-- Verstellbarer Kordelzug an der Taille
-- Omni-Heat Thermoreflektierend
-- Eingrifftaschen mit Reißverschluss
-- Thermarator-Isolierung aus 100 % recyceltem Polyester
 - Kinnschutz
-- Omni-Shield Advanced Repellency versiegelt Spritzer und Flecken, fortschrittliche Abwehrkräfte
+- Omni-Heat Thermoreflektierend
 - Elastische Bündchen
+- Thermarator-Isolierung aus 100 % recyceltem Polyester
+- Omni-Shield Advanced Repellency versiegelt Spritzer und Flecken, fortschrittliche Abwehrkräfte
+- Sicherheitstasche innen
 - Druckknöpfe an den Seitennähten
+- Verstellbare Kapuze mit Kordelzug
+- Eingrifftaschen mit Reißverschluss
+- Verstellbarer Kordelzug an der Taille
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DLRPVNLT{{</world>}}

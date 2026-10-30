@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Volle Deckkraft: ölfreie Formel mit 24-Stunden-Halt – individuell aufbaubar von leichter bis zu voller Deckkraft.
 - Lichtschutzfaktor 20: Mineralische Sonnenschutzfilter schützen die Haut vor UV-Strahlung.
-- 3-Serum-Technologie: Mit UP302, Vitamin C, Salicylsäure und Hyaluronsäure – unterstützt ein ebenmäßigeres Hautbild und verfeinerte Textur.
 - Dermatologische Expertise: Allergiegetestet. 100 % parfumfrei. Dermatologisch getestet. Augenärtztlich getestet.
+- 3-Serum-Technologie: Mit UP302, Vitamin C, Salicylsäure und Hyaluronsäure – unterstützt ein ebenmäßigeres Hautbild und verfeinerte Textur.
 - Satin-Matte-Finish: Hinterlässt ein glattes, natürlich mattiertes Hautbild – ideal für Misch- und ölige Haut.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- .223/5.56
 - AR15 Magazin 10 Schuss
+- .223/5.56
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08T6HW6B5{{</world>}}

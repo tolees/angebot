@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'D-Link DUP-A01 USB-C Hub 10-in-1 2X HDMI 4K@60Hz USB 3.1/3.0 100W Power Delivery SD/microSD Gigabit Ethernet – USB-C Dockingstation für MacBook Windows Laptop Android'
-date: 2026-10-28 03:32:19
+date: 2026-10-29 10:21:51
 image: 'https://m.media-amazon.com/images/I/31gc-CHOmxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

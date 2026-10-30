@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Naoko Yamada
 - Deutsch, Japanisch
-- 650
 - BRD
+- 650
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07Z74DHW5{{</world>}}

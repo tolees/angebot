@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PZN-01395064
-- 50 ml Creme
 - freiverkäuflich
+- 50 ml Creme
+- PZN-01395064
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B006K9BH0C{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '100m Telefonkabel 4x2x0 6mm JYSTY - 8 Adern - ISDN Fernmeldekabel Verlegekabel'
-date: 2026-10-28 03:32:27
+date: 2026-10-29 10:21:57
 image: 'https://m.media-amazon.com/images/I/31UVSG+8PbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

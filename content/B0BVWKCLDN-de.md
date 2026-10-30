@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- OrthoLite Einlegesohle
 - Fein verstellbares BOA Fit System
-- Ein funktionaler Trailrunning-Schuh mit recycelten Materialien für Kinder.
 - Obermaterial aus Textil
+- Ein funktionaler Trailrunning-Schuh mit recycelten Materialien für Kinder.
+- OrthoLite Einlegesohle
 - Einlegesohle mit Adifit Längenmessung für die Auswahl der richtigen Größe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
