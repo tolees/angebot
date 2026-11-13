@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - der Rahmen ist zusätzlich mit einem Aufsteller ausgestattet
-- top modernes Profil in klassischen Farben
 - Schmales Blockprofil mit ganzheitlicher eloxierter Oberfläche
+- top modernes Profil in klassischen Farben
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00D4LEEBI{{</world>}}

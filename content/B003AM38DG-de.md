@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MANFROTTO
 - Accessoire image & son
+- MANFROTTO
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B003AM38DG{{</world>}}

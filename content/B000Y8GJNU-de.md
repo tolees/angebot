@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Einstiegsniveau: Komfortabler Knieschützer mit geschlossenzelligem Schaumpolster
 - CE-Zulassung
-- Mit Antirutschsaum versehen
 - Perfekter Knieschoner für Einsteiger
+- Mit Antirutschsaum versehen
 - Sehr leicht
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

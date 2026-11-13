@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Braun Braun Tribute Collection CJ 3000 Zitruspresse 20 W 0 35 l weiß 1 - pack'
-date: 2026-11-09 15:02:22
+date: 2026-11-13 02:01:38
 image: 'https://m.media-amazon.com/images/I/31++GMHAnaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00IYIETIE-de Braun Braun Tribute Collection CJ 3000 Zitruspresse 20 W 0...'
 sku: 'B00IYIETIE-de'
 tags: [ '🇩🇪', ]
-actualPrice: 19.99 EUR
+actualPrice: 19.0 EUR
 currency: EUR
-price: 19.99
+price: 19.0
 comparePrice: 24.99 EUR
 prodname: 'Braun Braun Tribute Collection CJ 3000 Zitruspresse 20 W 0 35 l weiß 1 - pack'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B00IYIETIE/?tag=tolees0ca-21'
-descuento: '20.01'
-average: '15.698695652174004'
+descuento: '23.97'
+average: '15.962800000000083'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

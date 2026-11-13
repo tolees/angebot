@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Reinigt gründlich und pflegt Haar und Kopfhaut.
+- Ultra sanfte Formel.
 - Sichtbar gesünderes Haar: pflegt das Haar und macht es weich.
 - Auf das nasse Haar auftragen und sanft einmassieren, um Schaum zu erzeugen. Mit reichlich Wasser ausspülen. Bei Bedarf wiederholen. Nur zur äußeren Anwendung.
 - Geeignet für brüchiges und empfindliches Haar.
-- Ultra sanfte Formel.
-- Reinigt gründlich und pflegt Haar und Kopfhaut.
 - Für den täglichen Gebrauch.
 
 [🛒 Hier!!]({{< param buyurl >}})

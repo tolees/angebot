@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vorsicht: nicht für Situationen geeignet, in denen der Drypack unter Wasser getaucht wird
-- Rollverschluss: vor dem Schließen der Schnalle mindestens drei Mal einrollen, damit der Inhalt trocken bleibt
-- Deckelfachkompatibel
-- D-Ring zur Befestigung
 - Material mit 10.000 mm Wassersäule schützt vor Staub oder Starkregen
+- D-Ring zur Befestigung
+- Rollverschluss: vor dem Schließen der Schnalle mindestens drei Mal einrollen, damit der Inhalt trocken bleibt
+- Vorsicht: nicht für Situationen geeignet, in denen der Drypack unter Wasser getaucht wird
+- Deckelfachkompatibel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D4VS6B6W{{</world>}}

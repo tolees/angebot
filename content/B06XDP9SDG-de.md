@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Sehr robust, der Film aus läuft nicht Gefahr beim Auftragen abzureißen.
-- Die Tipp-Ex Mini Pocket Maus mit 6 m Korrekturlänge.
-- Die 5 Mäuse sind kompakt und lassen sich in allen Etuis verstauen.
 - Gleitet perfekt ohne zu blockieren und für Linkshänder wie Rechtshänder geeignet.
 - Überschreiben, ohne Warten zu müssen dank Lichtundurchlässigkeit des Korrekturbands.
+- Die Tipp-Ex Mini Pocket Maus mit 6 m Korrekturlänge.
+- Die 5 Mäuse sind kompakt und lassen sich in allen Etuis verstauen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B06XDP9SDG{{</world>}}

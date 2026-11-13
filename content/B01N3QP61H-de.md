@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Im legeren Look
-- Ideal für jede Gelegenheit und jede Jahreszeit
 - Locker geschnitten
+- Ideal für jede Gelegenheit und jede Jahreszeit
 - Mit regulärer Passform
 
 [🛒 Hier!!]({{< param buyurl >}})

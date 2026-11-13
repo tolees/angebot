@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Abgerundete Zehe
-- Reguläre Passform
-- Schnürverschluss
 - Flacher Absatz
+- Schnürverschluss
+- Reguläre Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DJ9RBV24{{</world>}}

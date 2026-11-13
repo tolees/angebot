@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Fester Halt des Fotos ohne Verrutschen: auch beim Blättern im Album kein Problem, Farbe: Transparent, Kantenlänge: 10 mm
 - Lieferumfang: Hama Fotoecken 1.000 Stück (in praktischer Spenderpackung)
 - Für alle Arten von Fotopapier: selbstklebend, kein Wellen der Seiten, kein Vergrößern der Tiefe des Albums, archivierungssicher, säurefrei und lösemittelfrei
-- Video_Capture_Resolution: 0
 - Fotos werden einfach in die transparenten Taschen geschoben und können so beliebig heraus genommen und ausgetauscht werden
-- Fester Halt des Fotos ohne Verrutschen: auch beim Blättern im Album kein Problem, Farbe: Transparent, Kantenlänge: 10 mm
+- Video_Capture_Resolution: 0
 - 1.000 Fotoecken zum Einkleben von Fotos in Fotoalben: einfache Entnahme der einzelnen Ecken aus der praktischen Spenderbox
 
 [🛒 Hier!!]({{< param buyurl >}})

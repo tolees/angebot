@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PolyTerra druckt genau wie PLA, so dass keine Druckeinstellungen geändert werden müssen und die Überhang- und Bridging-Funktionen sogar PLA übertreffen können. Mit einem weiten Drucktemperaturbereich von 190 bis 230°C kann PolyTerra auf jedem extrusionsbasierten 3D-Drucker verarbeitet werden.
 - PolyTerra PLA ist ein Biokunststoff-basiertes 3D-Druckfilament, das von Grund auf neu entwickelt wurde, um die nächste Generation von PLA zu schaffen und Benutzerfreundlichkeit, Druckqualität, Geschwindigkeit und Zuverlässigkeit zu bieten. Es ist ein nachhaltiges Produkt, das natürlich gewonnen wird, und für jede produzierte Spule wird ein Baum gepflanzt, um der Erde etwas zurückzugeben.
+- PolyTerra druckt genau wie PLA, so dass keine Druckeinstellungen geändert werden müssen und die Überhang- und Bridging-Funktionen sogar PLA übertreffen können. Mit einem weiten Drucktemperaturbereich von 190 bis 230°C kann PolyTerra auf jedem extrusionsbasierten 3D-Drucker verarbeitet werden.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08QMJB48V{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fußgewölbeunterstützung
 - Wadenlang
-- Sechs Paar pro Packung
 - 62 % Baumwolle / 36 % recycelter Polyester / 1 % Elastan / 1 % recyceltes Nylon
+- Fußgewölbeunterstützung
+- Sechs Paar pro Packung
 - Gebondete Zehennähte
 
 [🛒 Hier!!]({{< param buyurl >}})

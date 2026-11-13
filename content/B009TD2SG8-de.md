@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aus Silikonbasis
 - Auch in Kombination mit Latex Kondomen geeignet
 - Feuchtigkeitsspendend
+- Aus Silikonbasis
 - Hat eine einzigartig gleitenden und natürlich weisse Textur, für extra langanhaltendes Vergnügen
 - Für noch mehr Genuss
 

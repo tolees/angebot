@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 - Hochwertiges, sofort helles warmweiÃŸes Licht
+- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 - IP44 Wetterfest: Speziell für feuchte Umgebungen im Freien entwickelt
 - Modernes und architektonisches Design
 

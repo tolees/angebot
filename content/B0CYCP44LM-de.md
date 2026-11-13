@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wundspray Katze: Optimale Wundversorgung bei kleinen Wunden
 - Einfach & Angenehm: Felisept 3 Mal täglich auf die betroffene Stelle sprühen - Das Spray ist angenehm für Ihre Katze & geruchsneutral
+- Wundspray Katze: Optimale Wundversorgung bei kleinen Wunden
 - Einfach in der Anwendung und schmerzfrei für die Katze
 - Wundschutz Katze: Ideal für die hygienische Reinigung von Wunden, Haut und Schleimhäuten
 

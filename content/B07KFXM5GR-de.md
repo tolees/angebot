@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- echtem Leder
 - optimale Stabilität
+- echtem Leder
 - klassischen Look
 
 [🛒 Hier!!]({{< param buyurl >}})

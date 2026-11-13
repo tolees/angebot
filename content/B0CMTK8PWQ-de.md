@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'hummel hmlLOGO Set'
-date: 2026-11-08 13:02:41
+date: 2026-11-13 04:02:36
 image: 'https://m.media-amazon.com/images/I/31jFzyEM9bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0CMTK8PWQ-de hummel hmlLOGO Set'
 sku: 'B0CMTK8PWQ-de'
 tags: [ '🇩🇪', ]
-actualPrice: 19.99 EUR
+actualPrice: 17.06 EUR
 currency: EUR
-price: 19.99
+price: 17.06
 comparePrice: 29.95 EUR
 prodname: 'hummel hmlLOGO Set'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0CMTK8PWQ/?tag=tolees0ca-21'
-descuento: '33.26'
-average: '18.980000000000079'
+descuento: '43.04'
+average: '18.660000000000064'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Staubfilter an der Front und die geschlossenen Panels an Ober- und Unterseite sorgen für ein staubfreies Inneres
-- Leicht zugängliches i/O-Panel an der Front mit Audio-, sowie USB 3.0- und USB 2.0-Anschlüssen
-- Schwarzer Innenraum mit weißen Akzenten
 - Elegantes Front-Panel mit gebürstetem Aluminium-Look
 - Extrem kompaktes micro-ATX Gehäuse mit herausragendem Airflow
+- Leicht zugängliches i/O-Panel an der Front mit Audio-, sowie USB 3.0- und USB 2.0-Anschlüssen
+- Der Staubfilter an der Front und die geschlossenen Panels an Ober- und Unterseite sorgen für ein staubfreies Inneres
+- Schwarzer Innenraum mit weißen Akzenten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00CUSUV0O{{</world>}}

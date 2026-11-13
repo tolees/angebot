@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Ultraweitwinkel-Zoom-Objektiv für Vollformatkameras
-- Leichtes, kompaktes Gehäuse
 - Besonders geeignet für Landschafts-, Hochzeits- und Reisefotografen
 - Hochwertige Vergütung
+- Leichtes, kompaktes Gehäuse
 - Überragende Bildqualität
 
 [🛒 Hier!!]({{< param buyurl >}})

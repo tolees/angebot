@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DVD
-- Deutsch
 - 825
+- Deutsch
+- DVD
 - Hiroaki Miyamoto, Junji Shimizu, Kônosuke Uda, Munehisa Sakai
 
 [🛒 Hier!!]({{< param buyurl >}})

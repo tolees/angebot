@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dezente Taschen, stilvolle Knöpfe und Reißverschluss
 - Chinohose mit Stretchanteil
 - Sehr angenehme und weiche Baumwollmischung
+- Dezente Taschen, stilvolle Knöpfe und Reißverschluss
 - Hochwertige Baumwollmischung für Komfort und Langlebigkeit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

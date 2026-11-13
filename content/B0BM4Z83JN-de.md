@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle:Thermoplastisches Polyurethan
 - Absatzform:Kein Absatz
+- Innermaterial:N/A
 - Obermaterial: Leder
 - Verschluss:Reißverschluss
-- Innermaterial:N/A
+- Sohle:Thermoplastisches Polyurethan
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BM4Z83JN{{</world>}}

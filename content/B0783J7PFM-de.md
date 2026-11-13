@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferung in einer Holzkiste
 - Hergestellt aus strapazierfähigem legiertem Stahl mit einer sandgestrahlten Oberfläche für starke und klare Abdrücke, auch nach längerer Verwendung
-- Enthält Großbuchstaben von A-Z, Ziffern von 0-9 und das „&“-Zeichen für außergewöhnliche Vielseitigkeit
 - Zur Verwendung mit Metall, Leder, Holz, Lehm und mehr; ideal für eine Vielzahl von Anwendungen
+- Lieferung in einer Holzkiste
+- Enthält Großbuchstaben von A-Z, Ziffern von 0-9 und das „&“-Zeichen für außergewöhnliche Vielseitigkeit
 - Stanz-Kit zum Erstellen von permanenten handgestanzten Abdrücken; 4 mm Zeichenhöhe
 
 [🛒 Hier!!]({{< param buyurl >}})

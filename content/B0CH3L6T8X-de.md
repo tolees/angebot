@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Die folgenden Informationen gelten für jede Einheit pro Packung
 - Besonders nachhaltig: 100 Prozent recycelte Verpackung (ausgenommen Additive, Kappe und Etikett)
-- Die Formulierung des 3in1 Duschgels ist dermatologisch getestet und vegan
-- Das adidas Ice Dive 3in1 Duschgel versprüht einen aquatischem Duft und erinnert an belebende Momente des Extremsports
 - Feuchtigkeitsspendende 3in1-Formel für Körper, Haar und Gesicht
+- Das adidas Ice Dive 3in1 Duschgel versprüht einen aquatischem Duft und erinnert an belebende Momente des Extremsports
+- Die Formulierung des 3in1 Duschgels ist dermatologisch getestet und vegan
 - Angereichert mit ätherischem Pfefferminz- und Orangenöl
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

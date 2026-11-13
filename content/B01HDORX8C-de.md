@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Techlite Dämpfung für Stoßabsorption und hohe Energierückgabe
 - Omni-Grip Traktionsgummi für Trittsicherheit auch auf nasse Untergrund
+- Techlite Dämpfung für Stoßabsorption und hohe Energierückgabe
 - Obermaterial aus Wildleder und Textil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

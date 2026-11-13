@@ -29,12 +29,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Präzise Arbeit - Flexibel und sehr präzise arbeitet der Akku-Vertikutierer-Lüfter dank der 3-stufigen Arbeitstiefeneinstellung mit zusätzlicher Transportposition.
+- Ergonomisch - Durch den höhenverstellbaren Führungsholm lässt sich das Gerät ergonomisch an die Körpergröße anpassen. Die großen, integrierten Räder schonen den Rasen.
+- Power X-Change - Der Akku-Vertikutierer-Lüfter GE-SA 36/35 Li-Solo ist Teil der Einhell Power X-Change Familie, in der Akkus, Ladegeräte und Systemgeräte flexibel kombiniert werden können.
+- Lieferung ohne Akku - Der Akku-Vertikutierer-Lüfter GE-SA 36/35 Li-Solo wird ohne Power X-Change Akku und Ladegerät geliefert. Diese sind separat erhältlich.
+- 3-in-1-Gerät - Der Akku-Vertikutierer-Lüfter ist außerdem mit einer 35 cm langen, kugelgelagerten Lüfterwalze mit 26 Krallen und einem Fangsack mit 28 Liter Volumen ausgestattet.
 - Platzsparend & robust - Dank des klappbaren Führungholms lässt sich der Akku-Vertikutierer-Lüfter mit seinem robusten, wartungsfreundlichen Kunststoffgehäuse platzsparend verstauen.
 - Hochwertige Messerwalze - Mit der kugelgelagerten, 35 cm langen Messerwalze mit 16 rotierenden Messern wird das Entfernen von Moos, Unkraut und Rasenfilz zum echten Kinderspiel.
-- Ergonomisch - Durch den höhenverstellbaren Führungsholm lässt sich das Gerät ergonomisch an die Körpergröße anpassen. Die großen, integrierten Räder schonen den Rasen.
-- 3-in-1-Gerät - Der Akku-Vertikutierer-Lüfter ist außerdem mit einer 35 cm langen, kugelgelagerten Lüfterwalze mit 26 Krallen und einem Fangsack mit 28 Liter Volumen ausgestattet.
-- Lieferung ohne Akku - Der Akku-Vertikutierer-Lüfter GE-SA 36/35 Li-Solo wird ohne Power X-Change Akku und Ladegerät geliefert. Diese sind separat erhältlich.
-- Power X-Change - Der Akku-Vertikutierer-Lüfter GE-SA 36/35 Li-Solo ist Teil der Einhell Power X-Change Familie, in der Akkus, Ladegeräte und Systemgeräte flexibel kombiniert werden können.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BS1K8BGP{{</world>}}

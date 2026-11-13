@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichte, dämpfende PU-Sohle
 - Robust, flexibel und ideale Passform
+- Leichte, dämpfende PU-Sohle
 - Extra weiche Innensohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Leder
-- Innenmaterial: Synthetic
 - Verschluss: Synthetic
+- Innenmaterial: Synthetic
+- Obermaterial: Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07P6MBW2V{{</world>}}

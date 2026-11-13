@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Vegan, milchfrei, nussfrei, sojafrei und pflanzlich!
-- Packungsgröße: 6 x 1L
 - Aufwärmen, aufschäumen und direkt trinken
+- Packungsgröße: 6 x 1L
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BXLCZPZC{{</world>}}

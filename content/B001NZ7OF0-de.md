@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Meerwasser - 100 % natürlich
-- Menge: 50ml
 - sanfte und schonende Reinigung des Gehörgangs
+- Menge: 50ml
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001NZ7OF0{{</world>}}

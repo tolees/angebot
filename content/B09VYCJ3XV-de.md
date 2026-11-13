@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verstellbare Schnalle
 - Gürtel
+- Verstellbare Schnalle
 - Länge : Normal
 
 [🛒 Hier!!]({{< param buyurl >}})

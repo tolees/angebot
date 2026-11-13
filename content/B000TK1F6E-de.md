@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schreiben und Dekorieren auf farbigen und dunklen Papieren
-- Gummierte Griffzone für sicheren Halt, Kappe mit Clip
 - Strichstärke 0,4mm
 - Pentel Hybrid Gel Grip Pastell - der Klassiker unter den Gel-Tintenrollern
+- Schreiben und Dekorieren auf farbigen und dunklen Papieren
+- Gummierte Griffzone für sicheren Halt, Kappe mit Clip
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000TK1F6E{{</world>}}

@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Absatzform: Pull On
-- Innenmaterial: Synthetic
-- Obermaterial: Synthetic
 - Sohle: EVA
+- Obermaterial: Synthetic
+- Innenmaterial: Synthetic
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B081KBYB93{{</world>}}

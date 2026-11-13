@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'adidas Unisex Kinder Hoops Mid Shoes Core Black/Cloud White/Grey Six 33 1/2 EU'
-date: 2026-10-13 18:09:24
-image: 'https://m.media-amazon.com/images/I/31NNOXAWPDL._SL500_._SL400_.jpg'
+date: 2026-11-13 08:02:27
+image: 'https://m.media-amazon.com/images/I/31Xj1Zm5ozL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'

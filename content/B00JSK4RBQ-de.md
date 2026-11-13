@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Warmhaltefunktion für bis zu 3 Minuten
 - Bräunungsgrad-Drehregler mit 7 Stufen
+- Auftaufunktion. Gefrorenes Brot wird schonend aufgetaut und getoastet.
 - Bagel-Funktion
 - Die Toast-/Abbruch-Funktion steuert das absenken und anheben der Toasts
+- Warmhaltefunktion für bis zu 3 Minuten
 - Ganzmetallgehäuse mit 2 extra breiten schlitzen und verchromtem Temperaturregler
-- Auftaufunktion. Gefrorenes Brot wird schonend aufgetaut und getoastet.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00JSK4RBQ{{</world>}}

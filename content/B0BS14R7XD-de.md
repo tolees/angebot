@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - NEU: GroundTracer – die Messer heben sich bei Unebenheiten automatisch an und werden geschützt
-- Um Hindernisse herumfahren, auf die andere aufprallen
-- Optionales Zusatzmodul für alle neuen Landroid Modelle ab 2019
-- Tägliche Zusammenstöße schädigen auch Ihre Bäume, Pflanzen und Gartenmöbel, Ein Landroid mit ACS-Option vermeidet all das, Er lenkt mühelos um Hindernisse herum
-- Cut to edge: Der LANDROID hat versetzte Messer, um so nah wie möglich an der Rasenkante zu mähen
 - NEU: WiFi und Bluetooth – direkte Verbindung zwischen App und Mäher – mehr Bedienkomfort und bequeme Software-Updates
+- Tägliche Zusammenstöße schädigen auch Ihre Bäume, Pflanzen und Gartenmöbel, Ein Landroid mit ACS-Option vermeidet all das, Er lenkt mühelos um Hindernisse herum
+- Optionales Zusatzmodul für alle neuen Landroid Modelle ab 2019
+- Cut to edge: Der LANDROID hat versetzte Messer, um so nah wie möglich an der Rasenkante zu mähen
+- Um Hindernisse herumfahren, auf die andere aufprallen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BS14R7XD{{</world>}}

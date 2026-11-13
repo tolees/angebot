@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Spitzenstärke: M
-- Tintenfluss über Mehrkanalsystem
-- Integrierter Radierer in der Kappe
 - Mit Polyester Faserspitze
 - Thermosensitive Tinte
+- Tintenfluss über Mehrkanalsystem
+- Integrierter Radierer in der Kappe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00CWX4KLI{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Display Headunit Kiox BUI330 Anthrazit
 - VE: 1 Stück
-- Modelljahr: MY2020
 - Displaykompatibilität: Kiox
+- Display Headunit Kiox BUI330 Anthrazit
 - Farbe: Anthrazit
+- Modelljahr: MY2020
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B087GKN3NF{{</world>}}

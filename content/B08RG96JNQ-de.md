@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 120° Erfassungswinkel
 - Stromversorgung: Batterie CR2
 - Überwachen von Bewegung and Temperatur
+- Aeotec Smart Home Hub oder anderer Zigbee Hub zusätzlich erforderlich
 - Zigbee 3.0
 - Einstellen des Winkels des Sensors über die flexible Magnethalterung
-- Aeotec Smart Home Hub oder anderer Zigbee Hub zusätzlich erforderlich
-- 120° Erfassungswinkel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08RG96JNQ{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vollaluminiumgehäuse in Flugzeugqualität, Drei einstellbare Tastaturwinkel
 - Mechanische HyperX Switches*, Gaming-Mode, 100% Anti-Ghosting und N-Key Rollover-Funktionen
+- Vollaluminiumgehäuse in Flugzeugqualität, Drei einstellbare Tastaturwinkel
 - Ultrakompaktes TKL-Design (tenkeyless) mit abnehmbarem USB-C-Kabel
-- Erweiterte Personalisierung mit der HyperX NGENUITY Software, Interner Speicher für drei Profile
 - Überwältigende RGB-Beleuchtung mit dynamischen Effekten
+- Erweiterte Personalisierung mit der HyperX NGENUITY Software, Interner Speicher für drei Profile
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0971CPVYK{{</world>}}

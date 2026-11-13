@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Handrührgerät 2 Rührbesen 2 Knethaken Edelstahl spülmaschinenfest 4 Stufen Turbostufe leicht leise 400 W weiß CleverMixx MFQ24200'
-date: 2026-10-26 16:02:32
+date: 2026-11-13 09:02:19
 image: 'https://m.media-amazon.com/images/I/316QSSctnKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B01ISTEGR2/?tag=tolees0ca-21'
 descuento: '15.91'
-average: '32.49'
+average: '32.99'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

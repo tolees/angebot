@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Consisting of two rings in 10mm and 16mm
-- Mount: Micro 4/3 / Supported Sensor Size: APS-C
 - Very useful for macro photography
-- Kenko Extension Tubes can conveniently turn a regular lens into a macro lens.
+- Consisting of two rings in 10mm and 16mm
 - Made in Japan
+- Mount: Micro 4/3 / Supported Sensor Size: APS-C
+- Kenko Extension Tubes can conveniently turn a regular lens into a macro lens.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B007RDAULC{{</world>}}

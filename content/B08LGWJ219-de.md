@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Offiziell Microsoft lizensiert
-- Stabile Befestigung mit klammersystem
+- Hinweis: Um Softwareprobleme zu beheben, aktualisieren Sie auf die neueste Firmware.
 - 270 Grad lenkradius mit justierbaren eingabeoptionen
 - Maßstabsgetreues Lenkrad und fußpedale & Optimiert für ein authentisches Rennerlebnis
-- Hinweis: Um Softwareprobleme zu beheben, aktualisieren Sie auf die neueste Firmware.
+- Stabile Befestigung mit klammersystem
+- Offiziell Microsoft lizensiert
 - kompatibel mit Xbox Series x|s, Xbox One und Windows 10
 
 [🛒 Hier!!]({{< param buyurl >}})

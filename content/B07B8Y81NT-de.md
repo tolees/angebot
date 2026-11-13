@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Platz für 50 Autos
 - Sonderedition zum 50-jährigen Jubiläum
+- Platz für 50 Autos
 - Hot Wheels Sammelbox
 
 [🛒 Hier!!]({{< param buyurl >}})

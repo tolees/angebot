@@ -32,9 +32,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - Optimale Handhabung – Mit der 2,6 kg leichten Heckenschere werden dank schmalem Frontgriff und Mikroschalter auch umfangreiche Heckenschnitte zum Kinderspiel.
 - Power X-Change – Die Einhell Professional Akku-Heckenschere GP-CH 18/50 Li BL-Solo ist Teil der Power X-Change Familie, in der Akkus und Systemgeräte kombiniert werden können.
 - Anti-Blockier-System – Mit diesem Sicherheitssystem wird versucht, Blockaden zu lösen. Dabei öffnen und schließen sich die Zähne und der eingeklemmte Ast wird durchtrennt.
-- Lieferung ohne Akku – Die Einhell Professional Akku-Heckenschere GP-CH 18/50 Li BL-Solo wird ohne Power X-Change Akku und ohne Ladegerät geliefert. Diese sind separat erhältlich.
 - Hochwertige Messer – Saubere Schnitte gelingen dank der lasergeschnittenen, diamantgeschliffenen Messer mit 50 cm Schnittlänge und einem Zahnabstand von 20 mm.
 - Schnittgeschwindigkeit – der ECO-Modus reduziert die Leistung zugunsten einer längeren Akkulaufzeit, während der MAX POWER-Modus eine Geschwindigkeit von bis zu 3060 Schnitten pro Minute erzeugt.
+- Lieferung ohne Akku – Die Einhell Professional Akku-Heckenschere GP-CH 18/50 Li BL-Solo wird ohne Power X-Change Akku und ohne Ladegerät geliefert. Diese sind separat erhältlich.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DZNRWNJ9{{</world>}}

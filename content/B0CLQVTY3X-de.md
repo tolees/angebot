@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Komfortbündchen mit Daumenloch, Kapuze und Kragen mit plüschigem Fleece gefüttert zum Schutz vor den Elementen an kühlen, windigen Tagen
+- Wasserabweisendes Material aus 100 % Polyester, Aktive Passform: Körpernahe Passform mit Fokus auf die Bewegungsfreiheit
 - Lieferumfang: 1x Columbia Damen Lange Steppjacke mit Kapuze, Heavenly, Farbe: Schwarz, Größe: S, Art. 1738161
 - Innere Sicherheitstasche, um Gegenstände sicher und trocken aufzubewahren, Reißverschluss-Taschen, um Hände warm zu halten oder um Gegenstände zu verstauen
-- Wasserabweisendes Material aus 100 % Polyester, Aktive Passform: Körpernahe Passform mit Fokus auf die Bewegungsfreiheit
+- Komfortbündchen mit Daumenloch, Kapuze und Kragen mit plüschigem Fleece gefüttert zum Schutz vor den Elementen an kühlen, windigen Tagen
 - Lange Kapuzenjacke für Damen, Omni-Heat-Technologie für Wärmereflexion und ein langer Saum, um die Wärme einzuschließen
 
 [🛒 Hier!!]({{< param buyurl >}})

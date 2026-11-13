@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Jacke und Hose: Taschen auf der Vorderseite
-- Jacke und Hose: Bündchen und Saum gerippt
-- Regulär geschnitten; Hose mit mittelhohem Bund
-- Hose: Elastischer Bund mit Kordelzug
-- 100 % Polyester (recycelt)
 - Durchgehender Reißverschluss und Stehkragen
+- Hose: Elastischer Bund mit Kordelzug
+- Regulär geschnitten; Hose mit mittelhohem Bund
+- Jacke und Hose: Bündchen und Saum gerippt
+- Jacke und Hose: Taschen auf der Vorderseite
+- 100 % Polyester (recycelt)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CZPPD34G{{</world>}}

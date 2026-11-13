@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Pneumatisches Hammerwerk mit 2,0 J zum Bohren bis 16 mm Durchmesser und Meißeln in Beton
-- Kompaktes, handliches Design für beeindruckende 4-in-1-Leistung
 - SDS plus-Universalbohrfutter für einen leichten, werkzeuglosen Wechsel von Bohrern und Meißeln
 - Vibration Control und Rotation Control sorgen für eine sicherere Handhabung und geringere Ermüdung
+- Pneumatisches Hammerwerk mit 2,0 J zum Bohren bis 16 mm Durchmesser und Meißeln in Beton
+- Kompaktes, handliches Design für beeindruckende 4-in-1-Leistung
 - Lieferumfang: 1 x Akku PBA 18V 4.0Ah;Ladegerät AL 1830 CV;Tiefenanschlag;Zusatzhandgriff;Tragekoffer
 
 [🛒 Hier!!]({{< param buyurl >}})

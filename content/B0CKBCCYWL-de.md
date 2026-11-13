@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Intensives Aroma durch lange und dunkle Röstung
-- Ganze Bohne: 1.000g hochwertige Kaffeebohnen für frischen Mahlgrad nach Wunsch
-- Barista-Feeling zuhause: Zum Experimentieren mit verschiedenen Zubereitungen geeignet
 - Geeignet für Kaffeevollautomaten und Espressomaschinen
 - Vollmundiger Caffè Crema mit kräftigem Charakter und wenig Säure
+- Barista-Feeling zuhause: Zum Experimentieren mit verschiedenen Zubereitungen geeignet
 - Ideal für Caffè Crema, Espresso, Cappuccino und Latte Macchiato
+- Ganze Bohne: 1.000g hochwertige Kaffeebohnen für frischen Mahlgrad nach Wunsch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CKBCCYWL{{</world>}}

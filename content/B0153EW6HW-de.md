@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der extra feine Genuss zum Teilen und Anbieten
-- Eisenquelle
-- Ohne Fett im Ofen geröstet und mit Salz verfeinert
 - Feine Pistazien in Schale
+- Der extra feine Genuss zum Teilen und Anbieten
+- Ohne Fett im Ofen geröstet und mit Salz verfeinert
+- Eisenquelle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0153EW6HW{{</world>}}

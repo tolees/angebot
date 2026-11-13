@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sicherheitsklingenschärfer - Dieses System verhindert, dass die Klinge vom Körper vom Schärfer getrennt wird. Originelles Design von der F&E-Abteilung von Mailand. Enthält 5 Stück Flieder, 5 Türkis und 5 Stück Rosa.
-- CAPSULE Design, Märchen Sonderserie Der Spitzer hat eine scharfe und stabile Stahlklinge, ideal für alle Arten von Bleistiften.
 - Ersatzradierer erhältlich.
+- CAPSULE Design, Märchen Sonderserie Der Spitzer hat eine scharfe und stabile Stahlklinge, ideal für alle Arten von Bleistiften.
+- Sicherheitsklingenschärfer - Dieses System verhindert, dass die Klinge vom Körper vom Schärfer getrennt wird. Originelles Design von der F&E-Abteilung von Mailand. Enthält 5 Stück Flieder, 5 Türkis und 5 Stück Rosa.
 - Displaybox 16 Kapseln Sonderserie Märchen Kombination aus Radiergummi und Anspitzer mit Tank.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

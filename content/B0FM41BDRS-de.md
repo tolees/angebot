@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BIOQUALITÄT: Pflanzlich und vielseitig
 - SCHNELL: In wenigen Minuten zubereitet
+- BIOQUALITÄT: Pflanzlich und vielseitig
 - KRAFT: Rote Linsen voller Nährstoffe
 
 [🛒 Hier!!]({{< param buyurl >}})

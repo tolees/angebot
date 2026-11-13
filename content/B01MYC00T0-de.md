@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Carhartt label sewn on pocket
 - SLIM FIT, TAPERED LEG; Rugged Flex Denim; Rugged Flex - Eases movement
-- Triple stitched main seams; Stronger sewn-on-seam belt loops
 - Coin pocket in right front pocket; Two reinforced back pockets
+- Triple stitched main seams; Stronger sewn-on-seam belt loops
 - Sits slightly below the waist; Long Trousers; Two front pockets
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

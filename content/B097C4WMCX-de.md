@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kabellose Mobilität für anspruchsvolle Schnitte im ganzen Garten
-- Lieferumfang: UniversalHedgeCut 18V-50, Karton
-- POWER FOR ALL ALLIANCE: 1 AKKU, ​10+ MARKEN, ​150+ GERÄTE.​
-- Leichte und kraftvolle Heckenschere zum Trimmen mittelgroßer Hecken
 - Bosch Anti-Blockier-System für kontinuierliches Schneiden selbst durch dicke Äste
+- Leichte und kraftvolle Heckenschere zum Trimmen mittelgroßer Hecken
+- Lieferumfang: UniversalHedgeCut 18V-50, Karton
+- Kabellose Mobilität für anspruchsvolle Schnitte im ganzen Garten
+- POWER FOR ALL ALLIANCE: 1 AKKU, ​10+ MARKEN, ​150+ GERÄTE.​
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B097C4WMCX{{</world>}}

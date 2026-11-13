@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- KOMPATIBILITÄT: Passend für alle Nilfisk-Hochdruckreiniger, Compact, Dynamic, Core, Excellent und Premium (pro). Bajonett-Kupplung
 - PASSEND FÜR: Das kegelförmige Design des Felgenbürstenkopfes macht ihn perfekt für die Felgen, der Autobürstenkopf eignet sich mit seinen weichen Borsten hervorragend für Lackierungen und der Gartenbürstenkopf hat steifere Borsten, die ideal sind, um hartnäckigen Schmutz von robusteren Oberflächen zu entfernen.
+- KOMPATIBILITÄT: Passend für alle Nilfisk-Hochdruckreiniger, Compact, Dynamic, Core, Excellent und Premium (pro). Bajonett-Kupplung
 - NILFISK STORE: Entdecken Sie weiteres Zubehör in unserem Amazon-Markenshop. Referenznummer 128470459
 - BRUSH KIT: Dieses vielseitige Set enthält die rotierende Multibürste mit drei austauschbaren Bürstenköpfen, die Felgenbürste, die Autobürste und die Gartenbürste.
 - NILFISK: Seit mehr als 100 Jahren entwickelt Nilfisk hochwertige Reinigungslösungen, die durch ständige Innovationen zu langlebigen und hochwirksamen Produkten führen.

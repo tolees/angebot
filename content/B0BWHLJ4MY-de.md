@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Komfortabler Rundhalsausschnitt.
+- Hergestellt aus weichen und langlebigen Materialien.
 - Ideal zum Kombinieren mit Jeans oder Shorts.
 - Vielseitige T-Shirts für jeden Anlass
-- Hergestellt aus weichen und langlebigen Materialien.
+- Komfortabler Rundhalsausschnitt.
 - In verschiedenen Farben und Designs erhältlich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schneller Sichtschutz für den Garten: Leistungsstarker Spezialdünger für Hecken, junge Gehölze, Neuanpflanzungen, schnelle Sofortwirkung für ein zügiges Wachstum in Höhe und Breite
-- Für alle Gehölzarten: Heckendünger kann für alle Arten von Nadelgehölzen wie Tannen, Fichten, Eiben aber auch für immergrüne Gehölze wie Kirschlorbeer, Stechpalme oder Bambus angewendet werden
 - COMPO Heckenturbo für schnelles Wachstum: Abgestimmter Nährstoffmix versorgt Hecken mit wichtigsten Hauptnährstoffen, extra Magnesium sorgt für Blattgrünbildung und vermindert Braunfärbungen
+- Schneller Sichtschutz für den Garten: Leistungsstarker Spezialdünger für Hecken, junge Gehölze, Neuanpflanzungen, schnelle Sofortwirkung für ein zügiges Wachstum in Höhe und Breite
 - Lieferumfang: COMPO Heckenturbo (Spezial-Dünger für Hecken), 4 kg, Art.-Nr.: 22466
+- Für alle Gehölzarten: Heckendünger kann für alle Arten von Nadelgehölzen wie Tannen, Fichten, Eiben aber auch für immergrüne Gehölze wie Kirschlorbeer, Stechpalme oder Bambus angewendet werden
 - Einfache Anwendung: Den Heckendünger von März bis Mitte August gleichmäßig ausbringen, in die Erde einarbeiten und ausreichend bewässern, bei Neupflanzung direkt ins Pflanzloch geben
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

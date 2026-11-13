@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 3D-Bau sorgt für Spannung.
+- Das beliebte Kartenspiel in einer neuen Dimension. Gemeinsam legt ihr eure Plättchen, um die abwechslungsreichen Aufgaben zu erfüllen. Doch der Platz wird schnell knapp.
 - Für 1 bis 4 Spieler, ab 8 Jahren
 - Spieldauer ca 30 Minuten
-- Das beliebte Kartenspiel in einer neuen Dimension. Gemeinsam legt ihr eure Plättchen, um die abwechslungsreichen Aufgaben zu erfüllen. Doch der Platz wird schnell knapp.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0G7ZVT4G9{{</world>}}

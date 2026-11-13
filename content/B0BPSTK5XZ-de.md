@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Knöchellang
 - 3er-Pack
-- 68 % Baumwolle / 29 % recycelter Polyester / 2 % Elastan / 1 % recyceltes Nylon
 - Leicht und dünn
+- 68 % Baumwolle / 29 % recycelter Polyester / 2 % Elastan / 1 % recyceltes Nylon
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BPSTK5XZ{{</world>}}

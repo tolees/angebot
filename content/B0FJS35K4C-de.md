@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erkunde zu Fuß oder mit dem Boot verschiedenste rätselhafte Orte
-- The REANIMAL Deluxe Edition includes the Pre-Order DLC as well as the Season Pass!
 - Monster, bei denen euch der Atem stillsteht, und unvergleichlicher atmosphärischer Horror
-- Die Erschaffer von Little Nightmares erkunden neue Abgründe des Horrors
 - Nobody should be forced to go through hell alone! Fully playable in single player and local & online co-op, REANIMAL has a shared, directed camera, designed to maximise claustrophobia and tension
+- Die Erschaffer von Little Nightmares erkunden neue Abgründe des Horrors
+- The REANIMAL Deluxe Edition includes the Pre-Order DLC as well as the Season Pass!
+- Erkunde zu Fuß oder mit dem Boot verschiedenste rätselhafte Orte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FJS35K4C{{</world>}}

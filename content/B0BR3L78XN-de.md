@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'INIU 240W USB C Kabel [2Stück 2m] PD Schnellladekabel USB C auf USBC Kabel | Nylon Geflochten PD Ladekabel USBC für iPhone 18 17 16 15 Pro Max MacBook Neo Samsung Galaxy S25 S24 Ultra Pixel 10 iPad'
-date: 2026-11-09 04:02:04
+date: 2026-11-13 12:03:28
 image: 'https://m.media-amazon.com/images/I/41r3DXOHFvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0BR3L78XN/?tag=tolees0ca-21'
 descuento: '15.10'
-average: '9.3738888888888958'
+average: '9.3727027027027106'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

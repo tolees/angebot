@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Breathable
 - Hervorragende Dämpfungswirkung, die Schutz bietet und Stöße und Vibrationen absorbiert
 - Leichtes Schuhwerk
+- Breathable
 - Schnell und einfach anzubringen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

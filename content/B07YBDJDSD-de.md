@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Offiziell lizenziert
+- LED Licht
 - Funktionen: Vorwärts / rückwärts / links / rechts / Stopp
 - Bis zu 1 Stunde Fahrzeit bei ca. 11 Km/h
-- Offiziell lizenziert
 - Perfekt nachgebildete Details, detaillierter Innenraum, hochwertige Verarbeitung
-- LED Licht
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07YBDJDSD{{</world>}}

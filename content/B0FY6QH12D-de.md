@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die folgenden Informationen gelten für jede Einheit pro Packung
-- Der Betrieb erfordert die Anbindung an eine der folgenden Lösungen: Homematic IP Access Point mit kostenloser Smartphone-App und gebührenfreiem Cloud-Service; Zentrale CCU3 mit lokaler Bedienoberfläche WebUI (nicht mehr kompatibel mit der Zentrale CCU2); Partnerlösungen von Drittanbietern.
 - Komfortable Konfiguration und Bedienung über die Homematic IP Smartphone-App, Steuerung auch per Alexa oder Google Assistant möglich
+- Ersetzt herkömmliche Thermostate (M30x1. 5, Oventrop, Danfoss) und steuert den Heizkörper nach individuellen Bedürfnissen
+- Der Betrieb erfordert die Anbindung an eine der folgenden Lösungen: Homematic IP Access Point mit kostenloser Smartphone-App und gebührenfreiem Cloud-Service; Zentrale CCU3 mit lokaler Bedienoberfläche WebUI (nicht mehr kompatibel mit der Zentrale CCU2); Partnerlösungen von Drittanbietern.
 - Mit dem Heizkörperthermostat können Sie bis zu 33 % Heizkosten sparen – durch individuelle Temperaturverläufe mit bis zu 13 Änderungen pro Tag in drei einstellbaren Heizprofilen und in Kombination mit der Fenster-auf-Erkennung mit einem Fenster- und Türkontakt
 - Individuelle Temperaturverläufe mit bis zu 13 Änderungen pro Tag in 3 einstellbaren Heizprofilen
-- Ersetzt herkömmliche Thermostate (M30x1. 5, Oventrop, Danfoss) und steuert den Heizkörper nach individuellen Bedürfnissen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FY6QH12D{{</world>}}

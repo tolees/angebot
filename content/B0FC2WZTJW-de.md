@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Erweiterte Version und Klassische Version
 - Taktische Kämpfe
 - Charakterentwicklung und -anpassung
-- Erweiterte Version und Klassische Version
 - Mit vollständig vertonten Dialogen, wunderschön verbesserter Grafik und zahllosen Gameplay-Verbesserungen kehrt das Genre-definierende taktische RPG zurück, auf das man lange gewartet hat.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Passt zu: asiatische Küche und Nachtisch
 - Aromen: traubig, exotische Früchte
 - Herkunft: Deutschland
 - Süßegrad: süß
+- Passt zu: asiatische Küche und Nachtisch
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0F3JWVW9M{{</world>}}

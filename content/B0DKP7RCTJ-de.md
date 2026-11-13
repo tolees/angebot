@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MediaTek Helio G99-Ultra, 6nm Fertigungsprozess-Technologie
 - Corning Gorilla Glass 5
+- MediaTek Helio G99-Ultra, 6nm Fertigungsprozess-Technologie
 - 5500mAh Akku mit 33W TurboCharge
 - 108MP AI-Kamerasystem
 - 120Hz Augenschutzdisplay, Berührungssteuerung mit nassen Fingern

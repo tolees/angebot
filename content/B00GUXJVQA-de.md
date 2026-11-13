@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus wasserdichtem Netzgewebe/Leder
 - Leichte Techlite Zwischensohle
+- Obermaterial aus wasserdichtem Netzgewebe/Leder
 - Abtriebfeste Omni-Grip Gummi-Außensohle für ideale Bodenhaftung
 - Omni-Tech wasserdichte/atmungsaktive Schuhkonstruktion mit versiegelten Nähten
 

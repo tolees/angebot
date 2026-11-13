@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Men/Eau de Toilette
 - Bringt Ihnen einen zusätzlichen Komfort
+- Men/Eau de Toilette
 - Hält kühl und bequem
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

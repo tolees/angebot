@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lightstrike Dämpfung
+- Reguläre Passform
 - Schnürsenkel
 - Futter aus Synthetik und Textil
-- Reguläre Passform
+- Lightstrike Dämpfung
 - Obermaterial aus Textil und Synthetik
 
 [🛒 Hier!!]({{< param buyurl >}})

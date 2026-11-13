@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Erfreue dich an einer aufregenden Mischung aus Action, Erkundung, Anpassung und urkomischem LEGO-Humor
-- Erkunde die beliebte Welt von Horizon und steh den beeindruckenden Maschinen des Spiels von Angesicht zu Angesicht gegenüber
 - Erlebe atemberaubende Kinobilder, gebaut aus lebensechten LEGO-Steinen
+- Erkunde die beliebte Welt von Horizon und steh den beeindruckenden Maschinen des Spiels von Angesicht zu Angesicht gegenüber
 - Erlebe spannende Online- und Couch-Koop-Action mit Freunden & Familie (Online-Spiele erfordern möglicherweise ein kostenpflichtiges Online-Abo)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

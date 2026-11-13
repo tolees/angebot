@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 2 Vordertaschen und 1 Innentasche
-- Einstellbarer Saum
-- 2-Wege-Reißverschluss
 - Innenbündchen
+- 2-Wege-Reißverschluss
+- Einstellbarer Saum
 - Bauschiger Mantel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

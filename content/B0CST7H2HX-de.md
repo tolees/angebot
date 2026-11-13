@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnürbänder
-- Mit Innenfutter
 - Mit tonalem Logo an den Seiten und an den Fersenkappen
+- Mit Innenfutter
+- Schnürbänder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CST7H2HX{{</world>}}

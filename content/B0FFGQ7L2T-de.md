@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'roborock Qrevo Curv 2 Pro Saugroboter mit Wischfunktion&Hebarem Wischmopp'
-date: 2026-08-27 06:50:18
+title: 'roborock Qrevo Curv 2 Pro Saugroboter mit Wischfunktion&Hebarem Wischmopp | 25.000 Pa HyperForce Saugkraft Dual Anti-Tangle-System 100°C Heißwasser-Moppwäsche Reactive Al-Hinderniserkennung Weiß'
+date: 2026-11-13 08:17:06
 image: 'https://m.media-amazon.com/images/I/31DiTELl5RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FFGQ7L2T-de roborock Qrevo Curv 2 Pro Saugroboter mit...'
 sku: 'B0FFGQ7L2T-de'
 tags: [ '🇩🇪', ]
-actualPrice: 699.0 EUR
+actualPrice: 599.0 EUR
 currency: EUR
-price: 699.0
-comparePrice: 899.0 EUR
-prodname: 'roborock Qrevo Curv 2 Pro Saugroboter mit Wischfunktion&Hebarem Wischmopp'
+price: 599.0
+comparePrice: 799.0 EUR
+prodname: 'roborock Qrevo Curv 2 Pro Saugroboter mit Wischfunktion&Hebarem Wischmopp | 25.000 Pa HyperForce Saugkraft Dual Anti-Tangle-System 100°C Heißwasser-Moppwäsche Reactive Al-Hinderniserkennung Weiß'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FFGQ7L2T/?tag=tolees0ca-21'
-descuento: '22.25'
-average: '909.0'
+descuento: '25.03'
+average: '857.33333333333337'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,14 +28,6 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- AdaptiLift Classic: Der roborock Qrevo Curv 2 Pro überwindet mühelos 4 cm hohe Hindernisse wie Schwellen und Möbelfüße. Sein intelligenter AdaptiLift Classic nimmt den Mopp ab und passt die Höhe für Teppiche bis zu 3 cm dynamisch an, wodurch die Teppichreinigung neu definiert wird.
-- Hervorragende Reinigungsleistung: Mit beeindruckender ultrastarker Saugkraft von 25.000 Pa hebt roborock Qrevo Curv 2 Pro mühelos eingebetteten Staub und Schmutz an. Selbst aus dichten, hochflorigen Teppichen.
-- RetractSense Navigationssystem: Mit einer Höhe von nur 7,98 cm nutzt der roborock Qrevo Curv 2 Pro die fortschrittliche RetractSense-Navigation, um den LDS unter Möbeln einzuziehen und dabei eine 100°-Rückansicht für eine präzise Reinigung in engen Räumen zu erhalten. In offenen Bereichen hebt sich der LDS für einen 360°-Scan und eine genaue Kartierung an, um sicherzustellen, dass keine Stelle übersehen wird.
-- Wenn Sie also Fragen haben, können Sie sich an unseren Kundendienst wenden. Hinweis: 2.4-GHz- WLAN für App-Verbindung erforderlich.
-- Ultraflaches Design: Mit einer Höhe von nur 7,98 cm ist er einer der flachsten roborock Saugroboter mit vollständigem LiDAR-System. Das einziehbare LDS ermöglicht ein müheloses Gleiten unter niedrige Möbel, um Stellen zuerreichen, die andere Staubsauger nicht erreichen können - und lässt keinen Staub zurück.
-- Multifunktions-Dockingstation 3.0 Hygiene+：Das abgerundete Dock 3.0 des roborock Qrevo Curv 2 Pro fügt sich nahtlos in jedes Zuhause ein und bietet gleichzeitig eine leistungsstarke Reinigung. Die Einweichschale muss nicht demontiert werden, und die Frischlufttrocknung des Staubbeutels hält Gerüche fern. Mit intelligenter Schmutzerkennung, Selbstreinigung mit 100°C heißem Wasser, bis zu 7 Wochen ohne Entleerung und Nachfüllen von warmem Wasser sorgt er für eine wirklich handfreie Reinigung.
-- Reactive Al-Hinderniserkennung: Mithilfe von strukturiertem Licht und einer RGB-Kamera erkennt der roborock Qrevo Curv 2 Pro über 200 gängige Objekte und weicht ihnen aus - bei Tag und bei Nacht. Mit der VertiBeam-Hindernisvermeidung navigiert er mühelos durch Kabel und unregelmäßige Möbel und reinigt automatisch die Kanten - kein Kabelsalat und keine Überraschungen durch Haustiere mehr.
-- Dreifache Wärmeleistung für ultimative Sauberkeit: Der roborock Qrevo Curv 2 Pro kombiniert 100°C heißes Wasser zum Waschen, 60°C warmes Wischen und 55°C heißes Lufttrocknen. Dieses Dreifach-Temperatursystem bekämpft hartnäckige Flecken wie Saft und Milch und sorgt für makellose und hygienisch saubere Oberflächen - ohne Rückstände, jedes Mal.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FFGQ7L2T{{</world>}}

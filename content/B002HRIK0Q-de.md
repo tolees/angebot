@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verpackung kann variieren, Rezeptur bleibt unverändert.
-- Verleiht Glanz
 - Revitalisiert, entwirrt und verleiht dem Haar Glanz.
 - Pflegt trockenes, sprödes Haar reichhaltig mit tief eindringender Sheabutter und Ölen.
+- Verpackung kann variieren, Rezeptur bleibt unverändert.
+- Verleiht Glanz
 - Verhindert Schäden durch raues Wetter oder Hitzestyling
 - Pflegt, repariert und stärkt das Haar, um Spliss und Haarbruch zu reduzieren.
 

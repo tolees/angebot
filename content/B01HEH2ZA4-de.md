@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Obermaterial: Leder - Wildleder
 - Verschluss: Gummi
 - Sohle: 1
-- Obermaterial: Leder - Wildleder
 - Innenmaterial: Synthetik
 - Absatzform: Flach
 

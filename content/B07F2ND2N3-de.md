@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - SoftFoam+: PUMAs innovative weiche Innensohle für maximalen Laufkomfort vom ersten bis zum letzen Schritt
-- Obermaterial aus Mesh und Kunstleder
 - IMEVA: PUMAs Zwischensohle für leichten und gedämpften Komfort
+- Obermaterial aus Mesh und Kunstleder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07F2ND2N3{{</world>}}

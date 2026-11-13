@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Verpackungsgewicht : 60 g
 - Herkunftsland:- Taiwan
 - Material : Edelstahl
-- Verpackungsgewicht : 60 g
 - Anzahl der Packungen : 1
 
 [🛒 Hier!!]({{< param buyurl >}})

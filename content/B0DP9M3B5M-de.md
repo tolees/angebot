@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leicht und atmungsaktiv
 - Perforierte Sohle mit wasserdichter Membran
+- Leicht und atmungsaktiv
 - Klettverschluss und elastische Schnürsenkel sorgen für einen bequemen und sicheren Passform
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Enthält die Picnic Panic DLC!
+- Dynamisches, akrobatisches Gameplay und eine extrem saubere Steuerung, die eines epischen Ninja-Abenteuers würdig sind.
 - Charakter-Upgrades, neue Fähigkeiten, versteckte Level und verzweigte Lösungswege.
 - Akribisch umgesetzte 8-Bit- und 16-Bit-Grafiken, -Animationen und -Hintergründe zitieren die großen Klassiker des Genres.
-- Dynamisches, akrobatisches Gameplay und eine extrem saubere Steuerung, die eines epischen Ninja-Abenteuers würdig sind.
 - Eine denkwürdige Zusammenstellung ungewöhnlicher Schurken, Endgegner und Verbündeter.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

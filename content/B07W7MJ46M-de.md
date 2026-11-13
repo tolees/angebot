@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G502 X PLUS LIGHTSPEED Kabellose RGB-Gaming-Maus | Optische Maus LIGHTFORCE Hybridschalter LIGHTSYNC RGB HERO 25K Sensor PC/macOS/Windows - Schwarz'
-date: 2026-11-06 10:02:49
+date: 2026-11-13 07:03:25
 image: 'https://m.media-amazon.com/images/I/313vjNMPw3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W7MJ46M/?tag=tolees0ca-21'
 descuento: '38.16'
-average: '92.348181818181828'
+average: '92.382500000000022'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

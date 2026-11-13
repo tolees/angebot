@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- mit Umschalthebel
-- vier verschiedene Schlüsselweiten
-- gerade Form
-- FlankTraction-Profil
 - exakt verzahnt mit 72 Zähnen
+- FlankTraction-Profil
+- mit Umschalthebel
+- gerade Form
+- vier verschiedene Schlüsselweiten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B005XW8AMU{{</world>}}

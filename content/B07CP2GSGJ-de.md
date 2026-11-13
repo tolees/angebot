@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die hochwertige Wachsmischung sorgt für ein schönes Abbrennen ohne unordentliche Rückstände.
 - Jeder Duft wird sorgfältig ausgewählt und getestet, um sicherzustellen, dass diese Kerze den Raum mit ihrem langanhaltenden Aroma erfüllt.
 - Das Sanduhr-Design aus Glas sorgt für eine breitere Öffnung, sodass sich ein vollständig geschmolzener Wachspool bildet, der ein gleichmäßigeres Dufterlebnis ermöglicht.
+- Die hochwertige Wachsmischung sorgt für ein schönes Abbrennen ohne unordentliche Rückstände.
 - Die absolut köstliche Süße von vollreifen, aromatischen schwarzen Kirschen
 - Das patentierte Holzdocht-Design der Pluswick Innovation Kerzen knistert beim Abbrennen und sorgt so für ein anspruchsvolles Kaminfeuer-Ambiente.
 

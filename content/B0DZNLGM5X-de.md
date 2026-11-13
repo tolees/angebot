@@ -29,15 +29,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die Trauben werden sorgfältig nach Kriterien ausgewählt, die von einem Team von Önologen festgelegt wurden, um die Qualität der François Montand-Weine zu gewährleisten
-- Intensive Nase von weißen Blüten, Zitrusfrüchten; ziemlich cremig und geschmeidig im Mund, schöne aromatische Persistenz
-- Als Aperitif gekühlt servieren; er passt auch hervorragend zu Ceviche, einem schönen Salat oder weißem Fisch oder einfach als Begleitung zu einem Dessert
-- Die Qualität unserer Sekte beruht vor allem auf der geduldigen, ganzjährigen Arbeit unserer Winzer in den Weinbergen des Jura
-- Die Weine werden immer unter strikter Einhaltung der traditionellen Methode hergestellt
-- Die folgenden Informationen gelten für jede Einheit pro Packung
 - Die Weine werden immer unter strikter Einhaltung der traditionellen Methode hergestellt
 - Die Trauben werden sorgfältig nach Kriterien ausgewählt, die von einem Team von Önologen festgelegt wurden, um die Qualität der François Montand-Weine zu gewährleisten
-- Die Qualität unserer Sekte beruht vor allem auf der geduldigen, ganzjährigen Arbeit unserer Winzer in den Weinbergen des Jura
+- Als Aperitif gekühlt servieren; er passt auch hervorragend zu Ceviche, einem schönen Salat oder weißem Fisch oder einfach als Begleitung zu einem Dessert
+- Intensive Nase von weißen Blüten, Zitrusfrüchten; ziemlich cremig und geschmeidig im Mund, schöne aromatische Persistenz
+- Die Weine werden immer unter strikter Einhaltung der traditionellen Methode hergestellt
 - Les informations ci-dessous sappliquent à chaque unité du pack
+- Die Qualität unserer Sekte beruht vor allem auf der geduldigen, ganzjährigen Arbeit unserer Winzer in den Weinbergen des Jura
+- Die folgenden Informationen gelten für jede Einheit pro Packung
+- Die Qualität unserer Sekte beruht vor allem auf der geduldigen, ganzjährigen Arbeit unserer Winzer in den Weinbergen des Jura
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DZNLGM5X{{</world>}}

@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - DVD
 - Deutsch, Japanisch
-- 1150
 - Junichi Sato; Kunihiko Ikuhara
+- 1150
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B087H8WXQ5{{</world>}}

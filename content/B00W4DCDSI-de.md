@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zuverlässig konstante Wassertemperatur dank Grohe TurboStat Technologie
 - Pflegeleicht durch langlebige Grohe StarLight Chrombeschichtung
 - Grohe EcoJoy: Sparfunktion für reduzierten Wasserverbrauch
+- Zuverlässig konstante Wassertemperatur dank Grohe TurboStat Technologie
 - EcoButton – mit dieser Spartaste einfach und individuell bis zu 50 % Wasser sparen
 - SafeStop Plus – doppelt geschützt vor zu heißem Wasser
 

@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - 2x100, 2x150 Teile Kinderpuzzle
 - Bibi und Tina, 4 Kinderpuzzle im Metallkoffer
+- 2x100, 2x150 Teile Kinderpuzzle
 - Bibi & Tina, 4 Kinderpuzzle im Metallkoffer
 - Empfohlenes Alter: ab 6 Jahren
-- 2x100, 2x150 Teile Kinderpuzzle
 - Empfohlenes Alter: ab 6 Jahren
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -31,8 +31,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - Modernste LED Technik: Extrem lange Lebensdauer von bis zu 15 Jahren
 - Geringer Energieverbrauch: Bis zu 90% Energieeinsparung im Vergleich zu herkömmlichen Leuchtmitteln
 - Produkt mit EyeComfort Siegel: Philips LED-Lampen bieten komfortables Licht, das Ihre Augen schont
-- Highlights setzen: Durch den Abstrahlwinkel können Sie ganze Räume oder Akzente beleuchten
 - Philips LED Classic: Genießen Sie warmweißes Licht (2.700 K) wie bei herkömmlichen Glühlampen/ Halogenlampen
+- Highlights setzen: Durch den Abstrahlwinkel können Sie ganze Räume oder Akzente beleuchten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01KHILJ5O{{</world>}}

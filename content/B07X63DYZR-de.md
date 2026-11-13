@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Karakul
 - Anasickmodular
-- Requiem For CS70 And Strings
 - Falaise
+- Karakul
+- Requiem For CS70 And Strings
 - Last Bloom
 
 [🛒 Hier!!]({{< param buyurl >}})

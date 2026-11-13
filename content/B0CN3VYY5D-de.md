@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Lieferumfang: 1 x Columbia Fleece-Pullover Herren, Mit Reißverschluss über die halbe Länge, Klamath Range II, Farbe: Blau (Dark Mountain, Collegiate Navy), Größe: L, Art.: 1352472
 - Fleece-Pullover für Herren, Ideal für Wanderungen, Trailrunning oder andere Outdoor-Aktivitäten, Tragbar auch als Zwischenlage an kalten Wintertagen, Active Fit
 - Zusätzlicher Schutz vor Wind und Kälte durch hohen Kragen und Reißverschluss über die halbe Länge
 - Besonders warm und kuschelig dank hochwertigem Fleece-Material
-- Lieferumfang: 1 x Columbia Fleece-Pullover Herren, Mit Reißverschluss über die halbe Länge, Klamath Range II, Farbe: Blau (Dark Mountain, Collegiate Navy), Größe: L, Art.: 1352472
 - Funktionaler Charakter und Wärme in Verbindung mit anderen Columbia-Produkten
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit modernen Soft-Griffen und Anschnallgurt
 - Der Schiebegriff des Puppenwagens ist 57 cm hoch
+- Mit modernen Soft-Griffen und Anschnallgurt
 - Flach und einfach zusammenklappbar
 - Geeignet für Puppen bis zu einer Größe von 52 cm
 - Attraktiver Puppenbuggy für die jüngsten Puppenmuttis

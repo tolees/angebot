@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Rieker 03354
-- Qualitativ hochwertige Materialien
 - Rieker
-- Warm
 - Gute Qualität
+- Qualitativ hochwertige Materialien
 - Passend für den Winter
+- Warm
 - Kombinierbar zu vielen Outfits
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

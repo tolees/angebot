@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lehmsohle für Halt auf rotem Lehm
-- Seitliche Abstützung zur Stabilisierung
 - Ideal für regelmäßige Spieler
 - Strapazierfähiges und atmungsaktives Obermaterial
+- Lehmsohle für Halt auf rotem Lehm
+- Seitliche Abstützung zur Stabilisierung
 - Lehmsohle für Halt auf rotem Lehm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

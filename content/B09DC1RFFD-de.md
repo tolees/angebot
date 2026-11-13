@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Manschetten : Gerippte Ärmelbündchen
 - Taschen : Vordertaschen mit Knopfverschluss
 - Länge, Größe : Lang
+- Manschetten : Gerippte Ärmelbündchen
 - Verschluss : Knopfleiste, Reißverschluss
 - Futter : Futter aus Polyester für ein angenehmes Tragegefühl
 

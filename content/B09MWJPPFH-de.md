@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Hoher Tragekomfort
 - Kurzarm
 - Absolute Bewegungsfreiheit
-- Hoher Tragekomfort
 - Normale Passform
 - Maximaler Komfort
 

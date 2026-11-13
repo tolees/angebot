@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Accessoire image & son
 - MANFROTTO
+- Accessoire image & son
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0023RRPDI{{</world>}}

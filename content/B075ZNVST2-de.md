@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Kugelverschluss. Farbe: schwarz
+- Ausführung des Inhalts mit Packung: 1 Runddose mit 100 Standard-Tintenpatronen mit Kugelverschluss
 - Typbezeichnung der Tintenpatrone: Standardformat
 - Schwarze Tintenpatrone Standard für Füllhalter. Nicht löschbar
-- Ausführung des Inhalts mit Packung: 1 Runddose mit 100 Standard-Tintenpatronen mit Kugelverschluss
+- Mit Kugelverschluss. Farbe: schwarz
 - Verwendung für Produkt: passend für Schneider und viele andere Füllhalter und Patronenroller
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

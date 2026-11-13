@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Hinterlässt keine Rückstände
-- Packung die Größe: 4.2 L x 6.8 H x 6.6 W (cm)
 - Für mattes Finish
 - Starker Halt
+- Packung die Größe: 4.2 L x 6.8 H x 6.6 W (cm)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07D5HT9SQ{{</world>}}

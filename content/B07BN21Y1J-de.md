@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Doppelt genähtes Obermaterial für Strapazierfähigkeit
 - Seitenstreifen Logo
+- Doppelt genähtes Obermaterial für Strapazierfähigkeit
 - Waffel Laufsohle
 - Vulkanisierte Konstruktion
 

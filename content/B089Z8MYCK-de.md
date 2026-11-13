@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Taschen in den Seitennähten
-- BCI: Mit dem Kauf von Baumwollprodukten von PUMA unterstützt du einen nachhaltigen Baumwollanbau. Mehr unter bettercotton.org/massbalance
 - Gerippter Bund mit innenliegendem Zugband für individuellen Komfort
+- BCI: Mit dem Kauf von Baumwollprodukten von PUMA unterstützt du einen nachhaltigen Baumwollanbau. Mehr unter bettercotton.org/massbalance
 - Normale Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

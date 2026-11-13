@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Stromabnehmer lassen sich heben und senken.
 - Mit eingebautem modernen Märklin mfx Digital Decoder.
+- Die Stromabnehmer lassen sich heben und senken.
 - Lokomotive mit Licht.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

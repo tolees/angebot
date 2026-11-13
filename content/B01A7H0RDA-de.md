@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Agent 13
 - Yes
+- Agent 13
 - POP! Vinylfigur
 - Marvel: Captain America CW
 

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Textil
-- Obermaterial: Textil
 - Absatzform: Flach
+- Obermaterial: Textil
+- Innenmaterial: Textil
 - Sohle: Textil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
