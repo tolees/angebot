@@ -1,0 +1,34 @@
+---
+layout: post
+title: 'Columbia Herren-Wanderschuhe WOODBURN II WATERPROOF'
+date: 2026-01-21 14:19:58
+image: 'https://m.media-amazon.com/images/I/31tRUdx7JHL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CN3TKTLL-de Columbia Herren-Wanderschuhe WOODBURN II WATERPROOF'
+sku: 'B0CN3TKTLL-de'
+tags: [ '5c70cae9-f332-4ebd-823a-ff43ae7c92ea_0','5c70cae9-f332-4ebd-823a-ff43ae7c92ea_190402','5c70cae9-f332-4ebd-823a-ff43ae7c92ea_19602','5c70cae9-f332-4ebd-823a-ff43ae7c92ea_2201','5c70cae9-f332-4ebd-823a-ff43ae7c92ea_242202','5c70cae9-f332-4ebd-823a-ff43ae7c92ea_401','5c70cae9-f332-4ebd-823a-ff43ae7c92ea_5201','5c70cae9-f332-4ebd-823a-ff43ae7c92ea_525802','5c70cae9-f332-4ebd-823a-ff43ae7c92ea_5701','5c70cae9-f332-4ebd-823a-ff43ae7c92ea_5801','5c70cae9-f332-4ebd-823a-ff43ae7c92ea_915202','5c70cae9-f332-4ebd-823a-ff43ae7c92ea_925702','5c70cae9-f332-4ebd-823a-ff43ae7c92ea_9601','Arborist Merchandising Root','Fashion','Herren Sneaker','Herren Wanderschuhe','Herrenmode','Herrenschuhe','Hiking Shoes from Columbia','Perfomance-Sneaker','Self Service','Sneaker','Sneaker & Sportschuhe für Herren','Special Features Stores','Sport- & Outdoorschuhe für Herren','Trekking- & Wanderschuhe für Herren','Wanderausrüstung für Herren','columbia','🇩🇪', ]
+actualPrice: 65.0 EUR
+currency: EUR
+price: 65.0
+comparePrice: 100.0 EUR
+prodname: 'Columbia Herren-Wanderschuhe WOODBURN II WATERPROOF'
+country: 'de'
+flag: '🇩🇪'
+brand: 'Columbia'
+buyurl: 'https://www.amazon.de/dp/B0CN3TKTLL/?tag=tolees0ca-21'
+descuento: '35.00'
+average: '65.0'
+---
+
+Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Smooth leather
+
+[🛒 Hier!!]({{< param buyurl >}})
+{{<world>}}B0CN3TKTLL{{</world>}}

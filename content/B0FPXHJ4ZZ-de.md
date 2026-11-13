@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'LEGO Minecraft Erstes Abenteuer in der Nacht 21593 | Interaktives Spielzeug ab 8 Jahren Jungen & Mädchen 7 Figuren inkl. Alex Skelett & Waldwolf Gaming-Geschenk 301 Teile'
+date: 2026-11-12 11:46:12
+image: 'https://m.media-amazon.com/images/I/51taqf8ydnL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FPXHJ4ZZ-de LEGO Minecraft Erstes Abenteuer in der Nacht 21593 |...'
+sku: 'B0FPXHJ4ZZ-de'
+tags: [ '🇩🇪', ]
+actualPrice: 18.49 EUR
+currency: EUR
+price: 18.49
+comparePrice: 29.99 EUR
+prodname: 'LEGO Minecraft Erstes Abenteuer in der Nacht 21593 | Interaktives Spielzeug ab 8 Jahren Jungen & Mädchen 7 Figuren inkl. Alex Skelett & Waldwolf Gaming-Geschenk 301 Teile'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B0FPXHJ4ZZ/?tag=tolees0ca-21'
+descuento: '38.35'
+average: '19.950869565217325'
+---
+
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 kauf es hier!!]({{< param buyurl >}})
+{{<world>}}B0FPXHJ4ZZ{{</world>}}
