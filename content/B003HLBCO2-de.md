@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Der seidige Moisturizer vereint maximale Pflege, intensive Feuchtigkeit und einen belebenden Geruch – die natürlichen Inhaltsstoffe sorgen in Kombination mit dem erfrischenden Grüntee-Extrakt für ein gepflegtes, streichelzartes Hautbild und einen angenehm vitalisierenden Duft, den ganzen Tag über
 - Die fruchtigen Kopfnoten werden durch würzige Herznoten komplettiert und von intensiven Basisnoten abgerundet
-- Tragen Sie die Lotion nach dem Duschen oder Baden auf die leicht feuchte Haut auf
-- Tragen Sie die Lotion auf Ihre trockene Haut auf und massieren Sie sie gründlich ein, Augenkontakt vermeiden
 - Die fruchtigen Kopfnoten werden durch würzige Herznoten komplettiert und von intensiven Basisnoten abgerundet
+- Tragen Sie die Lotion auf Ihre trockene Haut auf und massieren Sie sie gründlich ein, Augenkontakt vermeiden
+- Tragen Sie die Lotion nach dem Duschen oder Baden auf die leicht feuchte Haut auf
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B003HLBCO2{{</world>}}

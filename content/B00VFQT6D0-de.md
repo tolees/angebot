@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ultraleicht und mit starken, komfortablen Komponenten ausgestattet. Bodenfach mit Gurten und einer Seitentasche mit Reißverschluss
 - Schlagabsorbierendes Design mit besonders widerstandsfähigen Ecken
+- Ultraleicht und mit starken, komfortablen Komponenten ausgestattet. Bodenfach mit Gurten und einer Seitentasche mit Reißverschluss
 - Hergestellt aus dem Material Curv: extrem stark, unglaublich leicht.
 - Begrenzte 10 jährige globale Garantie
 - Made in Europe

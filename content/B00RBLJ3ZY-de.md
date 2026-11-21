@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - rostfreier Stahl, mattiert
+- gehärtete Anreißkante
 - Feststellschraube
 - flache, stabile Ausführung
-- gehärtete Anreißkante
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00RBLJ3ZY{{</world>}}

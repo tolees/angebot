@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars SMART Play: AT-ST Angriff auf Endor 75424 | SMART Brick nicht enthalten kompatibles Set 2 Tags Wicket Minifigur Geschenk für Jungen & Mädchen ab 8 Jahren 347 Teile'
-date: 2026-11-19 19:29:53
+date: 2026-11-20 22:28:10
 image: 'https://m.media-amazon.com/images/I/51IHRJBVfXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPYB5C2J/?tag=tolees0ca-21'
 descuento: '34.01'
-average: '33.952467532467779'
+average: '33.928101265823024'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

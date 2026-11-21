@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Verstärkter Zehenbereich
+- Obermaterial aus Leder
 - Schnürsenkel
 - Reguläre Passform
 - Textilfutter
-- Verstärkter Zehenbereich
-- Obermaterial aus Leder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CKXYPD11{{</world>}}

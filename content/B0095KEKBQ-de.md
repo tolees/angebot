@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: T-Griff-Schlüssel Innensechskant 2 x 90 mm | 2,5 x 100 mm |3 x 115 mm | 4 x 120 mm | 5 x 140 mm | 6 x 160 mm | 8 x 175 mm | 10 x 200 mm
-- Metallhalter mit Befestigungsbohrungen
-- gefertigt aus Chrom-Vanadium-Stahl
 - 2-seitig verwendbar, kurzer und langer Schaft
+- Lieferumfang: T-Griff-Schlüssel Innensechskant 2 x 90 mm | 2,5 x 100 mm |3 x 115 mm | 4 x 120 mm | 5 x 140 mm | 6 x 160 mm | 8 x 175 mm | 10 x 200 mm
+- gefertigt aus Chrom-Vanadium-Stahl
+- Metallhalter mit Befestigungsbohrungen
 - ergonomischer Griff
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schneller Spieleinstieg und kindgerechte Illustration
-- Stabile Karten, extra für Kinderhände
 - Alle spielen gleichzeitig
 - Ab 4 Jahren
 - Einfaches Spiel für Spielanfänger
+- Schneller Spieleinstieg und kindgerechte Illustration
+- Stabile Karten, extra für Kinderhände
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07MK569FX{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago Coles Action-Mech und Drachen-Zane 71854 | Spielzeug ab 7 Jahren Jungen & Mädchen Modellbau mit Actionfigur 3 Minifiguren & Schwertern Geschenk 364 Teile'
-date: 2026-11-19 11:41:52
+date: 2026-11-20 17:32:29
 image: 'https://m.media-amazon.com/images/I/51s3rrQXhwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXG2DNH/?tag=tolees0ca-21'
 descuento: '40.01'
-average: '18.884100000000114'
+average: '18.875247524752588'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

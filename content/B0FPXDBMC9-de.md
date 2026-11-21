@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Belagerung von Mandalore Battle Pack 75449 | Spielzeug ab 6 Jahren Jungen & Mädchen 2 Mandalorianer & 2 Klontruppler Minifiguren mehr Zubehör Geschenk 116 Teile'
-date: 2026-11-19 11:37:45
+date: 2026-11-20 17:30:25
 image: 'https://m.media-amazon.com/images/I/517hdatTDRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDBMC9/?tag=tolees0ca-21'
 descuento: '35.02'
-average: '13.023793103448094'
+average: '13.023504273504093'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

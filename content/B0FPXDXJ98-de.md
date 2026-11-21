@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Flughafenlöschfahrzeug 60499 | Spielzeug ab 7 Jahren Jungen & Mädchen Modellbau mit 4 Feuerwehr Minifiguren Einsatzfahrzeug Geschenk 691 Teile'
-date: 2026-11-19 00:17:59
+date: 2026-11-20 17:32:41
 image: 'https://m.media-amazon.com/images/I/51ujabZACVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDXJ98/?tag=tolees0ca-21'
 descuento: '41.43'
-average: '45.624390243902404'
+average: '45.579613526570014'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

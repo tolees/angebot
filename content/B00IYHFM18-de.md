@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1x Villeroy & Boch Artesano Original Holzdeckel (24 cm), Material: Holz, Farbe: Braun
 - Lieferumfang: 1x Villeroy and Boch Artesano Original Holzdeckel (24 cm), Material: Holz, Farbe: Braun
+- Lieferumfang: 1x Villeroy & Boch Artesano Original Holzdeckel (24 cm), Material: Holz, Farbe: Braun
 - Hochwertige Qualität: Natürliches Holz, Zum Reinigen mit lauwarmem Wasser und mildem Spülmittel abwaschen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

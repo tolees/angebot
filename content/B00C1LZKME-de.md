@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Compatible Devices: Nex, Slt, Cyber-Shot, Handycam
-- Packungage die Größe: 5.3 L X 20.1 H X 11.0 W (Centimeters)
 - Farbe: Schwarz
+- Compatible Devices: Nex, Slt, Cyber-Shot, Handycam
 - Lieferumfang:Kabel-Fernbedienung, Multi-Terminal
+- Packungage die Größe: 5.3 L X 20.1 H X 11.0 W (Centimeters)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00C1LZKME{{</world>}}

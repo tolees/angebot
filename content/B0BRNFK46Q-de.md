@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Vegan & tierversuchsfrei – Ohne tierische Inhaltsstoffe und ohne Tierversuche hergestellt.
-- Für empfindliche Augen geeignet – Hypoallergen, parfümfrei und ideal für Kontaktlinsenträgerinnen.
-- Schimmerndes Metallic-Finish – Intensiver Farbeffekt mit metallischem Glanz für ausdrucksstarke Augenlooks.
 - Wasserfest & langanhaltend – Hält zuverlässig den ganzen Tag, ohne zu verschmieren oder zu verblassen.
+- Schimmerndes Metallic-Finish – Intensiver Farbeffekt mit metallischem Glanz für ausdrucksstarke Augenlooks.
 - Präzise Spitze für einfaches Auftragen – Ermöglicht feine Linien ebenso wie intensivere Looks.
+- Für empfindliche Augen geeignet – Hypoallergen, parfümfrei und ideal für Kontaktlinsenträgerinnen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BRNFK46Q{{</world>}}

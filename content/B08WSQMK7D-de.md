@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geröstet und abgepackt in Belgien
 - Rainforest Alliance-zertifiziert. Weitere Informationen finden Sie unter ra.org
+- Geeignet für alle Zubereitungsarten, je nach Mahlgrad. Espressomaschine = Feiner Mahlgrad, Filterkaffeemaschine = Mittlerer Mahlgrad, Espressokanne = Mittlerer Mahlgrad, Kaffeepresse= Grober Mahlgrad
+- Geröstet und abgepackt in Belgien
+- Unter Schutzatmosphäre verpackt
+- Für eine vegetarische und vegane Ernährung geeignet
 - Intensität 3/5 - Medium
 - Mittlere Röstung, mittlere Farbe
-- Geeignet für alle Zubereitungsarten, je nach Mahlgrad. Espressomaschine = Feiner Mahlgrad, Filterkaffeemaschine = Mittlerer Mahlgrad, Espressokanne = Mittlerer Mahlgrad, Kaffeepresse= Grober Mahlgrad
-- Für eine vegetarische und vegane Ernährung geeignet
-- Unter Schutzatmosphäre verpackt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08WSQMK7D{{</world>}}

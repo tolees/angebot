@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gefertigt wurde der Kugelschreiber aus Edelstahl
-- Die Schriftfarbe des Schreiber ist Blau und die Strichstärke M
-- Der Kugelschreiber wird durch Druckmechanik betätigt
-- Moderner Kugelschreiber Jotter Originals navyblau der Marke Parker
 - Die G2 Großraummine (Parker Style) lässt sich bei Bedarf auswechseln
+- Moderner Kugelschreiber Jotter Originals navyblau der Marke Parker
+- Gefertigt wurde der Kugelschreiber aus Edelstahl
+- Der Kugelschreiber wird durch Druckmechanik betätigt
+- Die Schriftfarbe des Schreiber ist Blau und die Strichstärke M
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09BPX2XKM{{</world>}}

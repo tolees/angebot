@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Marvel Miles Morales Mech vs. Spider-Man 2099 76337 | Superhelden Spielzeug ab 6 Jahren Jungen & Mädchen Actionfigur 2 Minifiguren Razor-Web & Power-Blast Geschenk 135 Teile'
-date: 2026-11-19 19:36:23
+date: 2026-11-20 22:22:53
 image: 'https://m.media-amazon.com/images/I/51rS90+++iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGZQ1Y/?tag=tolees0ca-21'
 descuento: '33.36'
-average: '10.101153846153922'
+average: '10.09703703703711'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

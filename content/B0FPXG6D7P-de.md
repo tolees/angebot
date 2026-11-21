@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Mini-Biome 21589 | Spielzeug ab 12 Jahren für Jugendliche DIY Deko Set 3D Puzzle mit 5 Mikrofiguren Gaming Geschenk zum Sammeln 797 Teile'
-date: 2026-11-12 11:28:07
+date: 2026-11-21 02:54:00
 image: 'https://m.media-amazon.com/images/I/41D4fXXWsUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXG6D7P-de LEGO Minecraft Mini-Biome 21589 | Spielzeug ab 12 Jahren...'
 sku: 'B0FPXG6D7P-de'
 tags: [ '🇩🇪', ]
-actualPrice: 38.99 EUR
+actualPrice: 37.99 EUR
 currency: EUR
-price: 38.99
+price: 37.99
 comparePrice: 59.99 EUR
 prodname: 'LEGO Minecraft Mini-Biome 21589 | Spielzeug ab 12 Jahren für Jugendliche DIY Deko Set 3D Puzzle mit 5 Mikrofiguren Gaming Geschenk zum Sammeln 797 Teile'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXG6D7P/?tag=tolees0ca-21'
-descuento: '35.01'
-average: '40.212222222222238'
+descuento: '36.67'
+average: '39.866046511627921'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Scangeschwindigkeit von bis zu 40x Seiten (80x Bilder) pro Minute; Automatischer 80x Blatt Vorlageneinzug für mehrseitiges Scannen
 - Herstellergarantie: 3 Jahre Vor-Ort. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
-- USB-Host, USB 3.0 Super-Speed-, LAN und WLAN-Schnittstellen; Anschluss für NFC-Kartenleser zur Authentifizierung
 - 10,9 cm Touchscreen Farbdisplay mit 56 anpassbaren Favoriten
 - Inklusive professionellem Software-Paket, z.B. Kofax Power PDF
+- USB-Host, USB 3.0 Super-Speed-, LAN und WLAN-Schnittstellen; Anschluss für NFC-Kartenleser zur Authentifizierung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09VH6HSL5{{</world>}}

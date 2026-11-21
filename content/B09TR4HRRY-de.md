@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Integrierter Netzwerk-Anschluss: Ein Gigabit-LAN-Anschluss für stationäre Geräte wie bspw. Receiver, Smart-TV oder Spielekonsole.
-- Für alle Geräte: Ob Smartphone, Tablet oder Smart-TV – der devolo WiFi Repeater arbeitet mit allen WLAN-Geräten und Internet-Routern zusammen.
-- Lieferumfang: 1x devolo WiFi 6 Repeater 3000, 1x Installationsanleitung, 1x Webcam-Linsenschutz oder Reinigungstuch
 - Mehr WLAN-Reichweite: Erhöhen Sie einfach und schnell die Reichweite Ihres bestehenden WLANs in Ihrem Zuhause oder im Home-Office – mit bis zu 3000 Mbit/s!
+- Lieferumfang: 1x devolo WiFi 6 Repeater 3000, 1x Installationsanleitung, 1x Webcam-Linsenschutz oder Reinigungstuch
+- Für alle Geräte: Ob Smartphone, Tablet oder Smart-TV – der devolo WiFi Repeater arbeitet mit allen WLAN-Geräten und Internet-Routern zusammen.
 - Konfiguration auf Knopfdruck: Dank WPS-Funktion müssen Sie nur eine Taste auf Ihrem Router und dem WLAN-Repeater drücken – und alles ist eingerichtet.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- winddicht
 - 2-lagige Stoffkonstruktion
-- Wasserdicht
 - atmungsaktiv
+- winddicht
+- Wasserdicht
 - Schnelltrocknend
 
 [🛒 Hier!!]({{< param buyurl >}})

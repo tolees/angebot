@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flex Lite stoßdämpfende Zwischensohle
-- Maschinenwaschbar
 - 1,27 cm Absatz
+- Maschinenwaschbar
+- Flex Lite stoßdämpfende Zwischensohle
 - Super flexible Traktions-Laufsohle
 - Engineered mesh upper with lace-up front
 

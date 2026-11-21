@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'roba Kombi-Hochstuhl Hochstuhl mit Essbrett wandelbar zu Tisch & Stuhl Kinderhochstuhl Holz natur Sitz gepolstert Folie ‚Little Stars‘ 7512F190'
-date: 2026-10-30 10:02:00
+date: 2026-11-21 04:29:13
 image: 'https://m.media-amazon.com/images/I/31nV28TvvnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B077T1WLN8-de roba Kombi-Hochstuhl Hochstuhl mit Essbrett wandelbar zu...'
 sku: 'B077T1WLN8-de'
 tags: [ '🇩🇪', ]
-actualPrice: 56.99 EUR
+actualPrice: 52.09 EUR
 currency: EUR
-price: 56.99
+price: 52.09
 comparePrice: 79.9 EUR
 prodname: 'roba Kombi-Hochstuhl Hochstuhl mit Essbrett wandelbar zu Tisch & Stuhl Kinderhochstuhl Holz natur Sitz gepolstert Folie ‚Little Stars‘ 7512F190'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B077T1WLN8/?tag=tolees0ca-21'
-descuento: '28.67'
-average: '56.725'
+descuento: '34.81'
+average: '55.798'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

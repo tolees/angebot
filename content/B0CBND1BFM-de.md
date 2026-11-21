@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'JACK & JONES Jjebradley Sweat Zip Hood Noos Pls - Plus Size'
-date: 2026-10-22 02:02:24
-image: 'https://m.media-amazon.com/images/I/31YRS6AqBfL._SL500_._SL400_.jpg'
+title: 'JACK & JONES Jorbradley Sweat Zip Hood Noos Pls - Plus Size'
+date: 2026-11-21 02:27:40
+image: 'https://m.media-amazon.com/images/I/31QHXOloQaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0CBND1BFM-de JACK & JONES Jjebradley Sweat Zip Hood Noos Pls - Plus Size'
+slug: 'B0CBND1BFM-de JACK & JONES Jorbradley Sweat Zip Hood Noos Pls - Plus Size'
 sku: 'B0CBND1BFM-de'
 tags: [ '🇩🇪', ]
-actualPrice: 29.9 EUR
+actualPrice: 19.53 EUR
 currency: EUR
-price: 29.9
+price: 19.53
 comparePrice: 39.99 EUR
-prodname: 'JACK & JONES Jjebradley Sweat Zip Hood Noos Pls - Plus Size'
+prodname: 'JACK & JONES Jorbradley Sweat Zip Hood Noos Pls - Plus Size'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0CBND1BFM/?tag=tolees0ca-21'
-descuento: '25.23'
-average: '25.1716666666667'
+descuento: '51.16'
+average: '24.365714285714315'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

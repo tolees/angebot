@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EVA-Zwischensohle
 - Gummilaufsohle
+- EVA-Zwischensohle
 - Archiv
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago Showdown am Baumhaus mit dem Ninja-Bike 71857 | Spielzeug ab 7 Jahren Jungen & Mädchen mit Motorrad-Modell Hubschrauber 6 Minifiguren & Schwertern Geschenk 642 Teile'
-date: 2026-11-19 00:16:28
+date: 2026-11-20 17:25:25
 image: 'https://m.media-amazon.com/images/I/51Ar0g94aVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPVT6L4X/?tag=tolees0ca-21'
 descuento: '38.75'
-average: '52.118888888888918'
+average: '52.007142857142881'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

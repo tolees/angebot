@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Taschen auf der Vorderseite
-- 55 % Baumwolle / 36 % Polyester (recycelt) / 9 % Viskose
-- Rippbündchen
 - Regulär geschnitten
-- Besteht zu mindestens 70 % aus recycelten und erneuerbaren Materialien
 - Durchgehender Reißverschluss; Kapuze mit weitenregulierbarem Kordelzug
+- 55 % Baumwolle / 36 % Polyester (recycelt) / 9 % Viskose
+- Taschen auf der Vorderseite
+- Rippbündchen
+- Besteht zu mindestens 70 % aus recycelten und erneuerbaren Materialien
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CZP7S4X4{{</world>}}

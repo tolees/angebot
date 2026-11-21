@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2 x 1000 ml NACHFÜLLPACK: 70 % weniger Verpackung als bei Flaschen
-- DERMATOLOGISCH GETESTET: Für jeden Hauttyp geeignet
 - HYGIENE: Hygienische Handseife
-- REZEPTUR MIT PFLEGENDER FEUCHTIGKEIT: Schützt die Haut vor exzessiver Trockenheit, sodass sich die Hände genährt und weich anfühlen
+- 2 x 1000 ml NACHFÜLLPACK: 70 % weniger Verpackung als bei Flaschen
 - ANWENDUNGSHINWEISE: Gib ein wenig Seife auf die nassen Hände, schäume sie auf und spüle sie gründlich ab.
+- REZEPTUR MIT PFLEGENDER FEUCHTIGKEIT: Schützt die Haut vor exzessiver Trockenheit, sodass sich die Hände genährt und weich anfühlen
+- DERMATOLOGISCH GETESTET: Für jeden Hauttyp geeignet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CS6CC4VY{{</world>}}

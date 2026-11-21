@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Magnolienzweige 11510 | Bausatz für Erwachsene Kunstblumen Set 5 künstliche Magnolien Deko im Wohn- oder Schlafzimmer Geschenkidee 435 Teile'
-date: 2026-11-19 11:41:08
+date: 2026-11-20 17:31:24
 image: 'https://m.media-amazon.com/images/I/514AjXwrBKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFW392/?tag=tolees0ca-21'
 descuento: '37.01'
-average: '31.631999999999717'
+average: '31.630720720720444'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

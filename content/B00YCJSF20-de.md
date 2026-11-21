@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Weitere Funktionen: für 8 Personen
 - Einstellbares Thermostat: Ja
+- Weitere Funktionen: für 8 Personen
 - Kochfeld: Platte aus Aluguss mit Antihaftbeschichtung
 - GehAuse: Thermoplastik
 

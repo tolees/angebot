@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gummiaußensohle
-- Obermaterial aus Leder und Synthetik
-- Textilfutter
 - Reguläre Passform
 - Schnürsenkel
+- Obermaterial aus Leder und Synthetik
+- Gummiaußensohle
+- Textilfutter
 - Perforierter Vorfußbereich
 
 [🛒 Hier!!]({{< param buyurl >}})

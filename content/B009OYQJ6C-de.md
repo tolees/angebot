@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lässt Unebenheiten und Poren verschwinden
 - Loses, mattes Puder mit federleichter Textur
+- Lässt Unebenheiten und Poren verschwinden
 - Ultrafeine Partikel für ein samtig-weiches Hautbild
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

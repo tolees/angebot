@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reolink 4K PoE Überwachungskamera Aussen Set Personen-/ Fahrzeugerkennung | 8CH Videoüberwachung mit 4X 8MP PoE IP Kamera und 2TB HDD NVR für 24/7 Aufnahme Innen Outdoor RLK8-800B4 Schwarz'
-date: 2026-10-21 19:00:57
+date: 2026-11-20 23:27:56
 image: 'https://m.media-amazon.com/images/I/31LbjfZSnHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0BX6KRFG2-de Reolink 4K PoE Überwachungskamera Aussen Set Personen-/...'
 sku: 'B0BX6KRFG2-de'
 tags: [ '🇩🇪', ]
-actualPrice: 594.99 EUR
+actualPrice: 524.99 EUR
 currency: EUR
-price: 594.99
+price: 524.99
 comparePrice: 699.99 EUR
 prodname: 'Reolink 4K PoE Überwachungskamera Aussen Set Personen-/ Fahrzeugerkennung | 8CH Videoüberwachung mit 4X 8MP PoE IP Kamera und 2TB HDD NVR für 24/7 Aufnahme Innen Outdoor RLK8-800B4 Schwarz'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0BX6KRFG2/?tag=tolees0ca-21'
-descuento: '15.00'
-average: '594.99'
+descuento: '25.00'
+average: '571.65666666666664'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

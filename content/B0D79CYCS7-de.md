@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Mittelgrün
 - Obbermaterial: 100% Stoff (100% recycelte Baumwolle)
+- Farbe: Mittelgrün
 - Futter: 60 % Textil (45 % recyceltes PET - 35 % recycelte Baumwolle - 20 % Viskose), 40 % recyceltes PET
 - Laufsohle: 100% vulkanisiertes Gummi
 

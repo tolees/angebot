@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Obermaterial und Zunge aus Synthetik mit Synthetiküberzügen
 - Flache Laufsilhouette
-- Abriebfeste Gummiaußensohle
-- EVA-Zwischensohle
 - Mesh-Futter
+- EVA-Zwischensohle
+- Abriebfeste Gummiaußensohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D2KLNTCL{{</world>}}

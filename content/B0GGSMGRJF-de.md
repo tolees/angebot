@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Olivia Rodrigos Schallplatte 43028 | Spielzeug ab 10 Jahren für Mädchen & Jungen Minifigur und Zubehör Zimmer Wand oder Regal Deko Musik Geschenk 360 Teile'
-date: 2026-11-19 19:30:39
+date: 2026-11-20 22:17:24
 image: 'https://m.media-amazon.com/images/I/41-rNruShPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0GGSMGRJF/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '20.736923076923077'
+average: '20.68357142857143'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

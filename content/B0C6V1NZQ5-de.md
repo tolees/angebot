@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Keine Verfäbung des Kunststoffs dank hochwertigem PET
-- Packungsgröße: 10er
-- Protector Case kompatibel mit Funko POP! Verpackung
 - Aus 0,5mm starkem, säurefreiem PET Kunsstoff
+- Keine Verfäbung des Kunststoffs dank hochwertigem PET
+- Protector Case kompatibel mit Funko POP! Verpackung
+- Packungsgröße: 10er
 - Optimaler Schutz und Passform für POP 4" Verpackungen
 
 [🛒 Hier!!]({{< param buyurl >}})

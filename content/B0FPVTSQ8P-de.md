@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Disney Princess Kakamora 43293 | Spielzeug ab 9 Jahren Mädchen & Jungen 2 Blumentopf Figuren mit Kunstblumen als Zimmerdeko Geschenk für Kinder 407 Teile'
-date: 2026-11-19 19:31:24
+date: 2026-11-20 22:18:05
 image: 'https://m.media-amazon.com/images/I/51nx7XJHMEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

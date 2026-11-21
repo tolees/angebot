@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Zeitmaschine aus Zurück in die Zukunft 77256 | Spielzeug ab 9 Jahren Jungen & Mädchen Modellauto & 2 Minifiguren Marty McFly & Doc Brown kreatives Geschenk 357 Teile'
-date: 2026-11-19 19:35:55
+date: 2026-11-20 22:22:44
 image: 'https://m.media-amazon.com/images/I/51mJkNx1lLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDXXYR/?tag=tolees0ca-21'
 descuento: '34.26'
-average: '19.250000000000181'
+average: '19.237313432835997'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

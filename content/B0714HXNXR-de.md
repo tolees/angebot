@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Finde dein Wunderbar mit Jacobs Kaffeekapseln!
 - Kompatibilität: Ideal für alle Nespresso*-kompatiblen Kaffeemaschinen (*Markenzeichen eines Unternehmens, das nicht in Verbindung steht mit: JACOBS DOUWE EGBERTS)
 - Intensiver Espresso: Mit einer feinporigen Crema (Intensität 12/12)
-- Aroma & Röstung: Eine Kombination aus komplexen Aromen von Arabica & Robusta Bohnen
 - Lieferumfang: 10 Packungen à 10 Kapseln (=100 Stück)
+- Finde dein Wunderbar mit Jacobs Kaffeekapseln!
+- Aroma & Röstung: Eine Kombination aus komplexen Aromen von Arabica & Robusta Bohnen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0714HXNXR{{</world>}}

@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Weiches Schuhfutter mit feuchtigkeitsableitenden Eigenschaften
-- Modisches Schnürdesign
 - Luftgekühlte Einlegesohle aus Memory-Schaum
+- Modisches Schnürdesign
 - Gepolsterter Kragen und Zunge
 - Bunte Neon-Farbgestaltung
 

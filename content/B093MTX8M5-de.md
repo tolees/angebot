@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Eternal Hails
-- Marke: Peaceville
 - Produkttyp: Abis Music
+- Marke: Peaceville
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B093MTX8M5{{</world>}}

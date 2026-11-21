@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - NUR FRÜCHTE in einer leckeren Fruchtrolle - enthält alles Gute aus der Frucht
 - NATÜRLICH, LECKER & LUSTIG - der perfekte Fruchtsnack für Kinder und Erwachsene
-- OHNE ZUSATZ VON ZUCKER, hoher Ballaststoffgehalt, niemals aus Konzentrat
-- PERFEKTER SNACK FÜR UNTERWEGS - enthält 18 Beutel mit je 2 Rollen
 - 100% NATÜRLICHE INHALTSSTOFFE - hergestellt aus Früchten und sonst nichts
+- PERFEKTER SNACK FÜR UNTERWEGS - enthält 18 Beutel mit je 2 Rollen
+- OHNE ZUSATZ VON ZUCKER, hoher Ballaststoffgehalt, niemals aus Konzentrat
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CD2PLGDM{{</world>}}

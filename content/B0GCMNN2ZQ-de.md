@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B iO Series 3 Elektrische Zahnbürste Doppelpack Schwarz/Rosa | Inkl. 4 Aufsteckbürsten Reise-Etui Und Ladestation Electric Toothbrush mit 3 Putzmodi für Zahnpflege'
-date: 2026-11-16 13:52:53
+date: 2026-11-21 14:01:55
 image: 'https://m.media-amazon.com/images/I/51wwJTdspsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0GCMNN2ZQ/?tag=tolees0ca-21'
 descuento: '56.52'
-average: '116.99'
+average: '114.15666666666667'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

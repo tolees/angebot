@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GP Extra Lithium Knopfzellen CR2032 3V | 10 Stück Batterien CR 2032 | 2032 Knopfzelle 3 Volt ideal als Airtag Batterie für LED-Beleuchtung Autoschlüssel Fahrradcomputer und vieles mehr'
-date: 2026-10-22 08:09:06
+date: 2026-11-21 03:59:48
 image: 'https://m.media-amazon.com/images/I/41PAKvMwIzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

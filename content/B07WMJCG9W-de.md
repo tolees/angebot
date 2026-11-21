@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Type de produit : PHYSICAL_MOVIE
 - Marque: Sony Pictures
+- Type de produit : PHYSICAL_MOVIE
 - Il était une fois... à Hollywood
 
 [🛒 Hier!!]({{< param buyurl >}})

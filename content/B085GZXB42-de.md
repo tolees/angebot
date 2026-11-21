@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit konischer Beinform
-- Der Stretchanteil sorgt für guten Tragekomfort
-- Gut für einen lässigen Look
 - Low Rise, schmale Oberschenkel, Beinenden
+- Der Stretchanteil sorgt für guten Tragekomfort
+- Mit konischer Beinform
+- Gut für einen lässigen Look
 - Paspeltaschen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

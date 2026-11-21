@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO ǀ Disney Princess Schloss & königliche Haustiere – Set mit detaillierter Innenausstattung – inkl. Arielle Rapunzel Mulan Jasmin & Vaiana Mini-Figuren – Geschenk für Kinder ab 6 Jahren – 43267'
-date: 2026-08-21 14:15:38
-image: 'https://m.media-amazon.com/images/I/513RW8yZvML._SL500_._SL400_.jpg'
+title: 'LEGO Disney Princess Prinzessinnenschloss mit Haustieren 43267 | Spielzeug ab 6 Jahren Mädchen & Jungen Arielle Rapunzel Mulan Jasmin & Vaiana Minifiguren Geschenk 787 Teile'
+date: 2026-11-21 02:53:47
+image: 'https://m.media-amazon.com/images/I/51NQs2o336L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DRCWYJDH-de LEGO ǀ Disney Princess Schloss & königliche Haustiere –...'
+slug: 'B0DRCWYJDH-de LEGO Disney Princess Prinzessinnenschloss mit Haustieren...'
 sku: 'B0DRCWYJDH-de'
 tags: [ '🇩🇪', ]
-actualPrice: 89.99 EUR
+actualPrice: 83.99 EUR
 currency: EUR
-price: 89.99
+price: 83.99
 comparePrice: 119.99 EUR
-prodname: 'LEGO ǀ Disney Princess Schloss & königliche Haustiere – Set mit detaillierter Innenausstattung – inkl. Arielle Rapunzel Mulan Jasmin & Vaiana Mini-Figuren – Geschenk für Kinder ab 6 Jahren – 43267'
+prodname: 'LEGO Disney Princess Prinzessinnenschloss mit Haustieren 43267 | Spielzeug ab 6 Jahren Mädchen & Jungen Arielle Rapunzel Mulan Jasmin & Vaiana Minifiguren Geschenk 787 Teile'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0DRCWYJDH/?tag=tolees0ca-21'
-descuento: '25.00'
-average: '85.4633333333332'
+descuento: '30.00'
+average: '85.315999999999875'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,13 +28,6 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Modulares Bauspielzeug: Dieses LEGO Baumodell beinhaltet unter anderem ein baubares Schloss mit mehreren Zimmern, 5 LEGO ǀ Disney Spielfiguren und 5 Tierfiguren
-- Gemeinsam mit Freunden und mit der Familie bauen: Die LEGO Builder App bietet ein tolles Gemeinschaftserlebnis, wenn Kinder dieses LEGO ǀ Disney Bauset gemeinsam mit anderen bauen
-- LEGO Schloss mit beweglichen Elementen: Die Wände des Schlosses aus diesem Bauset lassen sich zum Ausstellen einklappen; herausnehmbare Möbel, eine versteckte Höhle, ein aufklappbarer Wasserfall und ein Katapultbogen laden zum Spielen ein
-- Förderung lebenswichtiger Fähigkeiten: 10 LEGO ǀ Disney Charaktere und ein Schloss mit verschiedenen Funktionen lassen Kinder spielen, das imposante Modell ausstellen und ganz spielerisch lebenswichtige Fähigkeiten entwickeln
-- Geschenkidee für Kinder ab 6 Jahren: Dieses Rollenspielzeug beinhaltet 10 Disney Charaktere, die dieses Spielzeug zu einem imposanten Geschenk für Mädchen und Jungen machen; das gemeinsame Bau- und Spielerlebnis stärkt den Zusammenhalt
-- Disney Princess Bauset für Kinder: Das Prinzessinnen-Schloss mit Haustieren ist ein Spielset, das Mädchen und Jungen ab 6 Jahren fantasievoll spielen und dann einen spektakulären Hingucker ausstellen lässt
-- Baubares LEGO Spielzeugschloss für Mädchen und Jungen: Errichte ein wunderschönes Schloss mit Zimmern für jede der Disney Princess Figuren; eine Schatzkarte, ein Trainingsbereich und Ähnliches ermöglichen viele Aktivitäten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DRCWYJDH{{</world>}}

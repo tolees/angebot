@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Blühender Kaktus 11509 | Spielzeug ab 9 Jahren Mädchen & Jungen Kunstpflanze mit 2 Kakteen und künstlichen Blüten DIY Deko Geschenkidee 482 Teile'
-date: 2026-11-19 19:34:42
+date: 2026-11-20 22:22:49
 image: 'https://m.media-amazon.com/images/I/41PSZZvpGDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXF7TZV/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '19.05599999999988'
+average: '19.066553672316264'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

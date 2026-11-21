@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schlichtes, robustes und langlebiges Design
 - Ein 12er-Pack stilvoller Kaffeelöffel
 - Aus hochwertigem Hochglanz-Edelstahl hergestellt
 - Spülmaschinenfest; perfekt für Zuhause, Büros, Restaurants und Cafés
+- Schlichtes, robustes und langlebiges Design
 - Eine stilvolle Art Kaffee zu trinken
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

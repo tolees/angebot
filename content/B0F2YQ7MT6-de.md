@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Waschhinweis: 40°C Buntwäsche | Nicht auf Verzierung bügeln | Bügeln bei mäßiger Temperatur | Nicht chemisch reinigen | Nicht bleichen | Nicht im Trockner trocknen | Von links waschen und bügeln | Mit ähnlichen Farben waschen | Nass in Form ziehen
-- Longsleeve mit Print auf der Brust.
 - Rundhalsausschnitt| Langärmlig
+- Waschhinweis: 40°C Buntwäsche | Nicht auf Verzierung bügeln | Bügeln bei mäßiger Temperatur | Nicht chemisch reinigen | Nicht bleichen | Nicht im Trockner trocknen | Von links waschen und bügeln | Mit ähnlichen Farben waschen | Nass in Form ziehen
 - Passform: Regular Fit - gerader Schnitt | Brustweite bei Größe M ca. 54 cm | Rückenlänge bei Größe M ca. 72 cm | Unser Model ist 189 cm groß und trägt Größe L
+- Longsleeve mit Print auf der Brust.
 - Aus einem weichen Single-Jersey-Stoff aus Baumwolle.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

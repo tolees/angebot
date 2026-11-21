@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kein Leuchtmittel im Lieferumfang enthalten; Das Leuchtmittel ist unter EGLO 110032 separat erhältlich; Geeignet für jedes Leuchtmittel mit E27 Sockel, maximale Wattage pro Fassung 60 W
-- Abmessungen: Höhe: 21,5 cm, Durchmesser: 10 cm
 - Diese Tischleuchte ist individuell einsetzbar; Ob im Büro auf dem Schreibtisch, im Schlafzimmer auf dem Nachttisch oder Wohnzimmer als Deko-Objekt
+- Abmessungen: Höhe: 21,5 cm, Durchmesser: 10 cm
 - Die Lampe verfügt über einen Schalter am Kabel zum bequemen Ein- und Ausschalten
+- Kein Leuchtmittel im Lieferumfang enthalten; Das Leuchtmittel ist unter EGLO 110032 separat erhältlich; Geeignet für jedes Leuchtmittel mit E27 Sockel, maximale Wattage pro Fassung 60 W
 - Das elegante und zeitlose Design der Leuchte fügt sich stilvoll in Ihre Wohnräume und schafft eine einladende Atmosphäre
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

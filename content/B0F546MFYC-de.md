@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- der Anime zur erfolgreichsten Serie im KAZÉ-Manga-Programm
-- anspruchsvolle Dark-Fantasy-Action für Fans von Jujutsu Kaisen, Attack on Titan und Interview mit einem Vampir
 - Manga, Artbooks, Light Novels und Realfilme ebenfalls bei Crunchyroll
+- anspruchsvolle Dark-Fantasy-Action für Fans von Jujutsu Kaisen, Attack on Titan und Interview mit einem Vampir
+- der Anime zur erfolgreichsten Serie im KAZÉ-Manga-Programm
 - erzählt aus der Perspektive eines Ghuls
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -31,8 +31,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - REFLEKTOR - Reflektorlampen sorgen für gerichtetes Licht wo es gebraucht wird
 - SPARSAM - LED Technik spart bis zu 80% Strom gegenüber herkömmlichen Glühlampen
 - FARBTEMPERATUR - 2700Kelvin: warmweißes Licht wie von der Glühlampe gewohnt, gemütliches Licht zum Entspannen
-- MARKENHERSTELLER - Paulmann macht Licht aus Leidenschaft, und das seit 40 Jahren
 - SYSTEMFARBEN - Die RAL-Materialfarben passen zum Paulmann URail-System
+- MARKENHERSTELLER - Paulmann macht Licht aus Leidenschaft, und das seit 40 Jahren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B086KHPDXZ{{</world>}}

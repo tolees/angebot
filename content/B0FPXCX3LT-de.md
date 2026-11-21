@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Fortnite KIT 77081 | Spielzeug ab 12 Jahren Jungen & Mädchen interaktive Figur mit Power Klaue Spitzhacke Deko Gamer Geschenk 1230 Teile'
-date: 2026-11-19 11:36:34
+date: 2026-11-20 17:29:21
 image: 'https://m.media-amazon.com/images/I/51cHtQM63YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXCX3LT/?tag=tolees0ca-21'
 descuento: '35.00'
-average: '67.306499999999971'
+average: '67.196190476190452'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Regular
 - Original is classic five-pocket detailing; timeless, uncomplicated and just like its been since the very beginning. Thats what makes it something you can always count on, like a good pair of jeans should be. Made from soft, high-performance stretch fabric to ensure a perfect fit and all-day comfort. - Product Type : Comfort fit jeans - Closing : Button fly fastening - Waist : Regular rise - Fit : Tapered fit with a high rise, comfort knee and tight leg opening - Fit : Tapered Fit
+- Regular
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07GSN8QWJ{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RYOBI Akku-Starterset mit 2 High Energy 5 0 Ah Akkus | inkl. Schnellladegerät erhöhte Laufzeit 18 V ONE+ Lithium-Ionen Ladegerät Grün'
-date: 2026-11-16 12:18:09
+date: 2026-11-21 14:07:43
 image: 'https://m.media-amazon.com/images/I/41A13E2K42L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

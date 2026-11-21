@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Slim Fit Chinos mit Gürtelschlaufen
-- Materialzusammensetzung: 98% Baumwolle, 2% Elasthan
 - Paspeltaschen am Gesäß und Seitentaschen
 - Hosenschlitz mit Reißverschluss
+- Slim Fit Chinos mit Gürtelschlaufen
+- Materialzusammensetzung: 98% Baumwolle, 2% Elasthan
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08KFBZQJN{{</world>}}

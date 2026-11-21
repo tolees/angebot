@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Pokémon SMART Play: Drohnensuche nach einem Mysteriösen Mew - kompatibles interaktives Spielset mit 3 SMART Tags und 1 Pokémon Figur - Geschenk für Kinder ab 8 Jahren - 72161'
-date: 2026-09-16 08:58:54
-image: 'https://m.media-amazon.com/images/I/51rer74vhVL._SL500_._SL400_.jpg'
+title: 'LEGO Pokémon SMART Play: Drohnensuche nach einem Mysteriösen Mew 72161 | SMART Brick nicht enthalten Kompatibles Set 3 Tags 1 Figur Geschenk für Jungen & Mädchen ab 8 Jahren 429 Teile'
+date: 2026-11-21 10:55:39
+image: 'https://m.media-amazon.com/images/I/51OuVHd4TEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0GK78HS5P-de LEGO Pokémon SMART Play: Drohnensuche nach einem...'
 sku: 'B0GK78HS5P-de'
 tags: [ '🇩🇪', ]
-actualPrice: 37.99 EUR
+actualPrice: 32.99 EUR
 currency: EUR
-price: 37.99
+price: 32.99
 comparePrice: 49.99 EUR
-prodname: 'LEGO Pokémon SMART Play: Drohnensuche nach einem Mysteriösen Mew - kompatibles interaktives Spielset mit 3 SMART Tags und 1 Pokémon Figur - Geschenk für Kinder ab 8 Jahren - 72161'
+prodname: 'LEGO Pokémon SMART Play: Drohnensuche nach einem Mysteriösen Mew 72161 | SMART Brick nicht enthalten Kompatibles Set 3 Tags 1 Figur Geschenk für Jungen & Mädchen ab 8 Jahren 429 Teile'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0GK78HS5P/?tag=tolees0ca-21'
-descuento: '24.00'
-average: '41.99'
+descuento: '34.01'
+average: '41.09'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

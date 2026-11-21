@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GEARLITE Taschenlampe LED Aufladbar 6000LM Extrem Hell Handlampe 2 Stück | 3 Modi Zoombare 2000mAh LCD Akkuanzeige XHP70.3 Luftfahrt-Alu IP65 Wasserdicht für Camping Outdoor Notfall Wandern'
-date: 2026-10-22 14:01:28
+date: 2026-11-21 04:38:32
 image: 'https://m.media-amazon.com/images/I/51Ok6xRAUsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

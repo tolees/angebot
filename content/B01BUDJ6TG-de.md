@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Variabler Luftmengenregler für ideale Verarbeitung von Materialien mit unterschiedlichen Viskositäten
-- Für Dispersions- und Latexfarben für den Innenbereich und mit dem beiliegenden Sprühaufsatz standardmäßig auch für wasserlösliche und lösemittelhaltige Farben, Lasuren, Holzschutzmittel, Öle uvm.
-- WAGNER DIY App: Smarte Tipps direkt aufs Smartphone – für eine leichtere Anwendung und noch bessere Ergebnisse.
-- Abtrennbare Pistole für schnelles Wechseln des Sprühaufsatzes und einfache Reinigung
 - FLEXIO-Technologie Gleichmäßiger deckender Farbauftrag auf allen handelsüblichen, auch unverdünnten Materialien in nur einem Arbeitsgang
 - Für kleine bis große Projekte
+- WAGNER DIY App: Smarte Tipps direkt aufs Smartphone – für eine leichtere Anwendung und noch bessere Ergebnisse.
+- Für Dispersions- und Latexfarben für den Innenbereich und mit dem beiliegenden Sprühaufsatz standardmäßig auch für wasserlösliche und lösemittelhaltige Farben, Lasuren, Holzschutzmittel, Öle uvm.
+- Variabler Luftmengenregler für ideale Verarbeitung von Materialien mit unterschiedlichen Viskositäten
+- Abtrennbare Pistole für schnelles Wechseln des Sprühaufsatzes und einfache Reinigung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01BUDJ6TG{{</world>}}

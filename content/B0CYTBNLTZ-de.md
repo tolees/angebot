@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnürsenkel
-- Futter aus Synthetik und Textil
-- Adiwear Außensohle
-- Gewicht: 291 g (Größe 42 2/3)
-- Sprengung: 9 mm (Rückfußhöhe 33 mm / Vorfußhöhe 24 mm)
-- LIGHTMOTION Dämpfung
 - Obermaterial aus Synthetik und Textil-Mesh
+- Adiwear Außensohle
+- LIGHTMOTION Dämpfung
+- Gewicht: 291 g (Größe 42 2/3)
+- Futter aus Synthetik und Textil
+- Schnürsenkel
+- Sprengung: 9 mm (Rückfußhöhe 33 mm / Vorfußhöhe 24 mm)
 - Reguläre Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

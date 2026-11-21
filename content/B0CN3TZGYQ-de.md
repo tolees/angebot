@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wasserdichtes Obermaterial aus Mesh/Leder. Omni-Tech wasserdichte, atmungsaktive Membran
 - Leichte Techlite-Zwischensohle für lang anhaltende, hervorragende Dämpfung und hohe Energierückgabe
 - Omni-Grip abriebfester Traktionsgummi
+- Wasserdichtes Obermaterial aus Mesh/Leder. Omni-Tech wasserdichte, atmungsaktive Membran
 - Bitte beachten Sie: Schnürsenkel und Reißverschlüsse, die in Schuhen der Columbia Sportswear Company integriert sind, sind nicht wasserdicht.
 
 [🛒 Hier!!]({{< param buyurl >}})

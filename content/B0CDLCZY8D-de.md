@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'SANODESK Höhenverstellbarer Schreibtisch elektrisch 110x54 cm'
-date: 2026-10-22 17:03:27
+title: 'SANODESK Höhenverstellbarer Schreibtisch elektrisch 110x54 cm | mit einteiliger Tischplatte kompakter Computertisch für Homeoffice ergonomischer Sitz-Steh-Schreibtisch Ahorn'
+date: 2026-11-21 06:02:23
 image: 'https://m.media-amazon.com/images/I/41lmSFRxkhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0CDLCZY8D-de SANODESK Höhenverstellbarer Schreibtisch elektrisch 110x54 cm'
+slug: 'B0CDLCZY8D-de SANODESK Höhenverstellbarer Schreibtisch elektrisch 110x54...'
 sku: 'B0CDLCZY8D-de'
 tags: [ '🇩🇪', ]
-actualPrice: 66.49 EUR
+actualPrice: 63.17 EUR
 currency: EUR
-price: 66.49
-comparePrice: 94.99 EUR
-prodname: 'SANODESK Höhenverstellbarer Schreibtisch elektrisch 110x54 cm'
+price: 63.17
+comparePrice: 79.99 EUR
+prodname: 'SANODESK Höhenverstellbarer Schreibtisch elektrisch 110x54 cm | mit einteiliger Tischplatte kompakter Computertisch für Homeoffice ergonomischer Sitz-Steh-Schreibtisch Ahorn'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0CDLCZY8D/?tag=tolees0ca-21'
-descuento: '30.00'
-average: '77.5622222222222'
+descuento: '21.03'
+average: '76.122999999999976'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

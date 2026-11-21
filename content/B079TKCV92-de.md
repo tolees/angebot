@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rutschfeste Oberfläche in transluzenter Optik
 - 2 Strichstärken: 1 + 4 mm
 - Praktischer Clip und extra schlanke Stiftform - Perfekt für unterwegs
+- Rutschfeste Oberfläche in transluzenter Optik
 - STABILO Anti-Dry-Out Technology: 4 Stunden Austrocknungsschutz
 - Erhältlich in vielen leuchtenden und pastelligen Farben Farben
 

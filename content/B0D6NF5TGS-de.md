@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Breathable
 - Leichte Schuhe
+- Breathable
 - Verbesserte Stoßdämpfung dank Zero Shock System
 - Verschluss mit Schnürsenkeln; Herausnehmbare Innensohle
 

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Motiv: Luftballons
 - passende Ergänzung zu jedem Pandora Armband
 - Anhänger aus 925er Sterling Silber und Emaille
-- Motiv: Luftballons
 - Der Artikel wird nicht in einer Schachtel versendet. Diese muss separat gekauft werden
 - mit weißen Zirkonia Steinen besetzt
 

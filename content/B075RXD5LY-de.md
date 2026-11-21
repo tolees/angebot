@@ -31,8 +31,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - GORE-TEX Active Technologie: Wasserdicht, winddicht und extrem atmungsaktiv
 - Sehr leichtes Material zum praktischen Verstauen der Überschuhe, Rechts-/Links-Unterscheidung, Sicherheit dank reflektierenden Elementen
 - GORE C3 GORE-TEX Overshoes, Größe: 42-44, Farbe: Schwarz, 100242
-- Wasserdichter Unisex Überschuh für kühle Wetteredingungen
 - Ideal für alle gängigen Pedalsysteme, Offene Sohle mit verstärkter Kante als Abriebschutz, Optimale Passform dank weitenregulierbarem Klettverschluss hinten
+- Wasserdichter Unisex Überschuh für kühle Wetteredingungen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B075RXD5LY{{</world>}}

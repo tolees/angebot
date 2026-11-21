@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'TORRAS Ostand Q3 VegSkin für iPhone Duo Hülle für MagSafe Case，Nachthimmel | Nachhaltiges Silikonleder ultradünn 360° Magnetständer edle Lederstruktur hochwertige Haptik iPhone Duo Case'
-date: 2026-10-21 13:06:51
+title: 'TORRAS Ostand Q3 VegSkin für iPhone Duo Hülle für Magsafe Case Nachthimmel | Nachhaltiges Silikonleder ultradünn 360° Magnetständer edle Lederstruktur hochwertige Haptik iPhone Duo Case'
+date: 2026-11-20 19:25:00
 image: 'https://m.media-amazon.com/images/I/51zlWV+gfUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0HGF1NY8J-de TORRAS Ostand Q3 VegSkin für iPhone Duo Hülle für MagSafe...'
+slug: 'B0HGF1NY8J-de TORRAS Ostand Q3 VegSkin für iPhone Duo Hülle für Magsafe...'
 sku: 'B0HGF1NY8J-de'
 tags: [ '🇩🇪', ]
-actualPrice: 67.99 EUR
+actualPrice: 63.17 EUR
 currency: EUR
-price: 67.99
+price: 63.17
 comparePrice: 79.99 EUR
-prodname: 'TORRAS Ostand Q3 VegSkin für iPhone Duo Hülle für MagSafe Case，Nachthimmel | Nachhaltiges Silikonleder ultradünn 360° Magnetständer edle Lederstruktur hochwertige Haptik iPhone Duo Case'
+prodname: 'TORRAS Ostand Q3 VegSkin für iPhone Duo Hülle für Magsafe Case Nachthimmel | Nachhaltiges Silikonleder ultradünn 360° Magnetständer edle Lederstruktur hochwertige Haptik iPhone Duo Case'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0HGF1NY8J/?tag=tolees0ca-21'
-descuento: '15.00'
-average: '67.99'
+descuento: '21.03'
+average: '65.58'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

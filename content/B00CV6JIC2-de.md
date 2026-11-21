@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Syhthetik
-- Absatzhöhe: 3.5 cm
 - Obermaterial: Smooth Leder
+- Absatzhöhe: 3.5 cm
+- Sohle: Syhthetik
 - Innenmaterial: Leder
 - Verschluss: Schnürsenkel
 

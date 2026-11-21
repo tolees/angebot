@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Heartlake City Hasenhotel 42679 | Spielzeug ab 5 Jahren Mädchen & Jungen Haus-Spielset mit 2 Minipuppen 2 Tierfiguren & Pflege-Zubehör Geschenk 161 Teile'
-date: 2026-11-19 11:35:31
+date: 2026-11-20 17:25:19
 image: 'https://m.media-amazon.com/images/I/51ZYB4BLvfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPVRWS6R/?tag=tolees0ca-21'
 descuento: '36.05'
-average: '15.653727272727323'
+average: '15.656666666666718'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enger Schnitt, fällt eine Nummer kleiner aus
 - Ergonomische Kniepartie/vorgeformte Kniepartie
-- Wasserdichte und winddichte Membrane
 - Material: 100 percent Polyester
 - Zwei Taschen; Fleece Fütterung
+- Wasserdichte und winddichte Membrane
+- Enger Schnitt, fällt eine Nummer kleiner aus
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B003ZJL2S2{{</world>}}

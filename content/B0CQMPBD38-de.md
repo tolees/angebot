@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- gepolsterter Schaftrand und Zunge
-- praktische Zungen- und Fersenschlaufe
 - flexible Laufsohle, profiliert
 - herausnehmbare Decksohle
+- gepolsterter Schaftrand und Zunge
+- praktische Zungen- und Fersenschlaufe
 - RiekerTEX: optimaler Nässe- und Kälteschutz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

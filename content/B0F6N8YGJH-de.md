@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Offizielle Schweizer Eisenbahnuhr von MONDAINE – Design-Ikone
+- Größe 25 cm, schwarzer matter Aluminiumrahmen, klares Zifferblatt
 - Zeitloses Designstück, passend für moderne Wohnungen & professionelle Einrichtungen
 - Leiser Gang dank schleichendem, rotem Sekundenzeiger, Mineralglas & Staubschutz
 - Inspiriert von Hans Hilfikers legendärem Design (1944)
-- Größe 25 cm, schwarzer matter Aluminiumrahmen, klares Zifferblatt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0F6N8YGJH{{</world>}}

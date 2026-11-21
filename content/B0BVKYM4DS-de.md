@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 13 Liter Fassungsvermögen für 20 Dosen oder 1 x 1,5 l-Flasche
-- Temperatur einstellbar zwischen +10 °C und -18 °C
 - Integrierte Führungselemente gewährleisten eine einfache Fixierung im Fahrzeug mithilfe von Gurten oder Sicherheitsgurten
+- Temperatur einstellbar zwischen +10 °C und -18 °C
 - Das energieeffiziente Design ermöglicht rasches und effizientes Kühlen und Gefrieren – sogar bei extrem hohen Außentemperaturen
+- 13 Liter Fassungsvermögen für 20 Dosen oder 1 x 1,5 l-Flasche
 - Mit Griffmulden und Schultergurt für bequemes Tragen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

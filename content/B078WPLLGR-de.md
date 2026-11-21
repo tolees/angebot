@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Embroidered FILA logo’s and an open FILA flag
 - The mother of bulky sneakers with cheerleading heritage
 - Unique Disruptor square lace loops
+- Embroidered FILA logo’s and an open FILA flag
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B078WPLLGR{{</world>}}

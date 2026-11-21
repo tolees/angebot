@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hookless-kompatibel bis 5 bar
-- Continental
 - Lazer Grip, die gelaserte Mikro-Profilstruktur konzentriert sich auf den Schulterbereich des Reifens
+- Continental
+- Hookless-kompatibel bis 5 bar
 - Die legendäre Gummimischung Black Chili Compound, auf neuem optimierten Level
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

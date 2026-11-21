@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Textilfutter
-- Obermaterial aus Leder
 - Reguläre Passform
+- Textilfutter
 - Schnürsenkel
+- Obermaterial aus Leder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C53ZXXWY{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kombination aus hauchdünn geschnittenen Kartoffeln mit einer süß-würzigen Rauchnote
-- Crunchips Western Style: einzigartiger Crunch, unwiderstehlich lecker
 - Am besten gemeinsam mit guten Freunden. Jetzt bestellen und genießen!
+- Crunchips Western Style: einzigartiger Crunch, unwiderstehlich lecker
+- Kombination aus hauchdünn geschnittenen Kartoffeln mit einer süß-würzigen Rauchnote
 - Sie sind glutenfrei, vegan und mit bestem Sonnenblumenöl knusprig gebacken
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

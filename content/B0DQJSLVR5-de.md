@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lockere Passform
-- Ripped cuffs on sleeves and hem
 - Rundhalsausschnitt
+- Ripped cuffs on sleeves and hem
 - Langärmelig
 - Front-Artwork
 

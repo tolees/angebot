@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zusammenstöße in drei verschiedenen Crash-Zonen ​
-- Dieses Spitzengeschwindigkeitsset bietet direkt coole Crash-Action
 - Lässt sich mit anderen Hot-Wheels-Tracksets verbinden ​
+- Dieses Spitzengeschwindigkeitsset bietet direkt coole Crash-Action
+- Zusammenstöße in drei verschiedenen Crash-Zonen ​
 - Regt die Fantasie an ​
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Glampinghütte in freier Natur 42682 | Spielzeug ab 6 Jahren Mädchen & Jungen Miniatur-Spielhaus mit 2 Minifiguren Katzenfigur & Zubehör Geschenk 295 Teile'
-date: 2026-11-19 19:35:48
+date: 2026-11-20 22:21:38
 image: 'https://m.media-amazon.com/images/I/51wa8wsg9JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFTCCG/?tag=tolees0ca-21'
 descuento: '36.01'
-average: '16.172083333333401'
+average: '16.164800000000064'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

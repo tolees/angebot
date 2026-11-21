@@ -31,8 +31,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - Überschreiben, ohne Warten zu müssen dank Lichtundurchlässigkeit des Korrekturbands.
 - Sehr robust, der Film aus läuft nicht Gefahr beim Auftragen abzureißen.
 - Gleitet perfekt ohne zu blockieren und für Linkshänder wie Rechtshänder geeignet.
-- Die 5 Mäuse sind kompakt und lassen sich in allen Etuis verstauen.
 - Die Tipp-Ex Mini Pocket Maus mit 6 m Korrekturlänge.
+- Die 5 Mäuse sind kompakt und lassen sich in allen Etuis verstauen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B06XDP9SDG{{</world>}}

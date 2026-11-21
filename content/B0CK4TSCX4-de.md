@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Großes Format: A3-Größe für ein beeindruckendes Endergebnis
-- Klassisches Design: Schloss Hogwarts in atemberaubender Detailtreue
-- Fördert Fähigkeiten: Entwickelt Problemlösungskompetenz, räumliches Bewusstsein und Hand-Auge-Koordination
-- Tragbares Design: Einfaches Aufbewahren und Mitnehmen
 - Umfangreiches Puzzle-Erlebnis: 155 Holzstücke für eine Herausforderung auf Mittelstufen-Niveau
+- Fördert Fähigkeiten: Entwickelt Problemlösungskompetenz, räumliches Bewusstsein und Hand-Auge-Koordination
+- Großes Format: A3-Größe für ein beeindruckendes Endergebnis
+- Tragbares Design: Einfaches Aufbewahren und Mitnehmen
+- Klassisches Design: Schloss Hogwarts in atemberaubender Detailtreue
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CK4TSCX4{{</world>}}

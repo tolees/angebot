@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Marvel Spider-Man Jagt den Gefängnistransporter 76349 | Superhelden Spielzeug ab 8 Jahren Jungen & Mädchen Fahrzeug 4 Minifiguren inkl. Tombstone & Tarantula Geschenk 367 Teile'
-date: 2026-11-19 19:30:16
+date: 2026-11-20 22:17:01
 image: 'https://m.media-amazon.com/images/I/5137Lwj8HFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FRSMF77X/?tag=tolees0ca-21'
 descuento: '34.01'
-average: '33.035454545454428'
+average: '33.034776119402871'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Kühl und trocken lagern
+- Erzeugnis aus Frankreich
 - Plastikflasche, Einwegpfand wird an der Kasse addiert
 - Ultrahocherhitzt, homogenisiert
 - 6x1L Fettarme H-Milch 1.5%
-- Kühl und trocken lagern
-- Erzeugnis aus Frankreich
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D9K7KJRT{{</world>}}

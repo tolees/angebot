@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Energiebooster im Alltag
 - Verantwortungsvolle Inhaltsstoffe
+- Energiebooster im Alltag
 - Natürliche Unterstützung für Ihre Ernährung
 
 [🛒 Hier!!]({{< param buyurl >}})

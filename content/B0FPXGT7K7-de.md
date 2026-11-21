@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Ferrari 499P 77261 | Spielzeug ab 9 Jahren Jungen & Mädchen MINT Modellbau mit Fahrer Minifigur Motorsport Geschenk für Kinder 329 Teile'
-date: 2026-11-19 11:43:30
+date: 2026-11-20 17:34:51
 image: 'https://m.media-amazon.com/images/I/41F0AmF8-FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGT7K7/?tag=tolees0ca-21'
 descuento: '35.73'
-average: '18.279014084507043'
+average: '18.275'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Logostickerei
 - Flachstrickkragen
+- Logostickerei
 - Normale Passform
 - Modellnummer: 3000202
 

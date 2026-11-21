@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Gabby s Dollhouse Gabbys Katzenfreunde aus LEGO Steinen 11215 | Spielzeug ab 6 Jahren Mädchen & Jungen mit 6 Tierfiguren inkl. Meerkätzchen und Kitty Fairy Ständer Geschenk 324 Teile'
-date: 2026-11-19 00:17:13
+date: 2026-11-20 17:31:01
 image: 'https://m.media-amazon.com/images/I/41Phv9LktFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDKRC2/?tag=tolees0ca-21'
 descuento: '38.01'
-average: '31.636144578313196'
+average: '31.620941176470534'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

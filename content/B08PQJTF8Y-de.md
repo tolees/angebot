@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bequem
 - 3er-Pack
+- Bequem
 - Elastischer Bund
 - Angenehmes Material
 

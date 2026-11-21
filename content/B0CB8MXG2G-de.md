@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Glattleder ist strapazierfähig und langlebig
 - Gepolsterte Schaumstoff-Einlegesohle
 - Dämpfende Schaumstoff-Zwischensohle
+- Obermaterial aus Glattleder ist strapazierfähig und langlebig
 - Robuste Gummi-Außensohle für optimale Traktion
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

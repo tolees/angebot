@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- WÄRMEND UND BEQUEM: Die angeraute Innenseite schenkt nicht nur ein angenehmes, weiches Tragegefühl, sondern sorgt auch für eine erstklassige Wärmeisolation. So hält dich die kuschelige Unterwäsche im Winter und bei Kälte schön warm.
 - FEUCHTIGKEITSMANAGEMENT: Unsere atmungsaktive Skiunterwäsche leitet Schweiß effizient von deiner Haut ab, damit du stets trocken und bequem bleibst. Genieße maximale Leistung bei deinen Aktivitäten und fühle dich rundum wohl.
 - QUALITÄT: Unsere Funktionsunterwäsche für aktive, leidenschaftliche Menschen wird von innen nach außen in der Schweiz entworfen. Dabei verwenden wir eine branchenprägende Lagentechnologie, die wir vor 75 Jahren erfunden haben.
 - Thermounterwäsche Set
+- WÄRMEND UND BEQUEM: Die angeraute Innenseite schenkt nicht nur ein angenehmes, weiches Tragegefühl, sondern sorgt auch für eine erstklassige Wärmeisolation. So hält dich die kuschelige Unterwäsche im Winter und bei Kälte schön warm.
 - VIELSEITIGKEIT: Egal ob du Wintersport treibst, wandern gehst, moderate Aktivitäten planst oder einfach nur gemütlich zu Hause unterwegs bist - diese Unterwäsche passt sich perfekt an deine Bedürfnisse an.
 - 100% Polyester (recycelt)
 - PFLEGEHINWEIS: Maschinenwäsche bei 40°C, nicht bügeln, kein Bleichmittel verwenden, keine chemischen Reinigungsmittel verwenden, Wäschetrockner bei niedriger Temperatur

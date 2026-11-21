@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ProtoArc EM11 NL Kabellos Ergonomische Vertikale Maus Aufladbar Schwarz | mit 3 Geräten 2 x Bluetooth 5.0 + USB für kleine bis mittelgroße Hände für Computer iPad Mac Windows'
-date: 2026-10-22 20:04:03
+date: 2026-11-21 09:01:42
 image: 'https://m.media-amazon.com/images/I/31nX2BAXZzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0D12PGGKK-de ProtoArc EM11 NL Kabellos Ergonomische Vertikale Maus...'
 sku: 'B0D12PGGKK-de'
 tags: [ '🇩🇪', ]
-actualPrice: 24.55 EUR
+actualPrice: 23.22 EUR
 currency: EUR
-price: 24.55
+price: 23.22
 comparePrice: 29.99 EUR
 prodname: 'ProtoArc EM11 NL Kabellos Ergonomische Vertikale Maus Aufladbar Schwarz | mit 3 Geräten 2 x Bluetooth 5.0 + USB für kleine bis mittelgroße Hände für Computer iPad Mac Windows'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0D12PGGKK/?tag=tolees0ca-21'
-descuento: '18.14'
-average: '23.8762500000001'
+descuento: '22.57'
+average: '23.80333333333342'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

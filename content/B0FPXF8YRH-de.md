@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO City Rettungsboot der Küstenwache mit Hubschrauber 60504'
-date: 2026-10-02 13:55:00
-image: 'https://m.media-amazon.com/images/I/51Fnn05s9kL._SL500_._SL400_.jpg'
+title: 'LEGO City Rettungsboot der Küstenwache mit Hubschrauber 60504 | Spielzeug ab 7 Jahren Jungen & Mädchen 5 Minifiguren & Hundefigur mit schwimmendem Schiff Geburtstagsgeschenk 742 Teile'
+date: 2026-11-21 02:57:54
+image: 'https://m.media-amazon.com/images/I/51nNDOk3iiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXF8YRH-de LEGO City Rettungsboot der Küstenwache mit Hubschrauber 60504'
+slug: 'B0FPXF8YRH-de LEGO City Rettungsboot der Küstenwache mit Hubschrauber...'
 sku: 'B0FPXF8YRH-de'
 tags: [ '🇩🇪', ]
-actualPrice: 78.89 EUR
+actualPrice: 72.99 EUR
 currency: EUR
-price: 78.89
+price: 72.99
 comparePrice: 109.99 EUR
-prodname: 'LEGO City Rettungsboot der Küstenwache mit Hubschrauber 60504'
+prodname: 'LEGO City Rettungsboot der Küstenwache mit Hubschrauber 60504 | Spielzeug ab 7 Jahren Jungen & Mädchen 5 Minifiguren & Hundefigur mit schwimmendem Schiff Geburtstagsgeschenk 742 Teile'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXF8YRH/?tag=tolees0ca-21'
-descuento: '28.28'
-average: '76.3658333333334'
+descuento: '33.64'
+average: '76.106153846153902'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

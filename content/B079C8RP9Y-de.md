@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Slim Fit Passform betont die Körperform
 - Aus komfortabler Baumwolle für ein angenehmes Tragegefühl
 - Perfekt geeignet für den Arbeitsalltag
+- Slim Fit Passform betont die Körperform
 - Mit Polokragen und Logo Stickerei
 
 [🛒 Hier!!]({{< param buyurl >}})

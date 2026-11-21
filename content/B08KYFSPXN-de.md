@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Jeans in schlichter Passform
 - Der Stretchanteil sorgt für eine tolle Passform
+- Jeans in schlichter Passform
 - Jeans für Herren in Standard der dänischen
 - Eine Regular-Fit-Hose mit schmaler, gerader Beinform
 

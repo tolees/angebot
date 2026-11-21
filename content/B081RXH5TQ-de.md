@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Maximale Traglast: 5 kg.
 - Wasserdichte Tragetasche mit Luftentlüftungsknopf.
 - International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 - 50 x 15 x 15 cm / 19 7 x 5 cm. 9 x 5 cm. 9.
-- Maximale Traglast: 5 kg.
 - Strapazierfähige NBR-Gummi-Abstandshalter und -riemen mit Schnellverschluss-Schnallen.
 
 [🛒 Hier!!]({{< param buyurl >}})

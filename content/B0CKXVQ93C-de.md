@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Elastische Schnürsenkel; Klettverschlussriemen oben
 - Reguläre Passform
 - Textilfutter
 - Obermaterial aus Leder
-- Elastische Schnürsenkel; Klettverschlussriemen oben
 - Zehenkappe aus Wildleder
 
 [🛒 Hier!!]({{< param buyurl >}})

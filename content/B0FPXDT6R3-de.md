@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Lianns Familienhaus 42687 | Spielzeug ab 7 Jahren Mädchen & Jungen mit Garten 4 Minipuppen Axolotl- & Gecko Tierfigur & Zubehör Geschenk 946 Teile'
-date: 2026-11-19 00:17:32
+date: 2026-11-21 02:53:54
 image: 'https://m.media-amazon.com/images/I/51CJXqXKa9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDT6R3/?tag=tolees0ca-21'
 descuento: '37.59'
-average: '46.927073170731703'
+average: '46.849761904761898'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Disney Princess Rapunzels Mini-Turm 43294 | Spielzeug ab 5 Jahren Mädchen & Jungen Set mit 2 Minipuppen Pascal Figur Zubehör & Schloss Geschenk 171 Teile'
-date: 2026-11-19 11:41:40
+date: 2026-11-20 17:31:41
 image: 'https://m.media-amazon.com/images/I/51pNSlzU88L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDPKD7/?tag=tolees0ca-21'
 descuento: '35.02'
-average: '13.045555555555579'
+average: '13.04263157894739'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Grogus Zuhause 75443 | Spielzeug ab 4 Jahren für Jungen & Mädchen mit Grogu Figur & Sorgan Frosch Katapult & blauen Makronen Geschenk 107 Teile'
-date: 2026-11-19 11:38:05
+date: 2026-11-20 17:30:43
 image: 'https://m.media-amazon.com/images/I/51tlqb82b4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFP3PP/?tag=tolees0ca-21'
 descuento: '32.62'
-average: '13.223437499999887'
+average: '13.230909090908982'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

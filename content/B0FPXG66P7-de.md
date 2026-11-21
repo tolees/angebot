@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO ǀ Disney Princess Das verzauberte Schloss von Belle und dem Biest - inkl. 2 Mini-Puppen und Lumière Figur - Geschenk für Mädchen ab 5 Jahren und Fans von Die Schöne und das Biest - 43289'
-date: 2026-11-19 11:42:12
+date: 2026-11-20 17:33:12
 image: 'https://m.media-amazon.com/images/I/51EiB8w6JWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXG66P7/?tag=tolees0ca-21'
 descuento: '35.01'
-average: '25.969199999999994'
+average: '25.969999999999992'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

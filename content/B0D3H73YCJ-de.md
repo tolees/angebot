@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CORSAIR iCUE LINK LX120 RGB 120mm PWM-Lüfter Dreierpack – Dual Light Loops – Inklusive iCUE LINK System Hub – CORSAIR AirGuide Technologie – Weiß'
-date: 2026-10-21 04:02:48
+date: 2026-11-20 18:00:18
 image: 'https://m.media-amazon.com/images/I/31Dpe8wXJ5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0D3H73YCJ-de CORSAIR iCUE LINK LX120 RGB 120mm PWM-Lüfter Dreierpack –...'
 sku: 'B0D3H73YCJ-de'
 tags: [ '🇩🇪', ]
-actualPrice: 79.9 EUR
+actualPrice: 95.17 EUR
 currency: EUR
-price: 79.9
+price: 95.17
 comparePrice: 134.9 EUR
 prodname: 'CORSAIR iCUE LINK LX120 RGB 120mm PWM-Lüfter Dreierpack – Dual Light Loops – Inklusive iCUE LINK System Hub – CORSAIR AirGuide Technologie – Weiß'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0D3H73YCJ/?tag=tolees0ca-21'
-descuento: '40.77'
-average: '72.3685714285714'
+descuento: '29.45'
+average: '77.435555555555524'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

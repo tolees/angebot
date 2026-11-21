@@ -29,12 +29,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Schwarz
-- Kompatibilität: workforce wf-2865dwf - workforce wf-2860dwf - expression home xp-5105 - ecotank et-4750 -
-- Epson c13t04d100 markenkompatibilität: epson
 - Einfach zu bedienen
-- Mae: 15,2 x 11,8 x 7 cm
-- Modell: c13t04d100
 - Gerätekompatibilität: multifonctionel
+- Modell: c13t04d100
+- Kompatibilität: workforce wf-2865dwf - workforce wf-2860dwf - expression home xp-5105 - ecotank et-4750 -
+- Mae: 15,2 x 11,8 x 7 cm
+- Epson c13t04d100 markenkompatibilität: epson
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B075R89QZP{{</world>}}

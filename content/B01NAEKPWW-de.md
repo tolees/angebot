@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DUPLO Löschauto mit Schlauch und Feuerwehrmann 10473 | Spielzeug ab 2 Jahren für Jungen & Mädchen Rotes Feuerwehrauto mit Leiter Figur und Eichhörnchen Kinder Geschenk 28 Teile'
-date: 2026-11-19 19:31:00
+date: 2026-11-20 22:17:46
 image: 'https://m.media-amazon.com/images/I/51uPiHJSOCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B01NAEKPWW/?tag=tolees0ca-21'
 descuento: '40.01'
-average: '18.557954545454823'
+average: '18.55368421052659'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

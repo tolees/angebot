@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Frischer, klärender Duft für einen klaren Kopf
 - Pflanzliche Pflegeformel mit Wasserminze & Rosmarin, reinigt sanft
 - Bewahrt die Feuchtigkeit der Haut
+- Frischer, klärender Duft für einen klaren Kopf
 - Verwandelt Stress in positive Energie (durch wissenschaftliche Studie bestätigt)
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UGREEN USB C Ladegerät 30W 3-Port GaN Netzteil PD iPhone Chrager | PD Schnellladegerät tragbar für unterwegs Kompatibel mit iPhone 18 Pro 17 iPad Galaxy S26 Schwarz 2x USB-C+1x USB-A'
-date: 2026-11-18 11:04:01
+date: 2026-11-21 04:38:47
 image: 'https://m.media-amazon.com/images/I/21CQRZMNJvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0DG8RMHLN/?tag=tolees0ca-21'
 descuento: '31.27'
-average: '9.9906451612902636'
+average: '10.021874999999943'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

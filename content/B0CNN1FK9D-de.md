@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Mit regulärer Passform
 - Pflegeleichter und elastischer Materialmix mit Stretch
 - Einem angenehmen Tragegefühl und der weichen Haptik
-- Mit regulärer Passform
 - Ein gestricktes Oberteil
 
 [🛒 Hier!!]({{< param buyurl >}})

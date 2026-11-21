@@ -28,16 +28,16 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Trauben werden sorgfältig nach Kriterien ausgewählt, die von einem Team von Önologen festgelegt wurden, um die Qualität der François Montand-Weine zu gewährleisten
-- Die Trauben werden sorgfältig nach Kriterien ausgewählt, die von einem Team von Önologen festgelegt wurden, um die Qualität der François Montand-Weine zu gewährleisten
+- Die Qualität unserer Sekte beruht vor allem auf der geduldigen, ganzjährigen Arbeit unserer Winzer in den Weinbergen des Jura
+- Die Weine werden immer unter strikter Einhaltung der traditionellen Methode hergestellt
 - Die Weine werden immer unter strikter Einhaltung der traditionellen Methode hergestellt
 - Die folgenden Informationen gelten für jede Einheit pro Packung
+- Die Trauben werden sorgfältig nach Kriterien ausgewählt, die von einem Team von Önologen festgelegt wurden, um die Qualität der François Montand-Weine zu gewährleisten
 - Les informations ci-dessous sappliquent à chaque unité du pack
-- Intensive Nase von weißen Blüten, Zitrusfrüchten; ziemlich cremig und geschmeidig im Mund, schöne aromatische Persistenz
-- Die Qualität unserer Sekte beruht vor allem auf der geduldigen, ganzjährigen Arbeit unserer Winzer in den Weinbergen des Jura
 - Als Aperitif gekühlt servieren; er passt auch hervorragend zu Ceviche, einem schönen Salat oder weißem Fisch oder einfach als Begleitung zu einem Dessert
+- Die Trauben werden sorgfältig nach Kriterien ausgewählt, die von einem Team von Önologen festgelegt wurden, um die Qualität der François Montand-Weine zu gewährleisten
 - Die Qualität unserer Sekte beruht vor allem auf der geduldigen, ganzjährigen Arbeit unserer Winzer in den Weinbergen des Jura
-- Die Weine werden immer unter strikter Einhaltung der traditionellen Methode hergestellt
+- Intensive Nase von weißen Blüten, Zitrusfrüchten; ziemlich cremig und geschmeidig im Mund, schöne aromatische Persistenz
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DZNLGM5X{{</world>}}

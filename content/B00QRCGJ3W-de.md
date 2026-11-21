@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Rubber
 - Verschluss: Bungee
 - Innenmaterial: Canvas
+- Sohle: Rubber
 - Obermaterial: Seude
 
 [🛒 Hier!!]({{< param buyurl >}})

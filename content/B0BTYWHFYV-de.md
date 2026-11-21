@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Jacke
-- Kapuze mit Kordelzug
 - Materialzusammensetzung: 98% Baumwolle, 2% Elasthan
+- Kapuze mit Kordelzug
+- Jacke
 - Langarm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

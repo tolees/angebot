@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Einfarbig
 - Futterbeschreibung: Kalt gefüttert
 - Runde Form
-- Einfarbig
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07NQFVDX8{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars SMART Play: A-Wing und das Duell im Thronsaal 75427 | 2 SMART Bricks & Ladegerät enthalten All-in-1 Set 5 Tags 3 Minifiguren Jungen & Mädchen ab 9 Jahren Geschenk 962 Teile'
-date: 2026-11-19 19:29:46
+date: 2026-11-20 22:28:03
 image: 'https://m.media-amazon.com/images/I/51UX3iVh3hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXRW6LL/?tag=tolees0ca-21'
 descuento: '38.12'
-average: '116.23666666666733'
+average: '115.72970588235358'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

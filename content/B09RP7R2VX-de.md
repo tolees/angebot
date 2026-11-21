@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Produktart: ABIS MUSIC
-- Turning to Crime Ltd/180g/Gatefold/Creamywhite Vinyl LP
 - Marke: EARMUSIC
+- Turning to Crime Ltd/180g/Gatefold/Creamywhite Vinyl LP
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09RP7R2VX{{</world>}}

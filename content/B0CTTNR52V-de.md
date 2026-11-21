@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - erfrischendes Getränk mit natürlich süßem Geschmack
-- exotischer Fruchtsaft für unterwegs
-- Maaza bedeutet "genießen" auf Hindi
 - der perfekte Durstlöscher
+- exotischer Fruchtsaft für unterwegs
 - nur aus ausgewählten Kokosnüssen
+- Maaza bedeutet "genießen" auf Hindi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CTTNR52V{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars SMART Play: Mos Eisley Cantina 75425 | SMART Brick nicht enthalten Kompatibles Set 3 Tags 2 Minifiguren Geschenk für Jungen & Mädchen ab 8 Jahren 666 Teile'
-date: 2026-11-12 11:37:09
+date: 2026-11-20 17:24:27
 image: 'https://m.media-amazon.com/images/I/518pskVt9sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXS67NL/?tag=tolees0ca-21'
 descuento: '37.50'
-average: '53.170845070422729'
+average: '53.126666666666857'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

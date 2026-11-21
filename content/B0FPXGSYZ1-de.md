@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Hubschrauber der Küstenwache 60503 | Spielzeug ab 7 Jahren Jungen & Mädchen 4 Minifiguren Hai Figur Einsatzfahrzeug-Bausatz Geburtstagsgeschenk 551 Teile'
-date: 2026-11-19 11:43:16
+date: 2026-11-20 17:34:40
 image: 'https://m.media-amazon.com/images/I/51USlf9F+lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGSYZ1/?tag=tolees0ca-21'
 descuento: '41.67'
-average: '39.94312499999976'
+average: '39.842040816326296'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

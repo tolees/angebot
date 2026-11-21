@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Marvel Mech-Duell: Spider-Man vs. Doc Ock 76338 | Superhelden Spielzeug ab 6 Jahren Jungen & Mädchen mit 2 Actionfiguren 3 Minifiguren Shootern Geschenk 315 Teile'
-date: 2026-11-19 00:18:38
+date: 2026-11-20 17:30:48
 image: 'https://m.media-amazon.com/images/I/51LZwG9BaXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFPLRZ/?tag=tolees0ca-21'
 descuento: '36.68'
-average: '19.973953488372093'
+average: '19.951590909090911'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

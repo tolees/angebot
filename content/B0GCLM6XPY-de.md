@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B iO Series 2 Elektrische Zahnbürste Doppelpack Schwarz/Pink | Inkl. 2 Aufsteckbürsten Reise-Etui GUT GETESTET von STIFTUNG WARENTEST Electric Toothbrush mit 3 Putzmodi für Zahnpflege'
-date: 2026-11-16 13:45:48
+date: 2026-11-21 13:47:16
 image: 'https://m.media-amazon.com/images/I/51euJhuhG0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0GCLM6XPY/?tag=tolees0ca-21'
 descuento: '46.73'
-average: '69.261000000000053'
+average: '68.775454545454593'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

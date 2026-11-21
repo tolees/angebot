@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Das Grandhotel von Heartlake City 42704 | Spielzeug ab 9 Jahren Mädchen & Jungen Modell mit 6 Minifiguren 2 Tierfiguren & Zubehör Deko Geschenk 1406 Teile'
-date: 2026-11-19 19:35:20
+date: 2026-11-20 22:21:18
 image: 'https://m.media-amazon.com/images/I/51wDEJU1UkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFNDZM/?tag=tolees0ca-21'
 descuento: '34.67'
-average: '99.25'
+average: '99.205'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

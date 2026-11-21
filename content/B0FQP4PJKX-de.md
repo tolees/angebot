@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Cristiano Ronaldo – Fußballlegende 43016 | Spielzeug ab 12 Jahren für Jungen & Mädchen 3D Figuren Modellbau DIY Kinderzimmer Deko Geschenk für Sportfans 854 Teile'
-date: 2026-11-19 19:29:57
+date: 2026-11-20 22:16:46
 image: 'https://m.media-amazon.com/images/I/417HbV3z9RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FQP4PJKX/?tag=tolees0ca-21'
 descuento: '33.75'
-average: '54.86235294117644'
+average: '54.808857142857114'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

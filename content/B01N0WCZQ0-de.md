@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Betrieb mit 3 G12 Batterien (im Lieferumfang enthalten)
+- Das Taschenmikroskop für den Einsatz in der freien Natur verfügt über ein UV-Licht sowie eine LED Taschenlampe
 - Ideal für den Einsatz im Freien, für viele Hobbys, als ideales Hilfsmittel zum Forschen und Lernen; das ideale Mikroskop für die Kleinen, für Schüler und für den professionellen Einsatz
 - Das MicroMini ist ein kinderleicht zu bedienendes Taschenmikroskop mit LED-Beleuchtung, das sich mit Hilfe des dazugehörigen Schlüsselrings praktisch überall schnell befestigen lässt | Vergrößerungsleistung: 20x | geringes Gewicht, kompaktes Design und überall hin mitnehmbar
 - Lieferbar in orange, blau und grün
-- Das Taschenmikroskop für den Einsatz in der freien Natur verfügt über ein UV-Licht sowie eine LED Taschenlampe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01N0WCZQ0{{</world>}}

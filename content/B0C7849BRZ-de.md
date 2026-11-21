@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reguläre Passform - Kurze Ärmel
 - Fabrikmotiv mit Bezug zu Manchesters industriellem Hintergrund auf der Innenseite des Halsausschnitts
 - Offizielles Manchester City Vereinswappen mit Metallic-Effekt auf der Brust gestickt
+- Reguläre Passform - Kurze Ärmel
 - PUMA Katzenlogo auf der Brust und beiden Ärmeln gestickt
 - Burgunderfarbene Besätze an den Ärmelbündchen und am Halsausschnitt
 

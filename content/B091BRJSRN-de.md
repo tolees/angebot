@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UGREEN Nexode 65W USB C Ladegerät 3-Port GaN Netzteil PPS Charger 60W | kompakter Netzteil Laptop Schnellladegerät kompatibel mit MacBook Air/Neo iPhone 17-8 iPads Schwarz 2x USB-C+1x USB-A'
-date: 2026-11-10 16:01:36
+date: 2026-11-21 01:28:44
 image: 'https://m.media-amazon.com/images/I/31+F43HFJoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B091BRJSRN-de UGREEN Nexode 65W USB C Ladegerät 3-Port GaN Netzteil PPS...'
 sku: 'B091BRJSRN-de'
 tags: [ '🇩🇪', ]
-actualPrice: 26.99 EUR
+actualPrice: 18.99 EUR
 currency: EUR
-price: 26.99
+price: 18.99
 comparePrice: 34.99 EUR
 prodname: 'UGREEN Nexode 65W USB C Ladegerät 3-Port GaN Netzteil PPS Charger 60W | kompakter Netzteil Laptop Schnellladegerät kompatibel mit MacBook Air/Neo iPhone 17-8 iPads Schwarz 2x USB-C+1x USB-A'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B091BRJSRN/?tag=tolees0ca-21'
-descuento: '22.86'
-average: '22.536296296296008'
+descuento: '45.73'
+average: '22.409642857142579'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions F1 ACADEMY Rennwagen 77258 | Spielzeug ab 10 Jahren für Mädchen & Jungen Modellauto Formel 1 Rennfahrerin Minifigur Geschenk für Kinder 201 Teile'
-date: 2026-11-19 19:34:35
+date: 2026-11-20 22:21:44
 image: 'https://m.media-amazon.com/images/I/51afU3ZrWAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDCDNB/?tag=tolees0ca-21'
 descuento: '39.62'
-average: '19.120857142857069'
+average: '19.059166666666595'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

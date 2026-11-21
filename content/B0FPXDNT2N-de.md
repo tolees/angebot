@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic 1966 Ford GT40 MKII Rennwagen 42223 | Bausatz für Erwachsene Modellauto zum Sammeln mit Lenkung und V8-Motor Rennauto Geschenk für Männer 793 Teile'
-date: 2026-11-19 11:41:15
+date: 2026-11-20 17:31:20
 image: 'https://m.media-amazon.com/images/I/41Gjef5rfHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDNT2N/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '50.375370370370099'
+average: '50.36836363636337'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

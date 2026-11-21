@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Luna Lovegoods Haus 76467 | Spielzeug ab 10 Jahren für Mädchen & Jungen Modellbau mit Leuchtstein und 5 Minifiguren DIY Deko Geschenk 764 Teile'
-date: 2026-11-19 11:41:02
+date: 2026-11-20 17:31:13
 image: 'https://m.media-amazon.com/images/I/51ITZh4YJiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDNRPP/?tag=tolees0ca-21'
 descuento: '37.00'
-average: '67.752173913043308'
+average: '67.553749999999837'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

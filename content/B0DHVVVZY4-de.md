@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Textilfutter
 - Obermaterial aus Leder und Textil
 - Gummi-Außensohle
-- Textilfutter
 - Schnürverschluss
 - Normale Passform
 

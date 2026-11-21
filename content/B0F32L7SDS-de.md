@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - AI Ecobubble: direkte Abgabe des Waschmittels als Schaumpolster in die Trommel für eine gründlichere, energieeffizientere Reinigung auch bei niedrigen Temperaturen
-- Samsung SLIM Waschtrockner für besonders sparsames Waschen und Trocknen auf kleinem Raum: 10% mehr Energieersparnis als Effizienzklasse A beim Waschen
 - Lieferumfang: 1 x Samsung WD6100D SLIM AI Waschtrockner WD90DG6G94BKU2, 9+5 kg, EEK: E/A (-10%), Waschmaschine und Trockner in einem, Maße (BxHxT): 60 x 85 x 48 cm, Farbe: Weiß
 - Klartext-Display mit AI Control: Moderne Bedienelemente, die nicht nur gut aussehen, sondern auch für eine einfach und intuitive Bedienung sorgen
+- Samsung SLIM Waschtrockner für besonders sparsames Waschen und Trocknen auf kleinem Raum: 10% mehr Energieersparnis als Effizienzklasse A beim Waschen
 - SmartThings AI Energy Mode: Überprüfung und automatische Anpassung des Energieverbrauchs zur Senkung der Stromrechnung – alles über Wi-Fi
 
 [🛒 Hier!!]({{< param buyurl >}})

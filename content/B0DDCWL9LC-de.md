@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- OPTION MULTI ZONE – separates Ober- oder Unterkorbspülen
-- ACTIVE DRY – automatisches Türöffnungssystem für perfekt getrocknetes Geschirr (abschaltbar)
 - VOLLWASSERSCHUTZ
+- ACTIVE DRY – automatisches Türöffnungssystem für perfekt getrocknetes Geschirr (abschaltbar)
+- OPTION MULTI ZONE – separates Ober- oder Unterkorbspülen
 - GLASSCARE - Flexible Glashalterung
 - BESTECKSCHUBLADE – flexibel beladbar, auch mit längeren Besteckteilen
 

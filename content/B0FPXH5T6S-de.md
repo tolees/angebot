@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Waldpilze 11505 | Bausatz für Erwachsene inkl. Fliegenpilz und Kunstblumen für Wohnzimmer- oder Schlafzimmer Deko Geschenkidee 806 Teile'
-date: 2026-11-19 19:29:14
+date: 2026-11-20 22:23:03
 image: 'https://m.media-amazon.com/images/I/51CELD8djyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXH5T6S/?tag=tolees0ca-21'
 descuento: '37.50'
-average: '50.186274509803951'
+average: '50.182500000000033'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Step by Step Circle Schulranzen-Set 5-teilig Lovely Unicorn Nuala violett'
-date: 2026-10-22 13:01:51
+date: 2026-11-21 04:29:35
 image: 'https://m.media-amazon.com/images/I/418tGss7WmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0CT62SZFW/?tag=tolees0ca-21'
 descuento: '21.05'
-average: '317.323333333333'
+average: '312.98999999999973'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

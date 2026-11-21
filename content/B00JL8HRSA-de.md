@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Höchster Tragekomfort dank hochwertiger Materialien
-- Lieferumfang: 1x Columbia Mütze Unisex, Columbia Watch Cap II, Material: 96% Acryl/4% Nylon, Farbe: Schwarz (Black/White Marled), Einheitsgröße, 1464091
 - Modernes Strickdesign mit aufgesticktem Columbia-Logo
+- Lieferumfang: 1x Columbia Mütze Unisex, Columbia Watch Cap II, Material: 96% Acryl/4% Nylon, Farbe: Schwarz (Black/White Marled), Einheitsgröße, 1464091
+- Höchster Tragekomfort dank hochwertiger Materialien
 - Weiches und angenehmes Tragegefühl durch das weiche Acryl-Nylon-Material, Vertikale Bündchen für eine optimale Passform
 - Bequeme Mütze sowohl für Damen als auch Herren, Ideal für den Alltag, zum Wandern, Trail Running und andere Outdoor-Aktivitäten
 

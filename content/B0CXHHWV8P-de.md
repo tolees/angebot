@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Intelligentes Leben: Kompatibel mit Alexa und Google Assistant für Sprachsteuerung und Überprüfung des Türstatus.
 - APP-Verwaltung: Verwalten Sie Zugangsberechtigungen frei mit Mitglieder- und Passwortfunktion. Überprüfen Sie jederzeit und überall den Status Ihres Schlosses und öffnen oder schließen Sie Ihre Tür aus der Ferne.
 - 4 Wege zum Öffnen der Tür: Fingerabdruck, Bluetooth, Passwort und Sprache.
+- Intelligentes Leben: Kompatibel mit Alexa und Google Assistant für Sprachsteuerung und Überprüfung des Türstatus.
 - Sprachsteuerung und Überprüfung des Türstatus. Einfacher Einbau: In nur 10-15 Minuten installieren Sie das Lockin G30 auf der Rückseite Ihrer Tür, ohne das Originalschloss zu entfernen oder zu ersetzen.
 - Sichere Verschlüsselung: Passwörter und Fingerabdrücke werden verschlüsselt und lokal gespeichert, um Verlust von Informationen zu vermeiden.
 

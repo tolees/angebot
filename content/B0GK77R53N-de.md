@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Pokémon SMART Play: Tragossos und Gengars Gruselduell 72166 | SMART Brick nicht enthalten Kompatibles Set 4 Tags 2 Figuren Geschenk für Jungen & Mädchen ab 8 Jahren 782 Teile'
-date: 2026-11-19 11:35:48
+date: 2026-11-20 17:24:56
 image: 'https://m.media-amazon.com/images/I/51IjT+TdMDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0GK77R53N/?tag=tolees0ca-21'
 descuento: '33.66'
-average: '75.81875'
+average: '74.027777777777772'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

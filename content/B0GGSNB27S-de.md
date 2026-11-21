@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO ONE PIECE Showdown mit Kapitän Smoker 75642 | Interaktives Spielzeug ab 9 Jahren Jungen & Mädchen 4 Minifiguren inkl. Monkey D. Luffy & Sanji Deko Geschenk 547 Teile'
-date: 2026-11-19 19:30:44
+date: 2026-11-20 22:17:30
 image: 'https://m.media-amazon.com/images/I/518GItQP6JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0GGSNB27S/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '42.228387096774121'
+average: '42.158437499999927'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

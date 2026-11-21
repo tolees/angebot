@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Gold
-- Abgang: lang anhaltend mit einer Süße gefolgt von Würze
 - Region: Speyside
-- Geschmack: süßlich weich mit einem Hauch Malz und Würze
+- Abgang: lang anhaltend mit einer Süße gefolgt von Würze
+- Farbe: Gold
 - Geruch: Zitrusnoten mit Andeutungen von Karamell und Rosinen
+- Geschmack: süßlich weich mit einem Hauch Malz und Würze
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B005Z6UJ1O{{</world>}}

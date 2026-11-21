@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochwertiges Lederimitat
-- Idealer Komfort
-- Passform: Regulär
 - Hausschuhe aus Gummi
 - Schuhweite: Mittel
+- Idealer Komfort
+- Hochwertiges Lederimitat
 - Gepolstertes Fußbett
+- Passform: Regulär
 - Schaumstoff-Zwischensohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

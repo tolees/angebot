@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochempfindliches Thermalmodul mit 384x288 Auflösung, Hochwertiges optisches Modul mit 4 MP Auflösung
 - Brennweite: 9,7mm, Temperaturgenauigkeit: Max. ±8°C, Infrarotbeleuchtung
 - Leistungsstarke Verhaltensanalysefunktionen, basierend auf Deep-Learning-Algorithmus: Linienüberquerung, Einbruch, Regionseingang und -ausgang
+- Hochempfindliches Thermalmodul mit 384x288 Auflösung, Hochwertiges optisches Modul mit 4 MP Auflösung
 - Zuverlässiger Temperaturanomalie-Alarm, Fortschrittlicher Branderkennungsalgorithmus
 - Detektionsreichweite: 902m, Anwendungsbereich: außen & innen
 

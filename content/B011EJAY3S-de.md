@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Ohne Zusatz von Farbstoffen
 - Einmalige Frische
-- Besonders knackige Walnusskerne
 - Packung die Größe: 35 L x 175 H x 144 W (cm)
+- Besonders knackige Walnusskerne
 - Ohne Zusatz von Konservierungsstoffen
 
 [🛒 Hier!!]({{< param buyurl >}})

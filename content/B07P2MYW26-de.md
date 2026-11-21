@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Absatzform:Flach
 - Obermaterial: Leder
-- Verschluss:Schnüren
 - Innermaterial:Synthetic
+- Verschluss:Schnüren
 - Sohle:Gummi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

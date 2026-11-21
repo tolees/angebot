@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- klangliche Verbesserung durch akustische Entkoppelung
 - Maße L x B x H ca. 40 x 40 x 10 mm. Max. Traglast je Set 27-30 kg.
 - Dank unterschiedlicher Einzelnoppen sehr gute Enkoppelung und stabiler Stand
-- Preis für 4er Set, Füße sind Selbstkleben, Montage mit geringem Aufwand
+- klangliche Verbesserung durch akustische Entkoppelung
 - Antivibrations- Geräte- und Boxenfüsse von Dynavox
+- Preis für 4er Set, Füße sind Selbstkleben, Montage mit geringem Aufwand
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B076CJH6ZH{{</world>}}

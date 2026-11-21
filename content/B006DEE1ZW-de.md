@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Schreibfarbe: grün, ausgestattet mit einer Metallspitze mit 0, 35 mm Strichstärke und nachfüllbar mit Pentel-Mine LR7
 - sehr schnell trocknende Gel-Tinte, daher ideal für Vielschreiber und Linkshänder
-- Pentel RECYCOLOGY Produkt, d. h. gefertigt aus mind. 50% recycelten Materialien
-- Lieferumfang: 12 St.
 - Pentel EnerGel Gel-Tintenroller überzeugen mit ihrem weichen Schreibgefühl, als würde der Stift über das Papier gleiten
+- Lieferumfang: 12 St.
+- Pentel RECYCOLOGY Produkt, d. h. gefertigt aus mind. 50% recycelten Materialien
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B006DEE1ZW{{</world>}}

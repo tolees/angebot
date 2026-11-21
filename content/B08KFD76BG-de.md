@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Herren Jjimarco Jjdave Akm Navy Blazer Noos Hose Navy Blazer 30W / 30L EU'
-date: 2026-11-17 15:02:01
+date: 2026-11-20 17:38:08
 image: 'https://m.media-amazon.com/images/I/21Q233-IFhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B08KFD76BG/?tag=tolees0ca-21'
 descuento: '27.34'
-average: '24.593200000000195'
+average: '24.485384615384803'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

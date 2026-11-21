@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nelko Etikettendrucker Bluetooth P21 Selbstklebendes Etikettiergerät Weiß | Tragbarer beschriftungsgerät selbstklebend Labeldrucker Kabelloser Mini Label Printer mit iOS Android Namensaufkleber Schule'
-date: 2026-10-21 11:02:22
+date: 2026-11-20 18:29:18
 image: 'https://m.media-amazon.com/images/I/31JGcedqGwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0C3L93F2Q-de Nelko Etikettendrucker Bluetooth P21 Selbstklebendes...'
 sku: 'B0C3L93F2Q-de'
 tags: [ '🇩🇪', ]
-actualPrice: 16.24 EUR
+actualPrice: 15.33 EUR
 currency: EUR
-price: 16.24
-comparePrice: 22.99 EUR
+price: 15.33
+comparePrice: 19.99 EUR
 prodname: 'Nelko Etikettendrucker Bluetooth P21 Selbstklebendes Etikettiergerät Weiß | Tragbarer beschriftungsgerät selbstklebend Labeldrucker Kabelloser Mini Label Printer mit iOS Android Namensaufkleber Schule'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0C3L93F2Q/?tag=tolees0ca-21'
-descuento: '29.36'
-average: '18.4671428571428'
+descuento: '23.31'
+average: '18.07499999999995'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

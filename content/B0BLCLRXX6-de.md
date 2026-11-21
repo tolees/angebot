@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Unisex Smash 3.0 Mid Wtr Turnschuhe Black Rose Gold Metallic 37.5 EU'
-date: 2026-10-21 14:02:05
+date: 2026-11-20 21:01:26
 image: 'https://m.media-amazon.com/images/I/31AQhoW6YsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0BLCLRXX6-de PUMA Unisex Smash 3.0 Mid Wtr Turnschuhe Black Rose Gold...'
 sku: 'B0BLCLRXX6-de'
 tags: [ '🇩🇪', ]
-actualPrice: 39.99 EUR
+actualPrice: 39.97 EUR
 currency: EUR
-price: 39.99
+price: 39.97
 comparePrice: 64.95 EUR
 prodname: 'PUMA Unisex Smash 3.0 Mid Wtr Turnschuhe Black Rose Gold Metallic 37.5 EU'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0BLCLRXX6/?tag=tolees0ca-21'
-descuento: '38.43'
-average: '39.8128571428572'
+descuento: '38.46'
+average: '39.832500000000053'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

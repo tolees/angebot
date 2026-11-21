@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Taschen in den Seitennähten
 - Raglanärmel mit Mesh-Einsatz für mehr Atmungsaktivität
 - BCI: Mit dem Kauf von Baumwollprodukten von PUMA unterstützt du einen nachhaltigen Baumwollanbau. Mehr unter bettercotton.org/massbalance
 - Rippbündchen
+- Taschen in den Seitennähten
 - Normale Passform
 
 [🛒 Hier!!]({{< param buyurl >}})

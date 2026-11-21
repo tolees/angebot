@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Formel Bronzing Lotion mit Coenzym Q10
 - Hautverträglichkeit dermatologisch bestätigt
 - Straffungslotion verbessert die Elastizität der Haut bereits in 10 Tagen
 - Die Body Lotion spendet 48 Stunden Feuchtigkeit und einen angenehmen Duft
-- Formel Bronzing Lotion mit Coenzym Q10
 - Die folgenden Informationen gelten für jede Einheit pro Packung
 - Lotion für trockene Haut
 

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hautverträglichkeit dermatologisch bestätigt
-- Keine Tränen mehr Formulierung
-- 1 x 750 ml Penaten Bad mit Kamille
 - Reinigt sanft
+- Keine Tränen mehr Formulierung
 - Mit Kamilleextrakt und Kamilleduft
+- 1 x 750 ml Penaten Bad mit Kamille
+- Hautverträglichkeit dermatologisch bestätigt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07TY4VKGM{{</world>}}

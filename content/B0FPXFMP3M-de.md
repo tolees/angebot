@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Grogu Lehrling des Mandalorianers 75446 | Spielzeug ab 10 Jahren für Jungen & Mädchen Spielfigur Modellbau mit Beskar-Rüstung DIY Deko Geschenk 1200 Teile'
-date: 2026-11-19 11:37:52
+date: 2026-11-20 17:30:31
 image: 'https://m.media-amazon.com/images/I/51DV-SZS94L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFMP3M/?tag=tolees0ca-21'
 descuento: '38.46'
-average: '84.92925925925914'
+average: '84.752857142857025'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

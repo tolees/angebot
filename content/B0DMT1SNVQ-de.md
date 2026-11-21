@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Design lässt sich der Schuh leicht an- und ausziehen
-- Standard Breite
 - EVA Zwischensohle sorgt für ein angenehm
+- Standard Breite
 - Leichtes Tragegefühl
 
 [🛒 Hier!!]({{< param buyurl >}})

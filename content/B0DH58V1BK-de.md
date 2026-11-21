@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Barracuda X Chroma - kabelloses Multiplattform-Gaming-Headset mit 6 Zonen Chroma RGB SmartSwitch Hyperspeed & Bluetooth 40mm Treiber abnehmbares HyperClear Cardioid-Mikrofon Weiß'
-date: 2026-11-16 11:43:07
+date: 2026-11-21 12:07:35
 image: 'https://m.media-amazon.com/images/I/31Vx+5SVOUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0DH58V1BK/?tag=tolees0ca-21'
 descuento: '50.58'
-average: '71.044999999999973'
+average: '70.673999999999978'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

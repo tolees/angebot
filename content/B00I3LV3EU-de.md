@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Headsetfunktion dank integriertem Mikrofon
-- Gepolsterte Ohrmuscheln für angenehmen Hörkomfort
-- 30-mm-Ferrit-Treiber für leistungsstarken, ausgewogenen Klang
 - Leichtes, faltbares Design für ein hochmobiles Musikerlebnis
+- 30-mm-Ferrit-Treiber für leistungsstarken, ausgewogenen Klang
+- Gepolsterte Ohrmuscheln für angenehmen Hörkomfort
 - Frequenzbereich: 10–24.000 Hz
 - Lieferumfang: Sony MDR-ZX310AP Kopfhörer
 

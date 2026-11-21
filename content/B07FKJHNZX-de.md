@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Größe: 305 x 76 cm
 - Leichter und schneller Auf- und Abbau, Luftringkonstruktion - Der Pool erhält automatisch seine Formstabilität
+- Größe: 305 x 76 cm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07FKJHNZX{{</world>}}

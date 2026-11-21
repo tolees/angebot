@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Dekorativ: für Anwendungen im Haushalt. Allgemeinbeleuchtung
 - INNOVANT : LOSRAM LED Superstar impressionne par son design innovant et offre une solution déclairage moderne grâce à sa technologie à filament LED.
 - Effektiv: sofort 100 % Licht, keine Aufwärmzeit
 - Energiesparend: Energieeffizienzklasse A
-- Dekorativ: für Anwendungen im Haushalt. Allgemeinbeleuchtung
 - Langlebig: sehr hohe Anzahl an Schaltzyklen
 
 [🛒 Hier!!]({{< param buyurl >}})

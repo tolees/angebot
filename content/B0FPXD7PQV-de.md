@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Monster Jam Sparkle Smash mit Rückziehmotor 42220 | Spielzeug für Jungen & Mädchen ab 7 Jahren Monstertruck mit pinkem Einhorn Theme kreatives Geburtstagsgeschenk 243 Teile'
-date: 2026-11-19 19:34:15
+date: 2026-11-20 22:21:28
 image: 'https://m.media-amazon.com/images/I/51yKwGmeKrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXD7PQV/?tag=tolees0ca-21'
 descuento: '40.01'
-average: '19.157641509433994'
+average: '19.146728971962649'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Mit regulärer Passform
 - Locker geschnitten
 - Ideal für jede Gelegenheit und jede Jahreszeit
-- Mit regulärer Passform
 - Im legeren Look
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichter Abgang mit perfekt ausbalancierten Noten.
-- Im Geschmack finden sich diese Aromen ebenfalls wieder.
 - Dominante Aromen von Zuckerrohr und vergorenen Bananen.
+- Im Geschmack finden sich diese Aromen ebenfalls wieder.
+- Leichter Abgang mit perfekt ausbalancierten Noten.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B009NRCYP0{{</world>}}

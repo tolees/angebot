@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Oberfläche aus hochwertigem roten Kunststoff mit schwarzen Applikationen, 200 Watt
-- Ein-Hand-Bedientaste
 - Zusätzlicher Deckel für die Aufbewahrung der zerkleinerten Speisen
+- Ein-Hand-Bedientaste
+- Oberfläche aus hochwertigem roten Kunststoff mit schwarzen Applikationen, 200 Watt
 - Spülmaschinengeeigneter Glasbehälter (500 ml Fassungsvermögen)
 - Herausnehmbares, 2-flügeliges Edelstahlmesser – Geeignet für alle Lebensmitteltypen
 

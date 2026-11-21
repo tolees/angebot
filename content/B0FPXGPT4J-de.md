@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Wichtel 76461 | Spielzeug ab 8 Jahren für Mädchen & Jungen Deko-Figur mit Gilderoy Lockharts Buch & Zauberstab Geschenk 320 Teile'
-date: 2026-11-19 11:42:54
+date: 2026-11-20 17:34:11
 image: 'https://m.media-amazon.com/images/I/51gWT+CBBmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGPT4J/?tag=tolees0ca-21'
 descuento: '40.01'
-average: '19.653741007194615'
+average: '19.641857142857511'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

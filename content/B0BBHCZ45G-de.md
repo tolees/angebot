@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Strahlart Rain: Unzählige feine Tropfen fügen sich zusammen zu einem gleichmäßigen, vollen und wohltuenden Brauseregen.
-- Lieferumfang: Handbrause, Montageanleitung
 - 5 Jahre Herstellergarantie: Strenge interne Qualitätskontrollen garantieren eine konstant hohe Qualität der Produkte und erlauben es, fünf Jahre Garantie auf jede Handbrause zu gewähren.
 - Die Handbrause lässt sich dank der pflegeleichten und langlebigen Chromoberfläche gestalterisch perfekt mit allen Duravit Armaturenlinien kombinieren.
+- Lieferumfang: Handbrause, Montageanleitung
+- Strahlart Rain: Unzählige feine Tropfen fügen sich zusammen zu einem gleichmäßigen, vollen und wohltuenden Brauseregen.
 - EasyClean: Kalk und Schmutzablagerungen an den Silikonnoppen lassen sich einfach mit den Fingern abrubbeln.
 
 [🛒 Hier!!]({{< param buyurl >}})

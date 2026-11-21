@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Über 100 Stunden Spielzeit
-- Bonusinhalt: "Signature Pack" DLC und das exklusive "Quack Pack" DLC
-- 25 Orten, Missionen und Premium-Inhalte
 - 3 Spiele in 1: HITMAN, HITMAN 2 und HITMAN 3
+- 25 Orten, Missionen und Premium-Inhalte
+- Bonusinhalt: "Signature Pack" DLC und das exklusive "Quack Pack" DLC
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0F679GH7G{{</world>}}

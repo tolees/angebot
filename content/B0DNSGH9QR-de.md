@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Deutlich beschriftet mit Gewicht für einfache Identifizierung während deines Trainings.
-- Ideal für den Gebrauch zu Hause im Fitnessstudio; Standard-Langhanteldurchmesser 2,5 cm.
-- Grip Hantelscheibe mit Grifflöchern bietet zuverlässigen rutschfesten Halt.
-- Dieses Produkt enthält zu 100% nach dem Global Recycled Standard (GRS) zertifiziertes recyceltes Alteisen.
-- Grip Hantelscheibe für Gewichtheben, Kraft- und Ausdauertraining, 10 kg
 - Passend für Langhanteln in Standardgröße, ideal für Freizeit- oder Anfänger-Training.
+- Ideal für den Gebrauch zu Hause im Fitnessstudio; Standard-Langhanteldurchmesser 2,5 cm.
+- Dieses Produkt enthält zu 100% nach dem Global Recycled Standard (GRS) zertifiziertes recyceltes Alteisen.
+- Grip Hantelscheibe mit Grifflöchern bietet zuverlässigen rutschfesten Halt.
+- Deutlich beschriftet mit Gewicht für einfache Identifizierung während deines Trainings.
+- Grip Hantelscheibe für Gewichtheben, Kraft- und Ausdauertraining, 10 kg
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DNSGH9QR{{</world>}}

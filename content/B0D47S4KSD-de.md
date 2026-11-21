@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aluminiumrahmen in dezentem, mattem Grün
 - Emuliert Garrett Kings Schießstile/Looks
-- Shortstache Signature Edition - Polarizer + Black Mist
 - Everyday" (¼ Nebel) - Diffusionsstärke für subtile Lichthöfe
+- Aluminiumrahmen in dezentem, mattem Grün
 - 16-Schicht-Beschichtung - Anti-Scratch / Anti-Reflective / Anti-Fingerprint
+- Shortstache Signature Edition - Polarizer + Black Mist
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D47S4KSD{{</world>}}

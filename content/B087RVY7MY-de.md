@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kurzarm-shirt
 - Confortable Material: 100% cotton
+- Kurzarm-shirt
 - Signature Logo: unsere Unterschrift Columbia Logo wird für zusätzlichen Stil auf der Vorderseite der Brust gekennzeichnet
 
 [🛒 Hier!!]({{< param buyurl >}})

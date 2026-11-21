@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Bluey: Schule mit Rusty und Bluey 11221 | Spielzeug ab 4 Jahren für Jungen & Mädchen 2 Minifiguren & Spiellebensmittel Zubehör Montessori Geschenk 106 Teile'
-date: 2026-11-19 11:37:33
+date: 2026-11-20 17:30:12
 image: 'https://m.media-amazon.com/images/I/51ARCTtD5JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFJHZW/?tag=tolees0ca-21'
 descuento: '36.01'
-average: '15.752982456140337'
+average: '15.761016949152529'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

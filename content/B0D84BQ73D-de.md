@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Oft kopiert, nie erreicht: Der einzigartige Geschmack der ungarischen Paprika
 - Hauchdünn geschnitten und extra knusprige Kartoffelchips
+- Oft kopiert, nie erreicht: Der einzigartige Geschmack der ungarischen Paprika
 - Glutenfrei. Ohne künstliche Geschmacksverstärker, künstliche Farbstoffe. Mit reinem Sonnenblumenöl
 
 [🛒 Hier!!]({{< param buyurl >}})

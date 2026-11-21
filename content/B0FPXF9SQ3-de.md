@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Vini Jr. – Fußball-Highlights 43027 | Spielzeug ab 10 Jahren Jungen & Mädchen 3D Modellbau mit Minifigur zum Sammeln Kinderzimmer Deko Geschenk 510 Teile'
-date: 2026-11-19 11:36:28
+date: 2026-11-20 17:33:35
 image: 'https://m.media-amazon.com/images/I/51BhKGskiUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXF9SQ3/?tag=tolees0ca-21'
 descuento: '36.68'
-average: '18.291092436974815'
+average: '18.302644628099195'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
