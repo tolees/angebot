@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City F1 Truck mit Audi F1 Rennwagen 60493 | Spielzeug ab 7 Jahren Jungen & Mädchen Modellbausatz 3 Minifiguren & Fahrzeug-Hebefunktion Motorsport-Geschenk 508 Teile'
-date: 2026-11-26 23:07:48
+date: 2026-11-28 00:11:21
 image: 'https://m.media-amazon.com/images/I/51XWIDTt9CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFL5ZW/?tag=tolees0ca-21'
 descuento: '35.56'
-average: '27.900413793103081'
+average: '27.915238095237733'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

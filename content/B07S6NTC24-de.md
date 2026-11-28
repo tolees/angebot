@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - SoftFoam+: PUMAs innovative weiche Innensohle für maximalen Laufkomfort vom ersten bis zum letzen Schritt
-- IMEVA: PUMAs Zwischensohle für leichten und gedämpften Komfort
 - Niedriger Schnitt
+- IMEVA: PUMAs Zwischensohle für leichten und gedämpften Komfort
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07S6NTC24{{</world>}}

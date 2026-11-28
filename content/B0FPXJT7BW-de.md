@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3in1 Wilde Tiere: Bunter Kolibri 31384 | Spielzeug ab 8 Jahren für Mädchen & Jungen 3 Bauoptionen: Kolibri Schmetterling oder Fisch Geschenk für Kinder 312 Teile'
-date: 2026-11-18 11:30:36
+date: 2026-11-28 00:05:24
 image: 'https://m.media-amazon.com/images/I/51sotYFTARL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXJT7BW-de LEGO Creator 3in1 Wilde Tiere: Bunter Kolibri 31384 |...'
 sku: 'B0FPXJT7BW-de'
 tags: [ '🇩🇪', ]
-actualPrice: 19.99 EUR
+actualPrice: 18.98 EUR
 currency: EUR
-price: 19.99
+price: 18.98
 comparePrice: 29.99 EUR
 prodname: 'LEGO Creator 3in1 Wilde Tiere: Bunter Kolibri 31384 | Spielzeug ab 8 Jahren für Mädchen & Jungen 3 Bauoptionen: Kolibri Schmetterling oder Fisch Geschenk für Kinder 312 Teile'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXJT7BW/?tag=tolees0ca-21'
-descuento: '33.34'
-average: '18.879451219512728'
+descuento: '36.71'
+average: '18.767604790419686'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Fortnite Tomatenkopf 77079 | Spielzeug ab 10 Jahren Jungen & Mädchen interaktive Figur Restaurant-Innenraum Deko Gamer Geschenk 210 Teile'
-date: 2026-11-26 12:09:41
+date: 2026-11-28 00:12:56
 image: 'https://m.media-amazon.com/images/I/51eqOtPurlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGFLTL/?tag=tolees0ca-21'
 descuento: '33.36'
-average: '10.033815789473664'
+average: '10.033246753246733'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obstfliegenfalle: Einfache Anwendung
 - Fruchtfliegen: Langzeitwirkung bis zu 6 Wochen
+- Obstfliegenfalle: Einfache Anwendung
 - Fruchtfliegenfalle für Küche und alle weiteren Räume geeignet - mit dekorativem Design
-- Fruchtfliegenfalle als insektizidfreier, hochwirksamer Lockstoff
 - Fruchtfliegen dauerhaft loswerden. Inhalt: 1 Falle mit 60 ml Lockmittel. In Deutschland hergestelltes und registriertes Produkt unter BAuA Nr. EU-0027078-0000 (Österreich) & EU-0027078-0000-VZ (Deutschland): Biozidprodukte vorsichtig verwenden. Vor Gebrauch stets Etikett und Produktinformationen lesen.
+- Fruchtfliegenfalle als insektizidfreier, hochwirksamer Lockstoff
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D2HYTLT2{{</world>}}

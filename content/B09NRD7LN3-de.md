@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Warner Bros. Universal Pictures Deutschland GmbH
 - Matrix Deutschland Blu-ray Auferstehungen
+- Warner Bros. Universal Pictures Deutschland GmbH
 - Physischer Film
 
 [🛒 Hier!!]({{< param buyurl >}})

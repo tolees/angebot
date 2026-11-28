@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erkunde zu Fuß oder mit dem Boot verschiedenste rätselhafte Orte
-- Gänzlich allein oder in lokalem sowie online-Koop spielbar
 - Die Erschaffer von Little Nightmares erkunden neue Abgründe des Horrors
-- Monster, bei denen euch der Atem stillsteht, und unvergleichlicher atmosphärischer Horror
 - Minimalistisches Erzählerlebnis mit vielen Deutungsebenen
+- Monster, bei denen euch der Atem stillsteht, und unvergleichlicher atmosphärischer Horror
+- Gänzlich allein oder in lokalem sowie online-Koop spielbar
+- Erkunde zu Fuß oder mit dem Boot verschiedenste rätselhafte Orte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FJRXDPP6{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Logostickerei
+- Modellnummer: 3000202
 - Flachstrickkragen
 - Normale Passform
-- Modellnummer: 3000202
-- Logostickerei
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CRL6YC42{{</world>}}

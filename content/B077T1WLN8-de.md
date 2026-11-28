@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'roba Kombi-Hochstuhl Hochstuhl mit Essbrett wandelbar zu Tisch & Stuhl Kinderhochstuhl Holz natur Sitz gepolstert Folie ‚Little Stars‘ 7512F190'
-date: 2026-11-21 04:29:13
+date: 2026-11-27 18:04:40
 image: 'https://m.media-amazon.com/images/I/31nV28TvvnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B077T1WLN8/?tag=tolees0ca-21'
 descuento: '34.81'
-average: '55.798'
+average: '55.18'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

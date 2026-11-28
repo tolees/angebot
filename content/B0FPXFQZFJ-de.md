@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Überfall auf den Polizeizug 60508 | Spielzeug ab 7 Jahren Jungen & Mädchen Modellbau mit ferngesteuertem Zug Rallyeauto 6 Minifiguren Geschenk 1313 Teile'
-date: 2026-11-24 20:25:10
+date: 2026-11-28 11:07:34
 image: 'https://m.media-amazon.com/images/I/51pmsyyaLEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFQZFJ/?tag=tolees0ca-21'
 descuento: '36.50'
-average: '127.41405405405403'
+average: '127.39230769230767'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

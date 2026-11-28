@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DUPLO Classic Bunte Kreativbox 10479 | Spielzeug ab 1 Jahr für Jungen & Mädchen inkl. Zahlensteine Tiere Fahrzeuge & Spielessen Geschenk für Kinder 80 Teile'
-date: 2026-11-27 10:25:39
+date: 2026-11-28 11:10:10
 image: 'https://m.media-amazon.com/images/I/51+IkIA4-HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGPH6P/?tag=tolees0ca-21'
 descuento: '36.07'
-average: '12.628139534883777'
+average: '12.631590909090963'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

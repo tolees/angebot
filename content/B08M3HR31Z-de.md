@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Integriere deinen netzwerkfähigen Wechselrichter für eine Gesamtübersicht
+- Du benötigst WLAN und eine Steckdose am Zählerschrank
+- Smarter Stromzählersensor für digitale Stromzähler
+- Kompatibel mit fast allen digitalen Stromzählern
 - Verbinde bis zu 10 Geräte von Shelly direkt in der everHome App
 - Plug & Play - Einfache Installation
-- Kompatibel mit fast allen digitalen Stromzählern
-- Integriere deinen netzwerkfähigen Wechselrichter für eine Gesamtübersicht
 - Messe deinen Energieverbrauch in Echtzeit
-- Smarter Stromzählersensor für digitale Stromzähler
-- Du benötigst WLAN und eine Steckdose am Zählerschrank
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08M3HR31Z{{</world>}}

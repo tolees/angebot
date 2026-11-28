@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Marvel The Fantastic Four H.E.R.B.I.E. 76339 | Spielzeug ab 10 Jahren Jungen & Mädchen Marvel-Sammlerstück Zimmerdeko zum Film beweglicher Roboter Geschenk 747 Teile'
-date: 2026-11-26 23:06:30
+date: 2026-11-28 00:07:46
 image: 'https://m.media-amazon.com/images/I/41LbWzVGCQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0GGSL87HR/?tag=tolees0ca-21'
 descuento: '45.72'
-average: '41.446285714285757'
+average: '41.350277777777819'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

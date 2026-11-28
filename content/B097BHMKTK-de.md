@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Überlegene Qualität
-- Marke: LOréal Paris
 - Hochwertige Produkte
+- Marke: LOréal Paris
 - Stylischer und modischer
 
 [🛒 Hier!!]({{< param buyurl >}})

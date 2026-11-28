@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Extra gentle - Cleansing foam
 - Reinigungsschaum
 - Clinique
 - Hergestellt im Vereinigten Staaten
+- Extra gentle - Cleansing foam
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01BNMT15S{{</world>}}

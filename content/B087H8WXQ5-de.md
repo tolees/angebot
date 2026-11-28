@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Deutsch, Japanisch
-- Junichi Sato; Kunihiko Ikuhara
 - DVD
+- Junichi Sato; Kunihiko Ikuhara
+- Deutsch, Japanisch
 - 1150
 
 [🛒 Hier!!]({{< param buyurl >}})

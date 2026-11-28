@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - hoher Tragekomfort durch rückenentlastendes Tragesystem
-- klimaneutral kompensiert; überwiegend aus recycelten Materialien hergestellt
-- Sehr großer Trekkingrucksack für anspruchsvolles Trekking
-- „Comfort Space“ zur Entlastung des empfindlichen unteren Rückenbereichs
 - unterstützender, individuell einstellbarer Rücken
+- Sehr großer Trekkingrucksack für anspruchsvolles Trekking
+- klimaneutral kompensiert; überwiegend aus recycelten Materialien hergestellt
+- „Comfort Space“ zur Entlastung des empfindlichen unteren Rückenbereichs
 - ErgoShape-Women Schultergurte für optimale Bewegungsfreiheit auf Frauen bzw. kleinere Personen abgestimmt
 
 [🛒 Hier!!]({{< param buyurl >}})

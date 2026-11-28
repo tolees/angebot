@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Schneidespitzen eignen sich für verschiedene Aufgaben, dank der unterschiedlichen Formen: Zeichen-Spitze · Schattieren-Spitze · Markieren-Spitze · Muster-Spitze.
 - Die Schneideklingen sind geeignet für den Dremel VersaTip 2000 als Alternative zum klassischen Lötkolben.
 - Mit den Schneideklingen können unterschiedliche Anwendungen ausgeführt werden, wie beispielsweise das Zeichnen, Schattieren oder Streifen.
+- Die Schneidespitzen eignen sich für verschiedene Aufgaben, dank der unterschiedlichen Formen: Zeichen-Spitze · Schattieren-Spitze · Markieren-Spitze · Muster-Spitze.
 - Die Dremel Lötspitzen sind für anspruchsvolle Detaillarbeiten wie für die Verzierung von Leder, Spanplatten, Hartzholz sowie Weichholz geeignet.
 - Lieferumfang: 4x Dremel Lötspitzen (204)
 

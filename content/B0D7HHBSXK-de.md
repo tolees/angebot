@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Deine Taten und Entscheidungen werden den Verlauf der Geschichte auf dramatische Weise beeinflussen
-- Verbünde dich mit Charakteren aus über 30 Klassen, jeweils mit bevorzugten Waffen, einzigartigen Fähigkeiten und effektiven Taktiken
 - Das strategische, rundenbasierte Kampfsystem des Originals wurde mit einem Zeitlinien-System weiter verbessert
+- Verbünde dich mit Charakteren aus über 30 Klassen, jeweils mit bevorzugten Waffen, einzigartigen Fähigkeiten und effektiven Taktiken
+- Deine Taten und Entscheidungen werden den Verlauf der Geschichte auf dramatische Weise beeinflussen
 - Drei Schwierigkeitsstufen stehen zur Auswahl: Entspannt, Normal oder Schwer
 
 [🛒 Hier!!]({{< param buyurl >}})

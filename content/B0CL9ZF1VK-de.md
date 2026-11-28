@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WOLTU Esszimmerstühle 2er Set für Esszimmer Wohnzimmer ergonomische Küchenstühle gepolstert mit Armlehnen Metallbeinen Sitzfläche aus Samt Dunkelgrau'
-date: 2026-10-30 10:12:07
+date: 2026-11-27 19:01:38
 image: 'https://m.media-amazon.com/images/I/41F7Wzdbv4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0CL9ZF1VK-de WOLTU Esszimmerstühle 2er Set für Esszimmer Wohnzimmer...'
 sku: 'B0CL9ZF1VK-de'
 tags: [ '🇩🇪', ]
-actualPrice: 99.99 EUR
+actualPrice: 94.99 EUR
 currency: EUR
-price: 99.99
+price: 94.99
 comparePrice: 154.99 EUR
 prodname: 'WOLTU Esszimmerstühle 2er Set für Esszimmer Wohnzimmer ergonomische Küchenstühle gepolstert mit Armlehnen Metallbeinen Sitzfläche aus Samt Dunkelgrau'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0CL9ZF1VK/?tag=tolees0ca-21'
-descuento: '35.49'
-average: '99.99'
+descuento: '38.71'
+average: '97.49'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

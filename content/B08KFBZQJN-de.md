@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hosenschlitz mit Reißverschluss
 - Slim Fit Chinos mit Gürtelschlaufen
 - Paspeltaschen am Gesäß und Seitentaschen
+- Hosenschlitz mit Reißverschluss
 - Materialzusammensetzung: 98% Baumwolle, 2% Elasthan
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

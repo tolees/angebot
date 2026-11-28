@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hergestellt aus robusten Materialien für langanhaltende Nutzung
 - Black
+- Hergestellt aus robusten Materialien für langanhaltende Nutzung
 - Geeignet für verschiedene Sportarten und Aktivitäten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

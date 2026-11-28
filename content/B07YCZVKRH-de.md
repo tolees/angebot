@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- kann der Größe des Kindes angepasst werden, Vollgummi Lenkergriffe mit Sturzpads
 - Rutschhemmendes Trittbrett
 - Leuchtende Räder während der Fahrt, Kugellager vorne und hinten
 - 3 Räder für stabiles Fahren und Hinterradbremse
+- kann der Größe des Kindes angepasst werden, Vollgummi Lenkergriffe mit Sturzpads
 - Optimal zum Training des Gleichgewichts
 
 [🛒 Hier!!]({{< param buyurl >}})

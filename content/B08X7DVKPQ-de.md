@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Cooles T-Shirt von Lonsdale
-- Reguläre Passform
 - Hergestellt aus reinster Baumwolle
+- Reguläre Passform
+- Cooles T-Shirt von Lonsdale
 - Plakativer Logo-Druck vorne
 - Klassischer Rundhalsausschnitt
 

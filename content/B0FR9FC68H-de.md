@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Bluey: Blueys Familie Steinen 11217 | Spielzeug ab 5 Jahren für Jungen und Mädchen Lernspielzeug inkl. 4 Figuren & Zubehör Montessori Set Geschenk 466 Teile'
-date: 2026-11-26 23:03:28
+date: 2026-11-28 00:06:46
 image: 'https://m.media-amazon.com/images/I/417sR6evsPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FR9FC68H/?tag=tolees0ca-21'
 descuento: '34.29'
-average: '47.005769230769353'
+average: '46.986603773585024'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

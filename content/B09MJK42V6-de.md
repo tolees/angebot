@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideale Produkte
 - Lang anhaltend
+- Ideale Produkte
 - Einfache Bedienung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Animal Crossing Mimmis Outdoor-Spaß kreatives Spielzeug für Kinder Tiere-Set mit Hasen-Figur aus dem Videospiel Geschenk für Mädchen und Jungen ab 6 Jahren 77047'
-date: 2026-11-08 14:24:23
+date: 2026-11-28 00:05:33
 image: 'https://m.media-amazon.com/images/I/51ME6Wzn71L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0CFVZV1N5-de LEGO Animal Crossing Mimmis Outdoor-Spaß kreatives...'
 sku: 'B0CFVZV1N5-de'
 tags: [ '🇩🇪', ]
-actualPrice: 10.41 EUR
+actualPrice: 10.36 EUR
 currency: EUR
-price: 10.41
+price: 10.36
 comparePrice: 19.99 EUR
 prodname: 'LEGO Animal Crossing Mimmis Outdoor-Spaß kreatives Spielzeug für Kinder Tiere-Set mit Hasen-Figur aus dem Videospiel Geschenk für Mädchen und Jungen ab 6 Jahren 77047'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0CFVZV1N5/?tag=tolees0ca-21'
-descuento: '47.92'
-average: '13.673529411764765'
+descuento: '48.17'
+average: '13.489444444444501'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

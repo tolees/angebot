@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tefal Dual Easy Fry Heißluftfritteuse 8 3 L mit 2 Kammern | XL-Schublade 7 Programme 2700 W Extra-Crisp-Technologie fettarm frittieren & energiesparend spülmaschinenfest EY9018'
-date: 2026-11-22 03:02:22
+date: 2026-11-27 19:03:11
 image: 'https://m.media-amazon.com/images/I/31CILiAJLEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0CF9TPSH9/?tag=tolees0ca-21'
 descuento: '57.50'
-average: '105.76407407407342'
+average: '105.02214285714223'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

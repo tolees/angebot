@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- laminierter Zeltboden resistent gegen Ameisensäure
 - 1 Apsis
+- Klimaneutral: Die Emissionen aus Materialien, Herstellungsprozess und Versand wurden ganzheitlich ermittelt und systematisch reduziert. Aktuell nicht vermeidbare Emissionen wurden vollständig über die unabhängige Non-Profit-Organisation „myclimate“ kompensiert
 - mehr Kopffreiheit durch überarbeitete Gestängekonstruktion
 - ultraleichte Überwurf-Konstruktion
-- Klimaneutral: Die Emissionen aus Materialien, Herstellungsprozess und Versand wurden ganzheitlich ermittelt und systematisch reduziert. Aktuell nicht vermeidbare Emissionen wurden vollständig über die unabhängige Non-Profit-Organisation „myclimate“ kompensiert
-- laminierter Zeltboden resistent gegen Ameisensäure
 - verstellbare seitliche Bodenbelüftung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

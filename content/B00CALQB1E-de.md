@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Pflaumenblüte 10369 | Bausatz für Erwachsene pflegeleichte Blumendeko der Botanik Kollektion künstliche Pflanze kreatives Geschenk 327 Teile'
-date: 2026-11-26 22:22:36
+date: 2026-11-27 23:31:12
 image: 'https://m.media-amazon.com/images/I/41czpkZ5xJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B00CALQB1E/?tag=tolees0ca-21'
 descuento: '37.01'
-average: '19.434197324414679'
+average: '19.432383333333295'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

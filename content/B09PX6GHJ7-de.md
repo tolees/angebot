@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 270 Grad Lenkradius mit einstellbaren Output-Optionen
-- Maßstabsgetreues Lenkrad und Fußpedale, optimiert für ein authentisches Rennerlebnis
 - Sichere Montage mit stabilem Klemmsystem
+- 270 Grad Lenkradius mit einstellbaren Output-Optionen
 - Kompatibel mit Playstation 5, Playstation 4 und PC
+- Maßstabsgetreues Lenkrad und Fußpedale, optimiert für ein authentisches Rennerlebnis
 - Offiziell lizenziert von Sony
 
 [🛒 Hier!!]({{< param buyurl >}})

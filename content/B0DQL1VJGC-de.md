@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Streaming-Erfolg: Einer der Bestseller im Crunchyroll-Programm mit großer Fangemeinde
 - Generationsprägend: Wegweisend und prägend für eine ganze Generation von Anime-Fans
+- Skypia-Arc: Enthält die spannenden Abenteuer der Strohhut-Bande auf der Himmels-Insel Skypia in 10.000 Meter Höhe
+- Streaming-Erfolg: Einer der Bestseller im Crunchyroll-Programm mit großer Fangemeinde
 - Hochwertige Blu-ray: Genieße die sechste Box der TV-Serie in brillanter Blu-ray-Qualität
 - Anime-Klassiker: Ein zeitloser Anime-Klassiker, der in keiner Sammlung fehlen darf
-- Skypia-Arc: Enthält die spannenden Abenteuer der Strohhut-Bande auf der Himmels-Insel Skypia in 10.000 Meter Höhe
 - Manga-Adaption: Adaption des erfolgreichsten Mangas aller Zeiten von Eiichiro Oda
 - TV-Bekanntheit: Bekannt aus den Fernsehausstrahlungen auf RTL II, Tele 5, Animax, VIVA und ProSieben MAXX
 

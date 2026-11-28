@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DC Batman Logo 76330 | Spielzeug ab 12 Jahren für Jungen & Mädchen Superhelden Spielzeug mit 2 Minifiguren zum Sammeln Deko Geschenk 678 Teile'
-date: 2026-11-26 23:07:13
+date: 2026-11-28 00:07:11
 image: 'https://m.media-amazon.com/images/I/51Rrb-IHMLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXD2Y9T/?tag=tolees0ca-21'
 descuento: '33.75'
-average: '53.317446808510596'
+average: '53.310624999999959'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

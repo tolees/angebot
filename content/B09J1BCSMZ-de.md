@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Qwixx Würfelspiel mit achtseitigen Würfel
 - Teil der großen Qwixx-Familie
 - Individuelle Glückszahlen für mehr Spannung
 - Internationale Version mit einer Anleitung in 9 Sprachen
-- Qwixx Würfelspiel mit achtseitigen Würfel
 - Qwixx, nominiert zum Spiel des Jahres 2013
 
 [🛒 Hier!!]({{< param buyurl >}})

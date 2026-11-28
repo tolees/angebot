@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schachtel enthält 24 portionen
-- Zuckerfrei
 - Kohlensäurehaltiger energydrink mit vitaminen, mit süßungsmitteln
-- Kühl, dunkel und trocken lagern
-- Kohlensäurehaltiges, kalorienarmes
 - Für vegetarische und vegane ernährung geeignet
 - Abgefüllt in Deutschland
+- Schachtel enthält 24 portionen
+- Kühl, dunkel und trocken lagern
+- Kohlensäurehaltiges, kalorienarmes
+- Zuckerfrei
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DVMZSGNQ{{</world>}}

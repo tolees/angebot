@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Halbhoher Schaft
-- Formstrip an der Innen- und Außenseite
 - Gepolsterter Schuhkragen
+- Formstrip an der Innen- und Außenseite
+- Halbhoher Schaft
 - Obermaterial aus Veloursleder
 
 [🛒 Hier!!]({{< param buyurl >}})

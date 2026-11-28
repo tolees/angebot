@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Synthetik
 - Obermaterial: Synthetik
+- Innenmaterial: Synthetik
 - Verschluss: Synthetisch
 
 [🛒 Hier!!]({{< param buyurl >}})

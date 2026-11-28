@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gummi-Cupsohle
-- Textilfutter
 - Besteht zu mindestens 20 % aus recycelten Materialien
 - Reguläre Passform
-- Schnürverschluss
 - Obermaterial aus Wildleder
+- Textilfutter
+- Gummi-Cupsohle
+- Schnürverschluss
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DK5268PS{{</world>}}

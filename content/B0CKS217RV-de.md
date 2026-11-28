@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Cloudfoam Comfort Einlegesohle
 - Schnürsenkel
+- Besteht zu mindestens 20 % aus recycelten und erneuerbaren Materialien
+- Obermaterial aus Synthetikleder
 - Reguläre Passform
 - Weiches Tragegefühl
-- Obermaterial aus Synthetikleder
-- Gummiaußensohle
-- Cloudfoam Comfort Einlegesohle
-- Besteht zu mindestens 20 % aus recycelten und erneuerbaren Materialien
 - Textilfutter
+- Gummiaußensohle
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CKS217RV{{</world>}}

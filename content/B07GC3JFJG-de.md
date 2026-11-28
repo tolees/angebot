@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lederbezogene Innensohle: bequemer zu tragen
-- Gummilaufsohle: guter Halt
 - Farbe: schwarz
 - Glattleder
+- Lederbezogene Innensohle: bequemer zu tragen
 - Lining: 42% Textil (60% PU, 40% Polyester), 33% Baumwolle, 25% Textil (60% Nylon, 40% PU)
+- Gummilaufsohle: guter Halt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07GC3JFJG{{</world>}}

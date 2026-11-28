@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk microSDXC UHS-I Speicherkarte für Nintendo Switch 256 GB U3 Class 10 100 MB/s Übertragung mehr Platz für Spiele'
-date: 2026-11-23 13:08:07
+date: 2026-11-28 14:51:54
 image: 'https://m.media-amazon.com/images/I/41t6OZ2xHrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QD6R5L7/?tag=tolees0ca-21'
 descuento: '46.67'
-average: '48.839600000000253'
+average: '48.775703971119391'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

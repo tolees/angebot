@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Ausschnitt : Abnehmbare Kapuze
 - Ärmel : Lange Ärmel
 - Produktart : Pufferjacke
-- Ausschnitt : Abnehmbare Kapuze
 - Materialzusammensetzung: Außenmaterial: 100% Recycelter Polyester; Füllmaterial: 100% Polyester; Futter: 100% Polyester
 
 [🛒 Hier!!]({{< param buyurl >}})

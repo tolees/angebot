@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100 % recycelte Schnürsenkel, Gurtband und Netzfutter
+- Obermaterial aus Schweinsleder und Mesh
 - Balgzunge hält Schmutz fern
 - Schützende Zehenkappe und Vibram TC5+ Gummisohle
-- Obermaterial aus Schweinsleder und Mesh
+- 100 % recycelte Schnürsenkel, Gurtband und Netzfutter
 - Wasserdichte Gore-Tex-Membran, außergewöhnliche Atmungsaktivität und wasserdichte Leistung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

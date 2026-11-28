@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Passe dein Spielerlebnis mit zwei programmierbaren Rücktasten individuell an
-- Eingebauter, wiederaufladbarer 2100mAh-Akku mit bis zu 40 Stunden Spielzeit mit einer einzigen Ladung
-- Offiziell lizenziert von Nintendo
 - Acht RGB-Zonen mit vier voreingestellten Modi für unendlich viele Beleuchtungskombinationen
+- Passe dein Spielerlebnis mit zwei programmierbaren Rücktasten individuell an
+- Offiziell lizenziert von Nintendo
+- Eingebauter, wiederaufladbarer 2100mAh-Akku mit bis zu 40 Stunden Spielzeit mit einer einzigen Ladung
 - Kabellose Verbindung mit einer Reichweite von 9 Metern, damit du bequem von der Couch aus spielen kannst
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

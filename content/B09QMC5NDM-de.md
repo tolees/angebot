@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Softe und atmungsaktive BOSS T-Shirts im Dreier Pack
 - Hochwertige Verarbeitung
+- Softe und atmungsaktive BOSS T-Shirts im Dreier Pack
 - Regular Fit
 - Logo Stickerei
 

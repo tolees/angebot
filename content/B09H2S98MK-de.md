@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'INIU Wireless Charger 15W Schnelles Induktive Ladestation mit LED | Schlaffreundliche Adaptive Beleuchtung Exklusiver Temp°Guard Kabelloses Ladegerät für iPhone 18 17 Pro Max Samsung S25 etc'
-date: 2026-11-15 16:01:47
+date: 2026-11-27 13:00:56
 image: 'https://m.media-amazon.com/images/I/41Ryx20NwkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B09H2S98MK/?tag=tolees0ca-21'
 descuento: '33.62'
-average: '14.442325581395469'
+average: '14.390222222222338'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

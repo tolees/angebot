@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Edelstahl / emailliertes Gusseisen
-- Edelstahl-Korpus mit robusten Griffen aus emailliertem Gusseisen
 - Packungsgewicht: 1.56 kg
 - Auf- und abschraubbarer Geflügelhalter zur einfachen Reinigung
 - Packung die Größe: 10.0 L x 47.8 H x 38.2 W (cm)
+- Edelstahl / emailliertes Gusseisen
+- Edelstahl-Korpus mit robusten Griffen aus emailliertem Gusseisen
 - Für das gleichzeitige Zubereiten von Geflügel und Gemüse
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

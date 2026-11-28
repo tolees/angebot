@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eine halbe Stunde vor der Sonnenexposition großzügig auf die Haut auftragen
-- Kann auch auf nasse Haut aufgetragen werden
 - Ideal für behaarte Körperstellen, insbesondere Arme, Beine und Kopfhaut
-- Dermatologisch getestet; Ölfrei - ISDIN engagiert sich für Projekte zur Regeneration der Meere und Ozeane
+- Kann auch auf nasse Haut aufgetragen werden
 - Ultraleicht, unsichtbar und erfrischend - Extra wasserfest und schweißbeständig
+- Eine halbe Stunde vor der Sonnenexposition großzügig auf die Haut auftragen
+- Dermatologisch getestet; Ölfrei - ISDIN engagiert sich für Projekte zur Regeneration der Meere und Ozeane
 - Angereicherte Formel mit 100% natürlichem Ingwer-Extrakt, der dank seines hohen Gehalts an Antioxidantien die Zellen vor oxidative Schäden schützt
 
 [🛒 Hier!!]({{< param buyurl >}})

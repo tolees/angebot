@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einfache Installation
-- S-Magnetspule für tiefe und kraftvolle Bässe
 - Elegantes omnidirektionales Design
+- S-Magnetspule für tiefe und kraftvolle Bässe
 - Satte und impulsive Bässe
 
 [🛒 Hier!!]({{< param buyurl >}})

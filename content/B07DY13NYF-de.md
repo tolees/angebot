@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Obermaterial: Kunstleder, Innenmaterial: Synthetik, Laufsohle: TR-Sohle, Decksohle: Leder
-- Absatztyp: Flach, Absatzhöhe: 2.5 cm
 - Produkttyp: Halbschuhe,Halbschuhe,Low-Top Sneaker,Herrenschuhe,0
+- Absatztyp: Flach, Absatzhöhe: 2.5 cm
 - Weite: Normal (G 1/2), Verschluss: Schnürsenkel
 
 [🛒 Hier!!]({{< param buyurl >}})

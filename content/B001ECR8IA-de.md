@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- für Handbetätigung und Elektroschrauber
-- ideal geeignet für Verschraubungen in Handwerk und Industrie
-- inklusive magnetischem Schnellwechsel-Bithalter und 1/4" Stecknussadapter
-- präzise und ordentliche Anordnung der gängigsten 1/4" Bits
 - Spezialstahl
+- ideal geeignet für Verschraubungen in Handwerk und Industrie
+- präzise und ordentliche Anordnung der gängigsten 1/4" Bits
+- inklusive magnetischem Schnellwechsel-Bithalter und 1/4" Stecknussadapter
+- für Handbetätigung und Elektroschrauber
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001ECR8IA{{</world>}}

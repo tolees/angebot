@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Spendet Feuchtigkeit, schützt
-- Aloe Bioferment + hat einen Komplex, Provitamin D
 - Für alle Hauttypen
+- Aloe Bioferment + hat einen Komplex, Provitamin D
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C28T6VZV{{</world>}}

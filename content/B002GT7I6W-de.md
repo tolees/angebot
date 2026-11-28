@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zustand: Neu
+- Gender: Männer Herren
 - LTB Herren Jeans Tinman Bootcut Blau - 2 Years Wash
 - Hersteller: LTB
 - Produktart: Jeans
-- Gender: Männer Herren
+- Zustand: Neu
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B002GT7I6W{{</world>}}

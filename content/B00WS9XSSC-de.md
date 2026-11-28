@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Hergestellt von Industriestandard , es unterstützt große Marken von Fotoausrüstung wie Reflektor, weiche Boxen, verschiedene Lichter, Sonnenschirm, Hintergrund usw.
 - Das Stativ ist aus einer Aluminiumlegierung und ist damit stark für Hochleistungsarbeit.
-- Höhenverstellbar von 72cm auf 210cm / 28,3 "bis 83". Max Belastung von 5,51 lbs / 2,5 kg.
-- Es ist auch ein geringes Gewicht und kann in einer kleinen Größe gefaltet werden und ist damit tragbar und leicht ist nach der Verwendung zu verstauen. Die festen Sperrfunktionen stellt Ihre Beleuchtung sicher.
 - Das Kit enthält 2 Stück 7 ft / 210cm Heavy Duty Aluminiumlegierung Studio Licht Stative.
+- Es ist auch ein geringes Gewicht und kann in einer kleinen Größe gefaltet werden und ist damit tragbar und leicht ist nach der Verwendung zu verstauen. Die festen Sperrfunktionen stellt Ihre Beleuchtung sicher.
+- Höhenverstellbar von 72cm auf 210cm / 28,3 "bis 83". Max Belastung von 5,51 lbs / 2,5 kg.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00WS9XSSC{{</world>}}

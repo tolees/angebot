@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Enthält 164 Teile
 - Ahsoka #150
 - Ahsoka Tano
-- Enthält 164 Teile
-- Kleines Sammlerstück, nicht unbedingt als Geschenk für Kinder geeignet
 - LEGO Brickheadz Star Wars Set
+- Kleines Sammlerstück, nicht unbedingt als Geschenk für Kinder geeignet
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09PKLMRLS{{</world>}}

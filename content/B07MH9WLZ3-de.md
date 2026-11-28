@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Adjustable shoulder straps
-- 2 functional compartments (phone + pen)
-- Main compartment (drawstring, magnetic)
 - Water repellent
+- Main compartment (drawstring, magnetic)
+- 2 functional compartments (phone + pen)
 - Kipling logo
 
 [🛒 Hier!!]({{< param buyurl >}})

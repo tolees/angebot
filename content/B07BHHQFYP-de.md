@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langlebigkeit
 - Qualität/Haltbarkeit
+- Langlebigkeit
 - Robustheit
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rundhalsausschnitt | Langarm
-- Aus einem weichen Single-Jersey-Stoff aus Baumwolle.
 - Passform: Regular Fit, Rückenlänge bei Größe M ca. 72 cm;
+- Aus einem weichen Single-Jersey-Stoff aus Baumwolle.
+- Rundhalsausschnitt | Langarm
 - Basic Longsleeve in Unifarben mit kleiner Logo-Stickerei auf der Brust. Mit Rippbündchen am Ausschnitt und den Ärmelabschlüssen. Aus einem weichen Single-Jersey-Stoff aus Baumwolle.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

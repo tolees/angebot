@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Marvel Spider-Man vs. Mysterio: Daily Bugle 76342 | Superhelden Spielzeug ab 10 Jahren für Jungen & Mädchen mit Mech Actionfigur & 7 Minifiguren Geschenk für Kinder 781 Teile'
-date: 2026-11-26 23:11:53
+date: 2026-11-28 00:12:27
 image: 'https://m.media-amazon.com/images/I/51rGO-LlyzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXG5S99/?tag=tolees0ca-21'
 descuento: '40.91'
-average: '73.556521739130375'
+average: '73.199583333333266'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

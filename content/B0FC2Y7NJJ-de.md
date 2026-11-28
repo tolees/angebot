@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfach 50 bzw. 100 Karten aus den Originalspielen durch Karten aus einem oder mehreren Themenpaketen ersetzen und viele weitere vergnügliche Spielstunden erleben.
 - Nur spielbar mit der Smartbox aus den Originalspielen der SMART10 Serie!
 - Nicht geeignet für Personen unter 18 Jahren!
+- Einfach 50 bzw. 100 Karten aus den Originalspielen durch Karten aus einem oder mehreren Themenpaketen ersetzen und viele weitere vergnügliche Spielstunden erleben.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0FC2Y7NJJ{{</world>}}

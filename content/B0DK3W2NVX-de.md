@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geschmack: Aromatisch, nussig und mit einer erfrischenden Zitrusnote
 - 以下の情報は単品あたりの情報です。
-- Die folgenden Informationen gelten für jede Einheit pro Packung
-- Herkunft: Sorgfältig ausgewählte Kaffeebohnen aus den besten Anbaugebieten
-- Nachhaltigkeit: Unterstützt nachhaltige Anbaumethoden und die Reduzierung von Verpackungsmaterial durch das Common Grounds Projekt
 - Besondere Merkmale: Ganze Bohnen für ein frisches und intensives Aroma; Ideal für Siebträgermaschinen und Kaffeevollautomaten geeignet
+- Nachhaltigkeit: Unterstützt nachhaltige Anbaumethoden und die Reduzierung von Verpackungsmaterial durch das Common Grounds Projekt
+- Herkunft: Sorgfältig ausgewählte Kaffeebohnen aus den besten Anbaugebieten
+- Geschmack: Aromatisch, nussig und mit einer erfrischenden Zitrusnote
+- Die folgenden Informationen gelten für jede Einheit pro Packung
 - Intensität: Mittelkräftige Intensität (6/10), ideal für Café Crema
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

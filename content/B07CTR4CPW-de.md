@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 32-mm-Gehäuse, Mineralglas, 2-Zeiger-Quarzwerk mit analoger Anzeige, 14-mm-Bandbreite
 - Rundes Edelstahlgehäuse mit weißem Zifferblatt
+- 32-mm-Gehäuse, Mineralglas, 2-Zeiger-Quarzwerk mit analoger Anzeige, 14-mm-Bandbreite
 - Roségold-Edelstahlarmband
 - Wasserdicht bis zu 30 m: Vor Spritzwasser geschützt
 

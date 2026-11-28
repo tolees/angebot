@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Voller Autofocus und Auto-Belichtung für zahlreiche F-Objektive
 - Gute Ergonomie
-- Neues Niveau der Schärfe
 - Robust, da gegen Staub und Spritzwasser geschützt
+- Neues Niveau der Schärfe
+- Voller Autofocus und Auto-Belichtung für zahlreiche F-Objektive
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09KKTQSQ9{{</world>}}

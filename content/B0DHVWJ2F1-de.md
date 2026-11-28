@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- OrthoLite Einlegesohle und GORE-TEX Membran
 - Außensohle aus Continental Gummi
 - Zwischensohlen-Sprengung: 10 mm (Ferse: 32 mm / Vorfuß: 22 mm)
+- LIGHTMOTION EVA-Zwischensohle
 - Regulär geschnitten
 - Obermaterial aus Ripstop mit Overlays
-- LIGHTMOTION EVA-Zwischensohle
 - Gewicht: 440 Gramm (Größe UK 8,5)
-- OrthoLite Einlegesohle und GORE-TEX Membran
 - Schnürsenkel
 
 [🛒 Hier!!]({{< param buyurl >}})

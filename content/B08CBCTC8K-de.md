@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- herausnehmbare Einlegesohle
 - Extraweite
+- herausnehmbare Einlegesohle
 - Anflechter-Machart: Robuste, flexible Eigenschaft und ideale Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

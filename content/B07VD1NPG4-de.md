@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Laufsohle aus EVA
-- Lightweight
-- OrthoLite Fußbett
-- Aus Nubukleder mit Futter aus Leder und recyceltem Polyester
 - Durability
+- Aus Nubukleder mit Futter aus Leder und recyceltem Polyester
+- OrthoLite Fußbett
+- Lightweight
+- Laufsohle aus EVA
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07VD1NPG4{{</world>}}

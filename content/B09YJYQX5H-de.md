@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Logo-Stickerei
+- Verpackung: Box
 - Rundhalsausschnitt
 - Regular Fit
-- Verpackung: Box
+- Logo-Stickerei
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09YJYQX5H{{</world>}}

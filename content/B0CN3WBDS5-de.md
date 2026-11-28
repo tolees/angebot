@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Lieferumfang: 1x Columbia Softshell-Jacke für Herren, Cascade Ridge II, Farbe: Schwarz, Größe: L, Art. 2090412
 - Ideal für regnerisches Wetter dank wasserabweisendem Stoff
 - Brust- und Seitentaschen mit Reißverschluss zum sicheren Aufbewahren von Gegenständen
 - Vielseitig und für alle Jahreszeiten geeignet dank abnehmbarer, verstellbarer Sturmkapuze
 - Verstellbare Bündchen und verstellbarer Kordelzug am Saum
-- Lieferumfang: 1x Columbia Softshell-Jacke für Herren, Cascade Ridge II, Farbe: Schwarz, Größe: L, Art. 2090412
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CN3WBDS5{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Pferd und Fohlen mit Pferdeanhänger 42695 | Spielzeug ab 7 Jahren Mädchen & Jungen Spielset mit Pflegezubehör 4 Tierfiguren Auto & 2 Minipuppen Geschenk 279 Teile'
-date: 2026-10-31 19:29:59
+date: 2026-11-28 11:07:29
 image: 'https://m.media-amazon.com/images/I/51axE9ryIAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXCTVTW/?tag=tolees0ca-21'
 descuento: '33.38'
-average: '19.3039999999999'
+average: '19.034666666666574'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

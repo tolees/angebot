@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3in1 Deko-Klavier mit Katze 31392 | Spielzeug ab 9 Jahren Mädchen & Jungen Retro Modellbau mit 3 Bauoptionen: Radio oder Plattenspieler Geschenk 485 Teile'
-date: 2026-11-26 23:12:19
+date: 2026-11-28 00:13:00
 image: 'https://m.media-amazon.com/images/I/51WMFOTN1bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

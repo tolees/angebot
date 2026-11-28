@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wind- und wasserdicht durch verschweißte Nähte
 - Abnehmbare Kapuze an der Regenjacke
 - Mit Fleece warm gefüttert
+- Wind- und wasserdicht durch verschweißte Nähte
 - Regenjacke mit Reißverschluß und zusätzlicher Knopfleiste
 
 [🛒 Hier!!]({{< param buyurl >}})

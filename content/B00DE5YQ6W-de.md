@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- UNWIDERSTEHLICH: Coppenrath Zuckerfrei Wiener Sandringe sind goldgelbe Spritzgebäckringe mit einer mürben, feinsandigen Krume
 - EINE SUPER KOMBINATION: Passt hervorragend zu Kaffee und Tee
+- UNWIDERSTEHLICH: Coppenrath Zuckerfrei Wiener Sandringe sind goldgelbe Spritzgebäckringe mit einer mürben, feinsandigen Krume
 - ZUCKERFREI: Auch ohne Zucker immer ein Genuss
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

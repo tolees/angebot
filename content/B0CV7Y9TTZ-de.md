@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 3,5–13 kg, ab 53 cm
+- Verstellbare Einstellungen
 - 0–2 Jahre
 - Ergonomisches Design
-- Verstellbare Einstellungen
-- 3,5–13 kg, ab 53 cm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CV7Y9TTZ{{</world>}}

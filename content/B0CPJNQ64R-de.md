@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bauschiger Mantel
-- Innenbündchen
-- 2 Vordertaschen und 1 Innentasche
 - Einstellbarer Saum
 - 2-Wege-Reißverschluss
+- Innenbündchen
+- 2 Vordertaschen und 1 Innentasche
+- Bauschiger Mantel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CPJNQ64R{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Icons Bürgermeistervilla 11383 | Bausatz für Erwachsene 3D Modell mit gotischer Einrichtung & 3 Minifiguren gruselige Deko Geschenk 1420 Teile'
-date: 2026-11-26 11:53:10
+date: 2026-11-27 23:31:19
 image: 'https://m.media-amazon.com/images/I/51cT8Zo7J4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MZ9FW54/?tag=tolees0ca-21'
 descuento: '36.37'
-average: '83.536000000000016'
+average: '81.278333333333336'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

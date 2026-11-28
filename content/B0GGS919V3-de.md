@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Olivia Rodrigos Geheimer Koffer 43030 | Spielzeug ab 10 Jahren Mädchen & Jungen Koffer Mikrofon Schallplatte Megafon Fernseher Minifigur Geschenk 1085 Teile'
-date: 2026-11-27 00:33:03
+date: 2026-11-28 11:07:10
 image: 'https://m.media-amazon.com/images/I/41MQFGldthL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0GGS919V3/?tag=tolees0ca-21'
 descuento: '37.50'
-average: '52.094827586206975'
+average: '52.024666666666739'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

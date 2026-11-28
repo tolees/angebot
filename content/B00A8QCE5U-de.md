@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - für Innen-TORX-Schrauben
-- Verhindert vorzeitigen Bruch der abtriebsspitze
-- Zähhart, für den universellen Einsatz
 - 1/4" Sechskant, passend für Halter nach DIN ISO 1173-f 6, 3
+- Zähhart, für den universellen Einsatz
+- Verhindert vorzeitigen Bruch der abtriebsspitze
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00A8QCE5U{{</world>}}

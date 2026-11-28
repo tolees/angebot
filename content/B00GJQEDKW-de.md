@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Luxuriöse Präsentation: Erhältlich in einer eleganten Geschenkpackung, ideal für besondere Anlässe.
+- Premium Rebsorten: Besteht aus Cabernet Sauvignon, Merlot, Cabernet Franc und Petit Verdot.
 - Eligo dellOrnellaia Grappa Riserva: Hergestellt aus dem Traubentrester des renommierten Ornellaia-Weins.
 - Handwerkskunst: Mit seinen weichen Aromen, seiner seidigen Textur und der wunderschönen goldenen Farbe ist dieser Grappa ein Symbol für edlen Stil und einzigartige Herkunft.
-- Premium Rebsorten: Besteht aus Cabernet Sauvignon, Merlot, Cabernet Franc und Petit Verdot.
 - Herausragende Reifung: Mindestens drei Jahre in ausgewählten Ornellaia-Fässern gereift – doppelt so lange wie vorgeschrieben, und die anschließende Vermählung mit älteren Beständen verleihen diesem Grappa zusätzliche Tiefe und Charakter.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

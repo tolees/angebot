@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Synthetic Leather
 - Schnürschuh aus synthetischem Durabuck-Obermaterial mit goldenen Akzenten
-- Keilform mit 2,5 cm Höhe
 - Flexible Traktions-Laufsohle
+- Keilform mit 2,5 cm Höhe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09PZ8PW6V{{</world>}}

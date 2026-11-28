@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Disney Princess Vaianas Hütte und Boot 43282 | Spielzeug ab 4 Jahren für Jungen und Mädchen Lernspielzeug mit 2 Mini Puppen & Pua Tierfigur Geburtstagsgeschenk 85 Teile'
-date: 2026-11-26 23:02:40
+date: 2026-11-28 00:02:03
 image: 'https://m.media-amazon.com/images/I/512mVUgOs3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXH1Y8Z/?tag=tolees0ca-21'
 descuento: '40.02'
-average: '12.168571428571408'
+average: '12.162413793103429'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

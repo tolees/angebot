@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Regulär geschnitten
 - Besteht zu mindestens 70 % aus recycelten und erneuerbaren Materialien
 - 100 % Polyester (recycelt)
+- Regulär geschnitten
 - Durchgehender Reißverschluss
 - CLIMACOOL
 

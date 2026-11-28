@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lichtechte, wassfeste Ölpastellkreiden, anlösbar mit Terpentin
-- Mit Papiermanschette für saubere Hände
 - Die weiche, samtige Textur lässt sich leicht mit dem Finger auftragen und verblenden
 - Feine Ölpastellkreiden in 38 brillanten Farben, 6 Metallic-Farben und 6 Neon-Farben
+- Mit Papiermanschette für saubere Hände
 - Für Mischtechniken, zum Schattieren und Kolorieren
+- Lichtechte, wassfeste Ölpastellkreiden, anlösbar mit Terpentin
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DBQG18M7{{</world>}}

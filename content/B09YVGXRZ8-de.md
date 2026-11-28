@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Langanhaltende Wirkung
+- Pflegt und schützt die Haut
 - Einfache Anwendung
 - Dermatologisch getestet
-- Pflegt und schützt die Haut
-- Langanhaltende Wirkung
 - Conditioner
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

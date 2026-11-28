@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zur stabilen und sicheren Befestigung von Ampelschirmen
-- Passend für die Schneider-Schirme: Monaco 300 x 300 cm, Barbados, Bermuda, Rhodos Junior-Serie, Rhodos Twist-Serie, Rhodos, Rhodos Blacklight, Rhodos Rondo und Rhodos Smart
 - Gesamthöhe ca. 55 cm
-- Montageplatte ca. 16 x 16 cm
 - Universal-Bodendübel zum Eindrehen
+- Zur stabilen und sicheren Befestigung von Ampelschirmen
+- Montageplatte ca. 16 x 16 cm
+- Passend für die Schneider-Schirme: Monaco 300 x 300 cm, Barbados, Bermuda, Rhodos Junior-Serie, Rhodos Twist-Serie, Rhodos, Rhodos Blacklight, Rhodos Rondo und Rhodos Smart
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B082FKLNWM{{</world>}}

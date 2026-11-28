@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LIGHTMOTION Dämpfung
-- Textilfutter
 - Obermaterial aus Mesh mit Materialmix
+- LIGHTMOTION Dämpfung
 - Reguläre Passform
+- Textilfutter
 - Schnürsenkel; gewebte Details
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

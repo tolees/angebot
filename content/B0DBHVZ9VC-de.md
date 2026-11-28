@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Referenz: S9198148
-- Farbe: mehrfarbig
-- Smartphone der Marke. Xiaomi
 - Maße: 18 x 4 x 8,5 cm
+- Smartphone der Marke. Xiaomi
+- Farbe: mehrfarbig
 - Wenn Sie Qualität zum besten Preis wollen, suchen Sie nicht weiter
 
 [🛒 Hier!!]({{< param buyurl >}})

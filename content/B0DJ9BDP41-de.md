@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SoftFoam+ Innensohle
 - Niedriger Schaft
+- SoftFoam+ Innensohle
 - PUMA Branding-Details
 
 [🛒 Hier!!]({{< param buyurl >}})

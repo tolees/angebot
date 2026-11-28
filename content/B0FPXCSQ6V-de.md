@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago 15-jähriges Jubiläum: Vier-Waffen-Schmiede 71858 | Spielzeug ab 14 Jahren für Jugendliche Ninja Haus Spielzeug mit sammelbarer Minifigur und Sammelkarten Geschenk 1259 Teile'
-date: 2026-11-26 15:14:01
+date: 2026-11-28 11:07:22
 image: 'https://m.media-amazon.com/images/I/51tvmQkODNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXCSQ6V/?tag=tolees0ca-21'
 descuento: '38.00'
-average: '67.309411764705956'
+average: '67.013888888888957'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

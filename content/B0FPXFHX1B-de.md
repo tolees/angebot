@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DC Batman vs. Superman: Batmobil 76331 | Spielzeug ab 9 Jahren Jungen & Mädchen Superhelden Modellbau mit Minifigur goldene Münze Modellauto Geschenk 220 Teile'
-date: 2026-11-26 12:06:09
+date: 2026-11-28 00:11:17
 image: 'https://m.media-amazon.com/images/I/51vtYRSOhNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFHX1B/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '20.659444444444279'
+average: '20.624210526315633'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

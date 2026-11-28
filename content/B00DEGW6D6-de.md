@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FlankTraction-Profil
-- 6-kant
-- matt satiniert
 - Chrom Vanadium
+- 6-kant
 - in stabilem Kunststoffkoffer
+- matt satiniert
+- FlankTraction-Profil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00DEGW6D6{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Osprey wurde 5,014.0 cm Kalifornien am Sitz einer einzigen Nähmaschine geboren, mit einem Kopf voller Ideen und dem Wunsch, innovative Rucksäcke in höchster Qualität zu entwerfen und zu bauen
 - Großartiges Design
+- Osprey wurde 5,014.0 cm Kalifornien am Sitz einer einzigen Nähmaschine geboren, mit einem Kopf voller Ideen und dem Wunsch, innovative Rucksäcke in höchster Qualität zu entwerfen und zu bauen
 - Hochwertige Produkte
 
 [🛒 Hier!!]({{< param buyurl >}})

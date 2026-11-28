@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Liquid Lash Formel umhüllt und verdichtet die Wimpern bis in die Spitzen - ohne verklumpen
-- Ultimativer Falsche-Wimpern-Effekt
 - Aufgefächerte Wimpern für einen ausdrucksstarken Augenaufschlag
+- Ultimativer Falsche-Wimpern-Effekt
+- Liquid Lash Formel umhüllt und verdichtet die Wimpern bis in die Spitzen - ohne verklumpen
 - Maximale Länge und Volumen
 - Wow-Effekt: Rabenschwarze Farbpigmente heben die Augen optisch hervor
 

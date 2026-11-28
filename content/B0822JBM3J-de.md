@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stylisch, kompaktes Design
 - Alle Aculon T02 sind absolut frei von Blei und Arsen (ECO Glas)
 - Geringes Gewicht und einfach zu bedienen
-- Mehrschichtenvergütung für hellere Bilder
+- Stylisch, kompaktes Design
 - Nikon Optik
+- Mehrschichtenvergütung für hellere Bilder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0822JBM3J{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UGREEN Zapix 10000mAh 7.5W Powerbank Magsafe mit USB-C 20W | Hautfreundlich und Handlich Starke Magnetkraft für iPhone 18-12 Ideal für Reisen den Weg zur Arbeit und Notfälle'
-date: 2026-11-22 17:03:41
+date: 2026-11-28 01:02:09
 image: 'https://m.media-amazon.com/images/I/31HoegGZwZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0CH33F5P2/?tag=tolees0ca-21'
 descuento: '22.82'
-average: '24.986333333333402'
+average: '24.976774193548454'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Optimale Flexibilität
-- Leichter Einstieg für einmaligen Tragekomfort
-- Antibakterielle Innensohle
-- Die patentierten Geox-Systeme garantieren die Atmungsaktivität der Sohle und sorgen für Wohlbefinden des Fußes
-- Innensohle aus chromfreiem, ungiftigem Leder
 - Leichter Einstieg und verstellbare Passform mit Reißverschluss und Schnürsenkeln
+- Antibakterielle Innensohle
+- Leichter Einstieg für einmaligen Tragekomfort
+- Optimale Flexibilität
+- Die patentierten Geox-Systeme garantieren die Atmungsaktivität der Sohle und sorgen für Wohlbefinden des Fußes
 - Herausnehmbare Innensohle
+- Innensohle aus chromfreiem, ungiftigem Leder
 - Schuh mit abriebfester Sohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

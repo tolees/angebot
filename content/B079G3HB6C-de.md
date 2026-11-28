@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Außensohle/Eigenschaften: EVA für leichtes Gewicht
 - XL EXTRALIGHT für Leichtigkeit und Stoßdämpfung
+- Obermaterial: Leder (Kalbsleder)
 - Farbe: Schwarz
 - Innensohle: OrthoLite für Dämpfung
-- Obermaterial: Leder (Kalbsleder)
+- Außensohle/Eigenschaften: EVA für leichtes Gewicht
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B079G3HB6C{{</world>}}

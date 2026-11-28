@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- TRUEFORCE:la technologie TRUEFORCE nouvelle génération se connecte aux moteurs du jeu pour un retour dinformation HD; vivez une expérience de conduite ultime avec un traitement à 4 000 fois par sec
+- TRUEFORCE: la technologie TRUEFORCE nouvelle génération se connecte aux moteurs du jeu pour un retour dinformation HD; vivez une expérience de conduite ultime avec un traitement à 4 000 fois par sec
 - Les pièces en plastique du volant G923 contiennent 53% de plastique post-consommation
 - Contrôlez votre jeu: témoin lumineux intégré pour le régime; commandes de jeu intégrées Xbox Series XS, Xbox One ou PC, sélecteur à 24 points et ressort de freinage progressif
-- TRUEFORCE: la technologie TRUEFORCE nouvelle génération se connecte aux moteurs du jeu pour un retour dinformation HD; vivez une expérience de conduite ultime avec un traitement à 4 000 fois par sec
 - Compatibilité jeux de course: G923 pour Xbox compatible avec la plupart des jeux de course Xbox Series X|S, Xbox One et PC sélectionnés pour TRUEFORCE; téléchargez Logitech G HUB
 - Double embrayage programmable: un meilleur démarrage avec un double embrayage programmable comme une véritable voiture de course directement à partir de la manette (jeux compatibles uniquement)
-- TRUEFORCE:la technologie TRUEFORCE nouvelle génération se connecte aux moteurs du jeu pour un retour dinformation HD; vivez une expérience de conduite ultime avec un traitement à 4 000 fois par sec
 - Commandes de jeux sur le volant: ajustez la sensibilité du volant, les niveaux de retour de force et la conduite simulée avec le logiciel de jeu Logitech G Hub pour personnaliser les boutons
 
 [🛒 Hier!!]({{< param buyurl >}})

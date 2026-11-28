@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Multi-Device, Multi OS Bluetooth-Tastatur
-- Sich wiederholende Aufgaben automatisieren
 - Mehr Komfort, tieferer Fokus
+- Sich wiederholende Aufgaben automatisieren
 - Intelligentere Beleuchtung
+- Multi-Device, Multi OS Bluetooth-Tastatur
 - Flüssiges Tipperlebnis
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

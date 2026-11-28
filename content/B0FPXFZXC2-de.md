@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Porsche 911 GT3 R REXY AO Racing Rennwagen 42224 | Spielzeug ab 11 Jahren Jungen & Mädchen Modellauto zum Sammeln und Ausstellen Rennwagen Geschenk für Autofans 1313 Teile'
-date: 2026-11-26 12:15:49
+date: 2026-11-28 00:12:05
 image: 'https://m.media-amazon.com/images/I/51DpnUt1fwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFZXC2/?tag=tolees0ca-21'
 descuento: '39.29'
-average: '96.4804166666665'
+average: '96.020799999999838'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

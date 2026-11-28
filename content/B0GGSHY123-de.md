@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Aston Martin Aramco AMR25 F1 Auto 42240 | Bausatz für Erwachsene Formel 1 Rennauto mit V6-Motor Differential & DRS-Aktivierung Motorsport Geschenk 1547 Teile'
-date: 2026-11-26 12:14:56
+date: 2026-11-28 00:07:34
 image: 'https://m.media-amazon.com/images/I/41I9uVbvu-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0GGSHY123/?tag=tolees0ca-21'
 descuento: '34.78'
-average: '161.29000000000002'
+average: '158.465'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Erhältlich von Größe D30mm bis D140mm (für SIMPLEX-Spaltaxt D50mm und SIMPLEX-Spalthammer D60mm verwendbar)
 - Mittelhart
 - Sehr widerstandsfähig
 - Weiß
 - SIMPLEX–Schlageinsatz Superplastik
-- Erhältlich von Größe D30mm bis D140mm (für SIMPLEX-Spaltaxt D50mm und SIMPLEX-Spalthammer D60mm verwendbar)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B000VD1VMC{{</world>}}

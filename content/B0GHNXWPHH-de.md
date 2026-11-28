@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sekey Mini Tomatengewächshaus 3 Etagen Gewächshaus klein Balkon | Foliengewächshaus winterfest - für Indoor & Outdoor Tomatenhaus mit herausnehmbaren Ebenen für flexible Pflanzhöhe'
-date: 2026-10-30 09:08:51
+date: 2026-11-27 17:14:10
 image: 'https://m.media-amazon.com/images/I/51cOlx6wsUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0GHNXWPHH-de Sekey Mini Tomatengewächshaus 3 Etagen Gewächshaus klein...'
 sku: 'B0GHNXWPHH-de'
 tags: [ '🇩🇪', ]
-actualPrice: 16.99 EUR
+actualPrice: 19.99 EUR
 currency: EUR
-price: 16.99
+price: 19.99
 comparePrice: 29.99 EUR
 prodname: 'Sekey Mini Tomatengewächshaus 3 Etagen Gewächshaus klein Balkon | Foliengewächshaus winterfest - für Indoor & Outdoor Tomatenhaus mit herausnehmbaren Ebenen für flexible Pflanzhöhe'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0GHNXWPHH/?tag=tolees0ca-21'
-descuento: '43.35'
-average: '18.49'
+descuento: '33.34'
+average: '18.99'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verwendbar mit jedem smarten Ladegerät oder universellen NiMH-Ladegeräten, in die C-Batterien passen
-- 4er-Packung mit wiederaufladbaren C-Zellen. 5.000 mAh/NiMH
-- Eine sparsame und praktische Lösung für den Betrieb von Geräten mit hohem Verbrauch
-- Ladegerät nicht im Lieferumfang enthalten
-- Die Batterien werden geladen geliefert und können sofort verwendet werden
 - Kompatibel mit jedem Gerät, das mit gewöhnlichen C-Batterien funktioniert
+- 4er-Packung mit wiederaufladbaren C-Zellen. 5.000 mAh/NiMH
+- Ladegerät nicht im Lieferumfang enthalten
+- Verwendbar mit jedem smarten Ladegerät oder universellen NiMH-Ladegeräten, in die C-Batterien passen
+- Die Batterien werden geladen geliefert und können sofort verwendet werden
+- Eine sparsame und praktische Lösung für den Betrieb von Geräten mit hohem Verbrauch
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07PHCVSSS{{</world>}}

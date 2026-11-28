@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LEONINE Distribution
 - PHYSICAL_MOVIE
+- LEONINE Distribution
 - Dream Scenario UHD Mediabook
 
 [🛒 Hier!!]({{< param buyurl >}})

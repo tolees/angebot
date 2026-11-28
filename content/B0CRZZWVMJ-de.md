@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hoher Kragen, Rippdesign innen
-- Eingrifftaschen mit Gewebeband, Druckknopfverschluss
-- Innentasche und Hängeschlaufe
 - Reißverschluss
+- Eingrifftaschen mit Gewebeband, Druckknopfverschluss
+- Hoher Kragen, Rippdesign innen
+- Innentasche und Hängeschlaufe
 - Elastisches Design an Ärmelenden und Saum
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

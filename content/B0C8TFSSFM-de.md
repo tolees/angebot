@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schaumstoff-Zwischensohle
 - Gummispitze
 - Elastische Schnürsenkel
+- Schaumstoff-Zwischensohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C8TFSSFM{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einzelreißband und elastischer Schnürverschluss
 - Herausnehmbare Innensohle
+- Einzelreißband und elastischer Schnürverschluss
 - Breathable
 - Verstärkte Zehenpartie
 

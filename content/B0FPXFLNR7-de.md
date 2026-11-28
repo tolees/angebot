@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Schaukelnde Pflanzen 11506 | Spielzeug ab 9 Jahren Mädchen & Jungen 2 Kunstpflanzen 2 pastell-Blumentöpfe Set mit Kunstblumen Geschenk 253 Teile'
-date: 2026-11-26 23:08:04
+date: 2026-11-28 00:11:28
 image: 'https://m.media-amazon.com/images/I/41m5cCo2tvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFLNR7/?tag=tolees0ca-21'
 descuento: '33.52'
-average: '14.32000000000003'
+average: '14.259411764705909'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

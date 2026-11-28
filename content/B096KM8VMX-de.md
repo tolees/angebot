@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Skech-Air Sichtbare, luftgepolsterte Zwischensohle
 - Flexible Gummi-Außensohle
 - Skechers Luftgekühlte Memory Foam Komfort-Einlegesohle
+- Skech-Air Sichtbare, luftgepolsterte Zwischensohle
 - Absatz: 3,8 cm
 - Synthetisches Durabuck-Obermaterial mit metallischem Rand und elastischen Schnürsenkeln
 

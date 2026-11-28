@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geschmack: Beerig
 - Genießen Sie diesen ausgewogenen, fruchtigen Rosé gut gekühlt zu Spargel, leichten Salaten und zu kalten Platten
-- Dieser elegante Rosé mit Finesse wird aus der roten Sangiovese Traube gekeltert
+- Geschmack: Beerig
 - Anklänge von fruchtigen Waldbeeren bestimmen sein Bukett
+- Dieser elegante Rosé mit Finesse wird aus der roten Sangiovese Traube gekeltert
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BVDDS1ZB{{</world>}}

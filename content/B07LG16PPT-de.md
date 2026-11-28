@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Synthetic
 - Verschluss: Slip-on
 - Innenmaterial: Synthetic
+- Sohle: Synthetic
 - Obermaterial: Smooth Leather
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Zombieverlies 21587 | Spielzeug ab 8 Jahren Jungen & Mädchen Spielset mit 3 Zombies Krieger & Videospielzubehör Gaming-Geschenk 284 Teile'
-date: 2026-11-26 23:07:00
+date: 2026-11-28 00:08:49
 image: 'https://m.media-amazon.com/images/I/41oTNU2BK6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXF8L43/?tag=tolees0ca-21'
 descuento: '40.01'
-average: '18.578009478673426'
+average: '18.572488262911232'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

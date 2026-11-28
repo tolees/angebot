@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Eingesetzte Taschen
 - Hosenschlitz mit Reißverschluss
 - Einen originellen Look
-- Eingesetzte Taschen
 - Eine bequeme Passform
 - Bietet Tragekomfort
 

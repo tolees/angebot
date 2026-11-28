@@ -28,16 +28,16 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 28.5 centimeters
-- Innenmaterial: Canvas
+- not_water_resistant
+- Absatzform: Flat
 - 13 centimeters
+- Obermaterial: Smooth Leather
 - Sohle: Synthetic
 - Verschluss: Lace-up
-- Absatzform: Flat
-- Fit: Bedenken Sie, dass Geox-Schuhe eine bequeme Passform haben, daher empfehlen wir, eine halbe Größe zu wählen
-- Obermaterial: Smooth Leather
+- Innenmaterial: Canvas
 - Absatzhöhe: 3.5 centimeters
-- not_water_resistant
+- Fit: Bedenken Sie, dass Geox-Schuhe eine bequeme Passform haben, daher empfehlen wir, eine halbe Größe zu wählen
+- 28.5 centimeters
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07MSKLGXD{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mine nach Gebrauch zum Schutz einschiebbar
-- Kein Spitzen erforderlich
 - Wasserlöslich
 - Druckstift mit bequemer Einhandbedienung
+- Kein Spitzen erforderlich
+- Mine nach Gebrauch zum Schutz einschiebbar
 - Nachfüllbar
 
 [🛒 Hier!!]({{< param buyurl >}})

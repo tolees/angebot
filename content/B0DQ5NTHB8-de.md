@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- IP65-Wetterschutz: Schutz vor Wasserstrahlen und Staub, ideal für den Außeneinsatz.
-- 360° Rundumschutz: Bietet 360°-horizontalen und 130°-vertikalen Sichtbereich und beseitigt so alle toten Winkel.
-- Farbige Nachtsicht: Zeichnet lebendige Farben bis zu 30 Meter Entfernung bei Nacht auf.
-- 2K-Auflösung: Schärfere Bilder in 2K-Qualität übertreffen herkömmliches 1080p.
 - Personenerkennung: Intelligente KI erkennt Personen präzise und sendet sofort Benachrichtigungen über die Tapo-App.
+- 360° Rundumschutz: Bietet 360°-horizontalen und 130°-vertikalen Sichtbereich und beseitigt so alle toten Winkel.
+- 2K-Auflösung: Schärfere Bilder in 2K-Qualität übertreffen herkömmliches 1080p.
+- Farbige Nachtsicht: Zeichnet lebendige Farben bis zu 30 Meter Entfernung bei Nacht auf.
+- IP65-Wetterschutz: Schutz vor Wasserstrahlen und Staub, ideal für den Außeneinsatz.
 - Speicherung lokal und in der Cloud: Speichern Sie wichtige Momente auf einer microSD-Karte (bis zu 512 GB) oder nutzen Sie Tapo Care für Cloud-Dienste. Die Cloud-Speicherdienste von Tapo Care erfordern ein Abonnement. Ein kostenloser Testmonat wird angeboten.
 - Ton- und Lichtalarm: Aktivierbarer Sirenen- und Lichtalarm schreckt unerwünschte Eindringlinge ab.
 

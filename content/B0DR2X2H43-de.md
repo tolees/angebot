@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Dunkelgrün
 - Obbermaterial: 100% Rindsleder
 - Laufsohle: 100% vulkanisiertes Gummi
+- Farbe: Dunkelgrün
 - Futter: 56% Polyamid 38% Recyceltes Polyester 6% Rindsleder
 
 [🛒 Hier!!]({{< param buyurl >}})

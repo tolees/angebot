@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Hyaluron für langanhaltende Feuchtigkeit
-- Zum, Reinigen, Desinfizieren & Aufbewahren
 - Mit Hyaluron für lang anhaltende Feuchtigkeit
-- Desinfektion
-- Super qualität
 - Für weiche Kontaktlinsen
 - Reinigen und aufbewahren
+- Super qualität
+- Mit Hyaluron für langanhaltende Feuchtigkeit
+- Desinfektion
+- Zum, Reinigen, Desinfizieren & Aufbewahren
 - Für weiche Kontaktlinsen
 
 [🛒 Hier!!]({{< param buyurl >}})

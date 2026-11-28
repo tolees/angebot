@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wasserbeständigkeitsgrad : Nicht wasserfest
 - Schuhweite : Medium
+- Wasserbeständigkeitsgrad : Nicht wasserfest
 - Absatzform : Flach
 
 [🛒 Hier!!]({{< param buyurl >}})

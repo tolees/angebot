@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Fortnite Vorratslieferung 77080 | Spielzeug ab 10 Jahren Jungen & Mädchen Minifiguren Leviathan Lebkuchenkanonier & mehr Zubehör Geschenk 314 Teile'
-date: 2026-11-26 23:08:45
+date: 2026-11-28 00:08:38
 image: 'https://m.media-amazon.com/images/I/51npO6q-M3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXF3G9L/?tag=tolees0ca-21'
 descuento: '33.26'
-average: '25.566874999999996'
+average: '25.632941176470585'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

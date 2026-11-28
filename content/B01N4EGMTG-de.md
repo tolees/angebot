@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die Foundation ist für alle Hauttypen geeignet und hält bis zu 16 Stunden
-- Die Formel basiert auf einem Mix aus Vitamin C und Vitamin E für eine anti-oxidierende Wirkung und Vitamin B5, das die Haut auffüllt
-- 24 Stunden Feuchtigkeit
 - Eine flüssige Bourjois Foundation mit mittlerer Deckkraft, die für ein natürliches und strahlendes Finish sorgt
+- 24 Stunden Feuchtigkeit
 - Für alle Hauttypen geeignet, besonders für trockene Haut
+- Die Formel basiert auf einem Mix aus Vitamin C und Vitamin E für eine anti-oxidierende Wirkung und Vitamin B5, das die Haut auffüllt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01N4EGMTG{{</world>}}

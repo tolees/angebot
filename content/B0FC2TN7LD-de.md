@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Strategische, rundenbasierte Kämpfe
 - Abenteuer zwischen Raum und Zeit
+- Strategische, rundenbasierte Kämpfe
 - Eine epische Geschichte über Verbindungen
 
 [🛒 Hier!!]({{< param buyurl >}})

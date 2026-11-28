@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Innenmaterial: Leather
-- Obermaterial: Smooth Leather
 - Sohle: Rubber
+- Obermaterial: Smooth Leather
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01GWX27OK{{</world>}}

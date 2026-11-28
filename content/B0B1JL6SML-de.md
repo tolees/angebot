@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bewegliche Kappe zum Schutz des USB-Anschlusses
 - Mehrere Farboptionen nach Speicherkapazität
+- Bewegliche Kappe zum Schutz des USB-Anschlusses
 - Öse zum leichten Anhängen am Schlüsselbund
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

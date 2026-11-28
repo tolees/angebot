@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Textilfutter
 - Reguläre Passform
-- Dämpfende Zwischensohle
+- Textilfutter
 - Obermaterial aus beschichtetem Leder
+- Dämpfende Zwischensohle
 - Schnürsenkel
 
 [🛒 Hier!!]({{< param buyurl >}})

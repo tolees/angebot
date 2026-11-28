@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Warmer Parka mit abnehmbarer Kapuze, Logo-Badge am oberen Ärmel und Rippbündchen an den Ärmelabschlüssen. Zahlreiche Taschen auf der Vorderseite sowie eine zusätzliche Innentasche eignen sich ideal zum Verstauen von Portemonnaie, Schlüssel oder Handy.
 - Passform: Regular Fit, Rückenlänge bei Größe M ca. 85 cm;
-- Nicht auf Verzierung bügeln | Bei Lufttrocknen Kleidungsstück mehrmals wenden und aufschütteln | Bügeln bei niedriger Temperatur | Nicht chemisch reinigen | Alle Verschlüsse vor dem Waschen schließen | Nicht bleichen | 30°C Buntwäsche | Mit Tennisbällen im Trockner trocknen | Von links waschen | Keinen Weichspüler verwenden | Mit ähnlichen Farben waschen | Mildes Trocknen
-- Stehkragen mit Kapuze | Langarm
 - Aus einem robusten Polyester-Twill – widerstandsfähig, wasserabweisend und angenehm zu tragen, ideal für Herbst und Winter;
+- Stehkragen mit Kapuze | Langarm
+- Nicht auf Verzierung bügeln | Bei Lufttrocknen Kleidungsstück mehrmals wenden und aufschütteln | Bügeln bei niedriger Temperatur | Nicht chemisch reinigen | Alle Verschlüsse vor dem Waschen schließen | Nicht bleichen | 30°C Buntwäsche | Mit Tennisbällen im Trockner trocknen | Von links waschen | Keinen Weichspüler verwenden | Mit ähnlichen Farben waschen | Mildes Trocknen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DSQ9YXZ1{{</world>}}

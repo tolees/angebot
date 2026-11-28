@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Fortnite Durrr Burger Restaurant 77076 | Spielzeug ab 10 Jahren Jungen & Mädchen mit den Minifiguren Strandbomber Beefboss Schmierfink Gamer Geschenk 546 Teile'
-date: 2026-11-26 10:16:56
+date: 2026-11-27 23:31:33
 image: 'https://m.media-amazon.com/images/I/51GtizeRo7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0DWDY53FC/?tag=tolees0ca-21'
 descuento: '50.01'
-average: '36.14757575757568'
+average: '35.966470588235218'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

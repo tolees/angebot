@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für echte Kaffeegourmets: Der Barista TS Vollautomat bietet neben 21 Kaffeevariationen nach Original italienischem Vorbild auch individuelle Voreinstellungen für 8 Nutzer
-- Maximaler Genuss: Kaffeestärke und Mahlgrad lassen sich 5-stufig einstellen und dank „Double Cup“-Funktion kann der Kaffeeautomat zwei Getränke gleichzeitig zubereiten
-- Melitta ConnectApp: Neben dem Touch-Display kannst Du Deinen Melitta Kaffeevollautomat auch mit unserer App bedienen. Speichere Dein Genussprofil oder kreiere mit dem FreeStyle-Modus eigene Rezepte
 - All-In-One-Auslauf: Mit separaten Düsen im höhenverstellbarem Auslauf bietet die Melitta Kaffeemaschine neben Kaffee auch Milch und Heißwasser für Kakao oder Tee
+- Für echte Kaffeegourmets: Der Barista TS Vollautomat bietet neben 21 Kaffeevariationen nach Original italienischem Vorbild auch individuelle Voreinstellungen für 8 Nutzer
+- Melitta ConnectApp: Neben dem Touch-Display kannst Du Deinen Melitta Kaffeevollautomat auch mit unserer App bedienen. Speichere Dein Genussprofil oder kreiere mit dem FreeStyle-Modus eigene Rezepte
+- Maximaler Genuss: Kaffeestärke und Mahlgrad lassen sich 5-stufig einstellen und dank „Double Cup“-Funktion kann der Kaffeeautomat zwei Getränke gleichzeitig zubereiten
 - Zwei-Kammern-Bohnenbehälter: „Automatic Bean Select“ wählt automatisch die gewünschte Sorte Kaffeebohnen und der integrierte Pulverschacht eignet sich für gemahlenen Kaffee
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ideas Peanuts: Snoopys Hundehütte 21368 | Bausatz für Erwachsene Snoopy & Woodstock Figuren Modellbau DIY Deko für Schreibtisch oder Regal Geschenk 964 Teile'
-date: 2026-11-26 23:07:56
+date: 2026-11-28 00:07:57
 image: 'https://m.media-amazon.com/images/I/41q+rnigSBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDDTDB/?tag=tolees0ca-21'
 descuento: '37.50'
-average: '53.931860465116394'
+average: '53.842272727272842'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

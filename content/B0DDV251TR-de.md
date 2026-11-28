@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Feuchtigkeitspflegeformel: schützt die Haut vor übermäßiger Trockenheit, hinterlässt ein gepflegtes und weiches Gefühl der Hände
-- Ingwer & Zitrone - Sanft reinigende und feuchtigkeitsspendende Seife, mit Ingwer- und Zitronenextrakten
 - Dermatologisch getestet: für alle Hauttypen geeignet
 - 2 x 1000 ml Nachfüllpackungen: 70 % weniger Verpackung im Vergleich zu Flaschen
+- Feuchtigkeitspflegeformel: schützt die Haut vor übermäßiger Trockenheit, hinterlässt ein gepflegtes und weiches Gefühl der Hände
 - Anwendung: Auf nasse Hände geben, aufschäumen und gründlich ausspülen
+- Ingwer & Zitrone - Sanft reinigende und feuchtigkeitsspendende Seife, mit Ingwer- und Zitronenextrakten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DDV251TR{{</world>}}

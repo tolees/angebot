@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Moderne, internationale Rebsorte
 - Leicht zu öffnen und wiederverschließbar
+- Moderne, internationale Rebsorte
 - Wird in frustfreier Verpackung verschickt
 - Mit praktischem BVS Drehverschluss
 - In Deutschland angebaut

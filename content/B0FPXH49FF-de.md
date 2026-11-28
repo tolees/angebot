@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Marvel S.H.I.E.L.D.-Helicarrier 76354 | Bausatz für Erwachsene 6 Minifiguren inkl. Captain America & Nick Fury Flugzeugträger Modellbau Deko Geschenk 3057 Teile'
-date: 2026-11-26 23:02:53
+date: 2026-11-28 00:02:15
 image: 'https://m.media-amazon.com/images/I/4173QNblqzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXH49FF/?tag=tolees0ca-21'
 descuento: '37.84'
-average: '240.38184210526242'
+average: '240.1153846153839'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

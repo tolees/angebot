@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Reguläre Passform
-- Vulkanisierte Gummiaußensohle
-- Obermaterial aus Leder
 - Dämpfende Zwischensohle
+- Vulkanisierte Gummiaußensohle
 - Schnürsenkel
 - Textilfutter
+- Obermaterial aus Leder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C53WFTJC{{</world>}}

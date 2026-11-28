@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Hohes Quellvermögen
 - Eignet sich als Zutat für Plätzchen, Brot und Backwaren
+- Les informations ci-dessous sappliquent à chaque unité du pack
+- Die folgenden Informationen gelten für jede Einheit pro Packung
 - Basis für Müsli und Porridge
 - Vielseitig zu verwenden: in Müsli und Joghurt, als Zutat in herzhaften und süßen Backwaren
-- Hohes Quellvermögen
-- Die folgenden Informationen gelten für jede Einheit pro Packung
-- Les informations ci-dessous sappliquent à chaque unité du pack
 - Bioland-Qualität
 
 [🛒 Hier!!]({{< param buyurl >}})

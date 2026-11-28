@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 6 x 220g Packung
 - Mit diesem Reis kannst Du leckere und zugleich schnelle Mahlzeiten kreieren.
 - Bens Original Qualität: Genieße Basmati-Reis, den Duftenden aus Indien.
+- Lieferumfang: 6 x 220g Packung
 - Zubereitung: Bens Original Express Reis kann einfach und bequem in 2 Minuten in der Mikrowelle oder mit Wasser in 3 Minuten in der Pfanne erhitzt werden.
 - Express Reis entdecken: In vielen weiteren Sorten erhältlich - Ungewürzte Reissorten wie Original-Langkorn, Basmati & Jasmin oder gewürzte Reissorten wie Mediterran, Griechisch, Mexikanisch.
 

@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die Dri-FIT-Technologie sorgt für trockenen ablenkungsfreien Tragekomfort
-- department_name- Unisex Kinder
 - Die Paspelierung an der Schulter sorgt für einen klassischen Fußball-Look
+- department_name- Unisex Kinder
 - Der schmale Schnitt gewährleistet ein passgenaues Tragegefühl*
 
 [🛒 Hier!!]({{< param buyurl >}})
