@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'Weber Lumin Compact Tragbarer Kompakter Elektrogrill Bis zu 315 °C mit Deckelthermometer Porzellanemaillierte Gusseisenroste 43 x 32 cm Grillfläche Schwarz 1502044'
+date: 2026-11-24 15:02:11
+image: 'https://m.media-amazon.com/images/I/31B8kJnGFNL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FW5JLGMN-de Weber Lumin Compact Tragbarer Kompakter Elektrogrill Bis...'
+sku: 'B0FW5JLGMN-de'
+tags: [ '🇩🇪', ]
+actualPrice: 239.54 EUR
+currency: EUR
+price: 239.54
+comparePrice: 299.0 EUR
+prodname: 'Weber Lumin Compact Tragbarer Kompakter Elektrogrill Bis zu 315 °C mit Deckelthermometer Porzellanemaillierte Gusseisenroste 43 x 32 cm Grillfläche Schwarz 1502044'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B0FW5JLGMN/?tag=tolees0ca-21'
+descuento: '19.89'
+average: '271.254'
+---
+
+Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Hier!!]({{< param buyurl >}})
+{{<world>}}B0FW5JLGMN{{</world>}}
